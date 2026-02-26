@@ -19,16 +19,73 @@
     "availableTimeWeekday": "08:00-22:00",
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "投影/音響/燈光需另計",
-    "images": [
-      "https://www.ticc.com.tw/wSite/public/Attachment/f171030141726.jpg",
-      "https://www.ticc.com.tw/wSite/public/Attachment/f171030141726_2.jpg"
-    ],
+    "images": {
+      "main": "https://www.ticc.com.tw/wSite/public/Attachment/f171030141726.jpg",
+      "gallery": [
+        "https://www.ticc.com.tw/wSite/public/Attachment/f171030141726.jpg",
+        "https://www.ticc.com.tw/wSite/public/Attachment/f171030141726_2.jpg"
+      ],
+      "floorPlan": null
+    },
     "layoutImageUrl": null,
     "rentalTimeNote": "需詢價索取",
     "notes": "需提前一個月預約，適合國際會議/展演",
     "capacityCategory": "extra-large",
     "createdAt": "2026-02-26T00:00:00.000Z",
-    "url": "https://www.ticc.com"
+    "url": "https://www.ticc.com",
+    "transportation": {
+      "mrt": {
+        "station": "台北101/世貿站",
+        "line": "淡水信義線",
+        "exit": "出口 1",
+        "walkingMinutes": 5,
+        "instructions": "出站後右轉，步行約 5 分鐘"
+      },
+      "bus": [
+        {
+          "stop": "世貿中心站",
+          "routes": [
+            "1",
+            "284",
+            "611",
+            "647"
+          ],
+          "walkingMinutes": 2
+        }
+      ],
+      "parking": {
+        "name": "台北國際會議中心地下停車場",
+        "spaces": 200,
+        "hourlyRate": 60,
+        "dailyMax": 500,
+        "notes": "假日每小時 80 元"
+      }
+    },
+    "dimensions": {
+      "area": 450,
+      "unit": "坪",
+      "length": 25,
+      "width": 18,
+      "height": 4.5
+    },
+    "seatingArrangements": {
+      "theater": {
+        "capacity": 3000,
+        "description": "劇院型"
+      },
+      "classroom": {
+        "capacity": 1500,
+        "description": "會議型（課桌式）"
+      },
+      "horseshoe": {
+        "capacity": 500,
+        "description": "馬蹄型（U型）"
+      },
+      "banquet": {
+        "capacity": 800,
+        "description": "宴會型（圓桌）"
+      }
+    }
   },
   {
     "id": 2,
@@ -51,7 +108,8 @@
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "專業視聽設備",
     "images": [
-      "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/lp_VenueIntroduction.jsp&ctNode=321&CtUnit=98&BaseDSD=7&mp=1"
+      "https://www.oxfordsquarecapital.com/wp-content/uploads/2019/11/Oxford-Square-1.png",
+      "https://www.oxfordsquarecapital.com/wp-content/uploads/2019/08/oxford-square-banner.jpg"
     ],
     "layoutImageUrl": null,
     "rentalTimeNote": "無",
@@ -80,14 +138,61 @@
     "availableTimeWeekday": "08:00-22:00",
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "基本電費每度10元",
-    "images": [
-      "https://www.huashan1914.com/w/huashan1914/AppPlaceInfo?pid=17"
-    ],
+    "images": {
+      "main": "https://www.huashan1914.com/images/venue/east2a.jpg",
+      "gallery": [],
+      "floorPlan": null
+    },
     "layoutImageUrl": null,
     "rentalTimeNote": "需詢價索取",
     "notes": "夜間超時每小時10000元，適合展覽/記者會/表演",
     "capacityCategory": "medium",
-    "createdAt": "2026-02-26T00:00:00.000Z"
+    "createdAt": "2026-02-26T00:00:00.000Z",
+    "transportation": {
+      "mrt": {
+        "station": "忠孝新生站",
+        "line": "板南線/中和新蘆線",
+        "exit": "出口 1",
+        "walkingMinutes": 3,
+        "instructions": "出站後往八德路方向步行"
+      },
+      "bus": [
+        {
+          "stop": "華山文創園區站",
+          "routes": [
+            "205",
+            "212",
+            "232",
+            "257"
+          ],
+          "walkingMinutes": 2
+        }
+      ],
+      "parking": {
+        "name": "華山1914 停車場",
+        "spaces": 50,
+        "hourlyRate": 40,
+        "dailyMax": 300,
+        "notes": "周邊有收費停車格"
+      }
+    },
+    "dimensions": {
+      "area": 120,
+      "unit": "坪",
+      "length": 15,
+      "width": 10,
+      "height": 5
+    },
+    "seatingArrangements": {
+      "theater": {
+        "capacity": 300,
+        "description": "劇院型"
+      },
+      "banquet": {
+        "capacity": 150,
+        "description": "宴會型"
+      }
+    }
   },
   {
     "id": 4,
@@ -652,7 +757,10 @@
     "availableTimeWeekday": "09:00-22:00",
     "availableTimeWeekend": "09:00-22:00",
     "equipment": "專業影音設備、同步翻譯、燈光系統",
-    "images": [],
+    "images": [
+      "https://s.shangri-la.com/sl-fe-public/imgs/logo/header_logo_slc_en.png",
+      "https://s.shangri-la.com/sl-fe-public/sl_com_mp/images/home/best_rate_guarantee.png"
+    ],
     "layoutImageUrl": null,
     "rentalTimeNote": "需提前2週預約",
     "notes": "適合國際會議、企業年會、大型宴會",
@@ -683,7 +791,10 @@
     "availableTimeWeekday": "09:00-21:00",
     "availableTimeWeekend": "09:00-18:00",
     "equipment": "投影機、白板、視訊設備",
-    "images": [],
+    "images": [
+      "https://s.shangri-la.com/sl-fe-public/imgs/logo/header_logo_slc_en.png",
+      "https://s.shangri-la.com/sl-fe-public/sl_com_mp/images/home/best_rate_guarantee.png"
+    ],
     "layoutImageUrl": null,
     "rentalTimeNote": "需提前1週預約",
     "notes": "適合企業會議、培訓課程、簡報",
@@ -744,7 +855,10 @@
     "availableTimeWeekday": "09:00-22:00",
     "availableTimeWeekend": "09:00-22:00",
     "equipment": "專業影音設備、同步翻譯、視訊會議",
-    "images": [],
+    "images": [
+      "https://www.sheraton.com/wp-content/themes/sheraton/assets/img/sheraton.png",
+      "https://sheraton.marriott.com/wp-content/themes/marriott-master/assets/img/brandbar/devices.png"
+    ],
     "layoutImageUrl": null,
     "rentalTimeNote": "需提前2週預約",
     "notes": "鄰近台北車站，交通便利，適合大型會議、尾牙",
@@ -775,7 +889,10 @@
     "availableTimeWeekday": "09:00-21:00",
     "availableTimeWeekend": "09:00-18:00",
     "equipment": "投影機、白板、視訊會議、高速WiFi",
-    "images": [],
+    "images": [
+      "https://www.sheraton.com/wp-content/themes/sheraton/assets/img/sheraton.png",
+      "https://sheraton.marriott.com/wp-content/themes/marriott-master/assets/img/brandbar/devices.png"
+    ],
     "layoutImageUrl": null,
     "rentalTimeNote": "需提前3天預約",
     "notes": "適合中小型會議、培訓課程、面試",
@@ -986,7 +1103,10 @@
     "availableTimeWeekday": "09:00-22:00",
     "availableTimeWeekend": "09:00-22:00",
     "equipment": "專業影音、同步翻譯、視訊會議",
-    "images": [],
+    "images": [
+      "https://westin.marriott.com/wp-content/themes/westin/assets/img/westin.svg",
+      "https://westin.marriott.com/wp-content/themes/marriott-master/assets/img/brandbar/devices.png"
+    ],
     "layoutImageUrl": null,
     "rentalTimeNote": "需提前2週預約",
     "notes": "適合企業年會、國際會議、大型活動",
@@ -1138,7 +1258,10 @@
     "capacityCategory": "large",
     "targetAudience": "企業",
     "createdAt": "2026-02-26T00:00:00.000Z",
-    "url": "https://www.hilton.com"
+    "url": "https://www.hilton.com",
+    "transportation": {
+      "mrt": "//s3.amazonaws.com/icomoon.io/67203/BrandBar-Color-EnterpriseUpdate/Brand-Bar-Color.ttf?xioazz') format('truetype'), url('https://s3.amazonaws.com/icomoon.io/67203/BrandBar-Color-EnterpriseUpdate/Brand-Bar-Color.woff?xioazz') format('woff'), url('https://s3.amazonaws.com/icomoon.io/67203/BrandBar-Color-EnterpriseUpdate/Brand-Bar-Color.svg?xioazz#Brand-Bar-Color') format('svg');\r"
+    }
   },
   {
     "id": 205,
@@ -1167,7 +1290,10 @@
     "capacityCategory": "small",
     "targetAudience": "企業",
     "createdAt": "2026-02-26T00:00:00.000Z",
-    "url": "https://www.hilton.com"
+    "url": "https://www.hilton.com",
+    "transportation": {
+      "mrt": "//s3.amazonaws.com/icomoon.io/67203/BrandBar-Color-EnterpriseUpdate/Brand-Bar-Color.ttf?xioazz') format('truetype'), url('https://s3.amazonaws.com/icomoon.io/67203/BrandBar-Color-EnterpriseUpdate/Brand-Bar-Color.woff?xioazz') format('woff'), url('https://s3.amazonaws.com/icomoon.io/67203/BrandBar-Color-EnterpriseUpdate/Brand-Bar-Color.svg?xioazz#Brand-Bar-Color') format('svg');\r"
+    }
   },
   {
     "id": 206,
@@ -1245,7 +1371,10 @@
     "availableTimeWeekday": "09:00-22:00",
     "availableTimeWeekend": "09:00-22:00",
     "equipment": "專業影音、同步翻譯、視訊會議",
-    "images": [],
+    "images": [
+      "https://www.sheraton.com/wp-content/themes/sheraton/assets/img/sheraton.png",
+      "https://sheraton.marriott.com/wp-content/themes/marriott-master/assets/img/brandbar/devices.png"
+    ],
     "layoutImageUrl": null,
     "rentalTimeNote": "需提前2週預約",
     "notes": "鄰近機場，適合國際會議、企業活動",
@@ -1302,7 +1431,11 @@
     "availableTimeWeekday": "09:00-22:00",
     "availableTimeWeekend": "09:00-22:00",
     "equipment": "專業影音設備、燈光系統",
-    "images": [],
+    "images": [
+      "https://cache.marriott.com/is/image/marriotts7prod/pdt-78076758-Natural-Ret-2-183367890519764",
+      "https://cache.marriott.com/is/image/marriotts7prod/pdt-40312804-Elite-Desti42232-170267266771080",
+      "https://cache.marriott.com/is/image/marriotts7prod/pdt-2102953952-Summer-Lake-425597198532017"
+    ],
     "layoutImageUrl": null,
     "rentalTimeNote": "需提前2週預約",
     "notes": "南崁地標，適合企業活動、婚宴",
@@ -1471,7 +1604,10 @@
     "availableTimeWeekday": "09:00-22:00",
     "availableTimeWeekend": "09:00-22:00",
     "equipment": "專業影音、燈光、同步翻譯",
-    "images": [],
+    "images": [
+      "https://s.shangri-la.com/sl-fe-public/imgs/logo/header_logo_slc_en.png",
+      "https://s.shangri-la.com/sl-fe-public/sl_com_mp/images/home/best_rate_guarantee.png"
+    ],
     "layoutImageUrl": null,
     "rentalTimeNote": "需提前2週預約",
     "notes": "台南最高級飯店，適合國際會議、大型活動",
@@ -1864,7 +2000,10 @@
     "availableTimeWeekday": "09:00-22:00",
     "availableTimeWeekend": "09:00-22:00",
     "equipment": "頂級影音、同步翻譯、視訊會議",
-    "images": [],
+    "images": [
+      "https://www.sheraton.com/wp-content/themes/sheraton/assets/img/sheraton.png",
+      "https://sheraton.marriott.com/wp-content/themes/marriott-master/assets/img/brandbar/devices.png"
+    ],
     "layoutImageUrl": null,
     "rentalTimeNote": "需提前2週預約",
     "notes": "鄰近科學園區，適合國際會議、科技業活動",
@@ -1893,7 +2032,10 @@
     "availableTimeWeekday": "09:00-21:00",
     "availableTimeWeekend": "09:00-18:00",
     "equipment": "投影機、白板、視訊會議、WiFi",
-    "images": [],
+    "images": [
+      "https://www.sheraton.com/wp-content/themes/sheraton/assets/img/sheraton.png",
+      "https://sheraton.marriott.com/wp-content/themes/marriott-master/assets/img/brandbar/devices.png"
+    ],
     "layoutImageUrl": null,
     "rentalTimeNote": "需提前1週預約",
     "notes": "適合中小型會議、培訓課程",
@@ -2006,7 +2148,10 @@
     "availableTimeWeekday": "09:00-22:00",
     "availableTimeWeekend": "09:00-22:00",
     "equipment": "專業影音、LED螢幕、燈光系統",
-    "images": [],
+    "images": [
+      "https://www.sheraton.com/wp-content/themes/sheraton/assets/img/sheraton.png",
+      "https://sheraton.marriott.com/wp-content/themes/marriott-master/assets/img/brandbar/devices.png"
+    ],
     "layoutImageUrl": null,
     "rentalTimeNote": "需提前2週預約",
     "notes": "竹北精華地段，適合企業活動、科技業會議",
@@ -2455,7 +2600,11 @@
     "availableTimeWeekday": "09:00-22:00",
     "availableTimeWeekend": "09:00-22:00",
     "equipment": "頂級影音、同步翻譯、LED大螢幕",
-    "images": [],
+    "images": [
+      "https://cache.marriott.com/is/image/marriotts7prod/pdt-78076758-Natural-Ret-2-183367890519764",
+      "https://cache.marriott.com/is/image/marriotts7prod/pdt-40312804-Elite-Desti42232-170267266771080",
+      "https://cache.marriott.com/is/image/marriotts7prod/pdt-2102953952-Summer-Lake-425597198532017"
+    ],
     "layoutImageUrl": null,
     "rentalTimeNote": "需提前1個月預約",
     "notes": "大直地標飯店，適合國際會議、大型活動",

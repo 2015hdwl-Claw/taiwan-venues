@@ -1,5 +1,152 @@
 /* ===== 場地詳細資訊區塊 ===== */
 
+/* 📸 照片區塊 */
+.venue-photos {
+    margin-top: var(--space-md);
+}
+
+.venue-main-photo {
+    width: 100%;
+    max-height: 300px;
+    object-fit: cover;
+    border-radius: var(--radius-lg);
+    margin-bottom: var(--space-sm);
+}
+
+.photo-gallery {
+    display: flex;
+    gap: var(--space-sm);
+    flex-wrap: wrap;
+}
+
+.gallery-thumb {
+    width: 100px;
+    height: 75px;
+    object-fit: cover;
+    border-radius: var(--radius-md);
+    cursor: pointer;
+    transition: transform var(--transition-base);
+}
+
+.gallery-thumb:hover {
+    transform: scale(1.1);
+}
+
+/* 🚇 交通資訊區塊 */
+.transport-info {
+    display: flex;
+    flex-direction: column;
+    gap: var(--space-sm);
+    margin-top: var(--space-md);
+}
+
+.transport-item {
+    display: flex;
+    align-items: center;
+    gap: var(--space-md);
+    padding: var(--space-md);
+    background: var(--neutral-surface);
+    border-radius: var(--radius-md);
+    transition: background var(--transition-base);
+}
+
+.transport-item:hover {
+    background: var(--primary-surface);
+}
+
+.transport-icon {
+    font-size: 1.5em;
+}
+
+.transport-detail {
+    display: flex;
+    flex-direction: column;
+    gap: 2px;
+}
+
+.transport-detail strong {
+    color: var(--text-primary);
+    font-size: var(--fluid-base);
+}
+
+.transport-detail span {
+    color: var(--text-secondary);
+    font-size: var(--fluid-sm);
+}
+
+.walking-time {
+    color: var(--success) !important;
+    font-weight: var(--font-weight-medium);
+}
+
+.parking-rate {
+    color: var(--warning);
+    font-weight: var(--font-weight-semibold);
+}
+
+/* 📐 場地尺寸區塊 */
+.dimensions-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
+    gap: var(--space-md);
+    margin-top: var(--space-md);
+}
+
+.dimension-item {
+    text-align: center;
+    padding: var(--space-md);
+    background: linear-gradient(135deg, var(--primary) 0%, var(--primary-dark) 100%);
+    border-radius: var(--radius-lg);
+    color: var(--text-inverse);
+}
+
+.dimension-value {
+    display: block;
+    font-size: var(--fluid-xl);
+    font-weight: var(--font-weight-bold);
+}
+
+.dimension-unit {
+    display: block;
+    font-size: var(--fluid-xs);
+    opacity: 0.9;
+    margin-top: 4px;
+}
+
+/* 🎭 座位配置區塊 */
+.seating-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
+    gap: var(--space-sm);
+    margin-top: var(--space-md);
+}
+
+.seating-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: var(--space-sm) var(--space-md);
+    background: var(--neutral-surface);
+    border-radius: var(--radius-md);
+    transition: all var(--transition-base);
+}
+
+.seating-item:hover {
+    background: var(--primary-surface);
+    transform: translateX(4px);
+}
+
+.seating-type {
+    color: var(--text-primary);
+    font-size: var(--fluid-sm);
+}
+
+.seating-capacity {
+    color: var(--primary);
+    font-weight: var(--font-weight-bold);
+    font-size: var(--fluid-base);
+}
+
 /* 交通資訊區塊 */
 .traffic-info {
     background: var(--neutral-surface);

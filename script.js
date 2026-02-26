@@ -507,6 +507,92 @@ function showVenueDetail(id) {
             </div>
         ` : ''}
 
+        <!-- 📸 照片區塊 -->
+        ${venue.images && (venue.images.main || (venue.images.gallery && venue.images.gallery.length > 0)) ? `
+            <div class="modal-section">
+                <h3>📸 場地照片</h3>
+                <div class="venue-photos">
+                    ${venue.images.main ? `<img src="${venue.images.main}" alt="${venue.name}" class="venue-main-photo" onerror="this.style.display='none'">` : ''}
+                    ${venue.images.gallery && venue.images.gallery.length > 0 ? `
+                        <div class="photo-gallery">
+                            ${venue.images.gallery.map(img => `<img src="${img}" alt="場地照片" class="gallery-thumb" onerror="this.style.display='none'">`).join('')}
+                        </div>
+                    ` : ''}
+                </div>
+            </div>
+        ` : ''}
+
+        <!-- 🚇 交通資訊區塊 -->
+        ${venue.transportation ? `
+            <div class="modal-section">
+                <h3>🚇 交通資訊</h3>
+                <div class="transport-info">
+                    ${venue.transportation.mrt ? `
+                        <div class="transport-item">
+                            <span class="transport-icon">🚇</span>
+                            <div class="transport-detail">
+                                <strong>捷運</strong>
+                                <span>${venue.transportation.mrt.station || ''} ${venue.transportation.mrt.line ? '(' + venue.transportation.mrt.line + ')' : ''}</span>
+                                <span class="walking-time">🚶 ${venue.transportation.mrt.walkingMinutes || '?'} 分鐘</span>
+                            </div>
+                        </div>
+                    ` : ''}
+                    ${venue.transportation.parking ? `
+                        <div class="transport-item">
+                            <span class="transport-icon">🅿️</span>
+                            <div class="transport-detail">
+                                <strong>停車</strong>
+                                <span>${venue.transportation.parking.name || '有停車場'}</span>
+                                ${venue.transportation.parking.hourlyRate ? `<span class="parking-rate">$${venue.transportation.parking.hourlyRate}/時</span>` : ''}
+                            </div>
+                        </div>
+                    ` : ''}
+                </div>
+            </div>
+        ` : ''}
+
+        <!-- 📐 場地尺寸區塊 -->
+        ${venue.dimensions ? `
+            <div class="modal-section">
+                <h3>📐 場地尺寸</h3>
+                <div class="dimensions-grid">
+                    ${venue.dimensions.area ? `
+                        <div class="dimension-item">
+                            <span class="dimension-value">${venue.dimensions.area}</span>
+                            <span class="dimension-unit">${venue.dimensions.unit || '坪'}</span>
+                        </div>
+                    ` : ''}
+                    ${venue.dimensions.length && venue.dimensions.width ? `
+                        <div class="dimension-item">
+                            <span class="dimension-value">${venue.dimensions.length} × ${venue.dimensions.width}</span>
+                            <span class="dimension-unit">公尺</span>
+                        </div>
+                    ` : ''}
+                    ${venue.dimensions.height ? `
+                        <div class="dimension-item">
+                            <span class="dimension-value">${venue.dimensions.height}</span>
+                            <span class="dimension-unit">公尺高</span>
+                        </div>
+                    ` : ''}
+                </div>
+            </div>
+        ` : ''}
+
+        <!-- 🎭 座位配置區塊 -->
+        ${venue.seatingArrangements ? `
+            <div class="modal-section">
+                <h3>🎭 座位配置</h3>
+                <div class="seating-grid">
+                    ${Object.entries(venue.seatingArrangements).map(([key, arr]) => `
+                        <div class="seating-item">
+                            <span class="seating-type">${getSeatingEmoji(key)} ${arr.description || key}</span>
+                            <span class="seating-capacity">${arr.capacity} 人</span>
+                        </div>
+                    `).join('')}
+                </div>
+            </div>
+        ` : ''}
+
         <div class="modal-actions">
             <a href="tel:${venue.contactPhone}" class="btn-action btn-call">
                 📞 立即致電
@@ -537,6 +623,18 @@ function getCategoryName(category) {
         'extra-large': '超大型（1000人以上）'
     };
     return names[category] || '未分類';
+}
+
+// 取得座位配置 emoji
+function getSeatingEmoji(type) {
+    const emojis = {
+        'theater': '🎭',
+        'classroom': '📚',
+        'horseshoe': '🐴',
+        'banquet': '🍽️',
+        'reception': '🥂'
+    };
+    return emojis[type] || '💺';
 }
 
 // ===== 比較功能 =====
