@@ -308,7 +308,33 @@
     "rentalTimeNote": "無",
     "notes": "適合靜態會議/讀書會",
     "capacityCategory": "micro",
-    "createdAt": "2026-02-26T00:00:00.000Z"
+    "createdAt": "2026-02-26T00:00:00.000Z",
+    "transportation": {
+      "mrt": {
+        "station": "忠孝新生站",
+        "line": "板南線",
+        "exit": "出口 1",
+        "walkingMinutes": 2
+      },
+      "parking": {
+        "name": "三創地下停車場",
+        "spaces": 300,
+        "hourlyRate": 60
+      }
+    },
+    "dimensions": {
+      "area": 100,
+      "unit": "坪",
+      "length": 12,
+      "width": 9,
+      "height": 3
+    },
+    "seatingArrangements": {
+      "theater": {
+        "capacity": 200,
+        "description": "劇院型"
+      }
+    }
   },
   {
     "id": 7,
@@ -335,7 +361,32 @@
     "rentalTimeNote": "無",
     "notes": "鄰近大安森林公園，需先電話詢空檔02-27026141分機211",
     "capacityCategory": "small",
-    "createdAt": "2026-02-26T00:00:00.000Z"
+    "createdAt": "2026-02-26T00:00:00.000Z",
+    "transportation": {
+      "mrt": {
+        "station": "公館站",
+        "line": "松山新店線",
+        "exit": "出口 1",
+        "walkingMinutes": 5
+      },
+      "parking": {
+        "name": "周邊停車場",
+        "hourlyRate": 50
+      }
+    },
+    "dimensions": {
+      "area": 80,
+      "unit": "坪",
+      "length": 10,
+      "width": 8,
+      "height": 3.5
+    },
+    "seatingArrangements": {
+      "theater": {
+        "capacity": 150,
+        "description": "劇院型"
+      }
+    }
   },
   {
     "id": 8,
@@ -362,7 +413,33 @@
     "rentalTimeNote": "無",
     "notes": "長期租用優惠525/4小時",
     "capacityCategory": "small",
-    "createdAt": "2026-02-26T00:00:00.000Z"
+    "createdAt": "2026-02-26T00:00:00.000Z",
+    "transportation": {
+      "mrt": {
+        "station": "板橋站",
+        "line": "板南線",
+        "exit": "出口 3",
+        "walkingMinutes": 8
+      },
+      "parking": {
+        "name": "435停車場",
+        "spaces": 80,
+        "hourlyRate": 30
+      }
+    },
+    "dimensions": {
+      "area": 150,
+      "unit": "坪",
+      "length": 15,
+      "width": 10,
+      "height": 4
+    },
+    "seatingArrangements": {
+      "theater": {
+        "capacity": 300,
+        "description": "劇院型"
+      }
+    }
   },
   {
     "id": 9,
@@ -625,7 +702,33 @@
     "rentalTimeNote": "無",
     "notes": "適合展演/講座",
     "capacityCategory": "medium",
-    "createdAt": "2026-02-26T00:00:00.000Z"
+    "createdAt": "2026-02-26T00:00:00.000Z",
+    "transportation": {
+      "mrt": {
+        "station": "市政府站",
+        "line": "綠線",
+        "exit": "出口 1",
+        "walkingMinutes": 10
+      },
+      "parking": {
+        "name": "世貿停車場",
+        "spaces": 200,
+        "hourlyRate": 40
+      }
+    },
+    "dimensions": {
+      "area": 800,
+      "unit": "坪",
+      "length": 40,
+      "width": 20,
+      "height": 8
+    },
+    "seatingArrangements": {
+      "theater": {
+        "capacity": 3000,
+        "description": "展場配置"
+      }
+    }
   },
   {
     "id": 101,
@@ -2295,7 +2398,31 @@
     "capacityCategory": "medium-large",
     "targetAudience": "企業",
     "createdAt": "2026-02-26T00:00:00.000Z",
-    "url": "https://www.sheraton.com"
+    "url": "https://www.sheraton.com",
+    "transportation": {
+      "parking": {
+        "name": "喜來登停車場",
+        "spaces": 150,
+        "hourlyRate": 60
+      }
+    },
+    "dimensions": {
+      "area": 180,
+      "unit": "坪",
+      "length": 16,
+      "width": 11,
+      "height": 3.5
+    },
+    "seatingArrangements": {
+      "theater": {
+        "capacity": 500,
+        "description": "劇院型"
+      },
+      "banquet": {
+        "capacity": 400,
+        "description": "宴會型"
+      }
+    }
   },
   {
     "id": 306,
