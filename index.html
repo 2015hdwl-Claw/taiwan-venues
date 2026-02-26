@@ -303,6 +303,26 @@
         </div>
     </div>
 
+    <!-- 比較結果 Modal -->
+    <div class="modal" id="compareModal">
+        <div class="modal-content modal-large">
+            <div class="modal-header">
+                <h2>📊 場地比較</h2>
+                <button class="modal-close" onclick="closeCompareModal()">✕</button>
+            </div>
+            <div class="modal-body" id="compareContent">
+                <!-- 動態內容 -->
+            </div>
+        </div>
+    </div>
+
+    <!-- 浮動比較按鈕 -->
+    <div class="compare-float-btn" id="compareFloatBtn" onclick="showCompare()" style="display: none;">
+        <span class="compare-icon">📊</span>
+        <span class="compare-text">比較</span>
+        <span class="compare-badge" id="compareBadge">0</span>
+    </div>
+
     <script src="script.js"></script>
 </body>
 </html>

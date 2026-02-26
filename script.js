@@ -272,8 +272,8 @@ function createVenueCard(venue) {
                 <button class="btn-primary" onclick="event.stopPropagation(); showVenueDetail(${venue.id})">
                     查看詳情
                 </button>
-                <button class="btn-secondary" onclick="event.stopPropagation(); addToCompare(${venue.id})">
-                    加入比較
+                <button class="btn-secondary compare-btn" data-id="${venue.id}" onclick="event.stopPropagation(); addToCompare(${venue.id})">
+                    + 加入比較
                 </button>
             </div>
         </div>
@@ -643,7 +643,10 @@ let compareList = [];
 
 function addToCompare(id) {
     if (compareList.includes(id)) {
-        alert('此場地已在比較清單中');
+        // 從比較清單移除
+        compareList = compareList.filter(i => i !== id);
+        updateCompareButton();
+        showCompareToast('已從比較清單移除');
         return;
     }
 
@@ -653,7 +656,170 @@ function addToCompare(id) {
     }
 
     compareList.push(id);
-    alert('已加入比較清單（' + compareList.length + '/3）');
+    updateCompareButton();
+    showCompareToast(`已加入比較清單（${compareList.length}/3）`);
+}
+
+function updateCompareButton() {
+    const btn = document.getElementById('compareFloatBtn');
+    const badge = document.getElementById('compareBadge');
+    
+    if (compareList.length > 0) {
+        btn.style.display = 'flex';
+        badge.textContent = compareList.length;
+        badge.classList.add('pulse');
+        setTimeout(() => badge.classList.remove('pulse'), 300);
+    } else {
+        btn.style.display = 'none';
+    }
+    
+    // 更新所有場地卡片的比較按鈕狀態
+    document.querySelectorAll('.compare-btn').forEach(btn => {
+        const id = parseInt(btn.dataset.id);
+        if (compareList.includes(id)) {
+            btn.classList.add('active');
+            btn.innerHTML = '✓ 已加入';
+        } else {
+            btn.classList.remove('active');
+            btn.innerHTML = '+ 加入比較';
+        }
+    });
+}
+
+function showCompareToast(message) {
+    // 創建 toast 提示
+    const toast = document.createElement('div');
+    toast.className = 'compare-toast';
+    toast.textContent = message;
+    document.body.appendChild(toast);
+    
+    setTimeout(() => toast.classList.add('show'), 10);
+    setTimeout(() => {
+        toast.classList.remove('show');
+        setTimeout(() => toast.remove(), 300);
+    }, 2000);
+}
+
+function showCompare() {
+    if (compareList.length < 2) {
+        alert('請至少選擇 2 個場地進行比較');
+        return;
+    }
+    
+    const modal = document.getElementById('compareModal');
+    const content = document.getElementById('compareContent');
+    
+    const compareVenues = compareList.map(id => venues.find(v => v.id === id)).filter(v => v);
+    
+    content.innerHTML = `
+        <div class="compare-table-wrapper">
+            <table class="compare-table">
+                <thead>
+                    <tr>
+                        <th class="compare-label">比較項目</th>
+                        ${compareVenues.map(v => `
+                            <th class="compare-venue-header">
+                                <div class="compare-venue-name">${v.name}</div>
+                                <div class="compare-venue-room">${v.roomName || ''}</div>
+                                <button class="compare-remove-btn" onclick="removeFromCompare(${v.id})">✕ 移除</button>
+                            </th>
+                        `).join('')}
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td class="compare-label">📍 縣市</td>
+                        ${compareVenues.map(v => `<td>${v.city}</td>`).join('')}
+                    </tr>
+                    <tr>
+                        <td class="compare-label">📍 地址</td>
+                        ${compareVenues.map(v => `<td class="compare-address">${v.address || '未提供'}</td>`).join('')}
+                    </tr>
+                    <tr>
+                        <td class="compare-label">👥 最大容納</td>
+                        ${compareVenues.map(v => `<td class="compare-highlight">${getMaxCapacity(v)} 人</td>`).join('')}
+                    </tr>
+                    <tr>
+                        <td class="compare-label">💰 全天費用</td>
+                        ${compareVenues.map(v => `<td class="compare-price">${v.priceFullDay ? '$' + Number(v.priceFullDay).toLocaleString() : '需詢價'}</td>`).join('')}
+                    </tr>
+                    <tr>
+                        <td class="compare-label">📐 場地大小</td>
+                        ${compareVenues.map(v => `<td>${v.dimensions ? v.dimensions.area + ' 坪' : '未提供'}</td>`).join('')}
+                    </tr>
+                    <tr>
+                        <td class="compare-label">🚇 捷運站</td>
+                        ${compareVenues.map(v => `<td>${v.transportation?.mrt?.station || '無捷運'}</td>`).join('')}
+                    </tr>
+                    <tr>
+                        <td class="compare-label">🅿️ 停車費用</td>
+                        ${compareVenues.map(v => `<td>${v.transportation?.parking ? '$' + v.transportation.parking.hourlyRate + '/時' : '未提供'}</td>`).join('')}
+                    </tr>
+                    <tr>
+                        <td class="compare-label">🎭 劇院型座位</td>
+                        ${compareVenues.map(v => `<td>${v.seatingArrangements?.theater?.capacity || v.maxCapacityTheater || '-'} 人</td>`).join('')}
+                    </tr>
+                    <tr>
+                        <td class="compare-label">📚 會議型座位</td>
+                        ${compareVenues.map(v => `<td>${v.seatingArrangements?.classroom?.capacity || v.maxCapacityClassroom || '-'} 人</td>`).join('')}
+                    </tr>
+                    <tr>
+                        <td class="compare-label">🍽️ 宴會型座位</td>
+                        ${compareVenues.map(v => `<td>${v.seatingArrangements?.banquet?.capacity || '-'} 人</td>`).join('')}
+                    </tr>
+                    <tr>
+                        <td class="compare-label">📞 聯絡電話</td>
+                        ${compareVenues.map(v => `<td><a href="tel:${v.contactPhone}" class="compare-phone">${v.contactPhone || '未提供'}</a></td>`).join('')}
+                    </tr>
+                    <tr>
+                        <td class="compare-label">⭐ 推薦指數</td>
+                        ${compareVenues.map(v => {
+                            const rating = calculateRating(v);
+                            return `<td class="compare-rating">${'⭐'.repeat(Math.floor(rating))} ${rating.toFixed(1)}</td>`;
+                        }).join('')}
+                    </tr>
+                    <tr class="compare-actions-row">
+                        <td class="compare-label">🎯 操作</td>
+                        ${compareVenues.map(v => `
+                            <td>
+                                <a href="tel:${v.contactPhone}" class="btn-action btn-call btn-sm">📞 致電</a>
+                                ${v.contactEmail ? `<a href="mailto:${v.contactEmail}" class="btn-action btn-email btn-sm">📧 Email</a>` : ''}
+                            </td>
+                        `).join('')}
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+        
+        <div class="compare-footer">
+            <button class="btn-clear" onclick="clearCompare()">🗑️ 清空比較清單</button>
+        </div>
+    `;
+    
+    modal.classList.add('active');
+}
+
+function removeFromCompare(id) {
+    compareList = compareList.filter(i => i !== id);
+    updateCompareButton();
+    
+    if (compareList.length < 2) {
+        closeCompareModal();
+        alert('比較清單至少需要 2 個場地');
+    } else {
+        showCompare(); // 重新渲染
+    }
+}
+
+function clearCompare() {
+    compareList = [];
+    updateCompareButton();
+    closeCompareModal();
+    showCompareToast('已清空比較清單');
+}
+
+function closeCompareModal() {
+    document.getElementById('compareModal').classList.remove('active');
 }
 
 // ===== 工具函數 =====

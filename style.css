@@ -1815,3 +1815,260 @@ header .subtitle {
         grid-template-columns: 1fr;
     }
 }
+
+/* ===== 比較功能樣式 ===== */
+
+/* 浮動比較按鈕 */
+.compare-float-btn {
+    position: fixed;
+    bottom: 24px;
+    right: 24px;
+    background: linear-gradient(135deg, var(--primary) 0%, var(--primary-dark) 100%);
+    color: white;
+    padding: 12px 20px;
+    border-radius: 50px;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    cursor: pointer;
+    box-shadow: 0 4px 20px var(--primary-glow);
+    z-index: 1000;
+    transition: all var(--transition-base);
+    font-weight: var(--font-weight-semibold);
+}
+
+.compare-float-btn:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 6px 30px var(--primary-glow);
+}
+
+.compare-icon {
+    font-size: 1.2em;
+}
+
+.compare-badge {
+    background: white;
+    color: var(--primary);
+    padding: 2px 8px;
+    border-radius: 12px;
+    font-size: 0.85em;
+    font-weight: var(--font-weight-bold);
+    min-width: 20px;
+    text-align: center;
+}
+
+.compare-badge.pulse {
+    animation: pulse 0.3s ease;
+}
+
+@keyframes pulse {
+    0% { transform: scale(1); }
+    50% { transform: scale(1.3); }
+    100% { transform: scale(1); }
+}
+
+/* Toast 提示 */
+.compare-toast {
+    position: fixed;
+    bottom: 100px;
+    left: 50%;
+    transform: translateX(-50%) translateY(20px);
+    background: rgba(0, 0, 0, 0.8);
+    color: white;
+    padding: 12px 24px;
+    border-radius: 8px;
+    opacity: 0;
+    transition: all 0.3s ease;
+    z-index: 2000;
+    font-size: 0.9em;
+}
+
+.compare-toast.show {
+    opacity: 1;
+    transform: translateX(-50%) translateY(0);
+}
+
+/* 大型 Modal */
+.modal-large {
+    max-width: 95%;
+    width: 1200px;
+    max-height: 90vh;
+    overflow-y: auto;
+}
+
+/* 比較表格 */
+.compare-table-wrapper {
+    overflow-x: auto;
+    margin: -10px;
+    padding: 10px;
+}
+
+.compare-table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 0.9em;
+}
+
+.compare-table th,
+.compare-table td {
+    padding: 12px 16px;
+    text-align: center;
+    border-bottom: 1px solid var(--neutral-border);
+    vertical-align: middle;
+}
+
+.compare-table thead th {
+    background: var(--primary-surface);
+    position: sticky;
+    top: 0;
+    z-index: 10;
+}
+
+.compare-label {
+    background: var(--neutral-surface);
+    font-weight: var(--font-weight-semibold);
+    text-align: left !important;
+    position: sticky;
+    left: 0;
+    z-index: 5;
+    min-width: 120px;
+}
+
+.compare-venue-header {
+    min-width: 200px;
+}
+
+.compare-venue-name {
+    font-weight: var(--font-weight-bold);
+    color: var(--text-primary);
+    margin-bottom: 4px;
+}
+
+.compare-venue-room {
+    font-size: 0.85em;
+    color: var(--text-secondary);
+    margin-bottom: 8px;
+}
+
+.compare-remove-btn {
+    background: transparent;
+    border: 1px solid var(--error);
+    color: var(--error);
+    padding: 4px 12px;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 0.8em;
+    transition: all var(--transition-base);
+}
+
+.compare-remove-btn:hover {
+    background: var(--error);
+    color: white;
+}
+
+.compare-highlight {
+    font-weight: var(--font-weight-bold);
+    color: var(--primary);
+}
+
+.compare-price {
+    font-weight: var(--font-weight-bold);
+    color: var(--success);
+}
+
+.compare-address {
+    font-size: 0.85em;
+    text-align: left !important;
+    max-width: 200px;
+}
+
+.compare-phone {
+    color: var(--primary);
+    text-decoration: none;
+}
+
+.compare-phone:hover {
+    text-decoration: underline;
+}
+
+.compare-rating {
+    color: var(--warning);
+}
+
+.compare-actions-row td {
+    padding: 16px;
+}
+
+/* 小型按鈕 */
+.btn-sm {
+    padding: 6px 12px !important;
+    font-size: 0.85em;
+    margin: 4px;
+    display: inline-block;
+}
+
+/* 比較按鈕樣式 */
+.compare-btn {
+    background: transparent;
+    border: 1px solid var(--primary);
+    color: var(--primary);
+    padding: 6px 12px;
+    border-radius: 6px;
+    cursor: pointer;
+    font-size: 0.85em;
+    transition: all var(--transition-base);
+    white-space: nowrap;
+}
+
+.compare-btn:hover {
+    background: var(--primary-surface);
+}
+
+.compare-btn.active {
+    background: var(--primary);
+    color: white;
+}
+
+/* 清空按鈕 */
+.compare-footer {
+    margin-top: 20px;
+    text-align: center;
+}
+
+.btn-clear {
+    background: transparent;
+    border: 1px solid var(--text-muted);
+    color: var(--text-secondary);
+    padding: 10px 24px;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: all var(--transition-base);
+}
+
+.btn-clear:hover {
+    border-color: var(--error);
+    color: var(--error);
+}
+
+/* 響應式 */
+@media (max-width: 768px) {
+    .compare-float-btn {
+        bottom: 16px;
+        right: 16px;
+        padding: 10px 16px;
+    }
+    
+    .compare-table {
+        font-size: 0.8em;
+    }
+    
+    .compare-table th,
+    .compare-table td {
+        padding: 8px 10px;
+    }
+    
+    .modal-large {
+        max-width: 100%;
+        margin: 10px;
+    }
+}
