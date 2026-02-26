@@ -1,0 +1,285 @@
+/* ===== 場地詳細資訊區塊 ===== */
+
+/* 交通資訊區塊 */
+.traffic-info {
+    background: var(--neutral-surface);
+    border-radius: var(--radius-lg);
+    padding: var(--space-lg);
+    margin-bottom: var(--space-lg);
+    border-left: 4px solid var(--primary);
+}
+
+.traffic-section {
+    margin-bottom: var(--space-md);
+}
+
+.traffic-section:last-child {
+    margin-bottom: 0;
+}
+
+.traffic-section-title {
+    font-size: var(--font-lg);
+    font-weight: var(--font-weight-semibold);
+    color: var(--text-primary);
+    margin-bottom: var(--space-sm);
+    display: flex;
+    align-items: center;
+    gap: var(--space-sm);
+}
+
+.traffic-section-title span {
+    font-size: var(--fluid-2xl);
+}
+
+.traffic-item {
+    display: flex;
+    align-items: flex-start;
+    gap: var(--space-sm);
+    padding: var(--space-sm);
+    background: var(--background-elevated);
+    border-radius: var(--radius-md);
+}
+
+.traffic-item-icon {
+    font-size: var(--fluid-xl);
+    color: var(--primary);
+    flex-shrink: 0;
+}
+
+.traffic-item-content {
+    flex: 1;
+}
+
+.traffic-item-label {
+    font-size: var(--fluid-xs);
+    color: var(--text-muted);
+    margin-bottom: var(--space-xs);
+}
+
+.traffic-item-value {
+    font-size: var(--fluid-base);
+    color: var(--text-primary);
+    font-weight: var(--font-weight-medium);
+}
+
+/* 停車資訊 */
+.parking-info {
+    display: flex;
+    align-items: center;
+    gap: var(--space-sm);
+    padding: var(--space-sm);
+    background: linear-gradient(135deg, var(--primary-surface) 0%, var(--primary-surface) 100%);
+    border-radius: var(--radius-md);
+    font-weight: var(--font-weight-medium);
+    color: var(--primary-dark);
+}
+
+.parking-info span {
+    color: var(--warning);
+}
+
+/* 場地佈局區塊 */
+.venue-layout {
+    background: var(--neutral-surface);
+    border-radius: var(--radius-lg);
+    padding: var(--space-lg);
+    margin-bottom: var(--space-lg);
+}
+
+.layout-type-card {
+    display: flex;
+    align-items: center;
+    gap: var(--space-md);
+    padding: var(--space-md);
+    background: var(--background-elevated);
+    border-radius: var(--radius-md);
+    margin-bottom: var(--space-sm);
+    transition: all var(--transition-base);
+}
+
+.layout-type-card:hover {
+    background: var(--primary-surface);
+    transform: translateX(4px);
+}
+
+.layout-icon {
+    font-size: 2em;
+    color: var(--primary);
+}
+
+.layout-info {
+    flex: 1;
+}
+
+.layout-title {
+    font-size: var(--fluid-lg);
+    font-weight: var(--font-weight-semibold);
+    color: var(--text-primary);
+    margin-bottom: var(--space-xs);
+}
+
+.layout-desc {
+    font-size: var(--fluid-sm);
+    color: var(--text-muted);
+}
+
+/* 尺寸資訊 */
+.dimensions-info {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
+    gap: var(--space-md);
+    margin-top: var(--space-md);
+}
+
+.dimension-card {
+    text-align: center;
+    padding: var(--space-md);
+    background: linear-gradient(135deg, var(--primary) 0%, var(--primary-dark) 100%);
+    border-radius: var(--radius-lg);
+    color: var(--text-inverse);
+}
+
+.dimension-value {
+    font-size: var(--fluid-2xl);
+    font-weight: var(--font-weight-bold);
+    margin-bottom: var(--space-xs);
+}
+
+.dimension-label {
+    font-size: var(--fluid-sm);
+    opacity: 0.9;
+}
+
+/* 照片區塊 */
+.photos-section {
+    margin-bottom: var(--space-lg);
+}
+
+.photos-title {
+    font-size: var(--fluid-lg);
+    font-weight: var(--font-weight-semibold);
+    color: var(--text-primary);
+    margin-bottom: var(--space-md);
+    display: flex;
+    align-items: center;
+    gap: var(--space-sm);
+}
+
+.photos-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: var(--space-md);
+}
+
+.photo-card {
+    position: relative;
+    border-radius: var(--radius-lg);
+    overflow: hidden;
+    aspect-ratio: 16/9;
+    cursor: pointer;
+    transition: all var(--transition-base);
+    box-shadow: var(--shadow-md);
+}
+
+.photo-card:hover {
+    transform: translateY(-4px);
+    box-shadow: var(--shadow-xl);
+}
+
+.photo-card img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    transition: transform var(--transition-base);
+}
+
+.photo-card:hover img {
+    transform: scale(1.05);
+}
+
+.photo-card-overlay {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background: linear-gradient(transparent, rgba(0, 0, 0, 0.7));
+    padding: var(--space-md);
+    color: var(--text-inverse);
+    font-size: var(--fluid-sm);
+    font-weight: var(--font-weight-medium);
+}
+
+/* 佈局圖區塊 */
+.layout-image-section {
+    margin-bottom: var(--space-lg);
+}
+
+.layout-image-container {
+    width: 100%;
+    border-radius: var(--radius-lg);
+    overflow: hidden;
+    box-shadow: var(--shadow-lg);
+}
+
+.layout-image {
+    width: 100%;
+    max-height: 400px;
+    object-fit: contain;
+    background: var(--neutral-surface);
+}
+
+.layout-caption {
+    text-align: center;
+    margin-top: var(--space-md);
+    color: var(--text-muted);
+    font-size: var(--fluid-sm);
+}
+
+/* Modal 內的詳細資訊區塊 */
+.modal-detail-section {
+    margin-bottom: var(--space-xl);
+}
+
+.modal-detail-section:last-child {
+    margin-bottom: 0;
+}
+
+.modal-detail-section-title {
+    font-size: var(--fluid-lg);
+    font-weight: var(--font-weight-semibold);
+    color: var(--text-primary);
+    margin-bottom: var(--space-md);
+    padding-bottom: var(--space-sm);
+    border-bottom: 2px solid var(--neutral-border);
+}
+
+/* 響應式優化 */
+@media (max-width: 768px) {
+    .traffic-info {
+        padding: var(--space-md);
+    }
+
+    .traffic-section-title {
+        font-size: var(--font-base);
+    }
+
+    .dimensions-info {
+        grid-template-columns: repeat(2, 1fr);
+        gap: var(--space-sm);
+    }
+
+    .photo-card {
+        aspect-ratio: 4/3;
+    }
+}
+
+@media (max-width: 480px) {
+    .dimensions-info {
+        grid-template-columns: 1fr;
+    }
+
+    .layout-type-card {
+        flex-direction: column;
+        text-align: center;
+    }
+}

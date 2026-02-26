@@ -1,5 +1,5 @@
-// ===== 現代化場地媒合平台 v3.1 Pro Max =====
-// 漸進式揭示 + 現代化 UI
+// ===== 現代化場地媒合平台 v3.2 Pro Max =====
+// 漸進式揭示 + 現代化 UI + 場地詳細資訊
 
 let venues = [];
 let filteredVenues = [];
