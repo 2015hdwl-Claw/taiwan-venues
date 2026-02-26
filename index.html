@@ -1,0 +1,394 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>台灣活動場地資料庫 v2.0</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>🏢 台灣企業活動場地媒合平台 <span style="font-size:0.5em; color:#ffd700;">v2.1</span></h1>
+            <p class="subtitle">快速找到專業、可靠、符合品牌形象的活動場地 | 企業 × 活動企劃公司首選</p>
+        </header>
+
+        <!-- 搜尋與篩選區 -->
+        <section class="search-section">
+            <div class="search-box">
+                <input type="text" id="searchInput" placeholder="搜尋場地名稱、地點...">
+                <button onclick="searchVenues()">搜尋</button>
+            </div>
+            
+            <div class="filters">
+                <div class="filter-group">
+                    <label>場地別：</label>
+                    <select id="categoryFilter" onchange="filterVenues()">
+                        <option value="">全部</option>
+                        <option value="飯店場地">飯店場地</option>
+                        <option value="婚宴場地">婚宴場地</option>
+                        <option value="會議場地">會議場地</option>
+                        <option value="機關場地">機關場地</option>
+                        <option value="展演場地">展演場地</option>
+                        <option value="運動場地">運動場地</option>
+                        <option value="戶外場地">戶外場地</option>
+                        <option value="共享空間">共享空間</option>
+                        <option value="教育場地">教育場地</option>
+                        <option value="其他">其他</option>
+                    </select>
+                </div>
+
+                <div class="filter-group">
+                    <label>活動規模：</label>
+                    <select id="capacityFilter" onchange="filterVenues()">
+                        <option value="">全部</option>
+                        <option value="micro">微型活動（50人以下）</option>
+                        <option value="small">小型活動（50-100人）</option>
+                        <option value="medium">中型活動（100-200人）</option>
+                        <option value="medium-large">中大型活動（200-500人）</option>
+                        <option value="large">大型活動（500-1000人）</option>
+                        <option value="extra-large">超大型活動（1000-5000人）</option>
+                        <option value="huge">巨型活動（5000人以上）</option>
+                    </select>
+                </div>
+
+                <div class="filter-group">
+                    <label>縣市：</label>
+                    <select id="cityFilter" onchange="filterVenues()">
+                        <option value="">全部</option>
+                        <option value="台北市">台北市</option>
+                        <option value="新北市">新北市</option>
+                        <option value="桃園市">桃園市</option>
+                        <option value="台中市">台中市</option>
+                        <option value="台南市">台南市</option>
+                        <option value="高雄市">高雄市</option>
+                        <option value="基隆市">基隆市</option>
+                        <option value="新竹市">新竹市</option>
+                        <option value="嘉義市">嘉義市</option>
+                        <option value="新竹縣">新竹縣</option>
+                        <option value="苗栗縣">苗栗縣</option>
+                        <option value="彰化縣">彰化縣</option>
+                        <option value="南投縣">南投縣</option>
+                        <option value="雲林縣">雲林縣</option>
+                        <option value="嘉義縣">嘉義縣</option>
+                        <option value="屏東縣">屏東縣</option>
+                        <option value="宜蘭縣">宜蘭縣</option>
+                        <option value="花蓮縣">花蓮縣</option>
+                        <option value="台東縣">台東縣</option>
+                        <option value="澎湖縣">澎湖縣</option>
+                        <option value="金門縣">金門縣</option>
+                        <option value="連江縣">連江縣</option>
+                    </select>
+                </div>
+
+                <div class="filter-group">
+                    <label>場地類型：</label>
+                    <select id="typeFilter" onchange="filterVenues()">
+                        <option value="">全部</option>
+                        <option value="宴會廳">宴會廳</option>
+                        <option value="會議室">會議室</option>
+                        <option value="活動中心">活動中心</option>
+                        <option value="展演空間">展演空間</option>
+                        <option value="體育館">體育館</option>
+                        <option value="教室">教室</option>
+                        <option value="戶外場地">戶外場地</option>
+                        <option value="飯店會議室">飯店會議室</option>
+                        <option value="咖啡廳">咖啡廳</option>
+                        <option value="共享空間">共享空間</option>
+                        <option value="教室/培訓中心">教室/培訓中心</option>
+                    </select>
+                </div>
+
+                <button onclick="resetFilters()">重設篩選</button>
+                <button onclick="filterEnterpriseVenues()" style="background: #28a745;">🏢 企業級場地</button>
+            </div>
+        </section>
+
+        <!-- 快速篩選區 -->
+        <section class="quick-filter-section">
+            <h3>🎯 快速篩選</h3>
+            <div class="quick-filters">
+                <button class="quick-filter-btn" onclick="quickFilter('飯店場地')">🏨 飯店場地 (20)</button>
+                <button class="quick-filter-btn" onclick="quickFilter('展演場地')">🎭 展演場地 (4)</button>
+                <button class="quick-filter-btn" onclick="quickFilter('會議場地')">📊 會議場地 (2)</button>
+                <button class="quick-filter-btn" onclick="quickFilter('機關場地')">🏛️ 機關場地 (8)</button>
+                <button class="quick-filter-btn" onclick="quickFilter('教育場地')">📚 教育場地 (1)</button>
+            </div>
+        </section>
+
+        <!-- 統計資訊 -->
+        <section class="stats-section">
+            <div class="stat-card">
+                <h3>微型活動</h3>
+                <p class="stat-number" id="microCount">0</p>
+                <p class="stat-label">50人以下</p>
+            </div>
+            <div class="stat-card">
+                <h3>小型活動</h3>
+                <p class="stat-number" id="smallCount">0</p>
+                <p class="stat-label">50-100人</p>
+            </div>
+            <div class="stat-card">
+                <h3>中型活動</h3>
+                <p class="stat-number" id="mediumCount">0</p>
+                <p class="stat-label">100-200人</p>
+            </div>
+            <div class="stat-card">
+                <h3>中大型活動</h3>
+                <p class="stat-number" id="mediumLargeCount">0</p>
+                <p class="stat-label">200-500人</p>
+            </div>
+            <div class="stat-card">
+                <h3>大型活動</h3>
+                <p class="stat-number" id="largeCount">0</p>
+                <p class="stat-label">500-1000人</p>
+            </div>
+            <div class="stat-card">
+                <h3>超大型活動</h3>
+                <p class="stat-number" id="extraLargeCount">0</p>
+                <p class="stat-label">1000-5000人</p>
+            </div>
+            <div class="stat-card">
+                <h3>巨型活動</h3>
+                <p class="stat-number" id="hugeCount">0</p>
+                <p class="stat-label">5000人以上</p>
+            </div>
+        </section>
+
+        <!-- 新增場地表單 -->
+        <section class="add-venue-section">
+            <button class="toggle-form-btn" onclick="toggleForm()">
+                ➕ 新增場地
+            </button>
+            
+            <div id="venueForm" class="venue-form" style="display: none;">
+                <h2>新增場地資訊</h2>
+                <form id="addVenueForm" onsubmit="addVenue(event)">
+                    <div class="form-row">
+                        <div class="form-group">
+                            <label>場地名稱 *</label>
+                            <input type="text" id="venueName" required>
+                        </div>
+                        <div class="form-group">
+                            <label>場地別 *</label>
+                            <select id="venueCategory" required>
+                                <option value="">請選擇</option>
+                                <option value="飯店場地">飯店場地</option>
+                                <option value="婚宴場地">婚宴場地</option>
+                                <option value="會議場地">會議場地</option>
+                                <option value="機關場地">機關場地</option>
+                                <option value="展演場地">展演場地</option>
+                                <option value="運動場地">運動場地</option>
+                                <option value="戶外場地">戶外場地</option>
+                                <option value="共享空間">共享空間</option>
+                                <option value="教育場地">教育場地</option>
+                                <option value="其他">其他</option>
+                            </select>
+                        </div>
+                    </div>
+
+                    <div class="form-row">
+                        <div class="form-group">
+                            <label>廳別/房間名稱</label>
+                            <input type="text" id="roomName" placeholder="例如：101會議室、宴會廳A">
+                        </div>
+                        <div class="form-group">
+                            <label>場地類型 *</label>
+                            <select id="venueType" required>
+                                <option value="">請選擇</option>
+                                <option value="會議室">會議室</option>
+                                <option value="活動中心">活動中心</option>
+                                <option value="展演空間">展演空間</option>
+                                <option value="體育館">體育館</option>
+                                <option value="教室">教室</option>
+                                <option value="戶外場地">戶外場地</option>
+                                <option value="飯店會議室">飯店會議室</option>
+                                <option value="咖啡廳">咖啡廳</option>
+                                <option value="共享空間">共享空間</option>
+                            </select>
+                        </div>
+                        <div class="form-group">
+                            <label>縣市 *</label>
+                            <select id="venueCity" required>
+                                <option value="">請選擇</option>
+                                <option value="台北市">台北市</option>
+                                <option value="新北市">新北市</option>
+                                <option value="桃園市">桃園市</option>
+                                <option value="台中市">台中市</option>
+                                <option value="台南市">台南市</option>
+                                <option value="高雄市">高雄市</option>
+                                <option value="基隆市">基隆市</option>
+                                <option value="新竹市">新竹市</option>
+                                <option value="嘉義市">嘉義市</option>
+                                <option value="新竹縣">新竹縣</option>
+                                <option value="苗栗縣">苗栗縣</option>
+                                <option value="彰化縣">彰化縣</option>
+                                <option value="南投縣">南投縣</option>
+                                <option value="雲林縣">雲林縣</option>
+                                <option value="嘉義縣">嘉義縣</option>
+                                <option value="屏東縣">屏東縣</option>
+                                <option value="宜蘭縣">宜蘭縣</option>
+                                <option value="花蓮縣">花蓮縣</option>
+                                <option value="台東縣">台東縣</option>
+                                <option value="澎湖縣">澎湖縣</option>
+                                <option value="金門縣">金門縣</option>
+                                <option value="連江縣">連江縣</option>
+                            </select>
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+                        <label>詳細地址 *</label>
+                        <input type="text" id="venueAddress" required>
+                    </div>
+
+                    <div class="form-row">
+                        <div class="form-group">
+                            <label>聯絡人</label>
+                            <input type="text" id="contactPerson">
+                        </div>
+                        <div class="form-group">
+                            <label>聯絡電話</label>
+                            <input type="tel" id="contactPhone">
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+                        <label>電子郵件</label>
+                        <input type="email" id="contactEmail">
+                    </div>
+
+                    <div class="form-row">
+                        <div class="form-group">
+                            <label>場地費用（每小時）</label>
+                            <input type="number" id="pricePerHour" placeholder="NT$">
+                        </div>
+                        <div class="form-group">
+                            <label>場地費用（半天）</label>
+                            <input type="number" id="priceHalfDay" placeholder="NT$">
+                        </div>
+                        <div class="form-group">
+                            <label>場地費用（全天）</label>
+                            <input type="number" id="priceFullDay" placeholder="NT$">
+                        </div>
+                    </div>
+
+                    <div class="form-row">
+                        <div class="form-group">
+                            <label>最大容納人數（空場）*</label>
+                            <input type="number" id="maxCapacityEmpty" required>
+                        </div>
+                        <div class="form-group">
+                            <label>最大容納人數（劇院型）</label>
+                            <input type="number" id="maxCapacityTheater">
+                        </div>
+                        <div class="form-group">
+                            <label>最大容納人數（教室型）</label>
+                            <input type="number" id="maxCapacityClassroom">
+                        </div>
+                    </div>
+
+                    <div class="form-row">
+                        <div class="form-group">
+                            <label>可使用時間（平日）</label>
+                            <input type="text" id="availableTimeWeekday" placeholder="例：09:00-21:00">
+                        </div>
+                        <div class="form-group">
+                            <label>可使用時間（假日）</label>
+                            <input type="text" id="availableTimeWeekend" placeholder="例：09:00-18:00">
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+                        <label>場地照片（URL，多張用分號分隔）</label>
+                        <input type="text" id="photos" placeholder="http://example.com/photo1.jpg;http://example.com/photo2.jpg">
+                    </div>
+
+                    <div class="form-group">
+                        <label>場地布置圖（URL，多張用分號分隔）</label>
+                        <input type="text" id="layoutImages" placeholder="http://example.com/layout1.jpg;http://example.com/layout2.jpg">
+                    </div>
+
+                    <div class="form-group">
+                        <label>設備與費用</label>
+                        <textarea id="equipment" rows="3" placeholder="例：投影機 NT$500/次, 音響設備 NT$1000/次"></textarea>
+                    </div>
+
+                    <div class="form-group">
+                        <label>可租用時間說明</label>
+                        <textarea id="availabilityNotes" rows="2" placeholder="例：需提前兩週預約，假日需額外費用"></textarea>
+                    </div>
+
+                    <div class="form-group">
+                        <label>備註</label>
+                        <textarea id="notes" rows="3"></textarea>
+                    </div>
+
+                    <button type="submit" class="submit-btn">新增場地</button>
+                </form>
+            </div>
+        </section>
+
+        <!-- 日曆視圖切換 -->
+        <section class="view-toggle-section">
+            <button class="view-btn active" onclick="switchView('list')">📋 列表視圖</button>
+            <button class="view-btn" onclick="switchView('calendar')">📅 日曆視圖</button>
+        </section>
+
+        <!-- 日曆視圖 -->
+        <section id="calendarView" class="calendar-section" style="display: none;">
+            <div class="calendar-header">
+                <button onclick="previousMonth()">◀</button>
+                <h2 id="currentMonth">2026年2月</h2>
+                <button onclick="nextMonth()">▶</button>
+            </div>
+            <div class="calendar-grid">
+                <div class="calendar-day-header">日</div>
+                <div class="calendar-day-header">一</div>
+                <div class="calendar-day-header">二</div>
+                <div class="calendar-day-header">三</div>
+                <div class="calendar-day-header">四</div>
+                <div class="calendar-day-header">五</div>
+                <div class="calendar-day-header">六</div>
+            </div>
+            <div id="calendarDays" class="calendar-days"></div>
+            <div class="calendar-legend">
+                <span class="legend-item"><span class="dot available"></span> 可預約</span>
+                <span class="legend-item"><span class="dot unavailable"></span> 已預約/不可用</span>
+                <span class="legend-item"><span class="dot limited"></span> 名額有限</span>
+            </div>
+        </section>
+
+        <!-- 場地列表 -->
+        <section id="listView" class="venues-section">
+            <div class="venues-header">
+                <h2>場地列表</h2>
+                <span id="totalVenues">共 0 個場地</span>
+            </div>
+            <div id="venuesList" class="venues-list">
+                <!-- 場地卡片將在這裡動態生成 -->
+            </div>
+        </section>
+
+        <!-- 匯出功能 -->
+        <section class="export-section">
+            <button onclick="exportToCSV()">📥 匯出 CSV</button>
+            <button onclick="exportToJSON()">📥 匯出 JSON</button>
+            <label class="import-btn">
+                📤 匯入資料
+                <input type="file" id="importFile" accept=".csv,.json" onchange="importData(event)" style="display: none;">
+            </label>
+        </section>
+    </div>
+
+    <!-- 場地詳情 Modal -->
+    <div id="venueModal" class="modal">
+        <div class="modal-content">
+            <span class="close" onclick="closeModal()">&times;</span>
+            <div id="venueDetails"></div>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>

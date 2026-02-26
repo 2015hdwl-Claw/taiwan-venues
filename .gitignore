@@ -1,0 +1,19 @@
+# 備份檔案
+*.backup
+*.bak
+
+# 開發用檔案
+.deploy
+DEPLOY.md
+GROK_*.md
+HOW_TO_USE_GROK.md
+QUICKSTART.md
+UPDATE_*.md
+
+# Agent 系統（內部用）
+agents/
+
+# 其他
+.DS_Store
+node_modules/
+.env
