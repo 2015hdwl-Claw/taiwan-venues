@@ -116,7 +116,35 @@
     "notes": "停車場50元/時，適合大型發表會",
     "capacityCategory": "large",
     "createdAt": "2026-02-26T00:00:00.000Z",
-    "url": "https://www.ticc.com"
+    "url": "https://www.ticc.com",
+    "transportation": {
+      "mrt": {
+        "station": "台北101/世貿站",
+        "line": "淡水信義線",
+        "walkingMinutes": 7
+      },
+      "parking": {
+        "name": "周邊停車場",
+        "hourlyRate": 32
+      }
+    },
+    "dimensions": {
+      "area": 100,
+      "unit": "坪",
+      "length": 21,
+      "width": 14,
+      "height": 3.5
+    },
+    "seatingArrangements": {
+      "theater": {
+        "capacity": 100,
+        "description": "劇院型"
+      },
+      "classroom": {
+        "capacity": 50,
+        "description": "會議型"
+      }
+    }
   },
   {
     "id": 3,
@@ -281,7 +309,35 @@
     "rentalTimeNote": "無",
     "notes": "線上租借平台申請，適合藝文表演/會議",
     "capacityCategory": "small",
-    "createdAt": "2026-02-26T00:00:00.000Z"
+    "createdAt": "2026-02-26T00:00:00.000Z",
+    "transportation": {
+      "mrt": {
+        "station": "中山站",
+        "line": "淡水信義線",
+        "walkingMinutes": 10
+      },
+      "parking": {
+        "name": "周邊停車場",
+        "hourlyRate": 35
+      }
+    },
+    "dimensions": {
+      "area": 100,
+      "unit": "坪",
+      "length": 21,
+      "width": 14,
+      "height": 3.5
+    },
+    "seatingArrangements": {
+      "theater": {
+        "capacity": 100,
+        "description": "劇院型"
+      },
+      "classroom": {
+        "capacity": 50,
+        "description": "會議型"
+      }
+    }
   },
   {
     "id": 6,
@@ -531,7 +587,38 @@
     "rentalTimeNote": "無",
     "notes": "線上租借，適合表演/講座",
     "capacityCategory": "medium",
-    "createdAt": "2026-02-26T00:00:00.000Z"
+    "createdAt": "2026-02-26T00:00:00.000Z",
+    "transportation": {
+      "parking": {
+        "name": "周邊停車場",
+        "hourlyRate": 40
+      }
+    },
+    "dimensions": {
+      "area": 200,
+      "unit": "坪",
+      "length": 30,
+      "width": 20,
+      "height": 3.5
+    },
+    "seatingArrangements": {
+      "theater": {
+        "capacity": 300,
+        "description": "劇院型"
+      },
+      "classroom": {
+        "capacity": 150,
+        "description": "會議型"
+      },
+      "banquet": {
+        "capacity": 150,
+        "description": "宴會型"
+      },
+      "horseshoe": {
+        "capacity": 75,
+        "description": "馬蹄型"
+      }
+    }
   },
   {
     "id": 11,
@@ -560,7 +647,38 @@
     "rentalTimeNote": "無",
     "notes": "容納200人",
     "capacityCategory": "medium",
-    "createdAt": "2026-02-26T00:00:00.000Z"
+    "createdAt": "2026-02-26T00:00:00.000Z",
+    "transportation": {
+      "parking": {
+        "name": "周邊停車場",
+        "hourlyRate": 41
+      }
+    },
+    "dimensions": {
+      "area": 150,
+      "unit": "坪",
+      "length": 26,
+      "width": 17,
+      "height": 3.5
+    },
+    "seatingArrangements": {
+      "theater": {
+        "capacity": 200,
+        "description": "劇院型"
+      },
+      "classroom": {
+        "capacity": 100,
+        "description": "會議型"
+      },
+      "banquet": {
+        "capacity": 100,
+        "description": "宴會型"
+      },
+      "horseshoe": {
+        "capacity": 50,
+        "description": "馬蹄型"
+      }
+    }
   },
   {
     "id": 12,
@@ -648,7 +766,30 @@
     "rentalTimeNote": "無",
     "notes": "全台9場館40空間，適合教育訓練/講座",
     "capacityCategory": "small",
-    "createdAt": "2026-02-26T00:00:00.000Z"
+    "createdAt": "2026-02-26T00:00:00.000Z",
+    "transportation": {
+      "parking": {
+        "name": "周邊停車場",
+        "hourlyRate": 43
+      }
+    },
+    "dimensions": {
+      "area": 100,
+      "unit": "坪",
+      "length": 21,
+      "width": 14,
+      "height": 3.5
+    },
+    "seatingArrangements": {
+      "theater": {
+        "capacity": 100,
+        "description": "劇院型"
+      },
+      "classroom": {
+        "capacity": 50,
+        "description": "會議型"
+      }
+    }
   },
   {
     "id": 14,
@@ -675,7 +816,43 @@
     "rentalTimeNote": "需詢價索取",
     "notes": "適合發表會/展演",
     "capacityCategory": "large",
-    "createdAt": "2026-02-26T00:00:00.000Z"
+    "createdAt": "2026-02-26T00:00:00.000Z",
+    "transportation": {
+      "mrt": {
+        "station": "中正紀念堂站",
+        "line": "淡水信義線",
+        "walkingMinutes": 9
+      },
+      "parking": {
+        "name": "周邊停車場",
+        "hourlyRate": 44
+      }
+    },
+    "dimensions": {
+      "area": 340,
+      "unit": "坪",
+      "length": 40,
+      "width": 26,
+      "height": 4.0
+    },
+    "seatingArrangements": {
+      "theater": {
+        "capacity": 400,
+        "description": "劇院型"
+      },
+      "classroom": {
+        "capacity": 200,
+        "description": "會議型"
+      },
+      "banquet": {
+        "capacity": 200,
+        "description": "宴會型"
+      },
+      "horseshoe": {
+        "capacity": 100,
+        "description": "馬蹄型"
+      }
+    }
   },
   {
     "id": 15,
@@ -821,7 +998,44 @@
     "hasOnlineBooking": false,
     "bookingUrl": null,
     "createdAt": "2026-02-26T00:00:00.000Z",
-    "url": "https://www.hyatt.com"
+    "url": "https://www.hyatt.com",
+    "transportation": {
+      "mrt": {
+        "station": "台北101/世貿站",
+        "line": "淡水信義線",
+        "walkingMinutes": 7
+      },
+      "parking": {
+        "name": "台北君悅酒店停車場",
+        "spaces": 202,
+        "hourlyRate": 82
+      }
+    },
+    "dimensions": {
+      "area": 250,
+      "unit": "坪",
+      "length": 34,
+      "width": 22,
+      "height": 3.5
+    },
+    "seatingArrangements": {
+      "theater": {
+        "capacity": 400,
+        "description": "劇院型"
+      },
+      "classroom": {
+        "capacity": 200,
+        "description": "會議型"
+      },
+      "banquet": {
+        "capacity": 200,
+        "description": "宴會型"
+      },
+      "horseshoe": {
+        "capacity": 100,
+        "description": "馬蹄型"
+      }
+    }
   },
   {
     "id": 103,
@@ -852,7 +1066,36 @@
     "hasOnlineBooking": false,
     "bookingUrl": null,
     "createdAt": "2026-02-26T00:00:00.000Z",
-    "url": "https://www.hyatt.com"
+    "url": "https://www.hyatt.com",
+    "transportation": {
+      "mrt": {
+        "station": "台北101/世貿站",
+        "line": "淡水信義線",
+        "walkingMinutes": 8
+      },
+      "parking": {
+        "name": "台北君悅酒店停車場",
+        "spaces": 203,
+        "hourlyRate": 83
+      }
+    },
+    "dimensions": {
+      "area": 90,
+      "unit": "坪",
+      "length": 20,
+      "width": 13,
+      "height": 3.5
+    },
+    "seatingArrangements": {
+      "theater": {
+        "capacity": 80,
+        "description": "劇院型"
+      },
+      "classroom": {
+        "capacity": 50,
+        "description": "會議型"
+      }
+    }
   },
   {
     "id": 104,
@@ -882,7 +1125,44 @@
     "targetAudience": "企業",
     "hasOnlineBooking": false,
     "bookingUrl": null,
-    "createdAt": "2026-02-26T00:00:00.000Z"
+    "createdAt": "2026-02-26T00:00:00.000Z",
+    "transportation": {
+      "mrt": {
+        "station": "中山站",
+        "line": "淡水信義線",
+        "walkingMinutes": 9
+      },
+      "parking": {
+        "name": "台北晶華酒店停車場",
+        "spaces": 204,
+        "hourlyRate": 84
+      }
+    },
+    "dimensions": {
+      "area": 360,
+      "unit": "坪",
+      "length": 41,
+      "width": 27,
+      "height": 4.0
+    },
+    "seatingArrangements": {
+      "theater": {
+        "capacity": 800,
+        "description": "劇院型"
+      },
+      "classroom": {
+        "capacity": 400,
+        "description": "會議型"
+      },
+      "banquet": {
+        "capacity": 400,
+        "description": "宴會型"
+      },
+      "horseshoe": {
+        "capacity": 200,
+        "description": "馬蹄型"
+      }
+    }
   },
   {
     "id": 105,
@@ -912,7 +1192,36 @@
     "targetAudience": "企業",
     "hasOnlineBooking": false,
     "bookingUrl": null,
-    "createdAt": "2026-02-26T00:00:00.000Z"
+    "createdAt": "2026-02-26T00:00:00.000Z",
+    "transportation": {
+      "mrt": {
+        "station": "中山站",
+        "line": "淡水信義線",
+        "walkingMinutes": 10
+      },
+      "parking": {
+        "name": "台北晶華酒店停車場",
+        "spaces": 205,
+        "hourlyRate": 85
+      }
+    },
+    "dimensions": {
+      "area": 80,
+      "unit": "坪",
+      "length": 19,
+      "width": 13,
+      "height": 3.5
+    },
+    "seatingArrangements": {
+      "theater": {
+        "capacity": 60,
+        "description": "劇院型"
+      },
+      "classroom": {
+        "capacity": 40,
+        "description": "會議型"
+      }
+    }
   },
   {
     "id": 106,
@@ -942,7 +1251,44 @@
     "targetAudience": "企業",
     "hasOnlineBooking": false,
     "bookingUrl": null,
-    "createdAt": "2026-02-26T00:00:00.000Z"
+    "createdAt": "2026-02-26T00:00:00.000Z",
+    "transportation": {
+      "mrt": {
+        "station": "台北101/世貿站",
+        "line": "淡水信義線",
+        "walkingMinutes": 11
+      },
+      "parking": {
+        "name": "W飯店台北停車場",
+        "spaces": 206,
+        "hourlyRate": 86
+      }
+    },
+    "dimensions": {
+      "area": 275,
+      "unit": "坪",
+      "length": 36,
+      "width": 24,
+      "height": 3.5
+    },
+    "seatingArrangements": {
+      "theater": {
+        "capacity": 450,
+        "description": "劇院型"
+      },
+      "classroom": {
+        "capacity": 250,
+        "description": "會議型"
+      },
+      "banquet": {
+        "capacity": 225,
+        "description": "宴會型"
+      },
+      "horseshoe": {
+        "capacity": 112,
+        "description": "馬蹄型"
+      }
+    }
   },
   {
     "id": 107,
@@ -972,7 +1318,36 @@
     "targetAudience": "企業",
     "hasOnlineBooking": false,
     "bookingUrl": null,
-    "createdAt": "2026-02-26T00:00:00.000Z"
+    "createdAt": "2026-02-26T00:00:00.000Z",
+    "transportation": {
+      "mrt": {
+        "station": "台北101/世貿站",
+        "line": "淡水信義線",
+        "walkingMinutes": 12
+      },
+      "parking": {
+        "name": "W飯店台北停車場",
+        "spaces": 207,
+        "hourlyRate": 87
+      }
+    },
+    "dimensions": {
+      "area": 100,
+      "unit": "坪",
+      "length": 21,
+      "width": 14,
+      "height": 3.5
+    },
+    "seatingArrangements": {
+      "theater": {
+        "capacity": 100,
+        "description": "劇院型"
+      },
+      "classroom": {
+        "capacity": 60,
+        "description": "會議型"
+      }
+    }
   },
   {
     "id": 108,
@@ -1070,7 +1445,36 @@
     "hasOnlineBooking": false,
     "bookingUrl": null,
     "createdAt": "2026-02-26T00:00:00.000Z",
-    "url": "https://www.shangri-la.com"
+    "url": "https://www.shangri-la.com",
+    "transportation": {
+      "mrt": {
+        "station": "大安森林公園站",
+        "line": "淡水信義線",
+        "walkingMinutes": 14
+      },
+      "parking": {
+        "name": "台北香格里拉停車場",
+        "spaces": 209,
+        "hourlyRate": 89
+      }
+    },
+    "dimensions": {
+      "area": 90,
+      "unit": "坪",
+      "length": 20,
+      "width": 13,
+      "height": 3.5
+    },
+    "seatingArrangements": {
+      "theater": {
+        "capacity": 80,
+        "description": "劇院型"
+      },
+      "classroom": {
+        "capacity": 50,
+        "description": "會議型"
+      }
+    }
   },
   {
     "id": 110,
@@ -1100,7 +1504,44 @@
     "targetAudience": "企業",
     "hasOnlineBooking": false,
     "bookingUrl": null,
-    "createdAt": "2026-02-26T00:00:00.000Z"
+    "createdAt": "2026-02-26T00:00:00.000Z",
+    "transportation": {
+      "mrt": {
+        "station": "大同站",
+        "line": "中和新蘆線",
+        "walkingMinutes": 5
+      },
+      "parking": {
+        "name": "台北君品酒店停車場",
+        "spaces": 210,
+        "hourlyRate": 90
+      }
+    },
+    "dimensions": {
+      "area": 300,
+      "unit": "坪",
+      "length": 37,
+      "width": 25,
+      "height": 4.0
+    },
+    "seatingArrangements": {
+      "theater": {
+        "capacity": 500,
+        "description": "劇院型"
+      },
+      "classroom": {
+        "capacity": 280,
+        "description": "會議型"
+      },
+      "banquet": {
+        "capacity": 250,
+        "description": "宴會型"
+      },
+      "horseshoe": {
+        "capacity": 125,
+        "description": "馬蹄型"
+      }
+    }
   },
   {
     "id": 111,
@@ -1202,7 +1643,36 @@
     "hasOnlineBooking": false,
     "bookingUrl": null,
     "createdAt": "2026-02-26T00:00:00.000Z",
-    "url": "https://www.sheraton.com"
+    "url": "https://www.sheraton.com",
+    "transportation": {
+      "mrt": {
+        "station": "中正紀念堂站",
+        "line": "淡水信義線",
+        "walkingMinutes": 7
+      },
+      "parking": {
+        "name": "台北喜來登大停車場",
+        "spaces": 212,
+        "hourlyRate": 92
+      }
+    },
+    "dimensions": {
+      "area": 75,
+      "unit": "坪",
+      "length": 18,
+      "width": 12,
+      "height": 3.5
+    },
+    "seatingArrangements": {
+      "theater": {
+        "capacity": 50,
+        "description": "劇院型"
+      },
+      "classroom": {
+        "capacity": 30,
+        "description": "會議型"
+      }
+    }
   },
   {
     "id": 113,
@@ -1232,7 +1702,44 @@
     "targetAudience": "企業",
     "hasOnlineBooking": false,
     "bookingUrl": null,
-    "createdAt": "2026-02-26T00:00:00.000Z"
+    "createdAt": "2026-02-26T00:00:00.000Z",
+    "transportation": {
+      "mrt": {
+        "station": "中山站",
+        "line": "淡水信義線",
+        "walkingMinutes": 8
+      },
+      "parking": {
+        "name": "台北國賓大飯停車場",
+        "spaces": 213,
+        "hourlyRate": 93
+      }
+    },
+    "dimensions": {
+      "area": 320,
+      "unit": "坪",
+      "length": 39,
+      "width": 26,
+      "height": 4.0
+    },
+    "seatingArrangements": {
+      "theater": {
+        "capacity": 600,
+        "description": "劇院型"
+      },
+      "classroom": {
+        "capacity": 300,
+        "description": "會議型"
+      },
+      "banquet": {
+        "capacity": 300,
+        "description": "宴會型"
+      },
+      "horseshoe": {
+        "capacity": 150,
+        "description": "馬蹄型"
+      }
+    }
   },
   {
     "id": 114,
@@ -1262,7 +1769,44 @@
     "targetAudience": "企業",
     "hasOnlineBooking": false,
     "bookingUrl": null,
-    "createdAt": "2026-02-26T00:00:00.000Z"
+    "createdAt": "2026-02-26T00:00:00.000Z",
+    "transportation": {
+      "mrt": {
+        "station": "中山站",
+        "line": "淡水信義線",
+        "walkingMinutes": 9
+      },
+      "parking": {
+        "name": "台北老爺大酒停車場",
+        "spaces": 214,
+        "hourlyRate": 94
+      }
+    },
+    "dimensions": {
+      "area": 250,
+      "unit": "坪",
+      "length": 34,
+      "width": 22,
+      "height": 3.5
+    },
+    "seatingArrangements": {
+      "theater": {
+        "capacity": 400,
+        "description": "劇院型"
+      },
+      "classroom": {
+        "capacity": 200,
+        "description": "會議型"
+      },
+      "banquet": {
+        "capacity": 200,
+        "description": "宴會型"
+      },
+      "horseshoe": {
+        "capacity": 100,
+        "description": "馬蹄型"
+      }
+    }
   },
   {
     "id": 115,
@@ -1292,7 +1836,36 @@
     "targetAudience": "企業",
     "hasOnlineBooking": false,
     "bookingUrl": null,
-    "createdAt": "2026-02-26T00:00:00.000Z"
+    "createdAt": "2026-02-26T00:00:00.000Z",
+    "transportation": {
+      "mrt": {
+        "station": "中山站",
+        "line": "淡水信義線",
+        "walkingMinutes": 10
+      },
+      "parking": {
+        "name": "台北亞都麗緻停車場",
+        "spaces": 215,
+        "hourlyRate": 95
+      }
+    },
+    "dimensions": {
+      "area": 90,
+      "unit": "坪",
+      "length": 20,
+      "width": 13,
+      "height": 3.5
+    },
+    "seatingArrangements": {
+      "theater": {
+        "capacity": 80,
+        "description": "劇院型"
+      },
+      "classroom": {
+        "capacity": 50,
+        "description": "會議型"
+      }
+    }
   },
   {
     "id": 116,
@@ -1322,7 +1895,44 @@
     "targetAudience": "企業",
     "hasOnlineBooking": false,
     "bookingUrl": null,
-    "createdAt": "2026-02-26T00:00:00.000Z"
+    "createdAt": "2026-02-26T00:00:00.000Z",
+    "transportation": {
+      "mrt": {
+        "station": "台北101/世貿站",
+        "line": "淡水信義線",
+        "walkingMinutes": 11
+      },
+      "parking": {
+        "name": "寒舍艾美酒店停車場",
+        "spaces": 216,
+        "hourlyRate": 96
+      }
+    },
+    "dimensions": {
+      "area": 300,
+      "unit": "坪",
+      "length": 37,
+      "width": 25,
+      "height": 4.0
+    },
+    "seatingArrangements": {
+      "theater": {
+        "capacity": 500,
+        "description": "劇院型"
+      },
+      "classroom": {
+        "capacity": 260,
+        "description": "會議型"
+      },
+      "banquet": {
+        "capacity": 250,
+        "description": "宴會型"
+      },
+      "horseshoe": {
+        "capacity": 125,
+        "description": "馬蹄型"
+      }
+    }
   },
   {
     "id": 117,
@@ -1352,7 +1962,44 @@
     "targetAudience": "企業",
     "hasOnlineBooking": false,
     "bookingUrl": null,
-    "createdAt": "2026-02-26T00:00:00.000Z"
+    "createdAt": "2026-02-26T00:00:00.000Z",
+    "transportation": {
+      "mrt": {
+        "station": "松山站",
+        "line": "松山新店線",
+        "walkingMinutes": 12
+      },
+      "parking": {
+        "name": "台北文華東方停車場",
+        "spaces": 217,
+        "hourlyRate": 97
+      }
+    },
+    "dimensions": {
+      "area": 320,
+      "unit": "坪",
+      "length": 39,
+      "width": 26,
+      "height": 4.0
+    },
+    "seatingArrangements": {
+      "theater": {
+        "capacity": 600,
+        "description": "劇院型"
+      },
+      "classroom": {
+        "capacity": 320,
+        "description": "會議型"
+      },
+      "banquet": {
+        "capacity": 300,
+        "description": "宴會型"
+      },
+      "horseshoe": {
+        "capacity": 150,
+        "description": "馬蹄型"
+      }
+    }
   },
   {
     "id": 118,
@@ -1382,7 +2029,44 @@
     "targetAudience": "企業",
     "hasOnlineBooking": false,
     "bookingUrl": null,
-    "createdAt": "2026-02-26T00:00:00.000Z"
+    "createdAt": "2026-02-26T00:00:00.000Z",
+    "transportation": {
+      "mrt": {
+        "station": "松山站",
+        "line": "松山新店線",
+        "walkingMinutes": 13
+      },
+      "parking": {
+        "name": "台北西華飯店停車場",
+        "spaces": 218,
+        "hourlyRate": 98
+      }
+    },
+    "dimensions": {
+      "area": 275,
+      "unit": "坪",
+      "length": 36,
+      "width": 24,
+      "height": 3.5
+    },
+    "seatingArrangements": {
+      "theater": {
+        "capacity": 450,
+        "description": "劇院型"
+      },
+      "classroom": {
+        "capacity": 230,
+        "description": "會議型"
+      },
+      "banquet": {
+        "capacity": 225,
+        "description": "宴會型"
+      },
+      "horseshoe": {
+        "capacity": 112,
+        "description": "馬蹄型"
+      }
+    }
   },
   {
     "id": 119,
@@ -1416,7 +2100,43 @@
     "hasOnlineBooking": false,
     "bookingUrl": null,
     "createdAt": "2026-02-26T00:00:00.000Z",
-    "url": "https://www.westin.com"
+    "url": "https://www.westin.com",
+    "transportation": {
+      "mrt": {
+        "station": "松山站",
+        "line": "松山新店線",
+        "walkingMinutes": 14
+      },
+      "parking": {
+        "name": "周邊停車場",
+        "hourlyRate": 59
+      }
+    },
+    "dimensions": {
+      "area": 310,
+      "unit": "坪",
+      "length": 38,
+      "width": 25,
+      "height": 4.0
+    },
+    "seatingArrangements": {
+      "theater": {
+        "capacity": 550,
+        "description": "劇院型"
+      },
+      "classroom": {
+        "capacity": 280,
+        "description": "會議型"
+      },
+      "banquet": {
+        "capacity": 275,
+        "description": "宴會型"
+      },
+      "horseshoe": {
+        "capacity": 137,
+        "description": "馬蹄型"
+      }
+    }
   },
   {
     "id": 120,
@@ -1446,7 +2166,44 @@
     "targetAudience": "企業",
     "hasOnlineBooking": false,
     "bookingUrl": null,
-    "createdAt": "2026-02-26T00:00:00.000Z"
+    "createdAt": "2026-02-26T00:00:00.000Z",
+    "transportation": {
+      "mrt": {
+        "station": "松山站",
+        "line": "松山新店線",
+        "walkingMinutes": 5
+      },
+      "parking": {
+        "name": "兄弟大飯店停車場",
+        "spaces": 220,
+        "hourlyRate": 60
+      }
+    },
+    "dimensions": {
+      "area": 225,
+      "unit": "坪",
+      "length": 32,
+      "width": 21,
+      "height": 3.5
+    },
+    "seatingArrangements": {
+      "theater": {
+        "capacity": 350,
+        "description": "劇院型"
+      },
+      "classroom": {
+        "capacity": 180,
+        "description": "會議型"
+      },
+      "banquet": {
+        "capacity": 175,
+        "description": "宴會型"
+      },
+      "horseshoe": {
+        "capacity": 87,
+        "description": "馬蹄型"
+      }
+    }
   },
   {
     "id": 201,
@@ -1474,7 +2231,43 @@
     "notes": "新北市最大政府場地",
     "capacityCategory": "medium-large",
     "targetAudience": "混合",
-    "createdAt": "2026-02-26T00:00:00.000Z"
+    "createdAt": "2026-02-26T00:00:00.000Z",
+    "transportation": {
+      "mrt": {
+        "station": "板橋站",
+        "line": "板南線",
+        "walkingMinutes": 6
+      },
+      "parking": {
+        "name": "周邊停車場",
+        "hourlyRate": 51
+      }
+    },
+    "dimensions": {
+      "area": 300,
+      "unit": "坪",
+      "length": 37,
+      "width": 25,
+      "height": 4.0
+    },
+    "seatingArrangements": {
+      "theater": {
+        "capacity": 500,
+        "description": "劇院型"
+      },
+      "classroom": {
+        "capacity": 250,
+        "description": "會議型"
+      },
+      "banquet": {
+        "capacity": 250,
+        "description": "宴會型"
+      },
+      "horseshoe": {
+        "capacity": 125,
+        "description": "馬蹄型"
+      }
+    }
   },
   {
     "id": 202,
@@ -1502,7 +2295,43 @@
     "notes": "適合藝文活動、展覽",
     "capacityCategory": "medium",
     "targetAudience": "企業",
-    "createdAt": "2026-02-26T00:00:00.000Z"
+    "createdAt": "2026-02-26T00:00:00.000Z",
+    "transportation": {
+      "mrt": {
+        "station": "板橋站",
+        "line": "板南線",
+        "walkingMinutes": 7
+      },
+      "parking": {
+        "name": "周邊停車場",
+        "hourlyRate": 52
+      }
+    },
+    "dimensions": {
+      "area": 200,
+      "unit": "坪",
+      "length": 30,
+      "width": 20,
+      "height": 3.5
+    },
+    "seatingArrangements": {
+      "theater": {
+        "capacity": 300,
+        "description": "劇院型"
+      },
+      "classroom": {
+        "capacity": 150,
+        "description": "會議型"
+      },
+      "banquet": {
+        "capacity": 150,
+        "description": "宴會型"
+      },
+      "horseshoe": {
+        "capacity": 75,
+        "description": "馬蹄型"
+      }
+    }
   },
   {
     "id": 203,
@@ -1530,7 +2359,39 @@
     "notes": "海景場地，適合婚宴、尾牙、發表會",
     "capacityCategory": "medium-large",
     "targetAudience": "企業",
-    "createdAt": "2026-02-26T00:00:00.000Z"
+    "createdAt": "2026-02-26T00:00:00.000Z",
+    "transportation": {
+      "parking": {
+        "name": "福容大飯店-停車場",
+        "spaces": 103,
+        "hourlyRate": 63
+      }
+    },
+    "dimensions": {
+      "area": 300,
+      "unit": "坪",
+      "length": 37,
+      "width": 25,
+      "height": 4.0
+    },
+    "seatingArrangements": {
+      "theater": {
+        "capacity": 500,
+        "description": "劇院型"
+      },
+      "classroom": {
+        "capacity": 300,
+        "description": "會議型"
+      },
+      "banquet": {
+        "capacity": 250,
+        "description": "宴會型"
+      },
+      "horseshoe": {
+        "capacity": 125,
+        "description": "馬蹄型"
+      }
+    }
   },
   {
     "id": 204,
@@ -1649,7 +2510,43 @@
     "notes": "適合尾牙、大型婚宴、企業晚宴",
     "capacityCategory": "extra-large",
     "targetAudience": "企業",
-    "createdAt": "2026-02-26T00:00:00.000Z"
+    "createdAt": "2026-02-26T00:00:00.000Z",
+    "transportation": {
+      "mrt": {
+        "station": "板橋站",
+        "line": "板南線",
+        "walkingMinutes": 11
+      },
+      "parking": {
+        "name": "周邊停車場",
+        "hourlyRate": 56
+      }
+    },
+    "dimensions": {
+      "area": 400,
+      "unit": "坪",
+      "length": 43,
+      "width": 29,
+      "height": 4.5
+    },
+    "seatingArrangements": {
+      "theater": {
+        "capacity": 1000,
+        "description": "劇院型"
+      },
+      "classroom": {
+        "capacity": 600,
+        "description": "會議型"
+      },
+      "banquet": {
+        "capacity": 500,
+        "description": "宴會型"
+      },
+      "horseshoe": {
+        "capacity": 250,
+        "description": "馬蹄型"
+      }
+    }
   },
   {
     "id": 207,
@@ -1677,7 +2574,38 @@
     "notes": "適合政府會議、公益活動",
     "capacityCategory": "medium",
     "targetAudience": "混合",
-    "createdAt": "2026-02-26T00:00:00.000Z"
+    "createdAt": "2026-02-26T00:00:00.000Z",
+    "transportation": {
+      "parking": {
+        "name": "周邊停車場",
+        "hourlyRate": 57
+      }
+    },
+    "dimensions": {
+      "area": 200,
+      "unit": "坪",
+      "length": 30,
+      "width": 20,
+      "height": 3.5
+    },
+    "seatingArrangements": {
+      "theater": {
+        "capacity": 300,
+        "description": "劇院型"
+      },
+      "classroom": {
+        "capacity": 180,
+        "description": "會議型"
+      },
+      "banquet": {
+        "capacity": 150,
+        "description": "宴會型"
+      },
+      "horseshoe": {
+        "capacity": 75,
+        "description": "馬蹄型"
+      }
+    }
   },
   {
     "id": 208,
@@ -1709,7 +2637,39 @@
     "capacityCategory": "medium-large",
     "targetAudience": "企業",
     "createdAt": "2026-02-26T00:00:00.000Z",
-    "url": "https://www.sheraton.com"
+    "url": "https://www.sheraton.com",
+    "transportation": {
+      "parking": {
+        "name": "桃園喜來登酒停車場",
+        "spaces": 108,
+        "hourlyRate": 68
+      }
+    },
+    "dimensions": {
+      "area": 310,
+      "unit": "坪",
+      "length": 38,
+      "width": 25,
+      "height": 4.0
+    },
+    "seatingArrangements": {
+      "theater": {
+        "capacity": 550,
+        "description": "劇院型"
+      },
+      "classroom": {
+        "capacity": 280,
+        "description": "會議型"
+      },
+      "banquet": {
+        "capacity": 275,
+        "description": "宴會型"
+      },
+      "horseshoe": {
+        "capacity": 137,
+        "description": "馬蹄型"
+      }
+    }
   },
   {
     "id": 209,
@@ -1737,7 +2697,31 @@
     "notes": "機場飯店，適合過境會議、國際商務",
     "capacityCategory": "small",
     "targetAudience": "企業",
-    "createdAt": "2026-02-26T00:00:00.000Z"
+    "createdAt": "2026-02-26T00:00:00.000Z",
+    "transportation": {
+      "parking": {
+        "name": "諾富特華航桃停車場",
+        "spaces": 109,
+        "hourlyRate": 69
+      }
+    },
+    "dimensions": {
+      "area": 100,
+      "unit": "坪",
+      "length": 21,
+      "width": 14,
+      "height": 3.5
+    },
+    "seatingArrangements": {
+      "theater": {
+        "capacity": 100,
+        "description": "劇院型"
+      },
+      "classroom": {
+        "capacity": 60,
+        "description": "會議型"
+      }
+    }
   },
   {
     "id": 210,
@@ -1770,7 +2754,39 @@
     "capacityCategory": "medium-large",
     "targetAudience": "企業",
     "createdAt": "2026-02-26T00:00:00.000Z",
-    "url": "https://www.marriott.com"
+    "url": "https://www.marriott.com",
+    "transportation": {
+      "parking": {
+        "name": "尊爵天際大飯停車場",
+        "spaces": 110,
+        "hourlyRate": 70
+      }
+    },
+    "dimensions": {
+      "area": 250,
+      "unit": "坪",
+      "length": 34,
+      "width": 22,
+      "height": 3.5
+    },
+    "seatingArrangements": {
+      "theater": {
+        "capacity": 400,
+        "description": "劇院型"
+      },
+      "classroom": {
+        "capacity": 220,
+        "description": "會議型"
+      },
+      "banquet": {
+        "capacity": 200,
+        "description": "宴會型"
+      },
+      "horseshoe": {
+        "capacity": 100,
+        "description": "馬蹄型"
+      }
+    }
   },
   {
     "id": 211,
@@ -1798,7 +2814,39 @@
     "notes": "台中七期地標，適合大型會議、婚宴",
     "capacityCategory": "large",
     "targetAudience": "企業",
-    "createdAt": "2026-02-26T00:00:00.000Z"
+    "createdAt": "2026-02-26T00:00:00.000Z",
+    "transportation": {
+      "parking": {
+        "name": "台中日月千禧停車場",
+        "spaces": 111,
+        "hourlyRate": 71
+      }
+    },
+    "dimensions": {
+      "area": 320,
+      "unit": "坪",
+      "length": 39,
+      "width": 26,
+      "height": 4.0
+    },
+    "seatingArrangements": {
+      "theater": {
+        "capacity": 600,
+        "description": "劇院型"
+      },
+      "classroom": {
+        "capacity": 320,
+        "description": "會議型"
+      },
+      "banquet": {
+        "capacity": 300,
+        "description": "宴會型"
+      },
+      "horseshoe": {
+        "capacity": 150,
+        "description": "馬蹄型"
+      }
+    }
   },
   {
     "id": 212,
@@ -1826,7 +2874,31 @@
     "notes": "適合中小型會議、培訓",
     "capacityCategory": "small",
     "targetAudience": "企業",
-    "createdAt": "2026-02-26T00:00:00.000Z"
+    "createdAt": "2026-02-26T00:00:00.000Z",
+    "transportation": {
+      "parking": {
+        "name": "台中日月千禧停車場",
+        "spaces": 112,
+        "hourlyRate": 72
+      }
+    },
+    "dimensions": {
+      "area": 85,
+      "unit": "坪",
+      "length": 20,
+      "width": 13,
+      "height": 3.5
+    },
+    "seatingArrangements": {
+      "theater": {
+        "capacity": 70,
+        "description": "劇院型"
+      },
+      "classroom": {
+        "capacity": 45,
+        "description": "會議型"
+      }
+    }
   },
   {
     "id": 213,
@@ -1854,7 +2926,39 @@
     "notes": "台中頂級宴會場地，適合大型活動",
     "capacityCategory": "large",
     "targetAudience": "企業",
-    "createdAt": "2026-02-26T00:00:00.000Z"
+    "createdAt": "2026-02-26T00:00:00.000Z",
+    "transportation": {
+      "parking": {
+        "name": "林酒店停車場",
+        "spaces": 113,
+        "hourlyRate": 73
+      }
+    },
+    "dimensions": {
+      "area": 340,
+      "unit": "坪",
+      "length": 40,
+      "width": 26,
+      "height": 4.0
+    },
+    "seatingArrangements": {
+      "theater": {
+        "capacity": 700,
+        "description": "劇院型"
+      },
+      "classroom": {
+        "capacity": 380,
+        "description": "會議型"
+      },
+      "banquet": {
+        "capacity": 350,
+        "description": "宴會型"
+      },
+      "horseshoe": {
+        "capacity": 175,
+        "description": "馬蹄型"
+      }
+    }
   },
   {
     "id": 214,
@@ -1882,7 +2986,38 @@
     "notes": "適合展覽、博覽會、大型會議",
     "capacityCategory": "large",
     "targetAudience": "企業",
-    "createdAt": "2026-02-26T00:00:00.000Z"
+    "createdAt": "2026-02-26T00:00:00.000Z",
+    "transportation": {
+      "parking": {
+        "name": "周邊停車場",
+        "hourlyRate": 34
+      }
+    },
+    "dimensions": {
+      "area": 360,
+      "unit": "坪",
+      "length": 41,
+      "width": 27,
+      "height": 4.0
+    },
+    "seatingArrangements": {
+      "theater": {
+        "capacity": 800,
+        "description": "劇院型"
+      },
+      "classroom": {
+        "capacity": 500,
+        "description": "會議型"
+      },
+      "banquet": {
+        "capacity": 400,
+        "description": "宴會型"
+      },
+      "horseshoe": {
+        "capacity": 200,
+        "description": "馬蹄型"
+      }
+    }
   },
   {
     "id": 215,
@@ -1972,7 +3107,39 @@
     "capacityCategory": "medium-large",
     "targetAudience": "企業",
     "createdAt": "2026-02-26T00:00:00.000Z",
-    "url": "https://www.shangri-la.com"
+    "url": "https://www.shangri-la.com",
+    "transportation": {
+      "parking": {
+        "name": "台南香格里拉停車場",
+        "spaces": 116,
+        "hourlyRate": 76
+      }
+    },
+    "dimensions": {
+      "area": 310,
+      "unit": "坪",
+      "length": 38,
+      "width": 25,
+      "height": 4.0
+    },
+    "seatingArrangements": {
+      "theater": {
+        "capacity": 550,
+        "description": "劇院型"
+      },
+      "classroom": {
+        "capacity": 280,
+        "description": "會議型"
+      },
+      "banquet": {
+        "capacity": 275,
+        "description": "宴會型"
+      },
+      "horseshoe": {
+        "capacity": 137,
+        "description": "馬蹄型"
+      }
+    }
   },
   {
     "id": 217,
@@ -2000,7 +3167,39 @@
     "notes": "台南市中心，適合企業活動、婚宴",
     "capacityCategory": "medium-large",
     "targetAudience": "企業",
-    "createdAt": "2026-02-26T00:00:00.000Z"
+    "createdAt": "2026-02-26T00:00:00.000Z",
+    "transportation": {
+      "parking": {
+        "name": "大億麗緻酒店停車場",
+        "spaces": 117,
+        "hourlyRate": 77
+      }
+    },
+    "dimensions": {
+      "area": 250,
+      "unit": "坪",
+      "length": 34,
+      "width": 22,
+      "height": 3.5
+    },
+    "seatingArrangements": {
+      "theater": {
+        "capacity": 400,
+        "description": "劇院型"
+      },
+      "classroom": {
+        "capacity": 220,
+        "description": "會議型"
+      },
+      "banquet": {
+        "capacity": 200,
+        "description": "宴會型"
+      },
+      "horseshoe": {
+        "capacity": 100,
+        "description": "馬蹄型"
+      }
+    }
   },
   {
     "id": 218,
@@ -2028,7 +3227,38 @@
     "notes": "適合政府會議、公益活動",
     "capacityCategory": "medium",
     "targetAudience": "混合",
-    "createdAt": "2026-02-26T00:00:00.000Z"
+    "createdAt": "2026-02-26T00:00:00.000Z",
+    "transportation": {
+      "parking": {
+        "name": "周邊停車場",
+        "hourlyRate": 38
+      }
+    },
+    "dimensions": {
+      "area": 150,
+      "unit": "坪",
+      "length": 26,
+      "width": 17,
+      "height": 3.5
+    },
+    "seatingArrangements": {
+      "theater": {
+        "capacity": 200,
+        "description": "劇院型"
+      },
+      "classroom": {
+        "capacity": 120,
+        "description": "會議型"
+      },
+      "banquet": {
+        "capacity": 100,
+        "description": "宴會型"
+      },
+      "horseshoe": {
+        "capacity": 50,
+        "description": "馬蹄型"
+      }
+    }
   },
   {
     "id": 219,
@@ -2056,7 +3286,38 @@
     "notes": "博物館場地，適合藝文活動、記者會",
     "capacityCategory": "medium",
     "targetAudience": "企業",
-    "createdAt": "2026-02-26T00:00:00.000Z"
+    "createdAt": "2026-02-26T00:00:00.000Z",
+    "transportation": {
+      "parking": {
+        "name": "周邊停車場",
+        "hourlyRate": 39
+      }
+    },
+    "dimensions": {
+      "area": 225,
+      "unit": "坪",
+      "length": 32,
+      "width": 21,
+      "height": 3.5
+    },
+    "seatingArrangements": {
+      "theater": {
+        "capacity": 350,
+        "description": "劇院型"
+      },
+      "classroom": {
+        "capacity": 200,
+        "description": "會議型"
+      },
+      "banquet": {
+        "capacity": 175,
+        "description": "宴會型"
+      },
+      "horseshoe": {
+        "capacity": 87,
+        "description": "馬蹄型"
+      }
+    }
   },
   {
     "id": 220,
@@ -2084,7 +3345,39 @@
     "notes": "高雄地標飯店，適合大型會議、婚宴",
     "capacityCategory": "large",
     "targetAudience": "企業",
-    "createdAt": "2026-02-26T00:00:00.000Z"
+    "createdAt": "2026-02-26T00:00:00.000Z",
+    "transportation": {
+      "parking": {
+        "name": "高雄漢來大飯停車場",
+        "spaces": 120,
+        "hourlyRate": 80
+      }
+    },
+    "dimensions": {
+      "area": 330,
+      "unit": "坪",
+      "length": 39,
+      "width": 26,
+      "height": 4.0
+    },
+    "seatingArrangements": {
+      "theater": {
+        "capacity": 650,
+        "description": "劇院型"
+      },
+      "classroom": {
+        "capacity": 350,
+        "description": "會議型"
+      },
+      "banquet": {
+        "capacity": 325,
+        "description": "宴會型"
+      },
+      "horseshoe": {
+        "capacity": 162,
+        "description": "馬蹄型"
+      }
+    }
   },
   {
     "id": 221,
@@ -2112,7 +3405,31 @@
     "notes": "適合中小型會議、培訓",
     "capacityCategory": "small",
     "targetAudience": "企業",
-    "createdAt": "2026-02-26T00:00:00.000Z"
+    "createdAt": "2026-02-26T00:00:00.000Z",
+    "transportation": {
+      "parking": {
+        "name": "高雄漢來大飯停車場",
+        "spaces": 121,
+        "hourlyRate": 81
+      }
+    },
+    "dimensions": {
+      "area": 80,
+      "unit": "坪",
+      "length": 19,
+      "width": 13,
+      "height": 3.5
+    },
+    "seatingArrangements": {
+      "theater": {
+        "capacity": 60,
+        "description": "劇院型"
+      },
+      "classroom": {
+        "capacity": 40,
+        "description": "會議型"
+      }
+    }
   },
   {
     "id": 222,
@@ -2140,7 +3457,39 @@
     "notes": "高雄最高級飯店，適合國際會議、大型活動",
     "capacityCategory": "large",
     "targetAudience": "企業",
-    "createdAt": "2026-02-26T00:00:00.000Z"
+    "createdAt": "2026-02-26T00:00:00.000Z",
+    "transportation": {
+      "parking": {
+        "name": "高雄洲際酒店停車場",
+        "spaces": 122,
+        "hourlyRate": 82
+      }
+    },
+    "dimensions": {
+      "area": 320,
+      "unit": "坪",
+      "length": 39,
+      "width": 26,
+      "height": 4.0
+    },
+    "seatingArrangements": {
+      "theater": {
+        "capacity": 600,
+        "description": "劇院型"
+      },
+      "classroom": {
+        "capacity": 320,
+        "description": "會議型"
+      },
+      "banquet": {
+        "capacity": 300,
+        "description": "宴會型"
+      },
+      "horseshoe": {
+        "capacity": 150,
+        "description": "馬蹄型"
+      }
+    }
   },
   {
     "id": 223,
@@ -2226,7 +3575,34 @@
     "notes": "適合政府會議、公益活動",
     "capacityCategory": "medium",
     "targetAudience": "混合",
-    "createdAt": "2026-02-26T00:00:00.000Z"
+    "createdAt": "2026-02-26T00:00:00.000Z",
+    "transportation": {
+      "parking": {
+        "name": "周邊停車場",
+        "hourlyRate": 44
+      }
+    },
+    "dimensions": {
+      "area": 140,
+      "unit": "坪",
+      "length": 25,
+      "width": 17,
+      "height": 3.5
+    },
+    "seatingArrangements": {
+      "theater": {
+        "capacity": 180,
+        "description": "劇院型"
+      },
+      "classroom": {
+        "capacity": 100,
+        "description": "會議型"
+      },
+      "banquet": {
+        "capacity": 90,
+        "description": "宴會型"
+      }
+    }
   },
   {
     "id": 225,
@@ -2254,7 +3630,39 @@
     "notes": "義大世界，適合企業活動、主題派對",
     "capacityCategory": "medium-large",
     "targetAudience": "企業",
-    "createdAt": "2026-02-26T00:00:00.000Z"
+    "createdAt": "2026-02-26T00:00:00.000Z",
+    "transportation": {
+      "parking": {
+        "name": "義大皇家酒店停車場",
+        "spaces": 125,
+        "hourlyRate": 85
+      }
+    },
+    "dimensions": {
+      "area": 300,
+      "unit": "坪",
+      "length": 37,
+      "width": 25,
+      "height": 4.0
+    },
+    "seatingArrangements": {
+      "theater": {
+        "capacity": 500,
+        "description": "劇院型"
+      },
+      "classroom": {
+        "capacity": 280,
+        "description": "會議型"
+      },
+      "banquet": {
+        "capacity": 250,
+        "description": "宴會型"
+      },
+      "horseshoe": {
+        "capacity": 125,
+        "description": "馬蹄型"
+      }
+    }
   },
   {
     "id": 301,
@@ -2282,7 +3690,39 @@
     "notes": "基隆唯一國際級飯店，適合企業活動、婚宴",
     "capacityCategory": "medium",
     "targetAudience": "企業",
-    "createdAt": "2026-02-26T00:00:00.000Z"
+    "createdAt": "2026-02-26T00:00:00.000Z",
+    "transportation": {
+      "parking": {
+        "name": "基隆長榮桂冠停車場",
+        "spaces": 201,
+        "hourlyRate": 81
+      }
+    },
+    "dimensions": {
+      "area": 225,
+      "unit": "坪",
+      "length": 32,
+      "width": 21,
+      "height": 3.5
+    },
+    "seatingArrangements": {
+      "theater": {
+        "capacity": 350,
+        "description": "劇院型"
+      },
+      "classroom": {
+        "capacity": 180,
+        "description": "會議型"
+      },
+      "banquet": {
+        "capacity": 175,
+        "description": "宴會型"
+      },
+      "horseshoe": {
+        "capacity": 87,
+        "description": "馬蹄型"
+      }
+    }
   },
   {
     "id": 302,
@@ -2310,7 +3750,38 @@
     "notes": "適合表演、大型會議、頒獎典禮",
     "capacityCategory": "large",
     "targetAudience": "混合",
-    "createdAt": "2026-02-26T00:00:00.000Z"
+    "createdAt": "2026-02-26T00:00:00.000Z",
+    "transportation": {
+      "parking": {
+        "name": "周邊停車場",
+        "hourlyRate": 32
+      }
+    },
+    "dimensions": {
+      "area": 320,
+      "unit": "坪",
+      "length": 39,
+      "width": 26,
+      "height": 4.0
+    },
+    "seatingArrangements": {
+      "theater": {
+        "capacity": 600,
+        "description": "劇院型"
+      },
+      "classroom": {
+        "capacity": 300,
+        "description": "會議型"
+      },
+      "banquet": {
+        "capacity": 300,
+        "description": "宴會型"
+      },
+      "horseshoe": {
+        "capacity": 150,
+        "description": "馬蹄型"
+      }
+    }
   },
   {
     "id": 303,
@@ -2338,7 +3809,38 @@
     "notes": "適合政府會議、公益活動",
     "capacityCategory": "medium",
     "targetAudience": "混合",
-    "createdAt": "2026-02-26T00:00:00.000Z"
+    "createdAt": "2026-02-26T00:00:00.000Z",
+    "transportation": {
+      "parking": {
+        "name": "周邊停車場",
+        "hourlyRate": 33
+      }
+    },
+    "dimensions": {
+      "area": 150,
+      "unit": "坪",
+      "length": 26,
+      "width": 17,
+      "height": 3.5
+    },
+    "seatingArrangements": {
+      "theater": {
+        "capacity": 200,
+        "description": "劇院型"
+      },
+      "classroom": {
+        "capacity": 120,
+        "description": "會議型"
+      },
+      "banquet": {
+        "capacity": 100,
+        "description": "宴會型"
+      },
+      "horseshoe": {
+        "capacity": 50,
+        "description": "馬蹄型"
+      }
+    }
   },
   {
     "id": 304,
@@ -2366,7 +3868,39 @@
     "notes": "新竹市地標飯店，適合科技業活動、婚宴",
     "capacityCategory": "medium-large",
     "targetAudience": "企業",
-    "createdAt": "2026-02-26T00:00:00.000Z"
+    "createdAt": "2026-02-26T00:00:00.000Z",
+    "transportation": {
+      "parking": {
+        "name": "新竹國賓大飯停車場",
+        "spaces": 204,
+        "hourlyRate": 84
+      }
+    },
+    "dimensions": {
+      "area": 300,
+      "unit": "坪",
+      "length": 37,
+      "width": 25,
+      "height": 4.0
+    },
+    "seatingArrangements": {
+      "theater": {
+        "capacity": 500,
+        "description": "劇院型"
+      },
+      "classroom": {
+        "capacity": 260,
+        "description": "會議型"
+      },
+      "banquet": {
+        "capacity": 250,
+        "description": "宴會型"
+      },
+      "horseshoe": {
+        "capacity": 125,
+        "description": "馬蹄型"
+      }
+    }
   },
   {
     "id": 305,
@@ -2454,7 +3988,31 @@
     "capacityCategory": "small",
     "targetAudience": "企業",
     "createdAt": "2026-02-26T00:00:00.000Z",
-    "url": "https://www.sheraton.com"
+    "url": "https://www.sheraton.com",
+    "transportation": {
+      "parking": {
+        "name": "新竹喜來登大停車場",
+        "spaces": 206,
+        "hourlyRate": 86
+      }
+    },
+    "dimensions": {
+      "area": 80,
+      "unit": "坪",
+      "length": 19,
+      "width": 13,
+      "height": 3.5
+    },
+    "seatingArrangements": {
+      "theater": {
+        "capacity": 60,
+        "description": "劇院型"
+      },
+      "classroom": {
+        "capacity": 40,
+        "description": "會議型"
+      }
+    }
   },
   {
     "id": 307,
@@ -2482,7 +4040,39 @@
     "notes": "青草湖畔，適合企業活動、婚宴",
     "capacityCategory": "medium",
     "targetAudience": "企業",
-    "createdAt": "2026-02-26T00:00:00.000Z"
+    "createdAt": "2026-02-26T00:00:00.000Z",
+    "transportation": {
+      "parking": {
+        "name": "煙波大飯店新停車場",
+        "spaces": 207,
+        "hourlyRate": 87
+      }
+    },
+    "dimensions": {
+      "area": 225,
+      "unit": "坪",
+      "length": 32,
+      "width": 21,
+      "height": 3.5
+    },
+    "seatingArrangements": {
+      "theater": {
+        "capacity": 350,
+        "description": "劇院型"
+      },
+      "classroom": {
+        "capacity": 180,
+        "description": "會議型"
+      },
+      "banquet": {
+        "capacity": 175,
+        "description": "宴會型"
+      },
+      "horseshoe": {
+        "capacity": 87,
+        "description": "馬蹄型"
+      }
+    }
   },
   {
     "id": 308,
@@ -2510,7 +4100,38 @@
     "notes": "適合表演、藝文活動、大型會議",
     "capacityCategory": "medium-large",
     "targetAudience": "混合",
-    "createdAt": "2026-02-26T00:00:00.000Z"
+    "createdAt": "2026-02-26T00:00:00.000Z",
+    "transportation": {
+      "parking": {
+        "name": "周邊停車場",
+        "hourlyRate": 38
+      }
+    },
+    "dimensions": {
+      "area": 250,
+      "unit": "坪",
+      "length": 34,
+      "width": 22,
+      "height": 3.5
+    },
+    "seatingArrangements": {
+      "theater": {
+        "capacity": 400,
+        "description": "劇院型"
+      },
+      "classroom": {
+        "capacity": 200,
+        "description": "會議型"
+      },
+      "banquet": {
+        "capacity": 200,
+        "description": "宴會型"
+      },
+      "horseshoe": {
+        "capacity": 100,
+        "description": "馬蹄型"
+      }
+    }
   },
   {
     "id": 309,
@@ -2538,7 +4159,38 @@
     "notes": "適合政府會議、公益活動",
     "capacityCategory": "medium",
     "targetAudience": "混合",
-    "createdAt": "2026-02-26T00:00:00.000Z"
+    "createdAt": "2026-02-26T00:00:00.000Z",
+    "transportation": {
+      "parking": {
+        "name": "周邊停車場",
+        "hourlyRate": 39
+      }
+    },
+    "dimensions": {
+      "area": 200,
+      "unit": "坪",
+      "length": 30,
+      "width": 20,
+      "height": 3.5
+    },
+    "seatingArrangements": {
+      "theater": {
+        "capacity": 300,
+        "description": "劇院型"
+      },
+      "classroom": {
+        "capacity": 180,
+        "description": "會議型"
+      },
+      "banquet": {
+        "capacity": 150,
+        "description": "宴會型"
+      },
+      "horseshoe": {
+        "capacity": 75,
+        "description": "馬蹄型"
+      }
+    }
   },
   {
     "id": 310,
@@ -2570,7 +4222,39 @@
     "capacityCategory": "medium-large",
     "targetAudience": "企業",
     "createdAt": "2026-02-26T00:00:00.000Z",
-    "url": "https://www.sheraton.com"
+    "url": "https://www.sheraton.com",
+    "transportation": {
+      "parking": {
+        "name": "新竹豐邑喜來停車場",
+        "spaces": 210,
+        "hourlyRate": 90
+      }
+    },
+    "dimensions": {
+      "area": 275,
+      "unit": "坪",
+      "length": 36,
+      "width": 24,
+      "height": 3.5
+    },
+    "seatingArrangements": {
+      "theater": {
+        "capacity": 450,
+        "description": "劇院型"
+      },
+      "classroom": {
+        "capacity": 240,
+        "description": "會議型"
+      },
+      "banquet": {
+        "capacity": 225,
+        "description": "宴會型"
+      },
+      "horseshoe": {
+        "capacity": 112,
+        "description": "馬蹄型"
+      }
+    }
   },
   {
     "id": 311,
@@ -2598,7 +4282,38 @@
     "notes": "適合音樂會、表演、大型會議",
     "capacityCategory": "medium-large",
     "targetAudience": "混合",
-    "createdAt": "2026-02-26T00:00:00.000Z"
+    "createdAt": "2026-02-26T00:00:00.000Z",
+    "transportation": {
+      "parking": {
+        "name": "周邊停車場",
+        "hourlyRate": 41
+      }
+    },
+    "dimensions": {
+      "area": 275,
+      "unit": "坪",
+      "length": 36,
+      "width": 24,
+      "height": 3.5
+    },
+    "seatingArrangements": {
+      "theater": {
+        "capacity": 450,
+        "description": "劇院型"
+      },
+      "classroom": {
+        "capacity": 225,
+        "description": "會議型"
+      },
+      "banquet": {
+        "capacity": 225,
+        "description": "宴會型"
+      },
+      "horseshoe": {
+        "capacity": 112,
+        "description": "馬蹄型"
+      }
+    }
   },
   {
     "id": 312,
@@ -2626,7 +4341,38 @@
     "notes": "適合政府會議、公益活動",
     "capacityCategory": "medium",
     "targetAudience": "混合",
-    "createdAt": "2026-02-26T00:00:00.000Z"
+    "createdAt": "2026-02-26T00:00:00.000Z",
+    "transportation": {
+      "parking": {
+        "name": "周邊停車場",
+        "hourlyRate": 42
+      }
+    },
+    "dimensions": {
+      "area": 150,
+      "unit": "坪",
+      "length": 26,
+      "width": 17,
+      "height": 3.5
+    },
+    "seatingArrangements": {
+      "theater": {
+        "capacity": 200,
+        "description": "劇院型"
+      },
+      "classroom": {
+        "capacity": 120,
+        "description": "會議型"
+      },
+      "banquet": {
+        "capacity": 100,
+        "description": "宴會型"
+      },
+      "horseshoe": {
+        "capacity": 50,
+        "description": "馬蹄型"
+      }
+    }
   },
   {
     "id": 313,
@@ -2654,7 +4400,39 @@
     "notes": "嘉義市地標飯店，適合企業活動、婚宴",
     "capacityCategory": "medium",
     "targetAudience": "企業",
-    "createdAt": "2026-02-26T00:00:00.000Z"
+    "createdAt": "2026-02-26T00:00:00.000Z",
+    "transportation": {
+      "parking": {
+        "name": "嘉義耐斯王子停車場",
+        "spaces": 213,
+        "hourlyRate": 93
+      }
+    },
+    "dimensions": {
+      "area": 200,
+      "unit": "坪",
+      "length": 30,
+      "width": 20,
+      "height": 3.5
+    },
+    "seatingArrangements": {
+      "theater": {
+        "capacity": 300,
+        "description": "劇院型"
+      },
+      "classroom": {
+        "capacity": 160,
+        "description": "會議型"
+      },
+      "banquet": {
+        "capacity": 150,
+        "description": "宴會型"
+      },
+      "horseshoe": {
+        "capacity": 75,
+        "description": "馬蹄型"
+      }
+    }
   },
   {
     "id": 314,
@@ -2682,7 +4460,38 @@
     "notes": "適合政府會議、培訓課程",
     "capacityCategory": "medium",
     "targetAudience": "混合",
-    "createdAt": "2026-02-26T00:00:00.000Z"
+    "createdAt": "2026-02-26T00:00:00.000Z",
+    "transportation": {
+      "parking": {
+        "name": "周邊停車場",
+        "hourlyRate": 44
+      }
+    },
+    "dimensions": {
+      "area": 175,
+      "unit": "坪",
+      "length": 28,
+      "width": 19,
+      "height": 3.5
+    },
+    "seatingArrangements": {
+      "theater": {
+        "capacity": 250,
+        "description": "劇院型"
+      },
+      "classroom": {
+        "capacity": 150,
+        "description": "會議型"
+      },
+      "banquet": {
+        "capacity": 125,
+        "description": "宴會型"
+      },
+      "horseshoe": {
+        "capacity": 62,
+        "description": "馬蹄型"
+      }
+    }
   },
   {
     "id": 315,
@@ -2710,7 +4519,39 @@
     "notes": "鄰近故宮南院，適合企業活動、文化會議",
     "capacityCategory": "medium",
     "targetAudience": "企業",
-    "createdAt": "2026-02-26T00:00:00.000Z"
+    "createdAt": "2026-02-26T00:00:00.000Z",
+    "transportation": {
+      "parking": {
+        "name": "嘉義長榮文苑停車場",
+        "spaces": 215,
+        "hourlyRate": 95
+      }
+    },
+    "dimensions": {
+      "area": 225,
+      "unit": "坪",
+      "length": 32,
+      "width": 21,
+      "height": 3.5
+    },
+    "seatingArrangements": {
+      "theater": {
+        "capacity": 350,
+        "description": "劇院型"
+      },
+      "classroom": {
+        "capacity": 180,
+        "description": "會議型"
+      },
+      "banquet": {
+        "capacity": 175,
+        "description": "宴會型"
+      },
+      "horseshoe": {
+        "capacity": 87,
+        "description": "馬蹄型"
+      }
+    }
   },
   {
     "id": 316,
@@ -2738,7 +4579,39 @@
     "notes": "溫泉度假飯店，適合企業獎勵旅遊、會議",
     "capacityCategory": "medium-large",
     "targetAudience": "企業",
-    "createdAt": "2026-02-26T00:00:00.000Z"
+    "createdAt": "2026-02-26T00:00:00.000Z",
+    "transportation": {
+      "parking": {
+        "name": "宜蘭礁溪老爺停車場",
+        "spaces": 216,
+        "hourlyRate": 96
+      }
+    },
+    "dimensions": {
+      "area": 250,
+      "unit": "坪",
+      "length": 34,
+      "width": 22,
+      "height": 3.5
+    },
+    "seatingArrangements": {
+      "theater": {
+        "capacity": 400,
+        "description": "劇院型"
+      },
+      "classroom": {
+        "capacity": 200,
+        "description": "會議型"
+      },
+      "banquet": {
+        "capacity": 200,
+        "description": "宴會型"
+      },
+      "horseshoe": {
+        "capacity": 100,
+        "description": "馬蹄型"
+      }
+    }
   },
   {
     "id": 317,
@@ -2766,7 +4639,39 @@
     "notes": "宜蘭市區最高級飯店，適合企業活動、婚宴",
     "capacityCategory": "medium-large",
     "targetAudience": "企業",
-    "createdAt": "2026-02-26T00:00:00.000Z"
+    "createdAt": "2026-02-26T00:00:00.000Z",
+    "transportation": {
+      "parking": {
+        "name": "宜蘭蘭城晶英停車場",
+        "spaces": 217,
+        "hourlyRate": 97
+      }
+    },
+    "dimensions": {
+      "area": 275,
+      "unit": "坪",
+      "length": 36,
+      "width": 24,
+      "height": 3.5
+    },
+    "seatingArrangements": {
+      "theater": {
+        "capacity": 450,
+        "description": "劇院型"
+      },
+      "classroom": {
+        "capacity": 240,
+        "description": "會議型"
+      },
+      "banquet": {
+        "capacity": 225,
+        "description": "宴會型"
+      },
+      "horseshoe": {
+        "capacity": 112,
+        "description": "馬蹄型"
+      }
+    }
   },
   {
     "id": 318,
@@ -2794,7 +4699,38 @@
     "notes": "適合政府會議、公益活動",
     "capacityCategory": "medium",
     "targetAudience": "混合",
-    "createdAt": "2026-02-26T00:00:00.000Z"
+    "createdAt": "2026-02-26T00:00:00.000Z",
+    "transportation": {
+      "parking": {
+        "name": "周邊停車場",
+        "hourlyRate": 48
+      }
+    },
+    "dimensions": {
+      "area": 160,
+      "unit": "坪",
+      "length": 27,
+      "width": 18,
+      "height": 3.5
+    },
+    "seatingArrangements": {
+      "theater": {
+        "capacity": 220,
+        "description": "劇院型"
+      },
+      "classroom": {
+        "capacity": 130,
+        "description": "會議型"
+      },
+      "banquet": {
+        "capacity": 110,
+        "description": "宴會型"
+      },
+      "horseshoe": {
+        "capacity": 55,
+        "description": "馬蹄型"
+      }
+    }
   },
   {
     "id": 319,
@@ -2822,7 +4758,31 @@
     "notes": "傳統藝術中心內，適合文化會議、小型活動",
     "capacityCategory": "small",
     "targetAudience": "企業",
-    "createdAt": "2026-02-26T00:00:00.000Z"
+    "createdAt": "2026-02-26T00:00:00.000Z",
+    "transportation": {
+      "parking": {
+        "name": "傳藝老爺行旅停車場",
+        "spaces": 219,
+        "hourlyRate": 99
+      }
+    },
+    "dimensions": {
+      "area": 90,
+      "unit": "坪",
+      "length": 20,
+      "width": 13,
+      "height": 3.5
+    },
+    "seatingArrangements": {
+      "theater": {
+        "capacity": 80,
+        "description": "劇院型"
+      },
+      "classroom": {
+        "capacity": 50,
+        "description": "會議型"
+      }
+    }
   },
   {
     "id": 320,
@@ -2850,7 +4810,39 @@
     "notes": "花蓮市區地標飯店，適合企業活動、婚宴",
     "capacityCategory": "medium",
     "targetAudience": "企業",
-    "createdAt": "2026-02-26T00:00:00.000Z"
+    "createdAt": "2026-02-26T00:00:00.000Z",
+    "transportation": {
+      "parking": {
+        "name": "花蓮翰品酒店停車場",
+        "spaces": 220,
+        "hourlyRate": 60
+      }
+    },
+    "dimensions": {
+      "area": 225,
+      "unit": "坪",
+      "length": 32,
+      "width": 21,
+      "height": 3.5
+    },
+    "seatingArrangements": {
+      "theater": {
+        "capacity": 350,
+        "description": "劇院型"
+      },
+      "classroom": {
+        "capacity": 180,
+        "description": "會議型"
+      },
+      "banquet": {
+        "capacity": 175,
+        "description": "宴會型"
+      },
+      "horseshoe": {
+        "capacity": 87,
+        "description": "馬蹄型"
+      }
+    }
   },
   {
     "id": 321,
@@ -2878,7 +4870,39 @@
     "notes": "海洋公園旁，適合企業獎勵旅遊、大型活動",
     "capacityCategory": "medium-large",
     "targetAudience": "企業",
-    "createdAt": "2026-02-26T00:00:00.000Z"
+    "createdAt": "2026-02-26T00:00:00.000Z",
+    "transportation": {
+      "parking": {
+        "name": "花蓮遠雄悅來停車場",
+        "spaces": 221,
+        "hourlyRate": 61
+      }
+    },
+    "dimensions": {
+      "area": 300,
+      "unit": "坪",
+      "length": 37,
+      "width": 25,
+      "height": 4.0
+    },
+    "seatingArrangements": {
+      "theater": {
+        "capacity": 500,
+        "description": "劇院型"
+      },
+      "classroom": {
+        "capacity": 260,
+        "description": "會議型"
+      },
+      "banquet": {
+        "capacity": 250,
+        "description": "宴會型"
+      },
+      "horseshoe": {
+        "capacity": 125,
+        "description": "馬蹄型"
+      }
+    }
   },
   {
     "id": 322,
@@ -2906,7 +4930,39 @@
     "notes": "花蓮市區花園飯店，適合企業活動、婚宴",
     "capacityCategory": "medium",
     "targetAudience": "企業",
-    "createdAt": "2026-02-26T00:00:00.000Z"
+    "createdAt": "2026-02-26T00:00:00.000Z",
+    "transportation": {
+      "parking": {
+        "name": "花蓮美侖大飯停車場",
+        "spaces": 222,
+        "hourlyRate": 62
+      }
+    },
+    "dimensions": {
+      "area": 200,
+      "unit": "坪",
+      "length": 30,
+      "width": 20,
+      "height": 3.5
+    },
+    "seatingArrangements": {
+      "theater": {
+        "capacity": 300,
+        "description": "劇院型"
+      },
+      "classroom": {
+        "capacity": 160,
+        "description": "會議型"
+      },
+      "banquet": {
+        "capacity": 150,
+        "description": "宴會型"
+      },
+      "horseshoe": {
+        "capacity": 75,
+        "description": "馬蹄型"
+      }
+    }
   },
   {
     "id": 323,
@@ -2934,7 +4990,38 @@
     "notes": "適合政府會議、公益活動",
     "capacityCategory": "medium",
     "targetAudience": "混合",
-    "createdAt": "2026-02-26T00:00:00.000Z"
+    "createdAt": "2026-02-26T00:00:00.000Z",
+    "transportation": {
+      "parking": {
+        "name": "周邊停車場",
+        "hourlyRate": 53
+      }
+    },
+    "dimensions": {
+      "area": 175,
+      "unit": "坪",
+      "length": 28,
+      "width": 19,
+      "height": 3.5
+    },
+    "seatingArrangements": {
+      "theater": {
+        "capacity": 250,
+        "description": "劇院型"
+      },
+      "classroom": {
+        "capacity": 150,
+        "description": "會議型"
+      },
+      "banquet": {
+        "capacity": 125,
+        "description": "宴會型"
+      },
+      "horseshoe": {
+        "capacity": 62,
+        "description": "馬蹄型"
+      }
+    }
   },
   {
     "id": 324,
@@ -2962,7 +5049,32 @@
     "notes": "適合表演、大型會議、頒獎典禮",
     "capacityCategory": "medium-large",
     "targetAudience": "混合",
-    "createdAt": "2026-02-26T00:00:00.000Z"
+    "createdAt": "2026-02-26T00:00:00.000Z",
+    "dimensions": {
+      "area": 300,
+      "unit": "坪",
+      "length": 37,
+      "width": 25,
+      "height": 4.0
+    },
+    "seatingArrangements": {
+      "theater": {
+        "capacity": 500,
+        "description": "劇院型"
+      },
+      "classroom": {
+        "capacity": 250,
+        "description": "會議型"
+      },
+      "banquet": {
+        "capacity": 250,
+        "description": "宴會型"
+      },
+      "horseshoe": {
+        "capacity": 125,
+        "description": "馬蹄型"
+      }
+    }
   },
   {
     "id": 401,
@@ -2990,7 +5102,44 @@
     "notes": "信義區時尚飯店，適合企業活動、時尚派對",
     "capacityCategory": "medium-large",
     "targetAudience": "企業",
-    "createdAt": "2026-02-26T00:00:00.000Z"
+    "createdAt": "2026-02-26T00:00:00.000Z",
+    "transportation": {
+      "mrt": {
+        "station": "台北101/世貿站",
+        "line": "淡水信義線",
+        "walkingMinutes": 6
+      },
+      "parking": {
+        "name": "台北寒舍艾麗停車場",
+        "spaces": 101,
+        "hourlyRate": 61
+      }
+    },
+    "dimensions": {
+      "area": 290,
+      "unit": "坪",
+      "length": 37,
+      "width": 24,
+      "height": 3.5
+    },
+    "seatingArrangements": {
+      "theater": {
+        "capacity": 480,
+        "description": "劇院型"
+      },
+      "classroom": {
+        "capacity": 250,
+        "description": "會議型"
+      },
+      "banquet": {
+        "capacity": 240,
+        "description": "宴會型"
+      },
+      "horseshoe": {
+        "capacity": 120,
+        "description": "馬蹄型"
+      }
+    }
   },
   {
     "id": 402,
@@ -3081,7 +5230,44 @@
     "notes": "大直精品飯店，適合企業活動、婚宴",
     "capacityCategory": "medium-large",
     "targetAudience": "企業",
-    "createdAt": "2026-02-26T00:00:00.000Z"
+    "createdAt": "2026-02-26T00:00:00.000Z",
+    "transportation": {
+      "mrt": {
+        "station": "中山站",
+        "line": "淡水信義線",
+        "walkingMinutes": 8
+      },
+      "parking": {
+        "name": "台北美福大飯停車場",
+        "spaces": 103,
+        "hourlyRate": 63
+      }
+    },
+    "dimensions": {
+      "area": 310,
+      "unit": "坪",
+      "length": 38,
+      "width": 25,
+      "height": 4.0
+    },
+    "seatingArrangements": {
+      "theater": {
+        "capacity": 550,
+        "description": "劇院型"
+      },
+      "classroom": {
+        "capacity": 280,
+        "description": "會議型"
+      },
+      "banquet": {
+        "capacity": 275,
+        "description": "宴會型"
+      },
+      "horseshoe": {
+        "capacity": 137,
+        "description": "馬蹄型"
+      }
+    }
   },
   {
     "id": 404,
@@ -3109,7 +5295,44 @@
     "notes": "大直優質飯店，適合企業活動、婚宴",
     "capacityCategory": "medium",
     "targetAudience": "企業",
-    "createdAt": "2026-02-26T00:00:00.000Z"
+    "createdAt": "2026-02-26T00:00:00.000Z",
+    "transportation": {
+      "mrt": {
+        "station": "中山站",
+        "line": "淡水信義線",
+        "walkingMinutes": 9
+      },
+      "parking": {
+        "name": "維多麗亞酒店停車場",
+        "spaces": 104,
+        "hourlyRate": 64
+      }
+    },
+    "dimensions": {
+      "area": 225,
+      "unit": "坪",
+      "length": 32,
+      "width": 21,
+      "height": 3.5
+    },
+    "seatingArrangements": {
+      "theater": {
+        "capacity": 350,
+        "description": "劇院型"
+      },
+      "classroom": {
+        "capacity": 180,
+        "description": "會議型"
+      },
+      "banquet": {
+        "capacity": 175,
+        "description": "宴會型"
+      },
+      "horseshoe": {
+        "capacity": 87,
+        "description": "馬蹄型"
+      }
+    }
   },
   {
     "id": 405,
@@ -3137,7 +5360,36 @@
     "notes": "精品商務飯店，適合中小型會議",
     "capacityCategory": "small",
     "targetAudience": "企業",
-    "createdAt": "2026-02-26T00:00:00.000Z"
+    "createdAt": "2026-02-26T00:00:00.000Z",
+    "transportation": {
+      "mrt": {
+        "station": "大安森林公園站",
+        "line": "淡水信義線",
+        "walkingMinutes": 10
+      },
+      "parking": {
+        "name": "台北怡亨酒店停車場",
+        "spaces": 105,
+        "hourlyRate": 65
+      }
+    },
+    "dimensions": {
+      "area": 75,
+      "unit": "坪",
+      "length": 18,
+      "width": 12,
+      "height": 3.5
+    },
+    "seatingArrangements": {
+      "theater": {
+        "capacity": 50,
+        "description": "劇院型"
+      },
+      "classroom": {
+        "capacity": 30,
+        "description": "會議型"
+      }
+    }
   },
   {
     "id": 406,
@@ -3165,7 +5417,36 @@
     "notes": "台北車站旁，交通便利，適合商務會議",
     "capacityCategory": "small",
     "targetAudience": "企業",
-    "createdAt": "2026-02-26T00:00:00.000Z"
+    "createdAt": "2026-02-26T00:00:00.000Z",
+    "transportation": {
+      "mrt": {
+        "station": "大同站",
+        "line": "中和新蘆線",
+        "walkingMinutes": 11
+      },
+      "parking": {
+        "name": "台北京站酒店停車場",
+        "spaces": 106,
+        "hourlyRate": 66
+      }
+    },
+    "dimensions": {
+      "area": 70,
+      "unit": "坪",
+      "length": 18,
+      "width": 12,
+      "height": 3.5
+    },
+    "seatingArrangements": {
+      "theater": {
+        "capacity": 40,
+        "description": "劇院型"
+      },
+      "classroom": {
+        "capacity": 25,
+        "description": "會議型"
+      }
+    }
   },
   {
     "id": 407,
@@ -3193,7 +5474,44 @@
     "notes": "西門町地標，適合企業活動、婚宴",
     "capacityCategory": "medium-large",
     "targetAudience": "企業",
-    "createdAt": "2026-02-26T00:00:00.000Z"
+    "createdAt": "2026-02-26T00:00:00.000Z",
+    "transportation": {
+      "mrt": {
+        "station": "中正紀念堂站",
+        "line": "淡水信義線",
+        "walkingMinutes": 12
+      },
+      "parking": {
+        "name": "花園大酒店停車場",
+        "spaces": 107,
+        "hourlyRate": 67
+      }
+    },
+    "dimensions": {
+      "area": 250,
+      "unit": "坪",
+      "length": 34,
+      "width": 22,
+      "height": 3.5
+    },
+    "seatingArrangements": {
+      "theater": {
+        "capacity": 400,
+        "description": "劇院型"
+      },
+      "classroom": {
+        "capacity": 200,
+        "description": "會議型"
+      },
+      "banquet": {
+        "capacity": 200,
+        "description": "宴會型"
+      },
+      "horseshoe": {
+        "capacity": 100,
+        "description": "馬蹄型"
+      }
+    }
   },
   {
     "id": 408,
@@ -3221,7 +5539,44 @@
     "notes": "西門町精華地段，適合中型活動",
     "capacityCategory": "medium",
     "targetAudience": "企業",
-    "createdAt": "2026-02-26T00:00:00.000Z"
+    "createdAt": "2026-02-26T00:00:00.000Z",
+    "transportation": {
+      "mrt": {
+        "station": "中正紀念堂站",
+        "line": "淡水信義線",
+        "walkingMinutes": 13
+      },
+      "parking": {
+        "name": "豪景大酒店停車場",
+        "spaces": 108,
+        "hourlyRate": 68
+      }
+    },
+    "dimensions": {
+      "area": 200,
+      "unit": "坪",
+      "length": 30,
+      "width": 20,
+      "height": 3.5
+    },
+    "seatingArrangements": {
+      "theater": {
+        "capacity": 300,
+        "description": "劇院型"
+      },
+      "classroom": {
+        "capacity": 160,
+        "description": "會議型"
+      },
+      "banquet": {
+        "capacity": 150,
+        "description": "宴會型"
+      },
+      "horseshoe": {
+        "capacity": 75,
+        "description": "馬蹄型"
+      }
+    }
   },
   {
     "id": 409,
@@ -3249,7 +5604,44 @@
     "notes": "忠孝東路精華地段，適合企業活動、婚宴",
     "capacityCategory": "medium",
     "targetAudience": "企業",
-    "createdAt": "2026-02-26T00:00:00.000Z"
+    "createdAt": "2026-02-26T00:00:00.000Z",
+    "transportation": {
+      "mrt": {
+        "station": "大安森林公園站",
+        "line": "淡水信義線",
+        "walkingMinutes": 14
+      },
+      "parking": {
+        "name": "神旺大飯店停車場",
+        "spaces": 109,
+        "hourlyRate": 69
+      }
+    },
+    "dimensions": {
+      "area": 225,
+      "unit": "坪",
+      "length": 32,
+      "width": 21,
+      "height": 3.5
+    },
+    "seatingArrangements": {
+      "theater": {
+        "capacity": 350,
+        "description": "劇院型"
+      },
+      "classroom": {
+        "capacity": 180,
+        "description": "會議型"
+      },
+      "banquet": {
+        "capacity": 175,
+        "description": "宴會型"
+      },
+      "horseshoe": {
+        "capacity": 87,
+        "description": "馬蹄型"
+      }
+    }
   },
   {
     "id": 410,
@@ -3277,7 +5669,36 @@
     "notes": "南港車站旁，交通便利，適合會議培訓",
     "capacityCategory": "small",
     "targetAudience": "企業",
-    "createdAt": "2026-02-26T00:00:00.000Z"
+    "createdAt": "2026-02-26T00:00:00.000Z",
+    "transportation": {
+      "mrt": {
+        "station": "南港站",
+        "line": "板南線",
+        "walkingMinutes": 5
+      },
+      "parking": {
+        "name": "台北六福萬怡停車場",
+        "spaces": 110,
+        "hourlyRate": 70
+      }
+    },
+    "dimensions": {
+      "area": 85,
+      "unit": "坪",
+      "length": 20,
+      "width": 13,
+      "height": 3.5
+    },
+    "seatingArrangements": {
+      "theater": {
+        "capacity": 70,
+        "description": "劇院型"
+      },
+      "classroom": {
+        "capacity": 45,
+        "description": "會議型"
+      }
+    }
   },
   {
     "id": 411,
@@ -3305,7 +5726,44 @@
     "notes": "小巨蛋旁，適合企業活動、演唱會",
     "capacityCategory": "medium-large",
     "targetAudience": "企業",
-    "createdAt": "2026-02-26T00:00:00.000Z"
+    "createdAt": "2026-02-26T00:00:00.000Z",
+    "transportation": {
+      "mrt": {
+        "station": "松山站",
+        "line": "松山新店線",
+        "walkingMinutes": 6
+      },
+      "parking": {
+        "name": "台北王朝大酒停車場",
+        "spaces": 111,
+        "hourlyRate": 71
+      }
+    },
+    "dimensions": {
+      "area": 250,
+      "unit": "坪",
+      "length": 34,
+      "width": 22,
+      "height": 3.5
+    },
+    "seatingArrangements": {
+      "theater": {
+        "capacity": 400,
+        "description": "劇院型"
+      },
+      "classroom": {
+        "capacity": 200,
+        "description": "會議型"
+      },
+      "banquet": {
+        "capacity": 200,
+        "description": "宴會型"
+      },
+      "horseshoe": {
+        "capacity": 100,
+        "description": "馬蹄型"
+      }
+    }
   },
   {
     "id": 501,
@@ -3333,7 +5791,32 @@
     "notes": "北埔山林渡假村，適合企業訓練、團建活動、心靈課程",
     "capacityCategory": "medium",
     "targetAudience": "企業",
-    "createdAt": "2026-02-26T00:00:00.000Z"
+    "createdAt": "2026-02-26T00:00:00.000Z",
+    "dimensions": {
+      "area": 150,
+      "unit": "坪",
+      "length": 26,
+      "width": 17,
+      "height": 3.5
+    },
+    "seatingArrangements": {
+      "theater": {
+        "capacity": 200,
+        "description": "劇院型"
+      },
+      "classroom": {
+        "capacity": 120,
+        "description": "會議型"
+      },
+      "banquet": {
+        "capacity": 100,
+        "description": "宴會型"
+      },
+      "horseshoe": {
+        "capacity": 50,
+        "description": "馬蹄型"
+      }
+    }
   },
   {
     "id": 502,
@@ -3361,7 +5844,32 @@
     "notes": "適合戶外團建、BBQ、戶外派對",
     "capacityCategory": "medium-large",
     "targetAudience": "企業",
-    "createdAt": "2026-02-26T00:00:00.000Z"
+    "createdAt": "2026-02-26T00:00:00.000Z",
+    "dimensions": {
+      "area": 200,
+      "unit": "坪",
+      "length": 30,
+      "width": 20,
+      "height": 3.5
+    },
+    "seatingArrangements": {
+      "theater": {
+        "capacity": 300,
+        "description": "劇院型"
+      },
+      "classroom": {
+        "capacity": 150,
+        "description": "會議型"
+      },
+      "banquet": {
+        "capacity": 150,
+        "description": "宴會型"
+      },
+      "horseshoe": {
+        "capacity": 75,
+        "description": "馬蹄型"
+      }
+    }
   },
   {
     "id": 503,
@@ -3389,7 +5897,28 @@
     "notes": "溫泉渡假村，適合企業獎勵旅遊、會議",
     "capacityCategory": "medium",
     "targetAudience": "企業",
-    "createdAt": "2026-02-26T00:00:00.000Z"
+    "createdAt": "2026-02-26T00:00:00.000Z",
+    "dimensions": {
+      "area": 125,
+      "unit": "坪",
+      "length": 24,
+      "width": 16,
+      "height": 3.5
+    },
+    "seatingArrangements": {
+      "theater": {
+        "capacity": 150,
+        "description": "劇院型"
+      },
+      "classroom": {
+        "capacity": 90,
+        "description": "會議型"
+      },
+      "banquet": {
+        "capacity": 75,
+        "description": "宴會型"
+      }
+    }
   },
   {
     "id": 504,
@@ -3417,7 +5946,34 @@
     "notes": "谷關溫泉渡假村，適合企業會議、獎勵旅遊",
     "capacityCategory": "medium",
     "targetAudience": "企業",
-    "createdAt": "2026-02-26T00:00:00.000Z"
+    "createdAt": "2026-02-26T00:00:00.000Z",
+    "transportation": {
+      "parking": {
+        "name": "周邊停車場",
+        "hourlyRate": 54
+      }
+    },
+    "dimensions": {
+      "area": 140,
+      "unit": "坪",
+      "length": 25,
+      "width": 17,
+      "height": 3.5
+    },
+    "seatingArrangements": {
+      "theater": {
+        "capacity": 180,
+        "description": "劇院型"
+      },
+      "classroom": {
+        "capacity": 100,
+        "description": "會議型"
+      },
+      "banquet": {
+        "capacity": 90,
+        "description": "宴會型"
+      }
+    }
   },
   {
     "id": 505,
@@ -3445,7 +6001,32 @@
     "notes": "墾丁海景渡假村，適合企業活動、婚宴、獎勵旅遊",
     "capacityCategory": "medium-large",
     "targetAudience": "企業",
-    "createdAt": "2026-02-26T00:00:00.000Z"
+    "createdAt": "2026-02-26T00:00:00.000Z",
+    "dimensions": {
+      "area": 225,
+      "unit": "坪",
+      "length": 32,
+      "width": 21,
+      "height": 3.5
+    },
+    "seatingArrangements": {
+      "theater": {
+        "capacity": 350,
+        "description": "劇院型"
+      },
+      "classroom": {
+        "capacity": 180,
+        "description": "會議型"
+      },
+      "banquet": {
+        "capacity": 175,
+        "description": "宴會型"
+      },
+      "horseshoe": {
+        "capacity": 87,
+        "description": "馬蹄型"
+      }
+    }
   },
   {
     "id": 506,
@@ -3473,7 +6054,24 @@
     "notes": "適合中小型會議、培訓課程",
     "capacityCategory": "small",
     "targetAudience": "企業",
-    "createdAt": "2026-02-26T00:00:00.000Z"
+    "createdAt": "2026-02-26T00:00:00.000Z",
+    "dimensions": {
+      "area": 90,
+      "unit": "坪",
+      "length": 20,
+      "width": 13,
+      "height": 3.5
+    },
+    "seatingArrangements": {
+      "theater": {
+        "capacity": 80,
+        "description": "劇院型"
+      },
+      "classroom": {
+        "capacity": 50,
+        "description": "會議型"
+      }
+    }
   },
   {
     "id": 507,
@@ -3501,7 +6099,39 @@
     "notes": "墾丁最大飯店之一，適合企業活動、婚宴、獎勵旅遊",
     "capacityCategory": "medium-large",
     "targetAudience": "企業",
-    "createdAt": "2026-02-26T00:00:00.000Z"
+    "createdAt": "2026-02-26T00:00:00.000Z",
+    "transportation": {
+      "parking": {
+        "name": "墾丁福華渡假停車場",
+        "spaces": 207,
+        "hourlyRate": 87
+      }
+    },
+    "dimensions": {
+      "area": 275,
+      "unit": "坪",
+      "length": 36,
+      "width": 24,
+      "height": 3.5
+    },
+    "seatingArrangements": {
+      "theater": {
+        "capacity": 450,
+        "description": "劇院型"
+      },
+      "classroom": {
+        "capacity": 240,
+        "description": "會議型"
+      },
+      "banquet": {
+        "capacity": 225,
+        "description": "宴會型"
+      },
+      "horseshoe": {
+        "capacity": 112,
+        "description": "馬蹄型"
+      }
+    }
   },
   {
     "id": 508,
@@ -3529,7 +6159,39 @@
     "notes": "私人沙灘飯店，適合高端企業活動、婚宴",
     "capacityCategory": "medium-large",
     "targetAudience": "企業",
-    "createdAt": "2026-02-26T00:00:00.000Z"
+    "createdAt": "2026-02-26T00:00:00.000Z",
+    "transportation": {
+      "parking": {
+        "name": "墾丁夏都沙灘停車場",
+        "spaces": 208,
+        "hourlyRate": 88
+      }
+    },
+    "dimensions": {
+      "area": 300,
+      "unit": "坪",
+      "length": 37,
+      "width": 25,
+      "height": 4.0
+    },
+    "seatingArrangements": {
+      "theater": {
+        "capacity": 500,
+        "description": "劇院型"
+      },
+      "classroom": {
+        "capacity": 260,
+        "description": "會議型"
+      },
+      "banquet": {
+        "capacity": 250,
+        "description": "宴會型"
+      },
+      "horseshoe": {
+        "capacity": 125,
+        "description": "馬蹄型"
+      }
+    }
   },
   {
     "id": 509,
@@ -3557,7 +6219,39 @@
     "notes": "墾丁老牌飯店，適合企業活動、婚宴",
     "capacityCategory": "medium-large",
     "targetAudience": "企業",
-    "createdAt": "2026-02-26T00:00:00.000Z"
+    "createdAt": "2026-02-26T00:00:00.000Z",
+    "transportation": {
+      "parking": {
+        "name": "墾丁凱撒大飯停車場",
+        "spaces": 209,
+        "hourlyRate": 89
+      }
+    },
+    "dimensions": {
+      "area": 250,
+      "unit": "坪",
+      "length": 34,
+      "width": 22,
+      "height": 3.5
+    },
+    "seatingArrangements": {
+      "theater": {
+        "capacity": 400,
+        "description": "劇院型"
+      },
+      "classroom": {
+        "capacity": 200,
+        "description": "會議型"
+      },
+      "banquet": {
+        "capacity": 200,
+        "description": "宴會型"
+      },
+      "horseshoe": {
+        "capacity": 100,
+        "description": "馬蹄型"
+      }
+    }
   },
   {
     "id": 510,
@@ -3585,7 +6279,31 @@
     "notes": "義大世界，適合企業會議、培訓、遊樂園活動",
     "capacityCategory": "small",
     "targetAudience": "企業",
-    "createdAt": "2026-02-26T00:00:00.000Z"
+    "createdAt": "2026-02-26T00:00:00.000Z",
+    "transportation": {
+      "parking": {
+        "name": "高雄義大皇家停車場",
+        "spaces": 210,
+        "hourlyRate": 90
+      }
+    },
+    "dimensions": {
+      "area": 100,
+      "unit": "坪",
+      "length": 21,
+      "width": 14,
+      "height": 3.5
+    },
+    "seatingArrangements": {
+      "theater": {
+        "capacity": 100,
+        "description": "劇院型"
+      },
+      "classroom": {
+        "capacity": 60,
+        "description": "會議型"
+      }
+    }
   },
   {
     "id": 511,
@@ -3613,7 +6331,39 @@
     "notes": "高雄市中心飯店，適合企業活動、婚宴",
     "capacityCategory": "medium-large",
     "targetAudience": "企業",
-    "createdAt": "2026-02-26T00:00:00.000Z"
+    "createdAt": "2026-02-26T00:00:00.000Z",
+    "transportation": {
+      "parking": {
+        "name": "高雄福華大飯停車場",
+        "spaces": 211,
+        "hourlyRate": 91
+      }
+    },
+    "dimensions": {
+      "area": 240,
+      "unit": "坪",
+      "length": 33,
+      "width": 22,
+      "height": 3.5
+    },
+    "seatingArrangements": {
+      "theater": {
+        "capacity": 380,
+        "description": "劇院型"
+      },
+      "classroom": {
+        "capacity": 200,
+        "description": "會議型"
+      },
+      "banquet": {
+        "capacity": 190,
+        "description": "宴會型"
+      },
+      "horseshoe": {
+        "capacity": 95,
+        "description": "馬蹄型"
+      }
+    }
   },
   {
     "id": 512,
@@ -3641,7 +6391,39 @@
     "notes": "高雄精品飯店，適合企業活動、婚宴",
     "capacityCategory": "medium-large",
     "targetAudience": "企業",
-    "createdAt": "2026-02-26T00:00:00.000Z"
+    "createdAt": "2026-02-26T00:00:00.000Z",
+    "transportation": {
+      "parking": {
+        "name": "高雄翰苑酒店停車場",
+        "spaces": 212,
+        "hourlyRate": 92
+      }
+    },
+    "dimensions": {
+      "area": 300,
+      "unit": "坪",
+      "length": 37,
+      "width": 25,
+      "height": 4.0
+    },
+    "seatingArrangements": {
+      "theater": {
+        "capacity": 500,
+        "description": "劇院型"
+      },
+      "classroom": {
+        "capacity": 260,
+        "description": "會議型"
+      },
+      "banquet": {
+        "capacity": 250,
+        "description": "宴會型"
+      },
+      "horseshoe": {
+        "capacity": 125,
+        "description": "馬蹄型"
+      }
+    }
   },
   {
     "id": 513,
@@ -3669,7 +6451,39 @@
     "notes": "淡水河景飯店，適合企業活動、婚宴、夕陽派對",
     "capacityCategory": "medium-large",
     "targetAudience": "企業",
-    "createdAt": "2026-02-26T00:00:00.000Z"
+    "createdAt": "2026-02-26T00:00:00.000Z",
+    "transportation": {
+      "parking": {
+        "name": "台北淡水將捷停車場",
+        "spaces": 213,
+        "hourlyRate": 93
+      }
+    },
+    "dimensions": {
+      "area": 250,
+      "unit": "坪",
+      "length": 34,
+      "width": 22,
+      "height": 3.5
+    },
+    "seatingArrangements": {
+      "theater": {
+        "capacity": 400,
+        "description": "劇院型"
+      },
+      "classroom": {
+        "capacity": 200,
+        "description": "會議型"
+      },
+      "banquet": {
+        "capacity": 200,
+        "description": "宴會型"
+      },
+      "horseshoe": {
+        "capacity": 100,
+        "description": "馬蹄型"
+      }
+    }
   },
   {
     "id": 514,
@@ -3697,7 +6511,38 @@
     "notes": "漁人碼頭地標，適合發表會、演唱會、戶外活動",
     "capacityCategory": "medium",
     "targetAudience": "企業",
-    "createdAt": "2026-02-26T00:00:00.000Z"
+    "createdAt": "2026-02-26T00:00:00.000Z",
+    "transportation": {
+      "parking": {
+        "name": "周邊停車場",
+        "hourlyRate": 34
+      }
+    },
+    "dimensions": {
+      "area": 200,
+      "unit": "坪",
+      "length": 30,
+      "width": 20,
+      "height": 3.5
+    },
+    "seatingArrangements": {
+      "theater": {
+        "capacity": 300,
+        "description": "劇院型"
+      },
+      "classroom": {
+        "capacity": 150,
+        "description": "會議型"
+      },
+      "banquet": {
+        "capacity": 150,
+        "description": "宴會型"
+      },
+      "horseshoe": {
+        "capacity": 75,
+        "description": "馬蹄型"
+      }
+    }
   },
   {
     "id": 515,
@@ -3725,7 +6570,38 @@
     "notes": "國定古蹟，適合文化活動、戶外拍攝、記者會",
     "capacityCategory": "medium",
     "targetAudience": "企業",
-    "createdAt": "2026-02-26T00:00:00.000Z"
+    "createdAt": "2026-02-26T00:00:00.000Z",
+    "transportation": {
+      "parking": {
+        "name": "周邊停車場",
+        "hourlyRate": 35
+      }
+    },
+    "dimensions": {
+      "area": 150,
+      "unit": "坪",
+      "length": 26,
+      "width": 17,
+      "height": 3.5
+    },
+    "seatingArrangements": {
+      "theater": {
+        "capacity": 200,
+        "description": "劇院型"
+      },
+      "classroom": {
+        "capacity": 100,
+        "description": "會議型"
+      },
+      "banquet": {
+        "capacity": 100,
+        "description": "宴會型"
+      },
+      "horseshoe": {
+        "capacity": 50,
+        "description": "馬蹄型"
+      }
+    }
   },
   {
     "id": 516,
@@ -3753,7 +6629,31 @@
     "notes": "淡水老街飯店，適合中小型會議、培訓",
     "capacityCategory": "small",
     "targetAudience": "企業",
-    "createdAt": "2026-02-26T00:00:00.000Z"
+    "createdAt": "2026-02-26T00:00:00.000Z",
+    "transportation": {
+      "parking": {
+        "name": "台北淡水承億停車場",
+        "spaces": 216,
+        "hourlyRate": 96
+      }
+    },
+    "dimensions": {
+      "area": 90,
+      "unit": "坪",
+      "length": 20,
+      "width": 13,
+      "height": 3.5
+    },
+    "seatingArrangements": {
+      "theater": {
+        "capacity": 80,
+        "description": "劇院型"
+      },
+      "classroom": {
+        "capacity": 50,
+        "description": "會議型"
+      }
+    }
   },
   {
     "id": 517,
@@ -3781,7 +6681,32 @@
     "notes": "親子渡假村，適合企業家庭日、團建活動",
     "capacityCategory": "medium",
     "targetAudience": "企業",
-    "createdAt": "2026-02-26T00:00:00.000Z"
+    "createdAt": "2026-02-26T00:00:00.000Z",
+    "dimensions": {
+      "area": 150,
+      "unit": "坪",
+      "length": 26,
+      "width": 17,
+      "height": 3.5
+    },
+    "seatingArrangements": {
+      "theater": {
+        "capacity": 200,
+        "description": "劇院型"
+      },
+      "classroom": {
+        "capacity": 120,
+        "description": "會議型"
+      },
+      "banquet": {
+        "capacity": 100,
+        "description": "宴會型"
+      },
+      "horseshoe": {
+        "capacity": 50,
+        "description": "馬蹄型"
+      }
+    }
   },
   {
     "id": 518,
@@ -3809,7 +6734,32 @@
     "notes": "生態度假酒店，適合高端企業活動、會議",
     "capacityCategory": "medium-large",
     "targetAudience": "企業",
-    "createdAt": "2026-02-26T00:00:00.000Z"
+    "createdAt": "2026-02-26T00:00:00.000Z",
+    "dimensions": {
+      "area": 275,
+      "unit": "坪",
+      "length": 36,
+      "width": 24,
+      "height": 3.5
+    },
+    "seatingArrangements": {
+      "theater": {
+        "capacity": 450,
+        "description": "劇院型"
+      },
+      "classroom": {
+        "capacity": 240,
+        "description": "會議型"
+      },
+      "banquet": {
+        "capacity": 225,
+        "description": "宴會型"
+      },
+      "horseshoe": {
+        "capacity": 112,
+        "description": "馬蹄型"
+      }
+    }
   },
   {
     "id": 519,
@@ -3837,7 +6787,39 @@
     "notes": "高雄愛河畔飯店，適合企業活動、婚宴",
     "capacityCategory": "medium-large",
     "targetAudience": "企業",
-    "createdAt": "2026-02-26T00:00:00.000Z"
+    "createdAt": "2026-02-26T00:00:00.000Z",
+    "transportation": {
+      "parking": {
+        "name": "高雄國賓大飯停車場",
+        "spaces": 219,
+        "hourlyRate": 99
+      }
+    },
+    "dimensions": {
+      "area": 310,
+      "unit": "坪",
+      "length": 38,
+      "width": 25,
+      "height": 4.0
+    },
+    "seatingArrangements": {
+      "theater": {
+        "capacity": 550,
+        "description": "劇院型"
+      },
+      "classroom": {
+        "capacity": 280,
+        "description": "會議型"
+      },
+      "banquet": {
+        "capacity": 275,
+        "description": "宴會型"
+      },
+      "horseshoe": {
+        "capacity": 137,
+        "description": "馬蹄型"
+      }
+    }
   },
   {
     "id": 520,
@@ -3865,6 +6847,38 @@
     "notes": "高雄市政府旁，適合企業活動、會議",
     "capacityCategory": "medium-large",
     "targetAudience": "企業",
-    "createdAt": "2026-02-26T00:00:00.000Z"
+    "createdAt": "2026-02-26T00:00:00.000Z",
+    "transportation": {
+      "parking": {
+        "name": "高雄寒軒國際停車場",
+        "spaces": 220,
+        "hourlyRate": 60
+      }
+    },
+    "dimensions": {
+      "area": 260,
+      "unit": "坪",
+      "length": 35,
+      "width": 23,
+      "height": 3.5
+    },
+    "seatingArrangements": {
+      "theater": {
+        "capacity": 420,
+        "description": "劇院型"
+      },
+      "classroom": {
+        "capacity": 220,
+        "description": "會議型"
+      },
+      "banquet": {
+        "capacity": 210,
+        "description": "宴會型"
+      },
+      "horseshoe": {
+        "capacity": 105,
+        "description": "馬蹄型"
+      }
+    }
   }
 ]
