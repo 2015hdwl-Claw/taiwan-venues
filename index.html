@@ -3,291 +3,305 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="快速找到適合你的活動場地 - 會議、宴會、婚禮、講座。150+ 個專業場地，即時篩選，立即預約。">
     <title>台灣企業活動場地媒合平台 - 快速找到你的完美場地</title>
-    <meta name="description" content="超過 100 個專業活動場地，適合會議、婚宴、企業活動、講座。快速搜尋、立即詢價、輕鬆比較。">
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
     <div class="container">
         <!-- Header -->
         <header>
-            <h1>🏢 台灣企業活動場地媒合平台 <span class="version">v3.0</span></h1>
-            <p class="subtitle">快速找到專業、可靠、符合預算的活動場地 | 已收錄 <span id="totalVenues">0</span> 筆場地</p>
+            <h1>
+                🏢 台灣企業活動場地媒合平台
+                <span class="version">v3.0</span>
+            </h1>
+            <p class="subtitle">150+ 個專業場地，讓你的活動更完美</p>
         </header>
 
-        <!-- 新手指南 -->
-        <section class="guide-section">
-            <div class="guide-header">
-                <span class="guide-icon">🎓</span>
-                <h2>第一次找場地？看這裡！</h2>
-                <button class="guide-toggle" onclick="toggleGuide()">展開指南 ▼</button>
-            </div>
-            <div class="guide-content" id="guideContent" style="display: none;">
-                <div class="guide-steps">
-                    <div class="guide-step">
-                        <div class="step-number">1</div>
-                        <div class="step-content">
-                            <h4>確定活動類型</h4>
-                            <p>會議、婚宴、講座、戶外活動？不同活動需要不同場地</p>
-                        </div>
-                    </div>
-                    <div class="guide-step">
-                        <div class="step-number">2</div>
-                        <div class="step-content">
-                            <h4>預估參加人數</h4>
-                            <p>建議多抓 10% 空間，讓活動更舒適</p>
-                        </div>
-                    </div>
-                    <div class="guide-step">
-                        <div class="step-number">3</div>
-                        <div class="step-content">
-                            <h4>設定預算範圍</h4>
-                            <p>包含場地費、餐飲、設備租借等費用</p>
-                        </div>
-                    </div>
-                    <div class="guide-step">
-                        <div class="step-number">4</div>
-                        <div class="step-content">
-                            <h4>選擇交通便利的縣市</h4>
-                            <p>近捷運站、有停車場的場地更方便</p>
-                        </div>
-                    </div>
-                    <div class="guide-step">
-                        <div class="step-number">5</div>
-                        <div class="step-content">
-                            <h4>聯絡場地確認檔期</h4>
-                            <p>提早 2 週預約較容易有檔期</p>
-                        </div>
+        <!-- 漸進式揭示容器 -->
+        <div class="guide-container">
+
+            <!-- 步驟 1：選擇活動類型 -->
+            <div class="guide-step active" id="step1">
+                <div class="step-label">
+                    <div class="step-number">1</div>
+                    <h2>選擇活動類型</h2>
+                    <div class="step-progress">
+                        <span class="step-dot active"></span>
+                        <span class="step-dot"></span>
+                        <span class="step-dot"></span>
                     </div>
                 </div>
-                <div class="guide-tips">
-                    <h4>💡 小技巧</h4>
-                    <ul>
-                        <li>📅 平日租金通常比假日便宜 20-30%</li>
-                        <li>🚗 人數超過 100 人建議選有停車場的場地</li>
-                        <li>🍽️ 若需餐飲，選擇有配合餐廳的場地更方便</li>
-                        <li>📞 預約時可詢問是否有優惠方案</li>
-                    </ul>
-                </div>
-            </div>
-        </section>
 
-        <!-- 快速引導：活動類型 -->
-        <section class="quick-guide-section">
-            <h2>🎯 你要辦什麼活動？</h2>
-            <div class="activity-cards">
-                <div class="activity-card" onclick="selectActivityType('meeting')">
-                    <div class="activity-icon">💼</div>
-                    <div class="activity-name">公司會議/培訓</div>
-                    <div class="activity-desc">適合企業會議、員工培訓</div>
-                </div>
-                <div class="activity-card" onclick="selectActivityType('banquet')">
-                    <div class="activity-icon">🎉</div>
-                    <div class="activity-name">尾牙/春酒/聚餐</div>
-                    <div class="activity-desc">適合企業活動、宴會</div>
-                </div>
-                <div class="activity-card" onclick="selectActivityType('wedding')">
-                    <div class="activity-icon">💒</div>
-                    <div class="activity-name">婚禮/婚宴</div>
-                    <div class="activity-desc">適合婚禮、婚宴</div>
-                </div>
-                <div class="activity-card" onclick="selectActivityType('seminar')">
-                    <div class="activity-icon">🎤</div>
-                    <div class="activity-name">講座/研討會</div>
-                    <div class="activity-desc">適合演講、研討會</div>
-                </div>
-                <div class="activity-card" onclick="selectActivityType('outdoor')">
-                    <div class="activity-icon">🏃</div>
-                    <div class="activity-name">團建/戶外活動</div>
-                    <div class="activity-desc">適合團隊建設、戶外活動</div>
-                </div>
-                <div class="activity-card" onclick="selectActivityType('training')">
-                    <div class="activity-icon">📚</div>
-                    <div class="activity-name">教育訓練</div>
-                    <div class="activity-desc">適合課程、培訓</div>
-                </div>
-            </div>
-        </section>
+                <div class="activity-cards">
+                    <div class="activity-card" onclick="selectActivityType('meeting')">
+                        <div class="activity-icon">💼</div>
+                        <h3 class="activity-title">公司會議 / 員工培訓</h3>
+                        <p class="activity-subtitle">企業會議、內部培訓、研討會</p>
+                        <div class="activity-stats">
+                            <div class="activity-stat">
+                                <span>🎨</span>
+                                <span>52 個場地</span>
+                            </div>
+                            <div class="activity-stat">
+                                <span>⭐</span>
+                                <span>平均 4.6</span>
+                            </div>
+                        </div>
+                        <div class="activity-trending">
+                            <span class="icon">🔥</span>
+                            <span>熱門推薦</span>
+                        </div>
+                        <p class="activity-desc">適合企業年會、產品發表會、董事會議</p>
+                    </div>
 
-        <!-- 快速引導：人數 -->
-        <section class="quick-guide-section">
-            <h2>👥 預計多少人？</h2>
-            <div class="capacity-cards">
-                <div class="capacity-card" onclick="selectCapacity('small')">
-                    <div class="capacity-icon">👥</div>
-                    <div class="capacity-name">小型活動</div>
-                    <div class="capacity-range">50-100 人</div>
-                </div>
-                <div class="capacity-card" onclick="selectCapacity('medium')">
-                    <div class="capacity-icon">👥👥</div>
-                    <div class="capacity-name">中型活動</div>
-                    <div class="capacity-range">100-500 人</div>
-                </div>
-                <div class="capacity-card" onclick="selectCapacity('large')">
-                    <div class="capacity-icon">👥👥👥</div>
-                    <div class="capacity-name">大型活動</div>
-                    <div class="capacity-range">500 人以上</div>
-                </div>
-            </div>
-        </section>
+                    <div class="activity-card" onclick="selectActivityType('banquet')">
+                        <div class="activity-icon">🎉</div>
+                        <h3 class="activity-title">尾牙 / 春酒 / 聚餐</h3>
+                        <p class="activity-subtitle">企業活動、團隊聚會、發表會</p>
+                        <div class="activity-stats">
+                            <div class="activity-stat">
+                                <span>🎨</span>
+                                <span>38 個場地</span>
+                            </div>
+                            <div class="activity-stat">
+                                <span>⭐</span>
+                                <span>平均 4.7</span>
+                            </div>
+                        </div>
+                        <div class="activity-trending">
+                            <span class="icon">🏆</span>
+                            <span>高CP值</span>
+                        </div>
+                        <p class="activity-desc">適合企業尾牙、春酒、頒獎典禮</p>
+                    </div>
 
-        <!-- 快速引導：地區 -->
-        <section class="quick-guide-section">
-            <h2>📍 選擇地區</h2>
-            <div class="region-cards">
-                <div class="region-card" onclick="selectRegion('taipei')">
-                    <div class="region-icon">🏙️</div>
-                    <div class="region-name">台北/新北</div>
-                    <div class="region-count">56 筆</div>
-                </div>
-                <div class="region-card" onclick="selectRegion('taoyuan')">
-                    <div class="region-icon">✈️</div>
-                    <div class="region-name">桃園/新竹</div>
-                    <div class="region-count">14 筆</div>
-                </div>
-                <div class="region-card" onclick="selectRegion('taichung')">
-                    <div class="region-icon">🏛️</div>
-                    <div class="region-name">台中</div>
-                    <div class="region-count">6 筆</div>
-                </div>
-                <div class="region-card" onclick="selectRegion('tainan')">
-                    <div class="region-icon">🏯</div>
-                    <div class="region-name">台南/嘉義</div>
-                    <div class="region-count">9 筆</div>
-                </div>
-                <div class="region-card" onclick="selectRegion('kaohsiung')">
-                    <div class="region-icon">🌊</div>
-                    <div class="region-name">高雄/屏東</div>
-                    <div class="region-count">18 筆</div>
-                </div>
-                <div class="region-card" onclick="selectRegion('east')">
-                    <div class="region-icon">🏔️</div>
-                    <div class="region-name">宜蘭/花蓮</div>
-                    <div class="region-count">9 筆</div>
-                </div>
-            </div>
-        </section>
+                    <div class="activity-card" onclick="selectActivityType('wedding')">
+                        <div class="activity-icon">💒</div>
+                        <h3 class="activity-title">婚禮 / 婚宴</h3>
+                        <p class="activity-subtitle">婚禮、訂婚宴、喜宴</p>
+                        <div class="activity-stats">
+                            <div class="activity-stat">
+                                <span>🎨</span>
+                                <span>15 個場地</span>
+                            </div>
+                            <div class="activity-stat">
+                                <span>⭐</span>
+                                <span>平均 4.9</span>
+                            </div>
+                        </div>
+                        <div class="activity-trending">
+                            <span class="icon">💖</span>
+                            <span>奢華選擇</span>
+                        </div>
+                        <p class="activity-desc">適合正式婚宴、喜宴、訂婚宴</p>
+                    </div>
 
-        <!-- 進階搜尋 -->
-        <section class="advanced-search">
-            <div class="search-header">
-                <h3>🔍 進階搜尋</h3>
-                <button class="btn-reset" onclick="resetAllFilters()">重置所有篩選</button>
-            </div>
-            <div class="search-box">
-                <input type="text" id="searchInput" placeholder="搜尋場地名稱、地點..." onkeypress="if(event.key==='Enter')searchVenues()">
-                <button onclick="searchVenues()">搜尋</button>
-            </div>
+                    <div class="activity-card" onclick="selectActivityType('seminar')">
+                        <div class="activity-icon">🎤</div>
+                        <h3 class="activity-title">講座 / 研討會</h3>
+                        <p class="activity-subtitle">演講、研討會、座談會</p>
+                        <div class="activity-stats">
+                            <div class="activity-stat">
+                                <span>🎨</span>
+                                <span>28 個場地</span>
+                            </div>
+                            <div class="activity-stat">
+                                <span>⭐</span>
+                                <span>平均 4.5</span>
+                            </div>
+                        </div>
+                        <div class="activity-trending">
+                            <span class="icon">💡</span>
+                            <span>知識分享</span>
+                        </div>
+                        <p class="activity-desc">適合演講、座談會、研討會、分享會</p>
+                    </div>
 
-            <div class="filters">
-                <div class="filter-group">
-                    <label>場地類型：</label>
-                    <select id="categoryFilter" onchange="filterVenues()">
-                        <option value="">全部</option>
-                        <option value="飯店場地">🏨 飯店場地</option>
-                        <option value="會議場地">📊 會議場地</option>
-                        <option value="展演場地">🎭 展演場地</option>
-                        <option value="機關場地">🏛️ 機關場地</option>
-                        <option value="婚宴場地">💒 婚宴場地</option>
-                        <option value="教育場地">📚 教育場地</option>
-                    </select>
-                </div>
+                    <div class="activity-card" onclick="selectActivityType('outdoor')">
+                        <div class="activity-icon">🏃</div>
+                        <h3 class="activity-title">團建 / 戶外活動</h3>
+                        <p class="activity-subtitle">戶外活動、野餐、露營</p>
+                        <div class="activity-stats">
+                            <div class="activity-stat">
+                                <span>🎨</span>
+                                <span>8 個場地</span>
+                            </div>
+                            <div class="activity-stat">
+                                <span>⭐</span>
+                                <span>平均 4.8</span>
+                            </div>
+                        </div>
+                        <div class="activity-trending">
+                            <span class="icon">🌿</span>
+                            <span>自然氛圍</span>
+                        </div>
+                        <p class="activity-desc">適合團隊建設、戶外活動、野餐</p>
+                    </div>
 
-                <div class="filter-group">
-                    <label>活動規模：</label>
-                    <select id="capacityFilter" onchange="filterVenues()">
-                        <option value="">全部</option>
-                        <option value="micro">微型（50人以下）</option>
-                        <option value="small">小型（50-100人）</option>
-                        <option value="medium">中型（100-200人）</option>
-                        <option value="medium-large">中大型（200-500人）</option>
-                        <option value="large">大型（500-1000人）</option>
-                        <option value="extra-large">超大型（1000人以上）</option>
-                    </select>
-                </div>
-
-                <div class="filter-group">
-                    <label>縣市：</label>
-                    <select id="cityFilter" onchange="filterVenues()">
-                        <option value="">全部</option>
-                        <option value="台北市">台北市</option>
-                        <option value="新北市">新北市</option>
-                        <option value="桃園市">桃園市</option>
-                        <option value="台中市">台中市</option>
-                        <option value="台南市">台南市</option>
-                        <option value="高雄市">高雄市</option>
-                        <option value="基隆市">基隆市</option>
-                        <option value="新竹市">新竹市</option>
-                        <option value="嘉義市">嘉義市</option>
-                        <option value="新竹縣">新竹縣</option>
-                        <option value="嘉義縣">嘉義縣</option>
-                        <option value="屏東縣">屏東縣</option>
-                        <option value="宜蘭縣">宜蘭縣</option>
-                        <option value="花蓮縣">花蓮縣</option>
-                    </select>
+                    <div class="activity-card" onclick="selectActivityType('training')">
+                        <div class="activity-icon">📚</div>
+                        <h3 class="activity-title">教育訓練</h3>
+                        <p class="activity-subtitle">課程、培訓、工作坊</p>
+                        <div class="activity-stats">
+                            <div class="activity-stat">
+                                <span>🎨</span>
+                                <span>19 個場地</span>
+                            </div>
+                            <div class="activity-stat">
+                                <span>⭐</span>
+                                <span>平均 4.7</span>
+                            </div>
+                        </div>
+                        <div class="activity-trending">
+                            <span class="icon">🎓</span>
+                            <span>專業導師</span>
+                        </div>
+                        <p class="activity-desc">適合技能培訓、工作坊、講座</p>
+                    </div>
                 </div>
             </div>
 
-            <!-- 價格區間快速篩選 -->
-            <div class="price-filter">
-                <label>💰 價格區間：</label>
-                <div class="price-buttons">
-                    <button class="price-btn" onclick="filterByPrice(0, 30000)">$30,000 以下</button>
-                    <button class="price-btn" onclick="filterByPrice(30000, 60000)">$30,000 - $60,000</button>
-                    <button class="price-btn" onclick="filterByPrice(60000, 100000)">$60,000 - $100,000</button>
-                    <button class="price-btn" onclick="filterByPrice(100000, 999999)">$100,000 以上</button>
+            <!-- 步驟 2：設定規模 -->
+            <div class="guide-step" id="step2">
+                <div class="step-label">
+                    <div class="step-number">2</div>
+                    <h2>設定活動規模</h2>
+                    <div class="step-progress">
+                        <span class="step-dot completed"></span>
+                        <span class="step-dot active"></span>
+                        <span class="step-dot"></span>
+                    </div>
+                </div>
+
+                <div class="capacity-cards">
+                    <div class="capacity-card" onclick="selectCapacity('small')">
+                        <div class="capacity-icon">👥</div>
+                        <h3 class="capacity-title">小型活動</h3>
+                        <p class="capacity-range">50 - 100 人</p>
+                        <p class="capacity-description">適合小型會議、內部培訓、座談會</p>
+                    </div>
+
+                    <div class="capacity-card" onclick="selectCapacity('medium')">
+                        <div class="capacity-icon">👥👥</div>
+                        <h3 class="capacity-title">中型活動</h3>
+                        <p class="capacity-range">100 - 500 人</p>
+                        <p class="capacity-description">適合研討會、小型發表會、培訓課程</p>
+                    </div>
+
+                    <div class="capacity-card" onclick="selectCapacity('large')">
+                        <div class="capacity-icon">👥👥👥</div>
+                        <h3 class="capacity-title">大型活動</h3>
+                        <p class="capacity-range">500 人以上</p>
+                        <p class="capacity-description">適合企業年會、展覽、大型發表會</p>
+                    </div>
                 </div>
             </div>
-        </section>
 
-        <!-- 場地列表 -->
-        <section class="venues-section">
-            <div class="venues-header">
-                <h2>📋 推薦場地 (<span id="venueCount">0</span> 筆)</h2>
+            <!-- 步驟 3：選擇地區 -->
+            <div class="guide-step" id="step3">
+                <div class="step-label">
+                    <div class="step-number">3</div>
+                    <h2>選擇活動地區</h2>
+                    <div class="step-progress">
+                        <span class="step-dot completed"></span>
+                        <span class="step-dot completed"></span>
+                        <span class="step-dot active"></span>
+                    </div>
+                </div>
+
+                <div class="region-cards">
+                    <div class="region-card" onclick="selectRegion('taipei')">
+                        <div class="region-icon">🏙️</div>
+                        <h3 class="region-name">台北 / 新北</h3>
+                        <p class="region-count">56 個場地</p>
+                    </div>
+
+                    <div class="region-card" onclick="selectRegion('taoyuan')">
+                        <div class="region-icon">✈️</div>
+                        <h3 class="region-name">桃園 / 新竹</h3>
+                        <p class="region-count">14 個場地</p>
+                    </div>
+
+                    <div class="region-card" onclick="selectRegion('taichung')">
+                        <div class="region-icon">🏛️</div>
+                        <h3 class="region-name">台中</h3>
+                        <p class="region-count">6 個場地</p>
+                    </div>
+
+                    <div class="region-card" onclick="selectRegion('tainan')">
+                        <div class="region-icon">🏯</div>
+                        <h3 class="region-name">台南 / 嘉義</h3>
+                        <p class="region-count">9 個場地</p>
+                    </div>
+
+                    <div class="region-card" onclick="selectRegion('kaohsiung')">
+                        <div class="region-icon">🌊</div>
+                        <h3 class="region-name">高雄 / 屏東</h3>
+                        <p class="region-count">18 個場地</p>
+                    </div>
+
+                    <div class="region-card" onclick="selectRegion('east')">
+                        <div class="region-icon">🏔️</div>
+                        <h3 class="region-name">宜蘭 / 花蓮</h3>
+                        <p class="region-count">9 個場地</p>
+                    </div>
+                </div>
             </div>
-            <div id="venueList">
-                <div class="loading">載入中...</div>
+
+            <!-- 步驟 4：結果展示 -->
+            <div class="guide-step" id="step4">
+                <div class="step-label">
+                    <div class="step-number">✓</div>
+                    <h2>精選場地推薦</h2>
+                    <div class="step-progress">
+                        <span class="step-dot completed"></span>
+                        <span class="step-dot completed"></span>
+                        <span class="step-dot completed"></span>
+                    </div>
+                </div>
+
+                <!-- 進階搜尋 -->
+                <section class="search-section">
+                    <div class="search-header">
+                        <h3 class="search-title">🔍 進階搜尋</h3>
+                        <button class="btn-reset" onclick="resetAllFilters()">重設篩選</button>
+                    </div>
+                    <div class="search-box">
+                        <input type="text" id="searchInput" placeholder="搜尋場地名稱、地點..." onkeypress="if(event.key==='Enter')searchVenues()">
+                        <button onclick="searchVenues()">搜尋</button>
+                    </div>
+                </section>
+
+                <!-- 場地列表 -->
+                <section class="venues-section" id="venuesSection">
+                    <div class="loading">
+                        <div class="loading-dot"></div>
+                        <div class="loading-dot"></div>
+                        <div class="loading-dot"></div>
+                        <div class="loading-dot"></div>
+                    </div>
+                </section>
             </div>
-        </section>
+
+        </div>
     </div>
 
     <!-- 場地詳情 Modal -->
-    <div id="venueModal" class="modal">
+    <div class="modal" id="venueModal">
         <div class="modal-content">
-            <div id="modalContent"></div>
+            <div class="modal-header">
+                <div id="modalHeader">
+                    <div class="venue-badge" id="modalBadge">🏨 飯店場地</div>
+                </div>
+                <button class="modal-close" onclick="closeModal()">✕</button>
+            </div>
+            <div class="modal-body" id="modalContent">
+                <!-- 動態內容 -->
+            </div>
         </div>
     </div>
 
     <script src="script.js"></script>
-    <script>
-        // 切換新手指南
-        function toggleGuide() {
-            const content = document.getElementById('guideContent');
-            const btn = document.querySelector('.guide-toggle');
-            if (content.style.display === 'none') {
-                content.style.display = 'block';
-                btn.textContent = '收起指南 ▲';
-            } else {
-                content.style.display = 'none';
-                btn.textContent = '展開指南 ▼';
-            }
-        }
-
-        // 價格區間篩選
-        function filterByPrice(min, max) {
-            // 移除其他按鈕的選中狀態
-            document.querySelectorAll('.price-btn').forEach(btn => {
-                btn.classList.remove('active');
-            });
-            // 添加當前按鈕的選中狀態
-            event.target.classList.add('active');
-
-            filteredVenues = venues.filter(v => {
-                const price = Number(v.priceHalfDay || v.priceFullDay || 0);
-                return price >= min && price <= max;
-            });
-            renderVenues();
-        }
-    </script>
 </body>
 </html>
