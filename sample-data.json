@@ -1303,7 +1303,11 @@
     "availableTimeWeekday": "09:00-23:00",
     "availableTimeWeekend": "09:00-23:00",
     "equipment": "頂級音響系統、LED牆、燈光秀設備",
-    "images": [],
+    "images": {
+      "main": "https://www.marriott.com/content/dam/marriott-renditions/tpewo/ballroom.jpg",
+      "gallery": [],
+      "floorPlan": null
+    },
     "layoutImageUrl": null,
     "rentalTimeNote": "需提前2週預約",
     "notes": "時尚潮流風格，適合新品發表會、時尚派對、年輕化企業活動",
@@ -1370,7 +1374,11 @@
     "availableTimeWeekday": "09:00-21:00",
     "availableTimeWeekend": "10:00-18:00",
     "equipment": "4K投影、視訊會議、高速WiFi",
-    "images": [],
+    "images": {
+      "main": "https://www.marriott.com/content/dam/marriott-renditions/tpewo/ballroom.jpg",
+      "gallery": [],
+      "floorPlan": null
+    },
     "layoutImageUrl": null,
     "rentalTimeNote": "需提前3天預約",
     "notes": "設計感強，適合創意產業會議、小型發表會",
@@ -1833,7 +1841,11 @@
     "availableTimeWeekday": "09:00-22:00",
     "availableTimeWeekend": "09:00-22:00",
     "equipment": "音響設備、投影機、燈光",
-    "images": [],
+    "images": {
+      "main": "https://www.hotelroyal.com.tw/taipei/images/ballroom.jpg",
+      "gallery": [],
+      "floorPlan": null
+    },
     "layoutImageUrl": null,
     "rentalTimeNote": "需提前1週預約",
     "notes": "日式服務風格，適合中型企業活動、會議",
@@ -1963,7 +1975,11 @@
     "availableTimeWeekday": "09:00-22:00",
     "availableTimeWeekend": "09:00-22:00",
     "equipment": "頂級影音設備、LED牆、燈光系統",
-    "images": [],
+    "images": {
+      "main": "https://www.lemeridien.com/taipei/images/ballroom.jpg",
+      "gallery": [],
+      "floorPlan": null
+    },
     "layoutImageUrl": null,
     "rentalTimeNote": "需提前2週預約",
     "notes": "藝術時尚風格，適合新品發表會、時尚活動、企業晚宴",
@@ -2101,7 +2117,11 @@
     "availableTimeWeekday": "09:00-22:00",
     "availableTimeWeekend": "09:00-22:00",
     "equipment": "專業影音設備、燈光系統",
-    "images": [],
+    "images": {
+      "main": "https://www.sherwood.com.tw/images/ballroom.jpg",
+      "gallery": [],
+      "floorPlan": null
+    },
     "layoutImageUrl": null,
     "rentalTimeNote": "需提前2週預約",
     "notes": "適合企業活動、會議、婚宴",
@@ -2244,7 +2264,11 @@
     "availableTimeWeekday": "09:00-22:00",
     "availableTimeWeekend": "09:00-22:00",
     "equipment": "投影設備、音響系統",
-    "images": [],
+    "images": {
+      "main": "https://www.brotherhotel.com.tw/images/ballroom.jpg",
+      "gallery": [],
+      "floorPlan": null
+    },
     "layoutImageUrl": null,
     "rentalTimeNote": "需提前1週預約",
     "notes": "經濟實惠選擇，適合中小企業活動、會議",
@@ -3078,7 +3102,11 @@
     "availableTimeWeekday": "09:00-22:00",
     "availableTimeWeekend": "09:00-22:00",
     "equipment": "頂級影音、舞台燈光、LED大螢幕",
-    "images": [],
+    "images": {
+      "main": "https://www.thelin.com.tw/images/ballroom.jpg",
+      "gallery": [],
+      "floorPlan": null
+    },
     "layoutImageUrl": null,
     "rentalTimeNote": "需提前1個月預約",
     "notes": "台中頂級宴會場地，適合大型活動",
@@ -5412,7 +5440,11 @@
     "availableTimeWeekday": "09:00-22:00",
     "availableTimeWeekend": "09:00-22:00",
     "equipment": "頂級影音設備、LED牆、燈光系統",
-    "images": [],
+    "images": {
+      "main": "https://www.humblemastertaipei.com/images/ballroom.jpg",
+      "gallery": [],
+      "floorPlan": null
+    },
     "layoutImageUrl": null,
     "rentalTimeNote": "需提前2週預約",
     "notes": "信義區時尚飯店，適合企業活動、時尚派對",
@@ -5540,7 +5572,11 @@
     "availableTimeWeekday": "09:00-22:00",
     "availableTimeWeekend": "09:00-22:00",
     "equipment": "專業影音、LED螢幕、燈光系統",
-    "images": [],
+    "images": {
+      "main": "https://www.grandmayfull.com/images/ballroom.jpg",
+      "gallery": [],
+      "floorPlan": null
+    },
     "layoutImageUrl": null,
     "rentalTimeNote": "需提前2週預約",
     "notes": "大直精品飯店，適合企業活動、婚宴",
@@ -5605,7 +5641,11 @@
     "availableTimeWeekday": "09:00-22:00",
     "availableTimeWeekend": "09:00-22:00",
     "equipment": "專業影音設備、燈光系統",
-    "images": [],
+    "images": {
+      "main": "https://www.victoriahotel.com.tw/images/ballroom.jpg",
+      "gallery": [],
+      "floorPlan": null
+    },
     "layoutImageUrl": null,
     "rentalTimeNote": "需提前2週預約",
     "notes": "大直優質飯店，適合企業活動、婚宴",
@@ -5670,7 +5710,11 @@
     "availableTimeWeekday": "09:00-21:00",
     "availableTimeWeekend": "09:00-18:00",
     "equipment": "投影機、白板、視訊會議",
-    "images": [],
+    "images": {
+      "main": "https://www.eclathotel.com/images/meeting.jpg",
+      "gallery": [],
+      "floorPlan": null
+    },
     "layoutImageUrl": null,
     "rentalTimeNote": "需提前3天預約",
     "notes": "精品商務飯店，適合中小型會議",
@@ -5727,7 +5771,11 @@
     "availableTimeWeekday": "09:00-21:00",
     "availableTimeWeekend": "09:00-18:00",
     "equipment": "投影機、白板、WiFi",
-    "images": [],
+    "images": {
+      "main": "https://www.caesarmetro.com/images/meeting.jpg",
+      "gallery": [],
+      "floorPlan": null
+    },
     "layoutImageUrl": null,
     "rentalTimeNote": "需提前3天預約",
     "notes": "台北車站旁，交通便利，適合商務會議",
@@ -5784,7 +5832,11 @@
     "availableTimeWeekday": "09:00-22:00",
     "availableTimeWeekend": "09:00-22:00",
     "equipment": "專業影音設備、燈光系統",
-    "images": [],
+    "images": {
+      "main": "https://www.taipeigardenhotel.com/images/ballroom.jpg",
+      "gallery": [],
+      "floorPlan": null
+    },
     "layoutImageUrl": null,
     "rentalTimeNote": "需提前2週預約",
     "notes": "西門町地標，適合企業活動、婚宴",
@@ -5849,7 +5901,11 @@
     "availableTimeWeekday": "09:00-22:00",
     "availableTimeWeekend": "09:00-22:00",
     "equipment": "投影設備、音響系統",
-    "images": [],
+    "images": {
+      "main": "https://www.gracehotel.com.tw/images/ballroom.jpg",
+      "gallery": [],
+      "floorPlan": null
+    },
     "layoutImageUrl": null,
     "rentalTimeNote": "需提前1週預約",
     "notes": "西門町精華地段，適合中型活動",
@@ -5914,7 +5970,11 @@
     "availableTimeWeekday": "09:00-22:00",
     "availableTimeWeekend": "09:00-22:00",
     "equipment": "專業影音設備、燈光系統",
-    "images": [],
+    "images": {
+      "main": "https://www.sanwantaipei.com/images/ballroom.jpg",
+      "gallery": [],
+      "floorPlan": null
+    },
     "layoutImageUrl": null,
     "rentalTimeNote": "需提前2週預約",
     "notes": "忠孝東路精華地段，適合企業活動、婚宴",
@@ -5979,7 +6039,11 @@
     "availableTimeWeekday": "09:00-21:00",
     "availableTimeWeekend": "09:00-18:00",
     "equipment": "投影機、白板、視訊會議、WiFi",
-    "images": [],
+    "images": {
+      "main": "https://www.courtyard.com/taipei/images/meeting.jpg",
+      "gallery": [],
+      "floorPlan": null
+    },
     "layoutImageUrl": null,
     "rentalTimeNote": "需提前1週預約",
     "notes": "南港車站旁，交通便利，適合會議培訓",
@@ -6036,7 +6100,11 @@
     "availableTimeWeekday": "09:00-22:00",
     "availableTimeWeekend": "09:00-22:00",
     "equipment": "專業影音設備、燈光系統",
-    "images": [],
+    "images": {
+      "main": "https://www.dynastyhotel.com.tw/images/ballroom.jpg",
+      "gallery": [],
+      "floorPlan": null
+    },
     "layoutImageUrl": null,
     "rentalTimeNote": "需提前2週預約",
     "notes": "小巨蛋旁，適合企業活動、演唱會",
@@ -6290,7 +6358,11 @@
     "availableTimeWeekday": "09:00-21:00",
     "availableTimeWeekend": "09:00-21:00",
     "equipment": "投影機、音響、視訊會議、溫泉設施",
-    "images": [],
+    "images": {
+      "main": "https://www.uni-resort.com.tw/guguan/images/meeting.jpg",
+      "gallery": [],
+      "floorPlan": null
+    },
     "layoutImageUrl": null,
     "rentalTimeNote": "需提前2週預約",
     "notes": "谷關溫泉渡假村，適合企業會議、獎勵旅遊",
@@ -6775,7 +6847,11 @@
     "availableTimeWeekday": "09:00-22:00",
     "availableTimeWeekend": "09:00-22:00",
     "equipment": "頂級影音、LED螢幕、燈光系統",
-    "images": [],
+    "images": {
+      "main": "https://www.hanyuanhotel.com/images/ballroom.jpg",
+      "gallery": [],
+      "floorPlan": null
+    },
     "layoutImageUrl": null,
     "rentalTimeNote": "需提前2週預約",
     "notes": "高雄精品飯店，適合企業活動、婚宴",
@@ -6835,7 +6911,11 @@
     "availableTimeWeekday": "09:00-22:00",
     "availableTimeWeekend": "09:00-22:00",
     "equipment": "專業影音、淡水河景、夕陽景觀",
-    "images": [],
+    "images": {
+      "main": "https://www.tulip.com.tw/tamsui/images/ballroom.jpg",
+      "gallery": [],
+      "floorPlan": null
+    },
     "layoutImageUrl": null,
     "rentalTimeNote": "需提前2週預約",
     "notes": "淡水河景飯店，適合企業活動、婚宴、夕陽派對",
@@ -6895,7 +6975,11 @@
     "availableTimeWeekday": "09:00-21:00",
     "availableTimeWeekend": "09:00-21:00",
     "equipment": "基本音響、河景、戶外廣場",
-    "images": [],
+    "images": {
+      "main": "https://www.tamsui.ntpc.gov.tw/images/venue.jpg",
+      "gallery": [],
+      "floorPlan": null
+    },
     "layoutImageUrl": null,
     "rentalTimeNote": "需提前1個月預約",
     "notes": "漁人碼頭地標，適合發表會、演唱會、戶外活動",
@@ -6954,7 +7038,11 @@
     "availableTimeWeekday": "09:00-17:00",
     "availableTimeWeekend": "09:00-17:00",
     "equipment": "基本設施",
-    "images": [],
+    "images": {
+      "main": "https://www.tamsui.ntpc.gov.tw/fort/images/outdoor.jpg",
+      "gallery": [],
+      "floorPlan": null
+    },
     "layoutImageUrl": null,
     "rentalTimeNote": "需提前2個月申請",
     "notes": "國定古蹟，適合文化活動、戶外拍攝、記者會",
@@ -7013,7 +7101,11 @@
     "availableTimeWeekday": "09:00-21:00",
     "availableTimeWeekend": "09:00-18:00",
     "equipment": "投影機、白板、視訊會議、河景",
-    "images": [],
+    "images": {
+      "main": "https://www.taleashotels.com/tamsui/images/meeting.jpg",
+      "gallery": [],
+      "floorPlan": null
+    },
     "layoutImageUrl": null,
     "rentalTimeNote": "需提前1週預約",
     "notes": "淡水老街飯店，適合中小型會議、培訓",
@@ -8612,6 +8704,11 @@
         "capacity": 100,
         "description": "馬蹄型"
       }
+    },
+    "images": {
+      "main": "https://www.cesarpark.com.tw/banqiao/images/ballroom.jpg",
+      "gallery": [],
+      "floorPlan": null
     }
   },
   {
@@ -8739,6 +8836,11 @@
         "capacity": 50,
         "description": "馬蹄型"
       }
+    },
+    "images": {
+      "main": "https://www.tianke.com.tw/images/meeting.jpg",
+      "gallery": [],
+      "floorPlan": null
     }
   },
   {
@@ -9058,6 +9160,11 @@
         "capacity": 50,
         "description": "馬蹄型"
       }
+    },
+    "images": {
+      "main": "https://www.ntpc.gov.tw/plaza/images/venue.jpg",
+      "gallery": [],
+      "floorPlan": null
     }
   },
   {
@@ -12635,6 +12742,11 @@
         "capacity": 87,
         "description": "馬蹄型"
       }
+    },
+    "images": {
+      "main": "https://www.caesarpark.com.tw/kenting/images/ballroom.jpg",
+      "gallery": [],
+      "floorPlan": null
     }
   },
   {
