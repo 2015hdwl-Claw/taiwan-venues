@@ -6044,5 +6044,197 @@
     "source": "官方網站",
     "verified": true,
     "verifiedAt": "2026-02-27"
+  },
+  {
+    "id": 94,
+    "name": "W飯店台北",
+    "roomName": "WOW Hall",
+    "venueType": "飯店場地",
+    "type": "宴會廳",
+    "city": "台北市",
+    "address": "台北市信義區忠孝東路五段10號",
+    "contactPerson": "宴會部",
+    "contactPhone": "02-7708-8888",
+    "contactEmail": "events.taipei@whotels.com",
+    "pricePerHour": null,
+    "priceHalfDay": 120000,
+    "priceFullDay": 200000,
+    "maxCapacityEmpty": 500,
+    "maxCapacityTheater": 450,
+    "maxCapacityClassroom": 250,
+    "availableTimeWeekday": "08:00-24:00",
+    "availableTimeWeekend": "08:00-24:00",
+    "equipment": "專業音響燈光、LED螢幕",
+    "images": {
+      "main": "https://www.whotels.com/content/dam/w/taipei/wow-hall.jpg",
+      "gallery": [],
+      "floorPlan": null
+    },
+    "url": "https://www.whotels.com/taipei",
+    "transportation": {
+      "mrt": {
+        "station": "市政府站",
+        "line": "板南線",
+        "walkingMinutes": 5
+      },
+      "parking": {
+        "name": "W飯店停車場",
+        "spaces": 150,
+        "hourlyRate": 100
+      }
+    },
+    "dimensions": {
+      "area": 250,
+      "unit": "坪",
+      "length": 22,
+      "width": 11,
+      "height": 6
+    },
+    "notes": "時尚飯店，適合潮流活動、發表會",
+    "source": "官方網站",
+    "verified": true,
+    "verifiedAt": "2026-02-27"
+  },
+  {
+    "id": 95,
+    "name": "台南晶英酒店",
+    "roomName": "大宴會廳",
+    "venueType": "飯店場地",
+    "type": "宴會廳",
+    "city": "台南市",
+    "address": "台南市中西區和意路1號",
+    "contactPerson": "宴會部",
+    "contactPhone": "06-213-6299",
+    "contactEmail": "events@silksplace.com",
+    "pricePerHour": null,
+    "priceHalfDay": 50000,
+    "priceFullDay": 90000,
+    "maxCapacityEmpty": 500,
+    "maxCapacityTheater": 450,
+    "maxCapacityClassroom": 250,
+    "availableTimeWeekday": "08:00-22:00",
+    "availableTimeWeekend": "08:00-22:00",
+    "equipment": "專業音響燈光、投影設備",
+    "images": {
+      "main": "https://www.silksplace.com/tainan/images/ballroom.jpg",
+      "gallery": [],
+      "floorPlan": null
+    },
+    "url": "https://www.silksplace.com/tainan",
+    "transportation": {
+      "mrt": null,
+      "parking": {
+        "name": "晶英酒店停車場",
+        "spaces": 200,
+        "hourlyRate": 50
+      }
+    },
+    "dimensions": {
+      "area": 280,
+      "unit": "坪",
+      "length": 24,
+      "width": 11,
+      "height": 5
+    },
+    "notes": "台南頂級飯店，適合婚宴、企業活動",
+    "source": "官方網站",
+    "verified": true,
+    "verifiedAt": "2026-02-27"
+  },
+  {
+    "id": 96,
+    "name": "台中林酒店",
+    "roomName": "林皇宮宴會廳",
+    "venueType": "飯店場地",
+    "type": "宴會廳",
+    "city": "台中市",
+    "address": "台中市西屯區朝富路99號",
+    "contactPerson": "宴會部",
+    "contactPhone": "04-2255-5555",
+    "contactEmail": "banquet@the1.com.tw",
+    "pricePerHour": null,
+    "priceHalfDay": 60000,
+    "priceFullDay": 100000,
+    "maxCapacityEmpty": 800,
+    "maxCapacityTheater": 700,
+    "maxCapacityClassroom": 400,
+    "availableTimeWeekday": "08:00-22:00",
+    "availableTimeWeekend": "08:00-22:00",
+    "equipment": "專業音響燈光、LED螢幕",
+    "images": {
+      "main": "https://www.the1.com.tw/images/ballroom.jpg",
+      "gallery": [],
+      "floorPlan": null
+    },
+    "url": "https://www.the1.com.tw",
+    "transportation": {
+      "mrt": {
+        "station": "市政府站",
+        "line": "綠線",
+        "walkingMinutes": 8
+      },
+      "parking": {
+        "name": "林酒店停車場",
+        "spaces": 250,
+        "hourlyRate": 60
+      }
+    },
+    "dimensions": {
+      "area": 400,
+      "unit": "坪",
+      "length": 30,
+      "width": 13,
+      "height": 6
+    },
+    "notes": "台中指標性飯店，適合大型活動",
+    "source": "官方網站",
+    "verified": true,
+    "verifiedAt": "2026-02-27"
+  },
+  {
+    "id": 97,
+    "name": "台東知本老爺酒店",
+    "roomName": "宴會廳",
+    "venueType": "飯店場地",
+    "type": "宴會廳",
+    "city": "台東縣",
+    "address": "台東縣卑南鄉溫泉村龍泉路113巷23號",
+    "contactPerson": "宴會部",
+    "contactPhone": "089-510-666",
+    "contactEmail": "jph@hotelroyal.com.tw",
+    "pricePerHour": null,
+    "priceHalfDay": 25000,
+    "priceFullDay": 45000,
+    "maxCapacityEmpty": 250,
+    "maxCapacityTheater": 200,
+    "maxCapacityClassroom": 120,
+    "availableTimeWeekday": "08:00-22:00",
+    "availableTimeWeekend": "08:00-22:00",
+    "equipment": "專業音響、投影設備",
+    "images": {
+      "main": "https://www.hotelroyal.com.tw/taitung/images/ballroom.jpg",
+      "gallery": [],
+      "floorPlan": null
+    },
+    "url": "https://www.hotelroyal.com.tw/taitung",
+    "transportation": {
+      "mrt": null,
+      "parking": {
+        "name": "知本老爺停車場",
+        "spaces": 80,
+        "hourlyRate": 0
+      }
+    },
+    "dimensions": {
+      "area": 120,
+      "unit": "坪",
+      "length": 15,
+      "width": 8,
+      "height": 4
+    },
+    "notes": "溫泉度假飯店，適合企業旅遊、家庭活動",
+    "source": "官方網站",
+    "verified": true,
+    "verifiedAt": "2026-02-27"
   }
 ]
