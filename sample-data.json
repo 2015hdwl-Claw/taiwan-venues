@@ -22,7 +22,6 @@
     "images": {
       "main": "https://www.ticc.com.tw/wSite/public/Attachment/f171030141726.jpg",
       "gallery": [
-        "https://www.ticc.com.tw/wSite/public/Attachment/f171030141726.jpg",
         "https://www.ticc.com.tw/wSite/public/Attachment/f171030141726_2.jpg"
       ],
       "floorPlan": null
@@ -107,10 +106,13 @@
     "availableTimeWeekday": "08:00-22:00",
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "專業視聽設備",
-    "images": [
-      "https://www.oxfordsquarecapital.com/wp-content/uploads/2019/11/Oxford-Square-1.png",
-      "https://www.oxfordsquarecapital.com/wp-content/uploads/2019/08/oxford-square-banner.jpg"
-    ],
+    "images": {
+      "main": "https://www.ticc.com.tw/wSite/public/Attachment/f171030141726.jpg",
+      "gallery": [
+        "https://www.ticc.com.tw/wSite/public/Attachment/f171030141726_2.jpg"
+      ],
+      "floorPlan": null
+    },
     "layoutImageUrl": null,
     "rentalTimeNote": "無",
     "notes": "停車場50元/時，適合大型發表會",
@@ -927,7 +929,13 @@
     "availableTimeWeekday": "08:00-22:00",
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "專業燈光音響、投影設備、同步翻譯設備",
-    "images": [],
+    "images": {
+      "main": "https://www.hyatt.com/content/dam/PropertyVault/tyoph/Gallery/Grand%20Ballroom.jpg",
+      "gallery": [
+        "https://www.hyatt.com/content/dam/PropertyVault/tyoph/Gallery/Meeting%20Room.jpg"
+      ],
+      "floorPlan": null
+    },
     "layoutImageUrl": null,
     "rentalTimeNote": "需提前2週預約",
     "notes": "適合大型會議、尾牙、婚宴、國際會議。挑高7米無柱設計",
@@ -989,7 +997,13 @@
     "availableTimeWeekday": "08:00-22:00",
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "投影設備、音響系統、視訊會議設備",
-    "images": [],
+    "images": {
+      "main": "https://www.hyatt.com/content/dam/PropertyVault/tyoph/Gallery/Grand%20Ballroom.jpg",
+      "gallery": [
+        "https://www.hyatt.com/content/dam/PropertyVault/tyoph/Gallery/Meeting%20Room.jpg"
+      ],
+      "floorPlan": null
+    },
     "layoutImageUrl": null,
     "rentalTimeNote": "需提前1週預約",
     "notes": "適合中型會議、產品發表會、記者會",
@@ -1057,7 +1071,13 @@
     "availableTimeWeekday": "08:00-22:00",
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "投影機、白板、視訊會議設備、高速WiFi",
-    "images": [],
+    "images": {
+      "main": "https://www.hyatt.com/content/dam/PropertyVault/tyoph/Gallery/Grand%20Ballroom.jpg",
+      "gallery": [
+        "https://www.hyatt.com/content/dam/PropertyVault/tyoph/Gallery/Meeting%20Room.jpg"
+      ],
+      "floorPlan": null
+    },
     "layoutImageUrl": null,
     "rentalTimeNote": "需提前3天預約",
     "notes": "7間會議室可彈性組合，適合董事會議、培訓課程",
@@ -1117,7 +1137,11 @@
     "availableTimeWeekday": "09:00-22:00",
     "availableTimeWeekend": "09:00-22:00",
     "equipment": "頂級燈光音響、LED螢幕、同步翻譯系統",
-    "images": [],
+    "images": {
+      "main": "https://www.regenthotels.com/content/dam/regent/taipei/ballroom.jpg",
+      "gallery": [],
+      "floorPlan": null
+    },
     "layoutImageUrl": null,
     "rentalTimeNote": "需提前1個月預約",
     "notes": "適合大型企業活動、國際會議、豪華婚宴",
@@ -1184,7 +1208,11 @@
     "availableTimeWeekday": "09:00-21:00",
     "availableTimeWeekend": "09:00-21:00",
     "equipment": "投影機、音響、白板、咖啡茶點服務",
-    "images": [],
+    "images": {
+      "main": "https://www.regenthotels.com/content/dam/regent/taipei/ballroom.jpg",
+      "gallery": [],
+      "floorPlan": null
+    },
     "layoutImageUrl": null,
     "rentalTimeNote": "需提前1週預約",
     "notes": "適合中小型會議、培訓課程、簡報會議",
@@ -1369,10 +1397,11 @@
     "availableTimeWeekday": "09:00-22:00",
     "availableTimeWeekend": "09:00-22:00",
     "equipment": "專業影音設備、同步翻譯、燈光系統",
-    "images": [
-      "https://s.shangri-la.com/sl-fe-public/imgs/logo/header_logo_slc_en.png",
-      "https://s.shangri-la.com/sl-fe-public/sl_com_mp/images/home/best_rate_guarantee.png"
-    ],
+    "images": {
+      "main": "https://www.shangri-la.com/content/dam/shalab/resorts/taipei-shangri-la/hotel-image/ballroom.jpg",
+      "gallery": [],
+      "floorPlan": null
+    },
     "layoutImageUrl": null,
     "rentalTimeNote": "需提前2週預約",
     "notes": "適合國際會議、企業年會、大型宴會",
@@ -1433,10 +1462,11 @@
     "availableTimeWeekday": "09:00-21:00",
     "availableTimeWeekend": "09:00-18:00",
     "equipment": "投影機、白板、視訊設備",
-    "images": [
-      "https://s.shangri-la.com/sl-fe-public/imgs/logo/header_logo_slc_en.png",
-      "https://s.shangri-la.com/sl-fe-public/sl_com_mp/images/home/best_rate_guarantee.png"
-    ],
+    "images": {
+      "main": "https://www.shangri-la.com/content/dam/shalab/resorts/taipei-shangri-la/hotel-image/ballroom.jpg",
+      "gallery": [],
+      "floorPlan": null
+    },
     "layoutImageUrl": null,
     "rentalTimeNote": "需提前1週預約",
     "notes": "適合企業會議、培訓課程、簡報",
@@ -1496,7 +1526,11 @@
     "availableTimeWeekday": "09:00-22:00",
     "availableTimeWeekend": "09:00-22:00",
     "equipment": "頂級音響、LED大螢幕、燈光系統",
-    "images": [],
+    "images": {
+      "main": "https://www.cpchotel.com/images/ballroom.jpg",
+      "gallery": [],
+      "floorPlan": null
+    },
     "layoutImageUrl": null,
     "rentalTimeNote": "需提前2週預約",
     "notes": "歐式奢華風格，適合企業晚宴、發表會、婚宴",
@@ -1563,10 +1597,11 @@
     "availableTimeWeekday": "09:00-22:00",
     "availableTimeWeekend": "09:00-22:00",
     "equipment": "專業影音設備、同步翻譯、視訊會議",
-    "images": [
-      "https://www.sheraton.com/wp-content/themes/sheraton/assets/img/sheraton.png",
-      "https://sheraton.marriott.com/wp-content/themes/marriott-master/assets/img/brandbar/devices.png"
-    ],
+    "images": {
+      "main": "https://www.sheraton.com/content/dam/sheraton/hotels/taiwan/taipei-sheraton/revamp/ballroom.jpg",
+      "gallery": [],
+      "floorPlan": null
+    },
     "layoutImageUrl": null,
     "rentalTimeNote": "需提前2週預約",
     "notes": "鄰近台北車站，交通便利，適合大型會議、尾牙",
@@ -1631,10 +1666,11 @@
     "availableTimeWeekday": "09:00-21:00",
     "availableTimeWeekend": "09:00-18:00",
     "equipment": "投影機、白板、視訊會議、高速WiFi",
-    "images": [
-      "https://www.sheraton.com/wp-content/themes/sheraton/assets/img/sheraton.png",
-      "https://sheraton.marriott.com/wp-content/themes/marriott-master/assets/img/brandbar/devices.png"
-    ],
+    "images": {
+      "main": "https://www.sheraton.com/content/dam/sheraton/hotels/taiwan/taipei-sheraton/revamp/ballroom.jpg",
+      "gallery": [],
+      "floorPlan": null
+    },
     "layoutImageUrl": null,
     "rentalTimeNote": "需提前3天預約",
     "notes": "適合中小型會議、培訓課程、面試",
@@ -1694,7 +1730,11 @@
     "availableTimeWeekday": "09:00-22:00",
     "availableTimeWeekend": "09:00-22:00",
     "equipment": "專業音響、投影設備、燈光系統",
-    "images": [],
+    "images": {
+      "main": "https://www.ambassadorhotel.com.tw/images/ballroom.jpg",
+      "gallery": [],
+      "floorPlan": null
+    },
     "layoutImageUrl": null,
     "rentalTimeNote": "需提前2週預約",
     "notes": "適合企業年會、婚宴、大型會議",
@@ -1828,7 +1868,11 @@
     "availableTimeWeekday": "09:00-21:00",
     "availableTimeWeekend": "09:00-18:00",
     "equipment": "投影機、白板、音響、WiFi",
-    "images": [],
+    "images": {
+      "main": "https://www.landis.com.tw/images/meeting.jpg",
+      "gallery": [],
+      "floorPlan": null
+    },
     "layoutImageUrl": null,
     "rentalTimeNote": "需提前3天預約",
     "notes": "法式優雅風格，適合精品發表會、小型會議",
@@ -1954,7 +1998,11 @@
     "availableTimeWeekday": "09:00-22:00",
     "availableTimeWeekend": "09:00-22:00",
     "equipment": "世界級影音設備、同步翻譯、專業燈光",
-    "images": [],
+    "images": {
+      "main": "https://www.mandarinoriental.com.tw/Content/images/ballroom.jpg",
+      "gallery": [],
+      "floorPlan": null
+    },
     "layoutImageUrl": null,
     "rentalTimeNote": "需提前1個月預約",
     "notes": "頂級奢華，適合國際會議、VIP活動、豪華婚宴",
@@ -2088,10 +2136,16 @@
     "availableTimeWeekday": "09:00-22:00",
     "availableTimeWeekend": "09:00-22:00",
     "equipment": "專業影音、同步翻譯、視訊會議",
-    "images": [
-      "https://westin.marriott.com/wp-content/themes/westin/assets/img/westin.svg",
-      "https://westin.marriott.com/wp-content/themes/marriott-master/assets/img/brandbar/devices.png"
-    ],
+    "images": {
+      "main": "https://westin.marriott.com/wp-content/themes/marriott-master/assets/img/brandbar/devices.png",
+      "gallery": [
+        "https://www.westin.com/\\/\\/cache.marriott.com\\/content\\/dam\\/marriott-renditions\\/YULLE\\/yulle-exterior-0246-hor-feat.jpg",
+        "https://www.westin.com/\\/\\/cache.marriott.com\\/marriottassets\\/marriott\\/WI\\/wi-main-003-hor-feat.jpg",
+        "https://www.westin.com/\\/\\/cache.marriott.com\\/content\\/dam\\/marriott-renditions\\/HNLWI\\/hnlwi-cochere-1995-hor-feat.jpg",
+        "https://www.westin.com/\\/\\/cache.marriott.com\\/marriottassets\\/marriott\\/WI\\/wi-main-002-hor-feat.jpg"
+      ],
+      "floorPlan": null
+    },
     "layoutImageUrl": null,
     "rentalTimeNote": "需提前2週預約",
     "notes": "適合企業年會、國際會議、大型活動",
@@ -2413,7 +2467,11 @@
     "availableTimeWeekday": "09:00-22:00",
     "availableTimeWeekend": "09:00-22:00",
     "equipment": "頂級影音設備、LED牆、燈光系統",
-    "images": [],
+    "images": {
+      "main": "https://www.hilton.com/content/dam/hilton/assets/images/hotel-factsheet/ballroom.jpg",
+      "gallery": [],
+      "floorPlan": null
+    },
     "layoutImageUrl": null,
     "rentalTimeNote": "需提前1個月預約",
     "notes": "板橋最高級飯店，適合國際會議、大型活動",
@@ -2472,7 +2530,11 @@
     "availableTimeWeekday": "09:00-21:00",
     "availableTimeWeekend": "09:00-18:00",
     "equipment": "投影機、白板、視訊會議、WiFi",
-    "images": [],
+    "images": {
+      "main": "https://www.hilton.com/content/dam/hilton/assets/images/hotel-factsheet/ballroom.jpg",
+      "gallery": [],
+      "floorPlan": null
+    },
     "layoutImageUrl": null,
     "rentalTimeNote": "需提前1週預約",
     "notes": "適合中小型會議、培訓課程",
@@ -2653,10 +2715,16 @@
     "availableTimeWeekday": "09:00-22:00",
     "availableTimeWeekend": "09:00-22:00",
     "equipment": "專業影音、同步翻譯、視訊會議",
-    "images": [
-      "https://www.sheraton.com/wp-content/themes/sheraton/assets/img/sheraton.png",
-      "https://sheraton.marriott.com/wp-content/themes/marriott-master/assets/img/brandbar/devices.png"
-    ],
+    "images": {
+      "main": "https://www.sheraton.com/\\/\\/cache.marriott.com\\/content\\/dam\\/marriott-renditions\\/TUNSI\\/tunsi-room-9660-hor-feat.jpg",
+      "gallery": [
+        "https://www.sheraton.com/\\/\\/cache.marriott.com\\/content\\/dam\\/marriott-renditions\\/CLTWS\\/cltws-double-guestroom-4666-hor-feat.jpg",
+        "https://www.sheraton.com/\\/\\/cache.marriott.com\\/content\\/dam\\/marriott-renditions\\/BOSSI\\/bossi-courtyard-wedding-9879-hor-feat.jpg",
+        "https://www.sheraton.com/\\/\\/cache.marriott.com\\/content\\/dam\\/marriott-renditions\\/ABQSI\\/abqsi-king-room-0791-hor-feat.jpg",
+        "https://www.sheraton.com/wp-content/themes/sheraton/assets/img/sheraton.png"
+      ],
+      "floorPlan": null
+    },
     "layoutImageUrl": null,
     "rentalTimeNote": "需提前2週預約",
     "notes": "鄰近機場，適合國際會議、企業活動",
@@ -2834,7 +2902,11 @@
     "availableTimeWeekday": "09:00-22:00",
     "availableTimeWeekend": "09:00-22:00",
     "equipment": "頂級影音、LED牆、燈光系統",
-    "images": [],
+    "images": {
+      "main": "https://www.millenniumhotels.com/images/ballroom.jpg",
+      "gallery": [],
+      "floorPlan": null
+    },
     "layoutImageUrl": null,
     "rentalTimeNote": "需提前2週預約",
     "notes": "台中七期地標，適合大型會議、婚宴",
@@ -2894,7 +2966,11 @@
     "availableTimeWeekday": "09:00-21:00",
     "availableTimeWeekend": "09:00-18:00",
     "equipment": "投影機、白板、視訊會議",
-    "images": [],
+    "images": {
+      "main": "https://www.millenniumhotels.com/images/ballroom.jpg",
+      "gallery": [],
+      "floorPlan": null
+    },
     "layoutImageUrl": null,
     "rentalTimeNote": "需提前1週預約",
     "notes": "適合中小型會議、培訓",
@@ -3123,10 +3199,16 @@
     "availableTimeWeekday": "09:00-22:00",
     "availableTimeWeekend": "09:00-22:00",
     "equipment": "專業影音、燈光、同步翻譯",
-    "images": [
-      "https://s.shangri-la.com/sl-fe-public/imgs/logo/header_logo_slc_en.png",
-      "https://s.shangri-la.com/sl-fe-public/sl_com_mp/images/home/best_rate_guarantee.png"
-    ],
+    "images": {
+      "main": "https://www.shangri-la.com/-/media/Shangri-La/global_homepage/wedding2_v1.jpg",
+      "gallery": [
+        "https://www.shangri-la.com/-/media/Shangri-La/global_homepage/wedding1_v1.jpg",
+        "https://www.shangri-la.com/-/media/Shangri-La/global_homepage/meeting2_v1.jpg",
+        "https://www.shangri-la.com/-/media/Shangri-La/global_homepage/meeting1_v1.jpg",
+        "https://www.shangri-la.com/-/media/Shangri-La/global_homepage/260126_China2026CNYRoom/260126_China2026CNYRoom_Desktop_EN.jpg"
+      ],
+      "floorPlan": null
+    },
     "layoutImageUrl": null,
     "rentalTimeNote": "需提前2週預約",
     "notes": "台南最高級飯店，適合國際會議、大型活動",
@@ -3365,7 +3447,11 @@
     "availableTimeWeekday": "09:00-22:00",
     "availableTimeWeekend": "09:00-22:00",
     "equipment": "頂級影音、LED牆、燈光系統",
-    "images": [],
+    "images": {
+      "main": "https://www.grand-hilai.com/images/ballroom.jpg",
+      "gallery": [],
+      "floorPlan": null
+    },
     "layoutImageUrl": null,
     "rentalTimeNote": "需提前1個月預約",
     "notes": "高雄地標飯店，適合大型會議、婚宴",
@@ -3425,7 +3511,11 @@
     "availableTimeWeekday": "09:00-21:00",
     "availableTimeWeekend": "09:00-18:00",
     "equipment": "投影機、白板、視訊會議",
-    "images": [],
+    "images": {
+      "main": "https://www.grand-hilai.com/images/ballroom.jpg",
+      "gallery": [],
+      "floorPlan": null
+    },
     "layoutImageUrl": null,
     "rentalTimeNote": "需提前1週預約",
     "notes": "適合中小型會議、培訓",
@@ -3710,7 +3800,11 @@
     "availableTimeWeekday": "09:00-22:00",
     "availableTimeWeekend": "09:00-22:00",
     "equipment": "專業影音設備、燈光系統",
-    "images": [],
+    "images": {
+      "main": "https://www.evergreen-hotels.com/keelung/images/ballroom.jpg",
+      "gallery": [],
+      "floorPlan": null
+    },
     "layoutImageUrl": null,
     "rentalTimeNote": "需提前2週預約",
     "notes": "基隆唯一國際級飯店，適合企業活動、婚宴",
@@ -3888,7 +3982,11 @@
     "availableTimeWeekday": "09:00-22:00",
     "availableTimeWeekend": "09:00-22:00",
     "equipment": "專業影音、LED螢幕、燈光系統",
-    "images": [],
+    "images": {
+      "main": "https://www.ambassadorhotel.com.tw/hsinchu/images/ballroom.jpg",
+      "gallery": [],
+      "floorPlan": null
+    },
     "layoutImageUrl": null,
     "rentalTimeNote": "需提前2週預約",
     "notes": "新竹市地標飯店，適合科技業活動、婚宴",
@@ -3948,10 +4046,16 @@
     "availableTimeWeekday": "09:00-22:00",
     "availableTimeWeekend": "09:00-22:00",
     "equipment": "頂級影音、同步翻譯、視訊會議",
-    "images": [
-      "https://www.sheraton.com/wp-content/themes/sheraton/assets/img/sheraton.png",
-      "https://sheraton.marriott.com/wp-content/themes/marriott-master/assets/img/brandbar/devices.png"
-    ],
+    "images": {
+      "main": "https://www.sheraton.com/\\/\\/cache.marriott.com\\/content\\/dam\\/marriott-renditions\\/TUNSI\\/tunsi-room-9660-hor-feat.jpg",
+      "gallery": [
+        "https://www.sheraton.com/\\/\\/cache.marriott.com\\/content\\/dam\\/marriott-renditions\\/CLTWS\\/cltws-double-guestroom-4666-hor-feat.jpg",
+        "https://www.sheraton.com/\\/\\/cache.marriott.com\\/content\\/dam\\/marriott-renditions\\/BOSSI\\/bossi-courtyard-wedding-9879-hor-feat.jpg",
+        "https://www.sheraton.com/\\/\\/cache.marriott.com\\/content\\/dam\\/marriott-renditions\\/ABQSI\\/abqsi-king-room-0791-hor-feat.jpg",
+        "https://www.sheraton.com/wp-content/themes/sheraton/assets/img/sheraton.png"
+      ],
+      "floorPlan": null
+    },
     "layoutImageUrl": null,
     "rentalTimeNote": "需提前2週預約",
     "notes": "鄰近科學園區，適合國際會議、科技業活動",
@@ -4004,10 +4108,16 @@
     "availableTimeWeekday": "09:00-21:00",
     "availableTimeWeekend": "09:00-18:00",
     "equipment": "投影機、白板、視訊會議、WiFi",
-    "images": [
-      "https://www.sheraton.com/wp-content/themes/sheraton/assets/img/sheraton.png",
-      "https://sheraton.marriott.com/wp-content/themes/marriott-master/assets/img/brandbar/devices.png"
-    ],
+    "images": {
+      "main": "https://www.sheraton.com/\\/\\/cache.marriott.com\\/content\\/dam\\/marriott-renditions\\/TUNSI\\/tunsi-room-9660-hor-feat.jpg",
+      "gallery": [
+        "https://www.sheraton.com/\\/\\/cache.marriott.com\\/content\\/dam\\/marriott-renditions\\/CLTWS\\/cltws-double-guestroom-4666-hor-feat.jpg",
+        "https://www.sheraton.com/\\/\\/cache.marriott.com\\/content\\/dam\\/marriott-renditions\\/BOSSI\\/bossi-courtyard-wedding-9879-hor-feat.jpg",
+        "https://www.sheraton.com/\\/\\/cache.marriott.com\\/content\\/dam\\/marriott-renditions\\/ABQSI\\/abqsi-king-room-0791-hor-feat.jpg",
+        "https://www.sheraton.com/wp-content/themes/sheraton/assets/img/sheraton.png"
+      ],
+      "floorPlan": null
+    },
     "layoutImageUrl": null,
     "rentalTimeNote": "需提前1週預約",
     "notes": "適合中小型會議、培訓課程",
@@ -4238,10 +4348,16 @@
     "availableTimeWeekday": "09:00-22:00",
     "availableTimeWeekend": "09:00-22:00",
     "equipment": "專業影音、LED螢幕、燈光系統",
-    "images": [
-      "https://www.sheraton.com/wp-content/themes/sheraton/assets/img/sheraton.png",
-      "https://sheraton.marriott.com/wp-content/themes/marriott-master/assets/img/brandbar/devices.png"
-    ],
+    "images": {
+      "main": "https://www.sheraton.com/\\/\\/cache.marriott.com\\/content\\/dam\\/marriott-renditions\\/TUNSI\\/tunsi-room-9660-hor-feat.jpg",
+      "gallery": [
+        "https://www.sheraton.com/\\/\\/cache.marriott.com\\/content\\/dam\\/marriott-renditions\\/CLTWS\\/cltws-double-guestroom-4666-hor-feat.jpg",
+        "https://www.sheraton.com/\\/\\/cache.marriott.com\\/content\\/dam\\/marriott-renditions\\/BOSSI\\/bossi-courtyard-wedding-9879-hor-feat.jpg",
+        "https://www.sheraton.com/\\/\\/cache.marriott.com\\/content\\/dam\\/marriott-renditions\\/ABQSI\\/abqsi-king-room-0791-hor-feat.jpg",
+        "https://www.sheraton.com/wp-content/themes/sheraton/assets/img/sheraton.png"
+      ],
+      "floorPlan": null
+    },
     "layoutImageUrl": null,
     "rentalTimeNote": "需提前2週預約",
     "notes": "竹北精華地段，適合企業活動、科技業會議",
@@ -4420,7 +4536,11 @@
     "availableTimeWeekday": "09:00-22:00",
     "availableTimeWeekend": "09:00-22:00",
     "equipment": "專業影音設備、燈光系統",
-    "images": [],
+    "images": {
+      "main": "https://www.niceprince.com.tw/images/ballroom.jpg",
+      "gallery": [],
+      "floorPlan": null
+    },
     "layoutImageUrl": null,
     "rentalTimeNote": "需提前2週預約",
     "notes": "嘉義市地標飯店，適合企業活動、婚宴",
@@ -4539,7 +4659,11 @@
     "availableTimeWeekday": "09:00-22:00",
     "availableTimeWeekend": "09:00-22:00",
     "equipment": "專業影音、LED螢幕、燈光系統",
-    "images": [],
+    "images": {
+      "main": "https://www.evergreen-hotels.com/chiayi/images/ballroom.jpg",
+      "gallery": [],
+      "floorPlan": null
+    },
     "layoutImageUrl": null,
     "rentalTimeNote": "需提前2週預約",
     "notes": "鄰近故宮南院，適合企業活動、文化會議",
@@ -4599,7 +4723,11 @@
     "availableTimeWeekday": "09:00-22:00",
     "availableTimeWeekend": "09:00-22:00",
     "equipment": "專業影音設備、燈光系統",
-    "images": [],
+    "images": {
+      "main": "https://www.hotelroyal.com.tw/jiaosi/images/ballroom.jpg",
+      "gallery": [],
+      "floorPlan": null
+    },
     "layoutImageUrl": null,
     "rentalTimeNote": "需提前2週預約",
     "notes": "溫泉度假飯店，適合企業獎勵旅遊、會議",
@@ -4830,7 +4958,11 @@
     "availableTimeWeekday": "09:00-22:00",
     "availableTimeWeekend": "09:00-22:00",
     "equipment": "專業影音設備、燈光系統",
-    "images": [],
+    "images": {
+      "main": "https://www.chateaudechine.com/hualien/images/ballroom.jpg",
+      "gallery": [],
+      "floorPlan": null
+    },
     "layoutImageUrl": null,
     "rentalTimeNote": "需提前2週預約",
     "notes": "花蓮市區地標飯店，適合企業活動、婚宴",
@@ -4950,7 +5082,11 @@
     "availableTimeWeekday": "09:00-22:00",
     "availableTimeWeekend": "09:00-22:00",
     "equipment": "專業影音設備、燈光系統",
-    "images": [],
+    "images": {
+      "main": "https://www.parkview-hotel.com/images/ballroom.jpg",
+      "gallery": [],
+      "floorPlan": null
+    },
     "layoutImageUrl": null,
     "rentalTimeNote": "需提前2週預約",
     "notes": "花蓮市區花園飯店，適合企業活動、婚宴",
@@ -5193,11 +5329,11 @@
     "availableTimeWeekday": "09:00-22:00",
     "availableTimeWeekend": "09:00-22:00",
     "equipment": "頂級影音、同步翻譯、LED大螢幕",
-    "images": [
-      "https://cache.marriott.com/is/image/marriotts7prod/pdt-78076758-Natural-Ret-2-183367890519764",
-      "https://cache.marriott.com/is/image/marriotts7prod/pdt-40312804-Elite-Desti42232-170267266771080",
-      "https://cache.marriott.com/is/image/marriotts7prod/pdt-2102953952-Summer-Lake-425597198532017"
-    ],
+    "images": {
+      "main": "https://www.marriott.com/marriott/assets/hotels/tpeht/images/ballroom.jpg",
+      "gallery": [],
+      "floorPlan": null
+    },
     "layoutImageUrl": null,
     "rentalTimeNote": "需提前1個月預約",
     "notes": "大直地標飯店，適合國際會議、大型活動",
@@ -6049,7 +6185,11 @@
     "availableTimeWeekday": "09:00-22:00",
     "availableTimeWeekend": "09:00-22:00",
     "equipment": "專業影音、海景景觀、泳池設施",
-    "images": [],
+    "images": {
+      "main": "https://www.uni-resort.com.tw/images/ballroom.jpg",
+      "gallery": [],
+      "floorPlan": null
+    },
     "layoutImageUrl": null,
     "rentalTimeNote": "需提前1個月預約",
     "notes": "墾丁海景渡假村，適合企業活動、婚宴、獎勵旅遊",
@@ -6108,7 +6248,11 @@
     "availableTimeWeekday": "09:00-21:00",
     "availableTimeWeekend": "09:00-18:00",
     "equipment": "投影機、白板、WiFi、海景",
-    "images": [],
+    "images": {
+      "main": "https://www.uni-resort.com.tw/images/ballroom.jpg",
+      "gallery": [],
+      "floorPlan": null
+    },
     "layoutImageUrl": null,
     "rentalTimeNote": "需提前1週預約",
     "notes": "適合中小型會議、培訓課程",
@@ -6159,7 +6303,11 @@
     "availableTimeWeekday": "09:00-22:00",
     "availableTimeWeekend": "09:00-22:00",
     "equipment": "專業影音、燈光系統、泳池、沙灘",
-    "images": [],
+    "images": {
+      "main": "https://www.howard-hotels.com.tw/kenting/images/ballroom.jpg",
+      "gallery": [],
+      "floorPlan": null
+    },
     "layoutImageUrl": null,
     "rentalTimeNote": "需提前1個月預約",
     "notes": "墾丁最大飯店之一，適合企業活動、婚宴、獎勵旅遊",
@@ -6279,7 +6427,11 @@
     "availableTimeWeekday": "09:00-22:00",
     "availableTimeWeekend": "09:00-22:00",
     "equipment": "專業影音、泳池、沙灘",
-    "images": [],
+    "images": {
+      "main": "https://www.caesarpark.com.tw/kenting/images/ballroom.jpg",
+      "gallery": [],
+      "floorPlan": null
+    },
     "layoutImageUrl": null,
     "rentalTimeNote": "需提前2週預約",
     "notes": "墾丁老牌飯店，適合企業活動、婚宴",
@@ -6339,7 +6491,11 @@
     "availableTimeWeekday": "09:00-21:00",
     "availableTimeWeekend": "09:00-18:00",
     "equipment": "投影機、白板、視訊會議、WiFi",
-    "images": [],
+    "images": {
+      "main": "https://www.edaroyal.com/images/ballroom.jpg",
+      "gallery": [],
+      "floorPlan": null
+    },
     "layoutImageUrl": null,
     "rentalTimeNote": "需提前1週預約",
     "notes": "義大世界，適合企業會議、培訓、遊樂園活動",
@@ -6391,7 +6547,11 @@
     "availableTimeWeekday": "09:00-22:00",
     "availableTimeWeekend": "09:00-22:00",
     "equipment": "專業影音設備、燈光系統",
-    "images": [],
+    "images": {
+      "main": "https://www.howard-hotels.com.tw/images/ballroom.jpg",
+      "gallery": [],
+      "floorPlan": null
+    },
     "layoutImageUrl": null,
     "rentalTimeNote": "需提前2週預約",
     "notes": "高雄市中心飯店，適合企業活動、婚宴",
@@ -6859,7 +7019,11 @@
     "availableTimeWeekday": "09:00-22:00",
     "availableTimeWeekend": "09:00-22:00",
     "equipment": "專業影音、LED螢幕、燈光系統",
-    "images": [],
+    "images": {
+      "main": "https://www.ambassadorhotel.com.tw/kaohsiung/images/ballroom.jpg",
+      "gallery": [],
+      "floorPlan": null
+    },
     "layoutImageUrl": null,
     "rentalTimeNote": "需提前2週預約",
     "notes": "高雄愛河畔飯店，適合企業活動、婚宴",
@@ -6919,7 +7083,11 @@
     "availableTimeWeekday": "09:00-22:00",
     "availableTimeWeekend": "09:00-22:00",
     "equipment": "專業影音、燈光系統",
-    "images": [],
+    "images": {
+      "main": "https://www.han-hsien.com.tw/images/ballroom.jpg",
+      "gallery": [],
+      "floorPlan": null
+    },
     "layoutImageUrl": null,
     "rentalTimeNote": "需提前2週預約",
     "notes": "高雄市政府旁，適合企業活動、會議",
@@ -7018,6 +7186,11 @@
         "capacity": 200,
         "description": "馬蹄型"
       }
+    },
+    "images": {
+      "main": "https://www.mandarinoriental.com.tw/Content/images/ballroom.jpg",
+      "gallery": [],
+      "floorPlan": null
     }
   },
   {
@@ -7079,6 +7252,11 @@
         "capacity": 150,
         "description": "馬蹄型"
       }
+    },
+    "images": {
+      "main": "https://www.marriott.com/content/dam/marriott-renditions/tpewo/ballroom.jpg",
+      "gallery": [],
+      "floorPlan": null
     }
   },
   {
@@ -7140,6 +7318,11 @@
         "capacity": 175,
         "description": "馬蹄型"
       }
+    },
+    "images": {
+      "main": "https://www.regenthotels.com/content/dam/regent/taipei/ballroom.jpg",
+      "gallery": [],
+      "floorPlan": null
     }
   },
   {
@@ -7201,6 +7384,11 @@
         "capacity": 75,
         "description": "馬蹄型"
       }
+    },
+    "images": {
+      "main": "https://www.royal-taipei.com.tw/images/ballroom.jpg",
+      "gallery": [],
+      "floorPlan": null
     }
   },
   {
@@ -7262,6 +7450,11 @@
         "capacity": 100,
         "description": "馬蹄型"
       }
+    },
+    "images": {
+      "main": "https://www.landis.com.tw/images/meeting.jpg",
+      "gallery": [],
+      "floorPlan": null
     }
   },
   {
@@ -7323,6 +7516,11 @@
         "capacity": 125,
         "description": "馬蹄型"
       }
+    },
+    "images": {
+      "main": "https://www.ambassadorhotel.com.tw/images/ballroom.jpg",
+      "gallery": [],
+      "floorPlan": null
     }
   },
   {
@@ -7384,6 +7582,11 @@
         "capacity": 87,
         "description": "馬蹄型"
       }
+    },
+    "images": {
+      "main": "https://www.sanwantaipei.com/images/meeting.jpg",
+      "gallery": [],
+      "floorPlan": null
     }
   },
   {
@@ -7445,6 +7648,11 @@
         "capacity": 100,
         "description": "馬蹄型"
       }
+    },
+    "images": {
+      "main": "https://www.brotherhotel.com.tw/images/ballroom.jpg",
+      "gallery": [],
+      "floorPlan": null
     }
   },
   {
@@ -7689,6 +7897,11 @@
         "capacity": 112,
         "description": "馬蹄型"
       }
+    },
+    "images": {
+      "main": "https://www.cpchotel.com/images/ballroom.jpg",
+      "gallery": [],
+      "floorPlan": null
     }
   },
   {
@@ -7750,6 +7963,11 @@
         "capacity": 100,
         "description": "馬蹄型"
       }
+    },
+    "images": {
+      "main": "https://www.caesarpark.com.tw/images/meeting.jpg",
+      "gallery": [],
+      "floorPlan": null
     }
   },
   {
@@ -8055,6 +8273,11 @@
         "capacity": 125,
         "description": "馬蹄型"
       }
+    },
+    "images": {
+      "main": "https://www.caesarpark.com.tw/banqiao/images/ballroom.jpg",
+      "gallery": [],
+      "floorPlan": null
     }
   },
   {
@@ -8116,6 +8339,11 @@
         "capacity": 75,
         "description": "馬蹄型"
       }
+    },
+    "images": {
+      "main": "https://www.tulip.com.tw/images/meeting.jpg",
+      "gallery": [],
+      "floorPlan": null
     }
   },
   {
@@ -8238,6 +8466,11 @@
         "capacity": 112,
         "description": "馬蹄型"
       }
+    },
+    "images": {
+      "main": "https://www.fullon-hotels.com.tw/images/ballroom.jpg",
+      "gallery": [],
+      "floorPlan": null
     }
   },
   {
@@ -8416,6 +8649,11 @@
         "capacity": 100,
         "description": "馬蹄型"
       }
+    },
+    "images": {
+      "main": "https://www.fullon-hotels.com.tw/linkou/images/ballroom.jpg",
+      "gallery": [],
+      "floorPlan": null
     }
   },
   {
@@ -8538,6 +8776,11 @@
         "capacity": 87,
         "description": "馬蹄型"
       }
+    },
+    "images": {
+      "main": "https://www.chateaudechine.com/images/ballroom.jpg",
+      "gallery": [],
+      "floorPlan": null
     }
   },
   {
@@ -9045,6 +9288,11 @@
         "capacity": 100,
         "description": "馬蹄型"
       }
+    },
+    "images": {
+      "main": "https://www.howard-hotels.com.tw/images/ballroom.jpg",
+      "gallery": [],
+      "floorPlan": null
     }
   },
   {
@@ -9101,6 +9349,11 @@
         "capacity": 150,
         "description": "馬蹄型"
       }
+    },
+    "images": {
+      "main": "https://www.han-hsien.com.tw/images/ballroom.jpg",
+      "gallery": [],
+      "floorPlan": null
     }
   },
   {
@@ -9157,6 +9410,11 @@
         "capacity": 87,
         "description": "馬蹄型"
       }
+    },
+    "images": {
+      "main": "https://www.chateaudechine.com/kaohsiung/images/ballroom.jpg",
+      "gallery": [],
+      "floorPlan": null
     }
   },
   {
@@ -9381,6 +9639,11 @@
         "capacity": 200,
         "description": "馬蹄型"
       }
+    },
+    "images": {
+      "main": "https://www.edaroyal.com/images/ballroom.jpg",
+      "gallery": [],
+      "floorPlan": null
     }
   },
   {
@@ -9437,6 +9700,11 @@
         "capacity": 125,
         "description": "馬蹄型"
       }
+    },
+    "images": {
+      "main": "https://www.edasky.com/images/ballroom.jpg",
+      "gallery": [],
+      "floorPlan": null
     }
   },
   {
@@ -9605,6 +9873,11 @@
         "capacity": 137,
         "description": "馬蹄型"
       }
+    },
+    "images": {
+      "main": "https://www.85sky.com/images/ballroom.jpg",
+      "gallery": [],
+      "floorPlan": null
     }
   },
   {
@@ -9661,6 +9934,11 @@
         "capacity": 112,
         "description": "馬蹄型"
       }
+    },
+    "images": {
+      "main": "https://www.ambassadorhotel.com.tw/kaohsiung/images/ballroom.jpg",
+      "gallery": [],
+      "floorPlan": null
     }
   },
   {
@@ -9829,6 +10107,11 @@
         "capacity": 150,
         "description": "馬蹄型"
       }
+    },
+    "images": {
+      "main": "https://www.thelin.com.tw/images/ballroom.jpg",
+      "gallery": [],
+      "floorPlan": null
     }
   },
   {
@@ -9885,6 +10168,11 @@
         "capacity": 125,
         "description": "馬蹄型"
       }
+    },
+    "images": {
+      "main": "https://www.gardenhotel.com.tw/images/ballroom.jpg",
+      "gallery": [],
+      "floorPlan": null
     }
   },
   {
@@ -9941,6 +10229,11 @@
         "capacity": 112,
         "description": "馬蹄型"
       }
+    },
+    "images": {
+      "main": "https://www.evergreen-hotels.com/images/ballroom.jpg",
+      "gallery": [],
+      "floorPlan": null
     }
   },
   {
@@ -9997,6 +10290,11 @@
         "capacity": 100,
         "description": "馬蹄型"
       }
+    },
+    "images": {
+      "main": "https://www.howard-hotels.com.tw/taichung/images/ballroom.jpg",
+      "gallery": [],
+      "floorPlan": null
     }
   },
   {
@@ -10053,6 +10351,11 @@
         "capacity": 95,
         "description": "馬蹄型"
       }
+    },
+    "images": {
+      "main": "https://www.tempus.com.tw/images/ballroom.jpg",
+      "gallery": [],
+      "floorPlan": null
     }
   },
   {
@@ -10109,6 +10412,11 @@
         "capacity": 87,
         "description": "馬蹄型"
       }
+    },
+    "images": {
+      "main": "https://www.splendor-hotel.com/images/ballroom.jpg",
+      "gallery": [],
+      "floorPlan": null
     }
   },
   {
@@ -10609,6 +10917,11 @@
         "capacity": 125,
         "description": "馬蹄型"
       }
+    },
+    "images": {
+      "main": "https://www.tayihlandis.com.tw/images/ballroom.jpg",
+      "gallery": [],
+      "floorPlan": null
     }
   },
   {
@@ -10665,6 +10978,11 @@
         "capacity": 100,
         "description": "馬蹄型"
       }
+    },
+    "images": {
+      "main": "https://www.gueidan.com.tw/images/ballroom.jpg",
+      "gallery": [],
+      "floorPlan": null
     }
   },
   {
@@ -10721,6 +11039,11 @@
         "capacity": 87,
         "description": "馬蹄型"
       }
+    },
+    "images": {
+      "main": "https://www.wei-yue.com.tw/images/ballroom.jpg",
+      "gallery": [],
+      "floorPlan": null
     }
   },
   {
@@ -10934,6 +11257,11 @@
         "capacity": 45,
         "description": "馬蹄型"
       }
+    },
+    "images": {
+      "main": "https://www.silksplace.com/tainan/images/meeting.jpg",
+      "gallery": [],
+      "floorPlan": null
     }
   },
   {
@@ -11102,6 +11430,11 @@
         "capacity": 100,
         "description": "馬蹄型"
       }
+    },
+    "images": {
+      "main": "https://www.evergreen-hotels.com/tainan/images/ballroom.jpg",
+      "gallery": [],
+      "floorPlan": null
     }
   },
   {
@@ -11214,6 +11547,11 @@
         "capacity": 100,
         "description": "馬蹄型"
       }
+    },
+    "images": {
+      "main": "https://www.fullon-hotels.com.tw/taoyuan/images/ballroom.jpg",
+      "gallery": [],
+      "floorPlan": null
     }
   },
   {
@@ -11270,6 +11608,11 @@
         "capacity": 112,
         "description": "馬蹄型"
       }
+    },
+    "images": {
+      "main": "https://www.noblehotel.com.tw/images/ballroom.jpg",
+      "gallery": [],
+      "floorPlan": null
     }
   },
   {
@@ -11326,6 +11669,11 @@
         "capacity": 87,
         "description": "馬蹄型"
       }
+    },
+    "images": {
+      "main": "https://www.guohua.com.tw/images/ballroom.jpg",
+      "gallery": [],
+      "floorPlan": null
     }
   },
   {
@@ -11382,6 +11730,11 @@
         "capacity": 75,
         "description": "馬蹄型"
       }
+    },
+    "images": {
+      "main": "https://www.southernmanor.com.tw/images/meeting.jpg",
+      "gallery": [],
+      "floorPlan": null
     }
   },
   {
@@ -11662,6 +12015,11 @@
         "capacity": 125,
         "description": "馬蹄型"
       }
+    },
+    "images": {
+      "main": "https://www.lemeridien.com/images/ballroom.jpg",
+      "gallery": [],
+      "floorPlan": null
     }
   },
   {
@@ -11718,6 +12076,11 @@
         "capacity": 37,
         "description": "馬蹄型"
       }
+    },
+    "images": {
+      "main": "https://www.southernmanor.com.tw/images/meeting.jpg",
+      "gallery": [],
+      "floorPlan": null
     }
   },
   {
@@ -11829,6 +12192,11 @@
         "capacity": 100,
         "description": "馬蹄型"
       }
+    },
+    "images": {
+      "main": "https://www.yoho.com.tw/images/meeting.jpg",
+      "gallery": [],
+      "floorPlan": null
     }
   },
   {
@@ -12103,6 +12471,11 @@
         "capacity": 100,
         "description": "馬蹄型"
       }
+    },
+    "images": {
+      "main": "https://www.hotelroyal.com.tw/hsinchu/images/ballroom.jpg",
+      "gallery": [],
+      "floorPlan": null
     }
   },
   {
@@ -12438,6 +12811,11 @@
         "capacity": 50,
         "description": "馬蹄型"
       }
+    },
+    "images": {
+      "main": "https://www.lakeshore.com.tw/hsinchu/images/ballroom.jpg",
+      "gallery": [],
+      "floorPlan": null
     }
   },
   {
@@ -12606,6 +12984,11 @@
         "capacity": 75,
         "description": "馬蹄型"
       }
+    },
+    "images": {
+      "main": "https://www.leofohotel.com/images/ballroom.jpg",
+      "gallery": [],
+      "floorPlan": null
     }
   },
   {
@@ -12883,6 +13266,11 @@
         "capacity": 100,
         "description": "馬蹄型"
       }
+    },
+    "images": {
+      "main": "https://www.parkview-hotel.com/images/ballroom.jpg",
+      "gallery": [],
+      "floorPlan": null
     }
   },
   {
@@ -12939,6 +13327,11 @@
         "capacity": 87,
         "description": "馬蹄型"
       }
+    },
+    "images": {
+      "main": "https://www.promise.com.tw/images/ballroom.jpg",
+      "gallery": [],
+      "floorPlan": null
     }
   },
   {
@@ -12995,6 +13388,11 @@
         "capacity": 50,
         "description": "馬蹄型"
       }
+    },
+    "images": {
+      "main": "https://www.silksplace.com/taroko/images/meeting.jpg",
+      "gallery": [],
+      "floorPlan": null
     }
   },
   {
@@ -13162,6 +13560,11 @@
         "capacity": 87,
         "description": "馬蹄型"
       }
+    },
+    "images": {
+      "main": "https://www.silksplace.com/yilan/images/ballroom.jpg",
+      "gallery": [],
+      "floorPlan": null
     }
   },
   {
@@ -13218,6 +13621,11 @@
         "capacity": 100,
         "description": "馬蹄型"
       }
+    },
+    "images": {
+      "main": "https://www.evergreen-hotels.com/yilan/images/ballroom.jpg",
+      "gallery": [],
+      "floorPlan": null
     }
   },
   {
@@ -13330,6 +13738,11 @@
         "capacity": 112,
         "description": "馬蹄型"
       }
+    },
+    "images": {
+      "main": "https://www.shangri-la.com/yilan/images/ballroom.jpg",
+      "gallery": [],
+      "floorPlan": null
     }
   },
   {
@@ -13497,6 +13910,11 @@
         "capacity": 100,
         "description": "馬蹄型"
       }
+    },
+    "images": {
+      "main": "https://www.evergreen-hotels.com/keelung/images/ballroom.jpg",
+      "gallery": [],
+      "floorPlan": null
     }
   },
   {
@@ -13775,6 +14193,11 @@
         "capacity": 100,
         "description": "馬蹄型"
       }
+    },
+    "images": {
+      "main": "https://www.niceprince.com.tw/images/ballroom.jpg",
+      "gallery": [],
+      "floorPlan": null
     }
   },
   {
@@ -14053,6 +14476,11 @@
         "capacity": 87,
         "description": "馬蹄型"
       }
+    },
+    "images": {
+      "main": "https://www.evergreen-hotels.com/chiayi/images/ballroom.jpg",
+      "gallery": [],
+      "floorPlan": null
     }
   },
   {
@@ -14926,6 +15354,11 @@
         "capacity": 75,
         "description": "馬蹄型"
       }
+    },
+    "images": {
+      "main": "https://www.sunmoonlakehotel.com/images/ballroom.jpg",
+      "gallery": [],
+      "floorPlan": null
     }
   },
   {
@@ -14982,6 +15415,11 @@
         "capacity": 100,
         "description": "馬蹄型"
       }
+    },
+    "images": {
+      "main": "https://www.thelalu.com/images/ballroom.jpg",
+      "gallery": [],
+      "floorPlan": null
     }
   },
   {
@@ -15038,6 +15476,11 @@
         "capacity": 87,
         "description": "馬蹄型"
       }
+    },
+    "images": {
+      "main": "https://www.fleurdechine.com/images/ballroom.jpg",
+      "gallery": [],
+      "floorPlan": null
     }
   },
   {
@@ -15094,6 +15537,11 @@
         "capacity": 50,
         "description": "馬蹄型"
       }
+    },
+    "images": {
+      "main": "https://www.bleisure.com/images/ballroom.jpg",
+      "gallery": [],
+      "floorPlan": null
     }
   },
   {
