@@ -3,324 +3,137 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="快速找到適合你的活動場地 - 會議、宴會、婚禮、講座。150+ 個專業場地，即時篩選，立即預約。">
-    <title>台灣企業活動場地媒合平台 - 快速找到你的完美場地</title>
+    <meta name="description" content="尋找你的完美場地 - 台灣企業活動場地媒合平台">
+    <title>場地選擇器 - 台灣企業活動場地媒合平台</title>
     <link rel="stylesheet" href="style.css">
-    <link rel="stylesheet" href="venue-details.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@300;400;500;600;700&display=swap" rel="stylesheet">
 </head>
 <body>
-    <div class="container">
-        <!-- Header -->
-        <header>
-            <h1>
-                🏢 台灣企業活動場地媒合平台
-                <span class="version">v3.2</span>
-            </h1>
-            <p class="subtitle">150+ 個專業場地，讓你的活動更完美</p>
-        </header>
-
-        <!-- 漸進式揭示容器 -->
-        <div class="guide-container">
-
-            <!-- 步驟 1：選擇活動類型 -->
-            <div class="guide-step active" id="step1">
-                <div class="step-label">
-                    <div class="step-number">1</div>
-                    <h2>選擇活動類型</h2>
-                    <div class="step-progress">
-                        <span class="step-dot active"></span>
-                        <span class="step-dot"></span>
-                        <span class="step-dot"></span>
-                    </div>
-                </div>
-
-                <div class="activity-cards">
-                    <div class="activity-card" onclick="selectActivityType('meeting')">
-                        <div class="activity-icon">💼</div>
-                        <h3 class="activity-title">公司會議 / 員工培訓</h3>
-                        <p class="activity-subtitle">企業會議、內部培訓、研討會</p>
-                        <div class="activity-stats">
-                            <div class="activity-stat">
-                                <span>🎨</span>
-                                <span>52 個場地</span>
-                            </div>
-                            <div class="activity-stat">
-                                <span>⭐</span>
-                                <span>平均 4.6</span>
-                            </div>
-                        </div>
-                        <div class="activity-trending">
-                            <span class="icon">🔥</span>
-                            <span>熱門推薦</span>
-                        </div>
-                        <p class="activity-desc">適合企業年會、產品發表會、董事會議</p>
-                    </div>
-
-                    <div class="activity-card" onclick="selectActivityType('banquet')">
-                        <div class="activity-icon">🎉</div>
-                        <h3 class="activity-title">尾牙 / 春酒 / 聚餐</h3>
-                        <p class="activity-subtitle">企業活動、團隊聚會、發表會</p>
-                        <div class="activity-stats">
-                            <div class="activity-stat">
-                                <span>🎨</span>
-                                <span>38 個場地</span>
-                            </div>
-                            <div class="activity-stat">
-                                <span>⭐</span>
-                                <span>平均 4.7</span>
-                            </div>
-                        </div>
-                        <div class="activity-trending">
-                            <span class="icon">🏆</span>
-                            <span>高CP值</span>
-                        </div>
-                        <p class="activity-desc">適合企業尾牙、春酒、頒獎典禮</p>
-                    </div>
-
-                    <div class="activity-card" onclick="selectActivityType('wedding')">
-                        <div class="activity-icon">💒</div>
-                        <h3 class="activity-title">婚禮 / 婚宴</h3>
-                        <p class="activity-subtitle">婚禮、訂婚宴、喜宴</p>
-                        <div class="activity-stats">
-                            <div class="activity-stat">
-                                <span>🎨</span>
-                                <span>15 個場地</span>
-                            </div>
-                            <div class="activity-stat">
-                                <span>⭐</span>
-                                <span>平均 4.9</span>
-                            </div>
-                        </div>
-                        <div class="activity-trending">
-                            <span class="icon">💖</span>
-                            <span>奢華選擇</span>
-                        </div>
-                        <p class="activity-desc">適合正式婚宴、喜宴、訂婚宴</p>
-                    </div>
-
-                    <div class="activity-card" onclick="selectActivityType('seminar')">
-                        <div class="activity-icon">🎤</div>
-                        <h3 class="activity-title">講座 / 研討會</h3>
-                        <p class="activity-subtitle">演講、研討會、座談會</p>
-                        <div class="activity-stats">
-                            <div class="activity-stat">
-                                <span>🎨</span>
-                                <span>28 個場地</span>
-                            </div>
-                            <div class="activity-stat">
-                                <span>⭐</span>
-                                <span>平均 4.5</span>
-                            </div>
-                        </div>
-                        <div class="activity-trending">
-                            <span class="icon">💡</span>
-                            <span>知識分享</span>
-                        </div>
-                        <p class="activity-desc">適合演講、座談會、研討會、分享會</p>
-                    </div>
-
-                    <div class="activity-card" onclick="selectActivityType('outdoor')">
-                        <div class="activity-icon">🏃</div>
-                        <h3 class="activity-title">團建 / 戶外活動</h3>
-                        <p class="activity-subtitle">戶外活動、野餐、露營</p>
-                        <div class="activity-stats">
-                            <div class="activity-stat">
-                                <span>🎨</span>
-                                <span>8 個場地</span>
-                            </div>
-                            <div class="activity-stat">
-                                <span>⭐</span>
-                                <span>平均 4.8</span>
-                            </div>
-                        </div>
-                        <div class="activity-trending">
-                            <span class="icon">🌿</span>
-                            <span>自然氛圍</span>
-                        </div>
-                        <p class="activity-desc">適合團隊建設、戶外活動、野餐</p>
-                    </div>
-
-                    <div class="activity-card" onclick="selectActivityType('training')">
-                        <div class="activity-icon">📚</div>
-                        <h3 class="activity-title">教育訓練</h3>
-                        <p class="activity-subtitle">課程、培訓、工作坊</p>
-                        <div class="activity-stats">
-                            <div class="activity-stat">
-                                <span>🎨</span>
-                                <span>19 個場地</span>
-                            </div>
-                            <div class="activity-stat">
-                                <span>⭐</span>
-                                <span>平均 4.7</span>
-                            </div>
-                        </div>
-                        <div class="activity-trending">
-                            <span class="icon">🎓</span>
-                            <span>專業導師</span>
-                        </div>
-                        <p class="activity-desc">適合技能培訓、工作坊、講座</p>
-                    </div>
-                </div>
-            </div>
-
-            <!-- 步驟 2：設定規模 -->
-            <div class="guide-step" id="step2">
-                <div class="step-label">
-                    <div class="step-number">2</div>
-                    <h2>設定活動規模</h2>
-                    <div class="step-progress">
-                        <span class="step-dot completed"></span>
-                        <span class="step-dot active"></span>
-                        <span class="step-dot"></span>
-                    </div>
-                </div>
-
-                <div class="capacity-cards">
-                    <div class="capacity-card" onclick="selectCapacity('small')">
-                        <div class="capacity-icon">👥</div>
-                        <h3 class="capacity-title">小型活動</h3>
-                        <p class="capacity-range">50 - 100 人</p>
-                        <p class="capacity-description">適合小型會議、內部培訓、座談會</p>
-                    </div>
-
-                    <div class="capacity-card" onclick="selectCapacity('medium')">
-                        <div class="capacity-icon">👥👥</div>
-                        <h3 class="capacity-title">中型活動</h3>
-                        <p class="capacity-range">100 - 500 人</p>
-                        <p class="capacity-description">適合研討會、小型發表會、培訓課程</p>
-                    </div>
-
-                    <div class="capacity-card" onclick="selectCapacity('large')">
-                        <div class="capacity-icon">👥👥👥</div>
-                        <h3 class="capacity-title">大型活動</h3>
-                        <p class="capacity-range">500 人以上</p>
-                        <p class="capacity-description">適合企業年會、展覽、大型發表會</p>
-                    </div>
-                </div>
-            </div>
-
-            <!-- 步驟 3：選擇地區 -->
-            <div class="guide-step" id="step3">
-                <div class="step-label">
-                    <div class="step-number">3</div>
-                    <h2>選擇活動地區</h2>
-                    <div class="step-progress">
-                        <span class="step-dot completed"></span>
-                        <span class="step-dot completed"></span>
-                        <span class="step-dot active"></span>
-                    </div>
-                </div>
-
-                <div class="region-cards">
-                    <div class="region-card" onclick="selectRegion('taipei')">
-                        <div class="region-icon">🏙️</div>
-                        <h3 class="region-name">台北 / 新北</h3>
-                        <p class="region-count">56 個場地</p>
-                    </div>
-
-                    <div class="region-card" onclick="selectRegion('taoyuan')">
-                        <div class="region-icon">✈️</div>
-                        <h3 class="region-name">桃園 / 新竹</h3>
-                        <p class="region-count">14 個場地</p>
-                    </div>
-
-                    <div class="region-card" onclick="selectRegion('taichung')">
-                        <div class="region-icon">🏛️</div>
-                        <h3 class="region-name">台中</h3>
-                        <p class="region-count">6 個場地</p>
-                    </div>
-
-                    <div class="region-card" onclick="selectRegion('tainan')">
-                        <div class="region-icon">🏯</div>
-                        <h3 class="region-name">台南 / 嘉義</h3>
-                        <p class="region-count">9 個場地</p>
-                    </div>
-
-                    <div class="region-card" onclick="selectRegion('kaohsiung')">
-                        <div class="region-icon">🌊</div>
-                        <h3 class="region-name">高雄 / 屏東</h3>
-                        <p class="region-count">18 個場地</p>
-                    </div>
-
-                    <div class="region-card" onclick="selectRegion('east')">
-                        <div class="region-icon">🏔️</div>
-                        <h3 class="region-name">宜蘭 / 花蓮</h3>
-                        <p class="region-count">9 個場地</p>
-                    </div>
-                </div>
-            </div>
-
-            <!-- 步驟 4：結果展示 -->
-            <div class="guide-step" id="step4">
-                <div class="step-label">
-                    <div class="step-number">✓</div>
-                    <h2>精選場地推薦</h2>
-                    <div class="step-progress">
-                        <span class="step-dot completed"></span>
-                        <span class="step-dot completed"></span>
-                        <span class="step-dot completed"></span>
-                    </div>
-                </div>
-
-                <!-- 進階搜尋 -->
-                <section class="search-section">
-                    <div class="search-header">
-                        <h3 class="search-title">🔍 進階搜尋</h3>
-                        <button class="btn-reset" onclick="resetAllFilters()">重設篩選</button>
-                    </div>
-                    <div class="search-box">
-                        <input type="text" id="searchInput" placeholder="搜尋場地名稱、地點..." onkeypress="if(event.key==='Enter')searchVenues()">
-                        <button onclick="searchVenues()">搜尋</button>
-                    </div>
-                </section>
-
-                <!-- 場地列表 -->
-                <section class="venues-section" id="venuesSection">
-                    <div class="loading">
-                        <div class="loading-dot"></div>
-                        <div class="loading-dot"></div>
-                        <div class="loading-dot"></div>
-                        <div class="loading-dot"></div>
-                    </div>
-                </section>
-            </div>
-
+    <!-- ===== 活動類型選擇器 (Apple 產品選擇風格) ===== -->
+    <section class="type-selector-section" id="typeSelectorSection">
+        <div class="section-header">
+            <h1 class="section-title">選擇你的活動類型</h1>
+            <p class="section-subtitle">找到最適合的場地，讓活動更完美</p>
         </div>
-    </div>
+        
+        <!-- 左右滑動選擇器 -->
+        <div class="type-carousel-container">
+            <button class="carousel-nav carousel-prev" onclick="prevType()" aria-label="上一個">
+                <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                    <polyline points="15 18 9 12 15 6"></polyline>
+                </svg>
+            </button>
+            
+            <div class="type-carousel" id="typeCarousel">
+                <!-- 活動類型卡片會由 JS 動態生成 -->
+            </div>
+            
+            <button class="carousel-nav carousel-next" onclick="nextType()" aria-label="下一個">
+                <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                    <polyline points="9 18 15 12 9 6"></polyline>
+                </svg>
+            </button>
+        </div>
+        
+        <!-- 指示器 -->
+        <div class="carousel-indicators" id="carouselIndicators"></div>
+    </section>
 
-    <!-- 場地詳情 Modal -->
+    <!-- ===== 場地列表 ===== -->
+    <section class="venues-section" id="venuesSection" style="display: none;">
+        <div class="section-header">
+            <button class="back-button" onclick="goBack()">
+                <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                    <polyline points="15 18 9 12 15 6"></polyline>
+                </svg>
+                返回選擇
+            </button>
+            <h1 class="section-title" id="venuesTitle">場地列表</h1>
+            <p class="section-subtitle" id="venuesSubtitle">為你推薦最適合的場地</p>
+        </div>
+        
+        <!-- 篩選器 -->
+        <div class="filter-bar">
+            <div class="filter-group">
+                <select id="cityFilter" onchange="filterVenues()">
+                    <option value="">所有縣市</option>
+                </select>
+                <select id="capacityFilter" onchange="filterVenues()">
+                    <option value="">所有規模</option>
+                    <option value="small">50人以下</option>
+                    <option value="medium">50-200人</option>
+                    <option value="large">200-500人</option>
+                    <option value="xlarge">500人以上</option>
+                </select>
+            </div>
+            <div class="filter-count">
+                <span id="venueCount">0</span> 個場地
+            </div>
+        </div>
+        
+        <!-- 場地網格 -->
+        <div class="venues-grid" id="venuesGrid">
+            <!-- 場地卡片由 JS 動態生成 -->
+        </div>
+    </section>
+
+    <!-- ===== 場地詳情 Modal (Apple 風格) ===== -->
     <div class="modal" id="venueModal">
-        <div class="modal-content">
+        <div class="modal-backdrop" onclick="closeModal()"></div>
+        <div class="modal-container">
             <div class="modal-header">
-                <div id="modalHeader">
-                    <div class="venue-badge" id="modalBadge">🏨 飯店場地</div>
-                </div>
-                <button class="modal-close" onclick="closeModal()">✕</button>
+                <button class="modal-close" onclick="closeModal()">
+                    <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <line x1="18" y1="6" x2="6" y2="18"></line>
+                        <line x1="6" y1="6" x2="18" y2="18"></line>
+                    </svg>
+                </button>
             </div>
-            <div class="modal-body" id="modalContent">
+            <div class="modal-content" id="modalContent">
                 <!-- 動態內容 -->
             </div>
         </div>
     </div>
 
-    <!-- 比較結果 Modal -->
-    <div class="modal" id="compareModal">
-        <div class="modal-content modal-large">
-            <div class="modal-header">
-                <h2>📊 場地比較</h2>
-                <button class="modal-close" onclick="closeCompareModal()">✕</button>
+    <!-- ===== 比較面板 (Apple 風格) ===== -->
+    <div class="compare-panel" id="comparePanel">
+        <div class="compare-panel-header">
+            <div class="compare-panel-title">
+                <span class="compare-icon">⬜</span>
+                比較場地
+                <span class="compare-count" id="compareCount">0</span>
             </div>
-            <div class="modal-body" id="compareContent">
-                <!-- 動態內容 -->
+            <div class="compare-panel-actions">
+                <button class="compare-clear" onclick="clearCompare()">清除全部</button>
+                <button class="compare-view" onclick="showCompare()" id="compareViewBtn" disabled>
+                    查看比較
+                </button>
             </div>
+        </div>
+        <div class="compare-items" id="compareItems">
+            <div class="compare-empty">選擇場地以開始比較</div>
         </div>
     </div>
 
-    <!-- 浮動比較按鈕 -->
-    <div class="compare-float-btn" id="compareFloatBtn" onclick="showCompare()" style="display: none;">
-        <span class="compare-icon">📊</span>
-        <span class="compare-text">比較</span>
-        <span class="compare-badge" id="compareBadge">0</span>
+    <!-- ===== 比較結果 Modal ===== -->
+    <div class="modal compare-modal" id="compareModal">
+        <div class="modal-backdrop" onclick="closeCompareModal()"></div>
+        <div class="modal-container modal-large">
+            <div class="modal-header">
+                <h2 class="modal-title">場地比較</h2>
+                <button class="modal-close" onclick="closeCompareModal()">
+                    <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <line x1="18" y1="6" x2="6" y2="18"></line>
+                        <line x1="6" y1="6" x2="18" y2="18"></line>
+                    </svg>
+                </button>
+            </div>
+            <div class="compare-content" id="compareContent">
+                <!-- 動態內容 -->
+            </div>
+        </div>
     </div>
 
     <script src="script.js"></script>
