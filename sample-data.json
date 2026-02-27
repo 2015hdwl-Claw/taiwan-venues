@@ -1715,7 +1715,7 @@
     "availableTimeWeekend": "09:00-22:00",
     "equipment": "專業影音設備、燈光系統",
     "images": {
-      "main": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=800",
+      "main": "https://www.sherwood.com.tw/tempasset/assets/img/bn-01_900x700.jpg",
       "gallery": [],
       "floorPlan": null
     },
@@ -1863,7 +1863,7 @@
     "availableTimeWeekend": "09:00-22:00",
     "equipment": "投影設備、音響系統",
     "images": {
-      "main": "https://images.unsplash.com/photo-1582719508461-905c673771fd?w=800",
+      "main": "https://www.brotherhotel.com.tw/wp-content/uploads/2022/09/%E9%A3%AF%E5%BA%97%E5%A4%96%E8%A7%80.jpg",
       "gallery": [],
       "floorPlan": null
     },
@@ -2333,7 +2333,7 @@
     "availableTimeWeekend": "09:00-22:00",
     "equipment": "專業影音設備、燈光系統",
     "images": {
-      "main": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=800"
+      "main": "https://www.skyline.com.tw/images/demo/slideshow/1.jpg"
     },
     "layoutImageUrl": null,
     "rentalTimeNote": "需提前2週預約",
@@ -3224,7 +3224,7 @@
     "availableTimeWeekend": "09:00-22:00",
     "equipment": "專業影音設備、燈光系統",
     "images": {
-      "main": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800",
+      "main": "https://www.evergreen-hotels.com/content/upload/ad/99999_20250815_WELCOME%20(9).png",
       "gallery": [],
       "floorPlan": null
     },
@@ -6950,7 +6950,7 @@
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "專業音響燈光、投影設備",
     "images": {
-      "main": "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?w=800"
+      "main": "https://www.sherwood.com.tw/tempasset/assets/img/bn-01_900x700.jpg"
     },
     "url": "https://www.sherwood.com.tw",
     "verified": true,
@@ -9586,7 +9586,7 @@
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "專業音響、投影設備",
     "images": {
-      "main": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800"
+      "main": "https://www.skyline.com.tw/images/demo/slideshow/1.jpg"
     },
     "url": "https://www.sky-monarch.com",
     "verified": true,
@@ -11161,7 +11161,7 @@
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "專業音響、投影設備",
     "images": {
-      "main": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800"
+      "main": "https://www.brotherhotel.com.tw/wp-content/uploads/2022/09/%E9%A3%AF%E5%BA%97%E5%A4%96%E8%A7%80.jpg"
     },
     "url": "https://www.brother-hotel.com.tw",
     "verified": true,

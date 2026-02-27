@@ -169,5 +169,39 @@
       "https://cache.marriott.com/is/image/marriotts7prod/fp--fptls228636-11563",
       "https://cache.marriott.com/is/image/marriotts7prod/fp--fptls228636-11563"
     ]
+  },
+  {
+    "name": "台北西華飯店",
+    "url": "https://www.sherwood.com.tw/",
+    "images": [
+      "https://www.sherwood.com.tw/tempasset/assets/img/bn-01_900x700.jpg"
+    ]
+  },
+  {
+    "name": "兄弟大飯店",
+    "url": "https://www.brotherhotel.com.tw/",
+    "images": [
+      "https://www.brotherhotel.com.tw/wp-content/uploads/2022/09/%E9%A3%AF%E5%BA%97%E5%A4%96%E8%A7%80.jpg",
+      "https://www.brotherhotel.com.tw/wp-content/uploads/2022/09/bro_circle.svg",
+      "https://www.brotherhotel.com.tw/wp-content/uploads/2022/09/bro_circle.svg"
+    ]
+  },
+  {
+    "name": "基隆長榮桂冠酒店",
+    "url": "https://www.evergreen-hotels.com/",
+    "images": [
+      "https://www.evergreen-hotels.com/content/upload/ad/99999_20250815_WELCOME%20(9).png",
+      "https://www.evergreen-hotels.com/content/upload/ad/99999_20250815_WELCOME%20(10).png",
+      "https://www.evergreen-hotels.com/content/upload/ad/99999_20250815_WELCOME%20(11).png"
+    ]
+  },
+  {
+    "name": "尊爵天際大飯店",
+    "url": "https://www.skyline.com.tw/",
+    "images": [
+      "https://www.skyline.com.tw/images/demo/slideshow/1.jpg",
+      "https://www.skyline.com.tw/images/demo/slideshow/2.jpg",
+      "https://www.skyline.com.tw/images/demo/slideshow/3.jpg"
+    ]
   }
 ]
