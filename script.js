@@ -465,6 +465,11 @@ function showVenueDetail(id) {
             <a href="tel:${venue.contactPhone}" class="btn btn-primary" onclick="event.stopPropagation()">
                 📞 立即致電
             </a>
+            ${venue.url ? `
+                <a href="${venue.url}" target="_blank" rel="noopener noreferrer" class="btn btn-secondary" onclick="event.stopPropagation()">
+                    🌐 前往官網
+                </a>
+            ` : ''}
             <button class="btn ${inCompare ? 'btn-primary' : 'btn-secondary'}" onclick="event.stopPropagation(); toggleCompare(${venue.id}); showVenueDetail(${venue.id});">
                 ${inCompare ? '− 從比較移除' : '+ 加入比較'}
             </button>
