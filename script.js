@@ -2,6 +2,61 @@
 let venues = [];
 let compareList = [];
 let currentTypeIndex = 0;
+let currentService = 'venue'; // 當前選中的服務類型
+
+// ===== 服務類型選擇 =====
+function selectService(service) {
+    currentService = service;
+    
+    // 更新卡片狀態
+    document.querySelectorAll('.service-card').forEach(card => {
+        card.classList.remove('active');
+    });
+    event.currentTarget.classList.add('active');
+    
+    // 根據服務類型顯示/隱藏內容
+    const typeSelectorSection = document.getElementById('typeSelectorSection');
+    const venuesSection = document.getElementById('venuesSection');
+    
+    if (service === 'venue') {
+        typeSelectorSection.style.display = 'block';
+        venuesSection.style.display = 'none';
+    } else {
+        // 其他服務類型顯示「即將推出」
+        typeSelectorSection.style.display = 'none';
+        venuesSection.style.display = 'block';
+        document.getElementById('venuesGrid').innerHTML = `
+            <div class="empty-state" style="grid-column: 1/-1; text-align: center; padding: 64px;">
+                <div style="font-size: 64px; margin-bottom: 24px;">🚧</div>
+                <h2 style="font-size: 24px; margin-bottom: 16px; color: var(--color-text);">即將推出</h2>
+                <p style="color: var(--color-text-secondary); font-size: 16px; max-width: 400px; margin: 0 auto;">
+                    我們正在努力準備「${getServiceName(service)}」服務，<br>
+                    敬請期待！
+                </p>
+                <button class="btn btn-primary" style="margin-top: 24px;" onclick="goBackToVenue()">
+                    返回場地搜尋
+                </button>
+            </div>
+        `;
+        document.getElementById('venuesTitle').textContent = getServiceName(service);
+        document.getElementById('venuesSubtitle').textContent = '服務準備中...';
+    }
+}
+
+function getServiceName(service) {
+    const names = {
+        'venue': '活動場地',
+        'catering': '活動餐飲',
+        'production': '活動製作物',
+        'execution': '活動執行'
+    };
+    return names[service] || '服務';
+}
+
+function goBackToVenue() {
+    selectService('venue');
+    document.querySelector('.service-card').click();
+}
 
 // 活動類型定義
 const activityTypes = [

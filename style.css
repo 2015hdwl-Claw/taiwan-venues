@@ -988,3 +988,122 @@ body {
     border-radius: var(--radius-md);
     border: 1px solid var(--color-border);
 }
+
+/* ===== 品牌標題 ===== */
+.main-header {
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    padding: var(--spacing-2xl) var(--spacing-lg);
+    text-align: center;
+    color: white;
+}
+
+.header-content {
+    max-width: var(--max-width);
+    margin: 0 auto;
+}
+
+.brand-title {
+    font-size: 32px;
+    font-weight: 700;
+    margin-bottom: var(--spacing-sm);
+    letter-spacing: -0.5px;
+}
+
+.brand-subtitle {
+    font-size: 18px;
+    opacity: 0.9;
+    font-weight: 400;
+}
+
+@media (max-width: 768px) {
+    .brand-title {
+        font-size: 24px;
+    }
+    .brand-subtitle {
+        font-size: 14px;
+    }
+}
+
+/* ===== 服務類型選擇器 ===== */
+.service-selector-section {
+    padding: var(--spacing-2xl) var(--spacing-lg);
+    background: var(--color-background);
+    border-bottom: 1px solid var(--color-border);
+}
+
+.service-grid {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: var(--spacing-lg);
+    max-width: var(--max-width);
+    margin: 0 auto;
+}
+
+@media (max-width: 900px) {
+    .service-grid {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+@media (max-width: 500px) {
+    .service-grid {
+        grid-template-columns: 1fr;
+    }
+}
+
+.service-card {
+    background: var(--color-background-secondary);
+    border-radius: var(--radius-lg);
+    padding: var(--spacing-xl);
+    text-align: center;
+    cursor: pointer;
+    transition: all var(--transition-base);
+    border: 2px solid transparent;
+    position: relative;
+}
+
+.service-card:hover {
+    transform: translateY(-4px);
+    box-shadow: var(--shadow-md);
+}
+
+.service-card.active {
+    border-color: var(--color-accent);
+    background: white;
+}
+
+.service-icon {
+    font-size: 48px;
+    margin-bottom: var(--spacing-md);
+}
+
+.service-name {
+    font-size: 18px;
+    font-weight: 600;
+    color: var(--color-text);
+    margin-bottom: var(--spacing-xs);
+}
+
+.service-desc {
+    font-size: 14px;
+    color: var(--color-text-secondary);
+    margin-bottom: var(--spacing-md);
+}
+
+.service-badge {
+    display: inline-block;
+    padding: var(--spacing-xs) var(--spacing-md);
+    background: var(--color-accent);
+    color: white;
+    border-radius: 20px;
+    font-size: 12px;
+    font-weight: 500;
+}
+
+.service-badge.coming-soon {
+    background: var(--color-text-secondary);
+}
+
+.service-card.active .service-badge {
+    background: var(--color-success);
+}

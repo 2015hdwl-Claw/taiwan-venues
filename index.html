@@ -3,14 +3,56 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="尋找你的完美場地 - 台灣企業活動場地媒合平台">
-    <title>場地選擇器 - 台灣企業活動場地媒合平台</title>
+    <meta name="description" content="台灣活動規劃大師 - 一站式活動規劃入口網站，場地、餐飲、製作物、執行人員全部搞定">
+    <title>台灣活動規劃大師 - 一站式活動規劃入口網站</title>
     <link rel="stylesheet" href="style.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@300;400;500;600;700&display=swap" rel="stylesheet">
 </head>
 <body>
+    <!-- ===== 品牌標題 ===== -->
+    <header class="main-header">
+        <div class="header-content">
+            <h1 class="brand-title">🎉 台灣活動規劃大師</h1>
+            <p class="brand-subtitle">辦活動，找大師就對了！</p>
+        </div>
+    </header>
+
+    <!-- ===== 服務類型選擇器 ===== -->
+    <section class="service-selector-section" id="serviceSelectorSection">
+        <div class="section-header">
+            <h2 class="section-title">選擇服務類型</h2>
+            <p class="section-subtitle">一站式滿足你的活動需求</p>
+        </div>
+        <div class="service-grid">
+            <div class="service-card active" onclick="selectService('venue')">
+                <div class="service-icon">🏢</div>
+                <h3 class="service-name">活動場地</h3>
+                <p class="service-desc">會議室、宴會廳、展演空間</p>
+                <span class="service-badge">281 個場地</span>
+            </div>
+            <div class="service-card" onclick="selectService('catering')">
+                <div class="service-icon">🍽️</div>
+                <h3 class="service-name">活動餐飲</h3>
+                <p class="service-desc">茶點、外燴、自助餐</p>
+                <span class="service-badge coming-soon">即將推出</span>
+            </div>
+            <div class="service-card" onclick="selectService('production')">
+                <div class="service-icon">🎨</div>
+                <h3 class="service-name">活動製作物</h3>
+                <p class="service-desc">背板、佈置、禮品、印刷</p>
+                <span class="service-badge coming-soon">即將推出</span>
+            </div>
+            <div class="service-card" onclick="selectService('execution')">
+                <div class="service-icon">🎬</div>
+                <h3 class="service-name">活動執行</h3>
+                <p class="service-desc">主持人、樂隊、攝影、服務人員</p>
+                <span class="service-badge coming-soon">即將推出</span>
+            </div>
+        </div>
+    </section>
+
     <!-- ===== 活動類型選擇器 (Apple 產品選擇風格) ===== -->
     <section class="type-selector-section" id="typeSelectorSection">
         <div class="section-header">
