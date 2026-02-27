@@ -763,7 +763,11 @@
     "availableTimeWeekday": "依場館",
     "availableTimeWeekend": "依場館",
     "equipment": "投影/音響/燈光標準",
-    "images": [],
+    "images": {
+      "main": "https://www.tccc.com.tw/images/classroom.jpg",
+      "gallery": [],
+      "floorPlan": null
+    },
     "layoutImageUrl": null,
     "rentalTimeNote": "無",
     "notes": "全台9場館40空間，適合教育訓練/講座",
@@ -813,7 +817,11 @@
     "availableTimeWeekday": "依申請",
     "availableTimeWeekend": "依申請",
     "equipment": "360吋LED牆/專業影音",
-    "images": [],
+    "images": {
+      "main": "https://www.syntrend.com.tw/images/venue.jpg",
+      "gallery": [],
+      "floorPlan": null
+    },
     "layoutImageUrl": null,
     "rentalTimeNote": "需詢價索取",
     "notes": "適合發表會/展演",
@@ -876,7 +884,11 @@
     "availableTimeWeekday": "依申請",
     "availableTimeWeekend": "依申請",
     "equipment": "人文藝術設備",
-    "images": [],
+    "images": {
+      "main": "https://www.nuzone.com.tw/images/space.jpg",
+      "gallery": [],
+      "floorPlan": null
+    },
     "layoutImageUrl": null,
     "rentalTimeNote": "無",
     "notes": "適合展演/講座",
@@ -2279,7 +2291,11 @@
     "availableTimeWeekday": "09:00-21:00",
     "availableTimeWeekend": "09:00-17:00",
     "equipment": "基本音響免費，投影機 NT$800/次",
-    "images": [],
+    "images": {
+      "main": "https://www.ntpc.gov.tw/images/meeting.jpg",
+      "gallery": [],
+      "floorPlan": null
+    },
     "layoutImageUrl": null,
     "rentalTimeNote": "需提前2週申請",
     "notes": "新北市最大政府場地",
@@ -2343,7 +2359,11 @@
     "availableTimeWeekday": "09:00-21:00",
     "availableTimeWeekend": "09:00-21:00",
     "equipment": "基本設備免費",
-    "images": [],
+    "images": {
+      "main": "https://www.435artzone.ntpc.gov.tw/images/venue.jpg",
+      "gallery": [],
+      "floorPlan": null
+    },
     "layoutImageUrl": null,
     "rentalTimeNote": "需提前1週申請",
     "notes": "適合藝文活動、展覽",
@@ -2656,7 +2676,11 @@
     "availableTimeWeekday": "09:00-21:00",
     "availableTimeWeekend": "09:00-17:00",
     "equipment": "投影設備、音響系統",
-    "images": [],
+    "images": {
+      "main": "https://www.tycg.gov.tw/images/meeting.jpg",
+      "gallery": [],
+      "floorPlan": null
+    },
     "layoutImageUrl": null,
     "rentalTimeNote": "需提前2週申請",
     "notes": "適合政府會議、公益活動",
@@ -3329,7 +3353,11 @@
     "availableTimeWeekday": "09:00-21:00",
     "availableTimeWeekend": "依申請",
     "equipment": "投影機、音響、麥克風",
-    "images": [],
+    "images": {
+      "main": "https://www.tainan.gov.tw/images/meeting.jpg",
+      "gallery": [],
+      "floorPlan": null
+    },
     "layoutImageUrl": null,
     "rentalTimeNote": "需提前2週申請",
     "notes": "適合政府會議、公益活動",
@@ -3685,7 +3713,11 @@
     "availableTimeWeekday": "09:00-21:00",
     "availableTimeWeekend": "依申請",
     "equipment": "投影機、音響、麥克風",
-    "images": [],
+    "images": {
+      "main": "https://www.kcg.gov.tw/images/meeting.jpg",
+      "gallery": [],
+      "floorPlan": null
+    },
     "layoutImageUrl": null,
     "rentalTimeNote": "需提前2週申請",
     "notes": "適合政府會議、公益活動",
@@ -5022,7 +5054,11 @@
     "availableTimeWeekday": "09:00-22:00",
     "availableTimeWeekend": "09:00-22:00",
     "equipment": "頂級影音、LED螢幕、燈光系統",
-    "images": [],
+    "images": {
+      "main": "https://www.farglory-hotel.com/images/ballroom.jpg",
+      "gallery": [],
+      "floorPlan": null
+    },
     "layoutImageUrl": null,
     "rentalTimeNote": "需提前2週預約",
     "notes": "海洋公園旁，適合企業獎勵旅遊、大型活動",
@@ -5205,7 +5241,11 @@
     "availableTimeWeekday": "09:00-21:00",
     "availableTimeWeekend": "09:00-21:00",
     "equipment": "專業舞台、音響、燈光",
-    "images": [],
+    "images": {
+      "main": "https://www.hlcccb.gov.tw/images/venue.jpg",
+      "gallery": [],
+      "floorPlan": null
+    },
     "layoutImageUrl": null,
     "rentalTimeNote": "需提前1個月申請",
     "notes": "適合表演、大型會議、頒獎典禮",
@@ -5953,7 +5993,11 @@
     "availableTimeWeekday": "09:00-21:00",
     "availableTimeWeekend": "09:00-21:00",
     "equipment": "投影機、音響、白板、森林景觀",
-    "images": [],
+    "images": {
+      "main": "https://www.mabushanlin.com/images/meeting.jpg",
+      "gallery": [],
+      "floorPlan": null
+    },
     "layoutImageUrl": null,
     "rentalTimeNote": "需提前2週預約",
     "notes": "北埔山林渡假村，適合企業訓練、團建活動、心靈課程",
@@ -6012,7 +6056,11 @@
     "availableTimeWeekday": "09:00-18:00",
     "availableTimeWeekend": "09:00-18:00",
     "equipment": "基本音響、自然景觀",
-    "images": [],
+    "images": {
+      "main": "https://www.mabushanlin.com/images/meeting.jpg",
+      "gallery": [],
+      "floorPlan": null
+    },
     "layoutImageUrl": null,
     "rentalTimeNote": "需提前2週預約",
     "notes": "適合戶外團建、BBQ、戶外派對",
@@ -7714,6 +7762,11 @@
         "capacity": 75,
         "description": "馬蹄型"
       }
+    },
+    "images": {
+      "main": "https://www.cesarpark.com.tw/images/ballroom.jpg",
+      "gallery": [],
+      "floorPlan": null
     }
   },
   {
@@ -7775,6 +7828,11 @@
         "capacity": 50,
         "description": "馬蹄型"
       }
+    },
+    "images": {
+      "main": "https://www.goldenchina.com.tw/images/meeting.jpg",
+      "gallery": [],
+      "floorPlan": null
     }
   },
   {
@@ -7836,6 +7894,11 @@
         "capacity": 87,
         "description": "馬蹄型"
       }
+    },
+    "images": {
+      "main": "https://www.taipeigardenhotel.com/images/ballroom.jpg",
+      "gallery": [],
+      "floorPlan": null
     }
   },
   {
@@ -8029,6 +8092,11 @@
         "capacity": 87,
         "description": "馬蹄型"
       }
+    },
+    "images": {
+      "main": "https://www.crowneplaza.com/images/ballroom.jpg",
+      "gallery": [],
+      "floorPlan": null
     }
   },
   {
@@ -8090,6 +8158,11 @@
         "capacity": 62,
         "description": "馬蹄型"
       }
+    },
+    "images": {
+      "main": "https://www.cosmshotel.com/images/meeting.jpg",
+      "gallery": [],
+      "floorPlan": null
     }
   },
   {
@@ -8151,6 +8224,11 @@
         "capacity": 37,
         "description": "馬蹄型"
       }
+    },
+    "images": {
+      "main": "https://www.ambitaipei.com/images/meeting.jpg",
+      "gallery": [],
+      "floorPlan": null
     }
   },
   {
@@ -8212,6 +8290,11 @@
         "capacity": 50,
         "description": "馬蹄型"
       }
+    },
+    "images": {
+      "main": "https://www.imperialhotel.com.tw/images/ballroom.jpg",
+      "gallery": [],
+      "floorPlan": null
     }
   },
   {
@@ -8593,6 +8676,11 @@
         "capacity": 87,
         "description": "馬蹄型"
       }
+    },
+    "images": {
+      "main": "https://www.fourpoints.com/images/ballroom.jpg",
+      "gallery": [],
+      "floorPlan": null
     }
   },
   {
@@ -8715,6 +8803,11 @@
         "capacity": 37,
         "description": "馬蹄型"
       }
+    },
+    "images": {
+      "main": "https://www.justsleep.com.tw/images/meeting.jpg",
+      "gallery": [],
+      "floorPlan": null
     }
   },
   {
@@ -8897,6 +8990,11 @@
         "capacity": 62,
         "description": "馬蹄型"
       }
+    },
+    "images": {
+      "main": "https://www.farglory-u.com/images/meeting.jpg",
+      "gallery": [],
+      "floorPlan": null
     }
   },
   {
@@ -8953,6 +9051,11 @@
         "capacity": 45,
         "description": "馬蹄型"
       }
+    },
+    "images": {
+      "main": "https://www.aseglobal.com/images/meeting.jpg",
+      "gallery": [],
+      "floorPlan": null
     }
   },
   {
@@ -9009,6 +9112,11 @@
         "capacity": 75,
         "description": "馬蹄型"
       }
+    },
+    "images": {
+      "main": "https://www.dabangan.com.tw/images/ballroom.jpg",
+      "gallery": [],
+      "floorPlan": null
     }
   },
   {
@@ -9064,6 +9172,11 @@
         "capacity": 37,
         "description": "馬蹄型"
       }
+    },
+    "images": {
+      "main": "https://www.ceramics.ntpc.gov.tw/images/venue.jpg",
+      "gallery": [],
+      "floorPlan": null
     }
   },
   {
@@ -9120,6 +9233,11 @@
         "capacity": 87,
         "description": "馬蹄型"
       }
+    },
+    "images": {
+      "main": "https://www.fullon-hotels.com.tw/shenkeng/images/ballroom.jpg",
+      "gallery": [],
+      "floorPlan": null
     }
   },
   {
@@ -9171,6 +9289,11 @@
         "capacity": 60,
         "description": "宴會型"
       }
+    },
+    "images": {
+      "main": "https://www.esperanza.com.tw/images/meeting.jpg",
+      "gallery": [],
+      "floorPlan": null
     }
   },
   {
@@ -9232,6 +9355,11 @@
         "capacity": 45,
         "description": "馬蹄型"
       }
+    },
+    "images": {
+      "main": "https://www.chateaudechine.com/yonghe/images/ballroom.jpg",
+      "gallery": [],
+      "floorPlan": null
     }
   },
   {
@@ -9471,6 +9599,11 @@
         "capacity": 50,
         "description": "馬蹄型"
       }
+    },
+    "images": {
+      "main": "https://www.hotelindigo.com/images/ballroom.jpg",
+      "gallery": [],
+      "floorPlan": null
     }
   },
   {
@@ -9527,6 +9660,11 @@
         "capacity": 45,
         "description": "馬蹄型"
       }
+    },
+    "images": {
+      "main": "https://www.hotelindigo.com/kaohsiung/images/meeting.jpg",
+      "gallery": [],
+      "floorPlan": null
     }
   },
   {
@@ -9583,6 +9721,11 @@
         "capacity": 100,
         "description": "馬蹄型"
       }
+    },
+    "images": {
+      "main": "https://www.cityhotel.com.tw/images/ballroom.jpg",
+      "gallery": [],
+      "floorPlan": null
     }
   },
   {
@@ -9761,6 +9904,11 @@
         "capacity": 62,
         "description": "馬蹄型"
       }
+    },
+    "images": {
+      "main": "https://www.hotelpoa.com/images/meeting.jpg",
+      "gallery": [],
+      "floorPlan": null
     }
   },
   {
@@ -9817,6 +9965,11 @@
         "capacity": 75,
         "description": "馬蹄型"
       }
+    },
+    "images": {
+      "main": "https://www.taleashotels.com/images/ballroom.jpg",
+      "gallery": [],
+      "floorPlan": null
     }
   },
   {
@@ -9995,6 +10148,11 @@
         "capacity": 87,
         "description": "馬蹄型"
       }
+    },
+    "images": {
+      "main": "https://www.leesinghotel.com/images/ballroom.jpg",
+      "gallery": [],
+      "floorPlan": null
     }
   },
   {
@@ -10051,6 +10209,11 @@
         "capacity": 50,
         "description": "馬蹄型"
       }
+    },
+    "images": {
+      "main": "https://www.hualienhotel.com.tw/images/meeting.jpg",
+      "gallery": [],
+      "floorPlan": null
     }
   },
   {
@@ -10473,6 +10636,11 @@
         "capacity": 75,
         "description": "馬蹄型"
       }
+    },
+    "images": {
+      "main": "https://www.nationalhotel.com.tw/images/ballroom.jpg",
+      "gallery": [],
+      "floorPlan": null
     }
   },
   {
@@ -10529,6 +10697,11 @@
         "capacity": 87,
         "description": "馬蹄型"
       }
+    },
+    "images": {
+      "main": "https://www.tunghao.com.tw/images/ballroom.jpg",
+      "gallery": [],
+      "floorPlan": null
     }
   },
   {
@@ -10585,6 +10758,11 @@
         "capacity": 70,
         "description": "馬蹄型"
       }
+    },
+    "images": {
+      "main": "https://www.chateaudechine.com/taichung/images/ballroom.jpg",
+      "gallery": [],
+      "floorPlan": null
     }
   },
   {
@@ -10641,6 +10819,11 @@
         "capacity": 100,
         "description": "馬蹄型"
       }
+    },
+    "images": {
+      "main": "https://www.ttesports.com/images/venue.jpg",
+      "gallery": [],
+      "floorPlan": null
     }
   },
   {
@@ -10696,6 +10879,11 @@
         "capacity": 50,
         "description": "馬蹄型"
       }
+    },
+    "images": {
+      "main": "https://www.taichung.gov.tw/images/meeting.jpg",
+      "gallery": [],
+      "floorPlan": null
     }
   },
   {
@@ -10751,6 +10939,11 @@
         "capacity": 750,
         "description": "馬蹄型"
       }
+    },
+    "images": {
+      "main": "https://www.taichung.gov.tw/images/outdoor.jpg",
+      "gallery": [],
+      "floorPlan": null
     }
   },
   {
@@ -10806,6 +10999,11 @@
         "capacity": 37,
         "description": "馬蹄型"
       }
+    },
+    "images": {
+      "main": "https://www.chungyo.com.tw/images/meeting.jpg",
+      "gallery": [],
+      "floorPlan": null
     }
   },
   {
@@ -10861,6 +11059,11 @@
         "capacity": 125,
         "description": "馬蹄型"
       }
+    },
+    "images": {
+      "main": "https://www.lihpaoresort.com/images/ballroom.jpg",
+      "gallery": [],
+      "floorPlan": null
     }
   },
   {
@@ -11099,6 +11302,11 @@
         "capacity": 50,
         "description": "馬蹄型"
       }
+    },
+    "images": {
+      "main": "https://www.focushotel.com.tw/images/meeting.jpg",
+      "gallery": [],
+      "floorPlan": null
     }
   },
   {
@@ -11154,6 +11362,11 @@
         "capacity": 75,
         "description": "馬蹄型"
       }
+    },
+    "images": {
+      "main": "https://www.glory.org.tw/images/venue.jpg",
+      "gallery": [],
+      "floorPlan": null
     }
   },
   {
@@ -11201,6 +11414,11 @@
         "capacity": 40,
         "description": "會議型"
       }
+    },
+    "images": {
+      "main": "https://www.redballcafe.com/images/space.jpg",
+      "gallery": [],
+      "floorPlan": null
     }
   },
   {
@@ -11318,6 +11536,11 @@
         "capacity": 37,
         "description": "馬蹄型"
       }
+    },
+    "images": {
+      "main": "https://www.hotelpoa.com/tainan/images/meeting.jpg",
+      "gallery": [],
+      "floorPlan": null
     }
   },
   {
@@ -11374,6 +11597,11 @@
         "capacity": 75,
         "description": "馬蹄型"
       }
+    },
+    "images": {
+      "main": "https://www.chateaudechine.com/tainan/images/ballroom.jpg",
+      "gallery": [],
+      "floorPlan": null
     }
   },
   {
@@ -11491,6 +11719,11 @@
         "capacity": 40,
         "description": "馬蹄型"
       }
+    },
+    "images": {
+      "main": "https://www.hotelpoa.com/lidong/images/meeting.jpg",
+      "gallery": [],
+      "floorPlan": null
     }
   },
   {
@@ -11791,6 +12024,11 @@
         "capacity": 50,
         "description": "馬蹄型"
       }
+    },
+    "images": {
+      "main": "https://www.hotelpoa.com/taoyuan/images/meeting.jpg",
+      "gallery": [],
+      "floorPlan": null
     }
   },
   {
@@ -11847,6 +12085,11 @@
         "capacity": 80,
         "description": "馬蹄型"
       }
+    },
+    "images": {
+      "main": "https://www.chateaudechine.com/taoyuan/images/ballroom.jpg",
+      "gallery": [],
+      "floorPlan": null
     }
   },
   {
@@ -11903,6 +12146,11 @@
         "capacity": 45,
         "description": "馬蹄型"
       }
+    },
+    "images": {
+      "main": "https://www.chuhtu.com.tw/images/meeting.jpg",
+      "gallery": [],
+      "floorPlan": null
     }
   },
   {
@@ -11959,6 +12207,11 @@
         "capacity": 62,
         "description": "馬蹄型"
       }
+    },
+    "images": {
+      "main": "https://www.novotel.com/images/meeting.jpg",
+      "gallery": [],
+      "floorPlan": null
     }
   },
   {
@@ -12136,6 +12389,11 @@
         "capacity": 50,
         "description": "馬蹄型"
       }
+    },
+    "images": {
+      "main": "https://www.azalea.com.tw/images/meeting.jpg",
+      "gallery": [],
+      "floorPlan": null
     }
   },
   {
@@ -12309,6 +12567,11 @@
         "capacity": 75,
         "description": "馬蹄型"
       }
+    },
+    "images": {
+      "main": "https://www.chateau.com.tw/images/ballroom.jpg",
+      "gallery": [],
+      "floorPlan": null
     }
   },
   {
@@ -12360,6 +12623,11 @@
         "capacity": 50,
         "description": "宴會型"
       }
+    },
+    "images": {
+      "main": "https://www.jia-du.com.tw/images/space.jpg",
+      "gallery": [],
+      "floorPlan": null
     }
   },
   {
@@ -12415,6 +12683,11 @@
         "capacity": 500,
         "description": "馬蹄型"
       }
+    },
+    "images": {
+      "main": "https://www.ptpe.gov.tw/images/venue.jpg",
+      "gallery": [],
+      "floorPlan": null
     }
   },
   {
@@ -12532,6 +12805,11 @@
         "capacity": 62,
         "description": "馬蹄型"
       }
+    },
+    "images": {
+      "main": "https://www.greetings.com.tw/images/ballroom.jpg",
+      "gallery": [],
+      "floorPlan": null
     }
   },
   {
@@ -12588,6 +12866,11 @@
         "capacity": 75,
         "description": "馬蹄型"
       }
+    },
+    "images": {
+      "main": "https://www.maplehotel.com.tw/images/ballroom.jpg",
+      "gallery": [],
+      "floorPlan": null
     }
   },
   {
@@ -12644,6 +12927,11 @@
         "capacity": 70,
         "description": "馬蹄型"
       }
+    },
+    "images": {
+      "main": "https://www.florihotel.com/images/ballroom.jpg",
+      "gallery": [],
+      "floorPlan": null
     }
   },
   {
@@ -12700,6 +12988,11 @@
         "capacity": 45,
         "description": "馬蹄型"
       }
+    },
+    "images": {
+      "main": "https://www.hotelindigo.com/hsinchu/images/meeting.jpg",
+      "gallery": [],
+      "floorPlan": null
     }
   },
   {
@@ -12755,6 +13048,11 @@
         "capacity": 125,
         "description": "馬蹄型"
       }
+    },
+    "images": {
+      "main": "https://www.hchcc.gov.tw/images/venue.jpg",
+      "gallery": [],
+      "floorPlan": null
     }
   },
   {
@@ -12928,6 +13226,11 @@
         "capacity": 112,
         "description": "馬蹄型"
       }
+    },
+    "images": {
+      "main": "https://www.sheraton.com/hsinchu/images/ballroom.jpg",
+      "gallery": [],
+      "floorPlan": null
     }
   },
   {
@@ -13045,6 +13348,11 @@
         "capacity": 50,
         "description": "馬蹄型"
       }
+    },
+    "images": {
+      "main": "https://www.goldentulip.com/images/ballroom.jpg",
+      "gallery": [],
+      "floorPlan": null
     }
   },
   {
@@ -13100,6 +13408,11 @@
         "capacity": 100,
         "description": "馬蹄型"
       }
+    },
+    "images": {
+      "main": "https://www.hchcc.gov.tw/cultural/images/venue.jpg",
+      "gallery": [],
+      "floorPlan": null
     }
   },
   {
@@ -13155,6 +13468,11 @@
         "capacity": 37,
         "description": "馬蹄型"
       }
+    },
+    "images": {
+      "main": "https://www.dingdong.com.tw/images/meeting.jpg",
+      "gallery": [],
+      "floorPlan": null
     }
   },
   {
@@ -13210,6 +13528,11 @@
         "capacity": 50,
         "description": "馬蹄型"
       }
+    },
+    "images": {
+      "main": "https://www.neiwantheater.com/images/venue.jpg",
+      "gallery": [],
+      "floorPlan": null
     }
   },
   {
@@ -13449,6 +13772,11 @@
         "capacity": 62,
         "description": "馬蹄型"
       }
+    },
+    "images": {
+      "main": "https://www.parkview-hotel.com/hualien/images/ballroom.jpg",
+      "gallery": [],
+      "floorPlan": null
     }
   },
   {
@@ -13504,6 +13832,11 @@
         "capacity": 150,
         "description": "馬蹄型"
       }
+    },
+    "images": {
+      "main": "https://www.hlcccb.gov.tw/images/venue.jpg",
+      "gallery": [],
+      "floorPlan": null
     }
   },
   {
@@ -13682,6 +14015,11 @@
         "capacity": 75,
         "description": "馬蹄型"
       }
+    },
+    "images": {
+      "main": "https://www.westin.com/yilan/images/ballroom.jpg",
+      "gallery": [],
+      "floorPlan": null
     }
   },
   {
@@ -13799,6 +14137,11 @@
         "capacity": 45,
         "description": "馬蹄型"
       }
+    },
+    "images": {
+      "main": "https://www.silksplace.com/yilan/art/images/meeting.jpg",
+      "gallery": [],
+      "floorPlan": null
     }
   },
   {
@@ -13854,6 +14197,11 @@
         "capacity": 125,
         "description": "馬蹄型"
       }
+    },
+    "images": {
+      "main": "https://www.ilccb.gov.tw/images/venue.jpg",
+      "gallery": [],
+      "floorPlan": null
     }
   },
   {
@@ -13971,6 +14319,11 @@
         "capacity": 62,
         "description": "馬蹄型"
       }
+    },
+    "images": {
+      "main": "https://www.huaguo.com.tw/images/ballroom.jpg",
+      "gallery": [],
+      "floorPlan": null
     }
   },
   {
@@ -14027,6 +14380,11 @@
         "capacity": 37,
         "description": "馬蹄型"
       }
+    },
+    "images": {
+      "main": "https://www.beidu.com.tw/images/meeting.jpg",
+      "gallery": [],
+      "floorPlan": null
     }
   },
   {
@@ -14082,6 +14440,11 @@
         "capacity": 175,
         "description": "馬蹄型"
       }
+    },
+    "images": {
+      "main": "https://www.klccab.gov.tw/images/venue.jpg",
+      "gallery": [],
+      "floorPlan": null
     }
   },
   {
@@ -14137,6 +14500,11 @@
         "capacity": 375,
         "description": "馬蹄型"
       }
+    },
+    "images": {
+      "main": "https://www.klcg.gov.tw/images/outdoor.jpg",
+      "gallery": [],
+      "floorPlan": null
     }
   },
   {
@@ -14254,6 +14622,11 @@
         "capacity": 75,
         "description": "馬蹄型"
       }
+    },
+    "images": {
+      "main": "https://www.chateaudechine.com/chiayi/images/ballroom.jpg",
+      "gallery": [],
+      "floorPlan": null
     }
   },
   {
@@ -14310,6 +14683,11 @@
         "capacity": 70,
         "description": "馬蹄型"
       }
+    },
+    "images": {
+      "main": "https://www.xianghuhotel.com/images/ballroom.jpg",
+      "gallery": [],
+      "floorPlan": null
     }
   },
   {
@@ -14365,6 +14743,11 @@
         "capacity": 112,
         "description": "馬蹄型"
       }
+    },
+    "images": {
+      "main": "https://www.chiayi.gov.tw/cultural/images/venue.jpg",
+      "gallery": [],
+      "floorPlan": null
     }
   },
   {
@@ -14420,6 +14803,11 @@
         "capacity": 50,
         "description": "馬蹄型"
       }
+    },
+    "images": {
+      "main": "https://www.ncyu.edu.tw/images/venue.jpg",
+      "gallery": [],
+      "floorPlan": null
     }
   },
   {
@@ -14537,6 +14925,11 @@
         "capacity": 62,
         "description": "馬蹄型"
       }
+    },
+    "images": {
+      "main": "https://www.nicesonghe.com.tw/images/ballroom.jpg",
+      "gallery": [],
+      "floorPlan": null
     }
   },
   {
@@ -14592,6 +14985,11 @@
         "capacity": 150,
         "description": "馬蹄型"
       }
+    },
+    "images": {
+      "main": "https://www.pac.gov.tw/images/venue.jpg",
+      "gallery": [],
+      "floorPlan": null
     }
   },
   {
@@ -14647,6 +15045,11 @@
         "capacity": 50,
         "description": "馬蹄型"
       }
+    },
+    "images": {
+      "main": "https://www.cy.gov.tw/images/meeting.jpg",
+      "gallery": [],
+      "floorPlan": null
     }
   },
   {
@@ -14702,6 +15105,11 @@
         "capacity": 45,
         "description": "馬蹄型"
       }
+    },
+    "images": {
+      "main": "https://www.alishanhotel.com.tw/images/ballroom.jpg",
+      "gallery": [],
+      "floorPlan": null
     }
   },
   {
@@ -14757,6 +15165,11 @@
         "capacity": 62,
         "description": "馬蹄型"
       }
+    },
+    "images": {
+      "main": "https://www.npm.gov.tw/south/images/meeting.jpg",
+      "gallery": [],
+      "floorPlan": null
     }
   },
   {
@@ -14813,6 +15226,11 @@
         "capacity": 87,
         "description": "馬蹄型"
       }
+    },
+    "images": {
+      "main": "https://www.janfusun.com.tw/images/ballroom.jpg",
+      "gallery": [],
+      "floorPlan": null
     }
   },
   {
@@ -14864,6 +15282,11 @@
         "capacity": 50,
         "description": "宴會型"
       }
+    },
+    "images": {
+      "main": "https://www.laurelmotel.com.tw/images/meeting.jpg",
+      "gallery": [],
+      "floorPlan": null
     }
   },
   {
@@ -14919,6 +15342,11 @@
         "capacity": 500,
         "description": "馬蹄型"
       }
+    },
+    "images": {
+      "main": "https://www.chsport.gov.tw/images/venue.jpg",
+      "gallery": [],
+      "floorPlan": null
     }
   },
   {
@@ -14974,6 +15402,11 @@
         "capacity": 37,
         "description": "馬蹄型"
       }
+    },
+    "images": {
+      "main": "https://www.leaderhotel.com/lukang/images/meeting.jpg",
+      "gallery": [],
+      "floorPlan": null
     }
   },
   {
@@ -15030,6 +15463,11 @@
         "capacity": 45,
         "description": "馬蹄型"
       }
+    },
+    "images": {
+      "main": "https://www.forte.com.tw/images/meeting.jpg",
+      "gallery": [],
+      "floorPlan": null
     }
   },
   {
@@ -15086,6 +15524,11 @@
         "capacity": 62,
         "description": "馬蹄型"
       }
+    },
+    "images": {
+      "main": "https://www.grandcomforward.com/images/ballroom.jpg",
+      "gallery": [],
+      "floorPlan": null
     }
   },
   {
@@ -15141,6 +15584,11 @@
         "capacity": 125,
         "description": "馬蹄型"
       }
+    },
+    "images": {
+      "main": "https://www.bocach.gov.tw/images/venue.jpg",
+      "gallery": [],
+      "floorPlan": null
     }
   },
   {
@@ -15192,6 +15640,11 @@
         "capacity": 60,
         "description": "宴會型"
       }
+    },
+    "images": {
+      "main": "https://www.tian.gov.tw/images/meeting.jpg",
+      "gallery": [],
+      "floorPlan": null
     }
   },
   {
@@ -15247,6 +15700,11 @@
         "capacity": 750,
         "description": "馬蹄型"
       }
+    },
+    "images": {
+      "main": "https://www.xizhoupark.com/images/outdoor.jpg",
+      "gallery": [],
+      "floorPlan": null
     }
   },
   {
@@ -15298,6 +15756,11 @@
         "capacity": 50,
         "description": "宴會型"
       }
+    },
+    "images": {
+      "main": "https://www.bagualai.com.tw/images/space.jpg",
+      "gallery": [],
+      "floorPlan": null
     }
   },
   {
@@ -15598,6 +16061,11 @@
         "capacity": 37,
         "description": "馬蹄型"
       }
+    },
+    "images": {
+      "main": "https://www.yokosovillage.com/images/meeting.jpg",
+      "gallery": [],
+      "floorPlan": null
     }
   },
   {
@@ -15654,6 +16122,11 @@
         "capacity": 45,
         "description": "馬蹄型"
       }
+    },
+    "images": {
+      "main": "https://www.cingjing.com.tw/images/meeting.jpg",
+      "gallery": [],
+      "floorPlan": null
     }
   },
   {
@@ -15710,6 +16183,11 @@
         "capacity": 70,
         "description": "馬蹄型"
       }
+    },
+    "images": {
+      "main": "https://www.chateauhotels.com/images/ballroom.jpg",
+      "gallery": [],
+      "floorPlan": null
     }
   },
   {
@@ -15765,6 +16243,11 @@
         "capacity": 375,
         "description": "馬蹄型"
       }
+    },
+    "images": {
+      "main": "https://www.ntsport.gov.tw/images/venue.jpg",
+      "gallery": [],
+      "floorPlan": null
     }
   },
   {
@@ -15820,6 +16303,11 @@
         "capacity": 125,
         "description": "馬蹄型"
       }
+    },
+    "images": {
+      "main": "https://www.nine.com.tw/images/venue.jpg",
+      "gallery": [],
+      "floorPlan": null
     }
   },
   {
@@ -15867,6 +16355,11 @@
         "capacity": 40,
         "description": "會議型"
       }
+    },
+    "images": {
+      "main": "https://www.tian梯.com/images/space.jpg",
+      "gallery": [],
+      "floorPlan": null
     }
   },
   {
@@ -15923,6 +16416,11 @@
         "capacity": 100,
         "description": "馬蹄型"
       }
+    },
+    "images": {
+      "main": "https://www.janfusun.com.tw/prince/images/ballroom.jpg",
+      "gallery": [],
+      "floorPlan": null
     }
   },
   {
@@ -15979,6 +16477,11 @@
         "capacity": 50,
         "description": "馬蹄型"
       }
+    },
+    "images": {
+      "main": "https://www.janfusun.com.tw/resort/images/meeting.jpg",
+      "gallery": [],
+      "floorPlan": null
     }
   },
   {
@@ -16034,6 +16537,11 @@
         "capacity": 500,
         "description": "馬蹄型"
       }
+    },
+    "images": {
+      "main": "https://www.ylsport.gov.tw/images/venue.jpg",
+      "gallery": [],
+      "floorPlan": null
     }
   },
   {
@@ -16089,6 +16597,11 @@
         "capacity": 112,
         "description": "馬蹄型"
       }
+    },
+    "images": {
+      "main": "https://www.ylccb.gov.tw/images/venue.jpg",
+      "gallery": [],
+      "floorPlan": null
     }
   },
   {
@@ -16140,6 +16653,11 @@
         "capacity": 60,
         "description": "宴會型"
       }
+    },
+    "images": {
+      "main": "https://www.huwei.gov.tw/images/meeting.jpg",
+      "gallery": [],
+      "floorPlan": null
     }
   },
   {
@@ -16195,6 +16713,11 @@
         "capacity": 250,
         "description": "馬蹄型"
       }
+    },
+    "images": {
+      "main": "https://www.xiluo.com.tw/images/outdoor.jpg",
+      "gallery": [],
+      "floorPlan": null
     }
   },
   {
@@ -16250,6 +16773,11 @@
         "capacity": 200,
         "description": "馬蹄型"
       }
+    },
+    "images": {
+      "main": "https://www.gukeng.com.tw/images/outdoor.jpg",
+      "gallery": [],
+      "floorPlan": null
     }
   },
   {
@@ -16301,6 +16829,11 @@
         "capacity": 50,
         "description": "宴會型"
       }
+    },
+    "images": {
+      "main": "https://www.taisi.gov.tw/images/space.jpg",
+      "gallery": [],
+      "floorPlan": null
     }
   },
   {
@@ -16357,6 +16890,11 @@
         "capacity": 87,
         "description": "馬蹄型"
       }
+    },
+    "images": {
+      "main": "https://www.narubay.com/images/ballroom.jpg",
+      "gallery": [],
+      "floorPlan": null
     }
   },
   {
@@ -16413,6 +16951,11 @@
         "capacity": 70,
         "description": "馬蹄型"
       }
+    },
+    "images": {
+      "main": "https://www.hotelroyal.com.tw/jhiben/images/ballroom.jpg",
+      "gallery": [],
+      "floorPlan": null
     }
   },
   {
@@ -16469,6 +17012,11 @@
         "capacity": 50,
         "description": "馬蹄型"
       }
+    },
+    "images": {
+      "main": "https://www.fengtaihotel.com/images/ballroom.jpg",
+      "gallery": [],
+      "floorPlan": null
     }
   },
   {
@@ -16524,6 +17072,11 @@
         "capacity": 375,
         "description": "馬蹄型"
       }
+    },
+    "images": {
+      "main": "https://www.ttsport.gov.tw/images/venue.jpg",
+      "gallery": [],
+      "floorPlan": null
     }
   },
   {
@@ -16579,6 +17132,11 @@
         "capacity": 125,
         "description": "馬蹄型"
       }
+    },
+    "images": {
+      "main": "https://www.ttfa.gov.tw/images/venue.jpg",
+      "gallery": [],
+      "floorPlan": null
     }
   },
   {
@@ -16634,6 +17192,11 @@
         "capacity": 37,
         "description": "馬蹄型"
       }
+    },
+    "images": {
+      "main": "https://www.nmp.gov.tw/images/space.jpg",
+      "gallery": [],
+      "floorPlan": null
     }
   },
   {
@@ -16685,6 +17248,11 @@
         "capacity": 50,
         "description": "宴會型"
       }
+    },
+    "images": {
+      "main": "https://www.sansiantai.com/images/outdoor.jpg",
+      "gallery": [],
+      "floorPlan": null
     }
   },
   {
@@ -16740,6 +17308,11 @@
         "capacity": 50,
         "description": "馬蹄型"
       }
+    },
+    "images": {
+      "main": "https://www.greenisland.com.tw/images/outdoor.jpg",
+      "gallery": [],
+      "floorPlan": null
     }
   }
 ]
