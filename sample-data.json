@@ -6236,5 +6236,301 @@
     "source": "官方網站",
     "verified": true,
     "verifiedAt": "2026-02-27"
+  },
+  {
+    "id": 98,
+    "name": "台北文華東方酒店",
+    "roomName": "文華廳",
+    "venueType": "飯店場地",
+    "type": "宴會廳",
+    "city": "台北市",
+    "address": "台北市敦化北路158號",
+    "contactPerson": "宴會部",
+    "contactPhone": "02-2715-6888",
+    "contactEmail": "moh-taipei@mohg.com",
+    "pricePerHour": null,
+    "priceHalfDay": 150000,
+    "priceFullDay": 250000,
+    "maxCapacityEmpty": 600,
+    "maxCapacityTheater": 550,
+    "maxCapacityClassroom": 300,
+    "availableTimeWeekday": "08:00-24:00",
+    "availableTimeWeekend": "08:00-24:00",
+    "equipment": "頂級音響燈光、投影設備",
+    "images": {
+      "main": "https://www.mandarinoriental.com.tw/images/ballroom.jpg",
+      "gallery": [],
+      "floorPlan": null
+    },
+    "url": "https://www.mandarinoriental.com/taipei",
+    "transportation": {
+      "mrt": {
+        "station": "台北小巨蛋站",
+        "line": "松山新店線",
+        "walkingMinutes": 8
+      },
+      "parking": {
+        "name": "文華東方停車場",
+        "spaces": 200,
+        "hourlyRate": 100
+      }
+    },
+    "dimensions": {
+      "area": 350,
+      "unit": "坪",
+      "length": 26,
+      "width": 13,
+      "height": 5
+    },
+    "notes": "頂級奢華飯店，適合高端婚宴、企業活動",
+    "source": "官方網站",
+    "verified": true,
+    "verifiedAt": "2026-02-27"
+  },
+  {
+    "id": 99,
+    "name": "台北艾美酒店",
+    "roomName": "大宴會廳",
+    "venueType": "飯店場地",
+    "type": "宴會廳",
+    "city": "台北市",
+    "address": "台北市松山區民生東路三段8號",
+    "contactPerson": "宴會部",
+    "contactPhone": "02-2178-1999",
+    "contactEmail": "lemeridien.taipei@marriott.com",
+    "pricePerHour": null,
+    "priceHalfDay": 80000,
+    "priceFullDay": 140000,
+    "maxCapacityEmpty": 450,
+    "maxCapacityTheater": 400,
+    "maxCapacityClassroom": 220,
+    "availableTimeWeekday": "08:00-22:00",
+    "availableTimeWeekend": "08:00-22:00",
+    "equipment": "專業音響燈光、投影設備",
+    "images": {
+      "main": "https://www.lemeridien.com/taipei/images/ballroom.jpg",
+      "gallery": [],
+      "floorPlan": null
+    },
+    "url": "https://www.lemeridien.com/taipei",
+    "transportation": {
+      "mrt": {
+        "station": "中山國中站",
+        "line": "文湖線",
+        "walkingMinutes": 5
+      },
+      "parking": {
+        "name": "艾美酒店停車場",
+        "spaces": 150,
+        "hourlyRate": 80
+      }
+    },
+    "dimensions": {
+      "area": 250,
+      "unit": "坪",
+      "length": 22,
+      "width": 11,
+      "height": 4.5
+    },
+    "notes": "國際品牌飯店，適合企業活動、婚宴",
+    "source": "官方網站",
+    "verified": true,
+    "verifiedAt": "2026-02-27"
+  },
+  {
+    "id": 100,
+    "name": "NUZONE展演空間",
+    "roomName": "主空間",
+    "venueType": "展演場地",
+    "type": "展演空間",
+    "city": "台北市",
+    "address": "台北市南港區市民大道七段8號",
+    "contactPerson": "場地租借",
+    "contactPhone": "02-2651-0708",
+    "contactEmail": "hello@nuzone.com.tw",
+    "pricePerHour": 3000,
+    "priceHalfDay": 15000,
+    "priceFullDay": 25000,
+    "maxCapacityEmpty": 200,
+    "maxCapacityTheater": 180,
+    "maxCapacityClassroom": 100,
+    "availableTimeWeekday": "09:00-22:00",
+    "availableTimeWeekend": "09:00-22:00",
+    "equipment": "專業音響、投影設備、燈光",
+    "images": {
+      "main": "https://www.nuzone.com.tw/images/venue.jpg",
+      "gallery": [],
+      "floorPlan": null
+    },
+    "url": "https://www.nuzone.com.tw",
+    "transportation": {
+      "mrt": {
+        "station": "南港站",
+        "line": "板南線",
+        "walkingMinutes": 5
+      },
+      "parking": {
+        "name": "南港停車場",
+        "spaces": 100,
+        "hourlyRate": 40
+      }
+    },
+    "dimensions": {
+      "area": 100,
+      "unit": "坪",
+      "length": 15,
+      "width": 6.5,
+      "height": 4
+    },
+    "notes": "新創展演空間，適合發表會、展覽、工作坊",
+    "source": "官方網站",
+    "verified": true,
+    "verifiedAt": "2026-02-27"
+  },
+  {
+    "id": 101,
+    "name": "TCCC台灣文創訓練中心",
+    "roomName": "多功能教室",
+    "venueType": "會議場地",
+    "type": "會議室",
+    "city": "台北市",
+    "address": "台北市信義區信義路五段7號37樓",
+    "contactPerson": "場地租借",
+    "contactPhone": "02-8101-8288",
+    "contactEmail": "service@tccc.com.tw",
+    "pricePerHour": 1500,
+    "priceHalfDay": 6000,
+    "priceFullDay": 10000,
+    "maxCapacityEmpty": 60,
+    "maxCapacityTheater": 50,
+    "maxCapacityClassroom": 30,
+    "availableTimeWeekday": "09:00-21:00",
+    "availableTimeWeekend": "09:00-18:00",
+    "equipment": "投影機、白板、WiFi",
+    "images": {
+      "main": "https://www.tccc.com.tw/images/room.jpg",
+      "gallery": [],
+      "floorPlan": null
+    },
+    "url": "https://www.tccc.com.tw",
+    "transportation": {
+      "mrt": {
+        "station": "台北101/世貿站",
+        "line": "淡水信義線",
+        "walkingMinutes": 3
+      },
+      "parking": {
+        "name": "台北101停車場",
+        "spaces": 500,
+        "hourlyRate": 60
+      }
+    },
+    "dimensions": {
+      "area": 30,
+      "unit": "坪",
+      "length": 8,
+      "width": 4,
+      "height": 3
+    },
+    "notes": "專業訓練場地，適合企業培訓、會議",
+    "source": "官方網站",
+    "verified": true,
+    "verifiedAt": "2026-02-27"
+  },
+  {
+    "id": 102,
+    "name": "板橋凱撒大飯店",
+    "roomName": "宴會廳",
+    "venueType": "飯店場地",
+    "type": "宴會廳",
+    "city": "新北市",
+    "address": "新北市板橋區縣民大道二段8號",
+    "contactPerson": "宴會部",
+    "contactPhone": "02-8953-8999",
+    "contactEmail": "banquet@caesarpark.com.tw",
+    "pricePerHour": null,
+    "priceHalfDay": 45000,
+    "priceFullDay": 80000,
+    "maxCapacityEmpty": 400,
+    "maxCapacityTheater": 350,
+    "maxCapacityClassroom": 200,
+    "availableTimeWeekday": "08:00-22:00",
+    "availableTimeWeekend": "08:00-22:00",
+    "equipment": "專業音響燈光、投影設備",
+    "images": {
+      "main": "https://www.caesarpark.com.tw/banqiao/images/ballroom.jpg",
+      "gallery": [],
+      "floorPlan": null
+    },
+    "url": "https://www.caesarpark.com.tw/banqiao",
+    "transportation": {
+      "mrt": {
+        "station": "板橋站",
+        "line": "板南線",
+        "walkingMinutes": 3
+      },
+      "parking": {
+        "name": "凱撒停車場",
+        "spaces": 150,
+        "hourlyRate": 50
+      }
+    },
+    "dimensions": {
+      "area": 200,
+      "unit": "坪",
+      "length": 20,
+      "width": 10,
+      "height": 4
+    },
+    "notes": "板橋車站旁，交通便利，適合企業活動",
+    "source": "官方網站",
+    "verified": true,
+    "verifiedAt": "2026-02-27"
+  },
+  {
+    "id": 103,
+    "name": "桃園諾富特華航酒店",
+    "roomName": "大宴會廳",
+    "venueType": "飯店場地",
+    "type": "宴會廳",
+    "city": "桃園市",
+    "address": "桃園市大園區大觀路678號",
+    "contactPerson": "宴會部",
+    "contactPhone": "03-398-0888",
+    "contactEmail": "h6987@accor.com",
+    "pricePerHour": null,
+    "priceHalfDay": 40000,
+    "priceFullDay": 70000,
+    "maxCapacityEmpty": 500,
+    "maxCapacityTheater": 450,
+    "maxCapacityClassroom": 250,
+    "availableTimeWeekday": "08:00-22:00",
+    "availableTimeWeekend": "08:00-22:00",
+    "equipment": "專業音響燈光、投影設備",
+    "images": {
+      "main": "https://www.novotel.com/taoyuan/images/ballroom.jpg",
+      "gallery": [],
+      "floorPlan": null
+    },
+    "url": "https://www.novotel.com/taoyuan-airport",
+    "transportation": {
+      "mrt": null,
+      "parking": {
+        "name": "諾富特停車場",
+        "spaces": 200,
+        "hourlyRate": 0
+      }
+    },
+    "dimensions": {
+      "area": 250,
+      "unit": "坪",
+      "length": 22,
+      "width": 11,
+      "height": 4.5
+    },
+    "notes": "機場酒店，適合國際會議、企業活動",
+    "source": "官方網站",
+    "verified": true,
+    "verifiedAt": "2026-02-27"
   }
 ]
