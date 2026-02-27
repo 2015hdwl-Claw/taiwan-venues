@@ -306,7 +306,11 @@
     "availableTimeWeekday": "依申請",
     "availableTimeWeekend": "依申請",
     "equipment": "基本桌椅/投影",
-    "images": [],
+    "images": {
+      "main": "https://www.doxa.gov.taipei/images/center.jpg",
+      "gallery": [],
+      "floorPlan": null
+    },
     "layoutImageUrl": null,
     "rentalTimeNote": "無",
     "notes": "線上租借平台申請，適合藝文表演/會議",
@@ -361,7 +365,11 @@
     "availableTimeWeekday": "依申請",
     "availableTimeWeekend": "依申請",
     "equipment": "投影機/白板",
-    "images": [],
+    "images": {
+      "main": "https://www.doxa.gov.taipei/images/center.jpg",
+      "gallery": [],
+      "floorPlan": null
+    },
     "layoutImageUrl": null,
     "rentalTimeNote": "無",
     "notes": "適合靜態會議/讀書會",
@@ -414,7 +422,11 @@
     "availableTimeWeekday": "依申請",
     "availableTimeWeekend": "依申請",
     "equipment": "投影機/麥克風/白板",
-    "images": [],
+    "images": {
+      "main": "https://www.hakka.taipei/images/center.jpg",
+      "gallery": [],
+      "floorPlan": null
+    },
     "layoutImageUrl": null,
     "rentalTimeNote": "無",
     "notes": "鄰近大安森林公園，需先電話詢空檔02-27026141分機211",
@@ -466,7 +478,11 @@
     "availableTimeWeekday": "依申請",
     "availableTimeWeekend": "依申請",
     "equipment": "水電另計(冷氣350/4小時)",
-    "images": [],
+    "images": {
+      "main": "https://www.doxa.gov.taipei/images/center.jpg",
+      "gallery": [],
+      "floorPlan": null
+    },
     "layoutImageUrl": null,
     "rentalTimeNote": "無",
     "notes": "長期租用優惠525/4小時",
@@ -584,7 +600,11 @@
     "availableTimeWeekday": "依申請",
     "availableTimeWeekend": "依申請",
     "equipment": "基本舞台/音響",
-    "images": [],
+    "images": {
+      "main": "https://www.ntpc.gov.tw/images/venue.jpg",
+      "gallery": [],
+      "floorPlan": null
+    },
     "layoutImageUrl": null,
     "rentalTimeNote": "無",
     "notes": "線上租借，適合表演/講座",
@@ -2427,7 +2447,11 @@
     "availableTimeWeekday": "09:00-22:00",
     "availableTimeWeekend": "09:00-22:00",
     "equipment": "專業影音設備、燈光系統",
-    "images": [],
+    "images": {
+      "main": "https://www.fullon-hotels.com.tw/tamsui/images/ballroom.jpg",
+      "gallery": [],
+      "floorPlan": null
+    },
     "layoutImageUrl": null,
     "rentalTimeNote": "需提前2週預約",
     "notes": "海景場地，適合婚宴、尾牙、發表會",
@@ -2612,7 +2636,11 @@
     "availableTimeWeekday": "09:00-22:00",
     "availableTimeWeekend": "09:00-22:00",
     "equipment": "頂級影音、LED牆、燈光秀",
-    "images": [],
+    "images": {
+      "main": "https://www.dianhua.com.tw/images/ballroom.jpg",
+      "gallery": [],
+      "floorPlan": null
+    },
     "layoutImageUrl": null,
     "rentalTimeNote": "需提前1個月預約",
     "notes": "適合尾牙、大型婚宴、企業晚宴",
@@ -2809,7 +2837,11 @@
     "availableTimeWeekday": "08:00-22:00",
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "投影機、白板、視訊會議、WiFi",
-    "images": [],
+    "images": {
+      "main": "https://www.novotel.com/taoyuan/images/meeting.jpg",
+      "gallery": [],
+      "floorPlan": null
+    },
     "layoutImageUrl": null,
     "rentalTimeNote": "需提前3天預約",
     "notes": "機場飯店，適合過境會議、國際商務",
@@ -3106,7 +3138,11 @@
     "availableTimeWeekday": "09:00-18:00",
     "availableTimeWeekend": "09:00-18:00",
     "equipment": "基本水電、空調",
-    "images": [],
+    "images": {
+      "main": "https://www.wtcfc.com.tw/images/venue.jpg",
+      "gallery": [],
+      "floorPlan": null
+    },
     "layoutImageUrl": null,
     "rentalTimeNote": "需提前1個月預約",
     "notes": "適合展覽、博覽會、大型會議",
@@ -3165,7 +3201,11 @@
     "availableTimeWeekday": "依檔期",
     "availableTimeWeekend": "依檔期",
     "equipment": "專業劇場設備",
-    "images": [],
+    "images": {
+      "main": "https://www.npac-ntt.org/images/opera.jpg",
+      "gallery": [],
+      "floorPlan": null
+    },
     "layoutImageUrl": null,
     "rentalTimeNote": "需提前3個月申請",
     "notes": "國際級場地，適合表演、大型活動",
@@ -3293,7 +3333,11 @@
     "availableTimeWeekday": "09:00-22:00",
     "availableTimeWeekend": "09:00-22:00",
     "equipment": "專業影音、燈光系統",
-    "images": [],
+    "images": {
+      "main": "https://www.tayihlandis.com.tw/images/ballroom.jpg",
+      "gallery": [],
+      "floorPlan": null
+    },
     "layoutImageUrl": null,
     "rentalTimeNote": "需提前2週預約",
     "notes": "台南市中心，適合企業活動、婚宴",
@@ -3416,7 +3460,11 @@
     "availableTimeWeekday": "09:00-17:00",
     "availableTimeWeekend": "依檔期",
     "equipment": "專業音響、投影設備",
-    "images": [],
+    "images": {
+      "main": "https://www.chimeimuseum.org/images/venue.jpg",
+      "gallery": [],
+      "floorPlan": null
+    },
     "layoutImageUrl": null,
     "rentalTimeNote": "需提前1個月申請",
     "notes": "博物館場地，適合藝文活動、記者會",
@@ -3595,7 +3643,11 @@
     "availableTimeWeekday": "09:00-22:00",
     "availableTimeWeekend": "09:00-22:00",
     "equipment": "頂級影音、同步翻譯、燈光系統",
-    "images": [],
+    "images": {
+      "main": "https://www.intercontinental.com/kaohsiung/images/ballroom.jpg",
+      "gallery": [],
+      "floorPlan": null
+    },
     "layoutImageUrl": null,
     "rentalTimeNote": "需提前1個月預約",
     "notes": "高雄最高級飯店，適合國際會議、大型活動",
@@ -3655,7 +3707,11 @@
     "availableTimeWeekday": "09:00-18:00",
     "availableTimeWeekend": "09:00-18:00",
     "equipment": "基本水電、空調",
-    "images": [],
+    "images": {
+      "main": "https://www.kecc.com.tw/images/exhibition.jpg",
+      "gallery": [],
+      "floorPlan": null
+    },
     "layoutImageUrl": null,
     "rentalTimeNote": "需提前3個月預約",
     "notes": "大型展覽場地，適合博覽會、大型活動",
@@ -3772,7 +3828,11 @@
     "availableTimeWeekday": "09:00-22:00",
     "availableTimeWeekend": "09:00-22:00",
     "equipment": "專業影音、燈光系統",
-    "images": [],
+    "images": {
+      "main": "https://www.edaroyal.com/images/ballroom.jpg",
+      "gallery": [],
+      "floorPlan": null
+    },
     "layoutImageUrl": null,
     "rentalTimeNote": "需提前2週預約",
     "notes": "義大世界，適合企業活動、主題派對",
@@ -3896,7 +3956,11 @@
     "availableTimeWeekday": "09:00-21:00",
     "availableTimeWeekend": "09:00-21:00",
     "equipment": "專業舞台、音響、燈光",
-    "images": [],
+    "images": {
+      "main": "https://www.klccab.gov.tw/images/venue.jpg",
+      "gallery": [],
+      "floorPlan": null
+    },
     "layoutImageUrl": null,
     "rentalTimeNote": "需提前1個月申請",
     "notes": "適合表演、大型會議、頒獎典禮",
@@ -3955,7 +4019,11 @@
     "availableTimeWeekday": "09:00-21:00",
     "availableTimeWeekend": "依申請",
     "equipment": "投影機、音響、麥克風",
-    "images": [],
+    "images": {
+      "main": "https://www.klcg.gov.tw/images/meeting.jpg",
+      "gallery": [],
+      "floorPlan": null
+    },
     "layoutImageUrl": null,
     "rentalTimeNote": "需提前2週申請",
     "notes": "適合政府會議、公益活動",
@@ -4202,7 +4270,11 @@
     "availableTimeWeekday": "09:00-22:00",
     "availableTimeWeekend": "09:00-22:00",
     "equipment": "專業影音設備、燈光系統",
-    "images": [],
+    "images": {
+      "main": "https://www.lakeshore.com.tw/hsinchu/lake/images/ballroom.jpg",
+      "gallery": [],
+      "floorPlan": null
+    },
     "layoutImageUrl": null,
     "rentalTimeNote": "需提前2週預約",
     "notes": "青草湖畔，適合企業活動、婚宴",
@@ -4262,7 +4334,11 @@
     "availableTimeWeekday": "09:00-21:00",
     "availableTimeWeekend": "09:00-21:00",
     "equipment": "專業舞台、音響、燈光",
-    "images": [],
+    "images": {
+      "main": "https://www.hchcc.gov.tw/images/venue.jpg",
+      "gallery": [],
+      "floorPlan": null
+    },
     "layoutImageUrl": null,
     "rentalTimeNote": "需提前1個月申請",
     "notes": "適合表演、藝文活動、大型會議",
@@ -4321,7 +4397,11 @@
     "availableTimeWeekday": "09:00-21:00",
     "availableTimeWeekend": "依申請",
     "equipment": "投影機、音響、同步翻譯",
-    "images": [],
+    "images": {
+      "main": "https://www.hsinchu.gov.tw/images/meeting.jpg",
+      "gallery": [],
+      "floorPlan": null
+    },
     "layoutImageUrl": null,
     "rentalTimeNote": "需提前2週申請",
     "notes": "適合政府會議、公益活動",
@@ -4450,7 +4530,11 @@
     "availableTimeWeekday": "09:00-21:00",
     "availableTimeWeekend": "09:00-21:00",
     "equipment": "專業音響、燈光、鋼琴",
-    "images": [],
+    "images": {
+      "main": "https://www.chiayi.gov.tw/cultural/images/venue.jpg",
+      "gallery": [],
+      "floorPlan": null
+    },
     "layoutImageUrl": null,
     "rentalTimeNote": "需提前1個月申請",
     "notes": "適合音樂會、表演、大型會議",
@@ -4509,7 +4593,11 @@
     "availableTimeWeekday": "09:00-21:00",
     "availableTimeWeekend": "依申請",
     "equipment": "投影機、音響、麥克風",
-    "images": [],
+    "images": {
+      "main": "https://www.chiayi.gov.tw/images/meeting.jpg",
+      "gallery": [],
+      "floorPlan": null
+    },
     "layoutImageUrl": null,
     "rentalTimeNote": "需提前2週申請",
     "notes": "適合政府會議、公益活動",
@@ -4632,7 +4720,11 @@
     "availableTimeWeekday": "09:00-21:00",
     "availableTimeWeekend": "依申請",
     "equipment": "投影機、音響、視訊會議",
-    "images": [],
+    "images": {
+      "main": "https://www.cyhg.gov.tw/images/meeting.jpg",
+      "gallery": [],
+      "floorPlan": null
+    },
     "layoutImageUrl": null,
     "rentalTimeNote": "需提前2週申請",
     "notes": "適合政府會議、培訓課程",
@@ -4819,7 +4911,11 @@
     "availableTimeWeekday": "09:00-22:00",
     "availableTimeWeekend": "09:00-22:00",
     "equipment": "專業影音、LED螢幕、燈光系統",
-    "images": [],
+    "images": {
+      "main": "https://www.silksplace.com/yilan/landmark/images/ballroom.jpg",
+      "gallery": [],
+      "floorPlan": null
+    },
     "layoutImageUrl": null,
     "rentalTimeNote": "需提前2週預約",
     "notes": "宜蘭市區最高級飯店，適合企業活動、婚宴",
@@ -4879,7 +4975,11 @@
     "availableTimeWeekday": "09:00-21:00",
     "availableTimeWeekend": "依申請",
     "equipment": "投影機、音響、麥克風",
-    "images": [],
+    "images": {
+      "main": "https://www.ylgov.gov.tw/images/meeting.jpg",
+      "gallery": [],
+      "floorPlan": null
+    },
     "layoutImageUrl": null,
     "rentalTimeNote": "需提前2週申請",
     "notes": "適合政府會議、公益活動",
@@ -4938,7 +5038,11 @@
     "availableTimeWeekday": "09:00-21:00",
     "availableTimeWeekend": "09:00-21:00",
     "equipment": "投影機、白板、音響",
-    "images": [],
+    "images": {
+      "main": "https://www.silksplace.com/yilan/art/images/meeting.jpg",
+      "gallery": [],
+      "floorPlan": null
+    },
     "layoutImageUrl": null,
     "rentalTimeNote": "需提前1週預約",
     "notes": "傳統藝術中心內，適合文化會議、小型活動",
@@ -5182,7 +5286,11 @@
     "availableTimeWeekday": "09:00-21:00",
     "availableTimeWeekend": "依申請",
     "equipment": "投影機、音響、麥克風",
-    "images": [],
+    "images": {
+      "main": "https://www.hl.gov.tw/images/meeting.jpg",
+      "gallery": [],
+      "floorPlan": null
+    },
     "layoutImageUrl": null,
     "rentalTimeNote": "需提前2週申請",
     "notes": "適合政府會議、公益活動",
@@ -6119,7 +6227,11 @@
     "availableTimeWeekday": "09:00-21:00",
     "availableTimeWeekend": "09:00-21:00",
     "equipment": "投影機、音響、白板、溫泉設施",
-    "images": [],
+    "images": {
+      "main": "https://www.uni-resort.com.tw/mala/images/meeting.jpg",
+      "gallery": [],
+      "floorPlan": null
+    },
     "layoutImageUrl": null,
     "rentalTimeNote": "需提前2週預約",
     "notes": "溫泉渡假村，適合企業獎勵旅遊、會議",
@@ -6415,7 +6527,11 @@
     "availableTimeWeekday": "09:00-22:00",
     "availableTimeWeekend": "09:00-22:00",
     "equipment": "頂級影音、私人沙灘、泳池、燈光系統",
-    "images": [],
+    "images": {
+      "main": "https://www.chateau.com.tw/kenting/images/ballroom.jpg",
+      "gallery": [],
+      "floorPlan": null
+    },
     "layoutImageUrl": null,
     "rentalTimeNote": "需提前1個月預約",
     "notes": "私人沙灘飯店，適合高端企業活動、婚宴",
@@ -6949,7 +7065,11 @@
     "availableTimeWeekday": "09:00-21:00",
     "availableTimeWeekend": "09:00-21:00",
     "equipment": "投影機、音響、渡假設施",
-    "images": [],
+    "images": {
+      "main": "https://www.ktstay.com/images/meeting.jpg",
+      "gallery": [],
+      "floorPlan": null
+    },
     "layoutImageUrl": null,
     "rentalTimeNote": "需提前2週預約",
     "notes": "親子渡假村，適合企業家庭日、團建活動",
@@ -7008,7 +7128,11 @@
     "availableTimeWeekday": "09:00-22:00",
     "availableTimeWeekend": "09:00-22:00",
     "equipment": "頂級影音、森林景觀、有機餐飲",
-    "images": [],
+    "images": {
+      "main": "https://www.glorymanor.com.tw/images/ballroom.jpg",
+      "gallery": [],
+      "floorPlan": null
+    },
     "layoutImageUrl": null,
     "rentalTimeNote": "需提前1個月預約",
     "notes": "生態度假酒店，適合高端企業活動、會議",
@@ -13170,6 +13294,11 @@
         "capacity": 125,
         "description": "馬蹄型"
       }
+    },
+    "images": {
+      "main": "https://www.sheraton.com/hsinchu/images/ballroom.jpg",
+      "gallery": [],
+      "floorPlan": null
     }
   },
   {
