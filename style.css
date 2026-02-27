@@ -867,3 +867,124 @@ body {
 .fade-in {
     animation: fadeIn 0.3s ease;
 }
+
+/* ===== 照片畫廊 ===== */
+.venue-detail-photos {
+    margin-bottom: var(--spacing-xl);
+}
+
+.photo-gallery {
+    position: relative;
+    width: 100%;
+    aspect-ratio: 16/9;
+    border-radius: var(--radius-lg);
+    overflow: hidden;
+    background: var(--color-background-secondary);
+}
+
+.photo-slide {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    opacity: 0;
+    transition: opacity 0.4s ease;
+}
+
+.photo-slide.active {
+    opacity: 1;
+    z-index: 1;
+}
+
+.photo-slide img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    cursor: pointer;
+}
+
+.photo-nav {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: var(--spacing-md);
+    margin-top: var(--spacing-sm);
+}
+
+.photo-nav-btn {
+    width: 40px;
+    height: 40px;
+    border: none;
+    background: var(--color-background-secondary);
+    border-radius: 50%;
+    font-size: 24px;
+    color: var(--color-text);
+    cursor: pointer;
+    transition: all var(--transition-fast);
+}
+
+.photo-nav-btn:hover {
+    background: var(--color-accent);
+    color: white;
+}
+
+.photo-counter {
+    font-size: 14px;
+    color: var(--color-text-secondary);
+    min-width: 60px;
+    text-align: center;
+}
+
+.photo-thumbnails {
+    display: flex;
+    gap: var(--spacing-sm);
+    margin-top: var(--spacing-md);
+    overflow-x: auto;
+    padding-bottom: var(--spacing-sm);
+}
+
+.photo-thumb {
+    flex-shrink: 0;
+    width: 80px;
+    height: 60px;
+    border-radius: var(--radius-sm);
+    overflow: hidden;
+    cursor: pointer;
+    opacity: 0.6;
+    transition: all var(--transition-fast);
+    border: 2px solid transparent;
+}
+
+.photo-thumb:hover {
+    opacity: 0.9;
+}
+
+.photo-thumb.active {
+    opacity: 1;
+    border-color: var(--color-accent);
+}
+
+.photo-thumb img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.floor-plan-section {
+    margin-top: var(--spacing-lg);
+    padding-top: var(--spacing-lg);
+    border-top: 1px solid var(--color-border);
+}
+
+.floor-plan-section h4 {
+    margin-bottom: var(--spacing-md);
+    color: var(--color-text);
+}
+
+.floor-plan-img {
+    width: 100%;
+    max-width: 600px;
+    border-radius: var(--radius-md);
+    border: 1px solid var(--color-border);
+}

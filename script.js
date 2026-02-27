@@ -209,11 +209,12 @@ function renderVenues(venueList) {
     
     grid.innerHTML = venueList.map(venue => {
         const inCompare = compareList.includes(venue.id);
+        const imageUrl = venue.images?.main || (Array.isArray(venue.images) && venue.images[0]) || null;
         return `
             <div class="venue-card" onclick="showVenueDetail(${venue.id})">
-                <div class="venue-card-image">
+                <div class="venue-card-image" ${imageUrl ? `style="background-image: url('${imageUrl}'); background-size: cover; background-position: center;"` : ''}>
                     <span class="venue-card-badge">${venue.venueType || '場地'}</span>
-                    ${venue.venueType === '飯店場地' ? '🏨' : venue.venueType === '展演場地' ? '🎭' : '🏢'}
+                    ${!imageUrl ? (venue.venueType === '飯店場地' ? '🏨' : venue.venueType === '展演場地' ? '🎭' : '🏢') : ''}
                 </div>
                 <div class="venue-card-content">
                     <h3 class="venue-card-name">${venue.name}</h3>
@@ -259,12 +260,51 @@ function showVenueDetail(id) {
     const content = document.getElementById('modalContent');
     const inCompare = compareList.includes(id);
     
+    // 準備照片畫廊
+    const images = venue.images || {};
+    const mainImage = images.main;
+    const galleryImages = images.gallery || [];
+    const allImages = mainImage ? [mainImage, ...galleryImages] : galleryImages;
+    const floorPlan = images.floorPlan;
+
     content.innerHTML = `
         <div class="venue-detail-header">
             <h1 class="venue-detail-title">${venue.name}</h1>
             <p class="venue-detail-subtitle">${venue.roomName || ''} · ${venue.city}</p>
         </div>
-        
+
+        ${allImages.length > 0 ? `
+            <div class="venue-detail-photos">
+                <div class="photo-gallery" id="photoGallery">
+                    ${allImages.map((img, idx) => `
+                        <div class="photo-slide ${idx === 0 ? 'active' : ''}" data-index="${idx}">
+                            <img src="${img}" alt="${venue.name} 照片 ${idx + 1}" onclick="openPhotoViewer(${idx})">
+                        </div>
+                    `).join('')}
+                </div>
+                ${allImages.length > 1 ? `
+                    <div class="photo-nav">
+                        <button class="photo-nav-btn" onclick="prevPhoto()">‹</button>
+                        <span class="photo-counter"><span id="currentPhoto">1</span> / ${allImages.length}</span>
+                        <button class="photo-nav-btn" onclick="nextPhoto()">›</button>
+                    </div>
+                    <div class="photo-thumbnails">
+                        ${allImages.map((img, idx) => `
+                            <div class="photo-thumb ${idx === 0 ? 'active' : ''}" onclick="goToPhoto(${idx})">
+                                <img src="${img}" alt="縮圖 ${idx + 1}">
+                            </div>
+                        `).join('')}
+                    </div>
+                ` : ''}
+                ${floorPlan ? `
+                    <div class="floor-plan-section">
+                        <h4>📐 場地平面圖</h4>
+                        <img src="${floorPlan}" alt="場地平面圖" class="floor-plan-img">
+                    </div>
+                ` : ''}
+            </div>
+        ` : ''}
+
         <div class="venue-detail-section">
             <h3>基本資訊</h3>
             <div class="venue-detail-grid">
@@ -529,3 +569,44 @@ document.addEventListener('keydown', (e) => {
         closeCompareModal();
     }
 });
+
+// ===== 照片畫廊功能 =====
+let currentPhotoIndex = 0;
+let totalPhotos = 0;
+
+function prevPhoto() {
+    if (totalPhotos <= 1) return;
+    currentPhotoIndex = (currentPhotoIndex - 1 + totalPhotos) % totalPhotos;
+    updatePhotoGallery();
+}
+
+function nextPhoto() {
+    if (totalPhotos <= 1) return;
+    currentPhotoIndex = (currentPhotoIndex + 1) % totalPhotos;
+    updatePhotoGallery();
+}
+
+function goToPhoto(index) {
+    currentPhotoIndex = index;
+    updatePhotoGallery();
+}
+
+function updatePhotoGallery() {
+    // 更新幻燈片
+    document.querySelectorAll('.photo-slide').forEach((slide, idx) => {
+        slide.classList.toggle('active', idx === currentPhotoIndex);
+    });
+    // 更新縮圖
+    document.querySelectorAll('.photo-thumb').forEach((thumb, idx) => {
+        thumb.classList.toggle('active', idx === currentPhotoIndex);
+    });
+    // 更新計數器
+    const counter = document.getElementById('currentPhoto');
+    if (counter) counter.textContent = currentPhotoIndex + 1;
+}
+
+function openPhotoViewer(index) {
+    currentPhotoIndex = index;
+    updatePhotoGallery();
+    // 可以擴展為全螢幕檢視器
+}
