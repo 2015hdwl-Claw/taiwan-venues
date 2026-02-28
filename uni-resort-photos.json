@@ -1,0 +1,16 @@
+[
+  {
+    "venueName": "統一渡假村-墾丁",
+    "url": "https://www.kenting-resort.com",
+    "error": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.kenting-resort.com/\nCall log:\n  - navigating to \"https://www.kenting-resort.com/\", waiting until \"domcontentloaded\"\n",
+    "photos": [],
+    "crawledAt": "2026-02-28T22:08:00.021Z"
+  },
+  {
+    "venueName": "台北統一大飯店",
+    "url": "https://www.tongyi-hotel.com",
+    "error": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.tongyi-hotel.com/\nCall log:\n  - navigating to \"https://www.tongyi-hotel.com/\", waiting until \"domcontentloaded\"\n",
+    "photos": [],
+    "crawledAt": "2026-02-28T22:08:01.452Z"
+  }
+]
