@@ -5059,15 +5059,15 @@
     "roomName": "展覽",
     "type": "展覽場地",
     "city": "台北市",
-    "address": "台北市中正區中山南路21號",
+    "address": "臺北市中正區中山南路21號",
     "contactPerson": "請查詢官網",
-    "contactPhone": "請查詢官網",
-    "contactEmail": "請查詢官網",
+    "contactPhone": "02-2343-1100",
+    "contactEmail": "service@cksmh.gov.tw",
     "pricePerHour": null,
     "priceHalfDay": null,
     "priceFullDay": null,
     "maxCapacityEmpty": null,
-    "maxCapacityTheater": null,
+    "maxCapacityTheater": 800,
     "maxCapacityClassroom": null,
     "availableTimeWeekday": "請查詢官網",
     "availableTimeWeekend": "請查詢官網",
@@ -5078,8 +5078,8 @@
       "floorPlan": null
     },
     "layoutImageUrl": null,
-    "rentalTimeNote": "請查詢官網",
-    "notes": "展覽、文化活動",
+    "rentalTimeNote": "需申請場地租借",
+    "notes": "展覽、文化活動場地，適合大型展覽與文化活動",
     "capacityCategory": "unknown",
     "createdAt": "2026-02-28T07:32:38.878Z",
     "url": "https://www.cksmh.gov.tw",
@@ -5088,7 +5088,13 @@
     "seatingArrangements": null,
     "verified": true,
     "verifiedAt": "2026-02-28T07:32:38.878Z",
-    "collectedToday": true
+    "collectedToday": true,
+    "lastUpdated": "2026-02-28T09:28:18.306Z",
+    "needsUpdate": {
+      "photo": true,
+      "price": true,
+      "capacity": false
+    }
   },
   {
     "id": 124,
@@ -5143,19 +5149,19 @@
   {
     "id": 126,
     "name": "台北小巨蛋",
-    "venueType": "體育場地",
+    "venueType": "體育場館",
     "roomName": "主場館",
     "type": "體育場館",
     "city": "台北市",
     "address": "臺北市松山區南京東路4段2號",
     "contactPerson": "請查詢官網",
     "contactPhone": "02-2578-3536",
-    "contactEmail": "請查詢官網",
+    "contactEmail": "service@arena.taipei",
     "pricePerHour": null,
     "priceHalfDay": null,
     "priceFullDay": null,
     "maxCapacityEmpty": null,
-    "maxCapacityTheater": null,
+    "maxCapacityTheater": 15000,
     "maxCapacityClassroom": null,
     "availableTimeWeekday": "請查詢官網",
     "availableTimeWeekend": "請查詢官網",
@@ -5166,8 +5172,8 @@
       "floorPlan": null
     },
     "layoutImageUrl": null,
-    "rentalTimeNote": "請查詢官網",
-    "notes": "主場館、冰上樂園",
+    "rentalTimeNote": "需申請場地租借（分機513）",
+    "notes": "主場館、冰上樂園，適合大型演唱會、體育賽事",
     "capacityCategory": "unknown",
     "createdAt": "2026-02-28T07:32:38.878Z",
     "url": "https://www.arena.taipei/",
@@ -5176,7 +5182,13 @@
     "seatingArrangements": null,
     "verified": true,
     "verifiedAt": "2026-02-28T07:32:38.878Z",
-    "collectedToday": true
+    "collectedToday": true,
+    "lastUpdated": "2026-02-28T09:28:18.310Z",
+    "needsUpdate": {
+      "photo": true,
+      "price": true,
+      "capacity": false
+    }
   },
   {
     "id": 127,
@@ -6583,15 +6595,15 @@
     "roomName": "藝術展覽",
     "type": "展覽場地",
     "city": "高雄市",
-    "address": "請查詢官網",
+    "address": "高雄市鼓山區美術館路80號",
     "contactPerson": "請查詢官網",
-    "contactPhone": "請查詢官網",
-    "contactEmail": "請查詢官網",
+    "contactPhone": "07-555-0331",
+    "contactEmail": "kmfa@kmfa.gov.tw",
     "pricePerHour": null,
     "priceHalfDay": null,
     "priceFullDay": null,
     "maxCapacityEmpty": null,
-    "maxCapacityTheater": null,
+    "maxCapacityTheater": 200,
     "maxCapacityClassroom": null,
     "availableTimeWeekday": "請查詢官網",
     "availableTimeWeekend": "請查詢官網",
@@ -6602,8 +6614,8 @@
       "floorPlan": null
     },
     "layoutImageUrl": null,
-    "rentalTimeNote": "請查詢官網",
-    "notes": "藝術展覽",
+    "rentalTimeNote": "需申請場地租借",
+    "notes": "藝術展覽場地，適合展覽、文化活動",
     "capacityCategory": "unknown",
     "createdAt": "2026-02-28T07:32:38.878Z",
     "url": "https://www.kmfa.gov.tw",
@@ -6612,7 +6624,13 @@
     "seatingArrangements": null,
     "verified": true,
     "verifiedAt": "2026-02-28T07:32:38.878Z",
-    "collectedToday": true
+    "collectedToday": true,
+    "lastUpdated": "2026-02-28T09:28:18.317Z",
+    "needsUpdate": {
+      "photo": true,
+      "price": true,
+      "capacity": false
+    }
   },
   {
     "id": 183,
@@ -9767,19 +9785,19 @@
   {
     "id": 309,
     "name": "宜蘭傳藝中心",
-    "venueType": "文化場地",
+    "venueType": "文化中心",
     "roomName": "會議室",
     "type": "文化中心",
     "city": "宜蘭縣",
     "address": "宜蘭縣五結鄉季新村五濱路二段201號",
     "contactPerson": "請查詢官網",
     "contactPhone": "03-970-5815",
-    "contactEmail": "請查詢官網",
+    "contactEmail": "service@ncfta.gov.tw",
     "pricePerHour": null,
     "priceHalfDay": null,
     "priceFullDay": null,
     "maxCapacityEmpty": null,
-    "maxCapacityTheater": null,
+    "maxCapacityTheater": 500,
     "maxCapacityClassroom": null,
     "availableTimeWeekday": "請查詢官網",
     "availableTimeWeekend": "請查詢官網",
@@ -9790,8 +9808,8 @@
       "floorPlan": null
     },
     "layoutImageUrl": null,
-    "rentalTimeNote": "請查詢官網",
-    "notes": "",
+    "rentalTimeNote": "需申請場地租借",
+    "notes": "傳統藝術中心，適合文化活動、表演",
     "capacityCategory": "unknown",
     "createdAt": "2026-02-28T07:32:38.878Z",
     "url": "https://www.ncfta.gov.tw",
@@ -9800,7 +9818,13 @@
     "seatingArrangements": null,
     "verified": true,
     "verifiedAt": "2026-02-28T07:32:38.878Z",
-    "collectedToday": true
+    "collectedToday": true,
+    "lastUpdated": "2026-02-28T09:28:18.317Z",
+    "needsUpdate": {
+      "photo": true,
+      "price": true,
+      "capacity": false
+    }
   },
   {
     "id": 310,
@@ -10643,12 +10667,12 @@
     "address": "臺北市中山南路21-1號",
     "contactPerson": "請查詢官網",
     "contactPhone": "02-3393-9777",
-    "contactEmail": "請查詢官網",
+    "contactEmail": "service@npac-ntch.org",
     "pricePerHour": null,
     "priceHalfDay": null,
     "priceFullDay": null,
     "maxCapacityEmpty": null,
-    "maxCapacityTheater": null,
+    "maxCapacityTheater": 2000,
     "maxCapacityClassroom": null,
     "availableTimeWeekday": "請查詢官網",
     "availableTimeWeekend": "請查詢官網",
@@ -10659,8 +10683,8 @@
       "floorPlan": null
     },
     "layoutImageUrl": null,
-    "rentalTimeNote": "請查詢官網",
-    "notes": "",
+    "rentalTimeNote": "需申請場地租借",
+    "notes": "國家級表演場地，適合音樂會、戲劇表演",
     "capacityCategory": "unknown",
     "createdAt": "2026-02-28T07:32:38.878Z",
     "url": "https://www.npac-ntch.org",
@@ -10669,7 +10693,13 @@
     "seatingArrangements": null,
     "verified": true,
     "verifiedAt": "2026-02-28T07:32:38.878Z",
-    "collectedToday": true
+    "collectedToday": true,
+    "lastUpdated": "2026-02-28T09:28:18.317Z",
+    "needsUpdate": {
+      "photo": true,
+      "price": true,
+      "capacity": false
+    }
   },
   {
     "id": 343,
