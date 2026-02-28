@@ -20,8 +20,19 @@
     "availableTimeWeekend": "09:00-22:00",
     "equipment": "基本燈光、空調、電力供應",
     "images": {
-      "main": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Huashan_1914_Creative_Park_2020.jpg",
-      "gallery": [],
+      "main": "https://media.huashan1914.com/WebUPD/huashan1914/Index/%E6%89%BE%E6%B4%BB%E5%8B%95(1).png",
+      "gallery": [
+        "https://media.huashan1914.com/WebUPD/huashan1914/Index/%E6%89%BE%E6%B4%BB%E5%8B%95(1).png",
+        "https://media.huashan1914.com/WebUPD/huashan1914/Index/20210810_%E5%AE%98%E7%B6%B2%E6%8F%9B%E5%9C%96-08.png",
+        "https://media.huashan1914.com/WebUPD/huashan1914/Index/720%E7%9C%8B%E8%A6%8B%E8%8F%AF%E5%B1%B1.png",
+        "https://media.huashan1914.com/WebUPD/huashan1914/Index/%E7%B7%9A%E4%B8%8A%E5%AE%A2%E6%9C%8D.png",
+        "https://media.huashan1914.com/WebUPD/huashan1914/Index/%E5%B8%B8%E8%A6%8B%E5%95%8F%E9%A1%8C2_23011910283762374.png",
+        "https://media.huashan1914.com/WebUPD/huashan1914/exhibition/%E3%83%88%E3%83%83%E3%83%95%E3%82%9A%E7%94%BB%E5%83%8F-0531.png",
+        "https://media.huashan1914.com/WebUPD/umaytheater/performance/%E8%8F%AF%E5%B1%B1%E9%A3%9B%E7%BE%BD_2026%E8%AA%B2%E7%B6%B1_1080x1080_251215_%E6%9C%80%E6%96%B0%E7%89%88_25122917264771113.jpg",
+        "https://media.huashan1914.com/WebUPD/umaytheater/performance/%E8%8F%AF%E5%B1%B1%E9%A3%9B%E7%BE%BD_2026%E8%AA%B2%E7%B6%B1_1080x1080_251215_%E6%9C%80%E6%96%B0%E7%89%88_25122917264771113.jpg",
+        "https://media.huashan1914.com/WebUPD/huashan1914/Index/Huashan-1914-Creative-Park(1).jpg",
+        "https://media.huashan1914.com/WebUPD/huashan1914/Index/read-01.jpg"
+      ],
       "floorPlan": null
     },
     "url": "https://www.huashan1914.com",
@@ -71,8 +82,14 @@
     "availableTimeWeekend": "依申請",
     "equipment": "基本桌椅/投影",
     "images": {
-      "main": "https://images.unsplash.com/photo-1497215842964-222b430dc094?w=800",
-      "gallery": [],
+      "main": "https://www-ws.gov.taipei/001/Upload/297/relpic/10125/9527664/9a76b932-59a5-40e1-bf40-44da2e918ef2.jpg",
+      "gallery": [
+        "https://www-ws.gov.taipei/001/Upload/297/relpic/10125/9527664/9a76b932-59a5-40e1-bf40-44da2e918ef2.jpg",
+        "https://www-ws.gov.taipei/001/Upload/297/relpic/31359/9527666/4e9ea859-c221-41ce-93a6-f4e4bd0bde12.jpg",
+        "https://www-ws.gov.taipei/001/Upload/297/relpic/31359/8251795/ff3bfd16-0a72-4821-a2e9-68feab6e71c0.jpg",
+        "https://www-ws.gov.taipei/001/Upload/297/relpic/31359/7918153/78d9044c-e187-4400-a39f-e14d6b750851.jpg",
+        "https://www-ws.gov.taipei/001/Upload/297/relpic/10162/9544815/c41a4ae1-b108-4704-8841-9c6779aaf0af@710x470.jpg"
+      ],
       "floorPlan": null
     },
     "layoutImageUrl": null,
@@ -131,8 +148,14 @@
     "availableTimeWeekend": "依申請",
     "equipment": "投影機/白板",
     "images": {
-      "main": "https://images.unsplash.com/photo-1497366811353-6870744d04b2?w=800",
-      "gallery": [],
+      "main": "https://www-ws.gov.taipei/001/Upload/297/relpic/10125/9527664/9a76b932-59a5-40e1-bf40-44da2e918ef2.jpg",
+      "gallery": [
+        "https://www-ws.gov.taipei/001/Upload/297/relpic/10125/9527664/9a76b932-59a5-40e1-bf40-44da2e918ef2.jpg",
+        "https://www-ws.gov.taipei/001/Upload/297/relpic/31359/9527666/4e9ea859-c221-41ce-93a6-f4e4bd0bde12.jpg",
+        "https://www-ws.gov.taipei/001/Upload/297/relpic/31359/8251795/ff3bfd16-0a72-4821-a2e9-68feab6e71c0.jpg",
+        "https://www-ws.gov.taipei/001/Upload/297/relpic/31359/7918153/78d9044c-e187-4400-a39f-e14d6b750851.jpg",
+        "https://www-ws.gov.taipei/001/Upload/297/relpic/10162/9544815/c41a4ae1-b108-4704-8841-9c6779aaf0af@710x470.jpg"
+      ],
       "floorPlan": null
     },
     "layoutImageUrl": null,
@@ -189,8 +212,14 @@
     "availableTimeWeekend": "依申請",
     "equipment": "投影機/麥克風/白板",
     "images": {
-      "main": "https://images.unsplash.com/photo-1497366811353-6870744d04b2?w=800",
-      "gallery": [],
+      "main": "https://www-ws.gov.taipei/001/Upload/297/relpic/10125/9527664/9a76b932-59a5-40e1-bf40-44da2e918ef2.jpg",
+      "gallery": [
+        "https://www-ws.gov.taipei/001/Upload/297/relpic/10125/9527664/9a76b932-59a5-40e1-bf40-44da2e918ef2.jpg",
+        "https://www-ws.gov.taipei/001/Upload/297/relpic/31359/9527666/4e9ea859-c221-41ce-93a6-f4e4bd0bde12.jpg",
+        "https://www-ws.gov.taipei/001/Upload/297/relpic/31359/8251795/ff3bfd16-0a72-4821-a2e9-68feab6e71c0.jpg",
+        "https://www-ws.gov.taipei/001/Upload/297/relpic/31359/7918153/78d9044c-e187-4400-a39f-e14d6b750851.jpg",
+        "https://www-ws.gov.taipei/001/Upload/297/relpic/10162/9544815/c41a4ae1-b108-4704-8841-9c6779aaf0af@710x470.jpg"
+      ],
       "floorPlan": null
     },
     "layoutImageUrl": null,
@@ -246,8 +275,14 @@
     "availableTimeWeekend": "依申請",
     "equipment": "桌椅/投影",
     "images": {
-      "main": "https://images.unsplash.com/photo-1497366811353-6870744d04b2?w=800",
-      "gallery": [],
+      "main": "https://www-ws.gov.taipei/001/Upload/297/relpic/10125/9527664/9a76b932-59a5-40e1-bf40-44da2e918ef2.jpg",
+      "gallery": [
+        "https://www-ws.gov.taipei/001/Upload/297/relpic/10125/9527664/9a76b932-59a5-40e1-bf40-44da2e918ef2.jpg",
+        "https://www-ws.gov.taipei/001/Upload/297/relpic/31359/9527666/4e9ea859-c221-41ce-93a6-f4e4bd0bde12.jpg",
+        "https://www-ws.gov.taipei/001/Upload/297/relpic/31359/8251795/ff3bfd16-0a72-4821-a2e9-68feab6e71c0.jpg",
+        "https://www-ws.gov.taipei/001/Upload/297/relpic/31359/7918153/78d9044c-e187-4400-a39f-e14d6b750851.jpg",
+        "https://www-ws.gov.taipei/001/Upload/297/relpic/10162/9544815/c41a4ae1-b108-4704-8841-9c6779aaf0af@710x470.jpg"
+      ],
       "floorPlan": null
     },
     "layoutImageUrl": null,
@@ -312,8 +347,19 @@
     "availableTimeWeekend": "依申請",
     "equipment": "基本舞台/音響",
     "images": {
-      "main": "https://images.unsplash.com/photo-1497366811353-6870744d04b2?w=800",
-      "gallery": [],
+      "main": "https://www.ntpc.gov.tw/ch/images/layout/QRCODE-WEB.png",
+      "gallery": [
+        "https://www.ntpc.gov.tw/ch/images/layout/QRCODE-WEB.png",
+        "https://www.ntpc.gov.tw/ch/images/layout/QRCODE-MAP.png",
+        "https://www.ntpc.gov.tw/ch/images/layout/QRCODE-LINE.png",
+        "https://www.ntpc.gov.tw/ch/images/banner/banner02.jpg",
+        "https://www.ntpc.gov.tw/ch/images/index/mayor.png",
+        "https://www.ntpc.gov.tw/uploaddowndoc?file=newsimg/202602272155051.jpg&filedisplay=2U1A6999_0.jpg&flag=pic",
+        "https://www.ntpc.gov.tw/uploaddowndoc?file=newsimg/202602262034381.jpg&filedisplay=S__45359238.jpg&flag=pic",
+        "https://www.ntpc.gov.tw/uploaddowndoc?file=newsimg/202602261605311.jpg&filedisplay=2U1A6383-2.jpg&flag=pic",
+        "https://www.ntpc.gov.tw/ch/images/index/mayor.png",
+        "https://www.ntpc.gov.tw/ch/images/index/topic_more.svg"
+      ],
       "floorPlan": null
     },
     "layoutImageUrl": null,
@@ -854,12 +900,9 @@
     "availableTimeWeekend": "09:00-22:00",
     "equipment": "專業影音、同步翻譯、視訊會議",
     "images": {
-      "main": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=800",
+      "main": "https://westin.marriott.com/wp-content/themes/marriott-master/assets/img/brandbar/devices.png",
       "gallery": [
-        "https://www.westin.com/\\/\\/cache.marriott.com\\/content\\/dam\\/marriott-renditions\\/YULLE\\/yulle-exterior-0246-hor-feat.jpg",
-        "https://www.westin.com/\\/\\/cache.marriott.com\\/marriottassets\\/marriott\\/WI\\/wi-main-003-hor-feat.jpg",
-        "https://www.westin.com/\\/\\/cache.marriott.com\\/content\\/dam\\/marriott-renditions\\/HNLWI\\/hnlwi-cochere-1995-hor-feat.jpg",
-        "https://www.westin.com/\\/\\/cache.marriott.com\\/marriottassets\\/marriott\\/WI\\/wi-main-002-hor-feat.jpg"
+        "https://westin.marriott.com/wp-content/themes/marriott-master/assets/img/brandbar/devices.png"
       ],
       "floorPlan": null
     },
@@ -1000,7 +1043,19 @@
     "availableTimeWeekend": "09:00-18:00",
     "equipment": "基本燈光、空調",
     "images": {
-      "main": "https://images.unsplash.com/photo-1499364615650-ec38552f4f34?w=800"
+      "main": "https://www.435.culture.ntpc.gov.tw/files/file_pool/1/0i191586289963383289/435%e5%85%a7%e9%a0%81.png",
+      "gallery": [
+        "https://www.435.culture.ntpc.gov.tw/files/file_pool/1/0i191586289963383289/435%e5%85%a7%e9%a0%81.png",
+        "https://www.435.culture.ntpc.gov.tw/files/file_pool/1/0m210596125855560569/2-02.png",
+        "https://www.435.culture.ntpc.gov.tw/files/file_pool/1/0j003411024010107466/2-02.png",
+        "https://www.435.culture.ntpc.gov.tw/files/file_pool/1/0m210595958860458073/02-02.png",
+        "https://www.435.culture.ntpc.gov.tw/files/file_pool/1/0m210596125855560569/2-02.png",
+        "https://www.435.culture.ntpc.gov.tw/files/file_pool/1/0j003411024010107466/2-02.png",
+        "https://www.435.culture.ntpc.gov.tw/files/file_pool/1/0k196419334036260424/index_title2-10.png",
+        "https://www.435.culture.ntpc.gov.tw/files/file_pool/1/0g291004977310574743/index_title2.png",
+        "https://www.435.culture.ntpc.gov.tw/files/file_pool/1/0q035429258925882531/%e6%96%bd%e5%b7%a5%e5%ae%98%e7%b6%b2%e5%85%ac%e5%91%8a1150204-02-02.png",
+        "https://www.435.culture.ntpc.gov.tw/files/atts/0Q044354246623943587/layout/images/index_news_list_thum_img.png"
+      ]
     },
     "url": "https://www.435.culture.ntpc.gov.tw/",
     "verified": true,
@@ -1029,8 +1084,19 @@
     "availableTimeWeekend": "09:00-22:00",
     "equipment": "專業影音設備、燈光系統",
     "images": {
-      "main": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=800",
-      "gallery": [],
+      "main": "https://www.fullon-hotels.com.tw/upload/banner_list/fw_twL_banner_20E08_3p5n543ja8.jpg",
+      "gallery": [
+        "https://www.fullon-hotels.com.tw/upload/banner_list/fw_twL_banner_20E08_3p5n543ja8.jpg",
+        "https://www.fullon-hotels.com.tw/upload/banner_list_txt/fw_twL_banner_20E08_8feyduquxt.png",
+        "https://www.fullon-hotels.com.tw/upload/news_list_pic/fw_twL_news_25K09_nczv6ksmnr.jpg",
+        "https://www.fullon-hotels.com.tw/upload/news_list_pic/fw_twL_news_25L13_te8puhs5ya.png",
+        "https://www.fullon-hotels.com.tw/upload/news_list_pic/fw_twL_news_25H22_vedxszputb.jpg",
+        "https://www.fullon-hotels.com.tw/upload/news_list_pic/fw_twL_news_25L13_9na6zakzng.png",
+        "https://www.fullon-hotels.com.tw/upload/news_list_pic/fw_twL_news_26B23_aus9vxj7s3.jpg",
+        "https://www.fullon-hotels.com.tw/upload/news_list_pic/fw_twL_news_25J25_i3etvtrs2i.PNG",
+        "https://www.fullon-hotels.com.tw/upload/news_list_pic/fw_twL_news_25K12_7z52j78e2g.png",
+        "https://www.fullon-hotels.com.tw/upload/news_list_pic/fw_twL_news_25J19_sx3ddwnkrt.png"
+      ],
       "floorPlan": null
     },
     "layoutImageUrl": null,
@@ -1362,7 +1428,10 @@
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "專業音響燈光、LED螢幕",
     "images": {
-      "main": "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?w=800"
+      "main": "https://www.millenniumhotels.com/mhb-media/regions/home/programmes/my-millenium/sign-up-banner.jpg?rev=1c1dfa3f1d084a11a242e129c65c39e1",
+      "gallery": [
+        "https://www.millenniumhotels.com/mhb-media/regions/home/programmes/my-millenium/sign-up-banner.jpg?rev=1c1dfa3f1d084a11a242e129c65c39e1"
+      ]
     },
     "url": "https://www.millenniumhotels.com/taichung",
     "verified": true,
@@ -1389,8 +1458,19 @@
     "availableTimeWeekend": "09:00-22:00",
     "equipment": "頂級影音、舞台燈光、LED大螢幕",
     "images": {
-      "main": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800",
-      "gallery": [],
+      "main": "https://static.wixstatic.com/media/ecb10c_b80d081029cc40fca1f97b56fe71077d~mv2.jpg/v1/fill/w_1280,h_915,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/ecb10c_b80d081029cc40fca1f97b56fe71077d~mv2.jpg",
+      "gallery": [
+        "https://static.wixstatic.com/media/ecb10c_b80d081029cc40fca1f97b56fe71077d~mv2.jpg/v1/fill/w_1280,h_915,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/ecb10c_b80d081029cc40fca1f97b56fe71077d~mv2.jpg",
+        "https://static.wixstatic.com/media/644979_7ed756eada00436aaa6aa8790b7ed0dd~mv2.jpg/v1/fill/w_641,h_652,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/644979_7ed756eada00436aaa6aa8790b7ed0dd~mv2.jpg",
+        "https://static.wixstatic.com/media/644979_1d56b0eb17b5409abbb21f60ed718bbc~mv2.jpg/v1/fill/w_122,h_64,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/644979_1d56b0eb17b5409abbb21f60ed718bbc~mv2.jpg",
+        "https://static.wixstatic.com/media/0b7d63_dc53350d5bec4e0c9843e08e3bd06a33~mv2.jpg/v1/fill/w_164,h_102,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/0b7d63_dc53350d5bec4e0c9843e08e3bd06a33~mv2.jpg",
+        "https://static.wixstatic.com/media/644979_8ea6d5290076417bad3f8ce536e75dee~mv2.jpg/v1/fill/w_122,h_53,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/644979_8ea6d5290076417bad3f8ce536e75dee~mv2.jpg",
+        "https://static.wixstatic.com/media/644979_93f075027ddd41398095bdcba6a35296~mv2.jpg/v1/fill/w_86,h_122,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/644979_93f075027ddd41398095bdcba6a35296~mv2.jpg",
+        "https://static.wixstatic.com/media/644979_5da1f4d35d734d23bafb48f91d07b617~mv2.jpg/v1/fill/w_123,h_53,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/644979_5da1f4d35d734d23bafb48f91d07b617~mv2.jpg",
+        "https://static.wixstatic.com/media/a04810_12dd338947df4342a955873a2366a94d~mv2.jpg/v1/fill/w_158,h_102,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/a04810_12dd338947df4342a955873a2366a94d~mv2.jpg",
+        "https://static.wixstatic.com/media/9a267b_bce5a295b4b342bbaefbeb48cb5cc18c~mv2.jpg/v1/fill/w_122,h_82,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/9a267b_bce5a295b4b342bbaefbeb48cb5cc18c~mv2.jpg",
+        "https://static.wixstatic.com/media/644979_00d52842830d4335baf4b27bf28618d5~mv2.jpg/v1/fill/w_123,h_82,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/644979_00d52842830d4335baf4b27bf28618d5~mv2.jpg"
+      ],
       "floorPlan": null
     },
     "layoutImageUrl": null,
@@ -1522,8 +1602,10 @@
     "availableTimeWeekend": "依檔期",
     "equipment": "專業劇場設備",
     "images": {
-      "main": "https://upload.wikimedia.org/wikipedia/commons/5/5e/National_Taichung_Theater_20180903.jpg",
-      "gallery": [],
+      "main": "https://www.npac-ntt.org/dispUploadBox/PJ-HomeImage/20221227180008071FrfjMB.JPG",
+      "gallery": [
+        "https://www.npac-ntt.org/dispUploadBox/PJ-HomeImage/20221227180008071FrfjMB.JPG"
+      ],
       "floorPlan": null
     },
     "layoutImageUrl": null,
@@ -1585,7 +1667,19 @@
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "專業音響燈光、投影設備",
     "images": {
-      "main": "https://upload.wikimedia.org/wikipedia/commons/4/41/Shangri-La%27s_Far_Eastern_Plaza_Hotel_Tainan_20090906.jpg"
+      "main": "https://sitecore-cd-imgr.shangri-la.com/MediaFiles/C/2/4/%7BC24DEBF7-38A4-464A-8923-85E149309A25%7D2023%20advance%20purchase%201920X940.jpg?w=360&h=175&mode=crop&quality=100&scale=both",
+      "gallery": [
+        "https://sitecore-cd-imgr.shangri-la.com/MediaFiles/C/2/4/%7BC24DEBF7-38A4-464A-8923-85E149309A25%7D2023%20advance%20purchase%201920X940.jpg?w=360&h=175&mode=crop&quality=100&scale=both",
+        "https://sitecore-cd-imgr.shangri-la.com/MediaFiles/4/9/5/%7B4957E5AE-5F36-4D0E-B338-200AA1D7B105%7D2025%20Members%20Online%20Exclusive%20Rate%20with%20Breakfast%201180x535.jpg?w=360&h=175&mode=crop&quality=100&scale=both",
+        "https://sitecore-cd-imgr.shangri-la.com/MediaFiles/A/3/7/%7BA3718110-92A5-4714-9CD5-CACA1A3A416D%7D2025%20Members%20Online%20Exclusive%20Rate%201180x535.jpg?w=360&h=175&mode=crop&quality=100&scale=both",
+        "https://sitecore-cd-imgr.shangri-la.com/MediaFiles/D/F/3/%7BDF35B0C4-C6AC-4BB3-82C9-128807F14A38%7D1200X700-3.jpg?w=600&h=500&mode=crop&scale=both",
+        "https://sitecore-cd-imgr.shangri-la.com/MediaFiles/D/C/C/%7BDCC7D177-4E7D-4598-AF2A-708B8AAC9B38%7DShangri-La's%20Far%20Eastern%20Plaza%20Hotel%20Tainan%20-%20Deluxe%20Family%20Twin%20-%201381373.jpg",
+        "https://sitecore-cd-imgr.shangri-la.com/MediaFiles/F/2/5/%7BF259A181-4CE7-4A49-86E8-44F86D71C85A%7D1920.jpg",
+        "https://sitecore-cd-imgr.shangri-la.com/MediaFiles/0/7/5/%7B07553D37-5387-4C67-BAA1-278C1F49ED53%7D20201903_SLTN_%20Presidential%20Suite.jpg",
+        "https://sitecore-cd-imgr.shangri-la.com/MediaFiles/D/C/C/%7BDCC7D177-4E7D-4598-AF2A-708B8AAC9B38%7DShangri-La's%20Far%20Eastern%20Plaza%20Hotel%20Tainan%20-%20Deluxe%20Family%20Twin%20-%201381373.jpg",
+        "https://sitecore-cd-imgr.shangri-la.com/MediaFiles/D/C/C/%7BDCC7D177-4E7D-4598-AF2A-708B8AAC9B38%7DShangri-La's%20Far%20Eastern%20Plaza%20Hotel%20Tainan%20-%20Deluxe%20Family%20Twin%20-%201381373.jpg",
+        "https://sitecore-cd-imgr.shangri-la.com/MediaFiles/F/2/5/%7BF259A181-4CE7-4A49-86E8-44F86D71C85A%7D1920.jpg"
+      ]
     },
     "url": "https://www.shangri-la.com/tainan",
     "verified": true,
@@ -1612,8 +1706,19 @@
     "availableTimeWeekend": "依檔期",
     "equipment": "專業音響、投影設備",
     "images": {
-      "main": "https://images.unsplash.com/photo-1499364615650-ec38552f4f34?w=800",
-      "gallery": [],
+      "main": "https://www.chimeimuseum.org/images/index-banner-1.jpg",
+      "gallery": [
+        "https://www.chimeimuseum.org/images/index-banner-1.jpg",
+        "https://www.chimeimuseum.org/uploads/temporaryexhibitions/5fd33a9ea8763.jpg",
+        "https://www.chimeimuseum.org/uploads/temporaryexhibitions/6229ad0b7101e.jpg",
+        "https://www.chimeimuseum.org/uploads/temporaryexhibitions/5fd33973b14f3.jpg",
+        "https://www.chimeimuseum.org/uploads/events/694e20ec48423.jpg",
+        "https://www.chimeimuseum.org/uploads/events/691aeff072271.jpg",
+        "https://www.chimeimuseum.org/uploads/specialexhibitions/68ee105e546c3.jpg",
+        "https://www.chimeimuseum.org/uploads/events/62036176abc2a.jpg",
+        "https://www.chimeimuseum.org/uploads/temporaryexhibitions/604f0523c6079.jpg",
+        "https://www.chimeimuseum.org/uploads/temporaryexhibitions/5fd33a9ea8763.jpg"
+      ],
       "floorPlan": null
     },
     "layoutImageUrl": null,
@@ -1766,8 +1871,12 @@
     "availableTimeWeekend": "09:00-18:00",
     "equipment": "專業展覽設備、空調、電力",
     "images": {
-      "main": "https://upload.wikimedia.org/wikipedia/commons/b/bc/%E9%AB%98%E9%9B%84%E5%B1%95%E8%A6%BD%E9%A4%A8.JPG",
-      "gallery": [],
+      "main": "https://www.kecc.com.tw/img/KEC-inside-blued.3c114d1e.jpg",
+      "gallery": [
+        "https://www.kecc.com.tw/img/KEC-inside-blued.3c114d1e.jpg",
+        "https://www.kecc.com.tw/project/kecc/common/uploads/30/1140522_%E9%A2%A8%E9%9B%BB%E5%B1%95_KV_1920x450.jpg",
+        "https://www.kecc.com.tw/project/kecc/common/uploads/30/2026%E6%BB%BF%E6%84%8F%E5%BA%A6%E5%95%8F%E5%8D%B7_%E5%AE%98%E7%B6%B2BANNER_1920450.png"
+      ],
       "floorPlan": null
     },
     "url": "https://www.kecc.com.tw",
@@ -1816,8 +1925,19 @@
     "availableTimeWeekend": "09:00-22:00",
     "equipment": "專業影音、燈光系統",
     "images": {
-      "main": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800",
-      "gallery": [],
+      "main": "https://www.edaroyal.com.tw/upload/home_hotnews_b/ALL_home_hotnews_26B23_f3e44cQNWX.jpg",
+      "gallery": [
+        "https://www.edaroyal.com.tw/upload/home_hotnews_b/ALL_home_hotnews_26B23_f3e44cQNWX.jpg",
+        "https://www.edaroyal.com.tw/upload/banner_list/twL_banner_22K29_RzEFk9NBjm.jpg",
+        "https://www.edaroyal.com.tw/upload/news_list_pic/twL_news_26A29_uizOaccwfD.jpg",
+        "https://www.edaroyal.com.tw/upload/news_list_pic/twL_news_25L10_8PiXwBwX1B.jpg",
+        "https://www.edaroyal.com.tw/upload/news_list_pic/twL_news_26B13_GknAQK0hew.jpg",
+        "https://www.edaroyal.com.tw/upload/news_list_pic/twL_news_25K19_IV8OQVOfwF.jpg",
+        "https://www.edaroyal.com.tw/upload/news_list_pic/twL_news_25K20_7195RgMzuv.jpg",
+        "https://www.edaroyal.com.tw/upload/news_list_pic/twL_news_25L10_8PiXwBwX1B.jpg",
+        "https://www.edaroyal.com.tw/upload/news_list_pic/twL_news_26B13_GknAQK0hew.jpg",
+        "https://www.edaroyal.com.tw/upload/news_list_pic/twL_news_25K19_IV8OQVOfwF.jpg"
+      ],
       "floorPlan": null
     },
     "layoutImageUrl": null,
@@ -1946,7 +2066,19 @@
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "專業音響、投影設備",
     "images": {
-      "main": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=800"
+      "main": "https://www.ambassador-hotels.com/images/images/taipei/hotel/Ambassador-Hotel-Taipei-Exterior-Evening.jpg",
+      "gallery": [
+        "https://www.ambassador-hotels.com/images/images/taipei/hotel/Ambassador-Hotel-Taipei-Exterior-Evening.jpg",
+        "https://www.ambassador-hotels.com/images/images/hsinchu/dining/promenade/Ambassador-Hotel-Hsinchu-Promenade-Restaurant.jpg",
+        "https://www.ambassador-hotels.com/images/images/kaohsiung/hotel/Ambassador-Hotel-Kaohsiung-On-Banks-of-Love-River.jpg",
+        "https://www.ambassador-hotels.com/images/files/hsinchu/%E5%AE%B4%E6%9C%83%E5%BB%B3-%E5%96%9C%E5%AE%B4%E5%B0%88%E6%A1%88_%E5%AE%98%E7%B6%B2%2B%E5%B0%8F%E5%9C%96_%E5%B7%A5%E4%BD%9C%E5%8D%80%E5%9F%9F%201%20%E8%A4%87%E6%9C%AC%202_0.jpg",
+        "https://www.ambassador-hotels.com/images/files/hsinchu/events/2025-2026%20%E5%B0%BE%E7%89%99%E6%98%A5%E9%85%92%E5%B0%88%E6%A1%88/Holiday%20Presenting.jpg",
+        "https://www.ambassador-hotels.com/images/files/hsinchu/dining/ASHABU/%E5%AE%98%E7%B6%B2%E7%94%A8%E7%85%A7%E7%89%87/1920X1280%20(4).jpg",
+        "https://www.ambassador-hotels.com/images/files/hsinchu/dining/A%20CUT/2026%20semi%20buffet%20%E8%8F%9C%E5%96%AE/SEMI%20BUFFET-%E5%AE%A3%E5%82%B3%E5%9C%96%E5%8A%A0%E5%AD%97-02.jpg",
+        "https://www.ambassador-hotels.com/images/files/hsinchu/Room/Chinese%20website/OEKBNX0-1920.jpg",
+        "https://www.ambassador-hotels.com/images/files/hsinchu/events/2025-2026%20%E5%B0%BE%E7%89%99%E6%98%A5%E9%85%92%E5%B0%88%E6%A1%88/%E5%AE%B4%E6%9C%83%E5%BB%B3-2026%E5%B9%B4%E6%98%A5%E9%85%92%E5%B0%88%E6%A1%88-%E5%AE%98%E7%B6%B2%E5%B0%8F%E5%9C%96.jpg",
+        "https://www.ambassador-hotels.com/images/files/hsinchu/events/%E6%9C%83%E8%AD%B0%E5%B0%88%E6%A1%88-2026/2026_02%E5%AE%B4%E6%9C%83%E5%BB%B3-%E6%9C%83%E8%AD%B00%E5%A0%B4%E7%A7%9F%E5%B0%88%E6%A1%88-%E5%AE%98%E7%B6%B2-01.jpg"
+      ]
     },
     "url": "https://www.ambassador-hotels.com/tc/hsinchu/events/packages/venue-rental#ping",
     "verified": true,
@@ -2037,8 +2169,19 @@
     "availableTimeWeekend": "09:00-22:00",
     "equipment": "專業影音設備、燈光系統",
     "images": {
-      "main": "https://images.unsplash.com/photo-1582719508461-905c673771fd?w=800",
-      "gallery": [],
+      "main": "https://hsinchu.lakeshore.com.tw/wp-content/uploads/sites/12/2019/05/%E7%85%99%E6%B3%A2%E5%A4%A7%E9%A3%AF%E5%BA%97_%E6%A8%99%E8%AA%8C_%E6%A9%AB%E5%BC%8F%E4%B8%AD%E6%96%87-%E6%96%B0%E7%AB%B9%E6%B9%96%E6%BF%B1%E9%A4%A8-1.png",
+      "gallery": [
+        "https://hsinchu.lakeshore.com.tw/wp-content/uploads/sites/12/2019/05/%E7%85%99%E6%B3%A2%E5%A4%A7%E9%A3%AF%E5%BA%97_%E6%A8%99%E8%AA%8C_%E6%A9%AB%E5%BC%8F%E4%B8%AD%E6%96%87-%E6%96%B0%E7%AB%B9%E6%B9%96%E6%BF%B1%E9%A4%A8-1.png",
+        "https://hsinchu.lakeshore.com.tw/wp-content/uploads/sites/12/2019/05/%E7%85%99%E6%B3%A2%E5%A4%A7%E9%A3%AF%E5%BA%97_%E6%A8%99%E8%AA%8C_%E6%A9%AB%E5%BC%8F%E4%B8%AD%E6%96%87-%E6%96%B0%E7%AB%B9%E6%B9%96%E6%BF%B1%E9%A4%A8-1.png",
+        "https://hsinchu.lakeshore.com.tw/wp-content/uploads/sites/12/2019/05/%E5%8F%8D%E7%99%BD%E7%85%99%E6%B3%A2%E5%A4%A7%E9%A3%AF%E5%BA%97_%E6%A8%99%E8%AA%8C_%E6%A9%AB%E5%BC%8F%E4%B8%AD%E6%96%87-%E6%96%B0%E7%AB%B9%E6%B9%96%E6%BF%B1%E9%A4%A8-1.png",
+        "https://hsinchu.lakeshore.com.tw/wp-content/uploads/sites/12/2025/09/20250409_YSF2334-450x300.jpg",
+        "https://hsinchu.lakeshore.com.tw/wp-content/uploads/sites/12/2025/09/20250409_YSF2334-450x300.jpg",
+        "https://hsinchu.lakeshore.com.tw/wp-content/uploads/sites/12/2025/09/%E6%B5%B7%E9%AE%AE%E9%A4%90%E6%AA%AF1-450x300.jpg",
+        "https://hsinchu.lakeshore.com.tw/wp-content/uploads/sites/12/2025/09/%E7%8F%BE%E5%88%87%E7%88%90%E7%83%A4%E6%A5%B5%E9%BB%91%E5%92%8C%E7%89%9B%E8%83%8C%E8%82%A9-450x300.jpg",
+        "https://hsinchu.lakeshore.com.tw/wp-content/uploads/sites/12/2025/09/IMG_1846-scaled.jpg",
+        "https://hsinchu.lakeshore.com.tw/wp-content/uploads/sites/12/2024/04/%E8%A3%81%E5%8F%B3%E9%82%8A%E5%AA%BD%E5%AA%BD-800x600.jpg",
+        "https://hsinchu.lakeshore.com.tw/wp-content/uploads/sites/12/2022/12/170921_14290.jpg"
+      ],
       "floorPlan": null
     },
     "layoutImageUrl": null,
@@ -2104,12 +2247,10 @@
     "availableTimeWeekend": "09:00-22:00",
     "equipment": "專業影音、LED螢幕、燈光系統",
     "images": {
-      "main": "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?w=800",
+      "main": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/6051814381001/05640682-9310-4adf-aa4c-b4727c07d302/03b58600-b1f7-4fca-b94c-4ce500c50bce/1280x720/match/image.jpg",
       "gallery": [
-        "https://www.sheraton.com/\\/\\/cache.marriott.com\\/content\\/dam\\/marriott-renditions\\/CLTWS\\/cltws-double-guestroom-4666-hor-feat.jpg",
-        "https://www.sheraton.com/\\/\\/cache.marriott.com\\/content\\/dam\\/marriott-renditions\\/BOSSI\\/bossi-courtyard-wedding-9879-hor-feat.jpg",
-        "https://www.sheraton.com/\\/\\/cache.marriott.com\\/content\\/dam\\/marriott-renditions\\/ABQSI\\/abqsi-king-room-0791-hor-feat.jpg",
-        "https://www.sheraton.com/wp-content/themes/sheraton/assets/img/sheraton.png"
+        "https://cf-images.us-east-1.prod.boltdns.net/v1/static/6051814381001/05640682-9310-4adf-aa4c-b4727c07d302/03b58600-b1f7-4fca-b94c-4ce500c50bce/1280x720/match/image.jpg",
+        "https://sheraton.marriott.com/wp-content/themes/marriott-master/assets/img/brandbar/devices.png"
       ],
       "floorPlan": null
     },
@@ -2174,8 +2315,19 @@
     "availableTimeWeekend": "09:00-21:00",
     "equipment": "專業音響、燈光、鋼琴",
     "images": {
-      "main": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800",
-      "gallery": [],
+      "main": "https://icmp-ws.chiayi.gov.tw/001/Upload/399/relpic/13593/924830/794eaf16-b080-4b42-9179-408cf6a4d86e@710x470.png",
+      "gallery": [
+        "https://icmp-ws.chiayi.gov.tw/001/Upload/399/relpic/13593/924830/794eaf16-b080-4b42-9179-408cf6a4d86e@710x470.png",
+        "https://icmp-ws.chiayi.gov.tw/001/Upload/399/relpic/13593/925944/050c286a-55d6-4704-8651-534431b0f6fc@710x470.png",
+        "https://icmp-ws.chiayi.gov.tw/001/Upload/399/relpic/8993/3416/305e0a9f-3144-41ef-a3bb-f2aca7c911fa.jpg",
+        "https://icmp-ws.chiayi.gov.tw/001/Upload/399/relpic/11613/930211/08c55187-e239-403b-8135-dc2e237a1bc7@710x470.jpg",
+        "https://icmp-ws.chiayi.gov.tw/001/Upload/399/relpic/9149/931012/de72f58e-405e-4a2e-b648-48d4bb561500@710x470.jpg",
+        "https://icmp-ws.chiayi.gov.tw/001/Upload/399/relpic/9149/930981/c63f9206-a1a7-4a07-b40e-df99411208f4@710x470.jpg",
+        "https://icmp-ws.chiayi.gov.tw/001/Upload/399/relpic/9149/930976/7be5e768-5f07-4420-8e1c-4e7750675587@710x470.jpg",
+        "https://icmp-ws.chiayi.gov.tw/001/Upload/399/relpic/9149/931012/de72f58e-405e-4a2e-b648-48d4bb561500@710x470.jpg",
+        "https://icmp-ws.chiayi.gov.tw/001/Upload/399/relpic/9150/931008/8ea57095-f82f-43ad-b0f8-68d1c0749edf@710x470.jpg",
+        "https://icmp-ws.chiayi.gov.tw/001/Upload/399/relpic/9150/930808/195bad70-42fc-4d64-824e-9dceaa6c793f@710x470.jpg"
+      ],
       "floorPlan": null
     },
     "layoutImageUrl": null,
@@ -2236,7 +2388,19 @@
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "專業音響、投影設備",
     "images": {
-      "main": "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?w=800"
+      "main": "https://www.niceprincehotel.com.tw/upload/banner_list/tw_banner_list_19a02_zequ7pis7m.jpg",
+      "gallery": [
+        "https://www.niceprincehotel.com.tw/upload/banner_list/tw_banner_list_19a02_zequ7pis7m.jpg",
+        "https://www.niceprincehotel.com.tw/upload/banner_list/tw_banner_list_21b20_x8zstq9623.jpg",
+        "https://www.niceprincehotel.com.tw/upload/banner_list/tw_banner_list_21b20_a8gftd9xnf.jpg",
+        "https://www.niceprincehotel.com.tw/upload/banner_list/tw_banner_list_18k28_vi5rekvize.jpg",
+        "https://www.niceprincehotel.com.tw/upload/news_list_pic/tw_news_list_25l29_zgyq5fcj82.jpg",
+        "https://www.niceprincehotel.com.tw/upload/news_list_pic/tw_news_list_25l15_tve2a2a8bz.jpg",
+        "https://www.niceprincehotel.com.tw/upload/news_list_pic/tw_news_list_25l15_ig4evze9th.jpg",
+        "https://www.niceprincehotel.com.tw/upload/news_list_pic/tw_news_list_25l15_iik542fxxk.jpg",
+        "https://www.niceprincehotel.com.tw/upload/news_list_pic/tw_news_list_25i15_appjup5cbm.jpg",
+        "https://www.niceprincehotel.com.tw/upload/news_list_pic/tw_news_list_25l29_n9vdcpfix6.jpg"
+      ]
     },
     "url": "https://www.niceprincehotel.com.tw/",
     "verified": true,
@@ -2265,8 +2429,10 @@
     "availableTimeWeekend": "09:00-22:00",
     "equipment": "專業影音、LED螢幕、燈光系統",
     "images": {
-      "main": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=800",
-      "gallery": [],
+      "main": "https://www.evergreen-hotels.com/branch/EPHCHY/index/65_20250508_CHY_homepage_1440x1000.jpg",
+      "gallery": [
+        "https://www.evergreen-hotels.com/branch/EPHCHY/index/65_20250508_CHY_homepage_1440x1000.jpg"
+      ],
       "floorPlan": null
     },
     "layoutImageUrl": null,
@@ -2330,7 +2496,19 @@
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "專業音響、投影設備",
     "images": {
-      "main": "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?w=800"
+      "main": "https://imagedelivery.net/a6-OYZSpZSiOriMeuFHR3w/6ae23e1b-eb52-4f2d-c153-cf569832f500/public",
+      "gallery": [
+        "https://imagedelivery.net/a6-OYZSpZSiOriMeuFHR3w/6ae23e1b-eb52-4f2d-c153-cf569832f500/public",
+        "https://imagedelivery.net/a6-OYZSpZSiOriMeuFHR3w/b0c229eb-c9fc-4e3a-9fc1-f6a9ba34d600/public",
+        "https://imagedelivery.net/a6-OYZSpZSiOriMeuFHR3w/35c242a4-1248-4a66-a813-7d85582d0500/public",
+        "https://imagedelivery.net/a6-OYZSpZSiOriMeuFHR3w/685890ab-9c45-42f5-5b52-347356b52b00/public",
+        "https://imagedelivery.net/a6-OYZSpZSiOriMeuFHR3w/02dd53c3-ebd7-48fc-76df-77410880f700/public",
+        "https://imagedelivery.net/a6-OYZSpZSiOriMeuFHR3w/3d11cfc1-2365-48b3-e38a-94ccd5a9cc00/public",
+        "https://imagedelivery.net/a6-OYZSpZSiOriMeuFHR3w/791a46ce-9f2d-4614-b1ff-d8647576cc00/public",
+        "https://imagedelivery.net/a6-OYZSpZSiOriMeuFHR3w/6b5ff96c-a344-4bb6-f4c3-d1229698e400/public",
+        "https://imagedelivery.net/a6-OYZSpZSiOriMeuFHR3w/6ae23e1b-eb52-4f2d-c153-cf569832f500/public",
+        "https://imagedelivery.net/a6-OYZSpZSiOriMeuFHR3w/b0c229eb-c9fc-4e3a-9fc1-f6a9ba34d600/public"
+      ]
     },
     "url": "https://www.hotelroyal.com.tw/zh-tw/chiaohsi",
     "verified": true,
@@ -2359,8 +2537,16 @@
     "availableTimeWeekend": "09:00-22:00",
     "equipment": "專業影音、LED螢幕、燈光系統",
     "images": {
-      "main": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=800",
-      "gallery": [],
+      "main": "https://www.silksplace-yilan.com.tw/n/images/conferences_maps/D01.jpg",
+      "gallery": [
+        "https://www.silksplace-yilan.com.tw/n/images/conferences_maps/D01.jpg",
+        "https://www.silksplace-yilan.com.tw/n/images/conferences_maps/D02.jpg",
+        "https://www.silksplace-yilan.com.tw/n/images/conferences_maps/D03.jpg",
+        "https://www.silksplace-yilan.com.tw/n/images/conferences_maps/D04.jpg",
+        "https://www.silksplace-yilan.com.tw/n/images/conferences_maps/D05.jpg",
+        "https://www.silksplace-yilan.com.tw/n/images/conferences_maps/D06.jpg",
+        "https://www.silksplace-yilan.com.tw/n/images/conferences_maps/D07.jpg"
+      ],
       "floorPlan": null
     },
     "layoutImageUrl": null,
@@ -2424,7 +2610,13 @@
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "專業音響、投影設備",
     "images": {
-      "main": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=800"
+      "main": "https://www.chateaudechine.com/2dd1e9a8aa5a8.jpg",
+      "gallery": [
+        "https://www.chateaudechine.com/2dd1e9a8aa5a8.jpg",
+        "https://www.chateaudechine.com/ceea491011afc.jpg",
+        "https://www.chateaudechine.com/282105e50a218.jpg",
+        "https://www.chateaudechine.com/acdc80c8f7396.jpg"
+      ]
     },
     "url": "https://www.chateaudechine.com/hualien",
     "verified": true,
@@ -2474,7 +2666,19 @@
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "專業音響、投影設備",
     "images": {
-      "main": "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?w=800"
+      "main": "https://www.parkview-hotel.com/wp-content/uploads/sites/208/2017/09/IMG_07741-150x150.jpg",
+      "gallery": [
+        "https://www.parkview-hotel.com/wp-content/uploads/sites/208/2017/09/IMG_07741-150x150.jpg",
+        "https://www.parkview-hotel.com/wp-content/uploads/sites/208/2017/09/IMG_07741-150x150.jpg",
+        "https://www.parkview-hotel.com/wp-content/uploads/sites/208/2017/09/IMG_05771-150x150.jpg",
+        "https://www.parkview-hotel.com/wp-content/uploads/sites/208/2017/09/IMG_0690-150x150.jpg",
+        "https://d2ile4x3f22snf.cloudfront.net/wp-content/uploads/sites/187/2017/09/13084547/parkview-hotels-and-resorts-home-slideshow-2-150x150.jpg",
+        "https://d2ile4x3f22snf.cloudfront.net/wp-content/uploads/sites/187/2017/09/28044545/%E7%BE%8E%E4%BE%96%E6%B1%A0%E7%95%94-150x150.jpg",
+        "https://www.parkview-hotel.com/wp-content/uploads/sites/208/2017/09/IMG_3843-150x150.jpg",
+        "https://www.parkview-hotel.com/wp-content/uploads/sites/208/2017/09/IMG_0834.jpg",
+        "https://www.parkview-hotel.com/wp-content/uploads/sites/208/2017/09/1100816-%E7%BE%8E%E4%BE%96%E5%A4%A7%E9%A3%AF%E5%BA%97-%E5%A4%A7%E6%AA%94-9.jpg",
+        "https://www.parkview-hotel.com/wp-content/uploads/sites/208/2017/09/0B5A5332.jpg"
+      ]
     },
     "url": "https://www.parkview-hotel.com",
     "verified": true,
@@ -2501,8 +2705,19 @@
     "availableTimeWeekend": "09:00-21:00",
     "equipment": "專業舞台、音響、燈光",
     "images": {
-      "main": "https://images.unsplash.com/photo-1531058020387-3be344556be6?w=800",
-      "gallery": [],
+      "main": "https://ws.hl.gov.tw/001/Upload/399/relpic/12027/89187/7c7dc2e8-48f2-4669-8b29-40a6cc53520e.jpg",
+      "gallery": [
+        "https://ws.hl.gov.tw/001/Upload/399/relpic/12027/89187/7c7dc2e8-48f2-4669-8b29-40a6cc53520e.jpg",
+        "https://ws.hl.gov.tw/001/Upload/399/relpic/12027/89188/b4df0ff5-914e-4cb5-a48e-ffda442dfd1a.jpg",
+        "https://ws.hl.gov.tw/001/Upload/399/relpic/25858/121430/f455e3e0-4a20-456c-98ba-8130917c9c1c@710x470.png",
+        "https://ws.hl.gov.tw/001/Upload/399/relpic/25858/121428/2360d37c-ac37-42ff-ba41-cfee5c1ea1cd@710x470.png",
+        "https://ws.hl.gov.tw/001/Upload/399/relpic/25858/121424/4e523aeb-2638-4b18-9f12-e0e67af21712@710x470.png",
+        "https://ws.hl.gov.tw/001/Upload/399/relpic/25858/121425/9de8525a-ff5c-4f6b-a54f-d7d3625142ec@710x470.png",
+        "https://ws.hl.gov.tw/001/Upload/399/relpic/25858/121426/7cfba4ce-d384-4544-b52f-d30c26b54734@710x470.png",
+        "https://ws.hl.gov.tw/001/Upload/399/relpic/25858/121427/6ac9a8c7-5fda-4775-b3ba-7a6eb96606d0@710x470.png",
+        "https://ws.hl.gov.tw/001/Upload/399/relpic/25858/148898/4c7d0997-7abc-419f-805f-21cf09d2953d@710x470.jpg",
+        "https://www.hl.gov.tw/images/default.png"
+      ],
       "floorPlan": null
     },
     "layoutImageUrl": null,
@@ -2590,8 +2805,19 @@
     "availableTimeWeekend": "09:00-22:00",
     "equipment": "頂級影音、同步翻譯、LED大螢幕",
     "images": {
-      "main": "https://images.unsplash.com/photo-1582719508461-905c673771fd?w=800",
-      "gallery": [],
+      "main": "https://www.marriott.com/content/dam/marriott-digital/destinations/destinationheroimages/en_us/photo/assets/pdt-usa-tx-marble-falls-173453820043619.jpg",
+      "gallery": [
+        "https://www.marriott.com/content/dam/marriott-digital/destinations/destinationheroimages/en_us/photo/assets/pdt-usa-tx-marble-falls-173453820043619.jpg",
+        "https://www.marriott.com/content/dam/marriott-digital/wi/us-canada/hws/w/waswc/en_us/photo/limited/assets/wasrb-attraction-memorial-4533.jpg",
+        "https://www.marriott.com/content/dam/marriott-digital/si/emea/hws/a/amssi/en_us/photo/unlimited/assets/si-amssi-tulips-and-houses-21929.jpeg",
+        "https://www.marriott.com/content/dam/marriott-digital/stock/getty/en_us/getty_8/photo/assets/GettyImages-170031754-gigapixel-art-width-4000px.jpeg",
+        "https://www.marriott.com/content/dam/marriott-digital/fi/us-canada/hws/s/sanfd/en_us/photo/unlimited/assets/fi-sanfd-carlsbad-flower-fiel31702-72977.jpg",
+        "https://www.marriott.com/content/dam/marriott-digital/destinations/north-america/usa/tennessee/gatlinburg/en_us/photo/assets/great-smoky-mountains-tennessee.jpg",
+        "https://www.marriott.com/content/dam/marriott-digital/tx/us-canada/hws/i/indcy/en_us/photo/limited/assets/tx-indcy-queen-interior-2-32959.jpg",
+        "https://cache.marriott.com/is/image/marriotts7prod/pdt-78076758-Natural-Ret-2-183367890519764",
+        "https://cache.marriott.com/is/image/marriotts7prod/pdt-40312804-Elite-Desti42232-170267266771080",
+        "https://cache.marriott.com/is/image/marriotts7prod/pdt-2102953952-Summer-Lake-425597198532017"
+      ],
       "floorPlan": null
     },
     "layoutImageUrl": null,
@@ -2773,8 +2999,19 @@
     "availableTimeWeekend": "09:00-22:00",
     "equipment": "投影設備、音響系統",
     "images": {
-      "main": "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?w=800",
-      "gallery": [],
+      "main": "https://www.grandview.com.tw/storage/system/banner/Banner-lg-F.webp",
+      "gallery": [
+        "https://www.grandview.com.tw/storage/system/banner/Banner-lg-F.webp",
+        "https://www.grandview.com.tw/storage/system/index/index_about02-edited.webp",
+        "https://www.grandview.com.tw/storage/system/index/about-0101.webp",
+        "https://www.grandview.com.tw/storage/system/team/doc3.webp",
+        "https://www.grandview.com.tw/storage/system/team/doc6.webp",
+        "https://www.grandview.com.tw/storage/system/team/doc2.webp",
+        "https://www.grandview.com.tw/storage/system/team/doc1.webp",
+        "https://www.grandview.com.tw/storage/system/team/doc9.webp",
+        "https://www.grandview.com.tw/storage/system/team/doc4.webp",
+        "https://www.grandview.com.tw/storage/system/team/doc5.webp"
+      ],
       "floorPlan": null
     },
     "layoutImageUrl": null,
@@ -2843,8 +3080,18 @@
     "availableTimeWeekend": "09:00-22:00",
     "equipment": "專業影音設備、燈光系統",
     "images": {
-      "main": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=800",
-      "gallery": [],
+      "main": "https://www.sanwant.com/Traditional/images/header/index.jpg",
+      "gallery": [
+        "https://www.sanwant.com/Traditional/images/header/index.jpg",
+        "https://www.sanwant.com/Traditional/images/banner/img1.jpg",
+        "https://www.sanwant.com/Traditional/images/banner/img2.jpg",
+        "https://www.sanwant.com/Traditional/images/banner/img3.jpg",
+        "https://www.sanwant.com/Traditional/images/banner/img4.jpg",
+        "https://www.sanwant.com/Traditional/images/banner/img5.jpg",
+        "https://www.sanwant.com/Traditional/images/banner/img6.jpg",
+        "https://www.sanwant.com/Traditional/images/banner/img7.jpg",
+        "https://www.sanwant.com/Traditional/images/index/newstag_w.jpg"
+      ],
       "floorPlan": null
     },
     "layoutImageUrl": null,
@@ -2913,8 +3160,19 @@
     "availableTimeWeekend": "09:00-22:00",
     "equipment": "專業影音設備、燈光系統",
     "images": {
-      "main": "https://images.unsplash.com/photo-1582719508461-905c673771fd?w=800",
-      "gallery": [],
+      "main": "https://www.dynasty.com.tw/images/index/banner1.jpg",
+      "gallery": [
+        "https://www.dynasty.com.tw/images/index/banner1.jpg",
+        "https://www.dynasty.com.tw/images/index/banner2.jpg",
+        "https://www.dynasty.com.tw/images/index/banner1-s.jpg",
+        "https://www.dynasty.com.tw/images/index/banner2-s.jpg",
+        "https://www.dynasty.com.tw/images/index/service-a02.jpg",
+        "https://www.dynasty.com.tw/images/index/service-a03.jpg",
+        "https://www.dynasty.com.tw/images/index/service-a01.jpg",
+        "https://www.dynasty.com.tw/images/index/service-a02.jpg",
+        "https://www.dynasty.com.tw/images/index/service-a03.jpg",
+        "https://www.dynasty.com.tw/images/index/service-a01.jpg"
+      ],
       "floorPlan": null
     },
     "layoutImageUrl": null,
@@ -3248,8 +3506,17 @@
     "availableTimeWeekend": "09:00-22:00",
     "equipment": "頂級影音、LED螢幕、燈光系統",
     "images": {
-      "main": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800",
-      "gallery": [],
+      "main": "https://www.hanshin.com.tw/upload/2026_01_0731/20260107170920kgshkhg1C2.jpg",
+      "gallery": [
+        "https://www.hanshin.com.tw/upload/2026_01_0731/20260107170920kgshkhg1C2.jpg",
+        "https://www.hanshin.com.tw/upload/2026_01_0629/20260106101251wddo18Xnn1.jpg",
+        "https://www.hanshin.com.tw/upload/2026_02_2531/20260225144849fi7azmR222.jpg",
+        "https://www.hanshin.com.tw/upload/2026_02_2531/20260225150146ez2bx3rHw1.jpg",
+        "https://www.hanshin.com.tw/upload/2024_01_0531/20240105114935udnkoy6l11.jpg",
+        "https://www.hanshin.com.tw/upload/2025_08_2031/20250820155155d1qqcny4L1.jpg",
+        "https://www.hanshin.com.tw/upload/2025_12_0930/202512091817162mpz0iKEE1.jpg",
+        "https://www.hanshin.com.tw/upload/2025_03_1228/20250312104056bv8chmga41.jpg"
+      ],
       "floorPlan": null
     },
     "layoutImageUrl": null,
@@ -3313,8 +3580,11 @@
     "availableTimeWeekend": "09:00-22:00",
     "equipment": "專業影音、淡水河景、夕陽景觀",
     "images": {
-      "main": "https://images.unsplash.com/photo-1582719508461-905c673771fd?w=800",
-      "gallery": [],
+      "main": "https://img.atom.com/public/images/landing/video_thumbnail.png?quality=80&width=400",
+      "gallery": [
+        "https://img.atom.com/public/images/landing/video_thumbnail.png?quality=80&width=400",
+        "https://img.atom.com/public/images/landing/video_thumbnail.png?quality=80&width=400"
+      ],
       "floorPlan": null
     },
     "layoutImageUrl": null,
@@ -3442,8 +3712,19 @@
     "availableTimeWeekend": "09:00-17:00",
     "equipment": "基本設施",
     "images": {
-      "main": "https://images.unsplash.com/photo-1531058020387-3be344556be6?w=800",
-      "gallery": [],
+      "main": "https://www.ntpc.gov.tw/ch/images/layout/QRCODE-WEB.png",
+      "gallery": [
+        "https://www.ntpc.gov.tw/ch/images/layout/QRCODE-WEB.png",
+        "https://www.ntpc.gov.tw/ch/images/layout/QRCODE-MAP.png",
+        "https://www.ntpc.gov.tw/ch/images/layout/QRCODE-LINE.png",
+        "https://www.ntpc.gov.tw/ch/images/banner/banner02.jpg",
+        "https://www.ntpc.gov.tw/ch/images/index/mayor.png",
+        "https://www.ntpc.gov.tw/uploaddowndoc?file=newsimg/202602272155051.jpg&filedisplay=2U1A6999_0.jpg&flag=pic",
+        "https://www.ntpc.gov.tw/uploaddowndoc?file=newsimg/202602262034381.jpg&filedisplay=S__45359238.jpg&flag=pic",
+        "https://www.ntpc.gov.tw/uploaddowndoc?file=newsimg/202602261605311.jpg&filedisplay=2U1A6383-2.jpg&flag=pic",
+        "https://www.ntpc.gov.tw/ch/images/index/mayor.png",
+        "https://www.ntpc.gov.tw/ch/images/index/topic_more.svg"
+      ],
       "floorPlan": null
     },
     "layoutImageUrl": null,
