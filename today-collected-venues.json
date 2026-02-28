@@ -1,0 +1,439 @@
+[
+  {
+    "name": "台北國賓大飯店",
+    "city": "台北市",
+    "url": "https://www.ambassador-hotels.com/tc/taipei",
+    "type": "飯店",
+    "address": "台北市中山區中山北路63號",
+    "features": [
+      "五星級",
+      "會議空間",
+      "餐廳",
+      "交通便利"
+    ]
+  },
+  {
+    "name": "板橋凱撒大飯店",
+    "city": "新北市",
+    "url": "https://banqiao.caesarpark.com.tw",
+    "type": "飯店",
+    "features": [
+      "三鐵交匯",
+      "交通便利",
+      "會議空間"
+    ]
+  },
+  {
+    "name": "福容大飯店淡水漁人碼頭",
+    "city": "新北市",
+    "url": "https://www.fullon-hotels.com.tw/fw/",
+    "type": "飯店",
+    "features": [
+      "郵輪造型",
+      "台灣最美飯店",
+      "海景"
+    ]
+  },
+  {
+    "name": "中正紀念堂",
+    "city": "台北市",
+    "url": "https://www.cksmh.gov.tw",
+    "type": "展覽場地",
+    "address": "台北市中正區中山南路21號",
+    "features": [
+      "展覽",
+      "文化活動"
+    ]
+  },
+  {
+    "name": "高雄市立美術館",
+    "city": "高雄市",
+    "url": "https://www.kmfa.gov.tw",
+    "type": "展覽場地",
+    "features": [
+      "藝術展覽"
+    ]
+  },
+  {
+    "name": "墾丁凱撒大飯店",
+    "city": "屏東縣",
+    "url": "https://kenting.caesarpark.com.tw",
+    "type": "飯店",
+    "features": [
+      "南洋風情",
+      "度假勝地",
+      "椰林泳池"
+    ]
+  },
+  {
+    "name": "宜蘭傳藝中心",
+    "city": "宜蘭縣",
+    "url": "https://www.ncfta.gov.tw",
+    "type": "文化中心",
+    "address": "宜蘭縣五結鄉季新村五濱路二段201號",
+    "phone": "03-970-5815"
+  },
+  {
+    "name": "墾丁福華渡假飯店",
+    "city": "屏東縣",
+    "url": "https://www.howard-hotels.com.tw",
+    "type": "飯店",
+    "features": [
+      "渡假飯店",
+      "連鎖飯店"
+    ]
+  },
+  {
+    "name": "CLBC大安商務中心",
+    "city": "台北市",
+    "url": "https://www.clbc.tw",
+    "type": "商務中心",
+    "features": [
+      "共同工作空間",
+      "會議室",
+      "活動場地"
+    ]
+  },
+  {
+    "name": "臺東縣政府文化處",
+    "city": "臺東縣",
+    "url": "https://www.taitung.gov.tw",
+    "type": "政府機關",
+    "features": [
+      "文化活動"
+    ]
+  },
+  {
+    "name": "福容大飯店",
+    "city": "全台",
+    "url": "https://www.fullon-hotels.com.tw",
+    "type": "連鎖飯店",
+    "features": [
+      "全台19家分店",
+      "連鎖飯店"
+    ]
+  },
+  {
+    "name": "國家表演藝術中心",
+    "city": "台北市",
+    "url": "https://www.npac-ntch.org",
+    "type": "表演場地",
+    "address": "臺北市中山南路21-1號",
+    "phone": "02-3393-9777"
+  },
+  {
+    "name": "台北文華東方酒店",
+    "city": "台北市",
+    "url": "https://www.mandarinoriental.com/taipei",
+    "type": "飯店",
+    "features": [
+      "五星級",
+      "奢華酒店",
+      "會議空間"
+    ]
+  },
+  {
+    "name": "台北晶華酒店",
+    "city": "台北市",
+    "url": "https://www.regenttaiwan.com",
+    "type": "飯店",
+    "features": [
+      "五星級",
+      "會議空間",
+      "交通便利"
+    ]
+  },
+  {
+    "name": "台北遠東香格里拉酒店",
+    "city": "台北市",
+    "url": "https://www.shangri-la.com/taipei",
+    "type": "飯店",
+    "features": [
+      "五星級",
+      "高樓層景觀",
+      "會議空間"
+    ]
+  },
+  {
+    "name": "國立臺灣大學",
+    "city": "台北市",
+    "url": "https://www.ntu.edu.tw",
+    "type": "大學",
+    "features": [
+      "會議中心",
+      "學術場地"
+    ]
+  },
+  {
+    "name": "國立政治大學",
+    "city": "台北市",
+    "url": "https://www.nccu.edu.tw",
+    "type": "大學",
+    "features": [
+      "會議中心",
+      "學術場地"
+    ]
+  },
+  {
+    "name": "國立清華大學",
+    "city": "新竹市",
+    "url": "https://www.nthu.edu.tw",
+    "type": "大學",
+    "features": [
+      "會議中心",
+      "學術場地"
+    ]
+  },
+  {
+    "name": "國立成功大學",
+    "city": "台南市",
+    "url": "https://www.ncku.edu.tw",
+    "type": "大學",
+    "features": [
+      "會議中心",
+      "學術場地"
+    ]
+  },
+  {
+    "name": "國立臺灣科技大學",
+    "city": "台北市",
+    "url": "https://www.ntust.edu.tw",
+    "type": "大學",
+    "features": [
+      "會議中心",
+      "學術場地"
+    ]
+  },
+  {
+    "name": "工業技術研究院",
+    "city": "新竹縣",
+    "url": "https://www.itri.org.tw",
+    "type": "研究機構",
+    "features": [
+      "會議中心",
+      "研究場地"
+    ]
+  },
+  {
+    "name": "中央研究院",
+    "city": "台北市",
+    "url": "https://www.sinica.edu.tw",
+    "type": "研究機構",
+    "features": [
+      "會議中心",
+      "學術場地"
+    ]
+  },
+  {
+    "name": "國立臺灣師範大學",
+    "city": "台北市",
+    "url": "https://www.ntnu.edu.tw",
+    "type": "大學",
+    "features": [
+      "會議中心",
+      "學術場地"
+    ]
+  },
+  {
+    "name": "逢甲大學",
+    "city": "台中市",
+    "url": "https://www.fcu.edu.tw",
+    "type": "大學",
+    "features": [
+      "會議中心",
+      "學術場地"
+    ]
+  },
+  {
+    "name": "朝陽科技大學",
+    "city": "台中市",
+    "url": "https://www.cyut.edu.tw",
+    "type": "大學",
+    "features": [
+      "會議中心",
+      "學術場地"
+    ]
+  },
+  {
+    "name": "義守大學",
+    "city": "高雄市",
+    "url": "https://www.isu.edu.tw",
+    "type": "大學",
+    "features": [
+      "會議中心",
+      "學術場地"
+    ]
+  },
+  {
+    "name": "國立中山大學",
+    "city": "高雄市",
+    "url": "https://www.nsysu.edu.tw",
+    "type": "大學",
+    "features": [
+      "會議中心",
+      "學術場地"
+    ]
+  },
+  {
+    "name": "國立屏東大學",
+    "city": "屏東縣",
+    "url": "https://www.nptu.edu.tw",
+    "type": "大學",
+    "features": [
+      "會議中心",
+      "學術場地"
+    ]
+  },
+  {
+    "name": "中國文化大學",
+    "city": "台北市",
+    "url": "https://www.pccu.edu.tw",
+    "type": "大學",
+    "features": [
+      "會議中心",
+      "學術場地"
+    ]
+  },
+  {
+    "name": "世新大學",
+    "city": "台北市",
+    "url": "https://www.shu.edu.tw",
+    "type": "大學",
+    "features": [
+      "會議中心",
+      "學術場地"
+    ]
+  },
+  {
+    "name": "大同大學",
+    "city": "台北市",
+    "url": "https://www.ttu.edu.tw",
+    "type": "大學",
+    "features": [
+      "會議中心",
+      "學術場地"
+    ]
+  },
+  {
+    "name": "國立東華大學",
+    "city": "花蓮縣",
+    "url": "https://www.ndhu.edu.tw",
+    "type": "大學",
+    "features": [
+      "會議中心",
+      "學術場地"
+    ]
+  },
+  {
+    "name": "國立臺東大學",
+    "city": "臺東縣",
+    "url": "https://www.nttu.edu.tw",
+    "type": "大學",
+    "features": [
+      "會議中心",
+      "學術場地"
+    ]
+  },
+  {
+    "name": "國立澎湖科技大學",
+    "city": "澎湖縣",
+    "url": "https://www.npu.edu.tw",
+    "type": "大學",
+    "features": [
+      "會議中心",
+      "學術場地"
+    ]
+  },
+  {
+    "name": "國立高雄師範大學",
+    "city": "高雄市",
+    "url": "https://www.nknu.edu.tw",
+    "type": "大學",
+    "features": [
+      "會議中心",
+      "學術場地"
+    ]
+  },
+  {
+    "name": "國立彰化師範大學",
+    "city": "彰化縣",
+    "url": "https://www.ncue.edu.tw",
+    "type": "大學",
+    "features": [
+      "會議中心",
+      "學術場地"
+    ]
+  },
+  {
+    "name": "國立臺中教育大學",
+    "city": "台中市",
+    "url": "https://www.ntcu.edu.tw",
+    "type": "大學",
+    "features": [
+      "會議中心",
+      "學術場地"
+    ]
+  },
+  {
+    "name": "國立臺南大學",
+    "city": "台南市",
+    "url": "https://www.nutn.edu.tw",
+    "type": "大學",
+    "features": [
+      "會議中心",
+      "學術場地"
+    ]
+  },
+  {
+    "name": "南開科技大學",
+    "city": "南投縣",
+    "url": "https://www.nkut.edu.tw",
+    "type": "大學",
+    "features": [
+      "會議中心",
+      "學術場地"
+    ]
+  },
+  {
+    "name": "南臺科技大學",
+    "city": "台南市",
+    "url": "https://www.stust.edu.tw",
+    "type": "大學",
+    "features": [
+      "會議中心",
+      "學術場地"
+    ]
+  },
+  {
+    "name": "台北小巨蛋",
+    "city": "台北市",
+    "url": "https://www.arena.taipei/",
+    "type": "體育場館",
+    "address": "臺北市松山區南京東路4段2號",
+    "phone": "02-2578-3536",
+    "features": [
+      "主場館",
+      "冰上樂園"
+    ]
+  },
+  {
+    "name": "國立陽明交通大學",
+    "city": "新竹市",
+    "url": "https://www.nycu.edu.tw/nycu/ch/index",
+    "type": "大學",
+    "features": [
+      "會議中心",
+      "學術場地"
+    ]
+  },
+  {
+    "name": "南華大學",
+    "city": "嘉義縣",
+    "url": "https://www3.nhu.edu.tw/",
+    "type": "大學",
+    "features": [
+      "會議中心",
+      "學術場地"
+    ]
+  }
+]
