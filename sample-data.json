@@ -603,9 +603,11 @@
     "images": {
       "main": "https://www.palaisdechine.com/images/venue/banquet.jpg"
     },
-    "url": "https://www.palaisdechine.com",
+    "url": "https://www.palaisdechinehotel.com/pdc-tw/rooms/27",
     "verified": true,
-    "verifiedAt": "2026-02-27"
+    "verifiedAt": "2026-02-27",
+    "urlUpdated": true,
+    "urlUpdatedAt": "2026-02-28T08:44:10.702Z"
   },
   {
     "id": 13,
@@ -1103,7 +1105,7 @@
     "capacityCategory": "small",
     "targetAudience": "企業",
     "createdAt": "2026-02-26T00:00:00.000Z",
-    "url": "https://www.hilton.com",
+    "url": "https://www.hilton.com/zh-hant/hotels/tsatchi-hilton-taipei-sinban/events/",
     "transportation": {
       "mrt": {
         "station": "板橋站",
@@ -1132,7 +1134,9 @@
         "capacity": 50,
         "description": "會議型"
       }
-    }
+    },
+    "urlUpdated": true,
+    "urlUpdatedAt": "2026-02-28T08:44:10.705Z"
   },
   {
     "id": 24,
@@ -1943,9 +1947,11 @@
     "images": {
       "main": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=800"
     },
-    "url": "https://www.ambassadorhotel.com.tw/hsinchu",
+    "url": "https://www.ambassador-hotels.com/tc/hsinchu/events/packages/venue-rental#ping",
     "verified": true,
-    "verifiedAt": "2026-02-27"
+    "verifiedAt": "2026-02-27",
+    "urlUpdated": true,
+    "urlUpdatedAt": "2026-02-28T08:44:10.705Z"
   },
   {
     "id": 39,
@@ -2394,7 +2400,9 @@
         "description": "馬蹄型"
       }
     },
-    "url": "https://www.silksplace-yilan.com"
+    "url": "https://www.silksplace-yilan.com.tw/n/conferences_maps.aspx",
+    "urlUpdated": true,
+    "urlUpdatedAt": "2026-02-28T08:44:10.706Z"
   },
   {
     "id": 47,
