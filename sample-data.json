@@ -386,10 +386,10 @@
     "roomName": "五星級",
     "type": "飯店",
     "city": "台北市",
-    "address": "請查詢官網",
+    "address": "台北市中山區中山北路二段39巷3號",
     "contactPerson": "請查詢官網",
-    "contactPhone": "請查詢官網",
-    "contactEmail": "請查詢官網",
+    "contactPhone": "02-2523-8000",
+    "contactEmail": "reservations@regenttaiwan.com",
     "pricePerHour": null,
     "priceHalfDay": null,
     "priceFullDay": null,
@@ -406,7 +406,7 @@
     },
     "layoutImageUrl": null,
     "rentalTimeNote": "請查詢官網",
-    "notes": "五星級、會議空間、交通便利",
+    "notes": "五星級奢華酒店，擁有先進高端的會議場地",
     "capacityCategory": "unknown",
     "createdAt": "2026-02-28T07:32:38.878Z",
     "url": "https://www.regenttaiwan.com",
@@ -415,7 +415,13 @@
     "seatingArrangements": null,
     "verified": true,
     "verifiedAt": "2026-02-28T07:32:38.878Z",
-    "collectedToday": true
+    "collectedToday": true,
+    "lastUpdated": "2026-02-28T09:20:50.084Z",
+    "needsUpdate": {
+      "photo": true,
+      "price": true,
+      "capacity": true
+    }
   },
   {
     "id": 9,
@@ -590,10 +596,10 @@
     "roomName": "五星級",
     "type": "飯店",
     "city": "台北市",
-    "address": "台北市中山區中山北路63號",
+    "address": "台北市中山區中山北路二段63號",
     "contactPerson": "請查詢官網",
-    "contactPhone": "請查詢官網",
-    "contactEmail": "請查詢官網",
+    "contactPhone": "02-2551-1111",
+    "contactEmail": "sales@ambassador-taipei.com",
     "pricePerHour": null,
     "priceHalfDay": null,
     "priceFullDay": null,
@@ -610,7 +616,7 @@
     },
     "layoutImageUrl": null,
     "rentalTimeNote": "請查詢官網",
-    "notes": "五星級、會議空間、餐廳、交通便利",
+    "notes": "五星級酒店，提供多樣化會議及宴會空間",
     "capacityCategory": "unknown",
     "createdAt": "2026-02-28T07:32:38.877Z",
     "url": "https://www.ambassador-hotels.com/tc/taipei",
@@ -619,7 +625,13 @@
     "seatingArrangements": null,
     "verified": true,
     "verifiedAt": "2026-02-28T07:32:38.878Z",
-    "collectedToday": true
+    "collectedToday": true,
+    "lastUpdated": "2026-02-28T09:20:50.084Z",
+    "needsUpdate": {
+      "photo": true,
+      "price": true,
+      "capacity": true
+    }
   },
   {
     "id": 14,
@@ -725,10 +737,10 @@
     "roomName": "五星級",
     "type": "飯店",
     "city": "台北市",
-    "address": "請查詢官網",
+    "address": "台北市敦化北路158號",
     "contactPerson": "請查詢官網",
-    "contactPhone": "請查詢官網",
-    "contactEmail": "請查詢官網",
+    "contactPhone": "02-2715-6888",
+    "contactEmail": "mo-tpe@mohg.com",
     "pricePerHour": null,
     "priceHalfDay": null,
     "priceFullDay": null,
@@ -745,7 +757,7 @@
     },
     "layoutImageUrl": null,
     "rentalTimeNote": "請查詢官網",
-    "notes": "五星級、奢華酒店、會議空間",
+    "notes": "國際頂級奢華酒店，精緻的會議與活動場地",
     "capacityCategory": "unknown",
     "createdAt": "2026-02-28T07:32:38.878Z",
     "url": "https://www.mandarinoriental.com/taipei",
@@ -754,7 +766,13 @@
     "seatingArrangements": null,
     "verified": true,
     "verifiedAt": "2026-02-28T07:32:38.878Z",
-    "collectedToday": true
+    "collectedToday": true,
+    "lastUpdated": "2026-02-28T09:20:50.085Z",
+    "needsUpdate": {
+      "photo": true,
+      "price": true,
+      "capacity": true
+    }
   },
   {
     "id": 17,
@@ -2973,10 +2991,10 @@
     "roomName": "渡假飯店",
     "type": "飯店",
     "city": "屏東縣",
-    "address": "請查詢官網",
+    "address": "屏東縣恆春鎮墾丁路2號",
     "contactPerson": "請查詢官網",
-    "contactPhone": "請查詢官網",
-    "contactEmail": "請查詢官網",
+    "contactPhone": "08-886-2321",
+    "contactEmail": "kt@howard-hotels.com.tw",
     "pricePerHour": null,
     "priceHalfDay": null,
     "priceFullDay": null,
@@ -2993,7 +3011,7 @@
     },
     "layoutImageUrl": null,
     "rentalTimeNote": "請查詢官網",
-    "notes": "渡假飯店、連鎖飯店",
+    "notes": "渡假型飯店，適合企業訓練及團體活動",
     "capacityCategory": "unknown",
     "createdAt": "2026-02-28T07:32:38.878Z",
     "url": "https://www.howard-hotels.com.tw",
@@ -3002,7 +3020,13 @@
     "seatingArrangements": null,
     "verified": true,
     "verifiedAt": "2026-02-28T07:32:38.878Z",
-    "collectedToday": true
+    "collectedToday": true,
+    "lastUpdated": "2026-02-28T09:20:50.085Z",
+    "needsUpdate": {
+      "photo": true,
+      "price": true,
+      "capacity": true
+    }
   },
   {
     "id": 60,
@@ -3036,10 +3060,10 @@
     "roomName": "南洋風情",
     "type": "飯店",
     "city": "屏東縣",
-    "address": "請查詢官網",
+    "address": "屏東縣恆春鎮墾丁路6號",
     "contactPerson": "請查詢官網",
-    "contactPhone": "請查詢官網",
-    "contactEmail": "請查詢官網",
+    "contactPhone": "08-886-1888",
+    "contactEmail": "sales@kenting.caesarpark.com.tw",
     "pricePerHour": null,
     "priceHalfDay": null,
     "priceFullDay": null,
@@ -3056,7 +3080,7 @@
     },
     "layoutImageUrl": null,
     "rentalTimeNote": "請查詢官網",
-    "notes": "南洋風情、度假勝地、椰林泳池",
+    "notes": "南洋風情渡假飯店，擁有多功能會議室",
     "capacityCategory": "unknown",
     "createdAt": "2026-02-28T07:32:38.878Z",
     "url": "https://kenting.caesarpark.com.tw",
@@ -3065,7 +3089,13 @@
     "seatingArrangements": null,
     "verified": true,
     "verifiedAt": "2026-02-28T07:32:38.878Z",
-    "collectedToday": true
+    "collectedToday": true,
+    "lastUpdated": "2026-02-28T09:20:50.085Z",
+    "needsUpdate": {
+      "photo": true,
+      "price": true,
+      "capacity": true
+    }
   },
   {
     "id": 62,
@@ -3895,10 +3925,10 @@
     "roomName": "三鐵交匯",
     "type": "飯店",
     "city": "新北市",
-    "address": "請查詢官網",
+    "address": "新北市板橋區縣民大道二段8號",
     "contactPerson": "請查詢官網",
-    "contactPhone": "請查詢官網",
-    "contactEmail": "請查詢官網",
+    "contactPhone": "02-8953-8999",
+    "contactEmail": "banqiao@caesarpark.com.tw",
     "pricePerHour": null,
     "priceHalfDay": null,
     "priceFullDay": null,
@@ -3915,7 +3945,7 @@
     },
     "layoutImageUrl": null,
     "rentalTimeNote": "請查詢官網",
-    "notes": "三鐵交匯、交通便利、會議空間",
+    "notes": "三鐵共構飯店，交通便利，適合商務會議",
     "capacityCategory": "unknown",
     "createdAt": "2026-02-28T07:32:38.878Z",
     "url": "https://banqiao.caesarpark.com.tw",
@@ -3924,7 +3954,13 @@
     "seatingArrangements": null,
     "verified": true,
     "verifiedAt": "2026-02-28T07:32:38.878Z",
-    "collectedToday": true
+    "collectedToday": true,
+    "lastUpdated": "2026-02-28T09:20:50.085Z",
+    "needsUpdate": {
+      "photo": true,
+      "price": true,
+      "capacity": true
+    }
   },
   {
     "id": 81,
@@ -4279,10 +4315,10 @@
     "roomName": "郵輪造型",
     "type": "飯店",
     "city": "新北市",
-    "address": "請查詢官網",
+    "address": "新北市淡水區觀海路83號",
     "contactPerson": "請查詢官網",
-    "contactPhone": "請查詢官網",
-    "contactEmail": "請查詢官網",
+    "contactPhone": "02-2628-7777",
+    "contactEmail": "fw@fullon-hotels.com.tw",
     "pricePerHour": null,
     "priceHalfDay": null,
     "priceFullDay": null,
@@ -4299,7 +4335,7 @@
     },
     "layoutImageUrl": null,
     "rentalTimeNote": "請查詢官網",
-    "notes": "郵輪造型、台灣最美飯店、海景",
+    "notes": "郵輪造型飯店，台灣最美飯店之一",
     "capacityCategory": "unknown",
     "createdAt": "2026-02-28T07:32:38.878Z",
     "url": "https://www.fullon-hotels.com.tw/fw/",
@@ -4308,7 +4344,13 @@
     "seatingArrangements": null,
     "verified": true,
     "verifiedAt": "2026-02-28T07:32:38.878Z",
-    "collectedToday": true
+    "collectedToday": true,
+    "lastUpdated": "2026-02-28T09:20:50.085Z",
+    "needsUpdate": {
+      "photo": true,
+      "price": true,
+      "capacity": true
+    }
   },
   {
     "id": 95,
@@ -10636,10 +10678,10 @@
     "roomName": "五星級",
     "type": "飯店",
     "city": "台北市",
-    "address": "請查詢官網",
+    "address": "台北市敦化南路二段201號",
     "contactPerson": "請查詢官網",
-    "contactPhone": "請查詢官網",
-    "contactEmail": "請查詢官網",
+    "contactPhone": "02-2378-8888",
+    "contactEmail": "reservations.slta@shangri-la.com",
     "pricePerHour": null,
     "priceHalfDay": null,
     "priceFullDay": null,
@@ -10656,7 +10698,7 @@
     },
     "layoutImageUrl": null,
     "rentalTimeNote": "請查詢官網",
-    "notes": "五星級、高樓層景觀、會議空間",
+    "notes": "五星級國際連鎖酒店，高樓層景觀會議場地",
     "capacityCategory": "unknown",
     "createdAt": "2026-02-28T07:32:38.878Z",
     "url": "https://www.shangri-la.com/taipei",
@@ -10665,7 +10707,13 @@
     "seatingArrangements": null,
     "verified": true,
     "verifiedAt": "2026-02-28T07:32:38.878Z",
-    "collectedToday": true
+    "collectedToday": true,
+    "lastUpdated": "2026-02-28T09:20:50.086Z",
+    "needsUpdate": {
+      "photo": true,
+      "price": true,
+      "capacity": true
+    }
   },
   {
     "id": 344,
