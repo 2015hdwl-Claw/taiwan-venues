@@ -1,0 +1,55 @@
+[
+  {
+    "name": "台北君悅酒店",
+    "city": "台北市",
+    "url": "https://www.grandhyatt.com/taipei",
+    "error": "HTTP 403",
+    "statusCode": 403
+  },
+  {
+    "name": "尊爵天際大飯店",
+    "city": "桃園市",
+    "url": "https://www.marriott.com",
+    "error": "HTTP 403",
+    "statusCode": 403
+  },
+  {
+    "name": "台中日月千禧酒店",
+    "city": "台中市",
+    "url": "https://www.millenniumhotels.com/taichung",
+    "error": "HTTP 403",
+    "statusCode": 403
+  },
+  {
+    "name": "高雄洲際酒店",
+    "city": "高雄市",
+    "url": "https://www.intercontinental.com",
+    "error": "HTTP 403",
+    "statusCode": 403
+  },
+  {
+    "name": "台北君品酒店",
+    "city": "台北市",
+    "url": "https://www.palaisdechine.com",
+    "error": "HTTP 400",
+    "statusCode": 400
+  },
+  {
+    "name": "新板希爾頓酒店",
+    "city": "新北市",
+    "url": "https://www.hilton.com",
+    "error": "timeout"
+  },
+  {
+    "name": "新竹國賓大飯店",
+    "city": "新竹市",
+    "url": "https://www.ambassadorhotel.com.tw/hsinchu",
+    "error": "timeout"
+  },
+  {
+    "name": "宜蘭蘭城晶英酒店",
+    "city": "宜蘭縣",
+    "url": "https://www.silksplace-yilan.com",
+    "error": "Hostname/IP does not match certificate's altnames: Host: www.silksplace-yilan.com. is not in the cert's altnames: DNS:*.silksplace-yilan.com.tw, DNS:silksplace-yilan.com.tw"
+  }
+]

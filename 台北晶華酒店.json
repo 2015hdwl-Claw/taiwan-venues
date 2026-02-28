@@ -1,0 +1,19 @@
+{
+  "name": "台北晶華酒店",
+  "type": "hotel",
+  "photos": {
+    "main": "https://regenttaipei.com/",
+    "gallery": []
+  },
+  "pricing": {
+    "halfDay": "需詢價",
+    "fullDay": "需詢價",
+    "note": "根據會議室大小和日期而定，建議直接聯繫酒店"
+  },
+  "capacity": {
+    "theater": "50-800人（視不同會議室而定）",
+    "classroom": "30-500人（視不同會議室而定）",
+    "banquet": "20-400人（視不同會議室而定）"
+  },
+  "note": "晶華酒店擁有多個會議室和宴會廳，包括晶華廳、麒麟廳、牡丹廳等，設備齊全"
+}

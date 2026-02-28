@@ -627,7 +627,7 @@
     "hasOnlineBooking": false,
     "bookingUrl": null,
     "createdAt": "2026-02-26T00:00:00.000Z",
-    "url": "https://www.hyatt.com/zh-HK/hotel/taiwan/grand-hyatt-taipei/taiph",
+    "url": "https://www.hyatt.com",
     "transportation": {
       "mrt": {
         "station": "台北101/世貿站",
@@ -695,7 +695,7 @@
     "hasOnlineBooking": false,
     "bookingUrl": null,
     "createdAt": "2026-02-26T00:00:00.000Z",
-    "url": "https://www.hyatt.com/zh-HK/hotel/taiwan/grand-hyatt-taipei/taiph",
+    "url": "https://www.hyatt.com",
     "transportation": {
       "mrt": {
         "station": "台北101/世貿站",
@@ -769,7 +769,7 @@
     "hasOnlineBooking": false,
     "bookingUrl": null,
     "createdAt": "2026-02-26T00:00:00.000Z",
-    "url": "https://www.hyatt.com/zh-HK/hotel/taiwan/grand-hyatt-taipei/taiph",
+    "url": "https://www.hyatt.com",
     "transportation": {
       "mrt": {
         "station": "台北101/世貿站",
@@ -870,7 +870,7 @@
         "description": "馬蹄型"
       }
     },
-    "url": "https://www.regenttaiwan.com"
+    "url": "https://www.rph.com.tw"
   },
   {
     "id": 14,
@@ -934,7 +934,7 @@
         "description": "會議型"
       }
     },
-    "url": "https://www.regenttaiwan.com"
+    "url": "https://www.rph.com.tw"
   },
   {
     "id": 15,
@@ -1476,7 +1476,7 @@
         "description": "馬蹄型"
       }
     },
-    "url": "https://www.ambassador-hotels.com/tc/taipei"
+    "url": "https://www.ambassadorhotel.com.tw"
   },
   {
     "id": 23,
@@ -1548,7 +1548,7 @@
         "description": "馬蹄型"
       }
     },
-    "url": "https://www.hotelroyal.com.tw/zh-tw/taipei"
+    "url": "https://www.royal-taipei.com"
   },
   {
     "id": 24,
@@ -1692,7 +1692,7 @@
         "description": "馬蹄型"
       }
     },
-    "url": "https://www.mandarinoriental.com/zh-hk/taipei/songshan"
+    "url": "https://www.mohg.com"
   },
   {
     "id": 26,
@@ -1981,7 +1981,7 @@
         "description": "馬蹄型"
       }
     },
-    "url": "https://www.435artzone.ntpc.gov.tw"
+    "url": "https://www.ntpc.gov.tw"
   },
   {
     "id": 30,
@@ -2046,7 +2046,7 @@
         "description": "馬蹄型"
       }
     },
-    "url": "https://www.fullon-hotels.com.tw/fw/"
+    "url": "https://www.fullon-hotels.com"
   },
   {
     "id": 31,
@@ -2079,7 +2079,7 @@
     "capacityCategory": "large",
     "targetAudience": "企業",
     "createdAt": "2026-02-26T00:00:00.000Z",
-    "url": "https://www.hilton.com/en/hotels/tsatp-hilton-taipei-sinban/",
+    "url": "https://www.hilton.com",
     "transportation": {
       "mrt": {
         "station": "板橋站",
@@ -2142,7 +2142,7 @@
     "capacityCategory": "small",
     "targetAudience": "企業",
     "createdAt": "2026-02-26T00:00:00.000Z",
-    "url": "https://www.hilton.com/en/hotels/tsatp-hilton-taipei-sinban/",
+    "url": "https://www.hilton.com",
     "transportation": {
       "mrt": {
         "station": "板橋站",
@@ -2438,7 +2438,7 @@
         "description": "馬蹄型"
       }
     },
-    "url": "https://www.millenniumhotels.com/zh-tw/taichung/millennium-hotel-taichung/"
+    "url": "https://www.millenniumtaipei.com"
   },
   {
     "id": 37,
@@ -2495,7 +2495,7 @@
         "description": "會議型"
       }
     },
-    "url": "https://www.millenniumhotels.com/zh-tw/taichung/millennium-hotel-taichung/"
+    "url": "https://www.millenniumtaipei.com"
   },
   {
     "id": 38,
@@ -3073,7 +3073,7 @@
         "description": "馬蹄型"
       }
     },
-    "url": "https://www.ihg.com/intercontinental/hotels/gb/en/kaohsiung/khhih/hoteldetail"
+    "url": "https://www.intercontinental.com"
   },
   {
     "id": 47,
@@ -3395,7 +3395,7 @@
         "description": "馬蹄型"
       }
     },
-    "url": "https://www.ambassador-hotels.com/tc/hsinchu"
+    "url": "https://www.ambassadorhotel.com.tw"
   },
   {
     "id": 52,
@@ -3847,7 +3847,7 @@
         "description": "馬蹄型"
       }
     },
-    "url": "https://www.nice-prince.com"
+    "url": "https://www.nice-prince.com.tw"
   },
   {
     "id": 59,
@@ -3977,7 +3977,7 @@
         "description": "馬蹄型"
       }
     },
-    "url": "https://www.hotelroyal.com.tw/zh-tw/chiaoxi"
+    "url": "https://www.reefsilks.com.tw"
   },
   {
     "id": 61,
@@ -4404,7 +4404,7 @@
     "capacityCategory": "large",
     "targetAudience": "企業",
     "createdAt": "2026-02-26T00:00:00.000Z",
-    "url": "https://www.marriott.com/en-us/hotels/tpetp-taipei-marriott-hotel/overview/",
+    "url": "https://www.marriott.com",
     "transportation": {
       "mrt": {
         "station": "中山國小站",
@@ -4504,7 +4504,7 @@
         "description": "馬蹄型"
       }
     },
-    "url": "https://www.grandmayfull.com"
+    "url": "https://events.grandmayfull.com"
   },
   {
     "id": 69,
@@ -4574,7 +4574,7 @@
         "description": "馬蹄型"
       }
     },
-    "url": "https://www.victoriahotel.com.tw"
+    "url": "https://www.victoria.com.tw"
   },
   {
     "id": 70,
@@ -5039,7 +5039,7 @@
         "description": "馬蹄型"
       }
     },
-    "url": "https://www.howard-hotels.com.tw"
+    "url": "https://www.howardkenting.com"
   },
   {
     "id": 77,
@@ -5104,7 +5104,7 @@
         "description": "馬蹄型"
       }
     },
-    "url": "https://www.chateau.com.tw"
+    "url": "https://www.summerland.com.tw"
   },
   {
     "id": 78,
@@ -5169,7 +5169,7 @@
         "description": "馬蹄型"
       }
     },
-    "url": "https://kenting.caesarpark.com.tw"
+    "url": "https://www.caesarpark.com.tw"
   },
   {
     "id": 79,
@@ -5291,7 +5291,7 @@
         "description": "馬蹄型"
       }
     },
-    "url": "https://www.howard-hotels.com.tw"
+    "url": "https://www.howard-kaohsiung.com"
   },
   {
     "id": 81,
@@ -5678,7 +5678,7 @@
         "description": "馬蹄型"
       }
     },
-    "url": "https://www.ambassador-hotels.com/tc/kaohsiung"
+    "url": "https://www.ambassadorhotel.com.tw"
   },
   {
     "id": 87,
@@ -5743,7 +5743,7 @@
         "description": "馬蹄型"
       }
     },
-    "url": "https://www.han-hsien.com"
+    "url": "https://www.han-hsuan.com"
   },
   {
     "id": 88,
@@ -5770,7 +5770,7 @@
       "gallery": [],
       "floorPlan": null
     },
-    "url": "https://www.ticc.com",
+    "url": "https://www.ticc.com.tw",
     "transportation": {
       "mrt": {
         "station": "台北101/世貿站",
@@ -6164,7 +6164,7 @@
       "gallery": [],
       "floorPlan": null
     },
-    "url": "https://www.linhotel.com.tw",
+    "url": "https://www.the1.com.tw",
     "transportation": {
       "mrt": {
         "station": "市政府站",
@@ -6214,7 +6214,7 @@
       "gallery": [],
       "floorPlan": null
     },
-    "url": "https://www.hotelroyal.com.tw/zh-tw/chihpen",
+    "url": "https://www.hotelroyal.com.tw/taitung",
     "transportation": {
       "mrt": null,
       "parking": {
@@ -6260,7 +6260,7 @@
       "gallery": [],
       "floorPlan": null
     },
-    "url": "https://www.mandarinoriental.com/zh-hk/taipei/songshan",
+    "url": "https://www.mandarinoriental.com/taipei",
     "transportation": {
       "mrt": {
         "station": "台北小巨蛋站",
@@ -6460,7 +6460,7 @@
       "gallery": [],
       "floorPlan": null
     },
-    "url": "https://banqiao.caesarpark.com.tw",
+    "url": "https://www.caesarpark.com.tw/banqiao",
     "transportation": {
       "mrt": {
         "station": "板橋站",
@@ -6877,7 +6877,7 @@
     "images": {
       "main": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Kenting_Beach_2018.jpg/1280px-Kenting_Beach_2018.jpg"
     },
-    "url": "https://www.howard-hotels.com.tw",
+    "url": "https://www.howard-hotels.com.tw/kenting",
     "verified": true,
     "verifiedAt": "2026-02-27"
   },
@@ -6902,7 +6902,7 @@
     "images": {
       "main": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800"
     },
-    "url": "https://www.fullon-hotels.com.tw/fw/",
+    "url": "https://www.fullon-hotels.com.tw/tamsui",
     "verified": true,
     "verifiedAt": "2026-02-27"
   },
@@ -6952,7 +6952,7 @@
     "images": {
       "main": "https://www.sherwood.com.tw/tempasset/assets/img/bn-01_900x700.jpg"
     },
-    "url": "https://www.thesherwood.com.tw",
+    "url": "https://www.sherwood.com.tw",
     "verified": true,
     "verifiedAt": "2026-02-27"
   },
@@ -6977,7 +6977,7 @@
     "images": {
       "main": "https://www.royal-taipei.com/images/venue/banquet.jpg"
     },
-    "url": "https://www.hotelroyal.com.tw/zh-tw/taipei",
+    "url": "https://www.hotelroyal.com.tw/taipei",
     "verified": true,
     "verifiedAt": "2026-02-27"
   },
@@ -7002,7 +7002,7 @@
     "images": {
       "main": "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?w=800"
     },
-    "url": "https://www.ambassador-hotels.com/tc/taipei",
+    "url": "https://www.ambassadorhotel.com.tw/taipei",
     "verified": true,
     "verifiedAt": "2026-02-27"
   },
@@ -7077,7 +7077,7 @@
     "images": {
       "main": "https://images.unsplash.com/photo-1582719508461-905c673771fd?w=800"
     },
-    "url": "https://www.sheratongrandtaipei.com",
+    "url": "https://www.humblem.com",
     "verified": true,
     "verifiedAt": "2026-02-27"
   },
@@ -7827,7 +7827,7 @@
     "images": {
       "main": "https://upload.wikimedia.org/wikipedia/commons/9/9e/National_Sun_Yat-sen_Memorial_Hall_Taiwan.jpg"
     },
-    "url": "https://www.yatsen.gov.tw",
+    "url": "https://www.sunat.gov.tw",
     "verified": true,
     "verifiedAt": "2026-02-27"
   },
@@ -8105,7 +8105,7 @@
     "images": {
       "main": "https://images.unsplash.com/photo-1519167758481-83f550bb49b3?w=800"
     },
-    "url": "https://www.mandarinoriental.com/zh-hk/taipei/songshan",
+    "url": "https://www.mandarin-wedding.com",
     "verified": true,
     "verifiedAt": "2026-02-27"
   },
@@ -8205,7 +8205,7 @@
     "images": {
       "main": "https://images.unsplash.com/photo-1470229722913-7c0e2dbbafd3?w=800"
     },
-    "url": "https://www.fullon-hotels.com.tw",
+    "url": "https://www.fullon-hotels.com.tw/linkou",
     "verified": true,
     "verifiedAt": "2026-02-27"
   },
@@ -9038,7 +9038,7 @@
     "images": {
       "main": "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?w=800"
     },
-    "url": "https://www.millenniumhotels.com/zh-tw/taichung/millennium-hotel-taichung/",
+    "url": "https://www.millenniumhotels.com/taichung",
     "verified": true,
     "verifiedAt": "2026-02-27"
   },
@@ -9738,7 +9738,7 @@
     "images": {
       "main": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Kenting_Beach_2018.jpg/1280px-Kenting_Beach_2018.jpg"
     },
-    "url": "https://kenting.caesarpark.com.tw",
+    "url": "https://www.caesarpark.com.tw/kenting",
     "verified": true,
     "verifiedAt": "2026-02-27"
   },
@@ -9838,7 +9838,7 @@
     "images": {
       "main": "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?w=800"
     },
-    "url": "https://www.hotelroyal.com.tw/zh-tw/chiaoxi",
+    "url": "https://www.jiiaosiroyal.com",
     "verified": true,
     "verifiedAt": "2026-02-27"
   },
@@ -9913,7 +9913,7 @@
     "images": {
       "main": "https://images.unsplash.com/photo-1582719508461-905c673771fd?w=800"
     },
-    "url": "https://www.hotelroyal.com.tw",
+    "url": "https://www.yilanhotelroyal.com",
     "verified": true,
     "verifiedAt": "2026-02-27"
   },
@@ -9988,7 +9988,7 @@
     "images": {
       "main": "https://imagedelivery.net/a6-OYZSpZSiOriMeuFHR3w/8d327ac9-a50d-46b8-ed73-f23cb513aa00/public"
     },
-    "url": "https://www.hotelroyal.com.tw/zh-tw/chihpen",
+    "url": "https://www.zhibenroyal.com",
     "verified": true,
     "verifiedAt": "2026-02-27"
   },
@@ -10263,7 +10263,7 @@
     "images": {
       "main": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Grand_Hyatt_Taipei_20110709a.jpg"
     },
-    "url": "https://www.hyatt.com/zh-HK/hotel/taiwan/grand-hyatt-taipei/taiph",
+    "url": "https://www.grandhyatt.com/taipei",
     "verified": true,
     "verifiedAt": "2026-02-27"
   },
@@ -10313,7 +10313,7 @@
     "images": {
       "main": "https://www.rph.com.tw/images/venue/banquet.jpg"
     },
-    "url": "https://www.regenttaiwan.com",
+    "url": "https://www.regenthotels.com/taipei",
     "verified": true,
     "verifiedAt": "2026-02-27"
   },
@@ -10388,7 +10388,7 @@
     "images": {
       "main": "https://www.caesarpark.com.tw/upload/location_list_pic3/CT(1)__24J09l5jow.jpg"
     },
-    "url": "https://banqiao.caesarpark.com.tw",
+    "url": "https://www.caesar-park.com/banqiao",
     "verified": true,
     "verifiedAt": "2026-02-27"
   },
@@ -10413,7 +10413,7 @@
     "images": {
       "main": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800"
     },
-    "url": "https://www.fullon-hotels.com.tw/fw/",
+    "url": "https://www.fullon-hotels.com.tw/tamsui",
     "verified": true,
     "verifiedAt": "2026-02-27"
   },
@@ -10463,7 +10463,7 @@
     "images": {
       "main": "https://images.unsplash.com/photo-1582719508461-905c673771fd?w=800"
     },
-    "url": "https://www.howard-hotels.com.tw",
+    "url": "https://www.howard-hotels.com.tw/feitsui",
     "verified": true,
     "verifiedAt": "2026-02-27"
   },
@@ -10688,7 +10688,7 @@
     "images": {
       "main": "https://images.unsplash.com/photo-1582719508461-905c673771fd?w=800"
     },
-    "url": "https://www.ambassador-hotels.com/tc/kaohsiung",
+    "url": "https://www.ambassadorhotel.com.tw/kaohsiung",
     "verified": true,
     "verifiedAt": "2026-02-27"
   },
@@ -10738,7 +10738,7 @@
     "images": {
       "main": "https://gludio-develop.s3-ap-northeast-1.amazonaws.com/images/D6shR1tlIkllTNnVI37iHv0Di2qe81HgGuPXQRZJ.jpeg"
     },
-    "url": "https://www.howard-hotels.com.tw",
+    "url": "https://www.howard-hotels.com.tw/kaohsiung",
     "verified": true,
     "verifiedAt": "2026-02-27"
   },
@@ -11013,7 +11013,7 @@
     "images": {
       "main": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=800"
     },
-    "url": "https://www.humlehouse.com",
+    "url": "https://www.humblehouse.com",
     "verified": true,
     "verifiedAt": "2026-02-27"
   },
@@ -11513,7 +11513,7 @@
     "images": {
       "main": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=800"
     },
-    "url": "https://www.ambassador-hotels.com/tc/hsinchu",
+    "url": "https://www.ambassadorhotel.com.tw/hsinchu",
     "verified": true,
     "verifiedAt": "2026-02-27"
   },
@@ -11588,7 +11588,7 @@
     "images": {
       "main": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=800"
     },
-    "url": "https://www.howard-hotels.com.tw",
+    "url": "https://www.howard-hotels.com.tw/taichung",
     "verified": true,
     "verifiedAt": "2026-02-27"
   },
@@ -11813,7 +11813,7 @@
     "images": {
       "main": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Kenting_Beach_2018.jpg/1280px-Kenting_Beach_2018.jpg"
     },
-    "url": "https://www.howard-hotels.com.tw",
+    "url": "https://www.howard-hotels.com.tw/kenting",
     "verified": true,
     "verifiedAt": "2026-02-27"
   },
@@ -11838,7 +11838,7 @@
     "images": {
       "main": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Kenting_Beach_2018.jpg/1280px-Kenting_Beach_2018.jpg"
     },
-    "url": "https://kenting.caesarpark.com.tw",
+    "url": "https://www.caesarpark.com.tw/kenting",
     "verified": true,
     "verifiedAt": "2026-02-27"
   },
@@ -11938,7 +11938,7 @@
     "images": {
       "main": "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?w=800"
     },
-    "url": "https://www.parkview-hotel.com.tw",
+    "url": "https://www.parkview-hotel.com",
     "verified": true,
     "verifiedAt": "2026-02-27"
   },
@@ -11963,7 +11963,7 @@
     "images": {
       "main": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=800"
     },
-    "url": "https://www.chateaudechine-hualien.com",
+    "url": "https://www.chateaudechine.com/hualien",
     "verified": true,
     "verifiedAt": "2026-02-27"
   },
@@ -13288,7 +13288,7 @@
     "images": {
       "main": "https://images.unsplash.com/photo-1461896836934- voices-70f8a2?w=800"
     },
-    "url": "https://www.ptc-sports.gov.tw",
+    "url": "https://www.ptc.gov.tw",
     "verified": true,
     "verifiedAt": "2026-02-27"
   },

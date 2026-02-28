@@ -1,0 +1,7974 @@
+{
+  "timestamp": "2026-02-28T10:24:17.049Z",
+  "summary": {
+    "total": 379,
+    "complete": 0,
+    "partial": 0,
+    "incomplete": 0,
+    "unverified": 0,
+    "guessed": 0,
+    "issues": [
+      {
+        "id": 1,
+        "name": "華山1914文化創意產業園區",
+        "room": "中3館",
+        "city": "台北市",
+        "qualityLevel": "GUESSED",
+        "issues": [
+          "資料可能為猜測"
+        ]
+      },
+      {
+        "id": 2,
+        "name": "朱崙區民活動中心",
+        "room": "禮堂",
+        "city": "台北市",
+        "qualityLevel": "GUESSED",
+        "issues": [
+          "缺少建議: maxCapacityTheater",
+          "缺少建議: priceHalfDay",
+          "缺少建議: contactEmail",
+          "缺少資料來源標記",
+          "資料可能為猜測"
+        ]
+      },
+      {
+        "id": 3,
+        "name": "林森三區民活動中心",
+        "room": "會議室",
+        "city": "台北市",
+        "qualityLevel": "GUESSED",
+        "issues": [
+          "缺少建議: maxCapacityTheater",
+          "缺少建議: priceHalfDay",
+          "缺少建議: contactEmail",
+          "缺少資料來源標記",
+          "資料可能為猜測"
+        ]
+      },
+      {
+        "id": 4,
+        "name": "客家藝文活動中心",
+        "room": "3樓會議室",
+        "city": "台北市",
+        "qualityLevel": "UNVERIFIED",
+        "issues": [
+          "缺少建議: maxCapacityTheater",
+          "缺少建議: priceHalfDay",
+          "缺少建議: contactEmail",
+          "缺少資料來源標記"
+        ]
+      },
+      {
+        "id": 5,
+        "name": "松江區民活動中心",
+        "room": "多功能廳",
+        "city": "台北市",
+        "qualityLevel": "GUESSED",
+        "issues": [
+          "缺少建議: maxCapacityTheater",
+          "缺少建議: priceHalfDay",
+          "缺少建議: contactEmail",
+          "缺少資料來源標記",
+          "資料可能為猜測"
+        ]
+      },
+      {
+        "id": 6,
+        "name": "新北市公有場地",
+        "room": "大埤頂市民活動中心演藝廳",
+        "city": "新北市",
+        "qualityLevel": "GUESSED",
+        "issues": [
+          "缺少建議: maxCapacityTheater",
+          "缺少建議: priceHalfDay",
+          "缺少建議: contactEmail",
+          "缺少資料來源標記",
+          "資料可能為猜測"
+        ]
+      },
+      {
+        "id": 7,
+        "name": "台北君悅酒店",
+        "room": "凱沃廳",
+        "city": "台北市",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 8,
+        "name": "台北晶華酒店",
+        "room": "五星級",
+        "city": "台北市",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: images.main",
+          "缺少建議: dimensions.area",
+          "缺少建議: maxCapacityTheater",
+          "缺少建議: priceHalfDay"
+        ]
+      },
+      {
+        "id": 9,
+        "name": "W飯店台北",
+        "room": "WOW Hall",
+        "city": "台北市",
+        "qualityLevel": "GUESSED",
+        "issues": [
+          "資料可能為猜測"
+        ]
+      },
+      {
+        "id": 10,
+        "name": "台北香格里拉遠東國際大飯店",
+        "room": "多功能會議室",
+        "city": "台北市",
+        "qualityLevel": "GUESSED",
+        "issues": [
+          "缺少資料來源標記",
+          "資料可能為猜測"
+        ]
+      },
+      {
+        "id": 11,
+        "name": "台北君品酒店",
+        "room": "君品廳",
+        "city": "台北市",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 12,
+        "name": "台北喜來登大飯店",
+        "room": "喜來登廳",
+        "city": "台北市",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 13,
+        "name": "台北國賓大飯店",
+        "room": "五星級",
+        "city": "台北市",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: images.main",
+          "缺少建議: dimensions.area",
+          "缺少建議: maxCapacityTheater",
+          "缺少建議: priceHalfDay"
+        ]
+      },
+      {
+        "id": 14,
+        "name": "台北老爺大酒店",
+        "room": "明園廳",
+        "city": "台北市",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 15,
+        "name": "寒舍艾美酒店",
+        "room": "大宴會廳",
+        "city": "台北市",
+        "qualityLevel": "GUESSED",
+        "issues": [
+          "缺少資料來源標記",
+          "資料可能為猜測"
+        ]
+      },
+      {
+        "id": 16,
+        "name": "台北文華東方酒店",
+        "room": "五星級",
+        "city": "台北市",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: images.main",
+          "缺少建議: dimensions.area",
+          "缺少建議: maxCapacityTheater",
+          "缺少建議: priceHalfDay"
+        ]
+      },
+      {
+        "id": 17,
+        "name": "台北西華飯店",
+        "room": "托斯卡尼廳",
+        "city": "台北市",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 18,
+        "name": "台北威斯汀六福皇宮",
+        "room": "大宴會廳",
+        "city": "台北市",
+        "qualityLevel": "GUESSED",
+        "issues": [
+          "缺少資料來源標記",
+          "資料可能為猜測"
+        ]
+      },
+      {
+        "id": 19,
+        "name": "兄弟大飯店",
+        "room": "宴會廳",
+        "city": "台北市",
+        "qualityLevel": "GUESSED",
+        "issues": [
+          "缺少資料來源標記",
+          "資料可能為猜測"
+        ]
+      },
+      {
+        "id": 20,
+        "name": "板橋435藝文特區",
+        "room": "中正館",
+        "city": "新北市",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 21,
+        "name": "福容大飯店-淡水漁人碼頭",
+        "room": "宴會廳",
+        "city": "新北市",
+        "qualityLevel": "GUESSED",
+        "issues": [
+          "缺少資料來源標記",
+          "資料可能為猜測"
+        ]
+      },
+      {
+        "id": 22,
+        "name": "新板希爾頓酒店",
+        "room": "會議室",
+        "city": "新北市",
+        "qualityLevel": "GUESSED",
+        "issues": [
+          "缺少資料來源標記",
+          "資料可能為猜測"
+        ]
+      },
+      {
+        "id": 23,
+        "name": "典華旗艦店",
+        "room": "維多麗雅廳",
+        "city": "新北市",
+        "qualityLevel": "GUESSED",
+        "issues": [
+          "缺少資料來源標記",
+          "資料可能為猜測"
+        ]
+      },
+      {
+        "id": 24,
+        "name": "桃園喜來登酒店",
+        "room": "大宴會廳",
+        "city": "桃園市",
+        "qualityLevel": "GUESSED",
+        "issues": [
+          "缺少資料來源標記",
+          "資料可能為猜測"
+        ]
+      },
+      {
+        "id": 25,
+        "name": "尊爵天際大飯店",
+        "room": "宴會廳",
+        "city": "桃園市",
+        "qualityLevel": "GUESSED",
+        "issues": [
+          "缺少資料來源標記",
+          "資料可能為猜測"
+        ]
+      },
+      {
+        "id": 26,
+        "name": "台中日月千禧酒店",
+        "room": "千禧廳",
+        "city": "台中市",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 27,
+        "name": "林酒店",
+        "room": "林皇宮宴會廳",
+        "city": "台中市",
+        "qualityLevel": "GUESSED",
+        "issues": [
+          "缺少資料來源標記",
+          "資料可能為猜測"
+        ]
+      },
+      {
+        "id": 28,
+        "name": "台中市世貿中心",
+        "room": "展覽館",
+        "city": "台中市",
+        "qualityLevel": "GUESSED",
+        "issues": [
+          "缺少資料來源標記",
+          "資料可能為猜測"
+        ]
+      },
+      {
+        "id": 29,
+        "name": "台中國家歌劇院",
+        "room": "中劇院",
+        "city": "台中市",
+        "qualityLevel": "GUESSED",
+        "issues": [
+          "缺少資料來源標記",
+          "資料可能為猜測"
+        ]
+      },
+      {
+        "id": 30,
+        "name": "台南香格里拉遠東國際大飯店",
+        "room": "遠東廳",
+        "city": "台南市",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 31,
+        "name": "台南奇美博物館",
+        "room": "多功能廳",
+        "city": "台南市",
+        "qualityLevel": "GUESSED",
+        "issues": [
+          "缺少資料來源標記",
+          "資料可能為猜測"
+        ]
+      },
+      {
+        "id": 32,
+        "name": "高雄漢來大飯店",
+        "room": "漢來廳",
+        "city": "高雄市",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 33,
+        "name": "高雄洲際酒店",
+        "room": "宴會廳",
+        "city": "高雄市",
+        "qualityLevel": "GUESSED",
+        "issues": [
+          "缺少資料來源標記",
+          "資料可能為猜測"
+        ]
+      },
+      {
+        "id": 34,
+        "name": "高雄展覽館",
+        "room": "南館",
+        "city": "高雄市",
+        "qualityLevel": "GUESSED",
+        "issues": [
+          "資料可能為猜測"
+        ]
+      },
+      {
+        "id": 35,
+        "name": "義大皇家酒店",
+        "room": "皇家宴會廳",
+        "city": "高雄市",
+        "qualityLevel": "GUESSED",
+        "issues": [
+          "缺少資料來源標記",
+          "資料可能為猜測"
+        ]
+      },
+      {
+        "id": 36,
+        "name": "基隆長榮桂冠酒店",
+        "room": "宴會廳",
+        "city": "基隆市",
+        "qualityLevel": "GUESSED",
+        "issues": [
+          "缺少資料來源標記",
+          "資料可能為猜測"
+        ]
+      },
+      {
+        "id": 37,
+        "name": "新竹國賓大飯店",
+        "room": "國賓廳",
+        "city": "新竹市",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 38,
+        "name": "新竹喜來登大飯店",
+        "room": "會議室",
+        "city": "新竹市",
+        "qualityLevel": "GUESSED",
+        "issues": [
+          "缺少資料來源標記",
+          "資料可能為猜測"
+        ]
+      },
+      {
+        "id": 39,
+        "name": "煙波大飯店新竹湖濱館",
+        "room": "宴會廳",
+        "city": "新竹市",
+        "qualityLevel": "GUESSED",
+        "issues": [
+          "缺少資料來源標記",
+          "資料可能為猜測"
+        ]
+      },
+      {
+        "id": 40,
+        "name": "新竹豐邑喜來登大飯店",
+        "room": "宴會廳",
+        "city": "新竹縣",
+        "qualityLevel": "GUESSED",
+        "issues": [
+          "缺少資料來源標記",
+          "資料可能為猜測"
+        ]
+      },
+      {
+        "id": 41,
+        "name": "嘉義市文化局",
+        "room": "音樂廳",
+        "city": "嘉義市",
+        "qualityLevel": "GUESSED",
+        "issues": [
+          "缺少資料來源標記",
+          "資料可能為猜測"
+        ]
+      },
+      {
+        "id": 42,
+        "name": "嘉義耐斯王子大飯店",
+        "room": "王子廳",
+        "city": "嘉義市",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 43,
+        "name": "嘉義長榮文苑酒店",
+        "room": "宴會廳",
+        "city": "嘉義縣",
+        "qualityLevel": "GUESSED",
+        "issues": [
+          "缺少資料來源標記",
+          "資料可能為猜測"
+        ]
+      },
+      {
+        "id": 44,
+        "name": "宜蘭礁溪老爺酒店",
+        "room": "老爺廳",
+        "city": "宜蘭縣",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 45,
+        "name": "宜蘭蘭城晶英酒店",
+        "room": "宴會廳",
+        "city": "宜蘭縣",
+        "qualityLevel": "GUESSED",
+        "issues": [
+          "缺少資料來源標記",
+          "資料可能為猜測"
+        ]
+      },
+      {
+        "id": 46,
+        "name": "花蓮翰品酒店",
+        "room": "翰品廳",
+        "city": "花蓮縣",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 47,
+        "name": "花蓮遠雄悅來大飯店",
+        "room": "悅來廳",
+        "city": "花蓮縣",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 48,
+        "name": "花蓮美侖大飯店",
+        "room": "美侖廳",
+        "city": "花蓮縣",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 49,
+        "name": "花蓮文化局演藝廳",
+        "room": "演藝廳",
+        "city": "花蓮縣",
+        "qualityLevel": "GUESSED",
+        "issues": [
+          "缺少資料來源標記",
+          "資料可能為猜測"
+        ]
+      },
+      {
+        "id": 50,
+        "name": "台北寒舍艾麗酒店",
+        "room": "艾麗廳",
+        "city": "台北市",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 51,
+        "name": "台北萬豪酒店",
+        "room": "大宴會廳",
+        "city": "台北市",
+        "qualityLevel": "GUESSED",
+        "issues": [
+          "缺少資料來源標記",
+          "資料可能為猜測"
+        ]
+      },
+      {
+        "id": 52,
+        "name": "台北美福大飯店",
+        "room": "美福廳",
+        "city": "台北市",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 53,
+        "name": "維多麗亞酒店",
+        "room": "維多麗亞廳",
+        "city": "台北市",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 54,
+        "name": "花園大酒店",
+        "room": "宴會廳",
+        "city": "台北市",
+        "qualityLevel": "GUESSED",
+        "issues": [
+          "缺少資料來源標記",
+          "資料可能為猜測"
+        ]
+      },
+      {
+        "id": 55,
+        "name": "豪景大酒店",
+        "room": "宴會廳",
+        "city": "台北市",
+        "qualityLevel": "GUESSED",
+        "issues": [
+          "缺少資料來源標記",
+          "資料可能為猜測"
+        ]
+      },
+      {
+        "id": 56,
+        "name": "神旺大飯店",
+        "room": "宴會廳",
+        "city": "台北市",
+        "qualityLevel": "GUESSED",
+        "issues": [
+          "缺少資料來源標記",
+          "資料可能為猜測"
+        ]
+      },
+      {
+        "id": 57,
+        "name": "台北王朝大酒店",
+        "room": "宴會廳",
+        "city": "台北市",
+        "qualityLevel": "GUESSED",
+        "issues": [
+          "缺少資料來源標記",
+          "資料可能為猜測"
+        ]
+      },
+      {
+        "id": 58,
+        "name": "統一渡假村-墾丁",
+        "room": "會議室",
+        "city": "屏東縣",
+        "qualityLevel": "GUESSED",
+        "issues": [
+          "缺少資料來源標記",
+          "資料可能為猜測"
+        ]
+      },
+      {
+        "id": 59,
+        "name": "墾丁福華渡假飯店",
+        "room": "渡假飯店",
+        "city": "屏東縣",
+        "qualityLevel": "GUESSED",
+        "issues": [
+          "缺少建議: images.main",
+          "缺少建議: dimensions.area",
+          "缺少建議: maxCapacityTheater",
+          "缺少建議: priceHalfDay",
+          "資料可能為猜測"
+        ]
+      },
+      {
+        "id": 60,
+        "name": "墾丁夏都沙灘酒店",
+        "room": "夏都廳",
+        "city": "屏東縣",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 61,
+        "name": "墾丁凱撒大飯店",
+        "room": "南洋風情",
+        "city": "屏東縣",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: images.main",
+          "缺少建議: dimensions.area",
+          "缺少建議: maxCapacityTheater",
+          "缺少建議: priceHalfDay"
+        ]
+      },
+      {
+        "id": 62,
+        "name": "高雄義大皇家酒店",
+        "room": "會議中心",
+        "city": "高雄市",
+        "qualityLevel": "GUESSED",
+        "issues": [
+          "缺少資料來源標記",
+          "資料可能為猜測"
+        ]
+      },
+      {
+        "id": 63,
+        "name": "高雄福華大飯店",
+        "room": "福華廳",
+        "city": "高雄市",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 64,
+        "name": "高雄翰苑酒店",
+        "room": "宴會廳",
+        "city": "高雄市",
+        "qualityLevel": "GUESSED",
+        "issues": [
+          "缺少資料來源標記",
+          "資料可能為猜測"
+        ]
+      },
+      {
+        "id": 65,
+        "name": "台北淡水將捷金鬱金香酒店",
+        "room": "宴會廳",
+        "city": "新北市",
+        "qualityLevel": "GUESSED",
+        "issues": [
+          "缺少資料來源標記",
+          "資料可能為猜測"
+        ]
+      },
+      {
+        "id": 66,
+        "name": "淡水漁人舞台",
+        "room": "多功能廳",
+        "city": "新北市",
+        "qualityLevel": "GUESSED",
+        "issues": [
+          "缺少資料來源標記",
+          "資料可能為猜測"
+        ]
+      },
+      {
+        "id": 67,
+        "name": "淡水紅毛城古蹟園區",
+        "room": "戶外廣場",
+        "city": "新北市",
+        "qualityLevel": "GUESSED",
+        "issues": [
+          "缺少資料來源標記",
+          "資料可能為猜測"
+        ]
+      },
+      {
+        "id": 68,
+        "name": "華泰瑞苑墾丁賓館",
+        "room": "宴會廳",
+        "city": "屏東縣",
+        "qualityLevel": "GUESSED",
+        "issues": [
+          "缺少資料來源標記",
+          "資料可能為猜測"
+        ]
+      },
+      {
+        "id": 69,
+        "name": "高雄國賓大飯店",
+        "room": "國賓廳",
+        "city": "高雄市",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 70,
+        "name": "高雄寒軒國際大飯店",
+        "room": "寒軒廳",
+        "city": "高雄市",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 71,
+        "name": "松山文創園區",
+        "room": "1號倉庫",
+        "city": "台北市",
+        "qualityLevel": "GUESSED",
+        "issues": [
+          "資料可能為猜測"
+        ]
+      },
+      {
+        "id": 72,
+        "name": "三創生活園區",
+        "room": "6F CLAPPER THEATER",
+        "city": "台北市",
+        "qualityLevel": "GUESSED",
+        "issues": [
+          "資料可能為猜測"
+        ]
+      },
+      {
+        "id": 73,
+        "name": "台南市立文化中心",
+        "room": "演藝廳",
+        "city": "台南市",
+        "qualityLevel": "GUESSED",
+        "issues": [
+          "資料可能為猜測"
+        ]
+      },
+      {
+        "id": 74,
+        "name": "台南晶英酒店",
+        "room": "大宴會廳",
+        "city": "台南市",
+        "qualityLevel": "GUESSED",
+        "issues": [
+          "資料可能為猜測"
+        ]
+      },
+      {
+        "id": 75,
+        "name": "台中林酒店",
+        "room": "林皇宮廳",
+        "city": "台中市",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 76,
+        "name": "台東知本老爺酒店",
+        "room": "老爺廳",
+        "city": "台東縣",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 77,
+        "name": "台北艾美酒店",
+        "room": "艾美廳",
+        "city": "台北市",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 78,
+        "name": "NUZONE展演空間",
+        "room": "主空間",
+        "city": "台北市",
+        "qualityLevel": "GUESSED",
+        "issues": [
+          "資料可能為猜測"
+        ]
+      },
+      {
+        "id": 79,
+        "name": "TCCC台灣文創訓練中心",
+        "room": "多功能教室",
+        "city": "台北市",
+        "qualityLevel": "GUESSED",
+        "issues": [
+          "資料可能為猜測"
+        ]
+      },
+      {
+        "id": 80,
+        "name": "板橋凱撒大飯店",
+        "room": "三鐵交匯",
+        "city": "新北市",
+        "qualityLevel": "GUESSED",
+        "issues": [
+          "缺少建議: images.main",
+          "缺少建議: dimensions.area",
+          "缺少建議: maxCapacityTheater",
+          "缺少建議: priceHalfDay",
+          "資料可能為猜測"
+        ]
+      },
+      {
+        "id": 81,
+        "name": "桃園諾富特華航酒店",
+        "room": "大宴會廳",
+        "city": "桃園市",
+        "qualityLevel": "GUESSED",
+        "issues": [
+          "資料可能為猜測"
+        ]
+      },
+      {
+        "id": 82,
+        "name": "新竹煙波大飯店",
+        "room": "煙波廳",
+        "city": "新竹市",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 83,
+        "name": "新竹喜來登飯店",
+        "room": "喜來登廳",
+        "city": "新竹縣",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 84,
+        "name": "台中全國大飯店",
+        "room": "全國廳",
+        "city": "台中市",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 85,
+        "name": "台中金典酒店",
+        "room": "金典廳",
+        "city": "台中市",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 86,
+        "name": "高雄翰品酒店",
+        "room": "翰品廳",
+        "city": "高雄市",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 87,
+        "name": "台南大億麗緻酒店",
+        "room": "麗緻廳",
+        "city": "台南市",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 88,
+        "name": "台南老爺行旅",
+        "room": "甘樂廳",
+        "city": "台南市",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 89,
+        "name": "桃園尊爵大飯店",
+        "room": "尊爵廳",
+        "city": "桃園市",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 90,
+        "name": "桃園假日酒店",
+        "room": "假日廳",
+        "city": "桃園市",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 91,
+        "name": "雲林劍湖山王子大飯店",
+        "room": "王子廳",
+        "city": "雲林縣",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 92,
+        "name": "嘉義兆品酒店",
+        "room": "兆品廳",
+        "city": "嘉義市",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 93,
+        "name": "台東娜路彎大酒店",
+        "room": "娜路彎廳",
+        "city": "台東縣",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 94,
+        "name": "福容大飯店淡水漁人碼頭",
+        "room": "郵輪造型",
+        "city": "新北市",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: images.main",
+          "缺少建議: dimensions.area",
+          "缺少建議: maxCapacityTheater",
+          "缺少建議: priceHalfDay"
+        ]
+      },
+      {
+        "id": 95,
+        "name": "台北寒舍艾美酒店",
+        "room": "探索廳",
+        "city": "台北市",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 96,
+        "name": "台北亞都麗緻大飯店",
+        "room": "麗緻廳",
+        "city": "台北市",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 97,
+        "name": "香格里拉台北遠東國際大飯店",
+        "room": "遠東廳",
+        "city": "台北市",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 98,
+        "name": "台北寒舍喜來登大飯店",
+        "room": "喜來登廳",
+        "city": "台北市",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 99,
+        "name": "台北怡亨酒店",
+        "room": "怡亨廳",
+        "city": "台北市",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 100,
+        "name": "台北豪景大酒店",
+        "room": "豪景廳",
+        "city": "台北市",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 101,
+        "name": "六福萬怡酒店",
+        "room": "萬怡廳",
+        "city": "台北市",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 102,
+        "name": "台北慕軒酒店",
+        "room": "慕軒廳",
+        "city": "台北市",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 103,
+        "name": "台北天成酒店",
+        "room": "天成廳",
+        "city": "台北市",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 104,
+        "name": "台北馥敦飯店",
+        "room": "馥敦廳",
+        "city": "台北市",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 105,
+        "name": "新北市政府",
+        "room": "多功能會議廳",
+        "city": "新北市",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 106,
+        "name": "鶯歌陶瓷博物館",
+        "room": "國際演講廳",
+        "city": "新北市",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 107,
+        "name": "高雄市立圖書館總館",
+        "room": "際會廳",
+        "city": "高雄市",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 108,
+        "name": "高雄衛武營國家藝術文化中心",
+        "room": "表演廳",
+        "city": "高雄市",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 109,
+        "name": "台中市立圖書館",
+        "room": "多功能會議室",
+        "city": "台中市",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 110,
+        "name": "台南市政府",
+        "room": "永華市政中心會議廳",
+        "city": "台南市",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 111,
+        "name": "桃園市政府",
+        "room": "綜合會議廳",
+        "city": "桃園市",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 112,
+        "name": "基隆市政府",
+        "room": "綜合大禮堂",
+        "city": "基隆市",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 113,
+        "name": "新竹市政府",
+        "room": "綜合大禮堂",
+        "city": "新竹市",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 114,
+        "name": "嘉義市政府",
+        "room": "文化局音樂廳",
+        "city": "嘉義市",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 115,
+        "name": "宜蘭縣政府文化局",
+        "room": "演藝廳",
+        "city": "宜蘭縣",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 116,
+        "name": "花蓮縣文化局",
+        "room": "演藝廳",
+        "city": "花蓮縣",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 117,
+        "name": "台東縣政府文化處",
+        "room": "藝文中心演講廳",
+        "city": "台東縣",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 118,
+        "name": "屏東縣政府文化處",
+        "room": "演藝廳",
+        "city": "屏東縣",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 119,
+        "name": "台北世貿中心展覽大樓",
+        "room": "展覽一館",
+        "city": "台北市",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 120,
+        "name": "南港展覽館",
+        "room": "一館4樓",
+        "city": "台北市",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 121,
+        "name": "花博公園爭艷館",
+        "room": "全館",
+        "city": "台北市",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 122,
+        "name": "圓山花博公園流行館",
+        "room": "全館",
+        "city": "台北市",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 123,
+        "name": "中正紀念堂",
+        "room": "展覽",
+        "city": "台北市",
+        "qualityLevel": "GUESSED",
+        "issues": [
+          "缺少建議: images.main",
+          "缺少建議: dimensions.area",
+          "缺少建議: priceHalfDay",
+          "資料可能為猜測"
+        ]
+      },
+      {
+        "id": 124,
+        "name": "國父紀念館",
+        "room": "大會堂",
+        "city": "台北市",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 125,
+        "name": "台大綜合體育館",
+        "room": "主場館",
+        "city": "台北市",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 126,
+        "name": "台北小巨蛋",
+        "room": "主場館",
+        "city": "台北市",
+        "qualityLevel": "GUESSED",
+        "issues": [
+          "缺少建議: images.main",
+          "缺少建議: dimensions.area",
+          "缺少建議: priceHalfDay",
+          "資料可能為猜測"
+        ]
+      },
+      {
+        "id": 127,
+        "name": "社會創新實驗中心",
+        "room": "共享大廳",
+        "city": "台北市",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 128,
+        "name": "CLBC大安商務中心",
+        "room": "共同工作空間",
+        "city": "台北市",
+        "qualityLevel": "INCOMPLETE",
+        "issues": [
+          "缺少必填: address",
+          "缺少必填: contactPhone",
+          "缺少建議: images.main",
+          "缺少建議: dimensions.area",
+          "缺少建議: maxCapacityTheater",
+          "缺少建議: priceHalfDay",
+          "缺少建議: contactEmail"
+        ]
+      },
+      {
+        "id": 129,
+        "name": "復興美學共享空間",
+        "room": "多功能廳",
+        "city": "台北市",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 130,
+        "name": "高雄巨蛋",
+        "room": "主場館",
+        "city": "高雄市",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 131,
+        "name": "台南市政府永華中心",
+        "room": "多功能會議廳",
+        "city": "台南市",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 132,
+        "name": "大台南會展中心",
+        "room": "大會堂",
+        "city": "台南市",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 133,
+        "name": "桃園會展中心",
+        "room": "大會堂",
+        "city": "桃園市",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 134,
+        "name": "台北典華",
+        "room": "維多麗亞廳",
+        "city": "台北市",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 135,
+        "name": "文華東方婚宴會館",
+        "room": "文華廳",
+        "city": "台北市",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 136,
+        "name": "彭園婚宴會館",
+        "room": "台北館",
+        "city": "台北市",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 137,
+        "name": "青青婚宴會館",
+        "room": "主題廳",
+        "city": "台北市",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 138,
+        "name": "新板民生婚宴會館",
+        "room": "民生廳",
+        "city": "新北市",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 139,
+        "name": "林口福容婚宴會館",
+        "room": "福容廳",
+        "city": "新北市",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 140,
+        "name": "新天地婚宴會館",
+        "room": "旗艦館",
+        "city": "高雄市",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 141,
+        "name": "台中金典婚宴會館",
+        "room": "金典廳",
+        "city": "台中市",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 142,
+        "name": "台南維悅婚宴會館",
+        "room": "維悅廳",
+        "city": "台南市",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 143,
+        "name": "桃園千葉婚宴會館",
+        "room": "千葉廳",
+        "city": "桃園市",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 144,
+        "name": "台北體育館",
+        "room": "主場館",
+        "city": "台北市",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 145,
+        "name": "天母體育館",
+        "room": "主場館",
+        "city": "台北市",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 146,
+        "name": "新北市板橋體育館",
+        "room": "主場館",
+        "city": "新北市",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 147,
+        "name": "高雄市立體育館",
+        "room": "主場館",
+        "city": "高雄市",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 148,
+        "name": "台中市立體育館",
+        "room": "主場館",
+        "city": "台中市",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 149,
+        "name": "典藏咖啡廳",
+        "room": "包場空間",
+        "city": "台北市",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 150,
+        "name": "貳樓餐廳",
+        "room": "包場空間",
+        "city": "台北市",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 151,
+        "name": "Goodmans咖啡廳",
+        "room": "包場空間",
+        "city": "台北市",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 152,
+        "name": "CAMA咖啡",
+        "room": "包場空間",
+        "city": "台北市",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 153,
+        "name": "Simple Kaffa",
+        "room": "包場空間",
+        "city": "台北市",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 154,
+        "name": "台大校友會館",
+        "room": "會議廳",
+        "city": "台北市",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 155,
+        "name": "政大公企中心",
+        "room": "會議室",
+        "city": "台北市",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 156,
+        "name": "師大進修推廣學院",
+        "room": "演講廳",
+        "city": "台北市",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 157,
+        "name": "北科大創新育成中心",
+        "room": "會議室",
+        "city": "台北市",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 158,
+        "name": "WeWork共享空間",
+        "room": "會議室",
+        "city": "台北市",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 159,
+        "name": "The Executive Centre",
+        "room": "會議室",
+        "city": "台北市",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 160,
+        "name": "Regus商務中心",
+        "room": "會議室",
+        "city": "台北市",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 161,
+        "name": "國際會議中心(TICC)",
+        "room": "201會議室",
+        "city": "台北市",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 162,
+        "name": "集思台大會議中心",
+        "room": "國際會議廳",
+        "city": "台北市",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 163,
+        "name": "張榮發基金會國際會議中心",
+        "room": "國際會議廳",
+        "city": "台北市",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 164,
+        "name": "公務人力發展學院",
+        "room": "國際會議廳",
+        "city": "台北市",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 165,
+        "name": "澎湖福朋喜來登酒店",
+        "room": "福朋廳",
+        "city": "澎湖縣",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 166,
+        "name": "金門金湖飯店",
+        "room": "金湖廳",
+        "city": "金門縣",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 167,
+        "name": "馬祖日光海岸海景旅店",
+        "room": "會議室",
+        "city": "連江縣",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 168,
+        "name": "苗栗尚順君樂大飯店",
+        "room": "宴會廳",
+        "city": "苗栗縣",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 169,
+        "name": "彰化桂冠歐悅酒店",
+        "room": "宴會廳",
+        "city": "彰化縣",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 170,
+        "name": "南投溪頭米堤大飯店",
+        "room": "宴會廳",
+        "city": "南投縣",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 171,
+        "name": "南投涵碧樓大飯店",
+        "room": "宴會廳",
+        "city": "南投縣",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 172,
+        "name": "台中日航酒店",
+        "room": "日航廳",
+        "city": "台中市",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 173,
+        "name": "逢甲大學中科校區",
+        "room": "國際會議廳",
+        "city": "台中市",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 174,
+        "name": "東海大學茂榜廳",
+        "room": "茂榜廳",
+        "city": "台中市",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 175,
+        "name": "台中市政府",
+        "room": "台灣大道市政大樓會議廳",
+        "city": "台中市",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 176,
+        "name": "台南遠東香格里拉",
+        "room": "大宴會廳",
+        "city": "台南市",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 177,
+        "name": "大億國際會議中心",
+        "room": "會議廳",
+        "city": "台南市",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 178,
+        "name": "成大國際會議中心",
+        "room": "第一會議廳",
+        "city": "台南市",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 179,
+        "name": "高雄英迪格酒店",
+        "room": "宴會廳",
+        "city": "高雄市",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 180,
+        "name": "高雄承億酒店",
+        "room": "宴會廳",
+        "city": "高雄市",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 181,
+        "name": "駁二藝術特區",
+        "room": "大義倉庫",
+        "city": "高雄市",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 182,
+        "name": "高雄市立美術館",
+        "room": "藝術展覽",
+        "city": "高雄市",
+        "qualityLevel": "GUESSED",
+        "issues": [
+          "缺少建議: images.main",
+          "缺少建議: dimensions.area",
+          "缺少建議: priceHalfDay",
+          "資料可能為猜測"
+        ]
+      },
+      {
+        "id": 183,
+        "name": "大東文化藝術中心",
+        "room": "展覽廳",
+        "city": "高雄市",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 184,
+        "name": "衛武營國家藝術文化中心",
+        "room": "戲劇院",
+        "city": "高雄市",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 185,
+        "name": "夢時代購物中心",
+        "room": "時代會館",
+        "city": "高雄市",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 186,
+        "name": "義大天悅飯店",
+        "room": "天悅廳",
+        "city": "高雄市",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 187,
+        "name": "新竹生活美學館",
+        "room": "演藝廳",
+        "city": "新竹市",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 188,
+        "name": "新竹縣政府文化局",
+        "room": "演藝廳",
+        "city": "新竹縣",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 189,
+        "name": "清華大學國際會議廳",
+        "room": "蘇格貓底",
+        "city": "新竹市",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 190,
+        "name": "交通大學國際會議廳",
+        "room": "浩然圖書館",
+        "city": "新竹市",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 191,
+        "name": "桃園尊爵天際大飯店",
+        "room": "天際廳",
+        "city": "桃園市",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 192,
+        "name": "桃園古華花園飯店",
+        "room": "古華廳",
+        "city": "桃園市",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 193,
+        "name": "桃園南方莊園度假飯店",
+        "room": "莊園廳",
+        "city": "桃園市",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 194,
+        "name": "桃園大溪威斯汀度假酒店",
+        "room": "威斯汀廳",
+        "city": "桃園市",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 195,
+        "name": "中原大學活動中心",
+        "room": "演藝廳",
+        "city": "桃園市",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 196,
+        "name": "中央大學文學院",
+        "room": "國際會議廳",
+        "city": "桃園市",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 197,
+        "name": "墾丁悠活渡假村",
+        "room": "悠活廳",
+        "city": "屏東縣",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 198,
+        "name": "小琉球大飯店",
+        "room": "宴會廳",
+        "city": "屏東縣",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 199,
+        "name": "宜蘭長榮鳳凰酒店",
+        "room": "鳳凰廳",
+        "city": "宜蘭縣",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 200,
+        "name": "宜蘭力麗威斯汀度假酒店",
+        "room": "威斯汀廳",
+        "city": "宜蘭縣",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 201,
+        "name": "宜蘭傳藝老爺行旅",
+        "room": "傳藝廳",
+        "city": "宜蘭縣",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 202,
+        "name": "花蓮太魯閣晶英酒店",
+        "room": "晶英廳",
+        "city": "花蓮縣",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 203,
+        "name": "花蓮理想大地渡假飯店",
+        "room": "理想廳",
+        "city": "花蓮縣",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 204,
+        "name": "台東豐泰大飯店",
+        "room": "宴會廳",
+        "city": "台東縣",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 205,
+        "name": "綠島朝日溫泉度假村",
+        "room": "會議室",
+        "city": "台東縣",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 206,
+        "name": "蘭嶼別館",
+        "room": "會議室",
+        "city": "台東縣",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 207,
+        "name": "基隆華國大飯店",
+        "room": "華國廳",
+        "city": "基隆市",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 208,
+        "name": "嘉義鈺通大飯店",
+        "room": "鈺通廳",
+        "city": "嘉義市",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 209,
+        "name": "苗栗香格里拉樂園",
+        "room": "宴會廳",
+        "city": "苗栗縣",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 210,
+        "name": "苗栗西湖渡假村",
+        "room": "西湖廳",
+        "city": "苗栗縣",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 211,
+        "name": "南投九族文化村",
+        "room": "水沙連會議廳",
+        "city": "南投縣",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 212,
+        "name": "彰化鹿港天后宮",
+        "room": "會議室",
+        "city": "彰化縣",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 213,
+        "name": "台北W飯店",
+        "room": "WOW廳",
+        "city": "台北市",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 214,
+        "name": "新北板橋凱撒大飯店",
+        "room": "凱撒廳",
+        "city": "新北市",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 215,
+        "name": "新北福容大飯店淡水漁人碼頭",
+        "room": "福容廳",
+        "city": "新北市",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 216,
+        "name": "新北海天地大飯店",
+        "room": "海天地廳",
+        "city": "新北市",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 217,
+        "name": "新北萬里翡翠灣福華渡假飯店",
+        "room": "福華廳",
+        "city": "新北市",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 218,
+        "name": "新北三重福朋喜來登酒店",
+        "room": "福朋廳",
+        "city": "新北市",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 219,
+        "name": "台中裕元花園酒店",
+        "room": "裕元廳",
+        "city": "台中市",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 220,
+        "name": "台中永豐棧酒店",
+        "room": "永豐棧廳",
+        "city": "台中市",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 221,
+        "name": "台中通豪大飯店",
+        "room": "通豪廳",
+        "city": "台中市",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 222,
+        "name": "台南和逸飯店",
+        "room": "和逸廳",
+        "city": "台南市",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 223,
+        "name": "台南桂田酒店",
+        "room": "桂田廳",
+        "city": "台南市",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 224,
+        "name": "高雄翰皇酒店",
+        "room": "翰皇廳",
+        "city": "高雄市",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 225,
+        "name": "高雄城市商旅",
+        "room": "城市廳",
+        "city": "高雄市",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 226,
+        "name": "高雄捷絲旅酒店",
+        "room": "捷絲旅廳",
+        "city": "高雄市",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 227,
+        "name": "高雄比歐緻飯店",
+        "room": "比歐廳",
+        "city": "高雄市",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 228,
+        "name": "高雄秝芯旅館",
+        "room": "會議室",
+        "city": "高雄市",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 229,
+        "name": "宜蘭晶英酒店",
+        "room": "晶英廳",
+        "city": "宜蘭縣",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 230,
+        "name": "台北花園大酒店",
+        "room": "花園廳",
+        "city": "台北市",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 231,
+        "name": "台北商務會館",
+        "room": "會議廳",
+        "city": "台北市",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 232,
+        "name": "台北松意酒店",
+        "room": "松意廳",
+        "city": "台北市",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 233,
+        "name": "台北統一大飯店",
+        "room": "統一廳",
+        "city": "台北市",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 234,
+        "name": "台北喜瑞飯店",
+        "room": "喜瑞廳",
+        "city": "台北市",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 235,
+        "name": "台北姿美大飯店",
+        "room": "姿美廳",
+        "city": "台北市",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 236,
+        "name": "台北第一酒店",
+        "room": "第一廳",
+        "city": "台北市",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 237,
+        "name": "台北兄弟大飯店",
+        "room": "兄弟廳",
+        "city": "台北市",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 238,
+        "name": "台北六福客棧",
+        "room": "六福廳",
+        "city": "台北市",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 239,
+        "name": "台北康華大飯店",
+        "room": "康華廳",
+        "city": "台北市",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 240,
+        "name": "台北華國大飯店",
+        "room": "華國廳",
+        "city": "台北市",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 241,
+        "name": "台北慶泰大飯店",
+        "room": "慶泰廳",
+        "city": "台北市",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 242,
+        "name": "台北友春大飯店",
+        "room": "友春廳",
+        "city": "台北市",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 243,
+        "name": "台北一樂園大飯店",
+        "room": "一樂園廳",
+        "city": "台北市",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 244,
+        "name": "新北板橋瀚品酒店",
+        "room": "瀚品廳",
+        "city": "新北市",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 245,
+        "name": "新北中和福朋喜來登",
+        "room": "福朋廳",
+        "city": "新北市",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 246,
+        "name": "新北新莊晶冠廣場",
+        "room": "會議廳",
+        "city": "新北市",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 247,
+        "name": "新北土城日月光國際會議中心",
+        "room": "會議廳",
+        "city": "新北市",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 248,
+        "name": "台中長榮桂冠酒店",
+        "room": "桂冠廳",
+        "city": "台中市",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 249,
+        "name": "台中福華大飯店",
+        "room": "福華廳",
+        "city": "台中市",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 250,
+        "name": "台南維悅酒店",
+        "room": "維悅廳",
+        "city": "台南市",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 251,
+        "name": "台南天下大飯店",
+        "room": "天下廳",
+        "city": "台南市",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 252,
+        "name": "台南太子大飯店",
+        "room": "太子廳",
+        "city": "台南市",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 253,
+        "name": "台南劍橋大飯店",
+        "room": "劍橋廳",
+        "city": "台南市",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 254,
+        "name": "高雄義大皇冠假日酒店",
+        "room": "皇冠廳",
+        "city": "高雄市",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 255,
+        "name": "高雄人承大飯店",
+        "room": "人承廳",
+        "city": "高雄市",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 256,
+        "name": "高雄華王大飯店",
+        "room": "華王廳",
+        "city": "高雄市",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 257,
+        "name": "屏東墾丁福華渡假飯店",
+        "room": "福華廳",
+        "city": "屏東縣",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 258,
+        "name": "屏東墾丁凱撒大飯店",
+        "room": "凱撒廳",
+        "city": "屏東縣",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 259,
+        "name": "屏東墾丁夏都沙灘酒店",
+        "room": "夏都廳",
+        "city": "屏東縣",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 260,
+        "name": "屏東墾丁悠活渡假村",
+        "room": "悠活廳",
+        "city": "屏東縣",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 261,
+        "name": "花蓮理想大地度假酒店",
+        "room": "理想廳",
+        "city": "花蓮縣",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 262,
+        "name": "澎湖澄舍會館",
+        "room": "會議室",
+        "city": "澎湖縣",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 263,
+        "name": "金門金城鎮公所",
+        "room": "會議廳",
+        "city": "金門縣",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 264,
+        "name": "馬祖南竿福沃大飯店",
+        "room": "會議室",
+        "city": "連江縣",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 265,
+        "name": "馬祖北竿芹壁民宿村",
+        "room": "會議室",
+        "city": "連江縣",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 266,
+        "name": "南投溪頭妖怪主題飯店",
+        "room": "妖怪廳",
+        "city": "南投縣",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 267,
+        "name": "南投清境農場國民賓館",
+        "room": "會議廳",
+        "city": "南投縣",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 268,
+        "name": "彰化鹿港茂迪太陽能會館",
+        "room": "會議廳",
+        "city": "彰化縣",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 269,
+        "name": "彰化秀傳紀念醫院",
+        "room": "國際會議廳",
+        "city": "彰化縣",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 270,
+        "name": "雲林虎尾科技大學",
+        "room": "國際會議廳",
+        "city": "雲林縣",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 271,
+        "name": "嘉義中正大學",
+        "room": "國際會議廳",
+        "city": "嘉義縣",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 272,
+        "name": "台北圓山大飯店",
+        "room": "大宴會廳",
+        "city": "台北市",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 273,
+        "name": "台北陽明山中國麗緻大飯店",
+        "room": "麗緻廳",
+        "city": "台北市",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 274,
+        "name": "台北唯客樂文旅",
+        "room": "會議廳",
+        "city": "台北市",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 275,
+        "name": "台北意舍酒店",
+        "room": "意舍廳",
+        "city": "台北市",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 276,
+        "name": "新北板橋凱薩帝苑婚宴會館",
+        "room": "凱薩廳",
+        "city": "新北市",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 277,
+        "name": "新北三重金陵婚宴會館",
+        "room": "金陵廳",
+        "city": "新北市",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 278,
+        "name": "台南香格里拉遠東",
+        "room": "遠東廳",
+        "city": "台南市",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 279,
+        "name": "台北神旺大飯店",
+        "room": "旺廳",
+        "city": "台北市",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 280,
+        "name": "台北第一大飯店",
+        "room": "第一廳",
+        "city": "台北市",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 281,
+        "name": "台北華泰瑞舍",
+        "room": "瑞舍廳",
+        "city": "台北市",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 282,
+        "name": "台北洛碁大飯店",
+        "room": "洛碁廳",
+        "city": "台北市",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 283,
+        "name": "台北德立莊酒店",
+        "room": "德立莊廳",
+        "city": "台北市",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 284,
+        "name": "台北八方美學商旅",
+        "room": "會議廳",
+        "city": "台北市",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 285,
+        "name": "台北丹迪旅店",
+        "room": "會議室",
+        "city": "台北市",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 286,
+        "name": "新北土城承天禪寺",
+        "room": "會議室",
+        "city": "新北市",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 287,
+        "name": "新北三峽老街活動中心",
+        "room": "會議廳",
+        "city": "新北市",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 288,
+        "name": "桃園大園國際會議中心",
+        "room": "會議廳",
+        "city": "桃園市",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 289,
+        "name": "桃園中壢藝術館",
+        "room": "演藝廳",
+        "city": "桃園市",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 290,
+        "name": "新竹科學園區活動中心",
+        "room": "國際會議廳",
+        "city": "新竹市",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 291,
+        "name": "新竹玻璃工藝博物館",
+        "room": "會議廳",
+        "city": "新竹市",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 292,
+        "name": "苗栗頭份鎮民活動中心",
+        "room": "會議廳",
+        "city": "苗栗縣",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 293,
+        "name": "苗栗通霄拱天宮",
+        "room": "會議室",
+        "city": "苗栗縣",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 294,
+        "name": "台中中港大飯店",
+        "room": "中港廳",
+        "city": "台中市",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 295,
+        "name": "台中麒麟大飯店",
+        "room": "麒麟廳",
+        "city": "台中市",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 296,
+        "name": "台中全国大飯店",
+        "room": "全国廳",
+        "city": "台中市",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 297,
+        "name": "台中誠品生活480",
+        "room": "會議廳",
+        "city": "台中市",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 298,
+        "name": "彰化建國科技大學",
+        "room": "國際會議廳",
+        "city": "彰化縣",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 299,
+        "name": "彰化大葉大學",
+        "room": "國際會議廳",
+        "city": "彰化縣",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 300,
+        "name": "南投埔里鎮立圖書館",
+        "room": "演講廳",
+        "city": "南投縣",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 301,
+        "name": "南投竹山紫南宮",
+        "room": "會議室",
+        "city": "南投縣",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 302,
+        "name": "雲林斗六市立圖書館",
+        "room": "演講廳",
+        "city": "雲林縣",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 303,
+        "name": "嘉義市立博物館",
+        "room": "演講廳",
+        "city": "嘉義市",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 304,
+        "name": "台南成大會館",
+        "room": "會議廳",
+        "city": "台南市",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 305,
+        "name": "台南南門勞工育樂中心",
+        "room": "會議廳",
+        "city": "台南市",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 306,
+        "name": "高雄科學工藝博物館",
+        "room": "演講廳",
+        "city": "高雄市",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 307,
+        "name": "高雄市立社會教育館",
+        "room": "演藝廳",
+        "city": "高雄市",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 308,
+        "name": "屏東縣立體育館",
+        "room": "副場館",
+        "city": "屏東縣",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 309,
+        "name": "宜蘭傳藝中心",
+        "room": "會議室",
+        "city": "宜蘭縣",
+        "qualityLevel": "GUESSED",
+        "issues": [
+          "缺少建議: images.main",
+          "缺少建議: dimensions.area",
+          "缺少建議: priceHalfDay",
+          "資料可能為猜測"
+        ]
+      },
+      {
+        "id": 310,
+        "name": "台北內湖運動中心",
+        "room": "韻律教室",
+        "city": "台北市",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 311,
+        "name": "台北信義運動中心",
+        "room": "會議室",
+        "city": "台北市",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 312,
+        "name": "台北中山運動中心",
+        "room": "韻律教室",
+        "city": "台北市",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 313,
+        "name": "新北三重綜合運動場",
+        "room": "會議室",
+        "city": "新北市",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 314,
+        "name": "新北新莊體育館",
+        "room": "會議室",
+        "city": "新北市",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 315,
+        "name": "桃園藝文廣場",
+        "room": "展演中心",
+        "city": "桃園市",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 316,
+        "name": "新竹縣體育場",
+        "room": "體育館",
+        "city": "新竹縣",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 317,
+        "name": "苗栗縣立體育場",
+        "room": "體育館",
+        "city": "苗栗縣",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 318,
+        "name": "台中港區藝術中心",
+        "room": "演藝廳",
+        "city": "台中市",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 319,
+        "name": "台中文心森林公園圓滿戶外劇場",
+        "room": "圓滿劇場",
+        "city": "台中市",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 320,
+        "name": "彰化縣立體育館",
+        "room": "主場館",
+        "city": "彰化縣",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 321,
+        "name": "南投縣立體育場",
+        "room": "體育館",
+        "city": "南投縣",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 322,
+        "name": "雲林縣立體育館",
+        "room": "主場館",
+        "city": "雲林縣",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 323,
+        "name": "嘉義縣立體育館",
+        "room": "主場館",
+        "city": "嘉義縣",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 324,
+        "name": "台南市立體育館",
+        "room": "主場館",
+        "city": "台南市",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 325,
+        "name": "宜蘭縣立體育館",
+        "room": "主場館",
+        "city": "宜蘭縣",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 326,
+        "name": "花蓮縣立體育館",
+        "room": "主場館",
+        "city": "花蓮縣",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 327,
+        "name": "台東縣立體育館",
+        "room": "主場館",
+        "city": "台東縣",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 328,
+        "name": "澎湖縣立體育館",
+        "room": "主場館",
+        "city": "澎湖縣",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 329,
+        "name": "金門縣立體育館",
+        "room": "主場館",
+        "city": "金門縣",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 330,
+        "name": "連江縣立體育館",
+        "room": "主場館",
+        "city": "連江縣",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 331,
+        "name": "台北北投會館",
+        "room": "會議廳",
+        "city": "台北市",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 332,
+        "name": "新北淡水文化園區",
+        "room": "展覽廳",
+        "city": "新北市",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 333,
+        "name": "桃園孔廟暨忠烈祠",
+        "room": "會議室",
+        "city": "桃園市",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 334,
+        "name": "新竹市立演藝廳",
+        "room": "演藝廳",
+        "city": "新竹市",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 335,
+        "name": "苗栗文化局中正堂",
+        "room": "演藝廳",
+        "city": "苗栗縣",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 336,
+        "name": "彰化縣立文化局",
+        "room": "演藝廳",
+        "city": "彰化縣",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 337,
+        "name": "南投縣立文化中心",
+        "room": "演藝廳",
+        "city": "南投縣",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 338,
+        "name": "雲林縣文化中心",
+        "room": "演藝廳",
+        "city": "雲林縣",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 339,
+        "name": "宜蘭縣文化中心",
+        "room": "演藝廳",
+        "city": "宜蘭縣",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: dimensions.area"
+        ]
+      },
+      {
+        "id": 340,
+        "name": "臺東縣政府文化處",
+        "room": "文化活動",
+        "city": "臺東縣",
+        "qualityLevel": "INCOMPLETE",
+        "issues": [
+          "缺少必填: address",
+          "缺少必填: contactPhone",
+          "缺少建議: images.main",
+          "缺少建議: dimensions.area",
+          "缺少建議: maxCapacityTheater",
+          "缺少建議: priceHalfDay",
+          "缺少建議: contactEmail"
+        ]
+      },
+      {
+        "id": 341,
+        "name": "福容大飯店",
+        "room": "全台19家分店",
+        "city": "全台",
+        "qualityLevel": "INCOMPLETE",
+        "issues": [
+          "缺少必填: address",
+          "缺少必填: contactPhone",
+          "缺少建議: images.main",
+          "缺少建議: dimensions.area",
+          "缺少建議: maxCapacityTheater",
+          "缺少建議: priceHalfDay",
+          "缺少建議: contactEmail"
+        ]
+      },
+      {
+        "id": 342,
+        "name": "國家表演藝術中心",
+        "room": "會議室",
+        "city": "台北市",
+        "qualityLevel": "GUESSED",
+        "issues": [
+          "缺少建議: images.main",
+          "缺少建議: dimensions.area",
+          "缺少建議: priceHalfDay",
+          "資料可能為猜測"
+        ]
+      },
+      {
+        "id": 343,
+        "name": "台北遠東香格里拉酒店",
+        "room": "五星級",
+        "city": "台北市",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: images.main",
+          "缺少建議: dimensions.area",
+          "缺少建議: maxCapacityTheater",
+          "缺少建議: priceHalfDay"
+        ]
+      },
+      {
+        "id": 344,
+        "name": "國立臺灣大學",
+        "room": "會議中心",
+        "city": "台北市",
+        "qualityLevel": "GUESSED",
+        "issues": [
+          "缺少建議: images.main",
+          "缺少建議: dimensions.area",
+          "缺少建議: priceHalfDay",
+          "資料可能為猜測"
+        ]
+      },
+      {
+        "id": 345,
+        "name": "國立政治大學",
+        "room": "會議中心",
+        "city": "台北市",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: images.main",
+          "缺少建議: dimensions.area",
+          "缺少建議: priceHalfDay"
+        ]
+      },
+      {
+        "id": 346,
+        "name": "國立清華大學",
+        "room": "會議中心",
+        "city": "新竹市",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: images.main",
+          "缺少建議: dimensions.area",
+          "缺少建議: priceHalfDay"
+        ]
+      },
+      {
+        "id": 347,
+        "name": "國立成功大學",
+        "room": "會議中心",
+        "city": "台南市",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: images.main",
+          "缺少建議: dimensions.area",
+          "缺少建議: priceHalfDay"
+        ]
+      },
+      {
+        "id": 348,
+        "name": "國立臺灣科技大學",
+        "room": "會議中心",
+        "city": "台北市",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: images.main",
+          "缺少建議: dimensions.area",
+          "缺少建議: priceHalfDay"
+        ]
+      },
+      {
+        "id": 349,
+        "name": "工業技術研究院",
+        "room": "會議中心",
+        "city": "新竹縣",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: images.main",
+          "缺少建議: dimensions.area",
+          "缺少建議: priceHalfDay"
+        ]
+      },
+      {
+        "id": 350,
+        "name": "中央研究院",
+        "room": "會議中心",
+        "city": "台北市",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: images.main",
+          "缺少建議: dimensions.area",
+          "缺少建議: priceHalfDay"
+        ]
+      },
+      {
+        "id": 351,
+        "name": "國立臺灣師範大學",
+        "room": "會議中心",
+        "city": "台北市",
+        "qualityLevel": "PARTIAL",
+        "issues": [
+          "缺少建議: images.main",
+          "缺少建議: dimensions.area",
+          "缺少建議: priceHalfDay"
+        ]
+      },
+      {
+        "id": 352,
+        "name": "逢甲大學",
+        "room": "會議中心",
+        "city": "台中市",
+        "qualityLevel": "INCOMPLETE",
+        "issues": [
+          "缺少必填: address",
+          "缺少必填: contactPhone",
+          "缺少建議: images.main",
+          "缺少建議: dimensions.area",
+          "缺少建議: maxCapacityTheater",
+          "缺少建議: priceHalfDay",
+          "缺少建議: contactEmail"
+        ]
+      },
+      {
+        "id": 353,
+        "name": "朝陽科技大學",
+        "room": "會議中心",
+        "city": "台中市",
+        "qualityLevel": "INCOMPLETE",
+        "issues": [
+          "缺少必填: address",
+          "缺少必填: contactPhone",
+          "缺少建議: images.main",
+          "缺少建議: dimensions.area",
+          "缺少建議: maxCapacityTheater",
+          "缺少建議: priceHalfDay",
+          "缺少建議: contactEmail"
+        ]
+      },
+      {
+        "id": 354,
+        "name": "義守大學",
+        "room": "會議中心",
+        "city": "高雄市",
+        "qualityLevel": "INCOMPLETE",
+        "issues": [
+          "缺少必填: address",
+          "缺少必填: contactPhone",
+          "缺少建議: images.main",
+          "缺少建議: dimensions.area",
+          "缺少建議: maxCapacityTheater",
+          "缺少建議: priceHalfDay",
+          "缺少建議: contactEmail"
+        ]
+      },
+      {
+        "id": 355,
+        "name": "國立中山大學",
+        "room": "會議中心",
+        "city": "高雄市",
+        "qualityLevel": "INCOMPLETE",
+        "issues": [
+          "缺少必填: address",
+          "缺少必填: contactPhone",
+          "缺少建議: images.main",
+          "缺少建議: dimensions.area",
+          "缺少建議: maxCapacityTheater",
+          "缺少建議: priceHalfDay",
+          "缺少建議: contactEmail"
+        ]
+      },
+      {
+        "id": 356,
+        "name": "國立屏東大學",
+        "room": "會議中心",
+        "city": "屏東縣",
+        "qualityLevel": "INCOMPLETE",
+        "issues": [
+          "缺少必填: address",
+          "缺少必填: contactPhone",
+          "缺少建議: images.main",
+          "缺少建議: dimensions.area",
+          "缺少建議: maxCapacityTheater",
+          "缺少建議: priceHalfDay",
+          "缺少建議: contactEmail"
+        ]
+      },
+      {
+        "id": 357,
+        "name": "中國文化大學",
+        "room": "會議中心",
+        "city": "台北市",
+        "qualityLevel": "INCOMPLETE",
+        "issues": [
+          "缺少必填: address",
+          "缺少必填: contactPhone",
+          "缺少建議: images.main",
+          "缺少建議: dimensions.area",
+          "缺少建議: maxCapacityTheater",
+          "缺少建議: priceHalfDay",
+          "缺少建議: contactEmail"
+        ]
+      },
+      {
+        "id": 358,
+        "name": "世新大學",
+        "room": "會議中心",
+        "city": "台北市",
+        "qualityLevel": "INCOMPLETE",
+        "issues": [
+          "缺少必填: address",
+          "缺少必填: contactPhone",
+          "缺少建議: images.main",
+          "缺少建議: dimensions.area",
+          "缺少建議: maxCapacityTheater",
+          "缺少建議: priceHalfDay",
+          "缺少建議: contactEmail"
+        ]
+      },
+      {
+        "id": 359,
+        "name": "大同大學",
+        "room": "會議中心",
+        "city": "台北市",
+        "qualityLevel": "INCOMPLETE",
+        "issues": [
+          "缺少必填: address",
+          "缺少必填: contactPhone",
+          "缺少建議: images.main",
+          "缺少建議: dimensions.area",
+          "缺少建議: maxCapacityTheater",
+          "缺少建議: priceHalfDay",
+          "缺少建議: contactEmail"
+        ]
+      },
+      {
+        "id": 360,
+        "name": "國立東華大學",
+        "room": "會議中心",
+        "city": "花蓮縣",
+        "qualityLevel": "INCOMPLETE",
+        "issues": [
+          "缺少必填: address",
+          "缺少必填: contactPhone",
+          "缺少建議: images.main",
+          "缺少建議: dimensions.area",
+          "缺少建議: maxCapacityTheater",
+          "缺少建議: priceHalfDay",
+          "缺少建議: contactEmail"
+        ]
+      },
+      {
+        "id": 361,
+        "name": "國立臺東大學",
+        "room": "會議中心",
+        "city": "臺東縣",
+        "qualityLevel": "INCOMPLETE",
+        "issues": [
+          "缺少必填: address",
+          "缺少必填: contactPhone",
+          "缺少建議: images.main",
+          "缺少建議: dimensions.area",
+          "缺少建議: maxCapacityTheater",
+          "缺少建議: priceHalfDay",
+          "缺少建議: contactEmail"
+        ]
+      },
+      {
+        "id": 362,
+        "name": "國立澎湖科技大學",
+        "room": "會議中心",
+        "city": "澎湖縣",
+        "qualityLevel": "INCOMPLETE",
+        "issues": [
+          "缺少必填: address",
+          "缺少必填: contactPhone",
+          "缺少建議: images.main",
+          "缺少建議: dimensions.area",
+          "缺少建議: maxCapacityTheater",
+          "缺少建議: priceHalfDay",
+          "缺少建議: contactEmail"
+        ]
+      },
+      {
+        "id": 363,
+        "name": "國立高雄師範大學",
+        "room": "會議中心",
+        "city": "高雄市",
+        "qualityLevel": "INCOMPLETE",
+        "issues": [
+          "缺少必填: address",
+          "缺少必填: contactPhone",
+          "缺少建議: images.main",
+          "缺少建議: dimensions.area",
+          "缺少建議: maxCapacityTheater",
+          "缺少建議: priceHalfDay",
+          "缺少建議: contactEmail"
+        ]
+      },
+      {
+        "id": 364,
+        "name": "國立彰化師範大學",
+        "room": "會議中心",
+        "city": "彰化縣",
+        "qualityLevel": "INCOMPLETE",
+        "issues": [
+          "缺少必填: address",
+          "缺少必填: contactPhone",
+          "缺少建議: images.main",
+          "缺少建議: dimensions.area",
+          "缺少建議: maxCapacityTheater",
+          "缺少建議: priceHalfDay",
+          "缺少建議: contactEmail"
+        ]
+      },
+      {
+        "id": 365,
+        "name": "國立臺中教育大學",
+        "room": "會議中心",
+        "city": "台中市",
+        "qualityLevel": "INCOMPLETE",
+        "issues": [
+          "缺少必填: address",
+          "缺少必填: contactPhone",
+          "缺少建議: images.main",
+          "缺少建議: dimensions.area",
+          "缺少建議: maxCapacityTheater",
+          "缺少建議: priceHalfDay",
+          "缺少建議: contactEmail"
+        ]
+      },
+      {
+        "id": 366,
+        "name": "國立臺南大學",
+        "room": "會議中心",
+        "city": "台南市",
+        "qualityLevel": "INCOMPLETE",
+        "issues": [
+          "缺少必填: address",
+          "缺少必填: contactPhone",
+          "缺少建議: images.main",
+          "缺少建議: dimensions.area",
+          "缺少建議: maxCapacityTheater",
+          "缺少建議: priceHalfDay",
+          "缺少建議: contactEmail"
+        ]
+      },
+      {
+        "id": 367,
+        "name": "南開科技大學",
+        "room": "會議中心",
+        "city": "南投縣",
+        "qualityLevel": "INCOMPLETE",
+        "issues": [
+          "缺少必填: address",
+          "缺少必填: contactPhone",
+          "缺少建議: images.main",
+          "缺少建議: dimensions.area",
+          "缺少建議: maxCapacityTheater",
+          "缺少建議: priceHalfDay",
+          "缺少建議: contactEmail"
+        ]
+      },
+      {
+        "id": 368,
+        "name": "南臺科技大學",
+        "room": "會議中心",
+        "city": "台南市",
+        "qualityLevel": "INCOMPLETE",
+        "issues": [
+          "缺少必填: address",
+          "缺少必填: contactPhone",
+          "缺少建議: images.main",
+          "缺少建議: dimensions.area",
+          "缺少建議: maxCapacityTheater",
+          "缺少建議: priceHalfDay",
+          "缺少建議: contactEmail"
+        ]
+      },
+      {
+        "id": 369,
+        "name": "國立陽明交通大學",
+        "room": "會議中心",
+        "city": "新竹市",
+        "qualityLevel": "INCOMPLETE",
+        "issues": [
+          "缺少必填: address",
+          "缺少必填: contactPhone",
+          "缺少建議: images.main",
+          "缺少建議: dimensions.area",
+          "缺少建議: maxCapacityTheater",
+          "缺少建議: priceHalfDay",
+          "缺少建議: contactEmail"
+        ]
+      },
+      {
+        "id": 370,
+        "name": "南華大學",
+        "room": "會議中心",
+        "city": "嘉義縣",
+        "qualityLevel": "INCOMPLETE",
+        "issues": [
+          "缺少必填: address",
+          "缺少必填: contactPhone",
+          "缺少建議: images.main",
+          "缺少建議: dimensions.area",
+          "缺少建議: maxCapacityTheater",
+          "缺少建議: priceHalfDay",
+          "缺少建議: contactEmail"
+        ]
+      },
+      {
+        "id": 371,
+        "name": "台北國際會議中心",
+        "room": "大會堂全場",
+        "city": "台北市",
+        "qualityLevel": "GUESSED",
+        "issues": [
+          "缺少建議: dimensions.area",
+          "資料可能為猜測"
+        ]
+      },
+      {
+        "id": 372,
+        "name": "台北國際會議中心",
+        "room": "大會堂半場(1-27排)",
+        "city": "台北市",
+        "qualityLevel": "GUESSED",
+        "issues": [
+          "缺少建議: dimensions.area",
+          "缺少建議: priceHalfDay",
+          "資料可能為猜測"
+        ]
+      },
+      {
+        "id": 374,
+        "name": "台北國際會議中心",
+        "room": "101A",
+        "city": "台北市",
+        "qualityLevel": "GUESSED",
+        "issues": [
+          "資料可能為猜測"
+        ]
+      }
+    ],
+    "GUESSED": null,
+    "UNVERIFIED": null,
+    "PARTIAL": null,
+    "INCOMPLETE": null,
+    "COMPLETE": null
+  },
+  "details": [
+    {
+      "id": 1,
+      "name": "華山1914文化創意產業園區",
+      "room": "中3館",
+      "city": "台北市",
+      "qualityLevel": "GUESSED",
+      "issues": [
+        "資料可能為猜測"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "朱崙區民活動中心",
+      "room": "禮堂",
+      "city": "台北市",
+      "qualityLevel": "GUESSED",
+      "issues": [
+        "缺少建議: maxCapacityTheater",
+        "缺少建議: priceHalfDay",
+        "缺少建議: contactEmail",
+        "缺少資料來源標記",
+        "資料可能為猜測"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "林森三區民活動中心",
+      "room": "會議室",
+      "city": "台北市",
+      "qualityLevel": "GUESSED",
+      "issues": [
+        "缺少建議: maxCapacityTheater",
+        "缺少建議: priceHalfDay",
+        "缺少建議: contactEmail",
+        "缺少資料來源標記",
+        "資料可能為猜測"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "客家藝文活動中心",
+      "room": "3樓會議室",
+      "city": "台北市",
+      "qualityLevel": "UNVERIFIED",
+      "issues": [
+        "缺少建議: maxCapacityTheater",
+        "缺少建議: priceHalfDay",
+        "缺少建議: contactEmail",
+        "缺少資料來源標記"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "松江區民活動中心",
+      "room": "多功能廳",
+      "city": "台北市",
+      "qualityLevel": "GUESSED",
+      "issues": [
+        "缺少建議: maxCapacityTheater",
+        "缺少建議: priceHalfDay",
+        "缺少建議: contactEmail",
+        "缺少資料來源標記",
+        "資料可能為猜測"
+      ]
+    },
+    {
+      "id": 6,
+      "name": "新北市公有場地",
+      "room": "大埤頂市民活動中心演藝廳",
+      "city": "新北市",
+      "qualityLevel": "GUESSED",
+      "issues": [
+        "缺少建議: maxCapacityTheater",
+        "缺少建議: priceHalfDay",
+        "缺少建議: contactEmail",
+        "缺少資料來源標記",
+        "資料可能為猜測"
+      ]
+    },
+    {
+      "id": 7,
+      "name": "台北君悅酒店",
+      "room": "凱沃廳",
+      "city": "台北市",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 8,
+      "name": "台北晶華酒店",
+      "room": "五星級",
+      "city": "台北市",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: images.main",
+        "缺少建議: dimensions.area",
+        "缺少建議: maxCapacityTheater",
+        "缺少建議: priceHalfDay"
+      ]
+    },
+    {
+      "id": 9,
+      "name": "W飯店台北",
+      "room": "WOW Hall",
+      "city": "台北市",
+      "qualityLevel": "GUESSED",
+      "issues": [
+        "資料可能為猜測"
+      ]
+    },
+    {
+      "id": 10,
+      "name": "台北香格里拉遠東國際大飯店",
+      "room": "多功能會議室",
+      "city": "台北市",
+      "qualityLevel": "GUESSED",
+      "issues": [
+        "缺少資料來源標記",
+        "資料可能為猜測"
+      ]
+    },
+    {
+      "id": 11,
+      "name": "台北君品酒店",
+      "room": "君品廳",
+      "city": "台北市",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 12,
+      "name": "台北喜來登大飯店",
+      "room": "喜來登廳",
+      "city": "台北市",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 13,
+      "name": "台北國賓大飯店",
+      "room": "五星級",
+      "city": "台北市",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: images.main",
+        "缺少建議: dimensions.area",
+        "缺少建議: maxCapacityTheater",
+        "缺少建議: priceHalfDay"
+      ]
+    },
+    {
+      "id": 14,
+      "name": "台北老爺大酒店",
+      "room": "明園廳",
+      "city": "台北市",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 15,
+      "name": "寒舍艾美酒店",
+      "room": "大宴會廳",
+      "city": "台北市",
+      "qualityLevel": "GUESSED",
+      "issues": [
+        "缺少資料來源標記",
+        "資料可能為猜測"
+      ]
+    },
+    {
+      "id": 16,
+      "name": "台北文華東方酒店",
+      "room": "五星級",
+      "city": "台北市",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: images.main",
+        "缺少建議: dimensions.area",
+        "缺少建議: maxCapacityTheater",
+        "缺少建議: priceHalfDay"
+      ]
+    },
+    {
+      "id": 17,
+      "name": "台北西華飯店",
+      "room": "托斯卡尼廳",
+      "city": "台北市",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 18,
+      "name": "台北威斯汀六福皇宮",
+      "room": "大宴會廳",
+      "city": "台北市",
+      "qualityLevel": "GUESSED",
+      "issues": [
+        "缺少資料來源標記",
+        "資料可能為猜測"
+      ]
+    },
+    {
+      "id": 19,
+      "name": "兄弟大飯店",
+      "room": "宴會廳",
+      "city": "台北市",
+      "qualityLevel": "GUESSED",
+      "issues": [
+        "缺少資料來源標記",
+        "資料可能為猜測"
+      ]
+    },
+    {
+      "id": 20,
+      "name": "板橋435藝文特區",
+      "room": "中正館",
+      "city": "新北市",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 21,
+      "name": "福容大飯店-淡水漁人碼頭",
+      "room": "宴會廳",
+      "city": "新北市",
+      "qualityLevel": "GUESSED",
+      "issues": [
+        "缺少資料來源標記",
+        "資料可能為猜測"
+      ]
+    },
+    {
+      "id": 22,
+      "name": "新板希爾頓酒店",
+      "room": "會議室",
+      "city": "新北市",
+      "qualityLevel": "GUESSED",
+      "issues": [
+        "缺少資料來源標記",
+        "資料可能為猜測"
+      ]
+    },
+    {
+      "id": 23,
+      "name": "典華旗艦店",
+      "room": "維多麗雅廳",
+      "city": "新北市",
+      "qualityLevel": "GUESSED",
+      "issues": [
+        "缺少資料來源標記",
+        "資料可能為猜測"
+      ]
+    },
+    {
+      "id": 24,
+      "name": "桃園喜來登酒店",
+      "room": "大宴會廳",
+      "city": "桃園市",
+      "qualityLevel": "GUESSED",
+      "issues": [
+        "缺少資料來源標記",
+        "資料可能為猜測"
+      ]
+    },
+    {
+      "id": 25,
+      "name": "尊爵天際大飯店",
+      "room": "宴會廳",
+      "city": "桃園市",
+      "qualityLevel": "GUESSED",
+      "issues": [
+        "缺少資料來源標記",
+        "資料可能為猜測"
+      ]
+    },
+    {
+      "id": 26,
+      "name": "台中日月千禧酒店",
+      "room": "千禧廳",
+      "city": "台中市",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 27,
+      "name": "林酒店",
+      "room": "林皇宮宴會廳",
+      "city": "台中市",
+      "qualityLevel": "GUESSED",
+      "issues": [
+        "缺少資料來源標記",
+        "資料可能為猜測"
+      ]
+    },
+    {
+      "id": 28,
+      "name": "台中市世貿中心",
+      "room": "展覽館",
+      "city": "台中市",
+      "qualityLevel": "GUESSED",
+      "issues": [
+        "缺少資料來源標記",
+        "資料可能為猜測"
+      ]
+    },
+    {
+      "id": 29,
+      "name": "台中國家歌劇院",
+      "room": "中劇院",
+      "city": "台中市",
+      "qualityLevel": "GUESSED",
+      "issues": [
+        "缺少資料來源標記",
+        "資料可能為猜測"
+      ]
+    },
+    {
+      "id": 30,
+      "name": "台南香格里拉遠東國際大飯店",
+      "room": "遠東廳",
+      "city": "台南市",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 31,
+      "name": "台南奇美博物館",
+      "room": "多功能廳",
+      "city": "台南市",
+      "qualityLevel": "GUESSED",
+      "issues": [
+        "缺少資料來源標記",
+        "資料可能為猜測"
+      ]
+    },
+    {
+      "id": 32,
+      "name": "高雄漢來大飯店",
+      "room": "漢來廳",
+      "city": "高雄市",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 33,
+      "name": "高雄洲際酒店",
+      "room": "宴會廳",
+      "city": "高雄市",
+      "qualityLevel": "GUESSED",
+      "issues": [
+        "缺少資料來源標記",
+        "資料可能為猜測"
+      ]
+    },
+    {
+      "id": 34,
+      "name": "高雄展覽館",
+      "room": "南館",
+      "city": "高雄市",
+      "qualityLevel": "GUESSED",
+      "issues": [
+        "資料可能為猜測"
+      ]
+    },
+    {
+      "id": 35,
+      "name": "義大皇家酒店",
+      "room": "皇家宴會廳",
+      "city": "高雄市",
+      "qualityLevel": "GUESSED",
+      "issues": [
+        "缺少資料來源標記",
+        "資料可能為猜測"
+      ]
+    },
+    {
+      "id": 36,
+      "name": "基隆長榮桂冠酒店",
+      "room": "宴會廳",
+      "city": "基隆市",
+      "qualityLevel": "GUESSED",
+      "issues": [
+        "缺少資料來源標記",
+        "資料可能為猜測"
+      ]
+    },
+    {
+      "id": 37,
+      "name": "新竹國賓大飯店",
+      "room": "國賓廳",
+      "city": "新竹市",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 38,
+      "name": "新竹喜來登大飯店",
+      "room": "會議室",
+      "city": "新竹市",
+      "qualityLevel": "GUESSED",
+      "issues": [
+        "缺少資料來源標記",
+        "資料可能為猜測"
+      ]
+    },
+    {
+      "id": 39,
+      "name": "煙波大飯店新竹湖濱館",
+      "room": "宴會廳",
+      "city": "新竹市",
+      "qualityLevel": "GUESSED",
+      "issues": [
+        "缺少資料來源標記",
+        "資料可能為猜測"
+      ]
+    },
+    {
+      "id": 40,
+      "name": "新竹豐邑喜來登大飯店",
+      "room": "宴會廳",
+      "city": "新竹縣",
+      "qualityLevel": "GUESSED",
+      "issues": [
+        "缺少資料來源標記",
+        "資料可能為猜測"
+      ]
+    },
+    {
+      "id": 41,
+      "name": "嘉義市文化局",
+      "room": "音樂廳",
+      "city": "嘉義市",
+      "qualityLevel": "GUESSED",
+      "issues": [
+        "缺少資料來源標記",
+        "資料可能為猜測"
+      ]
+    },
+    {
+      "id": 42,
+      "name": "嘉義耐斯王子大飯店",
+      "room": "王子廳",
+      "city": "嘉義市",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 43,
+      "name": "嘉義長榮文苑酒店",
+      "room": "宴會廳",
+      "city": "嘉義縣",
+      "qualityLevel": "GUESSED",
+      "issues": [
+        "缺少資料來源標記",
+        "資料可能為猜測"
+      ]
+    },
+    {
+      "id": 44,
+      "name": "宜蘭礁溪老爺酒店",
+      "room": "老爺廳",
+      "city": "宜蘭縣",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 45,
+      "name": "宜蘭蘭城晶英酒店",
+      "room": "宴會廳",
+      "city": "宜蘭縣",
+      "qualityLevel": "GUESSED",
+      "issues": [
+        "缺少資料來源標記",
+        "資料可能為猜測"
+      ]
+    },
+    {
+      "id": 46,
+      "name": "花蓮翰品酒店",
+      "room": "翰品廳",
+      "city": "花蓮縣",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 47,
+      "name": "花蓮遠雄悅來大飯店",
+      "room": "悅來廳",
+      "city": "花蓮縣",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 48,
+      "name": "花蓮美侖大飯店",
+      "room": "美侖廳",
+      "city": "花蓮縣",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 49,
+      "name": "花蓮文化局演藝廳",
+      "room": "演藝廳",
+      "city": "花蓮縣",
+      "qualityLevel": "GUESSED",
+      "issues": [
+        "缺少資料來源標記",
+        "資料可能為猜測"
+      ]
+    },
+    {
+      "id": 50,
+      "name": "台北寒舍艾麗酒店",
+      "room": "艾麗廳",
+      "city": "台北市",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 51,
+      "name": "台北萬豪酒店",
+      "room": "大宴會廳",
+      "city": "台北市",
+      "qualityLevel": "GUESSED",
+      "issues": [
+        "缺少資料來源標記",
+        "資料可能為猜測"
+      ]
+    },
+    {
+      "id": 52,
+      "name": "台北美福大飯店",
+      "room": "美福廳",
+      "city": "台北市",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 53,
+      "name": "維多麗亞酒店",
+      "room": "維多麗亞廳",
+      "city": "台北市",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 54,
+      "name": "花園大酒店",
+      "room": "宴會廳",
+      "city": "台北市",
+      "qualityLevel": "GUESSED",
+      "issues": [
+        "缺少資料來源標記",
+        "資料可能為猜測"
+      ]
+    },
+    {
+      "id": 55,
+      "name": "豪景大酒店",
+      "room": "宴會廳",
+      "city": "台北市",
+      "qualityLevel": "GUESSED",
+      "issues": [
+        "缺少資料來源標記",
+        "資料可能為猜測"
+      ]
+    },
+    {
+      "id": 56,
+      "name": "神旺大飯店",
+      "room": "宴會廳",
+      "city": "台北市",
+      "qualityLevel": "GUESSED",
+      "issues": [
+        "缺少資料來源標記",
+        "資料可能為猜測"
+      ]
+    },
+    {
+      "id": 57,
+      "name": "台北王朝大酒店",
+      "room": "宴會廳",
+      "city": "台北市",
+      "qualityLevel": "GUESSED",
+      "issues": [
+        "缺少資料來源標記",
+        "資料可能為猜測"
+      ]
+    },
+    {
+      "id": 58,
+      "name": "統一渡假村-墾丁",
+      "room": "會議室",
+      "city": "屏東縣",
+      "qualityLevel": "GUESSED",
+      "issues": [
+        "缺少資料來源標記",
+        "資料可能為猜測"
+      ]
+    },
+    {
+      "id": 59,
+      "name": "墾丁福華渡假飯店",
+      "room": "渡假飯店",
+      "city": "屏東縣",
+      "qualityLevel": "GUESSED",
+      "issues": [
+        "缺少建議: images.main",
+        "缺少建議: dimensions.area",
+        "缺少建議: maxCapacityTheater",
+        "缺少建議: priceHalfDay",
+        "資料可能為猜測"
+      ]
+    },
+    {
+      "id": 60,
+      "name": "墾丁夏都沙灘酒店",
+      "room": "夏都廳",
+      "city": "屏東縣",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 61,
+      "name": "墾丁凱撒大飯店",
+      "room": "南洋風情",
+      "city": "屏東縣",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: images.main",
+        "缺少建議: dimensions.area",
+        "缺少建議: maxCapacityTheater",
+        "缺少建議: priceHalfDay"
+      ]
+    },
+    {
+      "id": 62,
+      "name": "高雄義大皇家酒店",
+      "room": "會議中心",
+      "city": "高雄市",
+      "qualityLevel": "GUESSED",
+      "issues": [
+        "缺少資料來源標記",
+        "資料可能為猜測"
+      ]
+    },
+    {
+      "id": 63,
+      "name": "高雄福華大飯店",
+      "room": "福華廳",
+      "city": "高雄市",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 64,
+      "name": "高雄翰苑酒店",
+      "room": "宴會廳",
+      "city": "高雄市",
+      "qualityLevel": "GUESSED",
+      "issues": [
+        "缺少資料來源標記",
+        "資料可能為猜測"
+      ]
+    },
+    {
+      "id": 65,
+      "name": "台北淡水將捷金鬱金香酒店",
+      "room": "宴會廳",
+      "city": "新北市",
+      "qualityLevel": "GUESSED",
+      "issues": [
+        "缺少資料來源標記",
+        "資料可能為猜測"
+      ]
+    },
+    {
+      "id": 66,
+      "name": "淡水漁人舞台",
+      "room": "多功能廳",
+      "city": "新北市",
+      "qualityLevel": "GUESSED",
+      "issues": [
+        "缺少資料來源標記",
+        "資料可能為猜測"
+      ]
+    },
+    {
+      "id": 67,
+      "name": "淡水紅毛城古蹟園區",
+      "room": "戶外廣場",
+      "city": "新北市",
+      "qualityLevel": "GUESSED",
+      "issues": [
+        "缺少資料來源標記",
+        "資料可能為猜測"
+      ]
+    },
+    {
+      "id": 68,
+      "name": "華泰瑞苑墾丁賓館",
+      "room": "宴會廳",
+      "city": "屏東縣",
+      "qualityLevel": "GUESSED",
+      "issues": [
+        "缺少資料來源標記",
+        "資料可能為猜測"
+      ]
+    },
+    {
+      "id": 69,
+      "name": "高雄國賓大飯店",
+      "room": "國賓廳",
+      "city": "高雄市",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 70,
+      "name": "高雄寒軒國際大飯店",
+      "room": "寒軒廳",
+      "city": "高雄市",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 71,
+      "name": "松山文創園區",
+      "room": "1號倉庫",
+      "city": "台北市",
+      "qualityLevel": "GUESSED",
+      "issues": [
+        "資料可能為猜測"
+      ]
+    },
+    {
+      "id": 72,
+      "name": "三創生活園區",
+      "room": "6F CLAPPER THEATER",
+      "city": "台北市",
+      "qualityLevel": "GUESSED",
+      "issues": [
+        "資料可能為猜測"
+      ]
+    },
+    {
+      "id": 73,
+      "name": "台南市立文化中心",
+      "room": "演藝廳",
+      "city": "台南市",
+      "qualityLevel": "GUESSED",
+      "issues": [
+        "資料可能為猜測"
+      ]
+    },
+    {
+      "id": 74,
+      "name": "台南晶英酒店",
+      "room": "大宴會廳",
+      "city": "台南市",
+      "qualityLevel": "GUESSED",
+      "issues": [
+        "資料可能為猜測"
+      ]
+    },
+    {
+      "id": 75,
+      "name": "台中林酒店",
+      "room": "林皇宮廳",
+      "city": "台中市",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 76,
+      "name": "台東知本老爺酒店",
+      "room": "老爺廳",
+      "city": "台東縣",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 77,
+      "name": "台北艾美酒店",
+      "room": "艾美廳",
+      "city": "台北市",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 78,
+      "name": "NUZONE展演空間",
+      "room": "主空間",
+      "city": "台北市",
+      "qualityLevel": "GUESSED",
+      "issues": [
+        "資料可能為猜測"
+      ]
+    },
+    {
+      "id": 79,
+      "name": "TCCC台灣文創訓練中心",
+      "room": "多功能教室",
+      "city": "台北市",
+      "qualityLevel": "GUESSED",
+      "issues": [
+        "資料可能為猜測"
+      ]
+    },
+    {
+      "id": 80,
+      "name": "板橋凱撒大飯店",
+      "room": "三鐵交匯",
+      "city": "新北市",
+      "qualityLevel": "GUESSED",
+      "issues": [
+        "缺少建議: images.main",
+        "缺少建議: dimensions.area",
+        "缺少建議: maxCapacityTheater",
+        "缺少建議: priceHalfDay",
+        "資料可能為猜測"
+      ]
+    },
+    {
+      "id": 81,
+      "name": "桃園諾富特華航酒店",
+      "room": "大宴會廳",
+      "city": "桃園市",
+      "qualityLevel": "GUESSED",
+      "issues": [
+        "資料可能為猜測"
+      ]
+    },
+    {
+      "id": 82,
+      "name": "新竹煙波大飯店",
+      "room": "煙波廳",
+      "city": "新竹市",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 83,
+      "name": "新竹喜來登飯店",
+      "room": "喜來登廳",
+      "city": "新竹縣",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 84,
+      "name": "台中全國大飯店",
+      "room": "全國廳",
+      "city": "台中市",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 85,
+      "name": "台中金典酒店",
+      "room": "金典廳",
+      "city": "台中市",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 86,
+      "name": "高雄翰品酒店",
+      "room": "翰品廳",
+      "city": "高雄市",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 87,
+      "name": "台南大億麗緻酒店",
+      "room": "麗緻廳",
+      "city": "台南市",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 88,
+      "name": "台南老爺行旅",
+      "room": "甘樂廳",
+      "city": "台南市",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 89,
+      "name": "桃園尊爵大飯店",
+      "room": "尊爵廳",
+      "city": "桃園市",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 90,
+      "name": "桃園假日酒店",
+      "room": "假日廳",
+      "city": "桃園市",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 91,
+      "name": "雲林劍湖山王子大飯店",
+      "room": "王子廳",
+      "city": "雲林縣",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 92,
+      "name": "嘉義兆品酒店",
+      "room": "兆品廳",
+      "city": "嘉義市",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 93,
+      "name": "台東娜路彎大酒店",
+      "room": "娜路彎廳",
+      "city": "台東縣",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 94,
+      "name": "福容大飯店淡水漁人碼頭",
+      "room": "郵輪造型",
+      "city": "新北市",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: images.main",
+        "缺少建議: dimensions.area",
+        "缺少建議: maxCapacityTheater",
+        "缺少建議: priceHalfDay"
+      ]
+    },
+    {
+      "id": 95,
+      "name": "台北寒舍艾美酒店",
+      "room": "探索廳",
+      "city": "台北市",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 96,
+      "name": "台北亞都麗緻大飯店",
+      "room": "麗緻廳",
+      "city": "台北市",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 97,
+      "name": "香格里拉台北遠東國際大飯店",
+      "room": "遠東廳",
+      "city": "台北市",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 98,
+      "name": "台北寒舍喜來登大飯店",
+      "room": "喜來登廳",
+      "city": "台北市",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 99,
+      "name": "台北怡亨酒店",
+      "room": "怡亨廳",
+      "city": "台北市",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 100,
+      "name": "台北豪景大酒店",
+      "room": "豪景廳",
+      "city": "台北市",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 101,
+      "name": "六福萬怡酒店",
+      "room": "萬怡廳",
+      "city": "台北市",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 102,
+      "name": "台北慕軒酒店",
+      "room": "慕軒廳",
+      "city": "台北市",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 103,
+      "name": "台北天成酒店",
+      "room": "天成廳",
+      "city": "台北市",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 104,
+      "name": "台北馥敦飯店",
+      "room": "馥敦廳",
+      "city": "台北市",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 105,
+      "name": "新北市政府",
+      "room": "多功能會議廳",
+      "city": "新北市",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 106,
+      "name": "鶯歌陶瓷博物館",
+      "room": "國際演講廳",
+      "city": "新北市",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 107,
+      "name": "高雄市立圖書館總館",
+      "room": "際會廳",
+      "city": "高雄市",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 108,
+      "name": "高雄衛武營國家藝術文化中心",
+      "room": "表演廳",
+      "city": "高雄市",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 109,
+      "name": "台中市立圖書館",
+      "room": "多功能會議室",
+      "city": "台中市",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 110,
+      "name": "台南市政府",
+      "room": "永華市政中心會議廳",
+      "city": "台南市",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 111,
+      "name": "桃園市政府",
+      "room": "綜合會議廳",
+      "city": "桃園市",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 112,
+      "name": "基隆市政府",
+      "room": "綜合大禮堂",
+      "city": "基隆市",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 113,
+      "name": "新竹市政府",
+      "room": "綜合大禮堂",
+      "city": "新竹市",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 114,
+      "name": "嘉義市政府",
+      "room": "文化局音樂廳",
+      "city": "嘉義市",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 115,
+      "name": "宜蘭縣政府文化局",
+      "room": "演藝廳",
+      "city": "宜蘭縣",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 116,
+      "name": "花蓮縣文化局",
+      "room": "演藝廳",
+      "city": "花蓮縣",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 117,
+      "name": "台東縣政府文化處",
+      "room": "藝文中心演講廳",
+      "city": "台東縣",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 118,
+      "name": "屏東縣政府文化處",
+      "room": "演藝廳",
+      "city": "屏東縣",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 119,
+      "name": "台北世貿中心展覽大樓",
+      "room": "展覽一館",
+      "city": "台北市",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 120,
+      "name": "南港展覽館",
+      "room": "一館4樓",
+      "city": "台北市",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 121,
+      "name": "花博公園爭艷館",
+      "room": "全館",
+      "city": "台北市",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 122,
+      "name": "圓山花博公園流行館",
+      "room": "全館",
+      "city": "台北市",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 123,
+      "name": "中正紀念堂",
+      "room": "展覽",
+      "city": "台北市",
+      "qualityLevel": "GUESSED",
+      "issues": [
+        "缺少建議: images.main",
+        "缺少建議: dimensions.area",
+        "缺少建議: priceHalfDay",
+        "資料可能為猜測"
+      ]
+    },
+    {
+      "id": 124,
+      "name": "國父紀念館",
+      "room": "大會堂",
+      "city": "台北市",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 125,
+      "name": "台大綜合體育館",
+      "room": "主場館",
+      "city": "台北市",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 126,
+      "name": "台北小巨蛋",
+      "room": "主場館",
+      "city": "台北市",
+      "qualityLevel": "GUESSED",
+      "issues": [
+        "缺少建議: images.main",
+        "缺少建議: dimensions.area",
+        "缺少建議: priceHalfDay",
+        "資料可能為猜測"
+      ]
+    },
+    {
+      "id": 127,
+      "name": "社會創新實驗中心",
+      "room": "共享大廳",
+      "city": "台北市",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 128,
+      "name": "CLBC大安商務中心",
+      "room": "共同工作空間",
+      "city": "台北市",
+      "qualityLevel": "INCOMPLETE",
+      "issues": [
+        "缺少必填: address",
+        "缺少必填: contactPhone",
+        "缺少建議: images.main",
+        "缺少建議: dimensions.area",
+        "缺少建議: maxCapacityTheater",
+        "缺少建議: priceHalfDay",
+        "缺少建議: contactEmail"
+      ]
+    },
+    {
+      "id": 129,
+      "name": "復興美學共享空間",
+      "room": "多功能廳",
+      "city": "台北市",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 130,
+      "name": "高雄巨蛋",
+      "room": "主場館",
+      "city": "高雄市",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 131,
+      "name": "台南市政府永華中心",
+      "room": "多功能會議廳",
+      "city": "台南市",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 132,
+      "name": "大台南會展中心",
+      "room": "大會堂",
+      "city": "台南市",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 133,
+      "name": "桃園會展中心",
+      "room": "大會堂",
+      "city": "桃園市",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 134,
+      "name": "台北典華",
+      "room": "維多麗亞廳",
+      "city": "台北市",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 135,
+      "name": "文華東方婚宴會館",
+      "room": "文華廳",
+      "city": "台北市",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 136,
+      "name": "彭園婚宴會館",
+      "room": "台北館",
+      "city": "台北市",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 137,
+      "name": "青青婚宴會館",
+      "room": "主題廳",
+      "city": "台北市",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 138,
+      "name": "新板民生婚宴會館",
+      "room": "民生廳",
+      "city": "新北市",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 139,
+      "name": "林口福容婚宴會館",
+      "room": "福容廳",
+      "city": "新北市",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 140,
+      "name": "新天地婚宴會館",
+      "room": "旗艦館",
+      "city": "高雄市",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 141,
+      "name": "台中金典婚宴會館",
+      "room": "金典廳",
+      "city": "台中市",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 142,
+      "name": "台南維悅婚宴會館",
+      "room": "維悅廳",
+      "city": "台南市",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 143,
+      "name": "桃園千葉婚宴會館",
+      "room": "千葉廳",
+      "city": "桃園市",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 144,
+      "name": "台北體育館",
+      "room": "主場館",
+      "city": "台北市",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 145,
+      "name": "天母體育館",
+      "room": "主場館",
+      "city": "台北市",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 146,
+      "name": "新北市板橋體育館",
+      "room": "主場館",
+      "city": "新北市",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 147,
+      "name": "高雄市立體育館",
+      "room": "主場館",
+      "city": "高雄市",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 148,
+      "name": "台中市立體育館",
+      "room": "主場館",
+      "city": "台中市",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 149,
+      "name": "典藏咖啡廳",
+      "room": "包場空間",
+      "city": "台北市",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 150,
+      "name": "貳樓餐廳",
+      "room": "包場空間",
+      "city": "台北市",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 151,
+      "name": "Goodmans咖啡廳",
+      "room": "包場空間",
+      "city": "台北市",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 152,
+      "name": "CAMA咖啡",
+      "room": "包場空間",
+      "city": "台北市",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 153,
+      "name": "Simple Kaffa",
+      "room": "包場空間",
+      "city": "台北市",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 154,
+      "name": "台大校友會館",
+      "room": "會議廳",
+      "city": "台北市",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 155,
+      "name": "政大公企中心",
+      "room": "會議室",
+      "city": "台北市",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 156,
+      "name": "師大進修推廣學院",
+      "room": "演講廳",
+      "city": "台北市",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 157,
+      "name": "北科大創新育成中心",
+      "room": "會議室",
+      "city": "台北市",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 158,
+      "name": "WeWork共享空間",
+      "room": "會議室",
+      "city": "台北市",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 159,
+      "name": "The Executive Centre",
+      "room": "會議室",
+      "city": "台北市",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 160,
+      "name": "Regus商務中心",
+      "room": "會議室",
+      "city": "台北市",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 161,
+      "name": "國際會議中心(TICC)",
+      "room": "201會議室",
+      "city": "台北市",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 162,
+      "name": "集思台大會議中心",
+      "room": "國際會議廳",
+      "city": "台北市",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 163,
+      "name": "張榮發基金會國際會議中心",
+      "room": "國際會議廳",
+      "city": "台北市",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 164,
+      "name": "公務人力發展學院",
+      "room": "國際會議廳",
+      "city": "台北市",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 165,
+      "name": "澎湖福朋喜來登酒店",
+      "room": "福朋廳",
+      "city": "澎湖縣",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 166,
+      "name": "金門金湖飯店",
+      "room": "金湖廳",
+      "city": "金門縣",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 167,
+      "name": "馬祖日光海岸海景旅店",
+      "room": "會議室",
+      "city": "連江縣",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 168,
+      "name": "苗栗尚順君樂大飯店",
+      "room": "宴會廳",
+      "city": "苗栗縣",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 169,
+      "name": "彰化桂冠歐悅酒店",
+      "room": "宴會廳",
+      "city": "彰化縣",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 170,
+      "name": "南投溪頭米堤大飯店",
+      "room": "宴會廳",
+      "city": "南投縣",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 171,
+      "name": "南投涵碧樓大飯店",
+      "room": "宴會廳",
+      "city": "南投縣",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 172,
+      "name": "台中日航酒店",
+      "room": "日航廳",
+      "city": "台中市",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 173,
+      "name": "逢甲大學中科校區",
+      "room": "國際會議廳",
+      "city": "台中市",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 174,
+      "name": "東海大學茂榜廳",
+      "room": "茂榜廳",
+      "city": "台中市",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 175,
+      "name": "台中市政府",
+      "room": "台灣大道市政大樓會議廳",
+      "city": "台中市",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 176,
+      "name": "台南遠東香格里拉",
+      "room": "大宴會廳",
+      "city": "台南市",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 177,
+      "name": "大億國際會議中心",
+      "room": "會議廳",
+      "city": "台南市",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 178,
+      "name": "成大國際會議中心",
+      "room": "第一會議廳",
+      "city": "台南市",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 179,
+      "name": "高雄英迪格酒店",
+      "room": "宴會廳",
+      "city": "高雄市",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 180,
+      "name": "高雄承億酒店",
+      "room": "宴會廳",
+      "city": "高雄市",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 181,
+      "name": "駁二藝術特區",
+      "room": "大義倉庫",
+      "city": "高雄市",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 182,
+      "name": "高雄市立美術館",
+      "room": "藝術展覽",
+      "city": "高雄市",
+      "qualityLevel": "GUESSED",
+      "issues": [
+        "缺少建議: images.main",
+        "缺少建議: dimensions.area",
+        "缺少建議: priceHalfDay",
+        "資料可能為猜測"
+      ]
+    },
+    {
+      "id": 183,
+      "name": "大東文化藝術中心",
+      "room": "展覽廳",
+      "city": "高雄市",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 184,
+      "name": "衛武營國家藝術文化中心",
+      "room": "戲劇院",
+      "city": "高雄市",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 185,
+      "name": "夢時代購物中心",
+      "room": "時代會館",
+      "city": "高雄市",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 186,
+      "name": "義大天悅飯店",
+      "room": "天悅廳",
+      "city": "高雄市",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 187,
+      "name": "新竹生活美學館",
+      "room": "演藝廳",
+      "city": "新竹市",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 188,
+      "name": "新竹縣政府文化局",
+      "room": "演藝廳",
+      "city": "新竹縣",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 189,
+      "name": "清華大學國際會議廳",
+      "room": "蘇格貓底",
+      "city": "新竹市",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 190,
+      "name": "交通大學國際會議廳",
+      "room": "浩然圖書館",
+      "city": "新竹市",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 191,
+      "name": "桃園尊爵天際大飯店",
+      "room": "天際廳",
+      "city": "桃園市",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 192,
+      "name": "桃園古華花園飯店",
+      "room": "古華廳",
+      "city": "桃園市",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 193,
+      "name": "桃園南方莊園度假飯店",
+      "room": "莊園廳",
+      "city": "桃園市",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 194,
+      "name": "桃園大溪威斯汀度假酒店",
+      "room": "威斯汀廳",
+      "city": "桃園市",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 195,
+      "name": "中原大學活動中心",
+      "room": "演藝廳",
+      "city": "桃園市",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 196,
+      "name": "中央大學文學院",
+      "room": "國際會議廳",
+      "city": "桃園市",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 197,
+      "name": "墾丁悠活渡假村",
+      "room": "悠活廳",
+      "city": "屏東縣",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 198,
+      "name": "小琉球大飯店",
+      "room": "宴會廳",
+      "city": "屏東縣",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 199,
+      "name": "宜蘭長榮鳳凰酒店",
+      "room": "鳳凰廳",
+      "city": "宜蘭縣",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 200,
+      "name": "宜蘭力麗威斯汀度假酒店",
+      "room": "威斯汀廳",
+      "city": "宜蘭縣",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 201,
+      "name": "宜蘭傳藝老爺行旅",
+      "room": "傳藝廳",
+      "city": "宜蘭縣",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 202,
+      "name": "花蓮太魯閣晶英酒店",
+      "room": "晶英廳",
+      "city": "花蓮縣",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 203,
+      "name": "花蓮理想大地渡假飯店",
+      "room": "理想廳",
+      "city": "花蓮縣",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 204,
+      "name": "台東豐泰大飯店",
+      "room": "宴會廳",
+      "city": "台東縣",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 205,
+      "name": "綠島朝日溫泉度假村",
+      "room": "會議室",
+      "city": "台東縣",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 206,
+      "name": "蘭嶼別館",
+      "room": "會議室",
+      "city": "台東縣",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 207,
+      "name": "基隆華國大飯店",
+      "room": "華國廳",
+      "city": "基隆市",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 208,
+      "name": "嘉義鈺通大飯店",
+      "room": "鈺通廳",
+      "city": "嘉義市",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 209,
+      "name": "苗栗香格里拉樂園",
+      "room": "宴會廳",
+      "city": "苗栗縣",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 210,
+      "name": "苗栗西湖渡假村",
+      "room": "西湖廳",
+      "city": "苗栗縣",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 211,
+      "name": "南投九族文化村",
+      "room": "水沙連會議廳",
+      "city": "南投縣",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 212,
+      "name": "彰化鹿港天后宮",
+      "room": "會議室",
+      "city": "彰化縣",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 213,
+      "name": "台北W飯店",
+      "room": "WOW廳",
+      "city": "台北市",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 214,
+      "name": "新北板橋凱撒大飯店",
+      "room": "凱撒廳",
+      "city": "新北市",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 215,
+      "name": "新北福容大飯店淡水漁人碼頭",
+      "room": "福容廳",
+      "city": "新北市",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 216,
+      "name": "新北海天地大飯店",
+      "room": "海天地廳",
+      "city": "新北市",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 217,
+      "name": "新北萬里翡翠灣福華渡假飯店",
+      "room": "福華廳",
+      "city": "新北市",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 218,
+      "name": "新北三重福朋喜來登酒店",
+      "room": "福朋廳",
+      "city": "新北市",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 219,
+      "name": "台中裕元花園酒店",
+      "room": "裕元廳",
+      "city": "台中市",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 220,
+      "name": "台中永豐棧酒店",
+      "room": "永豐棧廳",
+      "city": "台中市",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 221,
+      "name": "台中通豪大飯店",
+      "room": "通豪廳",
+      "city": "台中市",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 222,
+      "name": "台南和逸飯店",
+      "room": "和逸廳",
+      "city": "台南市",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 223,
+      "name": "台南桂田酒店",
+      "room": "桂田廳",
+      "city": "台南市",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 224,
+      "name": "高雄翰皇酒店",
+      "room": "翰皇廳",
+      "city": "高雄市",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 225,
+      "name": "高雄城市商旅",
+      "room": "城市廳",
+      "city": "高雄市",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 226,
+      "name": "高雄捷絲旅酒店",
+      "room": "捷絲旅廳",
+      "city": "高雄市",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 227,
+      "name": "高雄比歐緻飯店",
+      "room": "比歐廳",
+      "city": "高雄市",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 228,
+      "name": "高雄秝芯旅館",
+      "room": "會議室",
+      "city": "高雄市",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 229,
+      "name": "宜蘭晶英酒店",
+      "room": "晶英廳",
+      "city": "宜蘭縣",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 230,
+      "name": "台北花園大酒店",
+      "room": "花園廳",
+      "city": "台北市",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 231,
+      "name": "台北商務會館",
+      "room": "會議廳",
+      "city": "台北市",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 232,
+      "name": "台北松意酒店",
+      "room": "松意廳",
+      "city": "台北市",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 233,
+      "name": "台北統一大飯店",
+      "room": "統一廳",
+      "city": "台北市",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 234,
+      "name": "台北喜瑞飯店",
+      "room": "喜瑞廳",
+      "city": "台北市",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 235,
+      "name": "台北姿美大飯店",
+      "room": "姿美廳",
+      "city": "台北市",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 236,
+      "name": "台北第一酒店",
+      "room": "第一廳",
+      "city": "台北市",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 237,
+      "name": "台北兄弟大飯店",
+      "room": "兄弟廳",
+      "city": "台北市",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 238,
+      "name": "台北六福客棧",
+      "room": "六福廳",
+      "city": "台北市",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 239,
+      "name": "台北康華大飯店",
+      "room": "康華廳",
+      "city": "台北市",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 240,
+      "name": "台北華國大飯店",
+      "room": "華國廳",
+      "city": "台北市",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 241,
+      "name": "台北慶泰大飯店",
+      "room": "慶泰廳",
+      "city": "台北市",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 242,
+      "name": "台北友春大飯店",
+      "room": "友春廳",
+      "city": "台北市",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 243,
+      "name": "台北一樂園大飯店",
+      "room": "一樂園廳",
+      "city": "台北市",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 244,
+      "name": "新北板橋瀚品酒店",
+      "room": "瀚品廳",
+      "city": "新北市",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 245,
+      "name": "新北中和福朋喜來登",
+      "room": "福朋廳",
+      "city": "新北市",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 246,
+      "name": "新北新莊晶冠廣場",
+      "room": "會議廳",
+      "city": "新北市",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 247,
+      "name": "新北土城日月光國際會議中心",
+      "room": "會議廳",
+      "city": "新北市",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 248,
+      "name": "台中長榮桂冠酒店",
+      "room": "桂冠廳",
+      "city": "台中市",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 249,
+      "name": "台中福華大飯店",
+      "room": "福華廳",
+      "city": "台中市",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 250,
+      "name": "台南維悅酒店",
+      "room": "維悅廳",
+      "city": "台南市",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 251,
+      "name": "台南天下大飯店",
+      "room": "天下廳",
+      "city": "台南市",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 252,
+      "name": "台南太子大飯店",
+      "room": "太子廳",
+      "city": "台南市",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 253,
+      "name": "台南劍橋大飯店",
+      "room": "劍橋廳",
+      "city": "台南市",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 254,
+      "name": "高雄義大皇冠假日酒店",
+      "room": "皇冠廳",
+      "city": "高雄市",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 255,
+      "name": "高雄人承大飯店",
+      "room": "人承廳",
+      "city": "高雄市",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 256,
+      "name": "高雄華王大飯店",
+      "room": "華王廳",
+      "city": "高雄市",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 257,
+      "name": "屏東墾丁福華渡假飯店",
+      "room": "福華廳",
+      "city": "屏東縣",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 258,
+      "name": "屏東墾丁凱撒大飯店",
+      "room": "凱撒廳",
+      "city": "屏東縣",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 259,
+      "name": "屏東墾丁夏都沙灘酒店",
+      "room": "夏都廳",
+      "city": "屏東縣",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 260,
+      "name": "屏東墾丁悠活渡假村",
+      "room": "悠活廳",
+      "city": "屏東縣",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 261,
+      "name": "花蓮理想大地度假酒店",
+      "room": "理想廳",
+      "city": "花蓮縣",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 262,
+      "name": "澎湖澄舍會館",
+      "room": "會議室",
+      "city": "澎湖縣",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 263,
+      "name": "金門金城鎮公所",
+      "room": "會議廳",
+      "city": "金門縣",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 264,
+      "name": "馬祖南竿福沃大飯店",
+      "room": "會議室",
+      "city": "連江縣",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 265,
+      "name": "馬祖北竿芹壁民宿村",
+      "room": "會議室",
+      "city": "連江縣",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 266,
+      "name": "南投溪頭妖怪主題飯店",
+      "room": "妖怪廳",
+      "city": "南投縣",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 267,
+      "name": "南投清境農場國民賓館",
+      "room": "會議廳",
+      "city": "南投縣",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 268,
+      "name": "彰化鹿港茂迪太陽能會館",
+      "room": "會議廳",
+      "city": "彰化縣",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 269,
+      "name": "彰化秀傳紀念醫院",
+      "room": "國際會議廳",
+      "city": "彰化縣",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 270,
+      "name": "雲林虎尾科技大學",
+      "room": "國際會議廳",
+      "city": "雲林縣",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 271,
+      "name": "嘉義中正大學",
+      "room": "國際會議廳",
+      "city": "嘉義縣",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 272,
+      "name": "台北圓山大飯店",
+      "room": "大宴會廳",
+      "city": "台北市",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 273,
+      "name": "台北陽明山中國麗緻大飯店",
+      "room": "麗緻廳",
+      "city": "台北市",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 274,
+      "name": "台北唯客樂文旅",
+      "room": "會議廳",
+      "city": "台北市",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 275,
+      "name": "台北意舍酒店",
+      "room": "意舍廳",
+      "city": "台北市",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 276,
+      "name": "新北板橋凱薩帝苑婚宴會館",
+      "room": "凱薩廳",
+      "city": "新北市",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 277,
+      "name": "新北三重金陵婚宴會館",
+      "room": "金陵廳",
+      "city": "新北市",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 278,
+      "name": "台南香格里拉遠東",
+      "room": "遠東廳",
+      "city": "台南市",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 279,
+      "name": "台北神旺大飯店",
+      "room": "旺廳",
+      "city": "台北市",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 280,
+      "name": "台北第一大飯店",
+      "room": "第一廳",
+      "city": "台北市",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 281,
+      "name": "台北華泰瑞舍",
+      "room": "瑞舍廳",
+      "city": "台北市",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 282,
+      "name": "台北洛碁大飯店",
+      "room": "洛碁廳",
+      "city": "台北市",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 283,
+      "name": "台北德立莊酒店",
+      "room": "德立莊廳",
+      "city": "台北市",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 284,
+      "name": "台北八方美學商旅",
+      "room": "會議廳",
+      "city": "台北市",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 285,
+      "name": "台北丹迪旅店",
+      "room": "會議室",
+      "city": "台北市",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 286,
+      "name": "新北土城承天禪寺",
+      "room": "會議室",
+      "city": "新北市",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 287,
+      "name": "新北三峽老街活動中心",
+      "room": "會議廳",
+      "city": "新北市",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 288,
+      "name": "桃園大園國際會議中心",
+      "room": "會議廳",
+      "city": "桃園市",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 289,
+      "name": "桃園中壢藝術館",
+      "room": "演藝廳",
+      "city": "桃園市",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 290,
+      "name": "新竹科學園區活動中心",
+      "room": "國際會議廳",
+      "city": "新竹市",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 291,
+      "name": "新竹玻璃工藝博物館",
+      "room": "會議廳",
+      "city": "新竹市",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 292,
+      "name": "苗栗頭份鎮民活動中心",
+      "room": "會議廳",
+      "city": "苗栗縣",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 293,
+      "name": "苗栗通霄拱天宮",
+      "room": "會議室",
+      "city": "苗栗縣",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 294,
+      "name": "台中中港大飯店",
+      "room": "中港廳",
+      "city": "台中市",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 295,
+      "name": "台中麒麟大飯店",
+      "room": "麒麟廳",
+      "city": "台中市",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 296,
+      "name": "台中全国大飯店",
+      "room": "全国廳",
+      "city": "台中市",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 297,
+      "name": "台中誠品生活480",
+      "room": "會議廳",
+      "city": "台中市",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 298,
+      "name": "彰化建國科技大學",
+      "room": "國際會議廳",
+      "city": "彰化縣",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 299,
+      "name": "彰化大葉大學",
+      "room": "國際會議廳",
+      "city": "彰化縣",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 300,
+      "name": "南投埔里鎮立圖書館",
+      "room": "演講廳",
+      "city": "南投縣",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 301,
+      "name": "南投竹山紫南宮",
+      "room": "會議室",
+      "city": "南投縣",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 302,
+      "name": "雲林斗六市立圖書館",
+      "room": "演講廳",
+      "city": "雲林縣",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 303,
+      "name": "嘉義市立博物館",
+      "room": "演講廳",
+      "city": "嘉義市",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 304,
+      "name": "台南成大會館",
+      "room": "會議廳",
+      "city": "台南市",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 305,
+      "name": "台南南門勞工育樂中心",
+      "room": "會議廳",
+      "city": "台南市",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 306,
+      "name": "高雄科學工藝博物館",
+      "room": "演講廳",
+      "city": "高雄市",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 307,
+      "name": "高雄市立社會教育館",
+      "room": "演藝廳",
+      "city": "高雄市",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 308,
+      "name": "屏東縣立體育館",
+      "room": "副場館",
+      "city": "屏東縣",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 309,
+      "name": "宜蘭傳藝中心",
+      "room": "會議室",
+      "city": "宜蘭縣",
+      "qualityLevel": "GUESSED",
+      "issues": [
+        "缺少建議: images.main",
+        "缺少建議: dimensions.area",
+        "缺少建議: priceHalfDay",
+        "資料可能為猜測"
+      ]
+    },
+    {
+      "id": 310,
+      "name": "台北內湖運動中心",
+      "room": "韻律教室",
+      "city": "台北市",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 311,
+      "name": "台北信義運動中心",
+      "room": "會議室",
+      "city": "台北市",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 312,
+      "name": "台北中山運動中心",
+      "room": "韻律教室",
+      "city": "台北市",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 313,
+      "name": "新北三重綜合運動場",
+      "room": "會議室",
+      "city": "新北市",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 314,
+      "name": "新北新莊體育館",
+      "room": "會議室",
+      "city": "新北市",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 315,
+      "name": "桃園藝文廣場",
+      "room": "展演中心",
+      "city": "桃園市",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 316,
+      "name": "新竹縣體育場",
+      "room": "體育館",
+      "city": "新竹縣",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 317,
+      "name": "苗栗縣立體育場",
+      "room": "體育館",
+      "city": "苗栗縣",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 318,
+      "name": "台中港區藝術中心",
+      "room": "演藝廳",
+      "city": "台中市",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 319,
+      "name": "台中文心森林公園圓滿戶外劇場",
+      "room": "圓滿劇場",
+      "city": "台中市",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 320,
+      "name": "彰化縣立體育館",
+      "room": "主場館",
+      "city": "彰化縣",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 321,
+      "name": "南投縣立體育場",
+      "room": "體育館",
+      "city": "南投縣",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 322,
+      "name": "雲林縣立體育館",
+      "room": "主場館",
+      "city": "雲林縣",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 323,
+      "name": "嘉義縣立體育館",
+      "room": "主場館",
+      "city": "嘉義縣",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 324,
+      "name": "台南市立體育館",
+      "room": "主場館",
+      "city": "台南市",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 325,
+      "name": "宜蘭縣立體育館",
+      "room": "主場館",
+      "city": "宜蘭縣",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 326,
+      "name": "花蓮縣立體育館",
+      "room": "主場館",
+      "city": "花蓮縣",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 327,
+      "name": "台東縣立體育館",
+      "room": "主場館",
+      "city": "台東縣",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 328,
+      "name": "澎湖縣立體育館",
+      "room": "主場館",
+      "city": "澎湖縣",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 329,
+      "name": "金門縣立體育館",
+      "room": "主場館",
+      "city": "金門縣",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 330,
+      "name": "連江縣立體育館",
+      "room": "主場館",
+      "city": "連江縣",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 331,
+      "name": "台北北投會館",
+      "room": "會議廳",
+      "city": "台北市",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 332,
+      "name": "新北淡水文化園區",
+      "room": "展覽廳",
+      "city": "新北市",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 333,
+      "name": "桃園孔廟暨忠烈祠",
+      "room": "會議室",
+      "city": "桃園市",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 334,
+      "name": "新竹市立演藝廳",
+      "room": "演藝廳",
+      "city": "新竹市",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 335,
+      "name": "苗栗文化局中正堂",
+      "room": "演藝廳",
+      "city": "苗栗縣",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 336,
+      "name": "彰化縣立文化局",
+      "room": "演藝廳",
+      "city": "彰化縣",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 337,
+      "name": "南投縣立文化中心",
+      "room": "演藝廳",
+      "city": "南投縣",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 338,
+      "name": "雲林縣文化中心",
+      "room": "演藝廳",
+      "city": "雲林縣",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 339,
+      "name": "宜蘭縣文化中心",
+      "room": "演藝廳",
+      "city": "宜蘭縣",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: dimensions.area"
+      ]
+    },
+    {
+      "id": 340,
+      "name": "臺東縣政府文化處",
+      "room": "文化活動",
+      "city": "臺東縣",
+      "qualityLevel": "INCOMPLETE",
+      "issues": [
+        "缺少必填: address",
+        "缺少必填: contactPhone",
+        "缺少建議: images.main",
+        "缺少建議: dimensions.area",
+        "缺少建議: maxCapacityTheater",
+        "缺少建議: priceHalfDay",
+        "缺少建議: contactEmail"
+      ]
+    },
+    {
+      "id": 341,
+      "name": "福容大飯店",
+      "room": "全台19家分店",
+      "city": "全台",
+      "qualityLevel": "INCOMPLETE",
+      "issues": [
+        "缺少必填: address",
+        "缺少必填: contactPhone",
+        "缺少建議: images.main",
+        "缺少建議: dimensions.area",
+        "缺少建議: maxCapacityTheater",
+        "缺少建議: priceHalfDay",
+        "缺少建議: contactEmail"
+      ]
+    },
+    {
+      "id": 342,
+      "name": "國家表演藝術中心",
+      "room": "會議室",
+      "city": "台北市",
+      "qualityLevel": "GUESSED",
+      "issues": [
+        "缺少建議: images.main",
+        "缺少建議: dimensions.area",
+        "缺少建議: priceHalfDay",
+        "資料可能為猜測"
+      ]
+    },
+    {
+      "id": 343,
+      "name": "台北遠東香格里拉酒店",
+      "room": "五星級",
+      "city": "台北市",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: images.main",
+        "缺少建議: dimensions.area",
+        "缺少建議: maxCapacityTheater",
+        "缺少建議: priceHalfDay"
+      ]
+    },
+    {
+      "id": 344,
+      "name": "國立臺灣大學",
+      "room": "會議中心",
+      "city": "台北市",
+      "qualityLevel": "GUESSED",
+      "issues": [
+        "缺少建議: images.main",
+        "缺少建議: dimensions.area",
+        "缺少建議: priceHalfDay",
+        "資料可能為猜測"
+      ]
+    },
+    {
+      "id": 345,
+      "name": "國立政治大學",
+      "room": "會議中心",
+      "city": "台北市",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: images.main",
+        "缺少建議: dimensions.area",
+        "缺少建議: priceHalfDay"
+      ]
+    },
+    {
+      "id": 346,
+      "name": "國立清華大學",
+      "room": "會議中心",
+      "city": "新竹市",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: images.main",
+        "缺少建議: dimensions.area",
+        "缺少建議: priceHalfDay"
+      ]
+    },
+    {
+      "id": 347,
+      "name": "國立成功大學",
+      "room": "會議中心",
+      "city": "台南市",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: images.main",
+        "缺少建議: dimensions.area",
+        "缺少建議: priceHalfDay"
+      ]
+    },
+    {
+      "id": 348,
+      "name": "國立臺灣科技大學",
+      "room": "會議中心",
+      "city": "台北市",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: images.main",
+        "缺少建議: dimensions.area",
+        "缺少建議: priceHalfDay"
+      ]
+    },
+    {
+      "id": 349,
+      "name": "工業技術研究院",
+      "room": "會議中心",
+      "city": "新竹縣",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: images.main",
+        "缺少建議: dimensions.area",
+        "缺少建議: priceHalfDay"
+      ]
+    },
+    {
+      "id": 350,
+      "name": "中央研究院",
+      "room": "會議中心",
+      "city": "台北市",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: images.main",
+        "缺少建議: dimensions.area",
+        "缺少建議: priceHalfDay"
+      ]
+    },
+    {
+      "id": 351,
+      "name": "國立臺灣師範大學",
+      "room": "會議中心",
+      "city": "台北市",
+      "qualityLevel": "PARTIAL",
+      "issues": [
+        "缺少建議: images.main",
+        "缺少建議: dimensions.area",
+        "缺少建議: priceHalfDay"
+      ]
+    },
+    {
+      "id": 352,
+      "name": "逢甲大學",
+      "room": "會議中心",
+      "city": "台中市",
+      "qualityLevel": "INCOMPLETE",
+      "issues": [
+        "缺少必填: address",
+        "缺少必填: contactPhone",
+        "缺少建議: images.main",
+        "缺少建議: dimensions.area",
+        "缺少建議: maxCapacityTheater",
+        "缺少建議: priceHalfDay",
+        "缺少建議: contactEmail"
+      ]
+    },
+    {
+      "id": 353,
+      "name": "朝陽科技大學",
+      "room": "會議中心",
+      "city": "台中市",
+      "qualityLevel": "INCOMPLETE",
+      "issues": [
+        "缺少必填: address",
+        "缺少必填: contactPhone",
+        "缺少建議: images.main",
+        "缺少建議: dimensions.area",
+        "缺少建議: maxCapacityTheater",
+        "缺少建議: priceHalfDay",
+        "缺少建議: contactEmail"
+      ]
+    },
+    {
+      "id": 354,
+      "name": "義守大學",
+      "room": "會議中心",
+      "city": "高雄市",
+      "qualityLevel": "INCOMPLETE",
+      "issues": [
+        "缺少必填: address",
+        "缺少必填: contactPhone",
+        "缺少建議: images.main",
+        "缺少建議: dimensions.area",
+        "缺少建議: maxCapacityTheater",
+        "缺少建議: priceHalfDay",
+        "缺少建議: contactEmail"
+      ]
+    },
+    {
+      "id": 355,
+      "name": "國立中山大學",
+      "room": "會議中心",
+      "city": "高雄市",
+      "qualityLevel": "INCOMPLETE",
+      "issues": [
+        "缺少必填: address",
+        "缺少必填: contactPhone",
+        "缺少建議: images.main",
+        "缺少建議: dimensions.area",
+        "缺少建議: maxCapacityTheater",
+        "缺少建議: priceHalfDay",
+        "缺少建議: contactEmail"
+      ]
+    },
+    {
+      "id": 356,
+      "name": "國立屏東大學",
+      "room": "會議中心",
+      "city": "屏東縣",
+      "qualityLevel": "INCOMPLETE",
+      "issues": [
+        "缺少必填: address",
+        "缺少必填: contactPhone",
+        "缺少建議: images.main",
+        "缺少建議: dimensions.area",
+        "缺少建議: maxCapacityTheater",
+        "缺少建議: priceHalfDay",
+        "缺少建議: contactEmail"
+      ]
+    },
+    {
+      "id": 357,
+      "name": "中國文化大學",
+      "room": "會議中心",
+      "city": "台北市",
+      "qualityLevel": "INCOMPLETE",
+      "issues": [
+        "缺少必填: address",
+        "缺少必填: contactPhone",
+        "缺少建議: images.main",
+        "缺少建議: dimensions.area",
+        "缺少建議: maxCapacityTheater",
+        "缺少建議: priceHalfDay",
+        "缺少建議: contactEmail"
+      ]
+    },
+    {
+      "id": 358,
+      "name": "世新大學",
+      "room": "會議中心",
+      "city": "台北市",
+      "qualityLevel": "INCOMPLETE",
+      "issues": [
+        "缺少必填: address",
+        "缺少必填: contactPhone",
+        "缺少建議: images.main",
+        "缺少建議: dimensions.area",
+        "缺少建議: maxCapacityTheater",
+        "缺少建議: priceHalfDay",
+        "缺少建議: contactEmail"
+      ]
+    },
+    {
+      "id": 359,
+      "name": "大同大學",
+      "room": "會議中心",
+      "city": "台北市",
+      "qualityLevel": "INCOMPLETE",
+      "issues": [
+        "缺少必填: address",
+        "缺少必填: contactPhone",
+        "缺少建議: images.main",
+        "缺少建議: dimensions.area",
+        "缺少建議: maxCapacityTheater",
+        "缺少建議: priceHalfDay",
+        "缺少建議: contactEmail"
+      ]
+    },
+    {
+      "id": 360,
+      "name": "國立東華大學",
+      "room": "會議中心",
+      "city": "花蓮縣",
+      "qualityLevel": "INCOMPLETE",
+      "issues": [
+        "缺少必填: address",
+        "缺少必填: contactPhone",
+        "缺少建議: images.main",
+        "缺少建議: dimensions.area",
+        "缺少建議: maxCapacityTheater",
+        "缺少建議: priceHalfDay",
+        "缺少建議: contactEmail"
+      ]
+    },
+    {
+      "id": 361,
+      "name": "國立臺東大學",
+      "room": "會議中心",
+      "city": "臺東縣",
+      "qualityLevel": "INCOMPLETE",
+      "issues": [
+        "缺少必填: address",
+        "缺少必填: contactPhone",
+        "缺少建議: images.main",
+        "缺少建議: dimensions.area",
+        "缺少建議: maxCapacityTheater",
+        "缺少建議: priceHalfDay",
+        "缺少建議: contactEmail"
+      ]
+    },
+    {
+      "id": 362,
+      "name": "國立澎湖科技大學",
+      "room": "會議中心",
+      "city": "澎湖縣",
+      "qualityLevel": "INCOMPLETE",
+      "issues": [
+        "缺少必填: address",
+        "缺少必填: contactPhone",
+        "缺少建議: images.main",
+        "缺少建議: dimensions.area",
+        "缺少建議: maxCapacityTheater",
+        "缺少建議: priceHalfDay",
+        "缺少建議: contactEmail"
+      ]
+    },
+    {
+      "id": 363,
+      "name": "國立高雄師範大學",
+      "room": "會議中心",
+      "city": "高雄市",
+      "qualityLevel": "INCOMPLETE",
+      "issues": [
+        "缺少必填: address",
+        "缺少必填: contactPhone",
+        "缺少建議: images.main",
+        "缺少建議: dimensions.area",
+        "缺少建議: maxCapacityTheater",
+        "缺少建議: priceHalfDay",
+        "缺少建議: contactEmail"
+      ]
+    },
+    {
+      "id": 364,
+      "name": "國立彰化師範大學",
+      "room": "會議中心",
+      "city": "彰化縣",
+      "qualityLevel": "INCOMPLETE",
+      "issues": [
+        "缺少必填: address",
+        "缺少必填: contactPhone",
+        "缺少建議: images.main",
+        "缺少建議: dimensions.area",
+        "缺少建議: maxCapacityTheater",
+        "缺少建議: priceHalfDay",
+        "缺少建議: contactEmail"
+      ]
+    },
+    {
+      "id": 365,
+      "name": "國立臺中教育大學",
+      "room": "會議中心",
+      "city": "台中市",
+      "qualityLevel": "INCOMPLETE",
+      "issues": [
+        "缺少必填: address",
+        "缺少必填: contactPhone",
+        "缺少建議: images.main",
+        "缺少建議: dimensions.area",
+        "缺少建議: maxCapacityTheater",
+        "缺少建議: priceHalfDay",
+        "缺少建議: contactEmail"
+      ]
+    },
+    {
+      "id": 366,
+      "name": "國立臺南大學",
+      "room": "會議中心",
+      "city": "台南市",
+      "qualityLevel": "INCOMPLETE",
+      "issues": [
+        "缺少必填: address",
+        "缺少必填: contactPhone",
+        "缺少建議: images.main",
+        "缺少建議: dimensions.area",
+        "缺少建議: maxCapacityTheater",
+        "缺少建議: priceHalfDay",
+        "缺少建議: contactEmail"
+      ]
+    },
+    {
+      "id": 367,
+      "name": "南開科技大學",
+      "room": "會議中心",
+      "city": "南投縣",
+      "qualityLevel": "INCOMPLETE",
+      "issues": [
+        "缺少必填: address",
+        "缺少必填: contactPhone",
+        "缺少建議: images.main",
+        "缺少建議: dimensions.area",
+        "缺少建議: maxCapacityTheater",
+        "缺少建議: priceHalfDay",
+        "缺少建議: contactEmail"
+      ]
+    },
+    {
+      "id": 368,
+      "name": "南臺科技大學",
+      "room": "會議中心",
+      "city": "台南市",
+      "qualityLevel": "INCOMPLETE",
+      "issues": [
+        "缺少必填: address",
+        "缺少必填: contactPhone",
+        "缺少建議: images.main",
+        "缺少建議: dimensions.area",
+        "缺少建議: maxCapacityTheater",
+        "缺少建議: priceHalfDay",
+        "缺少建議: contactEmail"
+      ]
+    },
+    {
+      "id": 369,
+      "name": "國立陽明交通大學",
+      "room": "會議中心",
+      "city": "新竹市",
+      "qualityLevel": "INCOMPLETE",
+      "issues": [
+        "缺少必填: address",
+        "缺少必填: contactPhone",
+        "缺少建議: images.main",
+        "缺少建議: dimensions.area",
+        "缺少建議: maxCapacityTheater",
+        "缺少建議: priceHalfDay",
+        "缺少建議: contactEmail"
+      ]
+    },
+    {
+      "id": 370,
+      "name": "南華大學",
+      "room": "會議中心",
+      "city": "嘉義縣",
+      "qualityLevel": "INCOMPLETE",
+      "issues": [
+        "缺少必填: address",
+        "缺少必填: contactPhone",
+        "缺少建議: images.main",
+        "缺少建議: dimensions.area",
+        "缺少建議: maxCapacityTheater",
+        "缺少建議: priceHalfDay",
+        "缺少建議: contactEmail"
+      ]
+    },
+    {
+      "id": 371,
+      "name": "台北國際會議中心",
+      "room": "大會堂全場",
+      "city": "台北市",
+      "qualityLevel": "GUESSED",
+      "issues": [
+        "缺少建議: dimensions.area",
+        "資料可能為猜測"
+      ]
+    },
+    {
+      "id": 372,
+      "name": "台北國際會議中心",
+      "room": "大會堂半場(1-27排)",
+      "city": "台北市",
+      "qualityLevel": "GUESSED",
+      "issues": [
+        "缺少建議: dimensions.area",
+        "缺少建議: priceHalfDay",
+        "資料可能為猜測"
+      ]
+    },
+    {
+      "id": 374,
+      "name": "台北國際會議中心",
+      "room": "101A",
+      "city": "台北市",
+      "qualityLevel": "GUESSED",
+      "issues": [
+        "資料可能為猜測"
+      ]
+    }
+  ]
+}

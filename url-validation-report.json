@@ -1,0 +1,1506 @@
+{
+  "timestamp": "2026-02-28T05:08:22.625Z",
+  "summary": {
+    "total": 348,
+    "valid": 136,
+    "failed": 212,
+    "successRate": "39.1"
+  },
+  "errors": {
+    "dns": [],
+    "timeout": [
+      {
+        "name": "華山1914文化創意產業園區",
+        "city": "台北市",
+        "url": "https://www.huashan1914.com",
+        "error": "Timeout (>10s)",
+        "responseTime": 10006
+      },
+      {
+        "name": "花蓮遠雄悅來大飯店",
+        "city": "花蓮縣",
+        "url": "https://www.farglory-hotel.com",
+        "error": "Timeout (>10s)",
+        "responseTime": 10001
+      },
+      {
+        "name": "花蓮美侖大飯店",
+        "city": "花蓮縣",
+        "url": "https://www.parkview-hotel.com.tw",
+        "error": "Timeout (>10s)",
+        "responseTime": 10001
+      },
+      {
+        "name": "新竹縣政府文化局",
+        "city": "新竹縣",
+        "url": "https://www.hchcc.gov.tw",
+        "error": "Timeout (>10s)",
+        "responseTime": 10001
+      },
+      {
+        "name": "澎湖澄舍會館",
+        "city": "澎湖縣",
+        "url": "https://www.chengshe.com",
+        "error": "Timeout (>10s)",
+        "responseTime": 10001
+      },
+      {
+        "name": "金門金城鎮公所",
+        "city": "金門縣",
+        "url": "https://www.kincheng.gov.tw",
+        "error": "Timeout (>10s)",
+        "responseTime": 10001
+      },
+      {
+        "name": "台北唯客樂文旅",
+        "city": "台北市",
+        "url": "https://www.victoriam.com",
+        "error": "Timeout (>10s)",
+        "responseTime": 10001
+      },
+      {
+        "name": "彰化建國科技大學",
+        "city": "彰化縣",
+        "url": "https://www.ccut.edu.tw",
+        "error": "Timeout (>10s)",
+        "responseTime": 10001
+      },
+      {
+        "name": "台中港區藝術中心",
+        "city": "台中市",
+        "url": "https://www.tcsac.gov.tw",
+        "error": "Timeout (>10s)",
+        "responseTime": 10000
+      },
+      {
+        "name": "雲林縣立體育館",
+        "city": "雲林縣",
+        "url": "https://www.ylc.edu.tw",
+        "error": "Timeout (>10s)",
+        "responseTime": 10001
+      }
+    ],
+    "ssl": [],
+    "http404": [
+      {
+        "name": "台北萬豪酒店",
+        "city": "台北市",
+        "url": "https://www.marriott.com/en-us/hotels/tpetp-taipei-marriott-hotel/overview/",
+        "error": "HTTP 404 Not Found",
+        "responseTime": 1287
+      },
+      {
+        "name": "桃園諾富特華航酒店",
+        "city": "桃園市",
+        "url": "https://www.novotel.com/taoyuan-airport",
+        "error": "HTTP 404 Not Found",
+        "responseTime": 987
+      },
+      {
+        "name": "雲林劍湖山王子大飯店",
+        "city": "雲林縣",
+        "url": "https://www.janfusun.com.tw/prince",
+        "error": "HTTP 404 Not Found",
+        "responseTime": 127
+      },
+      {
+        "name": "六福萬怡酒店",
+        "city": "台北市",
+        "url": "https://www.courtyard.com/taipei",
+        "error": "HTTP 404 Not Found",
+        "responseTime": 1923
+      },
+      {
+        "name": "中正紀念堂",
+        "city": "台北市",
+        "url": "https://www.cksmh.gov.tw",
+        "error": "HTTP 404 Not Found",
+        "responseTime": 67
+      },
+      {
+        "name": "國父紀念館",
+        "city": "台北市",
+        "url": "https://www.yatsen.gov.tw",
+        "error": "HTTP 404 Not Found",
+        "responseTime": 86
+      },
+      {
+        "name": "台北小巨蛋",
+        "city": "台北市",
+        "url": "https://www.taipeiarena.com",
+        "error": "HTTP 404 Not Found",
+        "responseTime": 911
+      },
+      {
+        "name": "高雄市立美術館",
+        "city": "高雄市",
+        "url": "https://www.kmfa.gov.tw",
+        "error": "HTTP 404 Not Found",
+        "responseTime": 89
+      },
+      {
+        "name": "宜蘭晶英酒店",
+        "city": "宜蘭縣",
+        "url": "https://www.silksplace.com/yilan",
+        "error": "HTTP 404 Not Found",
+        "responseTime": 133
+      },
+      {
+        "name": "宜蘭傳藝中心",
+        "city": "宜蘭縣",
+        "url": "https://www.ncfta.gov.tw",
+        "error": "HTTP 404 Not Found",
+        "responseTime": 73
+      }
+    ],
+    "http500": [
+      {
+        "name": "CLBC大安商務中心",
+        "city": "台北市",
+        "url": "https://www.clbc.tw",
+        "error": "HTTP 500 Server Error",
+        "responseTime": 1780
+      }
+    ],
+    "connection": [],
+    "other": [
+      {
+        "name": "台北國際會議中心",
+        "city": "台北市",
+        "url": "https://www.ticc.com",
+        "error": "HTTP 405",
+        "responseTime": 858
+      },
+      {
+        "name": "新北市公有場地",
+        "city": "新北市",
+        "url": "https://www.ntpc.gov.tw",
+        "error": "HTTP 403",
+        "responseTime": 56
+      },
+      {
+        "name": "台北君悅酒店",
+        "city": "台北市",
+        "url": "https://www.hyatt.com/zh-HK/hotel/taiwan/grand-hyatt-taipei/taiph",
+        "error": "HTTP 403",
+        "responseTime": 1225
+      },
+      {
+        "name": "台北君品酒店",
+        "city": "台北市",
+        "url": "https://www.palaisdechine.com",
+        "error": "HTTP 403",
+        "responseTime": 5797
+      },
+      {
+        "name": "台北西華飯店",
+        "city": "台北市",
+        "url": "https://www.thesherwood.com.tw",
+        "error": "fetch failed",
+        "responseTime": 40
+      },
+      {
+        "name": "板橋435藝文特區",
+        "city": "新北市",
+        "url": "https://www.435artzone.ntpc.gov.tw",
+        "error": "fetch failed",
+        "responseTime": 38
+      },
+      {
+        "name": "新板希爾頓酒店",
+        "city": "新北市",
+        "url": "https://www.hilton.com/en/hotels/tsatp-hilton-taipei-sinban/",
+        "error": "HTTP 403",
+        "responseTime": 1230
+      },
+      {
+        "name": "典華旗艦店",
+        "city": "新北市",
+        "url": "https://www.dianhua.com.tw",
+        "error": "fetch failed",
+        "responseTime": 65
+      },
+      {
+        "name": "尊爵天際大飯店",
+        "city": "桃園市",
+        "url": "https://www.marriott.com",
+        "error": "HTTP 403",
+        "responseTime": 144
+      },
+      {
+        "name": "台中日月千禧酒店",
+        "city": "台中市",
+        "url": "https://www.millenniumhotels.com/zh-tw/taichung/millennium-hotel-taichung/",
+        "error": "HTTP 403",
+        "responseTime": 107
+      },
+      {
+        "name": "林酒店",
+        "city": "台中市",
+        "url": "https://www.the-forest.com.tw",
+        "error": "fetch failed",
+        "responseTime": 35
+      },
+      {
+        "name": "台中市世貿中心",
+        "city": "台中市",
+        "url": "https://www.wtctc.org.tw",
+        "error": "fetch failed",
+        "responseTime": 35
+      },
+      {
+        "name": "台中國家歌劇院",
+        "city": "台中市",
+        "url": "https://www.npot-ntt.gov.tw",
+        "error": "fetch failed",
+        "responseTime": 3079
+      },
+      {
+        "name": "大億麗緻酒店",
+        "city": "台南市",
+        "url": "https://www.landis-tainan.com",
+        "error": "fetch failed",
+        "responseTime": 1062
+      },
+      {
+        "name": "高雄洲際酒店",
+        "city": "高雄市",
+        "url": "https://www.ihg.com/intercontinental/hotels/gb/en/kaohsiung/khhih/hoteldetail",
+        "error": "HTTP 403",
+        "responseTime": 79
+      },
+      {
+        "name": "義大皇家酒店",
+        "city": "高雄市",
+        "url": "https://www.edithotel.com.tw",
+        "error": "fetch failed",
+        "responseTime": 54
+      },
+      {
+        "name": "基隆市文化中心",
+        "city": "基隆市",
+        "url": "https://www.klcc.gov.tw",
+        "error": "fetch failed",
+        "responseTime": 69
+      },
+      {
+        "name": "煙波大飯店新竹湖濱館",
+        "city": "新竹市",
+        "url": "https://www.yannbo.com.tw",
+        "error": "fetch failed",
+        "responseTime": 42
+      },
+      {
+        "name": "新竹市文化局",
+        "city": "新竹市",
+        "url": "https://www.ems.hccg.gov.tw",
+        "error": "fetch failed",
+        "responseTime": 42
+      },
+      {
+        "name": "嘉義耐斯王子大飯店",
+        "city": "嘉義市",
+        "url": "https://www.nice-prince.com",
+        "error": "fetch failed",
+        "responseTime": 1082
+      },
+      {
+        "name": "嘉義長榮文苑酒店",
+        "city": "嘉義縣",
+        "url": "https://www.evergreen-chiayi.com.tw",
+        "error": "fetch failed",
+        "responseTime": 41
+      },
+      {
+        "name": "宜蘭蘭城晶英酒店",
+        "city": "宜蘭縣",
+        "url": "https://www.silksplace-yilan.com",
+        "error": "fetch failed",
+        "responseTime": 156
+      },
+      {
+        "name": "花蓮翰品酒店",
+        "city": "花蓮縣",
+        "url": "https://www.chateaudechine-hualien.com",
+        "error": "fetch failed",
+        "responseTime": 1086
+      },
+      {
+        "name": "台北寒舍艾麗酒店",
+        "city": "台北市",
+        "url": "https://www.humlehouse.com",
+        "error": "HTTP 405",
+        "responseTime": 988
+      },
+      {
+        "name": "維多麗亞酒店",
+        "city": "台北市",
+        "url": "https://www.victoriahotel.com.tw",
+        "error": "fetch failed",
+        "responseTime": 24
+      },
+      {
+        "name": "花園大酒店",
+        "city": "台北市",
+        "url": "https://www.gardenhotel.com.tw",
+        "error": "fetch failed",
+        "responseTime": 45
+      },
+      {
+        "name": "統一渡假村-墾丁",
+        "city": "屏東縣",
+        "url": "https://www.kenting-resort.com",
+        "error": "fetch failed",
+        "responseTime": 101
+      },
+      {
+        "name": "墾丁夏都沙灘酒店",
+        "city": "屏東縣",
+        "url": "https://www.chateau.com.tw",
+        "error": "fetch failed",
+        "responseTime": 56
+      },
+      {
+        "name": "高雄義大皇家酒店",
+        "city": "高雄市",
+        "url": "https://www.edithotel.com.tw",
+        "error": "fetch failed",
+        "responseTime": 34
+      },
+      {
+        "name": "台北淡水將捷金鬱金香酒店",
+        "city": "新北市",
+        "url": "https://www.golden-tulip.com",
+        "error": "HTTP 403",
+        "responseTime": 1071
+      },
+      {
+        "name": "淡水漁人舞台",
+        "city": "新北市",
+        "url": "https://www.fisherman.com.tw",
+        "error": "fetch failed",
+        "responseTime": 35
+      },
+      {
+        "name": "淡水紅毛城古蹟園區",
+        "city": "新北市",
+        "url": "https://www.ntpc.gov.tw",
+        "error": "HTTP 403",
+        "responseTime": 37
+      },
+      {
+        "name": "華泰瑞苑墾丁賓館",
+        "city": "屏東縣",
+        "url": "https://www.gloria-manor.com",
+        "error": "fetch failed",
+        "responseTime": 126
+      },
+      {
+        "name": "高雄寒軒國際大飯店",
+        "city": "高雄市",
+        "url": "https://www.han-hsien.com",
+        "error": "fetch failed",
+        "responseTime": 109
+      },
+      {
+        "name": "台中林酒店",
+        "city": "台中市",
+        "url": "https://www.linhotel.com.tw",
+        "error": "fetch failed",
+        "responseTime": 41
+      },
+      {
+        "name": "TCCC台灣文創訓練中心",
+        "city": "台北市",
+        "url": "https://www.tccc.com.tw",
+        "error": "fetch failed",
+        "responseTime": 39
+      },
+      {
+        "name": "台中全國大飯店",
+        "city": "台中市",
+        "url": "https://www.nationwide.com.tw",
+        "error": "fetch failed",
+        "responseTime": 38
+      },
+      {
+        "name": "台中金典酒店",
+        "city": "台中市",
+        "url": "https://www.splendor-hotel.com",
+        "error": "fetch failed",
+        "responseTime": 132
+      },
+      {
+        "name": "台南大億麗緻酒店",
+        "city": "台南市",
+        "url": "https://www.tainanlandis.com",
+        "error": "fetch failed",
+        "responseTime": 132
+      },
+      {
+        "name": "桃園假日酒店",
+        "city": "桃園市",
+        "url": "https://www.ihg.com/holidayinn/taoyuan",
+        "error": "HTTP 403",
+        "responseTime": 90
+      },
+      {
+        "name": "台東娜路彎大酒店",
+        "city": "台東縣",
+        "url": "https://www.narubay.com",
+        "error": "fetch failed",
+        "responseTime": 153
+      },
+      {
+        "name": "台北亞都麗緻大飯店",
+        "city": "台北市",
+        "url": "https://www.landis.com.tw",
+        "error": "fetch failed",
+        "responseTime": 38
+      },
+      {
+        "name": "台北怡亨酒店",
+        "city": "台北市",
+        "url": "https://www.eclathotel.com",
+        "error": "HTTP 405",
+        "responseTime": 989
+      },
+      {
+        "name": "台北豪景大酒店",
+        "city": "台北市",
+        "url": "https://www.cosmshotel.com",
+        "error": "fetch failed",
+        "responseTime": 201
+      },
+      {
+        "name": "台北慕軒酒店",
+        "city": "台北市",
+        "url": "https://www.ambitaipei.com",
+        "error": "fetch failed",
+        "responseTime": 151
+      },
+      {
+        "name": "台北天成酒店",
+        "city": "台北市",
+        "url": "https://www.cityhotel.com.tw",
+        "error": "fetch failed",
+        "responseTime": 58
+      },
+      {
+        "name": "台北馥敦飯店",
+        "city": "台北市",
+        "url": "https://www.fortehotel.com.tw",
+        "error": "fetch failed",
+        "responseTime": 33
+      },
+      {
+        "name": "新北市政府",
+        "city": "新北市",
+        "url": "https://www.ntpc.gov.tw",
+        "error": "HTTP 403",
+        "responseTime": 48
+      },
+      {
+        "name": "桃園市政府",
+        "city": "桃園市",
+        "url": "https://www.tycg.gov.tw",
+        "error": "HTTP 403",
+        "responseTime": 57
+      },
+      {
+        "name": "台北世貿中心展覽大樓",
+        "city": "台北市",
+        "url": "https://www.twtc.com.tw",
+        "error": "fetch failed",
+        "responseTime": 69
+      },
+      {
+        "name": "南港展覽館",
+        "city": "台北市",
+        "url": "https://www.twtc.com.tw/nangang",
+        "error": "fetch failed",
+        "responseTime": 65
+      },
+      {
+        "name": "花博公園爭艷館",
+        "city": "台北市",
+        "url": "https://www.taipeiexpopark.tw",
+        "error": "fetch failed",
+        "responseTime": 46
+      },
+      {
+        "name": "圓山花博公園流行館",
+        "city": "台北市",
+        "url": "https://www.taipeiexpopark.tw",
+        "error": "fetch failed",
+        "responseTime": 28
+      },
+      {
+        "name": "社會創新實驗中心",
+        "city": "台北市",
+        "url": "https://www.siihub.org",
+        "error": "fetch failed",
+        "responseTime": 91
+      },
+      {
+        "name": "復興美學共享空間",
+        "city": "台北市",
+        "url": "https://www.fuxing.space",
+        "error": "fetch failed",
+        "responseTime": 55
+      },
+      {
+        "name": "高雄巨蛋",
+        "city": "高雄市",
+        "url": "https://www.k-arena.com",
+        "error": "fetch failed",
+        "responseTime": 385
+      },
+      {
+        "name": "大台南會展中心",
+        "city": "台南市",
+        "url": "https://www.tntc.com.tw",
+        "error": "fetch failed",
+        "responseTime": 38
+      },
+      {
+        "name": "桃園會展中心",
+        "city": "桃園市",
+        "url": "https://www.tycec.com",
+        "error": "fetch failed",
+        "responseTime": 101
+      },
+      {
+        "name": "台北典華",
+        "city": "台北市",
+        "url": "https://www.dianhua.com.tw",
+        "error": "fetch failed",
+        "responseTime": 35
+      },
+      {
+        "name": "新板民生婚宴會館",
+        "city": "新北市",
+        "url": "https://www.newboard.com.tw",
+        "error": "fetch failed",
+        "responseTime": 43
+      },
+      {
+        "name": "新天地婚宴會館",
+        "city": "高雄市",
+        "url": "https://www.newworld-kaohsiung.com",
+        "error": "fetch failed",
+        "responseTime": 115
+      },
+      {
+        "name": "台中金典婚宴會館",
+        "city": "台中市",
+        "url": "https://www.splendor-wedding.com",
+        "error": "fetch failed",
+        "responseTime": 113
+      },
+      {
+        "name": "台南維悅婚宴會館",
+        "city": "台南市",
+        "url": "https://www.weiyue.com.tw",
+        "error": "fetch failed",
+        "responseTime": 35
+      },
+      {
+        "name": "桃園千葉婚宴會館",
+        "city": "桃園市",
+        "url": "https://www.chiba-wedding.com.tw",
+        "error": "fetch failed",
+        "responseTime": 32
+      },
+      {
+        "name": "台北體育館",
+        "city": "台北市",
+        "url": "https://www.tms.gov.tw",
+        "error": "fetch failed",
+        "responseTime": 332
+      },
+      {
+        "name": "天母體育館",
+        "city": "台北市",
+        "url": "https://www.tianmu.gov.tw",
+        "error": "fetch failed",
+        "responseTime": 50
+      },
+      {
+        "name": "新北市板橋體育館",
+        "city": "新北市",
+        "url": "https://www.ntpc.gov.tw",
+        "error": "HTTP 403",
+        "responseTime": 52
+      },
+      {
+        "name": "典藏咖啡廳",
+        "city": "台北市",
+        "url": "https://www.artco.com.tw",
+        "error": "fetch failed",
+        "responseTime": 48
+      },
+      {
+        "name": "貳樓餐廳",
+        "city": "台北市",
+        "url": "https://www.secondfloor.com.tw",
+        "error": "fetch failed",
+        "responseTime": 40
+      },
+      {
+        "name": "Goodmans咖啡廳",
+        "city": "台北市",
+        "url": "https://www.goodmanscafe.com",
+        "error": "fetch failed",
+        "responseTime": 512
+      },
+      {
+        "name": "CAMA咖啡",
+        "city": "台北市",
+        "url": "https://www.camacoffee.com",
+        "error": "fetch failed",
+        "responseTime": 185
+      },
+      {
+        "name": "台大校友會館",
+        "city": "台北市",
+        "url": "https://www.ntualumni.org",
+        "error": "fetch failed",
+        "responseTime": 636
+      },
+      {
+        "name": "政大公企中心",
+        "city": "台北市",
+        "url": "https://www.nccu.edu.tw",
+        "error": "HTTP 403",
+        "responseTime": 73
+      },
+      {
+        "name": "北科大創新育成中心",
+        "city": "台北市",
+        "url": "https://www.ntut.edu.tw",
+        "error": "HTTP 403",
+        "responseTime": 59
+      },
+      {
+        "name": "WeWork共享空間",
+        "city": "台北市",
+        "url": "https://www.wework.com",
+        "error": "HTTP 403",
+        "responseTime": 296
+      },
+      {
+        "name": "集思台大會議中心",
+        "city": "台北市",
+        "url": "https://www.ntuacc.org",
+        "error": "fetch failed",
+        "responseTime": 89
+      },
+      {
+        "name": "張榮發基金會國際會議中心",
+        "city": "台北市",
+        "url": "https://www.yfpcf.org",
+        "error": "fetch failed",
+        "responseTime": 74
+      },
+      {
+        "name": "公務人力發展學院",
+        "city": "台北市",
+        "url": "https://www.ncsi.gov.tw",
+        "error": "fetch failed",
+        "responseTime": 50
+      },
+      {
+        "name": "金門金湖飯店",
+        "city": "金門縣",
+        "url": "https://www.kinmenlake.com",
+        "error": "fetch failed",
+        "responseTime": 109
+      },
+      {
+        "name": "馬祖日光海岸海景旅店",
+        "city": "連江縣",
+        "url": "https://www.matsusun.com",
+        "error": "fetch failed",
+        "responseTime": 130
+      },
+      {
+        "name": "苗栗尚順君樂大飯店",
+        "city": "苗栗縣",
+        "url": "https://www.shangshun.com.tw",
+        "error": "fetch failed",
+        "responseTime": 40
+      },
+      {
+        "name": "彰化桂冠歐悅酒店",
+        "city": "彰化縣",
+        "url": "https://www.yuanlin-crown.com",
+        "error": "fetch failed",
+        "responseTime": 114
+      },
+      {
+        "name": "南投溪頭米堤大飯店",
+        "city": "南投縣",
+        "url": "https://www.le-midi.com.tw",
+        "error": "fetch failed",
+        "responseTime": 34
+      },
+      {
+        "name": "台中日航酒店",
+        "city": "台中市",
+        "url": "https://www.nikkotaichung.com",
+        "error": "fetch failed",
+        "responseTime": 123
+      },
+      {
+        "name": "東海大學茂榜廳",
+        "city": "台中市",
+        "url": "https://www.thu.edu.tw",
+        "error": "HTTP 400",
+        "responseTime": 133
+      },
+      {
+        "name": "成大國際會議中心",
+        "city": "台南市",
+        "url": "https://www.ncku.edu.tw",
+        "error": "HTTP 403",
+        "responseTime": 126
+      },
+      {
+        "name": "高雄英迪格酒店",
+        "city": "高雄市",
+        "url": "https://www.ihg.com/indigo/kaohsiung",
+        "error": "HTTP 403",
+        "responseTime": 138
+      },
+      {
+        "name": "高雄承億酒店",
+        "city": "高雄市",
+        "url": "https://www.tayih-kaohsiung.com",
+        "error": "fetch failed",
+        "responseTime": 133
+      },
+      {
+        "name": "駁二藝術特區",
+        "city": "高雄市",
+        "url": "https://www.pier-2.tw",
+        "error": "fetch failed",
+        "responseTime": 34
+      },
+      {
+        "name": "大東文化藝術中心",
+        "city": "高雄市",
+        "url": "https://www.dadong.gov.tw",
+        "error": "fetch failed",
+        "responseTime": 51
+      },
+      {
+        "name": "夢時代購物中心",
+        "city": "高雄市",
+        "url": "https://www.dream-mall.com.tw",
+        "error": "fetch failed",
+        "responseTime": 57
+      },
+      {
+        "name": "義大天悅飯店",
+        "city": "高雄市",
+        "url": "https://www.edith-sky.com",
+        "error": "fetch failed",
+        "responseTime": 109
+      },
+      {
+        "name": "新竹生活美學館",
+        "city": "新竹市",
+        "url": "https://www.hclife.org.tw",
+        "error": "fetch failed",
+        "responseTime": 34
+      },
+      {
+        "name": "交通大學國際會議廳",
+        "city": "新竹市",
+        "url": "https://www.nctu.edu.tw",
+        "error": "fetch failed",
+        "responseTime": 37
+      },
+      {
+        "name": "桃園尊爵天際大飯店",
+        "city": "桃園市",
+        "url": "https://www.sky-monarch.com",
+        "error": "fetch failed",
+        "responseTime": 107
+      },
+      {
+        "name": "桃園南方莊園度假飯店",
+        "city": "桃園市",
+        "url": "https://www.southgarden.com",
+        "error": "HTTP 405",
+        "responseTime": 563
+      },
+      {
+        "name": "中央大學文學院",
+        "city": "桃園市",
+        "url": "https://www.ncu.edu.tw",
+        "error": "HTTP 403",
+        "responseTime": 287
+      },
+      {
+        "name": "小琉球大飯店",
+        "city": "屏東縣",
+        "url": "https://www.xiaoliuqiu.com",
+        "error": "fetch failed",
+        "responseTime": 179
+      },
+      {
+        "name": "花蓮理想大地渡假飯店",
+        "city": "花蓮縣",
+        "url": "https://www.plc-hotel.com",
+        "error": "HTTP 405",
+        "responseTime": 1189
+      },
+      {
+        "name": "台東豐泰大飯店",
+        "city": "台東縣",
+        "url": "https://www.fengtai-hotel.com",
+        "error": "fetch failed",
+        "responseTime": 109
+      },
+      {
+        "name": "綠島朝日溫泉度假村",
+        "city": "台東縣",
+        "url": "https://www.greenisland.com.tw",
+        "error": "fetch failed",
+        "responseTime": 41
+      },
+      {
+        "name": "蘭嶼別館",
+        "city": "台東縣",
+        "url": "https://www.lanyu-inn.com",
+        "error": "fetch failed",
+        "responseTime": 129
+      },
+      {
+        "name": "嘉義鈺通大飯店",
+        "city": "嘉義市",
+        "url": "https://www.yutong-hotel.com",
+        "error": "HTTP 403",
+        "responseTime": 152
+      },
+      {
+        "name": "彰化鹿港天后宮",
+        "city": "彰化縣",
+        "url": "https://www.lukang-mazu.org",
+        "error": "fetch failed",
+        "responseTime": 281
+      },
+      {
+        "name": "台北W飯店",
+        "city": "台北市",
+        "url": "https://www.wtaipei.com",
+        "error": "fetch failed",
+        "responseTime": 532
+      },
+      {
+        "name": "新北海天地大飯店",
+        "city": "新北市",
+        "url": "https://www.haitiandi.com",
+        "error": "fetch failed",
+        "responseTime": 410
+      },
+      {
+        "name": "台中通豪大飯店",
+        "city": "台中市",
+        "url": "https://www.tunghao.com.tw",
+        "error": "fetch failed",
+        "responseTime": 38
+      },
+      {
+        "name": "台南和逸飯店",
+        "city": "台南市",
+        "url": "https://www.hotel-cozzi.com/tainan",
+        "error": "fetch failed",
+        "responseTime": 103
+      },
+      {
+        "name": "台南桂田酒店",
+        "city": "台南市",
+        "url": "https://www.gueidan.com",
+        "error": "fetch failed",
+        "responseTime": 100
+      },
+      {
+        "name": "高雄翰皇酒店",
+        "city": "高雄市",
+        "url": "https://www.han-huang.com",
+        "error": "fetch failed",
+        "responseTime": 360
+      },
+      {
+        "name": "高雄捷絲旅酒店",
+        "city": "高雄市",
+        "url": "https://www.justsleep.com/kaohsiung",
+        "error": "fetch failed",
+        "responseTime": 691
+      },
+      {
+        "name": "高雄比歐緻飯店",
+        "city": "高雄市",
+        "url": "https://www.biohotel.com.tw",
+        "error": "fetch failed",
+        "responseTime": 47
+      },
+      {
+        "name": "高雄秝芯旅館",
+        "city": "高雄市",
+        "url": "https://www.liconhotel.com",
+        "error": "fetch failed",
+        "responseTime": 110
+      },
+      {
+        "name": "台北商務會館",
+        "city": "台北市",
+        "url": "https://www.taipei-business.com",
+        "error": "fetch failed",
+        "responseTime": 182
+      },
+      {
+        "name": "台北松意酒店",
+        "city": "台北市",
+        "url": "https://www.songyi-hotel.com",
+        "error": "fetch failed",
+        "responseTime": 107
+      },
+      {
+        "name": "台北統一大飯店",
+        "city": "台北市",
+        "url": "https://www.tongyi-hotel.com",
+        "error": "fetch failed",
+        "responseTime": 102
+      },
+      {
+        "name": "台北喜瑞飯店",
+        "city": "台北市",
+        "url": "https://www.ambience-hotel.com",
+        "error": "fetch failed",
+        "responseTime": 122
+      },
+      {
+        "name": "台北姿美大飯店",
+        "city": "台北市",
+        "url": "https://www.zibei-hotel.com",
+        "error": "fetch failed",
+        "responseTime": 112
+      },
+      {
+        "name": "台北第一酒店",
+        "city": "台北市",
+        "url": "https://www.first-hotel.com.tw",
+        "error": "fetch failed",
+        "responseTime": 49
+      },
+      {
+        "name": "台北兄弟大飯店",
+        "city": "台北市",
+        "url": "https://www.brother-hotel.com.tw",
+        "error": "fetch failed",
+        "responseTime": 30
+      },
+      {
+        "name": "台北六福客棧",
+        "city": "台北市",
+        "url": "https://www.leofoo-hotel.com",
+        "error": "fetch failed",
+        "responseTime": 130
+      },
+      {
+        "name": "台北康華大飯店",
+        "city": "台北市",
+        "url": "https://www.kanghua-hotel.com",
+        "error": "fetch failed",
+        "responseTime": 102
+      },
+      {
+        "name": "台北華國大飯店",
+        "city": "台北市",
+        "url": "https://www.imperial-hotel.com.tw",
+        "error": "fetch failed",
+        "responseTime": 38
+      },
+      {
+        "name": "台北慶泰大飯店",
+        "city": "台北市",
+        "url": "https://www.ching-tai.com",
+        "error": "fetch failed",
+        "responseTime": 147
+      },
+      {
+        "name": "台北友春大飯店",
+        "city": "台北市",
+        "url": "https://www.youchun-hotel.com",
+        "error": "fetch failed",
+        "responseTime": 94
+      },
+      {
+        "name": "台北一樂園大飯店",
+        "city": "台北市",
+        "url": "https://www.ile-hotel.com",
+        "error": "fetch failed",
+        "responseTime": 95
+      },
+      {
+        "name": "新北新莊晶冠廣場",
+        "city": "新北市",
+        "url": "https://www.jinguang.com.tw",
+        "error": "fetch failed",
+        "responseTime": 60
+      },
+      {
+        "name": "新北土城日月光國際會議中心",
+        "city": "新北市",
+        "url": "https://www.asegroup.com",
+        "error": "HTTP 405",
+        "responseTime": 647
+      },
+      {
+        "name": "台南維悅酒店",
+        "city": "台南市",
+        "url": "https://www.weiyue-hotel.com",
+        "error": "fetch failed",
+        "responseTime": 96
+      },
+      {
+        "name": "台南天下大飯店",
+        "city": "台南市",
+        "url": "https://www.skyline-hotel.com",
+        "error": "fetch failed",
+        "responseTime": 954
+      },
+      {
+        "name": "台南太子大飯店",
+        "city": "台南市",
+        "url": "https://www.prince-hotel.com",
+        "error": "fetch failed",
+        "responseTime": 96
+      },
+      {
+        "name": "台南劍橋大飯店",
+        "city": "台南市",
+        "url": "https://www.cambridge-hotel.com",
+        "error": "fetch failed",
+        "responseTime": 127
+      },
+      {
+        "name": "高雄義大皇冠假日酒店",
+        "city": "高雄市",
+        "url": "https://www.crowneplaza.com/edath",
+        "error": "HTTP 403",
+        "responseTime": 212
+      },
+      {
+        "name": "高雄人承大飯店",
+        "city": "高雄市",
+        "url": "https://www.rencheng-hotel.com",
+        "error": "fetch failed",
+        "responseTime": 79
+      },
+      {
+        "name": "高雄華王大飯店",
+        "city": "高雄市",
+        "url": "https://www.huawang-hotel.com",
+        "error": "fetch failed",
+        "responseTime": 89
+      },
+      {
+        "name": "屏東墾丁夏都沙灘酒店",
+        "city": "屏東縣",
+        "url": "https://www.chateau.com.tw",
+        "error": "fetch failed",
+        "responseTime": 29
+      },
+      {
+        "name": "花蓮理想大地度假酒店",
+        "city": "花蓮縣",
+        "url": "https://www.plc-hotel.com",
+        "error": "HTTP 405",
+        "responseTime": 844
+      },
+      {
+        "name": "馬祖南竿福沃大飯店",
+        "city": "連江縣",
+        "url": "https://www.fuwo-hotel.com",
+        "error": "fetch failed",
+        "responseTime": 69
+      },
+      {
+        "name": "馬祖北竿芹壁民宿村",
+        "city": "連江縣",
+        "url": "https://www.qinbei-village.com",
+        "error": "fetch failed",
+        "responseTime": 1066
+      },
+      {
+        "name": "南投溪頭妖怪主題飯店",
+        "city": "南投縣",
+        "url": "https://www.yokai-hotel.com",
+        "error": "fetch failed",
+        "responseTime": 1065
+      },
+      {
+        "name": "彰化鹿港茂迪太陽能會館",
+        "city": "彰化縣",
+        "url": "https://www.motech-hall.com",
+        "error": "fetch failed",
+        "responseTime": 1093
+      },
+      {
+        "name": "台北陽明山中國麗緻大飯店",
+        "city": "台北市",
+        "url": "https://www.landisresort.com",
+        "error": "fetch failed",
+        "responseTime": 1109
+      },
+      {
+        "name": "新北板橋凱薩帝苑婚宴會館",
+        "city": "新北市",
+        "url": "https://www.caesar-wedding.com",
+        "error": "fetch failed",
+        "responseTime": 174
+      },
+      {
+        "name": "新北三重金陵婚宴會館",
+        "city": "新北市",
+        "url": "https://www.jinling-wedding.com",
+        "error": "fetch failed",
+        "responseTime": 105
+      },
+      {
+        "name": "台北神旺大飯店",
+        "city": "台北市",
+        "url": "https://www.san-want.com",
+        "error": "fetch failed",
+        "responseTime": 114
+      },
+      {
+        "name": "台北第一大飯店",
+        "city": "台北市",
+        "url": "https://www.firsthotel.com",
+        "error": "fetch failed",
+        "responseTime": 678
+      },
+      {
+        "name": "台北華泰瑞舍",
+        "city": "台北市",
+        "url": "https://www.gloria-residence.com",
+        "error": "fetch failed",
+        "responseTime": 171
+      },
+      {
+        "name": "台北洛碁大飯店",
+        "city": "台北市",
+        "url": "https://www.chateau-china.com",
+        "error": "fetch failed",
+        "responseTime": 351
+      },
+      {
+        "name": "台北德立莊酒店",
+        "city": "台北市",
+        "url": "https://www.midtownrichard.com",
+        "error": "fetch failed",
+        "responseTime": 116
+      },
+      {
+        "name": "台北八方美學商旅",
+        "city": "台北市",
+        "url": "https://www.hotelbf.com",
+        "error": "fetch failed",
+        "responseTime": 116
+      },
+      {
+        "name": "台北丹迪旅店",
+        "city": "台北市",
+        "url": "https://www.ttdhotel.com",
+        "error": "fetch failed",
+        "responseTime": 97
+      },
+      {
+        "name": "新北土城承天禪寺",
+        "city": "新北市",
+        "url": "https://www.chengtian.org",
+        "error": "fetch failed",
+        "responseTime": 115
+      },
+      {
+        "name": "新北三峽老街活動中心",
+        "city": "新北市",
+        "url": "https://www.sanxia.gov.tw",
+        "error": "fetch failed",
+        "responseTime": 46
+      },
+      {
+        "name": "桃園大園國際會議中心",
+        "city": "桃園市",
+        "url": "https://www.tyairport.com",
+        "error": "fetch failed",
+        "responseTime": 743
+      },
+      {
+        "name": "桃園中壢藝術館",
+        "city": "桃園市",
+        "url": "https://www.zhongli-arts.com",
+        "error": "fetch failed",
+        "responseTime": 190
+      },
+      {
+        "name": "新竹科學園區活動中心",
+        "city": "新竹市",
+        "url": "https://www.park.org.tw",
+        "error": "fetch failed",
+        "responseTime": 274
+      },
+      {
+        "name": "新竹玻璃工藝博物館",
+        "city": "新竹市",
+        "url": "https://www.hcglass.org",
+        "error": "fetch failed",
+        "responseTime": 88
+      },
+      {
+        "name": "苗栗通霄拱天宮",
+        "city": "苗栗縣",
+        "url": "https://www.mazu.org.tw",
+        "error": "fetch failed",
+        "responseTime": 33
+      },
+      {
+        "name": "台中中港大飯店",
+        "city": "台中市",
+        "url": "https://www.zhonggang-hotel.com",
+        "error": "fetch failed",
+        "responseTime": 114
+      },
+      {
+        "name": "台中麒麟大飯店",
+        "city": "台中市",
+        "url": "https://www.kirin-hotel.com",
+        "error": "fetch failed",
+        "responseTime": 573
+      },
+      {
+        "name": "台中全国大飯店",
+        "city": "台中市",
+        "url": "https://www.nationwide-hotel.com.tw",
+        "error": "fetch failed",
+        "responseTime": 24
+      },
+      {
+        "name": "台中誠品生活480",
+        "city": "台中市",
+        "url": "https://www.eslite-480.com",
+        "error": "fetch failed",
+        "responseTime": 111
+      },
+      {
+        "name": "南投埔里鎮立圖書館",
+        "city": "南投縣",
+        "url": "https://www.puli-library.gov.tw",
+        "error": "fetch failed",
+        "responseTime": 161
+      },
+      {
+        "name": "南投竹山紫南宮",
+        "city": "南投縣",
+        "url": "https://www.zhuangnan.org",
+        "error": "fetch failed",
+        "responseTime": 77
+      },
+      {
+        "name": "雲林斗六市立圖書館",
+        "city": "雲林縣",
+        "url": "https://www.douliu-library.gov.tw",
+        "error": "fetch failed",
+        "responseTime": 45
+      },
+      {
+        "name": "嘉義市立博物館",
+        "city": "嘉義市",
+        "url": "https://www.chiayi-museum.gov.tw",
+        "error": "fetch failed",
+        "responseTime": 37
+      },
+      {
+        "name": "台南成大會館",
+        "city": "台南市",
+        "url": "https://www.ncku.edu.tw",
+        "error": "HTTP 403",
+        "responseTime": 114
+      },
+      {
+        "name": "台南南門勞工育樂中心",
+        "city": "台南市",
+        "url": "https://www.labor-center.gov.tw",
+        "error": "fetch failed",
+        "responseTime": 39
+      },
+      {
+        "name": "高雄市立社會教育館",
+        "city": "高雄市",
+        "url": "https://www.kmsm.gov.tw",
+        "error": "fetch failed",
+        "responseTime": 42
+      },
+      {
+        "name": "屏東縣立體育館",
+        "city": "屏東縣",
+        "url": "https://www.ptc-sports.gov.tw",
+        "error": "fetch failed",
+        "responseTime": 4600
+      },
+      {
+        "name": "台北內湖運動中心",
+        "city": "台北市",
+        "url": "https://www.nhsc.gov.tw",
+        "error": "fetch failed",
+        "responseTime": 24
+      },
+      {
+        "name": "台北信義運動中心",
+        "city": "台北市",
+        "url": "https://www.xysc.gov.tw",
+        "error": "fetch failed",
+        "responseTime": 137
+      },
+      {
+        "name": "台北中山運動中心",
+        "city": "台北市",
+        "url": "https://www.zssc.gov.tw",
+        "error": "fetch failed",
+        "responseTime": 29
+      },
+      {
+        "name": "新北三重綜合運動場",
+        "city": "新北市",
+        "url": "https://www.ssc.ntpc.gov.tw",
+        "error": "fetch failed",
+        "responseTime": 35
+      },
+      {
+        "name": "桃園藝文廣場",
+        "city": "桃園市",
+        "url": "https://www.tyarts.org",
+        "error": "fetch failed",
+        "responseTime": 82
+      },
+      {
+        "name": "新竹縣體育場",
+        "city": "新竹縣",
+        "url": "https://www.hchc.edu.tw",
+        "error": "fetch failed",
+        "responseTime": 23
+      },
+      {
+        "name": "台中文心森林公園圓滿戶外劇場",
+        "city": "台中市",
+        "url": "https://www.yuanman.gov.tw",
+        "error": "fetch failed",
+        "responseTime": 33
+      },
+      {
+        "name": "彰化縣立體育館",
+        "city": "彰化縣",
+        "url": "https://www.chc.edu.tw",
+        "error": "fetch failed",
+        "responseTime": 54
+      },
+      {
+        "name": "南投縣立體育場",
+        "city": "南投縣",
+        "url": "https://www.ntc.edu.tw",
+        "error": "HTTP 403",
+        "responseTime": 77
+      },
+      {
+        "name": "台南市立體育館",
+        "city": "台南市",
+        "url": "https://www.tnsc.gov.tw",
+        "error": "fetch failed",
+        "responseTime": 52
+      },
+      {
+        "name": "台東縣立體育館",
+        "city": "台東縣",
+        "url": "https://www.ttc.edu.tw",
+        "error": "fetch failed",
+        "responseTime": 62
+      },
+      {
+        "name": "澎湖縣立體育館",
+        "city": "澎湖縣",
+        "url": "https://www.phc.edu.tw",
+        "error": "fetch failed",
+        "responseTime": 42
+      },
+      {
+        "name": "金門縣立體育館",
+        "city": "金門縣",
+        "url": "https://www.km.edu.tw",
+        "error": "HTTP 403",
+        "responseTime": 87
+      },
+      {
+        "name": "台北北投會館",
+        "city": "台北市",
+        "url": "https://www.beitou-hall.com",
+        "error": "fetch failed",
+        "responseTime": 1076
+      },
+      {
+        "name": "新北淡水文化園區",
+        "city": "新北市",
+        "url": "https://www.tamsui-culture.com",
+        "error": "fetch failed",
+        "responseTime": 1100
+      },
+      {
+        "name": "桃園孔廟暨忠烈祠",
+        "city": "桃園市",
+        "url": "https://www.tyconfucius.gov.tw",
+        "error": "fetch failed",
+        "responseTime": 63
+      },
+      {
+        "name": "苗栗文化局中正堂",
+        "city": "苗栗縣",
+        "url": "https://www.mlc-culture.gov.tw",
+        "error": "fetch failed",
+        "responseTime": 29
+      },
+      {
+        "name": "彰化縣立文化局",
+        "city": "彰化縣",
+        "url": "https://www.chc-culture.gov.tw",
+        "error": "fetch failed",
+        "responseTime": 33
+      },
+      {
+        "name": "南投縣立文化中心",
+        "city": "南投縣",
+        "url": "https://www.ntc-culture.gov.tw",
+        "error": "fetch failed",
+        "responseTime": 32
+      },
+      {
+        "name": "雲林縣文化中心",
+        "city": "雲林縣",
+        "url": "https://www.ylc-culture.gov.tw",
+        "error": "fetch failed",
+        "responseTime": 43
+      },
+      {
+        "name": "宜蘭縣文化中心",
+        "city": "宜蘭縣",
+        "url": "https://www.ilc-culture.gov.tw",
+        "error": "fetch failed",
+        "responseTime": 42
+      }
+    ]
+  }
+}

@@ -1,0 +1,339 @@
+{
+  "name": "台北國際會議中心",
+  "venueType": "會議場地",
+  "venueUrl": "https://www.ticc.com.tw/",
+  "address": "台北市信義區信義路五段1號",
+  "contact": {
+    "phone": "02-2725-5200",
+    "email": "ticc@taitra.org.tw",
+    "bookingExtension": "3517,3518"
+  },
+  "transportation": {
+    "mrt": {
+      "station": "台北101/世貿站",
+      "line": "淡水信義線",
+      "exit": "出口 1",
+      "walkingMinutes": 5
+    },
+    "bus": "世貿中心站",
+    "parking": "地下停車場（付費）"
+  },
+  "rentalRules": {
+    "minBookingTime": "4小時（每時段）",
+    "timeSlots": [
+      "08:30-12:30",
+      "13:30-17:30",
+      "18:30-22:30"
+    ],
+    "bookingLeadTime": "建議提前1-3個月預約",
+    "cancellationPolicy": "依合約規定",
+    "priceListUrl": "https://www.ticc.com.tw/wSite/public/Attachment/f1771909923900.pdf",
+    "effectiveDate": "115年2月24日"
+  },
+  "rooms": [
+    {
+      "roomName": "大會堂全場",
+      "roomId": "plenary_full",
+      "floor": "1F",
+      "photos": [],
+      "capacity": {
+        "theater": 3100,
+        "classroom": null,
+        "horseshoe": null
+      },
+      "area": {
+        "squareMeters": 2973,
+        "ping": 899
+      },
+      "pricing": {
+        "weekday": 159000,
+        "weekend": 170000,
+        "exhibition": null,
+        "notes": "每時段價格"
+      },
+      "equipment": [
+        "專業音響系統",
+        "舞台燈光",
+        "大型投影設備",
+        "同步翻譯設備"
+      ],
+      "source": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/lp_PlenaryHall.jsp&ctNode=323&CtUnit=100&BaseDSD=7&mp=1",
+      "description": "適合大型國際會議、展演活動"
+    },
+    {
+      "roomName": "大會堂半場(1-27排)",
+      "roomId": "plenary_half",
+      "floor": "1F",
+      "photos": [],
+      "capacity": {
+        "theater": 1208,
+        "classroom": null,
+        "horseshoe": null
+      },
+      "area": {
+        "squareMeters": null,
+        "ping": null
+      },
+      "pricing": {
+        "weekday": null,
+        "weekend": 112000,
+        "exhibition": 123000,
+        "notes": "每時段價格"
+      },
+      "equipment": [
+        "專業音響系統",
+        "舞台燈光",
+        "投影設備"
+      ],
+      "source": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/lp_PlenaryHall.jsp&ctNode=323&CtUnit=100&BaseDSD=7&mp=1",
+      "description": "適合中型會議"
+    },
+    {
+      "roomName": "101全室",
+      "roomId": "101",
+      "floor": "1F",
+      "photos": [
+        "https://www.ticc.com.tw/wSite/public/Img/f1748228800599.jpg",
+        "https://www.ticc.com.tw/wSite/public/Img/f1748228806084.jpg",
+        "https://www.ticc.com.tw/wSite/public/Img/f1748228814334.jpg",
+        "https://www.ticc.com.tw/wSite/public/Img/f1765765176916.jpeg",
+        "https://www.ticc.com.tw/wSite/public/Img/f1765765195144.jpeg"
+      ],
+      "capacity": {
+        "theater": 720,
+        "classroom": 480,
+        "horseshoe": 90
+      },
+      "area": {
+        "squareMeters": 640,
+        "ping": 193,
+        "dimensions": "25.8×25.3×5.6公尺"
+      },
+      "pricing": {
+        "weekday": 67000,
+        "weekend": 80000,
+        "exhibition": 87500,
+        "notes": "每時段價格"
+      },
+      "equipment": [
+        "投影設備",
+        "音響系統",
+        "麥克風系統",
+        "白板/講台"
+      ],
+      "source": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/cp_VenueSearch.jsp&roomId=101&ctNode=322&CtUnit=99&BaseDSD=7&mp=1",
+      "description": "大型會議空間，可容納720人"
+    },
+    {
+      "roomName": "101A",
+      "roomId": "101A",
+      "floor": "1F",
+      "photos": [
+        "https://www.ticc.com.tw/wSite/public/Img/f1669886153498.jpg",
+        "https://www.ticc.com.tw/wSite/public/Img/f1669886160967.jpg",
+        "https://www.ticc.com.tw/wSite/public/Img/f1669886199014.jpg",
+        "https://www.ticc.com.tw/wSite/public/Img/f1670481736434.jpg",
+        "https://www.ticc.com.tw/wSite/public/Img/f1670484282493.jpg"
+      ],
+      "capacity": {
+        "theater": 120,
+        "classroom": 88,
+        "horseshoe": 46
+      },
+      "area": {
+        "squareMeters": 148,
+        "ping": 44,
+        "dimensions": "12.9×11.5×5.6公尺"
+      },
+      "pricing": {
+        "weekday": 18000,
+        "weekend": 21000,
+        "exhibition": 23500,
+        "notes": "每時段價格"
+      },
+      "equipment": [
+        "投影設備",
+        "音響系統",
+        "麥克風系統"
+      ],
+      "source": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/cp_VenueSearch.jsp&roomId=101A&ctNode=322&CtUnit=99&BaseDSD=7&mp=1",
+      "description": "小型會議空間，適合培訓課程"
+    },
+    {
+      "roomName": "101AB",
+      "roomId": "101AB",
+      "floor": "1F",
+      "photos": [
+        "https://www.ticc.com.tw/wSite/public/Img/f1670480681699.jpg",
+        "https://www.ticc.com.tw/wSite/public/Img/f1670480718949.jpg",
+        "https://www.ticc.com.tw/wSite/public/Img/f1670480724793.jpg",
+        "https://www.ticc.com.tw/wSite/public/Img/f1670480730434.jpg",
+        "https://www.ticc.com.tw/wSite/public/Img/f1670484860353.jpg"
+      ],
+      "capacity": {
+        "theater": 272,
+        "classroom": 208,
+        "horseshoe": 74
+      },
+      "area": {
+        "squareMeters": 326,
+        "ping": 98,
+        "dimensions": "12.9×25.3×5.6公尺"
+      },
+      "pricing": {
+        "weekday": 39000,
+        "weekend": 45000,
+        "exhibition": 49000,
+        "notes": "每時段價格"
+      },
+      "equipment": [
+        "投影設備",
+        "音響系統",
+        "麥克風系統"
+      ],
+      "source": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/cp_VenueSearch.jsp&roomId=101AB&ctNode=322&CtUnit=99&BaseDSD=7&mp=1",
+      "description": "中型會議空間，101A+101B組合"
+    },
+    {
+      "roomName": "101B",
+      "roomId": "101B",
+      "floor": "1F",
+      "photos": [
+        "https://www.ticc.com.tw/wSite/public/Img/f1670481736434.jpg",
+        "https://www.ticc.com.tw/wSite/public/Img/f1670481756074.jpg",
+        "https://www.ticc.com.tw/wSite/public/Img/f1670483437675.jpg",
+        "https://www.ticc.com.tw/wSite/public/Img/f1669886153498.jpg",
+        "https://www.ticc.com.tw/wSite/public/Img/f1670484282493.jpg"
+      ],
+      "capacity": {
+        "theater": 152,
+        "classroom": 120,
+        "horseshoe": 42
+      },
+      "area": {
+        "squareMeters": 176,
+        "ping": 53,
+        "dimensions": "12.9×13.7×5.6公尺"
+      },
+      "pricing": {
+        "weekday": 22000,
+        "weekend": 27000,
+        "exhibition": 29000,
+        "notes": "每時段價格"
+      },
+      "equipment": [
+        "投影設備",
+        "音響系統",
+        "麥克風系統"
+      ],
+      "source": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/cp_VenueSearch.jsp&roomId=101B&ctNode=322&CtUnit=99&BaseDSD=7&mp=1",
+      "description": "中型會議空間"
+    },
+    {
+      "roomName": "101C",
+      "roomId": "101C",
+      "floor": "1F",
+      "photos": [
+        "https://www.ticc.com.tw/wSite/public/Img/f1670484282493.jpg",
+        "https://www.ticc.com.tw/wSite/public/Img/f1670484289837.jpg",
+        "https://www.ticc.com.tw/wSite/public/Img/f1670484295525.jpg",
+        "https://www.ticc.com.tw/wSite/public/Img/f1669886153498.jpg",
+        "https://www.ticc.com.tw/wSite/public/Img/f1670481736434.jpg"
+      ],
+      "capacity": {
+        "theater": 152,
+        "classroom": 120,
+        "horseshoe": 42
+      },
+      "area": {
+        "squareMeters": 176,
+        "ping": 53,
+        "dimensions": "12.9×13.7×5.6公尺"
+      },
+      "pricing": {
+        "weekday": 22000,
+        "weekend": 27000,
+        "exhibition": 29000,
+        "notes": "每時段價格"
+      },
+      "equipment": [
+        "投影設備",
+        "音響系統",
+        "麥克風系統"
+      ],
+      "source": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/cp_VenueSearch.jsp&roomId=101C&ctNode=322&CtUnit=99&BaseDSD=7&mp=1",
+      "description": "中型會議空間"
+    },
+    {
+      "roomName": "101CD",
+      "roomId": "101CD",
+      "floor": "1F",
+      "photos": [
+        "https://www.ticc.com.tw/wSite/public/Img/f1670484860353.jpg",
+        "https://www.ticc.com.tw/wSite/public/Img/f1670484881587.jpg",
+        "https://www.ticc.com.tw/wSite/public/Img/f1670484887337.jpg",
+        "https://www.ticc.com.tw/wSite/public/Img/f1670484891275.jpg",
+        "https://www.ticc.com.tw/wSite/public/Img/f1670480681699.jpg"
+      ],
+      "capacity": {
+        "theater": 272,
+        "classroom": 208,
+        "horseshoe": 74
+      },
+      "area": {
+        "squareMeters": 326,
+        "ping": 98,
+        "dimensions": "12.9×25.3×5.6公尺"
+      },
+      "pricing": {
+        "weekday": 39000,
+        "weekend": 45000,
+        "exhibition": 49000,
+        "notes": "每時段價格"
+      },
+      "equipment": [
+        "投影設備",
+        "音響系統",
+        "麥克風系統"
+      ],
+      "source": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/cp_VenueSearch.jsp&roomId=101CD&ctNode=322&CtUnit=99&BaseDSD=7&mp=1",
+      "description": "中型會議空間，101C+101D組合"
+    },
+    {
+      "roomName": "102",
+      "roomId": "102",
+      "floor": "1F",
+      "photos": [],
+      "capacity": {
+        "theater": 200,
+        "classroom": 200,
+        "horseshoe": null
+      },
+      "area": {
+        "squareMeters": 232,
+        "ping": 70,
+        "dimensions": "16.2×15.7×5.6公尺"
+      },
+      "pricing": {
+        "weekday": 27000,
+        "weekend": 32000,
+        "exhibition": null,
+        "notes": "每時段價格"
+      },
+      "equipment": [
+        "投影設備",
+        "音響系統",
+        "麥克風系統"
+      ],
+      "source": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/cp_VenueSearch.jsp&roomId=102&ctNode=322&CtUnit=99&BaseDSD=7&mp=1",
+      "description": "中型會議空間"
+    }
+  ],
+  "totalRooms": 9,
+  "lastUpdated": "2026-02-28",
+  "dataSource": {
+    "priceList": "https://www.ticc.com.tw/wSite/public/Attachment/f1771909923900.pdf",
+    "venueSearch": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/lp_VenueSearch.jsp&ctNode=322&CtUnit=99&BaseDSD=7&mp=1",
+    "vr360": "https://www.ticc.com.tw/wSite/vr360/index.html"
+  }
+}

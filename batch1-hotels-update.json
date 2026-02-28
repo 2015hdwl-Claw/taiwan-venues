@@ -1,0 +1,111 @@
+{
+  "timestamp": "2026-02-28T09:14:26.761Z",
+  "batch": "第一批：飯店類",
+  "total": 8,
+  "hotels": [
+    {
+      "name": "台北晶華酒店",
+      "url": "https://www.regenttaiwan.com",
+      "meetingUrl": "https://www.regenttaiwan.com/meetings-and-events",
+      "city": "台北市",
+      "address": "台北市中山區中山北路二段39巷3號",
+      "phone": "02-2523-8000",
+      "email": "reservations@regenttaiwan.com",
+      "needsCollection": true,
+      "needsPhoto": true,
+      "needsPrice": true,
+      "needsCapacity": true
+    },
+    {
+      "name": "台北國賓大飯店",
+      "url": "https://www.ambassador-hotels.com/tc/taipei",
+      "meetingUrl": "https://www.ambassador-hotels.com/tc/taipei/meetings-events",
+      "city": "台北市",
+      "address": "台北市中山區中山北路二段63號",
+      "phone": "02-2551-1111",
+      "email": "sales@ambassador-taipei.com",
+      "needsCollection": true,
+      "needsPhoto": true,
+      "needsPrice": true,
+      "needsCapacity": true
+    },
+    {
+      "name": "台北文華東方酒店",
+      "url": "https://www.mandarinoriental.com/taipei",
+      "meetingUrl": "https://www.mandarinoriental.com/taipei/meetings-and-events",
+      "city": "台北市",
+      "address": "台北市敦化北路158號",
+      "phone": "02-2715-6888",
+      "email": "mo-tpe@mohg.com",
+      "needsCollection": true,
+      "needsPhoto": true,
+      "needsPrice": true,
+      "needsCapacity": true
+    },
+    {
+      "name": "墾丁福華渡假飯店",
+      "url": "https://www.howard-hotels.com.tw",
+      "meetingUrl": "https://www.howard-hotels.com.tw/kt/meeting/",
+      "city": "屏東縣",
+      "address": "屏東縣恆春鎮墾丁路2號",
+      "phone": "08-886-2321",
+      "email": "kt@howard-hotels.com.tw",
+      "needsCollection": true,
+      "needsPhoto": true,
+      "needsPrice": true,
+      "needsCapacity": true
+    },
+    {
+      "name": "墾丁凱撒大飯店",
+      "url": "https://kenting.caesarpark.com.tw",
+      "meetingUrl": "https://kenting.caesarpark.com.tw/meeting/",
+      "city": "屏東縣",
+      "address": "屏東縣恆春鎮墾丁路6號",
+      "phone": "08-886-1888",
+      "email": "sales@kenting.caesarpark.com.tw",
+      "needsCollection": true,
+      "needsPhoto": true,
+      "needsPrice": true,
+      "needsCapacity": true
+    },
+    {
+      "name": "板橋凱撒大飯店",
+      "url": "https://banqiao.caesarpark.com.tw",
+      "meetingUrl": "https://banqiao.caesarpark.com.tw/meeting/",
+      "city": "新北市",
+      "address": "新北市板橋區縣民大道二段8號",
+      "phone": "02-8953-8999",
+      "email": "banqiao@caesarpark.com.tw",
+      "needsCollection": true,
+      "needsPhoto": true,
+      "needsPrice": true,
+      "needsCapacity": true
+    },
+    {
+      "name": "福容大飯店淡水漁人碼頭",
+      "url": "https://www.fullon-hotels.com.tw/fw/",
+      "meetingUrl": "https://www.fullon-hotels.com.tw/fw/meeting/",
+      "city": "新北市",
+      "address": "新北市淡水區觀海路83號",
+      "phone": "02-2628-7777",
+      "email": "fw@fullon-hotels.com.tw",
+      "needsCollection": true,
+      "needsPhoto": true,
+      "needsPrice": true,
+      "needsCapacity": true
+    },
+    {
+      "name": "台北遠東香格里拉酒店",
+      "url": "https://www.shangri-la.com/taipei",
+      "meetingUrl": "https://www.shangri-la.com/taipei/meetings-events/",
+      "city": "台北市",
+      "address": "台北市敦化南路二段201號",
+      "phone": "02-2378-8888",
+      "email": "reservations.slta@shangri-la.com",
+      "needsCollection": true,
+      "needsPhoto": true,
+      "needsPrice": true,
+      "needsCapacity": true
+    }
+  ]
+}

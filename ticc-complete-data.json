@@ -1,0 +1,169 @@
+{
+  "name": "台北國際會議中心",
+  "venueType": "會議場地",
+  "venueUrl": "https://www.ticc.com.tw/",
+  "address": "台北市信義區信義路五段1號",
+  "contact": {
+    "phone": "02-2725-5200",
+    "email": "ticc@taitra.org.tw"
+  },
+  "rooms": [
+    {
+      "roomName": "101全室 教室型480人 劇院型720人 馬蹄型90人",
+      "roomId": "101",
+      "photos": [
+        "https://www.ticc.com.tw/wSite/public/Img/f1748228800599.jpg",
+        "https://www.ticc.com.tw/wSite/public/Img/f1748228806084.jpg",
+        "https://www.ticc.com.tw/wSite/public/Img/f1748228814334.jpg",
+        "https://www.ticc.com.tw/wSite/public/Img/f1765765176916.jpeg",
+        "https://www.ticc.com.tw/wSite/public/Img/f1765765195144.jpeg"
+      ],
+      "capacity": {
+        "classroom": 480,
+        "theater": 720,
+        "horseshoe": 90
+      },
+      "pricing": {
+        "notes": "需詢價"
+      },
+      "equipment": [
+        "投影設備",
+        "音響系統",
+        "麥克風系統"
+      ],
+      "source": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/cp_VenueSearch.jsp&roomId=101&ctNode=322&CtUnit=99&BaseDSD=7&mp=1",
+      "description": "\n開關\n\n\n\n\n\n\n\n\n關於我們\n\n\n經營理念\n\n\nESG永續發展\n\n\n交通資訊\n\n\n周邊住宿\n\n\n設施與服務\n\n\n場館管理\n\n\n\n\n公告消息\n\n\n公告新聞\n\n\n影音專區\n\n\n活動行事曆\n\n\n精彩活動集錦\n\n\n台灣會展\n\n\n\n\n場地導覽\n\n\n場地介紹\n\n\n場地查詢\n\n\n大會堂座位查詢\n\n\nVR實境\n\n\n\n\n檔期查詢\n\n\n預約洽訂\n\n\n租金試算\n\n\n線上洽詢\n\n\n常見問題\n\n\n\n\n餐宴服務\n\n\n出租"
+    },
+    {
+      "roomName": "101A 教室型88人 劇院型120人 馬蹄型46人",
+      "roomId": "101A",
+      "photos": [
+        "https://www.ticc.com.tw/wSite/public/Img/f1669886153498.jpg",
+        "https://www.ticc.com.tw/wSite/public/Img/f1669886160967.jpg",
+        "https://www.ticc.com.tw/wSite/public/Img/f1669886199014.jpg",
+        "https://www.ticc.com.tw/wSite/public/Img/f1670481736434.jpg",
+        "https://www.ticc.com.tw/wSite/public/Img/f1670484282493.jpg"
+      ],
+      "capacity": {
+        "classroom": 88,
+        "theater": 120,
+        "horseshoe": 46
+      },
+      "pricing": {
+        "notes": "需詢價"
+      },
+      "equipment": [
+        "投影設備",
+        "音響系統",
+        "麥克風系統"
+      ],
+      "source": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/cp_VenueSearch.jsp&roomId=101A&ctNode=322&CtUnit=99&BaseDSD=7&mp=1",
+      "description": "\n開關\n\n\n\n\n\n\n\n\n關於我們\n\n\n經營理念\n\n\nESG永續發展\n\n\n交通資訊\n\n\n周邊住宿\n\n\n設施與服務\n\n\n場館管理\n\n\n\n\n公告消息\n\n\n公告新聞\n\n\n影音專區\n\n\n活動行事曆\n\n\n精彩活動集錦\n\n\n台灣會展\n\n\n\n\n場地導覽\n\n\n場地介紹\n\n\n場地查詢\n\n\n大會堂座位查詢\n\n\nVR實境\n\n\n\n\n檔期查詢\n\n\n預約洽訂\n\n\n租金試算\n\n\n線上洽詢\n\n\n常見問題\n\n\n\n\n餐宴服務\n\n\n出租"
+    },
+    {
+      "roomName": "101AB 教室型208人 劇院型272人 馬蹄型74人",
+      "roomId": "101AB",
+      "photos": [
+        "https://www.ticc.com.tw/wSite/public/Img/f1670480681699.jpg",
+        "https://www.ticc.com.tw/wSite/public/Img/f1670480718949.jpg",
+        "https://www.ticc.com.tw/wSite/public/Img/f1670480724793.jpg",
+        "https://www.ticc.com.tw/wSite/public/Img/f1670480730434.jpg",
+        "https://www.ticc.com.tw/wSite/public/Img/f1670484860353.jpg"
+      ],
+      "capacity": {
+        "classroom": 208,
+        "theater": 272,
+        "horseshoe": 74
+      },
+      "pricing": {
+        "notes": "需詢價"
+      },
+      "equipment": [
+        "投影設備",
+        "音響系統",
+        "麥克風系統"
+      ],
+      "source": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/cp_VenueSearch.jsp&roomId=101AB&ctNode=322&CtUnit=99&BaseDSD=7&mp=1",
+      "description": "\n開關\n\n\n\n\n\n\n\n\n關於我們\n\n\n經營理念\n\n\nESG永續發展\n\n\n交通資訊\n\n\n周邊住宿\n\n\n設施與服務\n\n\n場館管理\n\n\n\n\n公告消息\n\n\n公告新聞\n\n\n影音專區\n\n\n活動行事曆\n\n\n精彩活動集錦\n\n\n台灣會展\n\n\n\n\n場地導覽\n\n\n場地介紹\n\n\n場地查詢\n\n\n大會堂座位查詢\n\n\nVR實境\n\n\n\n\n檔期查詢\n\n\n預約洽訂\n\n\n租金試算\n\n\n線上洽詢\n\n\n常見問題\n\n\n\n\n餐宴服務\n\n\n出租"
+    },
+    {
+      "roomName": "101B 教室型120人 劇院型152人 馬蹄型42人",
+      "roomId": "101B",
+      "photos": [
+        "https://www.ticc.com.tw/wSite/public/Img/f1670481736434.jpg",
+        "https://www.ticc.com.tw/wSite/public/Img/f1670481756074.jpg",
+        "https://www.ticc.com.tw/wSite/public/Img/f1670483437675.jpg",
+        "https://www.ticc.com.tw/wSite/public/Img/f1669886153498.jpg",
+        "https://www.ticc.com.tw/wSite/public/Img/f1670484282493.jpg"
+      ],
+      "capacity": {
+        "classroom": 120,
+        "theater": 152,
+        "horseshoe": 42
+      },
+      "pricing": {
+        "notes": "需詢價"
+      },
+      "equipment": [
+        "投影設備",
+        "音響系統",
+        "麥克風系統"
+      ],
+      "source": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/cp_VenueSearch.jsp&roomId=101B&ctNode=322&CtUnit=99&BaseDSD=7&mp=1",
+      "description": "\n開關\n\n\n\n\n\n\n\n\n關於我們\n\n\n經營理念\n\n\nESG永續發展\n\n\n交通資訊\n\n\n周邊住宿\n\n\n設施與服務\n\n\n場館管理\n\n\n\n\n公告消息\n\n\n公告新聞\n\n\n影音專區\n\n\n活動行事曆\n\n\n精彩活動集錦\n\n\n台灣會展\n\n\n\n\n場地導覽\n\n\n場地介紹\n\n\n場地查詢\n\n\n大會堂座位查詢\n\n\nVR實境\n\n\n\n\n檔期查詢\n\n\n預約洽訂\n\n\n租金試算\n\n\n線上洽詢\n\n\n常見問題\n\n\n\n\n餐宴服務\n\n\n出租"
+    },
+    {
+      "roomName": "101C 教室型120人 劇院型152人 馬蹄型42人",
+      "roomId": "101C",
+      "photos": [
+        "https://www.ticc.com.tw/wSite/public/Img/f1670484282493.jpg",
+        "https://www.ticc.com.tw/wSite/public/Img/f1670484289837.jpg",
+        "https://www.ticc.com.tw/wSite/public/Img/f1670484295525.jpg",
+        "https://www.ticc.com.tw/wSite/public/Img/f1669886153498.jpg",
+        "https://www.ticc.com.tw/wSite/public/Img/f1670481736434.jpg"
+      ],
+      "capacity": {
+        "classroom": 120,
+        "theater": 152,
+        "horseshoe": 42
+      },
+      "pricing": {
+        "notes": "需詢價"
+      },
+      "equipment": [
+        "投影設備",
+        "音響系統",
+        "麥克風系統"
+      ],
+      "source": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/cp_VenueSearch.jsp&roomId=101C&ctNode=322&CtUnit=99&BaseDSD=7&mp=1",
+      "description": "\n開關\n\n\n\n\n\n\n\n\n關於我們\n\n\n經營理念\n\n\nESG永續發展\n\n\n交通資訊\n\n\n周邊住宿\n\n\n設施與服務\n\n\n場館管理\n\n\n\n\n公告消息\n\n\n公告新聞\n\n\n影音專區\n\n\n活動行事曆\n\n\n精彩活動集錦\n\n\n台灣會展\n\n\n\n\n場地導覽\n\n\n場地介紹\n\n\n場地查詢\n\n\n大會堂座位查詢\n\n\nVR實境\n\n\n\n\n檔期查詢\n\n\n預約洽訂\n\n\n租金試算\n\n\n線上洽詢\n\n\n常見問題\n\n\n\n\n餐宴服務\n\n\n出租"
+    },
+    {
+      "roomName": "101CD 教室型208人 劇院型272人 馬蹄型74人",
+      "roomId": "101CD",
+      "photos": [
+        "https://www.ticc.com.tw/wSite/public/Img/f1670484860353.jpg",
+        "https://www.ticc.com.tw/wSite/public/Img/f1670484881587.jpg",
+        "https://www.ticc.com.tw/wSite/public/Img/f1670484887337.jpg",
+        "https://www.ticc.com.tw/wSite/public/Img/f1670484891275.jpg",
+        "https://www.ticc.com.tw/wSite/public/Img/f1670480681699.jpg"
+      ],
+      "capacity": {
+        "classroom": 208,
+        "theater": 272,
+        "horseshoe": 74
+      },
+      "pricing": {
+        "notes": "需詢價"
+      },
+      "equipment": [
+        "投影設備",
+        "音響系統",
+        "麥克風系統"
+      ],
+      "source": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/cp_VenueSearch.jsp&roomId=101CD&ctNode=322&CtUnit=99&BaseDSD=7&mp=1",
+      "description": "\n開關\n\n\n\n\n\n\n\n\n關於我們\n\n\n經營理念\n\n\nESG永續發展\n\n\n交通資訊\n\n\n周邊住宿\n\n\n設施與服務\n\n\n場館管理\n\n\n\n\n公告消息\n\n\n公告新聞\n\n\n影音專區\n\n\n活動行事曆\n\n\n精彩活動集錦\n\n\n台灣會展\n\n\n\n\n場地導覽\n\n\n場地介紹\n\n\n場地查詢\n\n\n大會堂座位查詢\n\n\nVR實境\n\n\n\n\n檔期查詢\n\n\n預約洽訂\n\n\n租金試算\n\n\n線上洽詢\n\n\n常見問題\n\n\n\n\n餐宴服務\n\n\n出租"
+    }
+  ],
+  "totalRooms": 6
+}

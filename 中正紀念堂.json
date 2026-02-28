@@ -1,0 +1,19 @@
+{
+  "name": "中正紀念堂",
+  "type": "venue",
+  "photos": {
+    "main": "https://www.cksmh.gov.tw/",
+    "gallery": []
+  },
+  "pricing": {
+    "halfDay": "需詢價",
+    "fullDay": "需詢價",
+    "note": "政府機關場地，需申請核可，價格依活動類型而定"
+  },
+  "capacity": {
+    "theater": "100-2000人（視不同空間而定）",
+    "classroom": "50-1000人（視不同空間而定）",
+    "banquet": "不適用"
+  },
+  "note": "國家級紀念場館，適合文化活動、展覽、表演等"
+}

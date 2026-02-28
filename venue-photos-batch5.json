@@ -1,0 +1,241 @@
+[
+  {
+    "name": "台北美福大飯店",
+    "url": "https://www.grandmayfull.com/",
+    "images": [
+      "https://www.grandmayfull.com/img/2025-Michelin%20Logo.png",
+      "https://www.grandmayfull.com/img/2025%20World%20Luxury%20Awards.png",
+      "https://www.grandmayfull.com/uploads/indexD/20201029_165821_201.jpeg",
+      "https://www.grandmayfull.com/uploads/indexD/20201029_165902_386.jpeg",
+      "https://www.grandmayfull.com/img/TC_2022_L_GREEN_BG_RGB.png"
+    ],
+    "error": null
+  },
+  {
+    "name": "桃園喜來登",
+    "url": "https://www.marriott.com/hotels/travel/tpesr-sheraton-taoyuan-hotel/",
+    "images": [],
+    "error": null
+  },
+  {
+    "name": "新竹喜來登",
+    "url": "https://www.marriott.com/hotels/travel/hsqsi-sheraton-hsinchu-hotel/",
+    "images": [],
+    "error": null
+  },
+  {
+    "name": "台北國際會議中心",
+    "url": "https://www.ticc.com.tw",
+    "images": [
+      "https://www.ticc.com.tw/wSite/xslgip/style1/images/ticc/bg-white.png"
+    ],
+    "error": null
+  },
+  {
+    "name": "華山1914文創園區",
+    "url": "https://www.huashan1914.com",
+    "images": [
+      "https://media.huashan1914.com/WebUPD/huashan1914/Index/%E6%89%BE%E6%B4%BB%E5%8B%95(1).png",
+      "https://media.huashan1914.com/WebUPD/huashan1914/Index/20210810_%E5%AE%98%E7%B6%B2%E6%8F%9B%E5%9C%96-08.png",
+      "https://media.huashan1914.com/WebUPD/huashan1914/Index/720%E7%9C%8B%E8%A6%8B%E8%8F%AF%E5%B1%B1.png",
+      "https://media.huashan1914.com/WebUPD/huashan1914/Index/%E7%B7%9A%E4%B8%8A%E5%AE%A2%E6%9C%8D.png",
+      "https://media.huashan1914.com/WebUPD/huashan1914/Index/%E5%B8%B8%E8%A6%8B%E5%95%8F%E9%A1%8C2_23011910283762374.png"
+    ],
+    "error": null
+  },
+  {
+    "name": "台北君悅酒店",
+    "url": "https://www.grandhyatttaipei.com",
+    "images": [],
+    "error": null
+  },
+  {
+    "name": "台北晶華酒店",
+    "url": "https://www.regenthotels.com/taipei",
+    "images": [],
+    "error": null
+  },
+  {
+    "name": "W飯店台北",
+    "url": "https://www.marriott.com/hotels/travel/tpewi-w-taipei/",
+    "images": [],
+    "error": null
+  },
+  {
+    "name": "台北君品酒店",
+    "url": "https://www.palaisdechine.com",
+    "images": [],
+    "error": null
+  },
+  {
+    "name": "台北喜來登大飯店",
+    "url": "https://www.marriott.com/hotels/travel/tpesi-sheraton-grand-taipei-hotel/",
+    "images": [],
+    "error": null
+  },
+  {
+    "name": "台北國賓大飯店",
+    "url": "https://www.ambassadorhotel.com.tw/taipei/",
+    "images": [],
+    "error": "Navigation timeout of 30000 ms exceeded"
+  },
+  {
+    "name": "台北老爺大酒店",
+    "url": "https://www.royal-taipei.com",
+    "images": [],
+    "error": "net::ERR_NAME_NOT_RESOLVED at https://www.royal-taipei.com"
+  },
+  {
+    "name": "台北威斯汀六福皇宮",
+    "url": "https://www.westin.com/taipei",
+    "images": [],
+    "error": "Navigation timeout of 30000 ms exceeded"
+  },
+  {
+    "name": "福容大飯店-淡水漁人碼頭",
+    "url": "https://www.fullon-hotels.com.tw/fd/",
+    "images": [],
+    "error": null
+  },
+  {
+    "name": "新板希爾頓酒店",
+    "url": "https://www.hilton.com/zh-hant/hotels/tpebhhi-hilton-taipei-sinban/",
+    "images": [],
+    "error": null
+  },
+  {
+    "name": "台中日月千禧酒店",
+    "url": "https://www.millenniumhotels.com/taichung/",
+    "images": [],
+    "error": null
+  },
+  {
+    "name": "林酒店",
+    "url": "https://www.theforest.com.tw",
+    "images": [
+      "https://static.wixstatic.com/media/2548f9_73abb8965121447e814e83d9815d3f42f000.jpg/v1/fill/w_603,h_1080,al_c,q_85,usm_0.33_1.00_0.00,enc_avif,quality_auto/2548f9_73abb8965121447e814e83d9815d3f42f000.jpg",
+      "https://static.wixstatic.com/media/2548f9_1d774c2ee80d4fd3ab76c0441d05f07c~mv2.png/v1/crop/x_0,y_116,w_276,h_358/fill/w_138,h_179,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/%E5%B7%A5%E4%BD%9C%E5%8D%80%E5%9F%9F%205_200x.png"
+    ],
+    "error": null
+  },
+  {
+    "name": "台中國家歌劇院",
+    "url": "https://www.npac-ntt.org",
+    "images": [
+      "/dispUploadBox/PJ-HomeImage/20221227180008071FrfjMB.JPG",
+      "/dispUploadBox/Slider/20260128174444014vyYKMb.JPG",
+      "/dispUploadBox/Slider/20251208114517354NNzyMb.JPG",
+      "/dispUploadBox/Slider/20260107111259739TESqMb.JPG",
+      "/dispUploadBox/Slider/20260225093935279DQAkMb.JPG"
+    ],
+    "error": null
+  },
+  {
+    "name": "台南香格里拉遠東國際大飯店",
+    "url": "https://www.shangri-la.com/tainan/",
+    "images": [
+      "https://sitecore-cd-imgr.shangri-la.com/MediaFiles/D/C/C/%7BDCC7D177-4E7D-4598-AF2A-708B8AAC9B38%7DShangri-La's%20Far%20Eastern%20Plaza%20Hotel%20Tainan%20-%20Deluxe%20Family%20Twin%20-%201381373.jpg",
+      "https://sitecore-cd-imgr.shangri-la.com/MediaFiles/F/2/5/%7BF259A181-4CE7-4A49-86E8-44F86D71C85A%7D1920.jpg",
+      "https://sitecore-cd-imgr.shangri-la.com/MediaFiles/0/7/5/%7B07553D37-5387-4C67-BAA1-278C1F49ED53%7D20201903_SLTN_%20Presidential%20Suite.jpg",
+      "https://sitecore-cd-imgr.shangri-la.com/MediaFiles/D/C/C/%7BDCC7D177-4E7D-4598-AF2A-708B8AAC9B38%7DShangri-La's%20Far%20Eastern%20Plaza%20Hotel%20Tainan%20-%20Deluxe%20Family%20Twin%20-%201381373.jpg",
+      "https://sitecore-cd-imgr.shangri-la.com/MediaFiles/D/C/C/%7BDCC7D177-4E7D-4598-AF2A-708B8AAC9B38%7DShangri-La's%20Far%20Eastern%20Plaza%20Hotel%20Tainan%20-%20Deluxe%20Family%20Twin%20-%201381373.jpg"
+    ],
+    "error": null
+  },
+  {
+    "name": "大億麗緻酒店",
+    "url": "https://www.landis-tainan.com",
+    "images": [],
+    "error": "net::ERR_NAME_NOT_RESOLVED at https://www.landis-tainan.com"
+  },
+  {
+    "name": "台南奇美博物館",
+    "url": "https://www.chimeimuseum.org",
+    "images": [
+      "https://www.chimeimuseum.org/uploads/recommendimages/60adb91aea7d2.jpg",
+      "https://www.chimeimuseum.org/uploads/recommendimages/60adb912a4ace.jpg",
+      "https://www.chimeimuseum.org/uploads/recommendimages/60ade14ac8207.jpg",
+      "https://www.chimeimuseum.org/uploads/recommendimages/60adb8b0ab2f5.jpg",
+      "https://www.chimeimuseum.org/images/index-banner-1.jpg"
+    ],
+    "error": null
+  },
+  {
+    "name": "高雄洲際酒店",
+    "url": "https://www.ihg.com/intercontinental/hotels/tw/zh/kaohsiung/khhha/hoteldetail",
+    "images": [],
+    "error": null
+  },
+  {
+    "name": "高雄展覽館",
+    "url": "https://www.kecc.com.tw",
+    "images": [
+      "https://www.kecc.com.tw/img/KEC-inside-blued.3c114d1e.jpg",
+      "https://www.kecc.com.tw/project/kecc/common/uploads/30/1140522_%E9%A2%A8%E9%9B%BB%E5%B1%95_KV_1920x450.jpg",
+      "https://www.kecc.com.tw/project/kecc/common/uploads/30/2026%E6%BB%BF%E6%84%8F%E5%BA%A6%E5%95%8F%E5%8D%B7_%E5%AE%98%E7%B6%B2BANNER_1920450.png",
+      "https://www.kecc.com.tw/project/kecc/common/uploads/11/messageImage_1767779772572.jpg",
+      "https://www.kecc.com.tw/project/kecc/common/uploads/11/S__84025353.jpg"
+    ],
+    "error": null
+  },
+  {
+    "name": "松山文創園區",
+    "url": "https://www.songshanculturalpark.org",
+    "images": [
+      "https://www.songshanculturalpark.org/gallery/1770979288_b36ca2ee8183db41025e.jpg",
+      "https://www.songshanculturalpark.org/gallery/1642316022_be50d8042c6862c9f8da.jpg",
+      "https://www.songshanculturalpark.org/gallery/1768201545_5f4fe2e576c4f26a4c0a.jpg",
+      "https://www.songshanculturalpark.org/gallery/1770003690_128b36176d9ea7db2c67.jpg",
+      "https://www.songshanculturalpark.org/gallery/1764838350_021629c7a9844affe3e1.jpg"
+    ],
+    "error": null
+  },
+  {
+    "name": "三創生活園區",
+    "url": "https://www.syntrend.com.tw",
+    "images": [
+      "https://www.syntrend.com.tw/assets/default/img/typhoon/stop.jpg",
+      "https://www.syntrend.com.tw/assets/default/img/BN7508400.png",
+      "https://www.syntrend.com.tw/upload/site/home_with_qs/fa3ce5a16451b16abd700abf1f0ddece.png",
+      "https://www.syntrend.com.tw/upload/site/home_with_qs/fdd60b8fe1adc7b1a5f0a49bc4b60d82.png",
+      "https://www.syntrend.com.tw/upload/site/home_with_qs/8b403fadab7553e222234e308b93a190.jpg"
+    ],
+    "error": null
+  },
+  {
+    "name": "台北萬豪酒店",
+    "url": "https://www.marriott.com/hotels/travel/tpemc-taipei-marriott-hotel/",
+    "images": [],
+    "error": null
+  },
+  {
+    "name": "維多麗亞酒店",
+    "url": "https://www.victoria.com.tw",
+    "images": [],
+    "error": "net::ERR_CERT_COMMON_NAME_INVALID at https://www.victoria.com.tw"
+  },
+  {
+    "name": "台北花園大酒店",
+    "url": "https://www.taipeigardenhotel.com.tw",
+    "images": [],
+    "error": "net::ERR_NAME_NOT_RESOLVED at https://www.taipeigardenhotel.com.tw"
+  },
+  {
+    "name": "馥敦酒店",
+    "url": "https://www.fullerton.com.tw",
+    "images": [
+      "/src/images/KVSlide/05.png",
+      "/src/images/KVSlide/01.png",
+      "/src/images/KVSlide/03.png",
+      "/src/images/KVSlide/05.png",
+      "/src/images/KVSlide/01.png"
+    ],
+    "error": null
+  },
+  {
+    "name": "豪景大酒店",
+    "url": "https://www.royalview.com.tw",
+    "images": [],
+    "error": "net::ERR_NAME_NOT_RESOLVED at https://www.royalview.com.tw"
+  }
+]

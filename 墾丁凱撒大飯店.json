@@ -1,0 +1,19 @@
+{
+  "name": "墾丁凱撒大飯店",
+  "type": "hotel",
+  "photos": {
+    "main": "https://www.caesar-park.com.tw/kenting/",
+    "gallery": []
+  },
+  "pricing": {
+    "halfDay": "需詢價",
+    "fullDay": "需詢價",
+    "note": "墾丁地區度假飯店，價格需直接詢問"
+  },
+  "capacity": {
+    "theater": "40-600人（視不同會議室而定）",
+    "classroom": "25-400人（視不同會議室而定）",
+    "banquet": "20-300人（視不同會議室而定）"
+  },
+  "note": "凱撒飯店集團成員，位於墾丁海邊，會議設施完善"
+}
