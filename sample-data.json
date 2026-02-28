@@ -3016,7 +3016,10 @@
         "hourlyRate": 30
       }
     },
-    "url": "https://www.kenting-resort.com"
+    "url": "https://www.kenting-resort.com",
+    "needsVerification": true,
+    "verificationNote": "官網無法訪問（DNS 錯誤），需要手動驗證場地是否仍在營業",
+    "lastChecked": "2026-02-28T22:14:24.003Z"
   },
   {
     "id": 59,
@@ -7983,7 +7986,10 @@
     },
     "url": "https://www.tongyi-hotel.com",
     "verified": true,
-    "verifiedAt": "2026-02-27"
+    "verifiedAt": "2026-02-27",
+    "needsVerification": true,
+    "verificationNote": "官網無法訪問（DNS 錯誤），需要手動驗證場地是否仍在營業",
+    "lastChecked": "2026-02-28T22:14:24.004Z"
   },
   {
     "id": 234,
