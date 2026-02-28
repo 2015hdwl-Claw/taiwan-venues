@@ -1,0 +1,6 @@
+{
+  "venueName": "台灣文創中心（TPQC）",
+  "url": "https://www.tpqc.com.tw/",
+  "error": "page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://www.tpqc.com.tw/\", waiting until \"networkidle\"\n",
+  "crawledAt": "2026-02-28T13:08:09.906Z"
+}

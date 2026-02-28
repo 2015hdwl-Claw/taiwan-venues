@@ -1,0 +1,216 @@
+{
+  "venue_name": "台大醫院國際會議中心（NTHCC）",
+  "source_url": "https://www.nthcc.com.tw/",
+  "contact": {
+    "phone": "需要手動驗證",
+    "email": "需要手動驗證",
+    "website": "https://www.nthcc.com.tw/",
+    "address": "台北市中正區徐州路2號"
+  },
+  "total_area": "2,400坪",
+  "building_info": {
+    "architecture": "玻璃帷幕建築，環保概念",
+    "awards": "教育部九十年公共工程施工品質評鑑第一名，獲選推薦參與行政院工程金質獎評選",
+    "features": [
+      "無障礙廁所",
+      "哺乳室",
+      "手扶梯",
+      "微電腦飲水設備",
+      "五星級廁所設計"
+    ]
+  },
+  "floors": [
+    {
+      "floor": "1樓",
+      "rooms": [
+        {
+          "room_name": "大廳",
+          "details": "需要手動驗證",
+          "area": "需要手動驗證",
+          "capacity": "需要手動驗證",
+          "price": "需要手動驗證",
+          "equipment": "需要手動驗證",
+          "photo_url": "需要手動驗證"
+        },
+        {
+          "room_name": "101廳",
+          "details": "需要手動驗證",
+          "area": "需要手動驗證",
+          "capacity": "需要手動驗證",
+          "price": "需要手動驗證",
+          "equipment": "需要手動驗證",
+          "photo_url": "需要手動驗證"
+        },
+        {
+          "room_name": "Lobby",
+          "details": "需要手動驗證",
+          "area": "需要手動驗證",
+          "capacity": "需要手動驗證",
+          "price": "需要手動驗證",
+          "equipment": "需要手動驗證",
+          "photo_url": "需要手動驗證"
+        },
+        {
+          "room_name": "101後戶外",
+          "details": "需要手動驗證",
+          "area": "需要手動驗證",
+          "capacity": "需要手動驗證",
+          "price": "需要手動驗證",
+          "equipment": "需要手動驗證",
+          "photo_url": "需要手動驗證"
+        }
+      ]
+    },
+    {
+      "floor": "2樓",
+      "rooms": [
+        {
+          "room_name": "201廳",
+          "details": "需要手動驗證",
+          "area": "需要手動驗證",
+          "capacity": "需要手動驗證",
+          "price": "需要手動驗證",
+          "equipment": "需要手動驗證",
+          "photo_url": "需要手動驗證"
+        },
+        {
+          "room_name": "202廳",
+          "details": "需要手動驗證",
+          "area": "需要手動驗證",
+          "capacity": "需要手動驗證",
+          "price": "需要手動驗證",
+          "equipment": "需要手動驗證",
+          "photo_url": "需要手動驗證"
+        },
+        {
+          "room_name": "203廳",
+          "details": "需要手動驗證",
+          "area": "需要手動驗證",
+          "capacity": "需要手動驗證",
+          "price": "需要手動驗證",
+          "equipment": "需要手動驗證",
+          "photo_url": "需要手動驗證"
+        }
+      ]
+    },
+    {
+      "floor": "3樓",
+      "rooms": [
+        {
+          "room_name": "301廳",
+          "details": "需要手動驗證",
+          "area": "需要手動驗證",
+          "capacity": "需要手動驗證",
+          "price": "需要手動驗證",
+          "equipment": "需要手動驗證",
+          "photo_url": "需要手動驗證"
+        },
+        {
+          "room_name": "307廳",
+          "details": "需要手動驗證",
+          "area": "需要手動驗證",
+          "capacity": "需要手動驗證",
+          "price": "需要手動驗證",
+          "equipment": "需要手動驗證",
+          "photo_url": "需要手動驗證"
+        },
+        {
+          "room_name": "Lobby",
+          "details": "需要手動驗證",
+          "area": "需要手動驗證",
+          "capacity": "需要手動驗證",
+          "price": "需要手動驗證",
+          "equipment": "需要手動驗證",
+          "photo_url": "需要手動驗證"
+        }
+      ]
+    },
+    {
+      "floor": "4樓",
+      "rooms": [
+        {
+          "room_name": "401廳",
+          "details": "需要手動驗證",
+          "area": "需要手動驗證",
+          "capacity": "需要手動驗證",
+          "price": "需要手動驗證",
+          "equipment": "需要手動驗證",
+          "photo_url": "需要手動驗證"
+        },
+        {
+          "room_name": "402廳",
+          "details": "需要手動驗證",
+          "area": "需要手動驗證",
+          "capacity": "需要手動驗證",
+          "price": "需要手動驗證",
+          "equipment": "需要手動驗證",
+          "photo_url": "需要手動驗證"
+        },
+        {
+          "room_name": "Lobby",
+          "details": "需要手動驗證",
+          "area": "需要手動驗證",
+          "capacity": "需要手動驗證",
+          "price": "需要手動驗證",
+          "equipment": "需要手動驗證",
+          "photo_url": "需要手動驗證"
+        }
+      ]
+    },
+    {
+      "floor": "戶外",
+      "rooms": [
+        {
+          "room_name": "戶外",
+          "details": "需要手動驗證",
+          "area": "需要手動驗證",
+          "capacity": "需要手動驗證",
+          "price": "需要手動驗證",
+          "equipment": "需要手動驗證",
+          "photo_url": "需要手動驗證"
+        },
+        {
+          "room_name": "101後戶外",
+          "details": "需要手動驗證",
+          "area": "需要手動驗證",
+          "capacity": "需要手動驗證",
+          "price": "需要手動驗證",
+          "equipment": "需要手動驗證",
+          "photo_url": "需要手動驗證"
+        }
+      ]
+    }
+  ],
+  "banquet_info": {
+    "venue_name": "徐州路2號庭園會館",
+    "floors": "一、二及四樓",
+    "ceiling_height": "8米",
+    "features": "無樑柱空間寬敞舒適",
+    "max_capacity": "120桌",
+    "surroundings": [
+      "日式庭園",
+      "約800坪的如茵綠地"
+    ],
+    "reservation_phone": "02-2392-8888",
+    "details_url": "https://www.nthcc.com.tw/feast.htm"
+  },
+  "general_info": {
+    "total_venues": "兩間大型多功能廳、兩間中型演講廳、數間小型會議廳",
+    "facilities": "粵式餐廳、庭園古跡咖啡",
+    "philosophy": "專業會展、優質服務、效率第一"
+  },
+  "usage_rules": {
+    "setup_requirements": "活動前5日(工作日)確認設備及擺設方式",
+    "catering": "活動前3日(工作日)確定餐點金額及數量",
+    "catering_restriction": "會議、活動所需餐飲限由本會議中心提供，謝絕攜帶外食、煙酒、檳榔",
+    "cleanup_fee": "如需外食清潔費用 NT$20,000元/每次"
+  },
+  "collection_status": {
+    "venue_info": "部分完成 - 場地名稱和樓層分布已收集",
+    "room_details": "未完成 - 需要使用瀏覽器訪問各樓層頁面",
+    "photos": "未完成 - 需要使用瀏覽器訪問網站",
+    "prices": "未完成 - 需要手動驗證",
+    "contact_info": "部分完成 - 地址已收集，電話和 email 需要手動驗證"
+  },
+  "limitations": "網站使用動態內容載入，需要使用瀏覽器訪問才能獲取每個會議室的詳細資訊，包括照片、坪數、容納人數和價格。預訂流程通過表單提交，可能需要聯絡業務人員獲取詳細報價"
+}

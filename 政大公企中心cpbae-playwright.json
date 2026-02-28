@@ -1,0 +1,59 @@
+{
+  "venueName": "政大公企中心（CPBAE）",
+  "url": "https://cpbae.nccu.edu.tw/",
+  "title": "政大公企中心｜推廣教育",
+  "crawledAt": "2026-02-28T13:08:36.403Z",
+  "rooms": [
+    {
+      "name": "",
+      "size": "",
+      "capacity": "",
+      "price": "",
+      "equipment": [],
+      "photos": [],
+      "description": "地址：10642台北市大安區金華街187號",
+      "url": "https://cpbae.nccu.edu.tw/cpbae/space/introduction?random=1772284093901"
+    },
+    {
+      "name": "",
+      "size": "300坪",
+      "capacity": "00\n\n人",
+      "price": "",
+      "equipment": [],
+      "photos": [
+        "https://cpbae.nccu.edu.tw/cpbae/_nuxt/img/icon_space_service.f149b73.svg",
+        "https://cpbae.blob.core.windows.net/space/image/6b545a8d-34d0-49e4-a40a-a3583b7d1262.jpg",
+        "https://cpbae.blob.core.windows.net/space/image/4ca4f166-83e5-43ab-bf4b-54c1325f108a.jpg",
+        "https://cpbae.blob.core.windows.net/space/image/97642695-aac4-4d17-97c0-98c0c16c6c9c.jpg",
+        "https://cpbae.blob.core.windows.net/space/image/0d19b7c6-3329-49d3-827c-3e99ccf6edca.jpg",
+        "https://cpbae.blob.core.windows.net/space/image/5ac29b8d-30b1-4447-b748-63306d44ecc5.jpg",
+        "https://cpbae.blob.core.windows.net/space/image/32df985d-d4b0-452e-bb28-46363dd41dd1.jpg",
+        "https://cpbae.blob.core.windows.net/space/image/45ec2a79-f40a-4a41-a95c-c8e4753f24f8.jpg",
+        "https://cpbae.blob.core.windows.net/space/image/701f6a5b-8b03-441a-ae08-b39c0bf9112d.jpg",
+        "https://cpbae.blob.core.windows.net/space/image/51ea97f9-a240-452b-ab4d-118ae374b6dd.png"
+      ],
+      "description": "",
+      "url": "https://cpbae.nccu.edu.tw/cpbae/space/search?random=1772284093901"
+    },
+    {
+      "name": "",
+      "size": "",
+      "capacity": "",
+      "price": "",
+      "equipment": [],
+      "photos": [],
+      "description": "都市叢林中的美學旅宿\n政大公企中心與秐朗.台北，帶來台北都心的「旅宿心體驗」。",
+      "url": "https://cpbae.nccu.edu.tw/cpbae/detail?id=1639"
+    },
+    {
+      "name": "115  228和平紀念日連假：02/27－03/01",
+      "size": "",
+      "capacity": "",
+      "price": "",
+      "equipment": [],
+      "photos": [],
+      "description": "",
+      "url": "https://cpbae.nccu.edu.tw/cpbae/detail?id=1497"
+    }
+  ]
+}

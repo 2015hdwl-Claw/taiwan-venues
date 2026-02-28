@@ -1,7 +1,11 @@
 {
+  "name": "taiwan-venues",
+  "version": "1.0.0",
+  "description": "台灣活動大師場地資料",
+  "scripts": {
+    "crawl": "node playwright-crawler.js"
+  },
   "dependencies": {
-    "pdf-parse": "^2.4.5",
-    "pdf2json": "^4.0.2",
-    "puppeteer": "^24.37.5"
+    "playwright": "^1.58.2"
   }
 }
