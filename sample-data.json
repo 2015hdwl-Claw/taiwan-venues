@@ -1,57 +1,6 @@
 [
   {
     "id": 1,
-    "name": "台北國際會議中心",
-    "roomName": "大會堂",
-    "venueType": "會議場地",
-    "type": "國際會議廳",
-    "city": "台北市",
-    "address": "台北市信義區信義路五段1號",
-    "contactPerson": "場地租借部",
-    "contactPhone": "02-2725-5200",
-    "contactEmail": "ticc@ticc.com.tw",
-    "pricePerHour": null,
-    "priceHalfDay": 50000,
-    "priceFullDay": 80000,
-    "maxCapacityEmpty": 3100,
-    "maxCapacityTheater": 3100,
-    "maxCapacityClassroom": 1500,
-    "availableTimeWeekday": "08:00-22:00",
-    "availableTimeWeekend": "08:00-22:00",
-    "equipment": "專業舞台、燈光音響、同步翻譯設備、投影設備",
-    "images": {
-      "main": "https://www.ticc.com.tw/wSite/xslgip/style1/images/ticc/img-hero.jpg",
-      "gallery": [],
-      "floorPlan": null
-    },
-    "url": "https://www.ticc.com.tw",
-    "transportation": {
-      "mrt": {
-        "station": "台北101/世貿站",
-        "line": "淡水信義線",
-        "walkingMinutes": 5
-      },
-      "parking": {
-        "name": "TICC地下停車場",
-        "spaces": 400,
-        "hourlyRate": 60
-      }
-    },
-    "dimensions": {
-      "area": 1800,
-      "unit": "坪",
-      "length": 60,
-      "width": 30,
-      "height": 12
-    },
-    "notes": "台灣最大的國際會議場地，適合大型國際會議、頒獎典禮",
-    "source": "官方網站",
-    "sourceUrl": "https://www.ticc.com.tw",
-    "verifiedAt": "2026-02-27",
-    "verified": true
-  },
-  {
-    "id": 2,
     "name": "華山1914文化創意產業園區",
     "roomName": "中3館",
     "venueType": "展演場地",
@@ -102,7 +51,7 @@
     "verified": true
   },
   {
-    "id": 3,
+    "id": 2,
     "name": "朱崙區民活動中心",
     "venueType": "機關場地",
     "roomName": "禮堂",
@@ -162,7 +111,7 @@
     "url": "https://www.gov.taipei"
   },
   {
-    "id": 4,
+    "id": 3,
     "name": "林森三區民活動中心",
     "venueType": "機關場地",
     "roomName": "會議室",
@@ -220,7 +169,7 @@
     "url": "https://www.gov.taipei"
   },
   {
-    "id": 5,
+    "id": 4,
     "name": "客家藝文活動中心",
     "venueType": "機關場地",
     "roomName": "3樓會議室",
@@ -277,7 +226,7 @@
     "url": "https://www.gov.taipei"
   },
   {
-    "id": 6,
+    "id": 5,
     "name": "松江區民活動中心",
     "venueType": "機關場地",
     "roomName": "多功能廳",
@@ -343,7 +292,7 @@
     "url": "https://www.gov.taipei"
   },
   {
-    "id": 7,
+    "id": 6,
     "name": "新北市公有場地",
     "venueType": "機關場地",
     "roomName": "大埤頂市民活動中心演藝廳",
@@ -406,7 +355,7 @@
     "url": "https://www.ntpc.gov.tw"
   },
   {
-    "id": 8,
+    "id": 7,
     "name": "台北君悅酒店",
     "roomName": "凱沃廳",
     "venueType": "飯店場地",
@@ -431,7 +380,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 9,
+    "id": 8,
     "name": "台北晶華酒店",
     "venueType": "飯店場地",
     "roomName": "五星級",
@@ -469,7 +418,7 @@
     "collectedToday": true
   },
   {
-    "id": 10,
+    "id": 9,
     "name": "W飯店台北",
     "roomName": "WOW Hall",
     "venueType": "飯店場地",
@@ -519,7 +468,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 11,
+    "id": 10,
     "name": "台北香格里拉遠東國際大飯店",
     "venueType": "飯店場地",
     "roomName": "多功能會議室",
@@ -583,7 +532,7 @@
     }
   },
   {
-    "id": 12,
+    "id": 11,
     "name": "台北君品酒店",
     "roomName": "君品廳",
     "venueType": "飯店場地",
@@ -610,7 +559,7 @@
     "urlUpdatedAt": "2026-02-28T08:44:10.702Z"
   },
   {
-    "id": 13,
+    "id": 12,
     "name": "台北喜來登大飯店",
     "roomName": "喜來登廳",
     "venueType": "飯店場地",
@@ -635,7 +584,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 14,
+    "id": 13,
     "name": "台北國賓大飯店",
     "venueType": "飯店場地",
     "roomName": "五星級",
@@ -673,7 +622,7 @@
     "collectedToday": true
   },
   {
-    "id": 15,
+    "id": 14,
     "name": "台北老爺大酒店",
     "roomName": "明園廳",
     "venueType": "飯店場地",
@@ -698,7 +647,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 16,
+    "id": 15,
     "name": "寒舍艾美酒店",
     "venueType": "飯店場地",
     "roomName": "大宴會廳",
@@ -770,7 +719,7 @@
     "url": "https://www.lemeridien.com"
   },
   {
-    "id": 17,
+    "id": 16,
     "name": "台北文華東方酒店",
     "venueType": "飯店場地",
     "roomName": "五星級",
@@ -808,7 +757,7 @@
     "collectedToday": true
   },
   {
-    "id": 18,
+    "id": 17,
     "name": "台北西華飯店",
     "roomName": "托斯卡尼廳",
     "venueType": "飯店場地",
@@ -833,7 +782,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 19,
+    "id": 18,
     "name": "台北威斯汀六福皇宮",
     "venueType": "飯店場地",
     "roomName": "大宴會廳",
@@ -909,7 +858,7 @@
     }
   },
   {
-    "id": 20,
+    "id": 19,
     "name": "兄弟大飯店",
     "venueType": "飯店場地",
     "roomName": "宴會廳",
@@ -981,7 +930,7 @@
     "url": "https://www.brotherhotel.com.tw"
   },
   {
-    "id": 21,
+    "id": 20,
     "name": "板橋435藝文特區",
     "roomName": "中正館",
     "venueType": "展演場地",
@@ -1008,7 +957,7 @@
     "urlUpdatedAt": "2026-02-28T08:23:39.159Z"
   },
   {
-    "id": 22,
+    "id": 21,
     "name": "福容大飯店-淡水漁人碼頭",
     "venueType": "飯店場地",
     "roomName": "宴會廳",
@@ -1075,7 +1024,7 @@
     "urlUpdatedAt": "2026-02-28T08:23:39.160Z"
   },
   {
-    "id": 23,
+    "id": 22,
     "name": "新板希爾頓酒店",
     "venueType": "飯店場地",
     "roomName": "會議室",
@@ -1139,7 +1088,7 @@
     "urlUpdatedAt": "2026-02-28T08:44:10.705Z"
   },
   {
-    "id": 24,
+    "id": 23,
     "name": "典華旗艦店",
     "venueType": "婚宴場地",
     "roomName": "維多麗雅廳",
@@ -1210,7 +1159,7 @@
     "urlUpdatedAt": "2026-02-28T08:23:39.160Z"
   },
   {
-    "id": 25,
+    "id": 24,
     "name": "桃園喜來登酒店",
     "venueType": "飯店場地",
     "roomName": "大宴會廳",
@@ -1280,7 +1229,7 @@
     }
   },
   {
-    "id": 26,
+    "id": 25,
     "name": "尊爵天際大飯店",
     "venueType": "飯店場地",
     "roomName": "宴會廳",
@@ -1343,7 +1292,7 @@
     }
   },
   {
-    "id": 27,
+    "id": 26,
     "name": "台中日月千禧酒店",
     "roomName": "千禧廳",
     "venueType": "飯店場地",
@@ -1368,7 +1317,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 28,
+    "id": 27,
     "name": "林酒店",
     "venueType": "飯店場地",
     "roomName": "林皇宮宴會廳",
@@ -1435,7 +1384,7 @@
     "urlUpdatedAt": "2026-02-28T08:23:39.161Z"
   },
   {
-    "id": 29,
+    "id": 28,
     "name": "台中市世貿中心",
     "venueType": "會議場地",
     "roomName": "展覽館",
@@ -1501,7 +1450,7 @@
     "urlUpdatedAt": "2026-02-28T08:23:39.161Z"
   },
   {
-    "id": 30,
+    "id": 29,
     "name": "台中國家歌劇院",
     "venueType": "展演場地",
     "roomName": "中劇院",
@@ -1566,7 +1515,7 @@
     "urlUpdatedAt": "2026-02-28T08:23:39.161Z"
   },
   {
-    "id": 31,
+    "id": 30,
     "name": "台南香格里拉遠東國際大飯店",
     "roomName": "遠東廳",
     "venueType": "飯店場地",
@@ -1591,7 +1540,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 32,
+    "id": 31,
     "name": "台南奇美博物館",
     "venueType": "展演場地",
     "roomName": "多功能廳",
@@ -1655,7 +1604,7 @@
     "url": "https://www.chimeimuseum.org"
   },
   {
-    "id": 33,
+    "id": 32,
     "name": "高雄漢來大飯店",
     "roomName": "漢來廳",
     "venueType": "飯店場地",
@@ -1680,7 +1629,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 34,
+    "id": 33,
     "name": "高雄洲際酒店",
     "venueType": "飯店場地",
     "roomName": "宴會廳",
@@ -1745,7 +1694,7 @@
     "url": "https://www.intercontinental.com"
   },
   {
-    "id": 35,
+    "id": 34,
     "name": "高雄展覽館",
     "roomName": "南館",
     "venueType": "展演場地",
@@ -1795,7 +1744,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 36,
+    "id": 35,
     "name": "義大皇家酒店",
     "venueType": "飯店場地",
     "roomName": "皇家宴會廳",
@@ -1862,7 +1811,7 @@
     "urlUpdatedAt": "2026-02-28T08:23:39.162Z"
   },
   {
-    "id": 37,
+    "id": 36,
     "name": "基隆長榮桂冠酒店",
     "venueType": "飯店場地",
     "roomName": "宴會廳",
@@ -1927,7 +1876,7 @@
     "url": "https://www.evergreen.com.tw"
   },
   {
-    "id": 38,
+    "id": 37,
     "name": "新竹國賓大飯店",
     "roomName": "國賓廳",
     "venueType": "飯店場地",
@@ -1954,7 +1903,7 @@
     "urlUpdatedAt": "2026-02-28T08:44:10.705Z"
   },
   {
-    "id": 39,
+    "id": 38,
     "name": "新竹喜來登大飯店",
     "venueType": "飯店場地",
     "roomName": "會議室",
@@ -2016,7 +1965,7 @@
     }
   },
   {
-    "id": 40,
+    "id": 39,
     "name": "煙波大飯店新竹湖濱館",
     "venueType": "飯店場地",
     "roomName": "宴會廳",
@@ -2083,7 +2032,7 @@
     "urlUpdatedAt": "2026-02-28T08:23:39.163Z"
   },
   {
-    "id": 41,
+    "id": 40,
     "name": "新竹豐邑喜來登大飯店",
     "venueType": "飯店場地",
     "roomName": "宴會廳",
@@ -2153,7 +2102,7 @@
     }
   },
   {
-    "id": 42,
+    "id": 41,
     "name": "嘉義市文化局",
     "venueType": "展演場地",
     "roomName": "音樂廳",
@@ -2217,7 +2166,7 @@
     "url": "https://www.chiayi.gov.tw"
   },
   {
-    "id": 43,
+    "id": 42,
     "name": "嘉義耐斯王子大飯店",
     "roomName": "王子廳",
     "venueType": "飯店場地",
@@ -2244,7 +2193,7 @@
     "urlUpdatedAt": "2026-02-28T08:23:39.163Z"
   },
   {
-    "id": 44,
+    "id": 43,
     "name": "嘉義長榮文苑酒店",
     "venueType": "飯店場地",
     "roomName": "宴會廳",
@@ -2311,7 +2260,7 @@
     "urlUpdatedAt": "2026-02-28T08:23:39.163Z"
   },
   {
-    "id": 45,
+    "id": 44,
     "name": "宜蘭礁溪老爺酒店",
     "roomName": "老爺廳",
     "venueType": "飯店場地",
@@ -2338,7 +2287,7 @@
     "urlUpdatedAt": "2026-02-28T08:23:39.163Z"
   },
   {
-    "id": 46,
+    "id": 45,
     "name": "宜蘭蘭城晶英酒店",
     "venueType": "飯店場地",
     "roomName": "宴會廳",
@@ -2405,7 +2354,7 @@
     "urlUpdatedAt": "2026-02-28T08:44:10.706Z"
   },
   {
-    "id": 47,
+    "id": 46,
     "name": "花蓮翰品酒店",
     "roomName": "翰品廳",
     "venueType": "飯店場地",
@@ -2430,7 +2379,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 48,
+    "id": 47,
     "name": "花蓮遠雄悅來大飯店",
     "roomName": "悅來廳",
     "venueType": "飯店場地",
@@ -2455,7 +2404,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 49,
+    "id": 48,
     "name": "花蓮美侖大飯店",
     "roomName": "美侖廳",
     "venueType": "飯店場地",
@@ -2480,7 +2429,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 50,
+    "id": 49,
     "name": "花蓮文化局演藝廳",
     "venueType": "展演場地",
     "roomName": "演藝廳",
@@ -2544,7 +2493,7 @@
     "url": "https://www.hl.gov.tw"
   },
   {
-    "id": 51,
+    "id": 50,
     "name": "台北寒舍艾麗酒店",
     "roomName": "艾麗廳",
     "venueType": "飯店場地",
@@ -2569,7 +2518,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 52,
+    "id": 51,
     "name": "台北萬豪酒店",
     "venueType": "飯店場地",
     "roomName": "大宴會廳",
@@ -2632,7 +2581,7 @@
     }
   },
   {
-    "id": 53,
+    "id": 52,
     "name": "台北美福大飯店",
     "roomName": "美福廳",
     "venueType": "飯店場地",
@@ -2657,7 +2606,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 54,
+    "id": 53,
     "name": "維多麗亞酒店",
     "roomName": "維多麗亞廳",
     "venueType": "飯店場地",
@@ -2682,7 +2631,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 55,
+    "id": 54,
     "name": "花園大酒店",
     "venueType": "飯店場地",
     "roomName": "宴會廳",
@@ -2752,7 +2701,7 @@
     "url": "https://www.gardenhotel.com.tw"
   },
   {
-    "id": 56,
+    "id": 55,
     "name": "豪景大酒店",
     "venueType": "飯店場地",
     "roomName": "宴會廳",
@@ -2822,7 +2771,7 @@
     "url": "https://www.grandview.com.tw"
   },
   {
-    "id": 57,
+    "id": 56,
     "name": "神旺大飯店",
     "venueType": "飯店場地",
     "roomName": "宴會廳",
@@ -2892,7 +2841,7 @@
     "url": "https://www.sanwant.com"
   },
   {
-    "id": 58,
+    "id": 57,
     "name": "台北王朝大酒店",
     "venueType": "飯店場地",
     "roomName": "宴會廳",
@@ -2962,7 +2911,7 @@
     "url": "https://www.dynasty.com.tw"
   },
   {
-    "id": 59,
+    "id": 58,
     "name": "統一渡假村-墾丁",
     "venueType": "飯店場地",
     "roomName": "會議室",
@@ -3018,7 +2967,7 @@
     "url": "https://www.kenting-resort.com"
   },
   {
-    "id": 60,
+    "id": 59,
     "name": "墾丁福華渡假飯店",
     "venueType": "飯店場地",
     "roomName": "渡假飯店",
@@ -3056,7 +3005,7 @@
     "collectedToday": true
   },
   {
-    "id": 61,
+    "id": 60,
     "name": "墾丁夏都沙灘酒店",
     "roomName": "夏都廳",
     "venueType": "飯店場地",
@@ -3081,7 +3030,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 62,
+    "id": 61,
     "name": "墾丁凱撒大飯店",
     "venueType": "飯店場地",
     "roomName": "南洋風情",
@@ -3119,7 +3068,7 @@
     "collectedToday": true
   },
   {
-    "id": 63,
+    "id": 62,
     "name": "高雄義大皇家酒店",
     "venueType": "飯店場地",
     "roomName": "會議中心",
@@ -3176,7 +3125,7 @@
     "url": "https://www.edithotel.com.tw"
   },
   {
-    "id": 64,
+    "id": 63,
     "name": "高雄福華大飯店",
     "roomName": "福華廳",
     "venueType": "飯店場地",
@@ -3201,7 +3150,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 65,
+    "id": 64,
     "name": "高雄翰苑酒店",
     "venueType": "飯店場地",
     "roomName": "宴會廳",
@@ -3266,7 +3215,7 @@
     "url": "https://www.hanshin.com.tw"
   },
   {
-    "id": 66,
+    "id": 65,
     "name": "台北淡水將捷金鬱金香酒店",
     "venueType": "飯店場地",
     "roomName": "宴會廳",
@@ -3331,7 +3280,7 @@
     "url": "https://www.golden-tulip.com"
   },
   {
-    "id": 67,
+    "id": 66,
     "name": "淡水漁人舞台",
     "venueType": "展演場地",
     "roomName": "多功能廳",
@@ -3395,7 +3344,7 @@
     "url": "https://www.fisherman.com.tw"
   },
   {
-    "id": 68,
+    "id": 67,
     "name": "淡水紅毛城古蹟園區",
     "venueType": "展演場地",
     "roomName": "戶外廣場",
@@ -3459,7 +3408,7 @@
     "url": "https://www.ntpc.gov.tw"
   },
   {
-    "id": 69,
+    "id": 68,
     "name": "華泰瑞苑墾丁賓館",
     "venueType": "飯店場地",
     "roomName": "宴會廳",
@@ -3523,7 +3472,7 @@
     "url": "https://www.gloria-manor.com"
   },
   {
-    "id": 70,
+    "id": 69,
     "name": "高雄國賓大飯店",
     "roomName": "國賓廳",
     "venueType": "飯店場地",
@@ -3548,7 +3497,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 71,
+    "id": 70,
     "name": "高雄寒軒國際大飯店",
     "roomName": "寒軒廳",
     "venueType": "飯店場地",
@@ -3573,7 +3522,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 72,
+    "id": 71,
     "name": "松山文創園區",
     "roomName": "1號倉庫",
     "venueType": "展演場地",
@@ -3623,7 +3572,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 73,
+    "id": 72,
     "name": "三創生活園區",
     "roomName": "6F CLAPPER THEATER",
     "venueType": "展演場地",
@@ -3673,7 +3622,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 74,
+    "id": 73,
     "name": "台南市立文化中心",
     "roomName": "演藝廳",
     "venueType": "展演場地",
@@ -3719,7 +3668,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 75,
+    "id": 74,
     "name": "台南晶英酒店",
     "roomName": "大宴會廳",
     "venueType": "飯店場地",
@@ -3765,7 +3714,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 76,
+    "id": 75,
     "name": "台中林酒店",
     "roomName": "林皇宮廳",
     "venueType": "飯店場地",
@@ -3790,7 +3739,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 77,
+    "id": 76,
     "name": "台東知本老爺酒店",
     "roomName": "老爺廳",
     "venueType": "飯店場地",
@@ -3815,7 +3764,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 78,
+    "id": 77,
     "name": "台北艾美酒店",
     "roomName": "艾美廳",
     "venueType": "飯店場地",
@@ -3840,7 +3789,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 79,
+    "id": 78,
     "name": "NUZONE展演空間",
     "roomName": "主空間",
     "venueType": "展演場地",
@@ -3890,7 +3839,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 80,
+    "id": 79,
     "name": "TCCC台灣文創訓練中心",
     "roomName": "多功能教室",
     "venueType": "會議場地",
@@ -3940,7 +3889,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 81,
+    "id": 80,
     "name": "板橋凱撒大飯店",
     "venueType": "飯店場地",
     "roomName": "三鐵交匯",
@@ -3978,7 +3927,7 @@
     "collectedToday": true
   },
   {
-    "id": 82,
+    "id": 81,
     "name": "桃園諾富特華航酒店",
     "roomName": "大宴會廳",
     "venueType": "飯店場地",
@@ -4024,7 +3973,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 83,
+    "id": 82,
     "name": "新竹煙波大飯店",
     "roomName": "煙波廳",
     "venueType": "飯店場地",
@@ -4049,7 +3998,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 84,
+    "id": 83,
     "name": "新竹喜來登飯店",
     "roomName": "喜來登廳",
     "venueType": "飯店場地",
@@ -4074,7 +4023,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 85,
+    "id": 84,
     "name": "台中全國大飯店",
     "roomName": "全國廳",
     "venueType": "飯店場地",
@@ -4099,7 +4048,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 86,
+    "id": 85,
     "name": "台中金典酒店",
     "roomName": "金典廳",
     "venueType": "飯店場地",
@@ -4124,7 +4073,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 87,
+    "id": 86,
     "name": "高雄翰品酒店",
     "roomName": "翰品廳",
     "venueType": "飯店場地",
@@ -4149,7 +4098,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 88,
+    "id": 87,
     "name": "台南大億麗緻酒店",
     "roomName": "麗緻廳",
     "venueType": "飯店場地",
@@ -4174,7 +4123,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 89,
+    "id": 88,
     "name": "台南老爺行旅",
     "roomName": "甘樂廳",
     "venueType": "飯店場地",
@@ -4199,7 +4148,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 90,
+    "id": 89,
     "name": "桃園尊爵大飯店",
     "roomName": "尊爵廳",
     "venueType": "飯店場地",
@@ -4224,7 +4173,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 91,
+    "id": 90,
     "name": "桃園假日酒店",
     "roomName": "假日廳",
     "venueType": "飯店場地",
@@ -4249,7 +4198,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 92,
+    "id": 91,
     "name": "雲林劍湖山王子大飯店",
     "roomName": "王子廳",
     "venueType": "飯店場地",
@@ -4274,7 +4223,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 93,
+    "id": 92,
     "name": "嘉義兆品酒店",
     "roomName": "兆品廳",
     "venueType": "飯店場地",
@@ -4299,7 +4248,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 94,
+    "id": 93,
     "name": "台東娜路彎大酒店",
     "roomName": "娜路彎廳",
     "venueType": "飯店場地",
@@ -4324,7 +4273,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 95,
+    "id": 94,
     "name": "福容大飯店淡水漁人碼頭",
     "venueType": "飯店場地",
     "roomName": "郵輪造型",
@@ -4362,7 +4311,7 @@
     "collectedToday": true
   },
   {
-    "id": 96,
+    "id": 95,
     "name": "台北寒舍艾美酒店",
     "roomName": "探索廳",
     "venueType": "飯店場地",
@@ -4387,7 +4336,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 97,
+    "id": 96,
     "name": "台北亞都麗緻大飯店",
     "roomName": "麗緻廳",
     "venueType": "飯店場地",
@@ -4412,7 +4361,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 98,
+    "id": 97,
     "name": "香格里拉台北遠東國際大飯店",
     "roomName": "遠東廳",
     "venueType": "飯店場地",
@@ -4437,7 +4386,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 99,
+    "id": 98,
     "name": "台北寒舍喜來登大飯店",
     "roomName": "喜來登廳",
     "venueType": "飯店場地",
@@ -4462,7 +4411,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 100,
+    "id": 99,
     "name": "台北怡亨酒店",
     "roomName": "怡亨廳",
     "venueType": "飯店場地",
@@ -4487,7 +4436,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 101,
+    "id": 100,
     "name": "台北豪景大酒店",
     "roomName": "豪景廳",
     "venueType": "飯店場地",
@@ -4512,7 +4461,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 102,
+    "id": 101,
     "name": "六福萬怡酒店",
     "roomName": "萬怡廳",
     "venueType": "飯店場地",
@@ -4537,7 +4486,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 103,
+    "id": 102,
     "name": "台北慕軒酒店",
     "roomName": "慕軒廳",
     "venueType": "飯店場地",
@@ -4562,7 +4511,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 104,
+    "id": 103,
     "name": "台北天成酒店",
     "roomName": "天成廳",
     "venueType": "飯店場地",
@@ -4587,7 +4536,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 105,
+    "id": 104,
     "name": "台北馥敦飯店",
     "roomName": "馥敦廳",
     "venueType": "飯店場地",
@@ -4612,7 +4561,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 106,
+    "id": 105,
     "name": "新北市政府",
     "roomName": "多功能會議廳",
     "venueType": "機關場地",
@@ -4637,7 +4586,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 107,
+    "id": 106,
     "name": "鶯歌陶瓷博物館",
     "roomName": "國際演講廳",
     "venueType": "機關場地",
@@ -4662,7 +4611,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 108,
+    "id": 107,
     "name": "高雄市立圖書館總館",
     "roomName": "際會廳",
     "venueType": "機關場地",
@@ -4687,7 +4636,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 109,
+    "id": 108,
     "name": "高雄衛武營國家藝術文化中心",
     "roomName": "表演廳",
     "venueType": "展演場地",
@@ -4712,7 +4661,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 110,
+    "id": 109,
     "name": "台中市立圖書館",
     "roomName": "多功能會議室",
     "venueType": "機關場地",
@@ -4737,7 +4686,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 111,
+    "id": 110,
     "name": "台南市政府",
     "roomName": "永華市政中心會議廳",
     "venueType": "機關場地",
@@ -4762,7 +4711,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 112,
+    "id": 111,
     "name": "桃園市政府",
     "roomName": "綜合會議廳",
     "venueType": "機關場地",
@@ -4787,7 +4736,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 113,
+    "id": 112,
     "name": "基隆市政府",
     "roomName": "綜合大禮堂",
     "venueType": "機關場地",
@@ -4812,7 +4761,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 114,
+    "id": 113,
     "name": "新竹市政府",
     "roomName": "綜合大禮堂",
     "venueType": "機關場地",
@@ -4837,7 +4786,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 115,
+    "id": 114,
     "name": "嘉義市政府",
     "roomName": "文化局音樂廳",
     "venueType": "機關場地",
@@ -4862,7 +4811,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 116,
+    "id": 115,
     "name": "宜蘭縣政府文化局",
     "roomName": "演藝廳",
     "venueType": "機關場地",
@@ -4887,7 +4836,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 117,
+    "id": 116,
     "name": "花蓮縣文化局",
     "roomName": "演藝廳",
     "venueType": "機關場地",
@@ -4912,7 +4861,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 118,
+    "id": 117,
     "name": "台東縣政府文化處",
     "roomName": "藝文中心演講廳",
     "venueType": "機關場地",
@@ -4937,7 +4886,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 119,
+    "id": 118,
     "name": "屏東縣政府文化處",
     "roomName": "演藝廳",
     "venueType": "機關場地",
@@ -4962,7 +4911,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 120,
+    "id": 119,
     "name": "台北世貿中心展覽大樓",
     "roomName": "展覽一館",
     "venueType": "展演場地",
@@ -4987,7 +4936,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 121,
+    "id": 120,
     "name": "南港展覽館",
     "roomName": "一館4樓",
     "venueType": "展演場地",
@@ -5012,7 +4961,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 122,
+    "id": 121,
     "name": "花博公園爭艷館",
     "roomName": "全館",
     "venueType": "展演場地",
@@ -5037,7 +4986,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 123,
+    "id": 122,
     "name": "圓山花博公園流行館",
     "roomName": "全館",
     "venueType": "展演場地",
@@ -5062,7 +5011,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 124,
+    "id": 123,
     "name": "中正紀念堂",
     "venueType": "展覽場地",
     "roomName": "展覽",
@@ -5100,7 +5049,7 @@
     "collectedToday": true
   },
   {
-    "id": 125,
+    "id": 124,
     "name": "國父紀念館",
     "roomName": "大會堂",
     "venueType": "展演場地",
@@ -5125,7 +5074,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 126,
+    "id": 125,
     "name": "台大綜合體育館",
     "roomName": "主場館",
     "venueType": "運動場地",
@@ -5150,7 +5099,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 127,
+    "id": 126,
     "name": "台北小巨蛋",
     "venueType": "體育場地",
     "roomName": "主場館",
@@ -5188,7 +5137,7 @@
     "collectedToday": true
   },
   {
-    "id": 128,
+    "id": 127,
     "name": "社會創新實驗中心",
     "roomName": "共享大廳",
     "venueType": "會議場地",
@@ -5214,7 +5163,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 129,
+    "id": 128,
     "name": "CLBC大安商務中心",
     "venueType": "商務場地",
     "roomName": "共同工作空間",
@@ -5252,7 +5201,7 @@
     "collectedToday": true
   },
   {
-    "id": 130,
+    "id": 129,
     "name": "復興美學共享空間",
     "roomName": "多功能廳",
     "venueType": "會議場地",
@@ -5278,7 +5227,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 131,
+    "id": 130,
     "name": "高雄巨蛋",
     "roomName": "主場館",
     "venueType": "運動場地",
@@ -5303,7 +5252,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 132,
+    "id": 131,
     "name": "台南市政府永華中心",
     "roomName": "多功能會議廳",
     "venueType": "機關場地",
@@ -5328,7 +5277,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 133,
+    "id": 132,
     "name": "大台南會展中心",
     "roomName": "大會堂",
     "venueType": "會議場地",
@@ -5353,7 +5302,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 134,
+    "id": 133,
     "name": "桃園會展中心",
     "roomName": "大會堂",
     "venueType": "會議場地",
@@ -5378,7 +5327,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 135,
+    "id": 134,
     "name": "台北典華",
     "roomName": "維多麗亞廳",
     "venueType": "婚宴場地",
@@ -5403,7 +5352,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 136,
+    "id": 135,
     "name": "文華東方婚宴會館",
     "roomName": "文華廳",
     "venueType": "婚宴場地",
@@ -5428,7 +5377,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 137,
+    "id": 136,
     "name": "彭園婚宴會館",
     "roomName": "台北館",
     "venueType": "婚宴場地",
@@ -5453,7 +5402,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 138,
+    "id": 137,
     "name": "青青婚宴會館",
     "roomName": "主題廳",
     "venueType": "婚宴場地",
@@ -5478,7 +5427,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 139,
+    "id": 138,
     "name": "新板民生婚宴會館",
     "roomName": "民生廳",
     "venueType": "婚宴場地",
@@ -5503,7 +5452,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 140,
+    "id": 139,
     "name": "林口福容婚宴會館",
     "roomName": "福容廳",
     "venueType": "婚宴場地",
@@ -5528,7 +5477,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 141,
+    "id": 140,
     "name": "新天地婚宴會館",
     "roomName": "旗艦館",
     "venueType": "婚宴場地",
@@ -5553,7 +5502,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 142,
+    "id": 141,
     "name": "台中金典婚宴會館",
     "roomName": "金典廳",
     "venueType": "婚宴場地",
@@ -5578,7 +5527,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 143,
+    "id": 142,
     "name": "台南維悅婚宴會館",
     "roomName": "維悅廳",
     "venueType": "婚宴場地",
@@ -5603,7 +5552,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 144,
+    "id": 143,
     "name": "桃園千葉婚宴會館",
     "roomName": "千葉廳",
     "venueType": "婚宴場地",
@@ -5628,7 +5577,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 145,
+    "id": 144,
     "name": "台北體育館",
     "roomName": "主場館",
     "venueType": "運動場地",
@@ -5653,7 +5602,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 146,
+    "id": 145,
     "name": "天母體育館",
     "roomName": "主場館",
     "venueType": "運動場地",
@@ -5678,7 +5627,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 147,
+    "id": 146,
     "name": "新北市板橋體育館",
     "roomName": "主場館",
     "venueType": "運動場地",
@@ -5703,7 +5652,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 148,
+    "id": 147,
     "name": "高雄市立體育館",
     "roomName": "主場館",
     "venueType": "運動場地",
@@ -5728,7 +5677,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 149,
+    "id": 148,
     "name": "台中市立體育館",
     "roomName": "主場館",
     "venueType": "運動場地",
@@ -5753,7 +5702,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 150,
+    "id": 149,
     "name": "典藏咖啡廳",
     "roomName": "包場空間",
     "venueType": "咖啡廳",
@@ -5779,7 +5728,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 151,
+    "id": 150,
     "name": "貳樓餐廳",
     "roomName": "包場空間",
     "venueType": "餐廳",
@@ -5805,7 +5754,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 152,
+    "id": 151,
     "name": "Goodmans咖啡廳",
     "roomName": "包場空間",
     "venueType": "咖啡廳",
@@ -5831,7 +5780,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 153,
+    "id": 152,
     "name": "CAMA咖啡",
     "roomName": "包場空間",
     "venueType": "咖啡廳",
@@ -5857,7 +5806,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 154,
+    "id": 153,
     "name": "Simple Kaffa",
     "roomName": "包場空間",
     "venueType": "咖啡廳",
@@ -5883,7 +5832,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 155,
+    "id": 154,
     "name": "台大校友會館",
     "roomName": "會議廳",
     "venueType": "會議場地",
@@ -5908,7 +5857,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 156,
+    "id": 155,
     "name": "政大公企中心",
     "roomName": "會議室",
     "venueType": "會議場地",
@@ -5933,7 +5882,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 157,
+    "id": 156,
     "name": "師大進修推廣學院",
     "roomName": "演講廳",
     "venueType": "會議場地",
@@ -5958,7 +5907,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 158,
+    "id": 157,
     "name": "北科大創新育成中心",
     "roomName": "會議室",
     "venueType": "會議場地",
@@ -5983,7 +5932,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 159,
+    "id": 158,
     "name": "WeWork共享空間",
     "roomName": "會議室",
     "venueType": "會議場地",
@@ -6009,7 +5958,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 160,
+    "id": 159,
     "name": "The Executive Centre",
     "roomName": "會議室",
     "venueType": "會議場地",
@@ -6035,7 +5984,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 161,
+    "id": 160,
     "name": "Regus商務中心",
     "roomName": "會議室",
     "venueType": "會議場地",
@@ -6061,7 +6010,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 162,
+    "id": 161,
     "name": "國際會議中心(TICC)",
     "roomName": "201會議室",
     "venueType": "會議場地",
@@ -6086,7 +6035,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 163,
+    "id": 162,
     "name": "集思台大會議中心",
     "roomName": "國際會議廳",
     "venueType": "會議場地",
@@ -6111,7 +6060,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 164,
+    "id": 163,
     "name": "張榮發基金會國際會議中心",
     "roomName": "國際會議廳",
     "venueType": "會議場地",
@@ -6136,7 +6085,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 165,
+    "id": 164,
     "name": "公務人力發展學院",
     "roomName": "國際會議廳",
     "venueType": "會議場地",
@@ -6161,7 +6110,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 166,
+    "id": 165,
     "name": "澎湖福朋喜來登酒店",
     "roomName": "福朋廳",
     "venueType": "飯店場地",
@@ -6186,7 +6135,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 167,
+    "id": 166,
     "name": "金門金湖飯店",
     "roomName": "金湖廳",
     "venueType": "飯店場地",
@@ -6211,7 +6160,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 168,
+    "id": 167,
     "name": "馬祖日光海岸海景旅店",
     "roomName": "會議室",
     "venueType": "飯店場地",
@@ -6236,7 +6185,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 169,
+    "id": 168,
     "name": "苗栗尚順君樂大飯店",
     "roomName": "宴會廳",
     "venueType": "飯店場地",
@@ -6261,7 +6210,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 170,
+    "id": 169,
     "name": "彰化桂冠歐悅酒店",
     "roomName": "宴會廳",
     "venueType": "飯店場地",
@@ -6286,7 +6235,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 171,
+    "id": 170,
     "name": "南投溪頭米堤大飯店",
     "roomName": "宴會廳",
     "venueType": "飯店場地",
@@ -6311,7 +6260,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 172,
+    "id": 171,
     "name": "南投涵碧樓大飯店",
     "roomName": "宴會廳",
     "venueType": "飯店場地",
@@ -6336,7 +6285,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 173,
+    "id": 172,
     "name": "台中日航酒店",
     "roomName": "日航廳",
     "venueType": "飯店場地",
@@ -6361,7 +6310,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 174,
+    "id": 173,
     "name": "逢甲大學中科校區",
     "roomName": "國際會議廳",
     "venueType": "會議場地",
@@ -6386,7 +6335,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 175,
+    "id": 174,
     "name": "東海大學茂榜廳",
     "roomName": "茂榜廳",
     "venueType": "會議場地",
@@ -6411,7 +6360,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 176,
+    "id": 175,
     "name": "台中市政府",
     "roomName": "台灣大道市政大樓會議廳",
     "venueType": "機關場地",
@@ -6436,7 +6385,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 177,
+    "id": 176,
     "name": "台南遠東香格里拉",
     "roomName": "大宴會廳",
     "venueType": "飯店場地",
@@ -6461,7 +6410,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 178,
+    "id": 177,
     "name": "大億國際會議中心",
     "roomName": "會議廳",
     "venueType": "會議場地",
@@ -6486,7 +6435,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 179,
+    "id": 178,
     "name": "成大國際會議中心",
     "roomName": "第一會議廳",
     "venueType": "會議場地",
@@ -6511,7 +6460,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 180,
+    "id": 179,
     "name": "高雄英迪格酒店",
     "roomName": "宴會廳",
     "venueType": "飯店場地",
@@ -6536,7 +6485,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 181,
+    "id": 180,
     "name": "高雄承億酒店",
     "roomName": "宴會廳",
     "venueType": "飯店場地",
@@ -6561,7 +6510,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 182,
+    "id": 181,
     "name": "駁二藝術特區",
     "roomName": "大義倉庫",
     "venueType": "展演場地",
@@ -6586,7 +6535,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 183,
+    "id": 182,
     "name": "高雄市立美術館",
     "venueType": "展覽場地",
     "roomName": "藝術展覽",
@@ -6624,7 +6573,7 @@
     "collectedToday": true
   },
   {
-    "id": 184,
+    "id": 183,
     "name": "大東文化藝術中心",
     "roomName": "展覽廳",
     "venueType": "展演場地",
@@ -6649,7 +6598,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 185,
+    "id": 184,
     "name": "衛武營國家藝術文化中心",
     "roomName": "戲劇院",
     "venueType": "展演場地",
@@ -6674,7 +6623,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 186,
+    "id": 185,
     "name": "夢時代購物中心",
     "roomName": "時代會館",
     "venueType": "會議場地",
@@ -6699,7 +6648,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 187,
+    "id": 186,
     "name": "義大天悅飯店",
     "roomName": "天悅廳",
     "venueType": "飯店場地",
@@ -6724,7 +6673,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 188,
+    "id": 187,
     "name": "新竹生活美學館",
     "roomName": "演藝廳",
     "venueType": "展演場地",
@@ -6749,7 +6698,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 189,
+    "id": 188,
     "name": "新竹縣政府文化局",
     "roomName": "演藝廳",
     "venueType": "展演場地",
@@ -6774,7 +6723,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 190,
+    "id": 189,
     "name": "清華大學國際會議廳",
     "roomName": "蘇格貓底",
     "venueType": "會議場地",
@@ -6799,7 +6748,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 191,
+    "id": 190,
     "name": "交通大學國際會議廳",
     "roomName": "浩然圖書館",
     "venueType": "會議場地",
@@ -6824,7 +6773,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 192,
+    "id": 191,
     "name": "桃園尊爵天際大飯店",
     "roomName": "天際廳",
     "venueType": "飯店場地",
@@ -6849,7 +6798,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 193,
+    "id": 192,
     "name": "桃園古華花園飯店",
     "roomName": "古華廳",
     "venueType": "飯店場地",
@@ -6874,7 +6823,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 194,
+    "id": 193,
     "name": "桃園南方莊園度假飯店",
     "roomName": "莊園廳",
     "venueType": "飯店場地",
@@ -6899,7 +6848,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 195,
+    "id": 194,
     "name": "桃園大溪威斯汀度假酒店",
     "roomName": "威斯汀廳",
     "venueType": "飯店場地",
@@ -6924,7 +6873,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 196,
+    "id": 195,
     "name": "中原大學活動中心",
     "roomName": "演藝廳",
     "venueType": "會議場地",
@@ -6949,7 +6898,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 197,
+    "id": 196,
     "name": "中央大學文學院",
     "roomName": "國際會議廳",
     "venueType": "會議場地",
@@ -6974,7 +6923,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 198,
+    "id": 197,
     "name": "墾丁悠活渡假村",
     "roomName": "悠活廳",
     "venueType": "飯店場地",
@@ -6999,7 +6948,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 199,
+    "id": 198,
     "name": "小琉球大飯店",
     "roomName": "宴會廳",
     "venueType": "飯店場地",
@@ -7024,7 +6973,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 200,
+    "id": 199,
     "name": "宜蘭長榮鳳凰酒店",
     "roomName": "鳳凰廳",
     "venueType": "飯店場地",
@@ -7049,7 +6998,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 201,
+    "id": 200,
     "name": "宜蘭力麗威斯汀度假酒店",
     "roomName": "威斯汀廳",
     "venueType": "飯店場地",
@@ -7074,7 +7023,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 202,
+    "id": 201,
     "name": "宜蘭傳藝老爺行旅",
     "roomName": "傳藝廳",
     "venueType": "飯店場地",
@@ -7099,7 +7048,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 203,
+    "id": 202,
     "name": "花蓮太魯閣晶英酒店",
     "roomName": "晶英廳",
     "venueType": "飯店場地",
@@ -7124,7 +7073,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 204,
+    "id": 203,
     "name": "花蓮理想大地渡假飯店",
     "roomName": "理想廳",
     "venueType": "飯店場地",
@@ -7149,7 +7098,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 205,
+    "id": 204,
     "name": "台東豐泰大飯店",
     "roomName": "宴會廳",
     "venueType": "飯店場地",
@@ -7174,7 +7123,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 206,
+    "id": 205,
     "name": "綠島朝日溫泉度假村",
     "roomName": "會議室",
     "venueType": "飯店場地",
@@ -7199,7 +7148,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 207,
+    "id": 206,
     "name": "蘭嶼別館",
     "roomName": "會議室",
     "venueType": "飯店場地",
@@ -7224,7 +7173,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 208,
+    "id": 207,
     "name": "基隆華國大飯店",
     "roomName": "華國廳",
     "venueType": "飯店場地",
@@ -7249,7 +7198,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 209,
+    "id": 208,
     "name": "嘉義鈺通大飯店",
     "roomName": "鈺通廳",
     "venueType": "飯店場地",
@@ -7274,7 +7223,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 210,
+    "id": 209,
     "name": "苗栗香格里拉樂園",
     "roomName": "宴會廳",
     "venueType": "展演場地",
@@ -7299,7 +7248,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 211,
+    "id": 210,
     "name": "苗栗西湖渡假村",
     "roomName": "西湖廳",
     "venueType": "飯店場地",
@@ -7324,7 +7273,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 212,
+    "id": 211,
     "name": "南投九族文化村",
     "roomName": "水沙連會議廳",
     "venueType": "展演場地",
@@ -7349,7 +7298,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 213,
+    "id": 212,
     "name": "彰化鹿港天后宮",
     "roomName": "會議室",
     "venueType": "機關場地",
@@ -7374,7 +7323,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 214,
+    "id": 213,
     "name": "台北W飯店",
     "roomName": "WOW廳",
     "venueType": "飯店場地",
@@ -7399,7 +7348,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 215,
+    "id": 214,
     "name": "新北板橋凱撒大飯店",
     "roomName": "凱撒廳",
     "venueType": "飯店場地",
@@ -7424,7 +7373,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 216,
+    "id": 215,
     "name": "新北福容大飯店淡水漁人碼頭",
     "roomName": "福容廳",
     "venueType": "飯店場地",
@@ -7449,7 +7398,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 217,
+    "id": 216,
     "name": "新北海天地大飯店",
     "roomName": "海天地廳",
     "venueType": "飯店場地",
@@ -7474,7 +7423,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 218,
+    "id": 217,
     "name": "新北萬里翡翠灣福華渡假飯店",
     "roomName": "福華廳",
     "venueType": "飯店場地",
@@ -7499,7 +7448,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 219,
+    "id": 218,
     "name": "新北三重福朋喜來登酒店",
     "roomName": "福朋廳",
     "venueType": "飯店場地",
@@ -7524,7 +7473,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 220,
+    "id": 219,
     "name": "台中裕元花園酒店",
     "roomName": "裕元廳",
     "venueType": "飯店場地",
@@ -7549,7 +7498,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 221,
+    "id": 220,
     "name": "台中永豐棧酒店",
     "roomName": "永豐棧廳",
     "venueType": "飯店場地",
@@ -7574,7 +7523,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 222,
+    "id": 221,
     "name": "台中通豪大飯店",
     "roomName": "通豪廳",
     "venueType": "飯店場地",
@@ -7599,7 +7548,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 223,
+    "id": 222,
     "name": "台南和逸飯店",
     "roomName": "和逸廳",
     "venueType": "飯店場地",
@@ -7624,7 +7573,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 224,
+    "id": 223,
     "name": "台南桂田酒店",
     "roomName": "桂田廳",
     "venueType": "飯店場地",
@@ -7649,7 +7598,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 225,
+    "id": 224,
     "name": "高雄翰皇酒店",
     "roomName": "翰皇廳",
     "venueType": "飯店場地",
@@ -7674,7 +7623,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 226,
+    "id": 225,
     "name": "高雄城市商旅",
     "roomName": "城市廳",
     "venueType": "飯店場地",
@@ -7699,7 +7648,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 227,
+    "id": 226,
     "name": "高雄捷絲旅酒店",
     "roomName": "捷絲旅廳",
     "venueType": "飯店場地",
@@ -7724,7 +7673,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 228,
+    "id": 227,
     "name": "高雄比歐緻飯店",
     "roomName": "比歐廳",
     "venueType": "飯店場地",
@@ -7749,7 +7698,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 229,
+    "id": 228,
     "name": "高雄秝芯旅館",
     "roomName": "會議室",
     "venueType": "飯店場地",
@@ -7774,7 +7723,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 230,
+    "id": 229,
     "name": "宜蘭晶英酒店",
     "roomName": "晶英廳",
     "venueType": "飯店場地",
@@ -7799,7 +7748,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 231,
+    "id": 230,
     "name": "台北花園大酒店",
     "roomName": "花園廳",
     "venueType": "飯店場地",
@@ -7824,7 +7773,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 232,
+    "id": 231,
     "name": "台北商務會館",
     "roomName": "會議廳",
     "venueType": "會議場地",
@@ -7849,32 +7798,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 233,
-    "name": "台北國際會議中心TICC",
-    "roomName": "102會議室",
-    "venueType": "會議場地",
-    "type": "會議中心",
-    "city": "台北市",
-    "address": "台北市信義區信義路五段1號",
-    "contactPerson": "場地租借",
-    "contactPhone": "02-27255200",
-    "contactEmail": "venue@ticc.com.tw",
-    "priceHalfDay": 12000,
-    "priceFullDay": 22000,
-    "maxCapacityTheater": 150,
-    "maxCapacityClassroom": 90,
-    "availableTimeWeekday": "08:00-22:00",
-    "availableTimeWeekend": "08:00-22:00",
-    "equipment": "專業投影設備、音響",
-    "images": {
-      "main": "https://www.ticc.com.tw/wSite/xslgip/style1/images/ticc/img-hero.jpg"
-    },
-    "url": "https://www.ticc.com.tw",
-    "verified": true,
-    "verifiedAt": "2026-02-27"
-  },
-  {
-    "id": 234,
+    "id": 232,
     "name": "台北松意酒店",
     "roomName": "松意廳",
     "venueType": "飯店場地",
@@ -7899,7 +7823,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 235,
+    "id": 233,
     "name": "台北統一大飯店",
     "roomName": "統一廳",
     "venueType": "飯店場地",
@@ -7924,7 +7848,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 236,
+    "id": 234,
     "name": "台北喜瑞飯店",
     "roomName": "喜瑞廳",
     "venueType": "飯店場地",
@@ -7949,7 +7873,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 237,
+    "id": 235,
     "name": "台北姿美大飯店",
     "roomName": "姿美廳",
     "venueType": "飯店場地",
@@ -7974,7 +7898,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 238,
+    "id": 236,
     "name": "台北第一酒店",
     "roomName": "第一廳",
     "venueType": "飯店場地",
@@ -7999,7 +7923,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 239,
+    "id": 237,
     "name": "台北兄弟大飯店",
     "roomName": "兄弟廳",
     "venueType": "飯店場地",
@@ -8024,7 +7948,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 240,
+    "id": 238,
     "name": "台北六福客棧",
     "roomName": "六福廳",
     "venueType": "飯店場地",
@@ -8049,7 +7973,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 241,
+    "id": 239,
     "name": "台北康華大飯店",
     "roomName": "康華廳",
     "venueType": "飯店場地",
@@ -8074,7 +7998,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 242,
+    "id": 240,
     "name": "台北華國大飯店",
     "roomName": "華國廳",
     "venueType": "飯店場地",
@@ -8099,7 +8023,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 243,
+    "id": 241,
     "name": "台北慶泰大飯店",
     "roomName": "慶泰廳",
     "venueType": "飯店場地",
@@ -8124,7 +8048,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 244,
+    "id": 242,
     "name": "台北友春大飯店",
     "roomName": "友春廳",
     "venueType": "飯店場地",
@@ -8149,7 +8073,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 245,
+    "id": 243,
     "name": "台北一樂園大飯店",
     "roomName": "一樂園廳",
     "venueType": "飯店場地",
@@ -8174,7 +8098,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 246,
+    "id": 244,
     "name": "新北板橋瀚品酒店",
     "roomName": "瀚品廳",
     "venueType": "飯店場地",
@@ -8199,7 +8123,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 247,
+    "id": 245,
     "name": "新北中和福朋喜來登",
     "roomName": "福朋廳",
     "venueType": "飯店場地",
@@ -8224,7 +8148,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 248,
+    "id": 246,
     "name": "新北新莊晶冠廣場",
     "roomName": "會議廳",
     "venueType": "會議場地",
@@ -8249,7 +8173,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 249,
+    "id": 247,
     "name": "新北土城日月光國際會議中心",
     "roomName": "會議廳",
     "venueType": "會議場地",
@@ -8274,7 +8198,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 250,
+    "id": 248,
     "name": "台中長榮桂冠酒店",
     "roomName": "桂冠廳",
     "venueType": "飯店場地",
@@ -8299,7 +8223,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 251,
+    "id": 249,
     "name": "台中福華大飯店",
     "roomName": "福華廳",
     "venueType": "飯店場地",
@@ -8324,7 +8248,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 252,
+    "id": 250,
     "name": "台南維悅酒店",
     "roomName": "維悅廳",
     "venueType": "飯店場地",
@@ -8349,7 +8273,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 253,
+    "id": 251,
     "name": "台南天下大飯店",
     "roomName": "天下廳",
     "venueType": "飯店場地",
@@ -8374,7 +8298,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 254,
+    "id": 252,
     "name": "台南太子大飯店",
     "roomName": "太子廳",
     "venueType": "飯店場地",
@@ -8399,7 +8323,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 255,
+    "id": 253,
     "name": "台南劍橋大飯店",
     "roomName": "劍橋廳",
     "venueType": "飯店場地",
@@ -8424,7 +8348,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 256,
+    "id": 254,
     "name": "高雄義大皇冠假日酒店",
     "roomName": "皇冠廳",
     "venueType": "飯店場地",
@@ -8449,7 +8373,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 257,
+    "id": 255,
     "name": "高雄人承大飯店",
     "roomName": "人承廳",
     "venueType": "飯店場地",
@@ -8474,7 +8398,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 258,
+    "id": 256,
     "name": "高雄華王大飯店",
     "roomName": "華王廳",
     "venueType": "飯店場地",
@@ -8499,7 +8423,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 259,
+    "id": 257,
     "name": "屏東墾丁福華渡假飯店",
     "roomName": "福華廳",
     "venueType": "飯店場地",
@@ -8524,7 +8448,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 260,
+    "id": 258,
     "name": "屏東墾丁凱撒大飯店",
     "roomName": "凱撒廳",
     "venueType": "飯店場地",
@@ -8549,7 +8473,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 261,
+    "id": 259,
     "name": "屏東墾丁夏都沙灘酒店",
     "roomName": "夏都廳",
     "venueType": "飯店場地",
@@ -8574,7 +8498,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 262,
+    "id": 260,
     "name": "屏東墾丁悠活渡假村",
     "roomName": "悠活廳",
     "venueType": "飯店場地",
@@ -8599,7 +8523,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 263,
+    "id": 261,
     "name": "花蓮理想大地度假酒店",
     "roomName": "理想廳",
     "venueType": "飯店場地",
@@ -8624,7 +8548,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 264,
+    "id": 262,
     "name": "澎湖澄舍會館",
     "roomName": "會議室",
     "venueType": "會議場地",
@@ -8649,7 +8573,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 265,
+    "id": 263,
     "name": "金門金城鎮公所",
     "roomName": "會議廳",
     "venueType": "機關場地",
@@ -8674,7 +8598,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 266,
+    "id": 264,
     "name": "馬祖南竿福沃大飯店",
     "roomName": "會議室",
     "venueType": "飯店場地",
@@ -8699,7 +8623,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 267,
+    "id": 265,
     "name": "馬祖北竿芹壁民宿村",
     "roomName": "會議室",
     "venueType": "飯店場地",
@@ -8724,7 +8648,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 268,
+    "id": 266,
     "name": "南投溪頭妖怪主題飯店",
     "roomName": "妖怪廳",
     "venueType": "飯店場地",
@@ -8749,7 +8673,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 269,
+    "id": 267,
     "name": "南投清境農場國民賓館",
     "roomName": "會議廳",
     "venueType": "機關場地",
@@ -8774,7 +8698,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 270,
+    "id": 268,
     "name": "彰化鹿港茂迪太陽能會館",
     "roomName": "會議廳",
     "venueType": "會議場地",
@@ -8799,7 +8723,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 271,
+    "id": 269,
     "name": "彰化秀傳紀念醫院",
     "roomName": "國際會議廳",
     "venueType": "會議場地",
@@ -8824,7 +8748,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 272,
+    "id": 270,
     "name": "雲林虎尾科技大學",
     "roomName": "國際會議廳",
     "venueType": "會議場地",
@@ -8849,7 +8773,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 273,
+    "id": 271,
     "name": "嘉義中正大學",
     "roomName": "國際會議廳",
     "venueType": "會議場地",
@@ -8874,7 +8798,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 274,
+    "id": 272,
     "name": "台北圓山大飯店",
     "roomName": "大宴會廳",
     "venueType": "飯店場地",
@@ -8899,7 +8823,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 275,
+    "id": 273,
     "name": "台北陽明山中國麗緻大飯店",
     "roomName": "麗緻廳",
     "venueType": "飯店場地",
@@ -8924,7 +8848,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 276,
+    "id": 274,
     "name": "台北唯客樂文旅",
     "roomName": "會議廳",
     "venueType": "會議場地",
@@ -8949,7 +8873,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 277,
+    "id": 275,
     "name": "台北意舍酒店",
     "roomName": "意舍廳",
     "venueType": "飯店場地",
@@ -8974,7 +8898,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 278,
+    "id": 276,
     "name": "新北板橋凱薩帝苑婚宴會館",
     "roomName": "凱薩廳",
     "venueType": "婚宴場地",
@@ -8999,7 +8923,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 279,
+    "id": 277,
     "name": "新北三重金陵婚宴會館",
     "roomName": "金陵廳",
     "venueType": "婚宴場地",
@@ -9024,7 +8948,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 280,
+    "id": 278,
     "name": "台南香格里拉遠東",
     "roomName": "遠東廳",
     "venueType": "飯店場地",
@@ -9049,7 +8973,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 281,
+    "id": 279,
     "name": "台北神旺大飯店",
     "roomName": "旺廳",
     "venueType": "飯店場地",
@@ -9074,7 +8998,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 282,
+    "id": 280,
     "name": "台北第一大飯店",
     "roomName": "第一廳",
     "venueType": "飯店場地",
@@ -9099,7 +9023,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 283,
+    "id": 281,
     "name": "台北華泰瑞舍",
     "roomName": "瑞舍廳",
     "venueType": "飯店場地",
@@ -9124,7 +9048,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 284,
+    "id": 282,
     "name": "台北洛碁大飯店",
     "roomName": "洛碁廳",
     "venueType": "飯店場地",
@@ -9149,7 +9073,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 285,
+    "id": 283,
     "name": "台北德立莊酒店",
     "roomName": "德立莊廳",
     "venueType": "飯店場地",
@@ -9174,7 +9098,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 286,
+    "id": 284,
     "name": "台北八方美學商旅",
     "roomName": "會議廳",
     "venueType": "會議場地",
@@ -9199,7 +9123,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 287,
+    "id": 285,
     "name": "台北丹迪旅店",
     "roomName": "會議室",
     "venueType": "會議場地",
@@ -9224,7 +9148,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 288,
+    "id": 286,
     "name": "新北土城承天禪寺",
     "roomName": "會議室",
     "venueType": "機關場地",
@@ -9249,7 +9173,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 289,
+    "id": 287,
     "name": "新北三峽老街活動中心",
     "roomName": "會議廳",
     "venueType": "機關場地",
@@ -9274,7 +9198,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 290,
+    "id": 288,
     "name": "桃園大園國際會議中心",
     "roomName": "會議廳",
     "venueType": "會議場地",
@@ -9299,7 +9223,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 291,
+    "id": 289,
     "name": "桃園中壢藝術館",
     "roomName": "演藝廳",
     "venueType": "展演場地",
@@ -9324,7 +9248,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 292,
+    "id": 290,
     "name": "新竹科學園區活動中心",
     "roomName": "國際會議廳",
     "venueType": "會議場地",
@@ -9349,7 +9273,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 293,
+    "id": 291,
     "name": "新竹玻璃工藝博物館",
     "roomName": "會議廳",
     "venueType": "展演場地",
@@ -9374,7 +9298,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 294,
+    "id": 292,
     "name": "苗栗頭份鎮民活動中心",
     "roomName": "會議廳",
     "venueType": "機關場地",
@@ -9399,7 +9323,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 295,
+    "id": 293,
     "name": "苗栗通霄拱天宮",
     "roomName": "會議室",
     "venueType": "機關場地",
@@ -9424,7 +9348,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 296,
+    "id": 294,
     "name": "台中中港大飯店",
     "roomName": "中港廳",
     "venueType": "飯店場地",
@@ -9449,7 +9373,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 297,
+    "id": 295,
     "name": "台中麒麟大飯店",
     "roomName": "麒麟廳",
     "venueType": "飯店場地",
@@ -9474,7 +9398,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 298,
+    "id": 296,
     "name": "台中全国大飯店",
     "roomName": "全国廳",
     "venueType": "飯店場地",
@@ -9499,7 +9423,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 299,
+    "id": 297,
     "name": "台中誠品生活480",
     "roomName": "會議廳",
     "venueType": "會議場地",
@@ -9524,7 +9448,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 300,
+    "id": 298,
     "name": "彰化建國科技大學",
     "roomName": "國際會議廳",
     "venueType": "會議場地",
@@ -9549,7 +9473,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 301,
+    "id": 299,
     "name": "彰化大葉大學",
     "roomName": "國際會議廳",
     "venueType": "會議場地",
@@ -9574,7 +9498,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 302,
+    "id": 300,
     "name": "南投埔里鎮立圖書館",
     "roomName": "演講廳",
     "venueType": "機關場地",
@@ -9599,7 +9523,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 303,
+    "id": 301,
     "name": "南投竹山紫南宮",
     "roomName": "會議室",
     "venueType": "機關場地",
@@ -9624,7 +9548,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 304,
+    "id": 302,
     "name": "雲林斗六市立圖書館",
     "roomName": "演講廳",
     "venueType": "機關場地",
@@ -9649,7 +9573,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 305,
+    "id": 303,
     "name": "嘉義市立博物館",
     "roomName": "演講廳",
     "venueType": "展演場地",
@@ -9674,7 +9598,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 306,
+    "id": 304,
     "name": "台南成大會館",
     "roomName": "會議廳",
     "venueType": "會議場地",
@@ -9699,7 +9623,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 307,
+    "id": 305,
     "name": "台南南門勞工育樂中心",
     "roomName": "會議廳",
     "venueType": "機關場地",
@@ -9724,7 +9648,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 308,
+    "id": 306,
     "name": "高雄科學工藝博物館",
     "roomName": "演講廳",
     "venueType": "展演場地",
@@ -9749,7 +9673,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 309,
+    "id": 307,
     "name": "高雄市立社會教育館",
     "roomName": "演藝廳",
     "venueType": "展演場地",
@@ -9774,7 +9698,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 310,
+    "id": 308,
     "name": "屏東縣立體育館",
     "roomName": "副場館",
     "venueType": "運動場地",
@@ -9799,7 +9723,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 311,
+    "id": 309,
     "name": "宜蘭傳藝中心",
     "venueType": "文化場地",
     "roomName": "會議室",
@@ -9837,7 +9761,7 @@
     "collectedToday": true
   },
   {
-    "id": 312,
+    "id": 310,
     "name": "台北內湖運動中心",
     "roomName": "韻律教室",
     "venueType": "運動場地",
@@ -9863,7 +9787,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 313,
+    "id": 311,
     "name": "台北信義運動中心",
     "roomName": "會議室",
     "venueType": "運動場地",
@@ -9889,7 +9813,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 314,
+    "id": 312,
     "name": "台北中山運動中心",
     "roomName": "韻律教室",
     "venueType": "運動場地",
@@ -9915,7 +9839,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 315,
+    "id": 313,
     "name": "新北三重綜合運動場",
     "roomName": "會議室",
     "venueType": "運動場地",
@@ -9941,7 +9865,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 316,
+    "id": 314,
     "name": "新北新莊體育館",
     "roomName": "會議室",
     "venueType": "運動場地",
@@ -9967,7 +9891,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 317,
+    "id": 315,
     "name": "桃園藝文廣場",
     "roomName": "展演中心",
     "venueType": "展演場地",
@@ -9992,7 +9916,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 318,
+    "id": 316,
     "name": "新竹縣體育場",
     "roomName": "體育館",
     "venueType": "運動場地",
@@ -10017,7 +9941,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 319,
+    "id": 317,
     "name": "苗栗縣立體育場",
     "roomName": "體育館",
     "venueType": "運動場地",
@@ -10042,7 +9966,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 320,
+    "id": 318,
     "name": "台中港區藝術中心",
     "roomName": "演藝廳",
     "venueType": "展演場地",
@@ -10067,7 +9991,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 321,
+    "id": 319,
     "name": "台中文心森林公園圓滿戶外劇場",
     "roomName": "圓滿劇場",
     "venueType": "展演場地",
@@ -10092,7 +10016,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 322,
+    "id": 320,
     "name": "彰化縣立體育館",
     "roomName": "主場館",
     "venueType": "運動場地",
@@ -10117,7 +10041,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 323,
+    "id": 321,
     "name": "南投縣立體育場",
     "roomName": "體育館",
     "venueType": "運動場地",
@@ -10142,7 +10066,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 324,
+    "id": 322,
     "name": "雲林縣立體育館",
     "roomName": "主場館",
     "venueType": "運動場地",
@@ -10167,7 +10091,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 325,
+    "id": 323,
     "name": "嘉義縣立體育館",
     "roomName": "主場館",
     "venueType": "運動場地",
@@ -10192,7 +10116,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 326,
+    "id": 324,
     "name": "台南市立體育館",
     "roomName": "主場館",
     "venueType": "運動場地",
@@ -10217,7 +10141,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 327,
+    "id": 325,
     "name": "宜蘭縣立體育館",
     "roomName": "主場館",
     "venueType": "運動場地",
@@ -10242,7 +10166,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 328,
+    "id": 326,
     "name": "花蓮縣立體育館",
     "roomName": "主場館",
     "venueType": "運動場地",
@@ -10267,7 +10191,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 329,
+    "id": 327,
     "name": "台東縣立體育館",
     "roomName": "主場館",
     "venueType": "運動場地",
@@ -10292,7 +10216,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 330,
+    "id": 328,
     "name": "澎湖縣立體育館",
     "roomName": "主場館",
     "venueType": "運動場地",
@@ -10317,7 +10241,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 331,
+    "id": 329,
     "name": "金門縣立體育館",
     "roomName": "主場館",
     "venueType": "運動場地",
@@ -10342,7 +10266,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 332,
+    "id": 330,
     "name": "連江縣立體育館",
     "roomName": "主場館",
     "venueType": "運動場地",
@@ -10367,7 +10291,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 333,
+    "id": 331,
     "name": "台北北投會館",
     "roomName": "會議廳",
     "venueType": "會議場地",
@@ -10392,7 +10316,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 334,
+    "id": 332,
     "name": "新北淡水文化園區",
     "roomName": "展覽廳",
     "venueType": "展演場地",
@@ -10417,7 +10341,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 335,
+    "id": 333,
     "name": "桃園孔廟暨忠烈祠",
     "roomName": "會議室",
     "venueType": "機關場地",
@@ -10442,7 +10366,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 336,
+    "id": 334,
     "name": "新竹市立演藝廳",
     "roomName": "演藝廳",
     "venueType": "展演場地",
@@ -10467,7 +10391,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 337,
+    "id": 335,
     "name": "苗栗文化局中正堂",
     "roomName": "演藝廳",
     "venueType": "展演場地",
@@ -10492,7 +10416,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 338,
+    "id": 336,
     "name": "彰化縣立文化局",
     "roomName": "演藝廳",
     "venueType": "展演場地",
@@ -10517,7 +10441,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 339,
+    "id": 337,
     "name": "南投縣立文化中心",
     "roomName": "演藝廳",
     "venueType": "展演場地",
@@ -10542,7 +10466,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 340,
+    "id": 338,
     "name": "雲林縣文化中心",
     "roomName": "演藝廳",
     "venueType": "展演場地",
@@ -10567,7 +10491,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 341,
+    "id": 339,
     "name": "宜蘭縣文化中心",
     "roomName": "演藝廳",
     "venueType": "展演場地",
@@ -10592,7 +10516,7 @@
     "verifiedAt": "2026-02-27"
   },
   {
-    "id": 342,
+    "id": 340,
     "name": "臺東縣政府文化處",
     "venueType": "政府場地",
     "roomName": "文化活動",
@@ -10630,7 +10554,7 @@
     "collectedToday": true
   },
   {
-    "id": 343,
+    "id": 341,
     "name": "福容大飯店",
     "venueType": "飯店場地",
     "roomName": "全台19家分店",
@@ -10668,7 +10592,7 @@
     "collectedToday": true
   },
   {
-    "id": 344,
+    "id": 342,
     "name": "國家表演藝術中心",
     "venueType": "表演場地",
     "roomName": "會議室",
@@ -10706,7 +10630,7 @@
     "collectedToday": true
   },
   {
-    "id": 345,
+    "id": 343,
     "name": "台北遠東香格里拉酒店",
     "venueType": "飯店場地",
     "roomName": "五星級",
@@ -10744,7 +10668,7 @@
     "collectedToday": true
   },
   {
-    "id": 346,
+    "id": 344,
     "name": "國立臺灣大學",
     "venueType": "學術場地",
     "roomName": "會議中心",
@@ -10782,7 +10706,7 @@
     "collectedToday": true
   },
   {
-    "id": 347,
+    "id": 345,
     "name": "國立政治大學",
     "venueType": "學術場地",
     "roomName": "會議中心",
@@ -10820,7 +10744,7 @@
     "collectedToday": true
   },
   {
-    "id": 348,
+    "id": 346,
     "name": "國立清華大學",
     "venueType": "學術場地",
     "roomName": "會議中心",
@@ -10858,7 +10782,7 @@
     "collectedToday": true
   },
   {
-    "id": 349,
+    "id": 347,
     "name": "國立成功大學",
     "venueType": "學術場地",
     "roomName": "會議中心",
@@ -10896,7 +10820,7 @@
     "collectedToday": true
   },
   {
-    "id": 350,
+    "id": 348,
     "name": "國立臺灣科技大學",
     "venueType": "學術場地",
     "roomName": "會議中心",
@@ -10934,7 +10858,7 @@
     "collectedToday": true
   },
   {
-    "id": 351,
+    "id": 349,
     "name": "工業技術研究院",
     "venueType": "學術場地",
     "roomName": "會議中心",
@@ -10972,7 +10896,7 @@
     "collectedToday": true
   },
   {
-    "id": 352,
+    "id": 350,
     "name": "中央研究院",
     "venueType": "學術場地",
     "roomName": "會議中心",
@@ -11010,7 +10934,7 @@
     "collectedToday": true
   },
   {
-    "id": 353,
+    "id": 351,
     "name": "國立臺灣師範大學",
     "venueType": "學術場地",
     "roomName": "會議中心",
@@ -11048,7 +10972,7 @@
     "collectedToday": true
   },
   {
-    "id": 354,
+    "id": 352,
     "name": "逢甲大學",
     "venueType": "學術場地",
     "roomName": "會議中心",
@@ -11086,7 +11010,7 @@
     "collectedToday": true
   },
   {
-    "id": 355,
+    "id": 353,
     "name": "朝陽科技大學",
     "venueType": "學術場地",
     "roomName": "會議中心",
@@ -11124,7 +11048,7 @@
     "collectedToday": true
   },
   {
-    "id": 356,
+    "id": 354,
     "name": "義守大學",
     "venueType": "學術場地",
     "roomName": "會議中心",
@@ -11162,7 +11086,7 @@
     "collectedToday": true
   },
   {
-    "id": 357,
+    "id": 355,
     "name": "國立中山大學",
     "venueType": "學術場地",
     "roomName": "會議中心",
@@ -11200,7 +11124,7 @@
     "collectedToday": true
   },
   {
-    "id": 358,
+    "id": 356,
     "name": "國立屏東大學",
     "venueType": "學術場地",
     "roomName": "會議中心",
@@ -11238,7 +11162,7 @@
     "collectedToday": true
   },
   {
-    "id": 359,
+    "id": 357,
     "name": "中國文化大學",
     "venueType": "學術場地",
     "roomName": "會議中心",
@@ -11276,7 +11200,7 @@
     "collectedToday": true
   },
   {
-    "id": 360,
+    "id": 358,
     "name": "世新大學",
     "venueType": "學術場地",
     "roomName": "會議中心",
@@ -11314,7 +11238,7 @@
     "collectedToday": true
   },
   {
-    "id": 361,
+    "id": 359,
     "name": "大同大學",
     "venueType": "學術場地",
     "roomName": "會議中心",
@@ -11352,7 +11276,7 @@
     "collectedToday": true
   },
   {
-    "id": 362,
+    "id": 360,
     "name": "國立東華大學",
     "venueType": "學術場地",
     "roomName": "會議中心",
@@ -11390,7 +11314,7 @@
     "collectedToday": true
   },
   {
-    "id": 363,
+    "id": 361,
     "name": "國立臺東大學",
     "venueType": "學術場地",
     "roomName": "會議中心",
@@ -11428,7 +11352,7 @@
     "collectedToday": true
   },
   {
-    "id": 364,
+    "id": 362,
     "name": "國立澎湖科技大學",
     "venueType": "學術場地",
     "roomName": "會議中心",
@@ -11466,7 +11390,7 @@
     "collectedToday": true
   },
   {
-    "id": 365,
+    "id": 363,
     "name": "國立高雄師範大學",
     "venueType": "學術場地",
     "roomName": "會議中心",
@@ -11504,7 +11428,7 @@
     "collectedToday": true
   },
   {
-    "id": 366,
+    "id": 364,
     "name": "國立彰化師範大學",
     "venueType": "學術場地",
     "roomName": "會議中心",
@@ -11542,7 +11466,7 @@
     "collectedToday": true
   },
   {
-    "id": 367,
+    "id": 365,
     "name": "國立臺中教育大學",
     "venueType": "學術場地",
     "roomName": "會議中心",
@@ -11580,7 +11504,7 @@
     "collectedToday": true
   },
   {
-    "id": 368,
+    "id": 366,
     "name": "國立臺南大學",
     "venueType": "學術場地",
     "roomName": "會議中心",
@@ -11618,7 +11542,7 @@
     "collectedToday": true
   },
   {
-    "id": 369,
+    "id": 367,
     "name": "南開科技大學",
     "venueType": "學術場地",
     "roomName": "會議中心",
@@ -11656,7 +11580,7 @@
     "collectedToday": true
   },
   {
-    "id": 370,
+    "id": 368,
     "name": "南臺科技大學",
     "venueType": "學術場地",
     "roomName": "會議中心",
@@ -11694,7 +11618,7 @@
     "collectedToday": true
   },
   {
-    "id": 371,
+    "id": 369,
     "name": "國立陽明交通大學",
     "venueType": "學術場地",
     "roomName": "會議中心",
@@ -11732,7 +11656,7 @@
     "collectedToday": true
   },
   {
-    "id": 372,
+    "id": 370,
     "name": "南華大學",
     "venueType": "學術場地",
     "roomName": "會議中心",
@@ -11768,5 +11692,734 @@
     "verified": true,
     "verifiedAt": "2026-02-28T07:32:38.878Z",
     "collectedToday": true
+  },
+  {
+    "id": 371,
+    "name": "台北國際會議中心",
+    "venueType": "會議場地",
+    "roomName": "大會堂全場",
+    "type": "會議室",
+    "city": "台北市",
+    "address": "台北市信義區信義路五段1號",
+    "contactPerson": "場地租借部",
+    "contactPhone": "02-2725-5200",
+    "contactEmail": "ticc@taitra.org.tw",
+    "pricePerHour": null,
+    "priceHalfDay": 159000,
+    "priceFullDay": 170000,
+    "maxCapacityEmpty": 3100,
+    "maxCapacityTheater": 3100,
+    "maxCapacityClassroom": null,
+    "availableTimeWeekday": "08:30-12:30, 13:30-17:30, 18:30-22:30",
+    "availableTimeWeekend": "08:30-12:30, 13:30-17:30, 18:30-22:30",
+    "equipment": "專業音響系統, 舞台燈光, 大型投影設備, 同步翻譯設備",
+    "images": {
+      "main": "https://www.ticc.com.tw/wSite/xslgip/style1/images/ticc/img-hero.jpg",
+      "gallery": [],
+      "floorPlan": null
+    },
+    "layoutImageUrl": null,
+    "rentalTimeNote": "每時段價格",
+    "notes": "適合大型國際會議、展演活動",
+    "capacityCategory": "extra-large",
+    "createdAt": "2026-02-28T08:55:25.342Z",
+    "url": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/lp_PlenaryHall.jsp&ctNode=323&CtUnit=100&BaseDSD=7&mp=1",
+    "transportation": {
+      "mrt": {
+        "station": "台北101/世貿站",
+        "line": "淡水信義線",
+        "exit": "出口 1",
+        "walkingMinutes": 5
+      },
+      "bus": [
+        {
+          "stop": "世貿中心站",
+          "routes": [],
+          "walkingMinutes": 2
+        }
+      ],
+      "parking": {
+        "name": "地下停車場（付費）",
+        "spaces": null,
+        "hourlyRate": null,
+        "dailyMax": null,
+        "notes": "付費停車"
+      }
+    },
+    "dimensions": null,
+    "seatingArrangements": {
+      "theater": {
+        "capacity": 3100,
+        "description": "劇院型"
+      },
+      "classroom": {
+        "capacity": 0,
+        "description": "會議型（課桌式）"
+      },
+      "horseshoe": {
+        "capacity": 0,
+        "description": "馬蹄型（U型）"
+      }
+    },
+    "priceDisplay": "平日 159,000 元/時段 | 假日 170,000 元/時段",
+    "verified": true,
+    "verifiedAt": "2026-02-28T08:55:25.343Z",
+    "ticcRoomId": "plenary_full"
+  },
+  {
+    "id": 372,
+    "name": "台北國際會議中心",
+    "venueType": "會議場地",
+    "roomName": "大會堂半場(1-27排)",
+    "type": "會議室",
+    "city": "台北市",
+    "address": "台北市信義區信義路五段1號",
+    "contactPerson": "場地租借部",
+    "contactPhone": "02-2725-5200",
+    "contactEmail": "ticc@taitra.org.tw",
+    "pricePerHour": null,
+    "priceHalfDay": null,
+    "priceFullDay": 112000,
+    "maxCapacityEmpty": 1208,
+    "maxCapacityTheater": 1208,
+    "maxCapacityClassroom": null,
+    "availableTimeWeekday": "08:30-12:30, 13:30-17:30, 18:30-22:30",
+    "availableTimeWeekend": "08:30-12:30, 13:30-17:30, 18:30-22:30",
+    "equipment": "專業音響系統, 舞台燈光, 投影設備",
+    "images": {
+      "main": "https://www.ticc.com.tw/wSite/xslgip/style1/images/ticc/img-hero.jpg",
+      "gallery": [],
+      "floorPlan": null
+    },
+    "layoutImageUrl": null,
+    "rentalTimeNote": "每時段價格",
+    "notes": "適合中型會議",
+    "capacityCategory": "extra-large",
+    "createdAt": "2026-02-28T08:55:25.343Z",
+    "url": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/lp_PlenaryHall.jsp&ctNode=323&CtUnit=100&BaseDSD=7&mp=1",
+    "transportation": {
+      "mrt": {
+        "station": "台北101/世貿站",
+        "line": "淡水信義線",
+        "exit": "出口 1",
+        "walkingMinutes": 5
+      },
+      "bus": [
+        {
+          "stop": "世貿中心站",
+          "routes": [],
+          "walkingMinutes": 2
+        }
+      ],
+      "parking": {
+        "name": "地下停車場（付費）",
+        "spaces": null,
+        "hourlyRate": null,
+        "dailyMax": null,
+        "notes": "付費停車"
+      }
+    },
+    "dimensions": null,
+    "seatingArrangements": {
+      "theater": {
+        "capacity": 1208,
+        "description": "劇院型"
+      },
+      "classroom": {
+        "capacity": 0,
+        "description": "會議型（課桌式）"
+      },
+      "horseshoe": {
+        "capacity": 0,
+        "description": "馬蹄型（U型）"
+      }
+    },
+    "priceDisplay": "請查詢官網",
+    "verified": true,
+    "verifiedAt": "2026-02-28T08:55:25.343Z",
+    "ticcRoomId": "plenary_half"
+  },
+  {
+    "id": 373,
+    "name": "台北國際會議中心",
+    "venueType": "會議場地",
+    "roomName": "101全室",
+    "type": "會議室",
+    "city": "台北市",
+    "address": "台北市信義區信義路五段1號",
+    "contactPerson": "場地租借部",
+    "contactPhone": "02-2725-5200",
+    "contactEmail": "ticc@taitra.org.tw",
+    "pricePerHour": null,
+    "priceHalfDay": 67000,
+    "priceFullDay": 80000,
+    "maxCapacityEmpty": 720,
+    "maxCapacityTheater": 720,
+    "maxCapacityClassroom": 480,
+    "availableTimeWeekday": "08:30-12:30, 13:30-17:30, 18:30-22:30",
+    "availableTimeWeekend": "08:30-12:30, 13:30-17:30, 18:30-22:30",
+    "equipment": "投影設備, 音響系統, 麥克風系統, 白板/講台",
+    "images": {
+      "main": "https://www.ticc.com.tw/wSite/public/Img/f1748228800599.jpg",
+      "gallery": [
+        "https://www.ticc.com.tw/wSite/public/Img/f1748228806084.jpg",
+        "https://www.ticc.com.tw/wSite/public/Img/f1748228814334.jpg",
+        "https://www.ticc.com.tw/wSite/public/Img/f1765765176916.jpeg",
+        "https://www.ticc.com.tw/wSite/public/Img/f1765765195144.jpeg"
+      ],
+      "floorPlan": null
+    },
+    "layoutImageUrl": null,
+    "rentalTimeNote": "每時段價格",
+    "notes": "大型會議空間，可容納720人",
+    "capacityCategory": "extra-large",
+    "createdAt": "2026-02-28T08:55:25.343Z",
+    "url": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/cp_VenueSearch.jsp&roomId=101&ctNode=322&CtUnit=99&BaseDSD=7&mp=1",
+    "transportation": {
+      "mrt": {
+        "station": "台北101/世貿站",
+        "line": "淡水信義線",
+        "exit": "出口 1",
+        "walkingMinutes": 5
+      },
+      "bus": [
+        {
+          "stop": "世貿中心站",
+          "routes": [],
+          "walkingMinutes": 2
+        }
+      ],
+      "parking": {
+        "name": "地下停車場（付費）",
+        "spaces": null,
+        "hourlyRate": null,
+        "dailyMax": null,
+        "notes": "付費停車"
+      }
+    },
+    "dimensions": {
+      "area": 193,
+      "unit": "坪",
+      "length": 25.8,
+      "width": 25.3,
+      "height": 5.6
+    },
+    "seatingArrangements": {
+      "theater": {
+        "capacity": 720,
+        "description": "劇院型"
+      },
+      "classroom": {
+        "capacity": 480,
+        "description": "會議型（課桌式）"
+      },
+      "horseshoe": {
+        "capacity": 90,
+        "description": "馬蹄型（U型）"
+      }
+    },
+    "priceDisplay": "平日 67,000 元/時段 | 假日 80,000 元/時段",
+    "verified": true,
+    "verifiedAt": "2026-02-28T08:55:25.343Z",
+    "ticcRoomId": "101"
+  },
+  {
+    "id": 374,
+    "name": "台北國際會議中心",
+    "venueType": "會議場地",
+    "roomName": "101A",
+    "type": "會議室",
+    "city": "台北市",
+    "address": "台北市信義區信義路五段1號",
+    "contactPerson": "場地租借部",
+    "contactPhone": "02-2725-5200",
+    "contactEmail": "ticc@taitra.org.tw",
+    "pricePerHour": null,
+    "priceHalfDay": 18000,
+    "priceFullDay": 21000,
+    "maxCapacityEmpty": 120,
+    "maxCapacityTheater": 120,
+    "maxCapacityClassroom": 88,
+    "availableTimeWeekday": "08:30-12:30, 13:30-17:30, 18:30-22:30",
+    "availableTimeWeekend": "08:30-12:30, 13:30-17:30, 18:30-22:30",
+    "equipment": "投影設備, 音響系統, 麥克風系統",
+    "images": {
+      "main": "https://www.ticc.com.tw/wSite/public/Img/f1669886153498.jpg",
+      "gallery": [
+        "https://www.ticc.com.tw/wSite/public/Img/f1669886160967.jpg",
+        "https://www.ticc.com.tw/wSite/public/Img/f1669886199014.jpg",
+        "https://www.ticc.com.tw/wSite/public/Img/f1670481736434.jpg",
+        "https://www.ticc.com.tw/wSite/public/Img/f1670484282493.jpg"
+      ],
+      "floorPlan": null
+    },
+    "layoutImageUrl": null,
+    "rentalTimeNote": "每時段價格",
+    "notes": "小型會議空間，適合培訓課程",
+    "capacityCategory": "medium",
+    "createdAt": "2026-02-28T08:55:25.343Z",
+    "url": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/cp_VenueSearch.jsp&roomId=101A&ctNode=322&CtUnit=99&BaseDSD=7&mp=1",
+    "transportation": {
+      "mrt": {
+        "station": "台北101/世貿站",
+        "line": "淡水信義線",
+        "exit": "出口 1",
+        "walkingMinutes": 5
+      },
+      "bus": [
+        {
+          "stop": "世貿中心站",
+          "routes": [],
+          "walkingMinutes": 2
+        }
+      ],
+      "parking": {
+        "name": "地下停車場（付費）",
+        "spaces": null,
+        "hourlyRate": null,
+        "dailyMax": null,
+        "notes": "付費停車"
+      }
+    },
+    "dimensions": {
+      "area": 44,
+      "unit": "坪",
+      "length": 12.9,
+      "width": 11.5,
+      "height": 5.6
+    },
+    "seatingArrangements": {
+      "theater": {
+        "capacity": 120,
+        "description": "劇院型"
+      },
+      "classroom": {
+        "capacity": 88,
+        "description": "會議型（課桌式）"
+      },
+      "horseshoe": {
+        "capacity": 46,
+        "description": "馬蹄型（U型）"
+      }
+    },
+    "priceDisplay": "平日 18,000 元/時段 | 假日 21,000 元/時段",
+    "verified": true,
+    "verifiedAt": "2026-02-28T08:55:25.343Z",
+    "ticcRoomId": "101A"
+  },
+  {
+    "id": 375,
+    "name": "台北國際會議中心",
+    "venueType": "會議場地",
+    "roomName": "101AB",
+    "type": "會議室",
+    "city": "台北市",
+    "address": "台北市信義區信義路五段1號",
+    "contactPerson": "場地租借部",
+    "contactPhone": "02-2725-5200",
+    "contactEmail": "ticc@taitra.org.tw",
+    "pricePerHour": null,
+    "priceHalfDay": 39000,
+    "priceFullDay": 45000,
+    "maxCapacityEmpty": 272,
+    "maxCapacityTheater": 272,
+    "maxCapacityClassroom": 208,
+    "availableTimeWeekday": "08:30-12:30, 13:30-17:30, 18:30-22:30",
+    "availableTimeWeekend": "08:30-12:30, 13:30-17:30, 18:30-22:30",
+    "equipment": "投影設備, 音響系統, 麥克風系統",
+    "images": {
+      "main": "https://www.ticc.com.tw/wSite/public/Img/f1670480681699.jpg",
+      "gallery": [
+        "https://www.ticc.com.tw/wSite/public/Img/f1670480718949.jpg",
+        "https://www.ticc.com.tw/wSite/public/Img/f1670480724793.jpg",
+        "https://www.ticc.com.tw/wSite/public/Img/f1670480730434.jpg",
+        "https://www.ticc.com.tw/wSite/public/Img/f1670484860353.jpg"
+      ],
+      "floorPlan": null
+    },
+    "layoutImageUrl": null,
+    "rentalTimeNote": "每時段價格",
+    "notes": "中型會議空間，101A+101B組合",
+    "capacityCategory": "large",
+    "createdAt": "2026-02-28T08:55:25.343Z",
+    "url": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/cp_VenueSearch.jsp&roomId=101AB&ctNode=322&CtUnit=99&BaseDSD=7&mp=1",
+    "transportation": {
+      "mrt": {
+        "station": "台北101/世貿站",
+        "line": "淡水信義線",
+        "exit": "出口 1",
+        "walkingMinutes": 5
+      },
+      "bus": [
+        {
+          "stop": "世貿中心站",
+          "routes": [],
+          "walkingMinutes": 2
+        }
+      ],
+      "parking": {
+        "name": "地下停車場（付費）",
+        "spaces": null,
+        "hourlyRate": null,
+        "dailyMax": null,
+        "notes": "付費停車"
+      }
+    },
+    "dimensions": {
+      "area": 98,
+      "unit": "坪",
+      "length": 12.9,
+      "width": 25.3,
+      "height": 5.6
+    },
+    "seatingArrangements": {
+      "theater": {
+        "capacity": 272,
+        "description": "劇院型"
+      },
+      "classroom": {
+        "capacity": 208,
+        "description": "會議型（課桌式）"
+      },
+      "horseshoe": {
+        "capacity": 74,
+        "description": "馬蹄型（U型）"
+      }
+    },
+    "priceDisplay": "平日 39,000 元/時段 | 假日 45,000 元/時段",
+    "verified": true,
+    "verifiedAt": "2026-02-28T08:55:25.344Z",
+    "ticcRoomId": "101AB"
+  },
+  {
+    "id": 376,
+    "name": "台北國際會議中心",
+    "venueType": "會議場地",
+    "roomName": "101B",
+    "type": "會議室",
+    "city": "台北市",
+    "address": "台北市信義區信義路五段1號",
+    "contactPerson": "場地租借部",
+    "contactPhone": "02-2725-5200",
+    "contactEmail": "ticc@taitra.org.tw",
+    "pricePerHour": null,
+    "priceHalfDay": 22000,
+    "priceFullDay": 27000,
+    "maxCapacityEmpty": 152,
+    "maxCapacityTheater": 152,
+    "maxCapacityClassroom": 120,
+    "availableTimeWeekday": "08:30-12:30, 13:30-17:30, 18:30-22:30",
+    "availableTimeWeekend": "08:30-12:30, 13:30-17:30, 18:30-22:30",
+    "equipment": "投影設備, 音響系統, 麥克風系統",
+    "images": {
+      "main": "https://www.ticc.com.tw/wSite/public/Img/f1670481736434.jpg",
+      "gallery": [
+        "https://www.ticc.com.tw/wSite/public/Img/f1670481756074.jpg",
+        "https://www.ticc.com.tw/wSite/public/Img/f1670483437675.jpg",
+        "https://www.ticc.com.tw/wSite/public/Img/f1669886153498.jpg",
+        "https://www.ticc.com.tw/wSite/public/Img/f1670484282493.jpg"
+      ],
+      "floorPlan": null
+    },
+    "layoutImageUrl": null,
+    "rentalTimeNote": "每時段價格",
+    "notes": "中型會議空間",
+    "capacityCategory": "large",
+    "createdAt": "2026-02-28T08:55:25.344Z",
+    "url": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/cp_VenueSearch.jsp&roomId=101B&ctNode=322&CtUnit=99&BaseDSD=7&mp=1",
+    "transportation": {
+      "mrt": {
+        "station": "台北101/世貿站",
+        "line": "淡水信義線",
+        "exit": "出口 1",
+        "walkingMinutes": 5
+      },
+      "bus": [
+        {
+          "stop": "世貿中心站",
+          "routes": [],
+          "walkingMinutes": 2
+        }
+      ],
+      "parking": {
+        "name": "地下停車場（付費）",
+        "spaces": null,
+        "hourlyRate": null,
+        "dailyMax": null,
+        "notes": "付費停車"
+      }
+    },
+    "dimensions": {
+      "area": 53,
+      "unit": "坪",
+      "length": 12.9,
+      "width": 13.7,
+      "height": 5.6
+    },
+    "seatingArrangements": {
+      "theater": {
+        "capacity": 152,
+        "description": "劇院型"
+      },
+      "classroom": {
+        "capacity": 120,
+        "description": "會議型（課桌式）"
+      },
+      "horseshoe": {
+        "capacity": 42,
+        "description": "馬蹄型（U型）"
+      }
+    },
+    "priceDisplay": "平日 22,000 元/時段 | 假日 27,000 元/時段",
+    "verified": true,
+    "verifiedAt": "2026-02-28T08:55:25.344Z",
+    "ticcRoomId": "101B"
+  },
+  {
+    "id": 377,
+    "name": "台北國際會議中心",
+    "venueType": "會議場地",
+    "roomName": "101C",
+    "type": "會議室",
+    "city": "台北市",
+    "address": "台北市信義區信義路五段1號",
+    "contactPerson": "場地租借部",
+    "contactPhone": "02-2725-5200",
+    "contactEmail": "ticc@taitra.org.tw",
+    "pricePerHour": null,
+    "priceHalfDay": 22000,
+    "priceFullDay": 27000,
+    "maxCapacityEmpty": 152,
+    "maxCapacityTheater": 152,
+    "maxCapacityClassroom": 120,
+    "availableTimeWeekday": "08:30-12:30, 13:30-17:30, 18:30-22:30",
+    "availableTimeWeekend": "08:30-12:30, 13:30-17:30, 18:30-22:30",
+    "equipment": "投影設備, 音響系統, 麥克風系統",
+    "images": {
+      "main": "https://www.ticc.com.tw/wSite/public/Img/f1670484282493.jpg",
+      "gallery": [
+        "https://www.ticc.com.tw/wSite/public/Img/f1670484289837.jpg",
+        "https://www.ticc.com.tw/wSite/public/Img/f1670484295525.jpg",
+        "https://www.ticc.com.tw/wSite/public/Img/f1669886153498.jpg",
+        "https://www.ticc.com.tw/wSite/public/Img/f1670481736434.jpg"
+      ],
+      "floorPlan": null
+    },
+    "layoutImageUrl": null,
+    "rentalTimeNote": "每時段價格",
+    "notes": "中型會議空間",
+    "capacityCategory": "large",
+    "createdAt": "2026-02-28T08:55:25.344Z",
+    "url": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/cp_VenueSearch.jsp&roomId=101C&ctNode=322&CtUnit=99&BaseDSD=7&mp=1",
+    "transportation": {
+      "mrt": {
+        "station": "台北101/世貿站",
+        "line": "淡水信義線",
+        "exit": "出口 1",
+        "walkingMinutes": 5
+      },
+      "bus": [
+        {
+          "stop": "世貿中心站",
+          "routes": [],
+          "walkingMinutes": 2
+        }
+      ],
+      "parking": {
+        "name": "地下停車場（付費）",
+        "spaces": null,
+        "hourlyRate": null,
+        "dailyMax": null,
+        "notes": "付費停車"
+      }
+    },
+    "dimensions": {
+      "area": 53,
+      "unit": "坪",
+      "length": 12.9,
+      "width": 13.7,
+      "height": 5.6
+    },
+    "seatingArrangements": {
+      "theater": {
+        "capacity": 152,
+        "description": "劇院型"
+      },
+      "classroom": {
+        "capacity": 120,
+        "description": "會議型（課桌式）"
+      },
+      "horseshoe": {
+        "capacity": 42,
+        "description": "馬蹄型（U型）"
+      }
+    },
+    "priceDisplay": "平日 22,000 元/時段 | 假日 27,000 元/時段",
+    "verified": true,
+    "verifiedAt": "2026-02-28T08:55:25.344Z",
+    "ticcRoomId": "101C"
+  },
+  {
+    "id": 378,
+    "name": "台北國際會議中心",
+    "venueType": "會議場地",
+    "roomName": "101CD",
+    "type": "會議室",
+    "city": "台北市",
+    "address": "台北市信義區信義路五段1號",
+    "contactPerson": "場地租借部",
+    "contactPhone": "02-2725-5200",
+    "contactEmail": "ticc@taitra.org.tw",
+    "pricePerHour": null,
+    "priceHalfDay": 39000,
+    "priceFullDay": 45000,
+    "maxCapacityEmpty": 272,
+    "maxCapacityTheater": 272,
+    "maxCapacityClassroom": 208,
+    "availableTimeWeekday": "08:30-12:30, 13:30-17:30, 18:30-22:30",
+    "availableTimeWeekend": "08:30-12:30, 13:30-17:30, 18:30-22:30",
+    "equipment": "投影設備, 音響系統, 麥克風系統",
+    "images": {
+      "main": "https://www.ticc.com.tw/wSite/public/Img/f1670484860353.jpg",
+      "gallery": [
+        "https://www.ticc.com.tw/wSite/public/Img/f1670484881587.jpg",
+        "https://www.ticc.com.tw/wSite/public/Img/f1670484887337.jpg",
+        "https://www.ticc.com.tw/wSite/public/Img/f1670484891275.jpg",
+        "https://www.ticc.com.tw/wSite/public/Img/f1670480681699.jpg"
+      ],
+      "floorPlan": null
+    },
+    "layoutImageUrl": null,
+    "rentalTimeNote": "每時段價格",
+    "notes": "中型會議空間，101C+101D組合",
+    "capacityCategory": "large",
+    "createdAt": "2026-02-28T08:55:25.344Z",
+    "url": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/cp_VenueSearch.jsp&roomId=101CD&ctNode=322&CtUnit=99&BaseDSD=7&mp=1",
+    "transportation": {
+      "mrt": {
+        "station": "台北101/世貿站",
+        "line": "淡水信義線",
+        "exit": "出口 1",
+        "walkingMinutes": 5
+      },
+      "bus": [
+        {
+          "stop": "世貿中心站",
+          "routes": [],
+          "walkingMinutes": 2
+        }
+      ],
+      "parking": {
+        "name": "地下停車場（付費）",
+        "spaces": null,
+        "hourlyRate": null,
+        "dailyMax": null,
+        "notes": "付費停車"
+      }
+    },
+    "dimensions": {
+      "area": 98,
+      "unit": "坪",
+      "length": 12.9,
+      "width": 25.3,
+      "height": 5.6
+    },
+    "seatingArrangements": {
+      "theater": {
+        "capacity": 272,
+        "description": "劇院型"
+      },
+      "classroom": {
+        "capacity": 208,
+        "description": "會議型（課桌式）"
+      },
+      "horseshoe": {
+        "capacity": 74,
+        "description": "馬蹄型（U型）"
+      }
+    },
+    "priceDisplay": "平日 39,000 元/時段 | 假日 45,000 元/時段",
+    "verified": true,
+    "verifiedAt": "2026-02-28T08:55:25.344Z",
+    "ticcRoomId": "101CD"
+  },
+  {
+    "id": 379,
+    "name": "台北國際會議中心",
+    "venueType": "會議場地",
+    "roomName": "102",
+    "type": "會議室",
+    "city": "台北市",
+    "address": "台北市信義區信義路五段1號",
+    "contactPerson": "場地租借部",
+    "contactPhone": "02-2725-5200",
+    "contactEmail": "ticc@taitra.org.tw",
+    "pricePerHour": null,
+    "priceHalfDay": 27000,
+    "priceFullDay": 32000,
+    "maxCapacityEmpty": 200,
+    "maxCapacityTheater": 200,
+    "maxCapacityClassroom": 200,
+    "availableTimeWeekday": "08:30-12:30, 13:30-17:30, 18:30-22:30",
+    "availableTimeWeekend": "08:30-12:30, 13:30-17:30, 18:30-22:30",
+    "equipment": "投影設備, 音響系統, 麥克風系統",
+    "images": {
+      "main": "https://www.ticc.com.tw/wSite/xslgip/style1/images/ticc/img-hero.jpg",
+      "gallery": [],
+      "floorPlan": null
+    },
+    "layoutImageUrl": null,
+    "rentalTimeNote": "每時段價格",
+    "notes": "中型會議空間",
+    "capacityCategory": "large",
+    "createdAt": "2026-02-28T08:55:25.344Z",
+    "url": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/cp_VenueSearch.jsp&roomId=102&ctNode=322&CtUnit=99&BaseDSD=7&mp=1",
+    "transportation": {
+      "mrt": {
+        "station": "台北101/世貿站",
+        "line": "淡水信義線",
+        "exit": "出口 1",
+        "walkingMinutes": 5
+      },
+      "bus": [
+        {
+          "stop": "世貿中心站",
+          "routes": [],
+          "walkingMinutes": 2
+        }
+      ],
+      "parking": {
+        "name": "地下停車場（付費）",
+        "spaces": null,
+        "hourlyRate": null,
+        "dailyMax": null,
+        "notes": "付費停車"
+      }
+    },
+    "dimensions": {
+      "area": 70,
+      "unit": "坪",
+      "length": 16.2,
+      "width": 15.7,
+      "height": 5.6
+    },
+    "seatingArrangements": {
+      "theater": {
+        "capacity": 200,
+        "description": "劇院型"
+      },
+      "classroom": {
+        "capacity": 200,
+        "description": "會議型（課桌式）"
+      },
+      "horseshoe": {
+        "capacity": 0,
+        "description": "馬蹄型（U型）"
+      }
+    },
+    "priceDisplay": "平日 27,000 元/時段 | 假日 32,000 元/時段",
+    "verified": true,
+    "verifiedAt": "2026-02-28T08:55:25.344Z",
+    "ticcRoomId": "102"
   }
 ]
