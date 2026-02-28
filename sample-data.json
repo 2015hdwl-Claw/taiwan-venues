@@ -3901,8 +3901,19 @@
     "availableTimeWeekend": "09:00-22:00",
     "equipment": "基本燈光、空調",
     "images": {
-      "main": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Songshan_Cultural_and_Creative_Park_2017.jpg",
-      "gallery": [],
+      "main": "https://www.songshanculturalpark.org/gallery/1770979288_b36ca2ee8183db41025e.jpg",
+      "gallery": [
+        "https://www.songshanculturalpark.org/gallery/1770979288_b36ca2ee8183db41025e.jpg",
+        "https://www.songshanculturalpark.org/gallery/1642316022_be50d8042c6862c9f8da.jpg",
+        "https://www.songshanculturalpark.org/gallery/1768201545_5f4fe2e576c4f26a4c0a.jpg",
+        "https://www.songshanculturalpark.org/gallery/1770003690_128b36176d9ea7db2c67.jpg",
+        "https://www.songshanculturalpark.org/gallery/1764838350_021629c7a9844affe3e1.jpg",
+        "https://www.songshanculturalpark.org/gallery/1764572088_668ce98706811d739a3e.jpg",
+        "https://www.songshanculturalpark.org/gallery/1765871659_09c3e6ae0d4771221fbd.jpg",
+        "https://www.songshanculturalpark.org/gallery/1766743213_b7e3126d816579eb1744.jpg",
+        "https://www.songshanculturalpark.org/gallery/1770977969_30a8931dabba9f61854a.jpg",
+        "https://www.songshanculturalpark.org/gallery/1765350744_0bd66dd7b25fb21869d1.jpg"
+      ],
       "floorPlan": null
     },
     "url": "https://www.songshanculturalpark.org",
@@ -3951,8 +3962,14 @@
     "availableTimeWeekend": "10:00-22:00",
     "equipment": "專業音響、投影設備、燈光",
     "images": {
-      "main": "https://images.unsplash.com/photo-1499364615650-ec38552f4f34?w=800",
-      "gallery": [],
+      "main": "https://www.syntrend.com.tw/upload/site/home_with_qs/6a140d0843f3055333a3af699a13a0a9.jpg",
+      "gallery": [
+        "https://www.syntrend.com.tw/upload/site/home_with_qs/6a140d0843f3055333a3af699a13a0a9.jpg",
+        "https://www.syntrend.com.tw/upload/site/home_with_qs/fa3ce5a16451b16abd700abf1f0ddece.png",
+        "https://www.syntrend.com.tw/upload/site/home_with_qs/fdd60b8fe1adc7b1a5f0a49bc4b60d82.png",
+        "https://www.syntrend.com.tw/upload/site/home_with_qs/8b403fadab7553e222234e308b93a190.jpg",
+        "https://www.syntrend.com.tw/assets/default/img/BN7508400.png"
+      ],
       "floorPlan": null
     },
     "url": "https://www.syntrend.com.tw",
@@ -4001,8 +4018,15 @@
     "availableTimeWeekend": "09:00-22:00",
     "equipment": "專業舞台、燈光音響",
     "images": {
-      "main": "https://images.unsplash.com/photo-1499364615650-ec38552f4f34?w=800",
-      "gallery": [],
+      "main": "https://w3fs.tainan.gov.tw/001/Upload/1/relpic/12837/8797857/753d4d5b-5de2-41a8-ab47-f8b594e41fdc.jpg",
+      "gallery": [
+        "https://w3fs.tainan.gov.tw/001/Upload/1/relpic/12837/8797857/753d4d5b-5de2-41a8-ab47-f8b594e41fdc.jpg",
+        "https://w3fs.tainan.gov.tw/001/Upload/1/relpic/12837/8789466/d79fff23-6916-4e52-9c9a-edc3bba6fa4e.jpg",
+        "https://w3fs.tainan.gov.tw/001/Upload/1/relpic/12837/8789739/fa365fff-a142-4a7d-9bc2-0d9b0336f0d2.jpg",
+        "https://w3fs.tainan.gov.tw/001/Upload/1/relpic/12837/8785752/1de4da7c-377c-4883-8804-894a537e7ceb.jpg",
+        "https://w3fs.tainan.gov.tw/001/Upload/1/relpic/12837/8776923/6190c552-9057-45ce-9195-bf489be1cd0c.jpg",
+        "https://www.tainan.gov.tw/images/disaster07.jpg"
+      ],
       "floorPlan": null
     },
     "url": "https://www.tainan.gov.tw",
@@ -4141,7 +4165,10 @@
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "專業音響燈光、LED螢幕",
     "images": {
-      "main": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=800"
+      "main": "https://le-meridien.marriott.com/wp-content/themes/marriott-master/assets/img/brandbar/devices.png",
+      "gallery": [
+        "https://le-meridien.marriott.com/wp-content/themes/marriott-master/assets/img/brandbar/devices.png"
+      ]
     },
     "url": "https://www.lemeridien.com/taipei",
     "verified": true,
@@ -4168,8 +4195,16 @@
     "availableTimeWeekend": "09:00-22:00",
     "equipment": "專業音響、投影設備、燈光",
     "images": {
-      "main": "https://images.unsplash.com/photo-1499364615650-ec38552f4f34?w=800",
-      "gallery": [],
+      "main": "https://static.wixstatic.com/media/bd4101_760ab9c6a16f44b4ac3dc9f3f53350b4~mv2.jpg/v1/fill/w_1280,h_672,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/bd4101_760ab9c6a16f44b4ac3dc9f3f53350b4~mv2.jpg",
+      "gallery": [
+        "https://static.wixstatic.com/media/bd4101_760ab9c6a16f44b4ac3dc9f3f53350b4~mv2.jpg/v1/fill/w_1280,h_672,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/bd4101_760ab9c6a16f44b4ac3dc9f3f53350b4~mv2.jpg",
+        "https://static.wixstatic.com/media/70b627_263bcb6b1103499ab754abb3c7757dde~mv2.png/v1/fill/w_1200,h_630,al_c,q_90,enc_avif,quality_auto/70b627_263bcb6b1103499ab754abb3c7757dde~mv2.png",
+        "https://static.wixstatic.com/media/bd4101_690c815b9d9948ef91b6ff9191ae80f1~mv2.png/v1/fill/w_1280,h_674,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/bd4101_690c815b9d9948ef91b6ff9191ae80f1~mv2.png",
+        "https://static.wixstatic.com/media/bd4101_760ab9c6a16f44b4ac3dc9f3f53350b4~mv2.jpg/v1/fill/w_1280,h_672,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/bd4101_760ab9c6a16f44b4ac3dc9f3f53350b4~mv2.jpg",
+        "https://static.wixstatic.com/media/b8e171_567eaa1bf25a4baf9e3deda73fcda17e~mv2.jpg/v1/fill/w_230,h_342,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/DSC_0059.jpg",
+        "https://static.wixstatic.com/media/4a5f41_7376f72f26af44af91feec132c9f4bcb~mv2.png/v1/fill/w_824,h_426,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/%E5%9C%96%E7%89%87%201.png",
+        "https://static.wixstatic.com/media/4a5f41_54687a49caa44d8eab51b0843cf01207~mv2.jpg/v1/crop/x_0,y_0,w_1550,h_601/fill/w_866,h_338,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/%E6%88%AA%E5%9C%96%202025-09-02%20%E4%B8%8B%E5%8D%884_edited.jpg"
+      ],
       "floorPlan": null
     },
     "url": "https://www.nuzone.com.tw",
@@ -4617,7 +4652,13 @@
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "專業音響、投影設備",
     "images": {
-      "main": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800"
+      "main": "https://www.chateaudechine.com/2dd1e9a8aa5a8.jpg",
+      "gallery": [
+        "https://www.chateaudechine.com/2dd1e9a8aa5a8.jpg",
+        "https://www.chateaudechine.com/ceea491011afc.jpg",
+        "https://www.chateaudechine.com/282105e50a218.jpg",
+        "https://www.chateaudechine.com/acdc80c8f7396.jpg"
+      ]
     },
     "url": "https://www.chateaudechine.com/chiayi",
     "verified": true,
@@ -4772,7 +4813,19 @@
     "availableTimeWeekend": "08:00-24:00",
     "equipment": "頂級音響燈光、LED螢幕",
     "images": {
-      "main": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=800"
+      "main": "https://sitecore-cd-imgr.shangri-la.com/MediaFiles/F/6/5/%7BF65E1DA9-2E64-4765-B62C-5626E1F16404%7D2025_PlazaSuite_1180x535.jpg?w=360&h=175&mode=crop&quality=100&scale=both",
+      "gallery": [
+        "https://sitecore-cd-imgr.shangri-la.com/MediaFiles/F/6/5/%7BF65E1DA9-2E64-4765-B62C-5626E1F16404%7D2025_PlazaSuite_1180x535.jpg?w=360&h=175&mode=crop&quality=100&scale=both",
+        "https://sitecore-cd-imgr.shangri-la.com/MediaFiles/A/6/8/%7BA68F6FFF-2760-44D4-85DB-443A0B8E5AD9%7Dbed-breakfast_1180x535_2.jpg?w=360&h=175&mode=crop&quality=100&scale=both",
+        "https://sitecore-cd-imgr.shangri-la.com/MediaFiles/8/8/D/%7B88D286C8-06A9-481B-8745-28B94E269BB5%7D2026_TPE_SLC_offer_1180x535.jpg?w=360&h=175&mode=crop&quality=100&scale=both",
+        "https://sitecore-cd-imgr.shangri-la.com/MediaFiles/B/D/4/%7BBD4E7CBA-C000-4536-A33D-58FA20632A9D%7D%E9%A6%99%E6%A0%BC%E9%87%8C%E6%8B%89%E5%8F%B0%E5%8C%97%E9%81%A0%E6%9D%B1%E5%A4%A7%E5%BB%B3%20Shangri-La's%20Far%20Eastern%20Plaza%20Hotel%20Taipei%20Lobby%20-.jpg?w=600&h=500&mode=crop&scale=both",
+        "https://sitecore-cd-imgr.shangri-la.com/MediaFiles/0/7/7/%7B077B9188-7299-4D30-9703-9F8EB1DBD9BE%7D200106_TPE_Deluxe_City_View_Twin.jpg",
+        "https://sitecore-cd-imgr.shangri-la.com/MediaFiles/3/8/5/%7B38572290-C3B5-4CE0-9EAC-9D173FCFFAF4%7D200110_TPE_HorizonDeluxeRoom1.jpg",
+        "https://sitecore-cd-imgr.shangri-la.com/MediaFiles/2/9/4/%7B29481386-00F1-4897-8A65-1DE60F5C23D3%7D20231020_TPE_PlazaSuite_living_no101.jpg",
+        "https://sitecore-cd-imgr.shangri-la.com/MediaFiles/0/7/7/%7B077B9188-7299-4D30-9703-9F8EB1DBD9BE%7D200106_TPE_Deluxe_City_View_Twin.jpg",
+        "https://sitecore-cd-imgr.shangri-la.com/MediaFiles/0/7/7/%7B077B9188-7299-4D30-9703-9F8EB1DBD9BE%7D200106_TPE_Deluxe_City_View_Twin.jpg",
+        "https://sitecore-cd-imgr.shangri-la.com/MediaFiles/3/8/5/%7B38572290-C3B5-4CE0-9EAC-9D173FCFFAF4%7D200110_TPE_HorizonDeluxeRoom1.jpg"
+      ]
     },
     "url": "https://www.shangri-la.com/taipei",
     "verified": true,
@@ -4972,7 +5025,19 @@
     "availableTimeWeekend": "休館",
     "equipment": "投影機、麥克風",
     "images": {
-      "main": "https://images.unsplash.com/photo-1497366811353-6870744d04b2?w=800"
+      "main": "https://www.ntpc.gov.tw/ch/images/layout/QRCODE-WEB.png",
+      "gallery": [
+        "https://www.ntpc.gov.tw/ch/images/layout/QRCODE-WEB.png",
+        "https://www.ntpc.gov.tw/ch/images/layout/QRCODE-MAP.png",
+        "https://www.ntpc.gov.tw/ch/images/layout/QRCODE-LINE.png",
+        "https://www.ntpc.gov.tw/ch/images/banner/banner02.jpg",
+        "https://www.ntpc.gov.tw/ch/images/index/mayor.png",
+        "https://www.ntpc.gov.tw/uploaddowndoc?file=newsimg/202602272155051.jpg&filedisplay=2U1A6999_0.jpg&flag=pic",
+        "https://www.ntpc.gov.tw/uploaddowndoc?file=newsimg/202602262034381.jpg&filedisplay=S__45359238.jpg&flag=pic",
+        "https://www.ntpc.gov.tw/ch/images/index/mayor.png",
+        "https://www.ntpc.gov.tw/ch/images/index/topic_more.svg",
+        "https://www.ntpc.gov.tw/uploaddowndoc?file=bannnernew/202602240957370.jpg&filedisplay=bn800.jpg&flag=pic"
+      ]
     },
     "url": "https://www.ntpc.gov.tw",
     "verified": true,
@@ -4997,7 +5062,19 @@
     "availableTimeWeekend": "09:30-17:00",
     "equipment": "投影設備、音響",
     "images": {
-      "main": "https://images.unsplash.com/photo-1497215842964-222b430dc094?w=800"
+      "main": "https://www.ceramics.ntpc.gov.tw/files/file_pool/1/0j143424435934800145/%e9%99%b6%e5%8d%9a%e9%a4%a8%e5%85%a7%e9%95%b72.jpg",
+      "gallery": [
+        "https://www.ceramics.ntpc.gov.tw/files/file_pool/1/0j143424435934800145/%e9%99%b6%e5%8d%9a%e9%a4%a8%e5%85%a7%e9%95%b72.jpg",
+        "https://www.ceramics.ntpc.gov.tw/files/file_pool/1/0q036368961322447606/1200_475-01.jpg",
+        "https://www.ceramics.ntpc.gov.tw/files/file_pool/1/0p321539870802773937/banner-%e9%99%b6%e5%8d%9a%e5%ae%98%e7%b6%b2-1200_475-01.jpg",
+        "https://www.ceramics.ntpc.gov.tw/files/file_pool/1/0q013327018381913513/2026%e5%85%92%e5%b0%91%e9%99%b6%e8%97%9d%e7%8d%8e-banner-%e5%ae%98%e7%b6%b21200_475-01.jpg",
+        "https://www.ceramics.ntpc.gov.tw/files/file_pool/1/0q015340243224922633/%e4%b8%bb%e8%a6%96%e8%a6%ba_%e6%84%9f%e5%8b%95%e9%a6%ac%20%e9%99%b6%e5%8d%9a%e7%89%b9%e5%b1%95%20%28%e5%af%ac1200%29.jpg",
+        "https://www.ceramics.ntpc.gov.tw/files/file_pool/1/0q020310636087505232/%e5%ae%98%e7%b6%b21200_475-01_0.jpg",
+        "https://www.ceramics.ntpc.gov.tw/files/file_pool/1/0q036368961322447606/1200_475-01.jpg",
+        "https://www.ceramics.ntpc.gov.tw/files/file_pool/1/0p321539870802773937/banner-%e9%99%b6%e5%8d%9a%e5%ae%98%e7%b6%b2-1200_475-01.jpg",
+        "https://www.ceramics.ntpc.gov.tw/files/atts/0Q044341405828914970/layout/images/index_block_thum_square.png",
+        "https://www.ceramics.ntpc.gov.tw/files/atts/0Q044341405828914970/layout/images/index_block_thum_rectangle.png"
+      ]
     },
     "url": "https://www.ceramics.ntpc.gov.tw",
     "verified": true,
@@ -5022,7 +5099,19 @@
     "availableTimeWeekend": "09:00-17:00",
     "equipment": "投影設備、音響系統",
     "images": {
-      "main": "https://images.unsplash.com/photo-1497215842964-222b430dc094?w=800"
+      "main": "https://ws.kcg.gov.tw/001/KcgUploadFiles/263/relpic/7103/101428/ea240f1a-b2ed-4bc3-8473-6cca48671157.png",
+      "gallery": [
+        "https://ws.kcg.gov.tw/001/KcgUploadFiles/263/relpic/7103/101428/ea240f1a-b2ed-4bc3-8473-6cca48671157.png",
+        "https://ws.kcg.gov.tw/001/KcgUploadFiles/263/relpic/7103/101713/aca2562f-e838-4fe3-9e7d-0889a06e8429.png",
+        "https://ws.kcg.gov.tw/001/KcgUploadFiles/263/relpic/7103/101631/56e34f3e-af65-479b-8ff5-0a693c8b6775.png",
+        "https://ws.kcg.gov.tw/001/KcgUploadFiles/263/relpic/7103/101413/f1594021-98dd-4120-9df3-53ebf6d7f7bd.jpg",
+        "https://ws.kcg.gov.tw/001/KcgUploadFiles/263/relpic/7103/82277/5b44812b-638b-4176-bbfa-bcbd93b2f0c9.jpg",
+        "https://ws.kcg.gov.tw/Download.ashx?u=LzAwMS9LY2dVcGxvYWRGaWxlcy8yNjMvY2tmaWxlL2E1ZGUyZjk3LTM0MGYtNDM3Ni1hNmVjLWUxMzgyN2YwOTAyOUAxMDI0eDc2OC5qcGc%3d&n=MTA15paw54mI6Ziy54G96LOH6KiK5bCI5Y2AYmFubmVyLmpwZw%3d%3d&Icon=.jpg",
+        "https://kcginfonews.kcg.gov.tw/upload/RelPic/37506/71182efd-52c2-4c09-92f6-60dea8b60a26.jpg",
+        "https://kcginfonews.kcg.gov.tw/upload/RelPic/37505/94c603d5-74fe-4b81-9c17-3ae01199aa51.jpg",
+        "https://kcginfonews.kcg.gov.tw/upload/RelPic/37504/d8ae8e8b-eadf-4b2d-8a93-9a9089c63aec.jpg",
+        "https://kcginfonews.kcg.gov.tw/upload/RelPic/37503/2da6aa44-7c2b-4ded-93ae-0e30be48f19d.jpg"
+      ]
     },
     "url": "https://www.kcg.gov.tw",
     "verified": true,
@@ -5047,7 +5136,19 @@
     "availableTimeWeekend": "09:00-22:00",
     "equipment": "專業舞台、音響燈光",
     "images": {
-      "main": "https://upload.wikimedia.org/wikipedia/commons/6/6e/National_Kaohsiung_Center_for_the_Arts_2018.jpg"
+      "main": "https://www.npac-weiwuying.org/api/images/2b30b247fbe3cf8fc0239c51b8c9520f/2000/jpeg",
+      "gallery": [
+        "https://www.npac-weiwuying.org/api/images/2b30b247fbe3cf8fc0239c51b8c9520f/2000/jpeg",
+        "https://www.npac-weiwuying.org/api/images/d79f39d804e6c4f4a0666fe410a9853d/2000/jpeg",
+        "https://www.npac-weiwuying.org/api/images/7376765f703b8e79a86fc5c45704bc5f/2000/jpeg",
+        "https://www.npac-weiwuying.org/api/images/c24411ec063121cf6b46ef5391a0f2f5/2000/jpeg",
+        "https://www.npac-weiwuying.org/api/images/afb893076760c037e0d7dee527e7872e/2000/jpeg",
+        "https://www.npac-weiwuying.org/api/images/c623f3dbeb657f83702483b8480994e2/2000/jpeg",
+        "https://www.npac-weiwuying.org/api/images/fe0673f5526c6234676e3c551d701205/2000/jpeg",
+        "https://www.npac-weiwuying.org/api/images/efa1928f252260aafa22b0d18abc8c6e/2000/jpeg",
+        "https://www.npac-weiwuying.org/api/images/2fa2fcc7b46b641366e4bb2997d8e2fb/2000/jpeg",
+        "https://www.npac-weiwuying.org/api/images/a82e6dddb6caeeb48d1e28bbdaa489de/600/jpeg"
+      ]
     },
     "url": "https://www.npac-weiwuying.org",
     "verified": true,
@@ -5072,7 +5173,19 @@
     "availableTimeWeekend": "09:00-17:00",
     "equipment": "投影機、麥克風",
     "images": {
-      "main": "https://images.unsplash.com/photo-1497366811353-6870744d04b2?w=800"
+      "main": "https://www.taichung.gov.tw/media/1379398/%E4%B8%AD%E5%B1%B173_3%E6%9C%88%E5%9A%B4%E9%81%B8%E9%9B%BB%E5%BD%B1banner_800x400.jpg?height=400",
+      "gallery": [
+        "https://www.taichung.gov.tw/media/1379398/%E4%B8%AD%E5%B1%B173_3%E6%9C%88%E5%9A%B4%E9%81%B8%E9%9B%BB%E5%BD%B1banner_800x400.jpg?height=400",
+        "https://www.taichung.gov.tw/media/1378424/115228%E5%9E%83%E5%9C%BE%E6%94%B6%E9%81%8Bv1.png",
+        "https://www.taichung.gov.tw/media/1379338/228%E9%80%A3%E5%81%87%E4%B8%AD%E9%83%A8%E4%BA%A4%E9%80%9A%E7%96%8F%E9%81%8B%E6%8E%AA%E6%96%BD800_400.png",
+        "https://www.taichung.gov.tw/media/1354937/%E5%97%A88-1.jpg?height=400",
+        "https://www.taichung.gov.tw/media/1363123/banner-01_800x400-01-1.jpg?height=400",
+        "https://www.taichung.gov.tw/media/1244888/%E9%98%B2%E6%B2%BB%E6%80%A7%E9%A8%B7%E6%93%BEbanner.jpg?height=400",
+        "https://www.taichung.gov.tw/media/1379398/%E4%B8%AD%E5%B1%B173_3%E6%9C%88%E5%9A%B4%E9%81%B8%E9%9B%BB%E5%BD%B1banner_800x400.jpg?height=400",
+        "https://www.taichung.gov.tw/media/1378424/115228%E5%9E%83%E5%9C%BE%E6%94%B6%E9%81%8Bv1.png",
+        "https://www.taichung.gov.tw/media/1379338/228%E9%80%A3%E5%81%87%E4%B8%AD%E9%83%A8%E4%BA%A4%E9%80%9A%E7%96%8F%E9%81%8B%E6%8E%AA%E6%96%BD800_400.png",
+        "https://www.taichung.gov.tw/media/1354937/%E5%97%A88-1.jpg?height=400"
+      ]
     },
     "url": "https://www.taichung.gov.tw",
     "verified": true,
@@ -5097,7 +5210,15 @@
     "availableTimeWeekend": "休館",
     "equipment": "投影設備、音響",
     "images": {
-      "main": "https://images.unsplash.com/photo-1497366811353-6870744d04b2?w=800"
+      "main": "https://w3fs.tainan.gov.tw/001/Upload/1/relpic/12837/8797857/753d4d5b-5de2-41a8-ab47-f8b594e41fdc.jpg",
+      "gallery": [
+        "https://w3fs.tainan.gov.tw/001/Upload/1/relpic/12837/8797857/753d4d5b-5de2-41a8-ab47-f8b594e41fdc.jpg",
+        "https://w3fs.tainan.gov.tw/001/Upload/1/relpic/12837/8789466/d79fff23-6916-4e52-9c9a-edc3bba6fa4e.jpg",
+        "https://w3fs.tainan.gov.tw/001/Upload/1/relpic/12837/8789739/fa365fff-a142-4a7d-9bc2-0d9b0336f0d2.jpg",
+        "https://w3fs.tainan.gov.tw/001/Upload/1/relpic/12837/8785752/1de4da7c-377c-4883-8804-894a537e7ceb.jpg",
+        "https://w3fs.tainan.gov.tw/001/Upload/1/relpic/12837/8776923/6190c552-9057-45ce-9195-bf489be1cd0c.jpg",
+        "https://www.tainan.gov.tw/images/disaster07.jpg"
+      ]
     },
     "url": "https://www.tainan.gov.tw",
     "verified": true,
@@ -5122,7 +5243,19 @@
     "availableTimeWeekend": "休館",
     "equipment": "投影機、麥克風",
     "images": {
-      "main": "https://images.unsplash.com/photo-1497366811353-6870744d04b2?w=800"
+      "main": "https://ws.tycg.gov.tw/001/Upload/1/relpic/8445/1609604/49f20c49-2d8e-4e1e-82a0-cc12d493cd19.jpg",
+      "gallery": [
+        "https://ws.tycg.gov.tw/001/Upload/1/relpic/8445/1609604/49f20c49-2d8e-4e1e-82a0-cc12d493cd19.jpg",
+        "https://ws.tycg.gov.tw/001/Upload/1/relpic/8445/1609604/f2710341-a618-49ec-a878-5fcc6d989e01.jpg",
+        "https://ws.tycg.gov.tw/001/Upload/1/relpic/8445/1608848/2ad7015e-d740-4e0a-9c28-2f561fd14346.jpg",
+        "https://ws.tycg.gov.tw/001/Upload/1/relpic/8445/1608848/3f82404f-6aae-49ff-8863-c1943c75f791.jpg",
+        "https://ws.tycg.gov.tw/001/Upload/1/relpic/8445/1609602/27c866f1-6299-49b0-901c-04670241f625.jpg",
+        "https://ws.tycg.gov.tw/001/Upload/1/relpic/8445/1609602/978963c7-1670-4183-be63-26f1a53bfde4.jpg",
+        "https://ws.tycg.gov.tw/001/Upload/1/relpic/8445/1609601/9f8811d2-d62b-44a2-a456-0e12388df754.jpg",
+        "https://ws.tycg.gov.tw/001/Upload/1/relpic/8445/1609601/62d349d1-20e3-4fa5-9826-c0c06668bd81.jpg",
+        "https://ws.tycg.gov.tw/001/Upload/1/relpic/7881/1183886/b6dfd2e0-557c-480b-bf18-68fea62a787a.png",
+        "https://ws.tycg.gov.tw/001/Upload/1/relpic/7881/1183887/429c9549-d0b5-49db-8218-0ed156a44494.png"
+      ]
     },
     "url": "https://www.tycg.gov.tw",
     "verified": true,
@@ -5147,7 +5280,18 @@
     "availableTimeWeekend": "休館",
     "equipment": "投影設備、音響",
     "images": {
-      "main": "https://images.unsplash.com/photo-1497366811353-6870744d04b2?w=800"
+      "main": "https://www.klcg.gov.tw/wSite/public/Attachment/0/f1625648838734.jpg",
+      "gallery": [
+        "https://www.klcg.gov.tw/wSite/public/Attachment/0/f1625648838734.jpg",
+        "https://www.klcg.gov.tw/wSite/styles/keelungGov/images/newsSlider.jpg",
+        "https://www.klcg.gov.tw/wSite/styles/keelungGov/images/newsSlider.jpg",
+        "https://www.klcg.gov.tw/wSite/styles/keelungGov/images/newsSlider.jpg",
+        "https://www.klcg.gov.tw/wSite/styles/keelungGov/images/newsSlider.jpg",
+        "https://www.klcg.gov.tw/wSite/styles/keelungGov/images/newsSlider.jpg",
+        "https://www.klcg.gov.tw/wSite/styles/keelungGov/images/newsSlider.jpg",
+        "https://www.klcg.gov.tw/wSite/public/Attachment/017/f1628046060623.jpg",
+        "https://www.klcg.gov.tw/wSite/public/Attachment/0/f1694152407809.png"
+      ]
     },
     "url": "https://www.klcg.gov.tw",
     "verified": true,
