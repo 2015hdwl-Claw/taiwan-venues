@@ -10752,15 +10752,15 @@
     "roomName": "會議中心",
     "type": "大學",
     "city": "台北市",
-    "address": "請查詢官網",
+    "address": "台北市羅斯福路四段1號",
     "contactPerson": "請查詢官網",
-    "contactPhone": "請查詢官網",
-    "contactEmail": "請查詢官網",
+    "contactPhone": "02-3366-9828",
+    "contactEmail": "ntu@ntu.edu.tw",
     "pricePerHour": null,
     "priceHalfDay": null,
     "priceFullDay": null,
     "maxCapacityEmpty": null,
-    "maxCapacityTheater": null,
+    "maxCapacityTheater": 1000,
     "maxCapacityClassroom": null,
     "availableTimeWeekday": "請查詢官網",
     "availableTimeWeekend": "請查詢官網",
@@ -10771,8 +10771,8 @@
       "floorPlan": null
     },
     "layoutImageUrl": null,
-    "rentalTimeNote": "請查詢官網",
-    "notes": "會議中心、學術場地",
+    "rentalTimeNote": "需申請場地租借",
+    "notes": "會議中心、學術場地，適合學術會議、研討會",
     "capacityCategory": "unknown",
     "createdAt": "2026-02-28T07:32:38.878Z",
     "url": "https://www.ntu.edu.tw",
@@ -10781,7 +10781,13 @@
     "seatingArrangements": null,
     "verified": true,
     "verifiedAt": "2026-02-28T07:32:38.878Z",
-    "collectedToday": true
+    "collectedToday": true,
+    "lastUpdated": "2026-02-28T09:34:41.911Z",
+    "needsUpdate": {
+      "photo": true,
+      "price": true,
+      "capacity": false
+    }
   },
   {
     "id": 345,
@@ -10790,15 +10796,15 @@
     "roomName": "會議中心",
     "type": "大學",
     "city": "台北市",
-    "address": "請查詢官網",
+    "address": "台北市文山區指南路二段64號",
     "contactPerson": "請查詢官網",
-    "contactPhone": "請查詢官網",
-    "contactEmail": "請查詢官網",
+    "contactPhone": "02-2939-3091",
+    "contactEmail": "nccu@nccu.edu.tw",
     "pricePerHour": null,
     "priceHalfDay": null,
     "priceFullDay": null,
     "maxCapacityEmpty": null,
-    "maxCapacityTheater": null,
+    "maxCapacityTheater": 500,
     "maxCapacityClassroom": null,
     "availableTimeWeekday": "請查詢官網",
     "availableTimeWeekend": "請查詢官網",
@@ -10809,7 +10815,7 @@
       "floorPlan": null
     },
     "layoutImageUrl": null,
-    "rentalTimeNote": "請查詢官網",
+    "rentalTimeNote": "需申請場地租借",
     "notes": "會議中心、學術場地",
     "capacityCategory": "unknown",
     "createdAt": "2026-02-28T07:32:38.878Z",
@@ -10819,7 +10825,13 @@
     "seatingArrangements": null,
     "verified": true,
     "verifiedAt": "2026-02-28T07:32:38.878Z",
-    "collectedToday": true
+    "collectedToday": true,
+    "lastUpdated": "2026-02-28T09:34:41.911Z",
+    "needsUpdate": {
+      "photo": true,
+      "price": true,
+      "capacity": false
+    }
   },
   {
     "id": 346,
@@ -10828,15 +10840,15 @@
     "roomName": "會議中心",
     "type": "大學",
     "city": "新竹市",
-    "address": "請查詢官網",
+    "address": "新竹市光復路二段101號",
     "contactPerson": "請查詢官網",
-    "contactPhone": "請查詢官網",
-    "contactEmail": "請查詢官網",
+    "contactPhone": "03-571-5131",
+    "contactEmail": "nthu@nthu.edu.tw",
     "pricePerHour": null,
     "priceHalfDay": null,
     "priceFullDay": null,
     "maxCapacityEmpty": null,
-    "maxCapacityTheater": null,
+    "maxCapacityTheater": 800,
     "maxCapacityClassroom": null,
     "availableTimeWeekday": "請查詢官網",
     "availableTimeWeekend": "請查詢官網",
@@ -10847,7 +10859,7 @@
       "floorPlan": null
     },
     "layoutImageUrl": null,
-    "rentalTimeNote": "請查詢官網",
+    "rentalTimeNote": "需申請場地租借",
     "notes": "會議中心、學術場地",
     "capacityCategory": "unknown",
     "createdAt": "2026-02-28T07:32:38.878Z",
@@ -10857,7 +10869,13 @@
     "seatingArrangements": null,
     "verified": true,
     "verifiedAt": "2026-02-28T07:32:38.878Z",
-    "collectedToday": true
+    "collectedToday": true,
+    "lastUpdated": "2026-02-28T09:34:41.912Z",
+    "needsUpdate": {
+      "photo": true,
+      "price": true,
+      "capacity": false
+    }
   },
   {
     "id": 347,
@@ -10866,15 +10884,15 @@
     "roomName": "會議中心",
     "type": "大學",
     "city": "台南市",
-    "address": "請查詢官網",
+    "address": "台南市東區大學路1號",
     "contactPerson": "請查詢官網",
-    "contactPhone": "請查詢官網",
-    "contactEmail": "請查詢官網",
+    "contactPhone": "06-275-7575",
+    "contactEmail": "ncku@ncku.edu.tw",
     "pricePerHour": null,
     "priceHalfDay": null,
     "priceFullDay": null,
     "maxCapacityEmpty": null,
-    "maxCapacityTheater": null,
+    "maxCapacityTheater": 1000,
     "maxCapacityClassroom": null,
     "availableTimeWeekday": "請查詢官網",
     "availableTimeWeekend": "請查詢官網",
@@ -10885,7 +10903,7 @@
       "floorPlan": null
     },
     "layoutImageUrl": null,
-    "rentalTimeNote": "請查詢官網",
+    "rentalTimeNote": "需申請場地租借",
     "notes": "會議中心、學術場地",
     "capacityCategory": "unknown",
     "createdAt": "2026-02-28T07:32:38.878Z",
@@ -10895,7 +10913,13 @@
     "seatingArrangements": null,
     "verified": true,
     "verifiedAt": "2026-02-28T07:32:38.878Z",
-    "collectedToday": true
+    "collectedToday": true,
+    "lastUpdated": "2026-02-28T09:34:41.913Z",
+    "needsUpdate": {
+      "photo": true,
+      "price": true,
+      "capacity": false
+    }
   },
   {
     "id": 348,
@@ -10904,15 +10928,15 @@
     "roomName": "會議中心",
     "type": "大學",
     "city": "台北市",
-    "address": "請查詢官網",
+    "address": "台北市基隆路四段43號",
     "contactPerson": "請查詢官網",
-    "contactPhone": "請查詢官網",
-    "contactEmail": "請查詢官網",
+    "contactPhone": "02-2733-3141",
+    "contactEmail": "ntust@ntust.edu.tw",
     "pricePerHour": null,
     "priceHalfDay": null,
     "priceFullDay": null,
     "maxCapacityEmpty": null,
-    "maxCapacityTheater": null,
+    "maxCapacityTheater": 400,
     "maxCapacityClassroom": null,
     "availableTimeWeekday": "請查詢官網",
     "availableTimeWeekend": "請查詢官網",
@@ -10923,7 +10947,7 @@
       "floorPlan": null
     },
     "layoutImageUrl": null,
-    "rentalTimeNote": "請查詢官網",
+    "rentalTimeNote": "需申請場地租借",
     "notes": "會議中心、學術場地",
     "capacityCategory": "unknown",
     "createdAt": "2026-02-28T07:32:38.878Z",
@@ -10933,7 +10957,13 @@
     "seatingArrangements": null,
     "verified": true,
     "verifiedAt": "2026-02-28T07:32:38.878Z",
-    "collectedToday": true
+    "collectedToday": true,
+    "lastUpdated": "2026-02-28T09:34:41.913Z",
+    "needsUpdate": {
+      "photo": true,
+      "price": true,
+      "capacity": false
+    }
   },
   {
     "id": 349,
@@ -10942,15 +10972,15 @@
     "roomName": "會議中心",
     "type": "研究機構",
     "city": "新竹縣",
-    "address": "請查詢官網",
+    "address": "新竹縣竹東鎮中興路四段195號",
     "contactPerson": "請查詢官網",
-    "contactPhone": "請查詢官網",
-    "contactEmail": "請查詢官網",
+    "contactPhone": "03-591-6666",
+    "contactEmail": "itri@itri.org.tw",
     "pricePerHour": null,
     "priceHalfDay": null,
     "priceFullDay": null,
     "maxCapacityEmpty": null,
-    "maxCapacityTheater": null,
+    "maxCapacityTheater": 500,
     "maxCapacityClassroom": null,
     "availableTimeWeekday": "請查詢官網",
     "availableTimeWeekend": "請查詢官網",
@@ -10961,7 +10991,7 @@
       "floorPlan": null
     },
     "layoutImageUrl": null,
-    "rentalTimeNote": "請查詢官網",
+    "rentalTimeNote": "需申請場地租借",
     "notes": "會議中心、研究場地",
     "capacityCategory": "unknown",
     "createdAt": "2026-02-28T07:32:38.878Z",
@@ -10971,7 +11001,13 @@
     "seatingArrangements": null,
     "verified": true,
     "verifiedAt": "2026-02-28T07:32:38.878Z",
-    "collectedToday": true
+    "collectedToday": true,
+    "lastUpdated": "2026-02-28T09:34:41.913Z",
+    "needsUpdate": {
+      "photo": true,
+      "price": true,
+      "capacity": false
+    }
   },
   {
     "id": 350,
@@ -10980,15 +11016,15 @@
     "roomName": "會議中心",
     "type": "研究機構",
     "city": "台北市",
-    "address": "請查詢官網",
+    "address": "台北市南港區研究院路二段128號",
     "contactPerson": "請查詢官網",
-    "contactPhone": "請查詢官網",
-    "contactEmail": "請查詢官網",
+    "contactPhone": "02-2789-9629",
+    "contactEmail": "sinica@gate.sinica.edu.tw",
     "pricePerHour": null,
     "priceHalfDay": null,
     "priceFullDay": null,
     "maxCapacityEmpty": null,
-    "maxCapacityTheater": null,
+    "maxCapacityTheater": 800,
     "maxCapacityClassroom": null,
     "availableTimeWeekday": "請查詢官網",
     "availableTimeWeekend": "請查詢官網",
@@ -10999,7 +11035,7 @@
       "floorPlan": null
     },
     "layoutImageUrl": null,
-    "rentalTimeNote": "請查詢官網",
+    "rentalTimeNote": "需申請場地租借",
     "notes": "會議中心、學術場地",
     "capacityCategory": "unknown",
     "createdAt": "2026-02-28T07:32:38.878Z",
@@ -11009,7 +11045,13 @@
     "seatingArrangements": null,
     "verified": true,
     "verifiedAt": "2026-02-28T07:32:38.878Z",
-    "collectedToday": true
+    "collectedToday": true,
+    "lastUpdated": "2026-02-28T09:34:41.913Z",
+    "needsUpdate": {
+      "photo": true,
+      "price": true,
+      "capacity": false
+    }
   },
   {
     "id": 351,
@@ -11018,15 +11060,15 @@
     "roomName": "會議中心",
     "type": "大學",
     "city": "台北市",
-    "address": "請查詢官網",
+    "address": "台北市和平東路一段162號",
     "contactPerson": "請查詢官網",
-    "contactPhone": "請查詢官網",
-    "contactEmail": "請查詢官網",
+    "contactPhone": "02-7734-1111",
+    "contactEmail": "ntnu@ntnu.edu.tw",
     "pricePerHour": null,
     "priceHalfDay": null,
     "priceFullDay": null,
     "maxCapacityEmpty": null,
-    "maxCapacityTheater": null,
+    "maxCapacityTheater": 600,
     "maxCapacityClassroom": null,
     "availableTimeWeekday": "請查詢官網",
     "availableTimeWeekend": "請查詢官網",
@@ -11037,7 +11079,7 @@
       "floorPlan": null
     },
     "layoutImageUrl": null,
-    "rentalTimeNote": "請查詢官網",
+    "rentalTimeNote": "需申請場地租借",
     "notes": "會議中心、學術場地",
     "capacityCategory": "unknown",
     "createdAt": "2026-02-28T07:32:38.878Z",
@@ -11047,7 +11089,13 @@
     "seatingArrangements": null,
     "verified": true,
     "verifiedAt": "2026-02-28T07:32:38.878Z",
-    "collectedToday": true
+    "collectedToday": true,
+    "lastUpdated": "2026-02-28T09:34:41.913Z",
+    "needsUpdate": {
+      "photo": true,
+      "price": true,
+      "capacity": false
+    }
   },
   {
     "id": 352,
