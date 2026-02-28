@@ -400,8 +400,17 @@
     "availableTimeWeekend": "請查詢官網",
     "equipment": "請查詢官網",
     "images": {
-      "main": null,
-      "gallery": [],
+      "main": "https://www.regenttaiwan.com/asset/types/main//images/uploads/regenttaipei/nav-regent-taipei-nav-overview.jpg",
+      "gallery": [
+        "https://www.regenttaiwan.com/asset/types/main//images/uploads/regenttaipei/nav-regent-taipei-nav-overview.jpg",
+        "https://www.regenttaiwan.com/asset/types/main//images/uploads/regenttaipei/nav-regent-taipei-accommodation.jpg",
+        "https://www.regenttaiwan.com/asset/types/main//images/uploads/regenttaipei/nav-regent-taipei-dining.jpg?v1.001",
+        "https://www.regenttaiwan.com/asset/types/main//images/uploads/regenttaipei/nav-regent-taipei-weddings-events.jpg",
+        "https://www.regenttaiwan.com/uploads/news/624/org/cf160302876eae8471baae0fee5decab.jpg",
+        "https://www.regenttaiwan.com/uploads/news/553/org/74d5f776599bc0d7e59a91e9e931c522.jpg",
+        "https://www.regenttaiwan.com/uploads/news/540/org/82958b8f85f55cfdffab6537375466e0.jpg",
+        "https://www.regenttaiwan.com/uploads/news/539/org/a6f0858d3590826b4e32878a3c83b9e3.jpg"
+      ],
       "floorPlan": null
     },
     "layoutImageUrl": null,
@@ -613,8 +622,19 @@
     "availableTimeWeekend": "請查詢官網",
     "equipment": "請查詢官網",
     "images": {
-      "main": null,
-      "gallery": [],
+      "main": "https://www.ambassador-hotels.com/images/images/taipei/hotel/Ambassador-Hotel-Taipei-Exterior-Evening.jpg",
+      "gallery": [
+        "https://www.ambassador-hotels.com/images/images/taipei/hotel/Ambassador-Hotel-Taipei-Exterior-Evening.jpg",
+        "https://www.ambassador-hotels.com/images/images/hsinchu/dining/promenade/Ambassador-Hotel-Hsinchu-Promenade-Restaurant.jpg",
+        "https://www.ambassador-hotels.com/images/images/kaohsiung/hotel/Ambassador-Hotel-Kaohsiung-On-Banks-of-Love-River.jpg",
+        "https://www.ambassador-hotels.com/images/files/taipei/dining/%E7%AF%80%E6%85%B6/2026%E7%82%B8%E5%85%83%E5%AE%B5/202602%E7%82%B8%E5%85%83%E5%AE%B5%E5%AE%98%E7%B6%B2%E5%9C%96.jpg",
+        "https://www.ambassador-hotels.com/images/files/taipei/dining/a-cut/2025-12-%E5%86%AC%E5%AD%A3%E8%8F%9C%E5%96%AE/A%20CUT%E5%86%AC%E5%AD%A3%E5%AE%98%E7%B6%B2%E5%A4%A7%E5%9C%96.jpg",
+        "https://www.ambassador-hotels.com/images/files/taipei/dining/%E5%9C%8B%E8%B3%93%E4%B8%AD%E9%A4%90%E5%BB%B3(%E9%81%BC%E5%AF%A7)/2025-2026%E5%B0%BE%E7%89%99%E6%98%A5%E9%85%92/2026%E5%B0%BE%E7%89%99%E6%98%A5%E9%85%92%E5%AE%98%E7%B6%B2%E5%9C%96_%E4%B8%AD%E9%A4%90_0.jpg",
+        "https://www.ambassador-hotels.com/images/files/taipei/dining/a-cut/%E5%B0%BE%E7%89%99/2026%E5%B0%BE%E7%89%99%E6%98%A5%E9%85%92%E5%AE%98%E7%B6%B2%E5%9C%96%EF%BC%BFA-Cut_0.jpg",
+        "https://www.ambassador-hotels.com/images/files/taipei/2022-11-%E9%81%BC%E5%AF%A7-%E6%96%B0%E5%9D%80%E4%BB%8B%E7%B4%B9-%E5%AE%98%E7%B6%B2%E5%9C%96-1600X1065-01.jpg",
+        "https://www.ambassador-hotels.com/images/files/taipei/dining/%E5%9C%8B%E8%B3%93%E4%B8%AD%E9%A4%90%E5%BB%B3(%E9%81%BC%E5%AF%A7)/2025-2026%E5%B0%BE%E7%89%99%E6%98%A5%E9%85%92/%E5%B0%BE%E7%89%99%E6%A8%A1%E6%93%AC-1.jpg",
+        "https://www.ambassador-hotels.com/images/files/taipei/2022-11-%E9%81%BC%E5%AF%A7-%E4%BE%BF%E7%95%B6DM-%E5%AE%98%E7%B6%B2%E5%9C%961920X1280-A.jpg"
+      ],
       "floorPlan": null
     },
     "layoutImageUrl": null,
@@ -754,8 +774,19 @@
     "availableTimeWeekend": "請查詢官網",
     "equipment": "請查詢官網",
     "images": {
-      "main": null,
-      "gallery": [],
+      "main": "https://media.ffycdn.net/eu/mandarin-oriental-hotel-group/oy6E3rsLkt5vaNhNAcTM.jpg",
+      "gallery": [
+        "https://media.ffycdn.net/eu/mandarin-oriental-hotel-group/oy6E3rsLkt5vaNhNAcTM.jpg",
+        "https://media.ffycdn.net/eu/mandarin-oriental-hotel-group/PG36Wqh4VfAeL2jrp6rG.svg",
+        "https://media.ffycdn.net/eu/mandarin-oriental-hotel-group/GHtmChdTrRroxsHPPPwY.svg",
+        "https://media.ffycdn.net/eu/mandarin-oriental-hotel-group/y6x5kBa6kJZFo9TBGSnH.svg",
+        "https://media.ffycdn.net/eu/mandarin-oriental-hotel-group/a3GHdhdhYuavjY6q2Pcz.svg",
+        "https://media.ffycdn.net/eu/mandarin-oriental-hotel-group/ti7K8teVWPCuC4MnCgx4.svg",
+        "https://media.ffycdn.net/eu/mandarin-oriental-hotel-group/nFs3nDqcR2DnSjTnPTwV.svg",
+        "https://media.ffycdn.net/eu/mandarin-oriental-hotel-group/fgvyrwf48EroqqgwUktg.svg",
+        "https://media.ffycdn.net/eu/mandarin-oriental-hotel-group/amk6hBkhAmAWAYFEsroq.svg",
+        "data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="
+      ],
       "floorPlan": null
     },
     "layoutImageUrl": null,
@@ -3077,8 +3108,19 @@
     "availableTimeWeekend": "請查詢官網",
     "equipment": "請查詢官網",
     "images": {
-      "main": null,
-      "gallery": [],
+      "main": "https://kenting.caesarpark.com.tw/upload/banner_list/twL_banner_25L24_f5KYkqpvIM.jpg",
+      "gallery": [
+        "https://kenting.caesarpark.com.tw/upload/banner_list/twL_banner_25L24_f5KYkqpvIM.jpg",
+        "https://kenting.caesarpark.com.tw/upload/banner_list/DJI_0046__25L24gyKbj.jpg",
+        "https://kenting.caesarpark.com.tw/upload/banner_list/twL_banner_25L11_56yvznQAwm.jpg",
+        "https://kenting.caesarpark.com.tw/upload/news_list/twL_news_25L22_skfFgYF7vB.jpg",
+        "https://kenting.caesarpark.com.tw/upload/news_list/twL_news_26A29_E6TcUXdVSp.jpg",
+        "https://kenting.caesarpark.com.tw/upload/news_list/twL_news_25L11_oRQSss3pzB.jpg",
+        "https://kenting.caesarpark.com.tw/upload/news_list/twL_news_25L11_W6duK7P5Hy.jpg",
+        "https://kenting.caesarpark.com.tw/upload/news_list/twL_news_25L11_7oMNbUTpwH.jpg",
+        "https://kenting.caesarpark.com.tw/upload/news_list/twL_news_25L11_Fbti845vmN.jpg",
+        "https://kenting.caesarpark.com.tw/upload/news_list/twL_news_25L22_skfFgYF7vB.jpg"
+      ],
       "floorPlan": null
     },
     "layoutImageUrl": null,
@@ -3942,8 +3984,19 @@
     "availableTimeWeekend": "請查詢官網",
     "equipment": "請查詢官網",
     "images": {
-      "main": null,
-      "gallery": [],
+      "main": "https://banqiao.caesarpark.com.tw/upload/home_hotnews_b/Book%20Now%20(2)__26B11VIqIj.jpg",
+      "gallery": [
+        "https://banqiao.caesarpark.com.tw/upload/home_hotnews_b/Book%20Now%20(2)__26B11VIqIj.jpg",
+        "https://banqiao.caesarpark.com.tw/upload/banner_list/bn__25A02GGguI.jpg",
+        "https://banqiao.caesarpark.com.tw/upload/news_list/001%20(4)__26B10dVHiS.png",
+        "https://banqiao.caesarpark.com.tw/upload/news_list/twL_news_26B10_QmDVUKVBmO.jpg",
+        "https://banqiao.caesarpark.com.tw/upload/news_list/04__26A28VGX9T.png",
+        "https://banqiao.caesarpark.com.tw/upload/news_list/547884297_1095364502807619_4084019720958923634_n__25I261wMuq.jpg",
+        "https://banqiao.caesarpark.com.tw/upload/news_list/twL_news_25E20_Wi9AcBw4Q7.jpg",
+        "https://banqiao.caesarpark.com.tw/upload/news_list/001%20(4)__26B10dVHiS.png",
+        "https://banqiao.caesarpark.com.tw/upload/news_list/twL_news_26B10_QmDVUKVBmO.jpg",
+        "https://banqiao.caesarpark.com.tw/upload/news_list/04__26A28VGX9T.png"
+      ],
       "floorPlan": null
     },
     "layoutImageUrl": null,
@@ -4332,8 +4385,19 @@
     "availableTimeWeekend": "請查詢官網",
     "equipment": "請查詢官網",
     "images": {
-      "main": null,
-      "gallery": [],
+      "main": "https://www.fullon-hotels.com.tw/upload/banner_list/fw_twL_banner_20E08_3p5n543ja8.jpg",
+      "gallery": [
+        "https://www.fullon-hotels.com.tw/upload/banner_list/fw_twL_banner_20E08_3p5n543ja8.jpg",
+        "https://www.fullon-hotels.com.tw/upload/banner_list_txt/fw_twL_banner_20E08_8feyduquxt.png",
+        "https://www.fullon-hotels.com.tw/upload/news_list_pic/fw_twL_news_25K09_nczv6ksmnr.jpg",
+        "https://www.fullon-hotels.com.tw/upload/news_list_pic/fw_twL_news_25L13_te8puhs5ya.png",
+        "https://www.fullon-hotels.com.tw/upload/news_list_pic/fw_twL_news_25H22_vedxszputb.jpg",
+        "https://www.fullon-hotels.com.tw/upload/news_list_pic/fw_twL_news_25L13_9na6zakzng.png",
+        "https://www.fullon-hotels.com.tw/upload/news_list_pic/fw_twL_news_26B23_aus9vxj7s3.jpg",
+        "https://www.fullon-hotels.com.tw/upload/news_list_pic/fw_twL_news_25J25_i3etvtrs2i.PNG",
+        "https://www.fullon-hotels.com.tw/upload/news_list_pic/fw_twL_news_25K12_7z52j78e2g.png",
+        "https://www.fullon-hotels.com.tw/upload/news_list_pic/fw_twL_news_25J19_sx3ddwnkrt.png"
+      ],
       "floorPlan": null
     },
     "layoutImageUrl": null,
@@ -5079,8 +5143,19 @@
     "availableTimeWeekend": "請查詢官網",
     "equipment": "請查詢官網",
     "images": {
-      "main": null,
-      "gallery": [],
+      "main": "https://file.moc.gov.tw/001/Upload/531/relpic/14474/249511/5b29ceff-447b-40df-a700-1c6d272add51.jpg",
+      "gallery": [
+        "https://file.moc.gov.tw/001/Upload/531/relpic/14474/249511/5b29ceff-447b-40df-a700-1c6d272add51.jpg",
+        "https://file.moc.gov.tw/001/Upload/531/relpic/14474/251219/08465018-b826-4010-bc6b-d3c31201b0fd.jpg",
+        "https://file.moc.gov.tw/001/Upload/531/relpic/14474/250742/c7b61a23-610f-41a7-a6fc-eba3e91fb002.jpg",
+        "https://file.moc.gov.tw/001/Upload/531/relpic/14474/250405/94be56fe-dba4-4ffe-8a77-375398364ce8.png",
+        "https://file.moc.gov.tw/001/Upload/531/relpic/14474/248526/80a6f5d4-c1e7-40bd-97fd-733277facc31.jpg",
+        "https://file.moc.gov.tw/001/Upload/531/relpic/14474/247112/06933573-e56b-4a00-99f1-2dc8a542fddc.jpg",
+        "https://file.moc.gov.tw/001/Upload/531/relpic/14474/248880/3be899a2-2e8c-43cd-a444-e0ed5aed28c7.jpg",
+        "https://file.moc.gov.tw/001/Upload/531/relpic/14474/249295/0e431cb4-a5fd-4099-9fd3-e39bf1c32919.jpg",
+        "https://file.moc.gov.tw/001/Upload/OldFiles/AdminUploads/banner/small/dcaab0be-ab82-40fe-8c6f-d511bd926119.jpg",
+        "https://file.moc.gov.tw/001/Upload/531/relpic/14474/157698/b6f8edea-4f12-4df6-a30f-8b560f061d2e.jpg"
+      ],
       "floorPlan": null
     },
     "layoutImageUrl": null,
@@ -5173,8 +5248,16 @@
     "availableTimeWeekend": "請查詢官網",
     "equipment": "請查詢官網",
     "images": {
-      "main": null,
-      "gallery": [],
+      "main": "https://www-ws.gov.taipei/001/Upload/617/relpic/28708/9544759/6247cd6e-b74d-4af9-bbaa-65244adbb354.jpg",
+      "gallery": [
+        "https://www-ws.gov.taipei/001/Upload/617/relpic/28708/9544759/6247cd6e-b74d-4af9-bbaa-65244adbb354.jpg",
+        "https://www-ws.gov.taipei/001/Upload/617/relpic/28708/9044429/72620aad-005f-4679-aaa5-5dffae5fab0e.jpg",
+        "https://www-ws.gov.taipei/001/Upload/617/relpic/28708/9183321/c84851dd-418f-48c4-8243-cb93c606ff88.jpg",
+        "https://www-ws.gov.taipei/001/Upload/617/relpic/28708/7947221/271f43cf-b5b6-40e0-b8d3-d807e200ddb2.jpg",
+        "https://www-ws.gov.taipei/001/Upload/617/relpic/28708/7947223/54c95c02-3e73-418e-ac47-d9d6d69743ad.jpg",
+        "https://www-ws.gov.taipei/001/Upload/617/relpic/28176/9509725/8327e629-f013-46f4-89e5-d80c5ee65c59@710x470.jpg",
+        "https://www-ws.gov.taipei/001/Upload/617/relpic/28176/9490104/07f3beba-6409-4c57-bfd7-16d9628fc46e@710x470.jpg"
+      ],
       "floorPlan": null
     },
     "layoutImageUrl": null,
@@ -5244,8 +5327,12 @@
     "availableTimeWeekend": "請查詢官網",
     "equipment": "請查詢官網",
     "images": {
-      "main": null,
-      "gallery": [],
+      "main": "https://clbc.tw/wp-content/uploads/2019/02/daanmain-001-1.jpg",
+      "gallery": [
+        "https://clbc.tw/wp-content/uploads/2019/02/daanmain-001-1.jpg",
+        "https://clbc.tw/wp-content/uploads/2019/05/PZF03955.jpg",
+        "https://clbc.tw/wp-content/uploads/2018/12/%E8%82%A5%E7%9A%82%E7%AE%B1B-20.jpg"
+      ],
       "floorPlan": null
     },
     "layoutImageUrl": null,
@@ -5260,32 +5347,6 @@
     "verified": true,
     "verifiedAt": "2026-02-28T07:32:38.878Z",
     "collectedToday": true
-  },
-  {
-    "id": 129,
-    "name": "復興美學共享空間",
-    "roomName": "多功能廳",
-    "venueType": "會議場地",
-    "type": "共享空間",
-    "city": "台北市",
-    "address": "台北市松山區復興北路99號",
-    "contactPerson": "場地租借",
-    "contactPhone": "02-2546-5566",
-    "contactEmail": "venue@fuxing.space",
-    "pricePerHour": 1200,
-    "priceHalfDay": 5000,
-    "priceFullDay": 8000,
-    "maxCapacityTheater": 60,
-    "maxCapacityClassroom": 35,
-    "availableTimeWeekday": "09:00-21:00",
-    "availableTimeWeekend": "09:00-18:00",
-    "equipment": "投影機、白板、WiFi",
-    "images": {
-      "main": "https://images.unsplash.com/photo-1431540015161-0bf868a2d407?w=800"
-    },
-    "url": "https://www.fuxing.space",
-    "verified": true,
-    "verifiedAt": "2026-02-27"
   },
   {
     "id": 130,
@@ -6624,8 +6685,10 @@
     "availableTimeWeekend": "請查詢官網",
     "equipment": "請查詢官網",
     "images": {
-      "main": null,
-      "gallery": [],
+      "main": "https://www.kmfa.gov.tw/images/index_testimg.jpg",
+      "gallery": [
+        "https://www.kmfa.gov.tw/images/index_testimg.jpg"
+      ],
       "floorPlan": null
     },
     "layoutImageUrl": null,
@@ -9818,8 +9881,19 @@
     "availableTimeWeekend": "請查詢官網",
     "equipment": "請查詢官網",
     "images": {
-      "main": null,
-      "gallery": [],
+      "main": "https://file.moc.gov.tw/001/Upload/0/relpic/11690/251290/a2d56e33-9891-41a1-897a-0799e69e11b2.jpg",
+      "gallery": [
+        "https://file.moc.gov.tw/001/Upload/0/relpic/11690/251290/a2d56e33-9891-41a1-897a-0799e69e11b2.jpg",
+        "https://file.moc.gov.tw/001/Upload/492/relpic/11690/249095/dd803a47-8c78-480e-be46-9b1bd1b44825.jpg",
+        "https://file.moc.gov.tw/001/Upload/492/relpic/11690/249089/c181c2d3-4697-4b61-9935-19bd3873598c.png",
+        "https://file.moc.gov.tw/001/Upload/492/relpic/11647/71447/6cc2a4c4-b764-48ae-91df-d10eef6db020.jpg",
+        "https://file.moc.gov.tw/001/Upload/492/relpic/11647/71446/8812d827-8542-423f-82b0-b6df28a95928.jpg",
+        "https://file.moc.gov.tw/001/Upload/492/relpic/11647/71445/a3873e62-4ff4-4334-b232-8edb69eab892.jpg",
+        "https://file.moc.gov.tw/001/Upload/492/relpic/11648/71448/1b5d7f7a-84a1-4d3c-9b69-f6c0b5e201bf.jpg",
+        "https://file.moc.gov.tw/001/Upload/492/relpic/11648/71449/73130a60-ef38-4d62-89ce-1e8d1143e8a6.jpg",
+        "https://file.moc.gov.tw/001/Upload/492/relpic/11648/71450/03bdc4af-6c87-4cb3-b6ae-b1c4ef086a08.jpg",
+        "https://file.moc.gov.tw/001/Upload/492/relpic/11648/71451/aeb16298-4b7e-4f80-a5df-b5259a633cd8.jpg"
+      ],
       "floorPlan": null
     },
     "layoutImageUrl": null,
@@ -10617,8 +10691,19 @@
     "availableTimeWeekend": "請查詢官網",
     "equipment": "請查詢官網",
     "images": {
-      "main": null,
-      "gallery": [],
+      "main": "https://wwwstorage.taitung.gov.tw/001/Upload/435/relpic/13382/144435/84815043-2e11-44ac-a8e5-975f3955942f.jpg",
+      "gallery": [
+        "https://wwwstorage.taitung.gov.tw/001/Upload/435/relpic/13382/144435/84815043-2e11-44ac-a8e5-975f3955942f.jpg",
+        "https://wwwstorage.taitung.gov.tw/001/Upload/435/relpic/13382/145145/641e4ccc-46f6-4b6a-9a68-70875617b2c0.jpg",
+        "https://wwwstorage.taitung.gov.tw/001/Upload/435/relpic/13382/144852/0a778fbf-cd4b-453b-9e1c-3827a3e0858d.jpg",
+        "https://wwwstorage.taitung.gov.tw/001/Upload/435/relpic/13382/144235/ec244149-75f0-4f32-a362-aa5153f974bc.jpg",
+        "https://wwwstorage.taitung.gov.tw/001/Upload/435/relpic/13382/144499/c061be09-37a4-44c3-b414-26888056b61a.jpg",
+        "https://wwwstorage.taitung.gov.tw/001/Upload/435/relpic/13382/137849/19aea6bc-2438-418b-bafb-08dfe0a4fe36.jpg",
+        "https://wwwstorage.taitung.gov.tw/001/Upload/435/relpic/13382/137850/2e39f041-3ed0-4f38-8fa1-9066c7e53ec5.jpg",
+        "https://wwwstorage.taitung.gov.tw/001/Upload/435/relpic/13382/143799/cf351f63-8097-4f86-8f54-594e91343059.jpg",
+        "https://wwwstorage.taitung.gov.tw/001/Upload/435/relpic/13382/145150/ba31ccd7-53a2-43a1-aa94-febca8165e5e.png",
+        "https://wwwstorage.taitung.gov.tw/001/Upload/435/relpic/13382/129300/ce670ac1-0927-4c71-a1a1-9312ecf0832a.jpg"
+      ],
       "floorPlan": null
     },
     "layoutImageUrl": null,
@@ -10655,8 +10740,19 @@
     "availableTimeWeekend": "請查詢官網",
     "equipment": "請查詢官網",
     "images": {
-      "main": null,
-      "gallery": [],
+      "main": "https://www.fullon-hotels.com.tw/tw/images/banner.jpg",
+      "gallery": [
+        "https://www.fullon-hotels.com.tw/tw/images/banner.jpg",
+        "https://www.fullon-hotels.com.tw/upload/banner_list/twL_banner_20H28_yrt4fvqbv2.jpg",
+        "https://www.fullon-hotels.com.tw/upload/banner_list/twL_banner_20H28_pdahhm8ghh.jpg",
+        "https://www.fullon-hotels.com.tw/upload/banner_list/twL_banner_20H28_jre4yu4e47.jpg",
+        "https://www.fullon-hotels.com.tw/upload/banner_list/twL_banner_20H26_7ng9gm7wdx.jpg",
+        "https://www.fullon-hotels.com.tw/upload/banner_list/twL_banner_20H26_fx8k7hhs5b.jpg",
+        "https://www.fullon-hotels.com.tw/upload/banner_list/twL_banner_20H28_zyzjtaejeh.jpg",
+        "https://www.fullon-hotels.com.tw/upload/ad_stronghold_list/twL_ad_stronghold_20E08_4hs65mc9uh.png",
+        "https://www.fullon-hotels.com.tw/upload/ad_stronghold_list/twL_ad_stronghold_20E24_k65xsxfhp5.jpg",
+        "https://www.fullon-hotels.com.tw/upload/ad_stronghold_list/twL_ad_stronghold_20E08_xhwyandtm2.png"
+      ],
       "floorPlan": null
     },
     "layoutImageUrl": null,
@@ -10693,8 +10789,14 @@
     "availableTimeWeekend": "請查詢官網",
     "equipment": "請查詢官網",
     "images": {
-      "main": null,
-      "gallery": [],
+      "main": "https://npac-www-file.npac-ntch.org/npac/upload/c034f8e1e0bf448f88cbc7625d3aaaae.png",
+      "gallery": [
+        "https://npac-www-file.npac-ntch.org/npac/upload/c034f8e1e0bf448f88cbc7625d3aaaae.png",
+        "https://npac-www-file.npac-ntch.org/npac/upload/040f8f4531e44d068c9d88104fc111e2.jpg",
+        "https://npac-www-file.npac-ntch.org/npac/upload/35ad74c6495c4b1b81c22672ed3f9e4c.jpg",
+        "https://npac-www-file.npac-ntch.org/npac/upload/c40b8e0213a64996aa961145eec5b455.jpg",
+        "https://npac-www-file.npac-ntch.org/npac/upload/921f15b94df64aafb370624322c87025.jpg"
+      ],
       "floorPlan": null
     },
     "layoutImageUrl": null,
@@ -10737,8 +10839,19 @@
     "availableTimeWeekend": "請查詢官網",
     "equipment": "請查詢官網",
     "images": {
-      "main": null,
-      "gallery": [],
+      "main": "https://sitecore-cd-imgr.shangri-la.com/MediaFiles/F/6/5/%7BF65E1DA9-2E64-4765-B62C-5626E1F16404%7D2025_PlazaSuite_1180x535.jpg?w=360&h=175&mode=crop&quality=100&scale=both",
+      "gallery": [
+        "https://sitecore-cd-imgr.shangri-la.com/MediaFiles/F/6/5/%7BF65E1DA9-2E64-4765-B62C-5626E1F16404%7D2025_PlazaSuite_1180x535.jpg?w=360&h=175&mode=crop&quality=100&scale=both",
+        "https://sitecore-cd-imgr.shangri-la.com/MediaFiles/A/6/8/%7BA68F6FFF-2760-44D4-85DB-443A0B8E5AD9%7Dbed-breakfast_1180x535_2.jpg?w=360&h=175&mode=crop&quality=100&scale=both",
+        "https://sitecore-cd-imgr.shangri-la.com/MediaFiles/8/8/D/%7B88D286C8-06A9-481B-8745-28B94E269BB5%7D2026_TPE_SLC_offer_1180x535.jpg?w=360&h=175&mode=crop&quality=100&scale=both",
+        "https://sitecore-cd-imgr.shangri-la.com/MediaFiles/B/D/4/%7BBD4E7CBA-C000-4536-A33D-58FA20632A9D%7D%E9%A6%99%E6%A0%BC%E9%87%8C%E6%8B%89%E5%8F%B0%E5%8C%97%E9%81%A0%E6%9D%B1%E5%A4%A7%E5%BB%B3%20Shangri-La's%20Far%20Eastern%20Plaza%20Hotel%20Taipei%20Lobby%20-.jpg?w=600&h=500&mode=crop&scale=both",
+        "https://sitecore-cd-imgr.shangri-la.com/MediaFiles/0/7/7/%7B077B9188-7299-4D30-9703-9F8EB1DBD9BE%7D200106_TPE_Deluxe_City_View_Twin.jpg",
+        "https://sitecore-cd-imgr.shangri-la.com/MediaFiles/3/8/5/%7B38572290-C3B5-4CE0-9EAC-9D173FCFFAF4%7D200110_TPE_HorizonDeluxeRoom1.jpg",
+        "https://sitecore-cd-imgr.shangri-la.com/MediaFiles/2/9/4/%7B29481386-00F1-4897-8A65-1DE60F5C23D3%7D20231020_TPE_PlazaSuite_living_no101.jpg",
+        "https://sitecore-cd-imgr.shangri-la.com/MediaFiles/0/7/7/%7B077B9188-7299-4D30-9703-9F8EB1DBD9BE%7D200106_TPE_Deluxe_City_View_Twin.jpg",
+        "https://sitecore-cd-imgr.shangri-la.com/MediaFiles/0/7/7/%7B077B9188-7299-4D30-9703-9F8EB1DBD9BE%7D200106_TPE_Deluxe_City_View_Twin.jpg",
+        "https://sitecore-cd-imgr.shangri-la.com/MediaFiles/3/8/5/%7B38572290-C3B5-4CE0-9EAC-9D173FCFFAF4%7D200110_TPE_HorizonDeluxeRoom1.jpg"
+      ],
       "floorPlan": null
     },
     "layoutImageUrl": null,
@@ -10781,8 +10894,19 @@
     "availableTimeWeekend": "請查詢官網",
     "equipment": "請查詢官網",
     "images": {
-      "main": null,
-      "gallery": [],
+      "main": "https://www.ntu.edu.tw/images/resized/cover-13-1366w.jpeg",
+      "gallery": [
+        "https://www.ntu.edu.tw/images/resized/cover-13-1366w.jpeg",
+        "https://www.ntu.edu.tw/images/resized/cover-12-1366w.jpeg",
+        "https://www.ntu.edu.tw/images/index/cover-15-mobile.jpg",
+        "https://www.ntu.edu.tw/images/index/cover-7-mobile.jpg",
+        "https://www.ntu.edu.tw/images/resized/2459_20260225_top-520w.jpeg",
+        "https://www.ntu.edu.tw/images/resized/2458_20260225_top-520w.jpeg",
+        "https://www.ntu.edu.tw/images/resized/2457_20260225_top-520w.jpeg",
+        "https://www.ntu.edu.tw/images/resized/2456_20260225_top-520w.jpeg",
+        "https://www.ntu.edu.tw/images/resized/2455_20260212_top-520w.jpeg",
+        "https://www.ntu.edu.tw/images/resized/2454_20260211_top-520w.jpeg"
+      ],
       "floorPlan": null
     },
     "layoutImageUrl": null,
@@ -10825,8 +10949,19 @@
     "availableTimeWeekend": "請查詢官網",
     "equipment": "請查詢官網",
     "images": {
-      "main": null,
-      "gallery": [],
+      "main": "https://www.nccu.edu.tw/var/file/0/1000/randimg/mobileadv_1538_7434889_03210.jpg",
+      "gallery": [
+        "https://www.nccu.edu.tw/var/file/0/1000/randimg/mobileadv_1538_7434889_03210.jpg",
+        "https://www.nccu.edu.tw/var/file/0/1000/randimg/mobileadv_1532_8049799_71500.jpg",
+        "https://www.nccu.edu.tw/var/file/0/1000/randimg/mobileadv_1531_9509445_04343.png",
+        "https://www.nccu.edu.tw/var/file/0/1000/randimg/mobileadv_1528_3463877_48371.jpg",
+        "https://www.nccu.edu.tw/var/file/0/1000/randimg/mobileadv_1527_9473051_62715.jpg",
+        "https://www.nccu.edu.tw/var/file/0/1000/randimg/mobileadv_1524_5665222_40128.jpg",
+        "https://www.nccu.edu.tw/var/file/0/1000/randimg/mobileadv_1514_48868_34727.jpg",
+        "https://www.nccu.edu.tw/var/file/0/1000/randimg/mobileadv_1563_3086700_16146.png",
+        "https://www.nccu.edu.tw/var/file/0/1000/randimg/mobileadv_1562_1140756_16106.png",
+        "https://www.nccu.edu.tw/var/file/0/1000/randimg/mobileadv_1560_3641127_97422.jpg"
+      ],
       "floorPlan": null
     },
     "layoutImageUrl": null,
@@ -10869,8 +11004,15 @@
     "availableTimeWeekend": "請查詢官網",
     "equipment": "請查詢官網",
     "images": {
-      "main": null,
-      "gallery": [],
+      "main": "https://www.nthu.edu.tw/images/hnMain_176345332665.jpg",
+      "gallery": [
+        "https://www.nthu.edu.tw/images/hnMain_176345332665.jpg",
+        "https://www.nthu.edu.tw/images/hnMain_177209206379.jpg",
+        "https://www.nthu.edu.tw/images/hnMain_176654775578.jpg",
+        "https://www.nthu.edu.tw/images/hnMain_176422638441.jpg",
+        "https://www.nthu.edu.tw/images/hnMain_176345332665.jpg",
+        "https://www.nthu.edu.tw/images/hnMain_177209206379.jpg"
+      ],
       "floorPlan": null
     },
     "layoutImageUrl": null,
@@ -10913,8 +11055,19 @@
     "availableTimeWeekend": "請查詢官網",
     "equipment": "請查詢官網",
     "images": {
-      "main": null,
-      "gallery": [],
+      "main": "https://web.ncku.edu.tw/var/file/0/1000/pictures/906/m/mczh-tw1920x800_small292666_818466182974.jpg",
+      "gallery": [
+        "https://web.ncku.edu.tw/var/file/0/1000/pictures/906/m/mczh-tw1920x800_small292666_818466182974.jpg",
+        "https://web.ncku.edu.tw/var/file/0/1000/pictures/568/m/mczh-tw1920x800_small291994_49320457644.jpg",
+        "https://web.ncku.edu.tw/var/file/0/1000/pictures/677/m/mczh-tw1920x800_small291435_496938140313.jpg",
+        "https://web.ncku.edu.tw/var/file/0/1000/pictures/919/m/mczh-tw1920x800_small293894_229611899634.png",
+        "https://web.ncku.edu.tw/var/file/0/1000/pictures/499/m/mczh-tw1920x800_small293805_378218891224.png",
+        "https://web.ncku.edu.tw/var/file/0/1000/pictures/9/m/mczh-tw1920x800_small293709_393904948334.jpg",
+        "https://web.ncku.edu.tw/var/file/0/1000/pictures/906/m/mczh-tw1920x800_small292666_818466182974.jpg",
+        "https://web.ncku.edu.tw/var/file/0/1000/pictures/568/m/mczh-tw1920x800_small291994_49320457644.jpg",
+        "https://web.ncku.edu.tw/var/file/0/1000/pictures/677/m/mczh-tw1920x800_small291435_496938140313.jpg",
+        "https://web.ncku.edu.tw/var/file/0/1000/pictures/919/m/mczh-tw1920x800_small293894_229611899634.png"
+      ],
       "floorPlan": null
     },
     "layoutImageUrl": null,
@@ -10957,8 +11110,19 @@
     "availableTimeWeekend": "請查詢官網",
     "equipment": "請查詢官網",
     "images": {
-      "main": null,
-      "gallery": [],
+      "main": "https://www.ntust.edu.tw/var/file/0/1000/randimg/mobileadv_3074_2304446_53640.png",
+      "gallery": [
+        "https://www.ntust.edu.tw/var/file/0/1000/randimg/mobileadv_3074_2304446_53640.png",
+        "https://www.ntust.edu.tw/var/file/0/1000/randimg/mobileadv_3060_4267700_39055.gif",
+        "https://www.ntust.edu.tw/var/file/0/1000/randimg/mobileadv_3059_8272406_13041.gif",
+        "https://www.ntust.edu.tw/var/file/0/1000/randimg/mobileadv_3001_7352791_80748.png",
+        "https://www.ntust.edu.tw/var/file/0/1000/randimg/mobileadv_3008_3515386_62962.png",
+        "https://www.ntust.edu.tw/var/file/0/1000/randimg/mobileadv_2791_6338841_07364.jpg",
+        "https://www.ntust.edu.tw/var/file/0/1000/randimg/mobileadv_3138_7303356_38763.png",
+        "https://www.ntust.edu.tw/var/file/0/1000/randimg/mobileadv_3132_6953222_14964.jpg",
+        "https://www.ntust.edu.tw/var/file/0/1000/randimg/mobileadv_3131_8226957_26277.png",
+        "https://www.ntust.edu.tw/var/file/0/1000/randimg/mobileadv_3125_9398379_54523.png"
+      ],
       "floorPlan": null
     },
     "layoutImageUrl": null,
@@ -11001,8 +11165,19 @@
     "availableTimeWeekend": "請查詢官網",
     "equipment": "請查詢官網",
     "images": {
-      "main": null,
-      "gallery": [],
+      "main": "https://www.itri.org.tw/english/WebTools/Thumbnail.ashx?SiteID=1&MmmID=10000&fd=ADBenner_Pics&Pname=20260122%20%E5%85%A8%E7%90%83%E7%99%BE%E5%A4%A7%E5%89%B5%E6%96%B0%E6%A9%9F%E6%A7%8B%E7%8D%B2%E7%8D%8E%E5%AE%98%E7%B6%B2banner.jpg",
+      "gallery": [
+        "https://www.itri.org.tw/english/WebTools/Thumbnail.ashx?SiteID=1&MmmID=10000&fd=ADBenner_Pics&Pname=20260122%20%E5%85%A8%E7%90%83%E7%99%BE%E5%A4%A7%E5%89%B5%E6%96%B0%E6%A9%9F%E6%A7%8B%E7%8D%B2%E7%8D%8E%E5%AE%98%E7%B6%B2banner.jpg",
+        "https://www.itri.org.tw/english/WebTools/Thumbnail.ashx?SiteID=1&MmmID=10000&fd=ADBenner_Pics&Pname=2025%20R_D%20100_%E5%AE%98%E7%B6%B2banner.jpg",
+        "https://www.itri.org.tw/english/WebTools/Thumbnail.ashx?SiteID=1&MmmID=10000&fd=ADBenner_Pics&Pname=2025%20Edison_1920x990.jpg",
+        "https://www.itri.org.tw/english/WebTools/Thumbnail.ashx?SiteID=1&MmmID=10000&fd=ADBenner_Pics&Pname=BANNER_%E5%B0%96%E7%AB%AF%E7%A7%91%E6%8A%80.jpg",
+        "https://www.itri.org.tw/english/WebTools/Thumbnail.ashx?SiteID=1&MmmID=10000&fd=ADBenner_Pics&Pname=BANNER-ITRI-TODAY.jpg",
+        "https://www.itri.org.tw/english/WebTools/Thumbnail.ashx?SiteID=1&MmmID=617731531241750114&fd=NewsLetter_Pics&Pname=photo_1__25111810170529__.jpg",
+        "https://www.itri.org.tw/english/WebTools/Thumbnail.ashx?SiteID=1&MmmID=617731531241750114&fd=NewsLetter_Pics&Pname=Dr.%20Pei-Zen%20Chang.jpg",
+        "https://www.itri.org.tw/english/WebTools/Thumbnail.ashx?SiteID=1&MmmID=617731531241750114&fd=NewsLetter_Pics&Pname=1DDD6E75-3006-482D-9695-F3B62012CD92_%E6%96%B0%E8%81%9E%E7%85%A7%E7%89%87-%E4%BF%AE.webp",
+        "https://www.itri.org.tw/english/WebTools/Thumbnail.ashx?SiteID=1&MmmID=617731531241750114&fd=NewsLetter_Pics&Pname=photo%20%281%29.jpg",
+        "https://www.itri.org.tw/english/WebTools/Thumbnail.ashx?SiteID=1&MmmID=617731531241750114&fd=NewsLetter_Pics&Pname=Clarivate%202026.jpg"
+      ],
       "floorPlan": null
     },
     "layoutImageUrl": null,
@@ -11045,8 +11220,19 @@
     "availableTimeWeekend": "請查詢官網",
     "equipment": "請查詢官網",
     "images": {
-      "main": null,
-      "gallery": [],
+      "main": "https://file.apps.sinica.edu.tw/filepool/asweb/image/2025/2204tYl2ejD2uxOqwHB4YWRd/%E7%A0%94%E7%A9%B6%E6%89%80%E5%8F%8A%E4%B8%AD%E5%BF%83.jfif",
+      "gallery": [
+        "https://file.apps.sinica.edu.tw/filepool/asweb/image/2025/2204tYl2ejD2uxOqwHB4YWRd/%E7%A0%94%E7%A9%B6%E6%89%80%E5%8F%8A%E4%B8%AD%E5%BF%83.jfif",
+        "https://file.apps.sinica.edu.tw/filepool/asweb/image/2025/2204r8NcBmSXvG9Mpl00F9Ab/%E7%A0%94%E7%A9%B6%E6%89%80%E5%8F%8A%E4%B8%AD%E5%BF%83.jpg",
+        "https://file.apps.sinica.edu.tw/filepool/asweb/image/2025/2402wAd4qyvNzYjxBbnwOZ4o/%E5%85%AC%E5%BC%8F.jpg",
+        "https://file.apps.sinica.edu.tw/filepool/asweb/image/2023/2508v8Zjcuf9gtnXa9GGQH9y/%E9%99%A2%E5%8D%80%E9%A2%A8%E6%99%AF.jpg",
+        "https://file.apps.sinica.edu.tw/filepool/asweb/image/2025/2402rKTLsK8A04xxbgQ8rxJX/%E5%9C%96%E6%9B%B8%E9%A4%A8.jpg",
+        "https://file.apps.sinica.edu.tw/filepool/asweb/image/2025/2402eHQg6N7UI1eBP2FTZBeF/%E5%8D%97%E9%83%A8%E9%99%A2%E5%8D%80.jpg",
+        "https://file.apps.sinica.edu.tw/filepool/asweb/image/2025/24028kBLsZX3dpYzxtuho92i/%E4%B8%AD%E5%A4%AE%E7%A0%94%E7%A9%B6%E9%99%A2.jpg",
+        "https://file.apps.sinica.edu.tw/filepool/asweb/image/2025/2402rwa1Pn83q03aZNYgdb75/%E5%9C%8B%E5%AF%B6.jpg",
+        "https://file.apps.sinica.edu.tw/filepool/asweb/image/2025/2402pOwBXv0lipGFrWa1OKjq/%E9%87%8F%E5%AD%90%E9%9B%BB%E8%85%A6.jpg",
+        "https://file.apps.sinica.edu.tw/filepool/asweb/image/2023/3006hBSNpeXtbsqpZw2U0Bhk/123.png"
+      ],
       "floorPlan": null
     },
     "layoutImageUrl": null,
@@ -11089,8 +11275,19 @@
     "availableTimeWeekend": "請查詢官網",
     "equipment": "請查詢官網",
     "images": {
-      "main": null,
-      "gallery": [],
+      "main": "https://www.ntnu.edu.tw/cherry_big_upload/202602280005540.banner022801.jpg",
+      "gallery": [
+        "https://www.ntnu.edu.tw/cherry_big_upload/202602280005540.banner022801.jpg",
+        "https://www.ntnu.edu.tw/cherry_big_upload/202602280006040.banner022802.jpg",
+        "https://www.ntnu.edu.tw/cherry_big_upload/202602280006130.banner022803.jpg",
+        "https://www.ntnu.edu.tw/cherry_big_upload/202602111518330.banner20260211.jpg",
+        "https://www.ntnu.edu.tw/cherry_big_upload/202503311646500.QS.png",
+        "https://www.ntnu.edu.tw/cherry_big_upload/202301061556530.banner20230106-2.png",
+        "https://www.ntnu.edu.tw/cherry_big_upload/202301061556430.banner20230106-1.png",
+        "https://www.ntnu.edu.tw/cherry_big_upload/202209231308010.earth.png",
+        "https://www.ntnu.edu.tw/cherry_big_upload/202602280005540.banner022801.jpg",
+        "https://www.ntnu.edu.tw/cherry_big_upload/202602280006040.banner022802.jpg"
+      ],
       "floorPlan": null
     },
     "layoutImageUrl": null,
@@ -11171,8 +11368,19 @@
     "availableTimeWeekend": "請查詢官網",
     "equipment": "請查詢官網",
     "images": {
-      "main": null,
-      "gallery": [],
+      "main": "https://web.cyut.edu.tw/var/file/0/1000/randimg/mobileadv_6131_1355109_66321.jpg",
+      "gallery": [
+        "https://web.cyut.edu.tw/var/file/0/1000/randimg/mobileadv_6131_1355109_66321.jpg",
+        "https://web.cyut.edu.tw/var/file/0/1000/randimg/mobileadv_6111_9876794_09255.jpg",
+        "https://web.cyut.edu.tw/var/file/0/1000/randimg/mobileadv_6112_5382920_27568.jpg",
+        "https://web.cyut.edu.tw/var/file/0/1000/randimg/mobileadv_6095_7611929_24132.jpg",
+        "https://web.cyut.edu.tw/var/file/0/1000/randimg/mobileadv_6084_1549292_17801.jpg",
+        "https://web.cyut.edu.tw/var/file/0/1000/randimg/mobileadv_6085_4023599_17847.jpg",
+        "https://web.cyut.edu.tw/var/file/0/1000/randimg/mobileadv_6082_8888855_17662.jpg",
+        "https://web.cyut.edu.tw/var/file/0/1000/randimg/mobileadv_6056_9530300_07937.jpg",
+        "https://web.cyut.edu.tw/var/file/0/1000/randimg/mobileadv_6022_1769055_59144.jpg",
+        "https://web.cyut.edu.tw/var/file/0/1000/randimg/mobileadv_6232_9387594_00430.jpg"
+      ],
       "floorPlan": null
     },
     "layoutImageUrl": null,
@@ -11209,8 +11417,19 @@
     "availableTimeWeekend": "請查詢官網",
     "equipment": "請查詢官網",
     "images": {
-      "main": null,
-      "gallery": [],
+      "main": "https://www.isu.edu.tw/storage/images/5YsjH3g23cupucRzoQpLka4rKdvacLKIY993s3FQ.webp",
+      "gallery": [
+        "https://www.isu.edu.tw/storage/images/5YsjH3g23cupucRzoQpLka4rKdvacLKIY993s3FQ.webp",
+        "https://www.isu.edu.tw/storage/images/CBx3FJiFxEGEi1sTRNKhv2vkJteK2m6Bda6WeVzF.webp",
+        "https://www.isu.edu.tw/storage/images/IWoetnllaRlUUY8q6g5jGqcU7cLIYXRffFOjecCB.webp",
+        "https://www.isu.edu.tw/storage/images/gjZMx1zsLlnvK3noDcIZO5d8HpcOtfCbAKhxgYYu.webp",
+        "https://www.isu.edu.tw/storage/images/Zv7IGauzIa0nPxkiHuL3HUhMWfpK6T9UOEIeUT9E.webp",
+        "https://www.isu.edu.tw/storage/images/1pmCDkd5cALytiuu90gUNe5Dm3BwaZgM4C1Jd8Tn.webp",
+        "https://www.isu.edu.tw/storage/images/iEQQThdsK6K4AMTLhkrVXpSvNar39fUQOYu8kOzs.jpg",
+        "https://www.isu.edu.tw/storage/images/JHAlyEMRaEWzo4lJMuBY7uCNZ7HkYbUpUnRBj5tF.jpg",
+        "https://www.isu.edu.tw/_nuxt/shape_svg.89f82db3.png",
+        "https://www.isu.edu.tw/storage/images/ST1wvPgA23DKLkJplqcLOgFWb87r4YlSDKo5bZDr.jpg"
+      ],
       "floorPlan": null
     },
     "layoutImageUrl": null,
@@ -11247,8 +11466,19 @@
     "availableTimeWeekend": "請查詢官網",
     "equipment": "請查詢官網",
     "images": {
-      "main": null,
-      "gallery": [],
+      "main": "https://www.nsysu.edu.tw/static/file/0/1000/pictures/883/m/mczh-tw1920x1200_small369900_207160007373.jpg",
+      "gallery": [
+        "https://www.nsysu.edu.tw/static/file/0/1000/pictures/883/m/mczh-tw1920x1200_small369900_207160007373.jpg",
+        "https://www.nsysu.edu.tw/static/file/0/1000/pictures/137/m/mczh-tw1920x1200_small369574_647914527478.jpg",
+        "https://www.nsysu.edu.tw/static/file/0/1000/pictures/958/m/mczh-tw1920x1200_small368990_356319213811.jpg",
+        "https://www.nsysu.edu.tw/static/file/0/1000/pictures/282/m/mczh-tw1920x1200_small368932_897169760833.jpg",
+        "https://www.nsysu.edu.tw/static/file/0/1000/pictures/374/m/mczh-tw1920x1200_small371429_814655650708.jpg",
+        "https://www.nsysu.edu.tw/static/file/0/1000/pictures/526/m/mczh-tw1920x1200_small370848_589569468342.jpg",
+        "https://www.nsysu.edu.tw/static/file/0/1000/pictures/85/m/mczh-tw1920x1200_small370699_379525494691.jpg",
+        "https://www.nsysu.edu.tw/static/file/0/1000/pictures/781/m/mczh-tw1920x1200_small370098_186392162937.jpg",
+        "https://www.nsysu.edu.tw/static/file/0/1000/pictures/883/m/mczh-tw1920x1200_small369900_207160007373.jpg",
+        "https://www.nsysu.edu.tw/static/file/0/1000/pictures/137/m/mczh-tw1920x1200_small369574_647914527478.jpg"
+      ],
       "floorPlan": null
     },
     "layoutImageUrl": null,
@@ -11285,8 +11515,19 @@
     "availableTimeWeekend": "請查詢官網",
     "equipment": "請查詢官網",
     "images": {
-      "main": null,
-      "gallery": [],
+      "main": "https://front.nptu.edu.tw/var/file/9/1009/img/3679/002.png",
+      "gallery": [
+        "https://front.nptu.edu.tw/var/file/9/1009/img/3679/002.png",
+        "https://front.nptu.edu.tw/var/file/9/1009/title/mobilemotitle_mobile_rcg_mstr_2583_4837388_87292.png",
+        "https://front.nptu.edu.tw/var/file/9/1009/pictures/787/m/mczh-tw2400x1600_small109603_994086459568.jpg",
+        "https://front.nptu.edu.tw/var/file/9/1009/pictures/718/m/mczh-tw2400x1600_small109606_721801937946.png",
+        "https://front.nptu.edu.tw/var/file/9/1009/pictures/130/m/mczh-tw2400x1600_small109604_220252837831.jpg",
+        "https://front.nptu.edu.tw/var/file/9/1009/pictures/278/m/mczh-tw2400x1600_small109605_999687188456.jpg",
+        "https://front.nptu.edu.tw/var/file/9/1009/title/mobilemotitle_mobile_ln_mstr_1467_8593475_36949.gif",
+        "https://front.nptu.edu.tw/var/file/9/1009/plugin/mobile/pictures/linkdet_11988_3507715_61293.png",
+        "https://front.nptu.edu.tw/var/file/9/1009/plugin/mobile/pictures/linkdet_11989_5062362_36673.png",
+        "https://front.nptu.edu.tw/var/file/9/1009/plugin/mobile/pictures/linkdet_11990_6776898_36694.png"
+      ],
       "floorPlan": null
     },
     "layoutImageUrl": null,
@@ -11323,8 +11564,19 @@
     "availableTimeWeekend": "請查詢官網",
     "equipment": "請查詢官網",
     "images": {
-      "main": null,
-      "gallery": [],
+      "main": "https://www.pccu.edu.tw/img/flag_us.png",
+      "gallery": [
+        "https://www.pccu.edu.tw/img/flag_us.png",
+        "https://www.pccu.edu.tw/img/flag_vn.png",
+        "https://www.pccu.edu.tw/img/nav.svg",
+        "https://www.pccu.edu.tw/img/flag_us.png",
+        "https://www.pccu.edu.tw/img/flag_vn.png",
+        "https://epaper.pccu.edu.tw//mainPhoto/2026020403.jpg",
+        "https://epaper.pccu.edu.tw/mainPhoto/2026022601.jpg",
+        "https://epaper.pccu.edu.tw/mainPhoto/2026022503.jpg",
+        "https://epaper.pccu.edu.tw//mainPhoto/2026022501.jpg",
+        "https://epaper.pccu.edu.tw//mainPhoto/2026022402.jpg"
+      ],
       "floorPlan": null
     },
     "layoutImageUrl": null,
@@ -11361,8 +11613,19 @@
     "availableTimeWeekend": "請查詢官網",
     "equipment": "請查詢官網",
     "images": {
-      "main": null,
-      "gallery": [],
+      "main": "https://www.shu.edu.tw/BBS/Ann_MainAD/31634/%E6%88%B2%E6%88%B2%E5%93%81%E5%91%B3%E8%A8%98%E8%80%85%E6%9C%83-01.jpg",
+      "gallery": [
+        "https://www.shu.edu.tw/BBS/Ann_MainAD/31634/%E6%88%B2%E6%88%B2%E5%93%81%E5%91%B3%E8%A8%98%E8%80%85%E6%9C%83-01.jpg",
+        "https://www.shu.edu.tw/BBS/Ann_MainAD/32344/2026%E5%A4%A7%E5%AD%B8%E5%93%81%E7%89%8C%E5%8A%9B.jpg",
+        "https://www.shu.edu.tw/BBS/Ann_MainAD/32334/114%E5%88%86%E7%A7%91BANNER%E6%8B%B7%E8%B2%9D.jpg",
+        "https://www.shu.edu.tw/BBS/Ann_MainAD/32284/%E4%BA%8C%E7%89%88.jpg",
+        "https://www.shu.edu.tw/BBS/Ann_MainAD/32223/%E9%9B%BB%E8%A6%96%E9%87%91%E9%90%98%E6%A0%A1%E7%B6%B2%E5%9C%96.jpg",
+        "https://www.shu.edu.tw/BBS/Ann_MainAD/32201/%E5%BB%A3%E6%92%AD%E9%87%91%E6%A0%A1%E7%B6%B2%E5%9C%96.jpg",
+        "https://www.shu.edu.tw/BBS/Ann_MainAD/32076/114%E5%88%86%E7%A7%91BANNER.jpg",
+        "https://www.shu.edu.tw/BBS/Ann_MainAD/31998/%E5%8C%97%E5%BD%B1(2).jpg",
+        "https://www.shu.edu.tw/BBS/Ann_MainAD/31983/%E6%9C%AA%E5%91%BD%E5%90%8D-3.jpg",
+        "https://www.shu.edu.tw/BBS/Ann_MainAD/31924/1140528%20%E4%B8%96%E9%91%AB%E7%8D%8E.jpg"
+      ],
       "floorPlan": null
     },
     "layoutImageUrl": null,
@@ -11399,8 +11662,19 @@
     "availableTimeWeekend": "請查詢官網",
     "equipment": "請查詢官網",
     "images": {
-      "main": null,
-      "gallery": [],
+      "main": "https://www.ttu.edu.tw/var/file/0/1000/randimg/mobileadv_165_4297455_26871.png",
+      "gallery": [
+        "https://www.ttu.edu.tw/var/file/0/1000/randimg/mobileadv_165_4297455_26871.png",
+        "https://www.ttu.edu.tw/var/file/0/1000/randimg/mobileadv_351_6031443_18230.png",
+        "https://www.ttu.edu.tw/var/file/0/1000/randimg/mobileadv_523_8776930_58564.png",
+        "https://www.ttu.edu.tw/var/file/0/1000/randimg/mobileadv_9_8110225_42216.png",
+        "https://www.ttu.edu.tw/var/file/0/1000/randimg/mobileadv_10_8015186_42251.png",
+        "https://www.ttu.edu.tw/var/file/0/1000/randimg/mobileadv_6_3107494_41947.png",
+        "https://www.ttu.edu.tw/var/file/0/1000/randimg/mobileadv_2_7906167_41964.png",
+        "https://www.ttu.edu.tw/var/file/0/1000/randimg/mobileadv_7_1429366_28389.png",
+        "https://www.ttu.edu.tw/var/file/0/1000/randimg/mobileadv_5_4727571_42698.png",
+        "https://www.ttu.edu.tw/var/file/0/1000/randimg/mobileadv_8_7699976_42292.png"
+      ],
       "floorPlan": null
     },
     "layoutImageUrl": null,
@@ -11437,8 +11711,19 @@
     "availableTimeWeekend": "請查詢官網",
     "equipment": "請查詢官網",
     "images": {
-      "main": null,
-      "gallery": [],
+      "main": "https://www.ndhu.edu.tw/var/file/0/1000/pictures/270/m/mczh-tw1920x1920_small252043_53140642621.jpg",
+      "gallery": [
+        "https://www.ndhu.edu.tw/var/file/0/1000/pictures/270/m/mczh-tw1920x1920_small252043_53140642621.jpg",
+        "https://www.ndhu.edu.tw/var/file/0/1000/pictures/145/m/mczh-tw1920x1920_small252042_158309542333.jpg",
+        "https://www.ndhu.edu.tw/var/file/0/1000/pictures/96/m/mczh-tw1920x1920_small186953_422060698520.jpg",
+        "https://www.ndhu.edu.tw/var/file/0/1000/pictures/515/m/mczh-tw1920x1920_small254529_114888919851.jpg",
+        "https://www.ndhu.edu.tw/var/file/0/1000/pictures/937/m/mczh-tw1920x1920_small254534_207763738500.jpg",
+        "https://www.ndhu.edu.tw/var/file/0/1000/pictures/270/m/mczh-tw1920x1920_small252043_53140642621.jpg",
+        "https://www.ndhu.edu.tw/var/file/0/1000/pictures/145/m/mczh-tw1920x1920_small252042_158309542333.jpg",
+        "https://www.ndhu.edu.tw/var/file/0/1000/pictures/96/m/mczh-tw1920x1920_small186953_422060698520.jpg",
+        "https://www.ndhu.edu.tw/var/file/0/1000/pictures/515/m/mczh-tw1920x1920_small254529_114888919851.jpg",
+        "https://www.ndhu.edu.tw/var/file/0/1000/pictures/937/m/mczh-tw1920x1920_small254534_207763738500.jpg"
+      ],
       "floorPlan": null
     },
     "layoutImageUrl": null,
@@ -11475,8 +11760,19 @@
     "availableTimeWeekend": "請查詢官網",
     "equipment": "請查詢官網",
     "images": {
-      "main": null,
-      "gallery": [],
+      "main": "https://www.nttu.edu.tw/var/file/0/1000/randimg/mobileadv_12095_2362033_04359.png",
+      "gallery": [
+        "https://www.nttu.edu.tw/var/file/0/1000/randimg/mobileadv_12095_2362033_04359.png",
+        "https://www.nttu.edu.tw/var/file/0/1000/randimg/mobileadv_12094_9836126_85295.jpg",
+        "https://www.nttu.edu.tw/var/file/0/1000/randimg/mobileadv_12091_7757968_83710.jpg",
+        "https://www.nttu.edu.tw/var/file/0/1000/randimg/mobileadv_12092_6012448_84220.jpg",
+        "https://www.nttu.edu.tw/var/file/0/1000/randimg/mobileadv_12093_7071512_84841.jpg",
+        "https://www.nttu.edu.tw/var/file/0/1000/randimg/mobileadv_12088_3667545_49590.jpg",
+        "https://www.nttu.edu.tw/var/file/0/1000/randimg/mobileadv_12085_4953095_73271.jpg",
+        "https://www.nttu.edu.tw/var/file/0/1000/randimg/mobileadv_12089_8199054_45239.jpg",
+        "https://www.nttu.edu.tw/var/file/0/1000/randimg/mobileadv_12087_9322154_43727.jpg",
+        "https://www.nttu.edu.tw/var/file/0/1000/randimg/mobileadv_10940_3351569_02267.png"
+      ],
       "floorPlan": null
     },
     "layoutImageUrl": null,
@@ -11513,8 +11809,19 @@
     "availableTimeWeekend": "請查詢官網",
     "equipment": "請查詢官網",
     "images": {
-      "main": null,
-      "gallery": [],
+      "main": "https://www.npu.edu.tw/df_ufiles/014/s_%E6%95%99%E8%82%B2%E9%83%A8%E8%88%89%E8%A1%8C%E5%8D%B8%E6%96%B0%E4%BB%BB%E6%A0%A1%E9%95%B7%E8%81%AF%E5%90%88%E4%BA%A4%E6%8E%A5%E5%85%B8%E7%A6%AE.jpg",
+      "gallery": [
+        "https://www.npu.edu.tw/df_ufiles/014/s_%E6%95%99%E8%82%B2%E9%83%A8%E8%88%89%E8%A1%8C%E5%8D%B8%E6%96%B0%E4%BB%BB%E6%A0%A1%E9%95%B7%E8%81%AF%E5%90%88%E4%BA%A4%E6%8E%A5%E5%85%B8%E7%A6%AE.jpg",
+        "https://www.npu.edu.tw/df_ufiles/014/s_115.01.07%E6%A0%A1%E7%B6%B2%E7%85%A7%E7%89%87.jpg",
+        "https://www.npu.edu.tw/df_ufiles/014/s_%E6%81%AD%E8%B3%80%E8%B3%87%E5%B7%A5%E7%B3%BB%E8%83%A1%E6%AD%A6%E8%AA%8C%E8%80%81%E5%B8%AB%E5%8F%8A%E9%99%B3%E8%89%AF%E5%BC%BC%E4%B8%BB%E4%BB%BB%E5%85%A5%E9%81%B8%202025%E5%B9%B4%E3%80%8C%E7%BE%8E%E5%9C%8B%E5%8F%B2%E4%B8%B9%E4%BD%9B%E5%A4%A7%E5%AD%B8%E5%85%A8%E7%90%83%E9%A0%82%E5%B0%96%E7%A7%91%E5%AD%B8%E5%AE%B6%E3%80%8D.jpg",
+        "https://www.npu.edu.tw/df_ufiles/014/s_1150204%E6%A0%A1%E9%95%B7%E5%B0%B1%E8%81%B7.jpg",
+        "https://www.npu.edu.tw/df_ufiles/014/s_%E6%9C%AC%E6%A0%A1%E9%80%B2%E4%BF%AE%E6%8E%A8%E5%BB%A3%E9%83%A8%E8%BE%A6%E7%90%86%E3%80%8C%E6%B7%A8%E9%9B%B6%E7%B6%A0%E9%A0%98%E4%BA%BA%E6%89%8D%E5%9F%B9%E8%82%B2%E8%AA%B2%E7%A8%8B%E3%80%8D.png",
+        "https://www.npu.edu.tw/df_ufiles/014/s_%E6%95%99%E8%82%B2%E9%83%A8%E8%88%89%E8%A1%8C%E5%8D%B8%E6%96%B0%E4%BB%BB%E6%A0%A1%E9%95%B7%E8%81%AF%E5%90%88%E4%BA%A4%E6%8E%A5%E5%85%B8%E7%A6%AE.jpg",
+        "https://www.npu.edu.tw/df_ufiles/014/s_115.01.07%E6%A0%A1%E7%B6%B2%E7%85%A7%E7%89%87.jpg",
+        "https://www.npu.edu.tw/df_ufiles/014/s_%E6%81%AD%E8%B3%80%E8%B3%87%E5%B7%A5%E7%B3%BB%E8%83%A1%E6%AD%A6%E8%AA%8C%E8%80%81%E5%B8%AB%E5%8F%8A%E9%99%B3%E8%89%AF%E5%BC%BC%E4%B8%BB%E4%BB%BB%E5%85%A5%E9%81%B8%202025%E5%B9%B4%E3%80%8C%E7%BE%8E%E5%9C%8B%E5%8F%B2%E4%B8%B9%E4%BD%9B%E5%A4%A7%E5%AD%B8%E5%85%A8%E7%90%83%E9%A0%82%E5%B0%96%E7%A7%91%E5%AD%B8%E5%AE%B6%E3%80%8D.jpg",
+        "https://www.npu.edu.tw/df_ufiles/014/s_1150204%E6%A0%A1%E9%95%B7%E5%B0%B1%E8%81%B7.jpg",
+        "https://www.npu.edu.tw/df_ufiles/014/s_%E6%9C%AC%E6%A0%A1%E9%80%B2%E4%BF%AE%E6%8E%A8%E5%BB%A3%E9%83%A8%E8%BE%A6%E7%90%86%E3%80%8C%E6%B7%A8%E9%9B%B6%E7%B6%A0%E9%A0%98%E4%BA%BA%E6%89%8D%E5%9F%B9%E8%82%B2%E8%AA%B2%E7%A8%8B%E3%80%8D.png"
+      ],
       "floorPlan": null
     },
     "layoutImageUrl": null,
@@ -11551,8 +11858,19 @@
     "availableTimeWeekend": "請查詢官網",
     "equipment": "請查詢官網",
     "images": {
-      "main": null,
-      "gallery": [],
+      "main": "https://sso.nknu.edu.tw/Unit/Info/AttachedFile.aspx?cEncrptedImagePath=NEUlMmY1T3VKUVNza2pOMEdQQzZ0b0NKMjdqUjJDa0VGSVg4eHpVRTN5dWRhQndiVGMlMmZ2OEVWMndYMFo4SXd3Mks",
+      "gallery": [
+        "https://sso.nknu.edu.tw/Unit/Info/AttachedFile.aspx?cEncrptedImagePath=NEUlMmY1T3VKUVNza2pOMEdQQzZ0b0NKMjdqUjJDa0VGSVg4eHpVRTN5dWRhQndiVGMlMmZ2OEVWMndYMFo4SXd3Mks",
+        "https://sso.nknu.edu.tw/WebServices/ajaxImageReader.aspx?cAES=eXB1NU9NeTFtQ21MVkpnbDRpdldpTFh3ak1rbUNDT0dZZWdsSnZNTC9JZ1lsc0NTaGtUUUNHOWlRNHNQQlFZZDlXaDNSMjlrYnBsTk9rWVdvL2FybUE9PQ",
+        "https://sso.nknu.edu.tw/WebServices/ajaxImageReader.aspx?cAES=eXB1NU9NeTFtQ21MVkpnbDRpdldpTDAxTVdZVGFkNWpjUS9VZUx4d1pOUTRyMzdxMXVnaG1ya0M0Vjd4MlBlSkZDaEFRZ0JydHdIRmJrUmEwendxSXc9PQ",
+        "https://lightnews.nknu.edu.tw/nknu_News/News1/%E5%9C%961.%E6%A0%A1%E9%95%B7%E7%8E%87%E9%A0%98%E4%B8%80%E7%B4%9A%E4%B8%BB%E7%AE%A1%E6%89%8B%E6%8C%81%E3%80%8C%E5%A5%BD%E4%BA%8B%E7%AB%8B%E9%A6%AC%E3%80%8D%E6%98%A5%E8%81%AF%E5%90%91%E5%A4%A7%E5%AE%B6%E8%B3%80%E5%B9%B4.jpg",
+        "https://lightnews.nknu.edu.tw/nknu_News/News1/%E8%88%87%E6%9C%83%E4%BA%BA%E5%93%A1%E6%AD%A1%E5%96%9C%E5%90%88%E5%BD%B1%E7%95%99%E5%BF%B5%EF%BC%8C%E7%B4%80%E9%8C%84%E6%AD%A4%E6%AC%A1%E4%BA%A4%E6%B5%81%E7%9B%9B%E6%B3%81%E3%80%82.jpg",
+        "https://lightnews.nknu.edu.tw/nknu_News/News1/%E7%8E%8B%E6%94%BF%E5%BD%A5%E6%A0%A1%E9%95%B7%E4%B8%BB%E6%8C%81%E8%A1%A8%E6%8F%9A%E5%84%80%E5%BC%8F%E5%BE%8C%E8%88%87%E7%8D%B2%E7%8D%8E%E5%B8%AB%E7%94%9F%E5%90%88%E5%BD%B1.png",
+        "https://lightnews.nknu.edu.tw/nknu_News/News1/%E7%AC%AC21%E5%B1%86%E9%9D%92%E5%B9%B4%E7%B6%93%E5%AD%B8%E5%AD%B8%E8%A1%93%E7%A0%94%E8%A8%8E%E6%9C%83%E9%96%8B%E5%B9%95%E5%BC%8F%E5%BE%8C%E5%87%BA%E5%B8%AD%E4%BA%BA%E5%93%A1%E8%88%87%E5%B8%AB%E9%95%B7%E5%90%88%E5%BD%B1.png",
+        "https://lightnews.nknu.edu.tw/nknu_News/News1/%E5%9C%961.%E5%87%BA%E5%B8%AD114%E5%B9%B4%E4%BA%BA%E6%AC%8A%E6%95%99%E8%82%B2(%E5%90%AB%E8%BD%89%E5%9E%8B%E6%AD%A3%E7%BE%A9)%E6%95%99%E6%A1%88%E7%AB%B6%E8%B3%BD%E9%A0%92%E7%8D%8E%E5%85%B8%E7%A6%AE%E5%85%A8%E9%AB%94%E4%BA%BA%E5%93%A1%E5%90%88%E5%BD%B1.jpg",
+        "https://lightnews.nknu.edu.tw/nknu_News/News1/%E5%87%BA%E5%B8%ADXPlorer%E6%8E%A2%E7%B4%A2%E8%80%85%E8%A8%88%E7%95%AB%E8%81%AF%E5%90%88%E6%88%90%E6%9E%9C%E7%99%BC%E8%A1%A8%E6%9C%83%E8%B2%B4%E8%B3%93%E8%88%87%E5%B8%AB%E7%94%9F%E6%AD%A1%E5%96%9C%E5%A4%A7%E5%90%88%E5%BD%B1.jpg",
+        "https://w3.nknu.edu.tw/images/images/nknuhppi.png"
+      ],
       "floorPlan": null
     },
     "layoutImageUrl": null,
@@ -11589,8 +11907,19 @@
     "availableTimeWeekend": "請查詢官網",
     "equipment": "請查詢官網",
     "images": {
-      "main": null,
-      "gallery": [],
+      "main": "https://www.ncue.edu.tw/var/file/0/1000/randimg/mobileadv_1969_6731549_35064.jpg",
+      "gallery": [
+        "https://www.ncue.edu.tw/var/file/0/1000/randimg/mobileadv_1969_6731549_35064.jpg",
+        "https://www.ncue.edu.tw/var/file/0/1000/randimg/mobileadv_1968_6998244_34988.jpg",
+        "https://www.ncue.edu.tw/var/file/0/1000/randimg/mobileadv_1967_7059704_34794.jpg",
+        "https://www.ncue.edu.tw/var/file/0/1000/randimg/mobileadv_1779_1763223_41133.png",
+        "https://www.ncue.edu.tw/var/file/0/1000/randimg/mobileadv_328_6702908_12606.jpg",
+        "https://www.ncue.edu.tw/var/file/0/1000/randimg/mobileadv_1953_802370_64971.jpg",
+        "https://www.ncue.edu.tw/var/file/0/1000/randimg/mobileadv_2018_5737470_61321.jpg",
+        "https://www.ncue.edu.tw/var/file/0/1000/randimg/mobileadv_2017_1974468_60401.jpg",
+        "https://www.ncue.edu.tw/var/file/0/1000/randimg/mobileadv_1993_1379450_65888.gif",
+        "https://www.ncue.edu.tw/var/file/0/1000/randimg/mobileadv_1969_6731549_35064.jpg"
+      ],
       "floorPlan": null
     },
     "layoutImageUrl": null,
@@ -11627,8 +11956,19 @@
     "availableTimeWeekend": "請查詢官網",
     "equipment": "請查詢官網",
     "images": {
-      "main": null,
-      "gallery": [],
+      "main": "https://www.ntcu.edu.tw/img/data.png",
+      "gallery": [
+        "https://www.ntcu.edu.tw/img/data.png",
+        "https://www.ntcu.edu.tw/Uploads/137960.jpg",
+        "https://www.ntcu.edu.tw/Uploads/114%E5%AD%B8%E5%B9%B4%E5%BA%A6%E7%AC%AC2%E5%AD%B8%E6%9C%9F%E6%95%B8%E5%AD%B8%E6%95%99%E5%AD%B8%E5%B0%88%E6%A5%AD%E7%9F%A5%E8%83%BD%E5%A2%9E%E8%83%BD%E5%B7%A5%E4%BD%9C%E5%9D%8A%E6%B5%B7%E5%A0%B1.jpg",
+        "https://www.ntcu.edu.tw/Uploads/%E5%9C%963-2%EF%BC%9A%E8%8B%97%E6%A0%97%E7%B8%A3%E5%B1%B1%E8%85%B3%E5%9C%8B%E5%B0%8F%E5%B0%87%E5%8E%9F%E6%9C%AC%E9%9B%A3%E4%BB%A5%E8%A6%AA%E8%BF%91%E7%9A%84%E7%94%9F%E6%85%8B%E6%B1%A0%E6%B0%B4%E5%B2%B8%EF%BC%8C%E6%94%B9%E9%80%A0%E6%88%90%E7%82%BA%E8%AE%93%E5%B8%AB%E7%94%9F%E5%85%B1%E5%90%8C%E8%AB%87%E3%80%8C%E7%BE%8E%E3%80%8D%E7%9A%84%E8%A8%98%E6%86%B6%E7%99%BC%E6%BA%90%E5%9C%B0%E3%80%82.JPG",
+        "https://www.ntcu.edu.tw/Uploads/LINE_ALBUM_%E6%93%8D%E5%A0%B4%E8%B7%91%E9%81%93_250616_8.jpg",
+        "https://www.ntcu.edu.tw/Uploads/%E6%A0%A1%E5%9C%92%E5%B7%A1%E7%A6%AE-78.jpg",
+        "https://www.ntcu.edu.tw/Uploads/LYJ_0999.jpg",
+        "https://www.ntcu.edu.tw/Uploads/137771.jpg",
+        "https://www.ntcu.edu.tw/Uploads/%E5%99%B4%E6%B0%B4%E6%B1%A0.JPG",
+        "https://www.ntcu.edu.tw/Uploads/%E6%95%99%E8%82%B2%E6%A8%93-2.JPG"
+      ],
       "floorPlan": null
     },
     "layoutImageUrl": null,
@@ -11665,8 +12005,19 @@
     "availableTimeWeekend": "請查詢官網",
     "equipment": "請查詢官網",
     "images": {
-      "main": null,
-      "gallery": [],
+      "main": "https://www.nutn.edu.tw/images/slider/web169.jpg",
+      "gallery": [
+        "https://www.nutn.edu.tw/images/slider/web169.jpg",
+        "https://www.nutn.edu.tw/images/slider/web166.jpg",
+        "https://www.nutn.edu.tw/images/slider/web168.png",
+        "https://www.nutn.edu.tw/images/slider/web165.jpg",
+        "https://www.nutn.edu.tw/images/slider/web163.png",
+        "https://www.nutn.edu.tw/images/slider/web159.png",
+        "https://www.nutn.edu.tw/images/slider/web113.png",
+        "https://www.nutn.edu.tw/images/slider/web112.png",
+        "https://www.nutn.edu.tw/images/slider/web177.jpg",
+        "https://www.nutn.edu.tw/images/slider/web180.jpg"
+      ],
       "floorPlan": null
     },
     "layoutImageUrl": null,
@@ -11703,8 +12054,19 @@
     "availableTimeWeekend": "請查詢官網",
     "equipment": "請查詢官網",
     "images": {
-      "main": null,
-      "gallery": [],
+      "main": "https://www.nkut.edu.tw/files/banner_pic/589d5c3b1129c656c5bde887cc809d06.jpg",
+      "gallery": [
+        "https://www.nkut.edu.tw/files/banner_pic/589d5c3b1129c656c5bde887cc809d06.jpg",
+        "https://www.nkut.edu.tw/files/banner_pic/476e16eac7ea37339fc46c4e1731e0bc.jpg",
+        "https://www.nkut.edu.tw/files/banner_pic/d26c3d0af54725041ee7ad23f62b3804.jpg",
+        "https://www.nkut.edu.tw/files/banner_pic/175d596679eeb4c0479f94001bad5ee3.png",
+        "https://www.nkut.edu.tw/files/banner_pic/0295c965eb540ae2de5cd3d3a02509d7.jpg",
+        "https://www.nkut.edu.tw/files/banner_pic/d42d9ea58ce2f3f12b778ddacad6787d.png",
+        "https://www.nkut.edu.tw/files/banner_pic/c77e21d68d930372d5015d6a0d510b82.png",
+        "https://www.nkut.edu.tw/files/banner_pic/41799bc39e8d9df24bc16fc6a0e37265.jpg",
+        "https://www.nkut.edu.tw/files/banner_pic/61ca2047ee43a94b254710364a950c75.jpg",
+        "https://www.nkut.edu.tw/files/banner_pic/d9ba3010c59a70afce752a241497f5b7.jpg"
+      ],
       "floorPlan": null
     },
     "layoutImageUrl": null,
@@ -11741,8 +12103,19 @@
     "availableTimeWeekend": "請查詢官網",
     "equipment": "請查詢官網",
     "images": {
-      "main": null,
-      "gallery": [],
+      "main": "https://www.stust.edu.tw/tc/images/slider/banner-img/1130615v2.jpg",
+      "gallery": [
+        "https://www.stust.edu.tw/tc/images/slider/banner-img/1130615v2.jpg",
+        "https://www.stust.edu.tw/tc/images/slider/banner-img/1130605.jpg",
+        "https://www.stust.edu.tw/tc/images/slider/banner-img/1150225v2.jpg",
+        "https://www.stust.edu.tw/tc/images/slider/banner-img/1150224.jpg",
+        "https://www.stust.edu.tw/tc/images/slider/banner-img/1150129.jpg",
+        "https://www.stust.edu.tw/tc/images/slider/banner-img/1150120.jpg",
+        "https://www.stust.edu.tw/tc/images/slider/banner-img/1150119.jpg",
+        "https://www.stust.edu.tw/tc/images/slider/banner-img/1150108.jpg",
+        "https://www.stust.edu.tw/tc/images/slider/banner-img/1141218-1.jpg",
+        "https://www.stust.edu.tw/tc/images/slider/banner-img/1141218-2.jpg"
+      ],
       "floorPlan": null
     },
     "layoutImageUrl": null,
@@ -11779,8 +12152,19 @@
     "availableTimeWeekend": "請查詢官網",
     "equipment": "請查詢官網",
     "images": {
-      "main": null,
-      "gallery": [],
+      "main": "https://www.nycu.edu.tw/static/class2/nycu/ch/color01/images/all/ic_as.svg",
+      "gallery": [
+        "https://www.nycu.edu.tw/static/class2/nycu/ch/color01/images/all/ic_as.svg",
+        "https://www.nycu.edu.tw/static/class2/nycu/ch/color01/images/all/ic_am.svg",
+        "https://www.nycu.edu.tw/static/class2/nycu/ch/color01/images/all/ic_al.svg",
+        "https://www.nycu.edu.tw/static/class2/nycu/ch/color01/images/all/share_tw.svg",
+        "https://www.nycu.edu.tw/nycu/ch/index/viewbannerimage?module=websiteTopBanner&detailno=17&updateDate=20260116151221",
+        "https://www.nycu.edu.tw/nycu/ch/index/viewbannerimage?module=websiteTopBanner&detailno=16&updateDate=20250607151012",
+        "https://www.nycu.edu.tw/nycu/ch/index/viewbannerimage?module=websiteTopBanner&detailno=17&updateDate=20260116151221",
+        "https://www.nycu.edu.tw/nycu/ch/index/viewbannerimage?module=websiteTopBanner&detailno=16&updateDate=20250607151012",
+        "https://www.nycu.edu.tw/nycu/ch/index/viewbannerimage?module=websiteTopBanner&detailno=17&updateDate=20260116151221",
+        "https://www.nycu.edu.tw/nycu/ch/app/news/image?module=headnews&detailNo=1476035891582472192&init=N"
+      ],
       "floorPlan": null
     },
     "layoutImageUrl": null,
@@ -11817,8 +12201,19 @@
     "availableTimeWeekend": "請查詢官網",
     "equipment": "請查詢官網",
     "images": {
-      "main": null,
-      "gallery": [],
+      "main": "https://nhuwebfile.nhu.edu.tw/UploadedFiles/2024/2/683bb4ff-ee46-4bcf-a1b7-e79221840b88.jpg",
+      "gallery": [
+        "https://nhuwebfile.nhu.edu.tw/UploadedFiles/2024/2/683bb4ff-ee46-4bcf-a1b7-e79221840b88.jpg",
+        "https://nhuwebfile.nhu.edu.tw/UploadedFiles/2026/2/ffc125fc-f8a4-4ad0-a60a-88697ece1c12.png",
+        "https://nhuwebfile.nhu.edu.tw/UploadedFiles/2026/2/5bf756e5-86ec-4a3f-97ed-1256dd08f09d.png",
+        "https://nhuwebfile.nhu.edu.tw/UploadedFiles/2026/2/909cbf8b-02f8-4573-9b74-00be3296fc95.png",
+        "https://nhuwebfile.nhu.edu.tw/UploadedFiles/2026/2/4b6caec2-195e-4d9f-9a0c-6b14e2ed51eb.png",
+        "https://nhuwebfile.nhu.edu.tw/UploadedFiles/2026/2/7bc771cc-5288-4fc7-9008-7ddbd1f0f5e8.png",
+        "https://nhuwebfile.nhu.edu.tw/UploadedFiles/2026/2/5dff5995-6db7-4f8c-a1df-94ef6992b25d.png",
+        "https://nhuwebfile.nhu.edu.tw/UploadedFiles/2025/8/4626ae83-3578-479b-ab11-a1c9a92b1f42.gif",
+        "https://nhuwebfile.nhu.edu.tw/UploadedFiles/2025/6/22f9f424-163a-4e2e-905a-f04ebc9d4f22.gif",
+        "https://nhuwebfile.nhu.edu.tw/UploadedFiles/2025/6/ae0cf3e6-3f1a-4d52-a836-29d8ad925400.gif"
+      ],
       "floorPlan": null
     },
     "layoutImageUrl": null,
@@ -12565,5 +12960,148 @@
     "verified": true,
     "verifiedAt": "2026-02-28T08:55:25.344Z",
     "ticcRoomId": "102"
+  },
+  {
+    "name": "台北香格里拉遠東國際大飯店",
+    "roomName": "",
+    "venueType": "會議中心",
+    "city": "台北市",
+    "address": "",
+    "phone": "",
+    "email": "",
+    "url": "https://tpe.fareasternhotel.com.tw/tc/events/meeting/site/",
+    "capacity": {
+      "min": 10,
+      "max": 10
+    },
+    "size": {
+      "min": 33,
+      "max": 33
+    },
+    "price": {
+      "halfDay": 0,
+      "fullDay": 0
+    },
+    "equipment": [],
+    "images": {
+      "main": "",
+      "gallery": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    },
+    "description": "Taipei's Best MICE Hotel",
+    "rules": [],
+    "catering": false,
+    "parking": false,
+    "accessibility": false,
+    "source": "playwright-crawl",
+    "crawledAt": "2026-02-28T13:48:45.851Z"
+  },
+  {
+    "name": "台中市世貿中心",
+    "roomName": "",
+    "venueType": "會議中心",
+    "city": "台中市",
+    "address": "",
+    "phone": "",
+    "email": "",
+    "url": "https://www.wtctxg.org.tw/wtctxg/equipment/meeting",
+    "capacity": {
+      "min": 600,
+      "max": 600
+    },
+    "size": {
+      "min": 0,
+      "max": 0
+    },
+    "price": {
+      "halfDay": 0,
+      "fullDay": 0
+    },
+    "equipment": [],
+    "images": {
+      "main": "",
+      "gallery": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    },
+    "description": "",
+    "rules": [],
+    "catering": false,
+    "parking": false,
+    "accessibility": false,
+    "source": "playwright-crawl",
+    "crawledAt": "2026-02-28T13:49:25.449Z"
   }
 ]
