@@ -1,0 +1,272 @@
+[
+  {
+    "name": "六福萬怡酒店",
+    "url": "https://www.courtyard.com/taipei",
+    "photos": [],
+    "status": "success"
+  },
+  {
+    "name": "典藏咖啡廳",
+    "url": "https://www.artco.com.tw",
+    "error": "Command failed: agent-browser open \"https://www.artco.com.tw\" --timeout 15000 2>&1",
+    "status": "failed"
+  },
+  {
+    "name": "台北W飯店(WTaipei)",
+    "url": "https://www.wtaipei.com",
+    "error": "Command failed: agent-browser open \"https://www.wtaipei.com\" --timeout 15000 2>&1",
+    "status": "failed"
+  },
+  {
+    "name": "台北一樂園大飯店",
+    "url": "https://www.ile-hotel.com",
+    "error": "Command failed: agent-browser open \"https://www.ile-hotel.com\" --timeout 15000 2>&1",
+    "status": "failed"
+  },
+  {
+    "name": "台北丹迪旅店",
+    "url": "https://www.ttdhotel.com",
+    "error": "Command failed: agent-browser open \"https://www.ttdhotel.com\" --timeout 15000 2>&1",
+    "status": "failed"
+  },
+  {
+    "name": "台北亞都麗緻大飯店(LandisTaipei)",
+    "url": "https://www.landis.com.tw",
+    "error": "Command failed: agent-browser open \"https://www.landis.com.tw\" --timeout 15000 2>&1",
+    "status": "failed"
+  },
+  {
+    "name": "台北京站酒店",
+    "url": "https://www.caametro.com",
+    "error": "Command failed: agent-browser open \"https://www.caametro.com\" --timeout 15000 2>&1",
+    "status": "failed"
+  },
+  {
+    "name": "台北八方美學商旅",
+    "url": "https://www.hotelbf.com",
+    "error": "Command failed: agent-browser open \"https://www.hotelbf.com\" --timeout 15000 2>&1",
+    "status": "failed"
+  },
+  {
+    "name": "台北亞都麗緻大飯店",
+    "url": "https://www.landistpe.com",
+    "error": "Command failed: agent-browser open \"https://www.landistpe.com\" --timeout 20000 2>&1",
+    "status": "failed"
+  },
+  {
+    "name": "台北喜來登大飯店",
+    "url": "https://www.sheraton-taipei.com",
+    "photos": [],
+    "status": "success"
+  },
+  {
+    "name": "台北君悅酒店",
+    "url": "https://www.grandhyatttaipei.com",
+    "photos": [],
+    "status": "success"
+  },
+  {
+    "name": "台北W飯店",
+    "url": "https://www.marriott.com/hotels/travel/tpegi-w-taipei",
+    "photos": [],
+    "status": "success"
+  },
+  {
+    "name": "台北國賓大飯店",
+    "url": "https://www.ambassadorhotel.com.tw",
+    "error": "spawnSync /bin/sh ETIMEDOUT",
+    "status": "failed"
+  },
+  {
+    "name": "台北六福客棧(Leofoo)",
+    "url": "https://www.leofoo-hotel.com",
+    "error": "Command failed: agent-browser open \"https://www.le",
+    "status": "failed"
+  },
+  {
+    "name": "台北六福萬怡酒店",
+    "url": "https://www.courtyard.com/taipei-six",
+    "photos": [],
+    "status": "success"
+  },
+  {
+    "name": "台北典華",
+    "url": "https://www.dianhua.com.tw",
+    "error": "Command failed: agent-browser open \"https://www.di",
+    "status": "failed"
+  },
+  {
+    "name": "台北北投會館",
+    "url": "https://www.beitou-hall.com",
+    "error": "Command failed: agent-browser open \"https://www.be",
+    "status": "failed"
+  },
+  {
+    "name": "台北友春大飯店",
+    "url": "https://www.youchun-hotel.com",
+    "error": "Command failed: agent-browser open \"https://www.yo",
+    "status": "failed"
+  },
+  {
+    "name": "台北君悅酒店(GrandHyattTaipei)",
+    "url": "https://www.hyatt.com/taipei",
+    "photos": [],
+    "status": "success"
+  },
+  {
+    "name": "台北唯客樂文旅",
+    "url": "https://www.victoriam.com",
+    "error": "spawnSync /bin/sh ETIMEDOUT",
+    "status": "failed"
+  },
+  {
+    "name": "台北商務會館",
+    "url": "https://www.taipei-business.com",
+    "error": "Command failed: agent-browser open \"https://www.ta",
+    "status": "failed"
+  },
+  {
+    "name": "台北喜瑞飯店",
+    "url": "https://www.ambience-hotel.com",
+    "error": "Command failed: agent-browser open \"https://www.am",
+    "status": "failed"
+  },
+  {
+    "name": "台北姿美大飯店",
+    "url": "https://www.zibei-hotel.com",
+    "error": "Command failed: agent-browser open \"https://www.zi",
+    "status": "failed"
+  },
+  {
+    "name": "台北小巨蛋(TPEArena)",
+    "url": "https://www.taipeiarena.com",
+    "photos": [],
+    "status": "success"
+  },
+  {
+    "name": "台北康華大飯店",
+    "url": "https://www.kanghua-hotel.com",
+    "error": "Command failed: agent-browser open \"https://www.ka",
+    "status": "failed"
+  },
+  {
+    "name": "台北德立莊酒店",
+    "url": "https://www.midtownrichard.com",
+    "error": "Command failed: agent-browser open \"https://www.mi",
+    "status": "failed"
+  },
+  {
+    "name": "台北慶泰大飯店",
+    "url": "https://www.ching-tai.com",
+    "error": "Command failed: agent-browser open \"https://www.ch",
+    "status": "failed"
+  },
+  {
+    "name": "台北晶華酒店(RegentTaipei)",
+    "url": "https://www.regenthotels.com/taipei",
+    "photos": [],
+    "status": "success"
+  },
+  {
+    "name": "台北松意酒店",
+    "url": "https://www.songyi-hotel.com",
+    "error": "Command failed: agent-browser open \"https://www.so",
+    "status": "failed"
+  },
+  {
+    "name": "台北洛碁大飯店",
+    "url": "https://www.chateau-china.com",
+    "error": "Command failed: agent-browser open \"https://www.ch",
+    "status": "failed"
+  },
+  {
+    "name": "台北神旺大飯店(SanWantTaipei)",
+    "url": "https://www.san-want.com",
+    "status": "failed"
+  },
+  {
+    "name": "台北第一大飯店",
+    "url": "https://www.firsthotel.com",
+    "status": "failed"
+  },
+  {
+    "name": "台北第一酒店(FirstHotel)",
+    "url": "https://www.first-hotel.com.tw",
+    "status": "failed"
+  },
+  {
+    "name": "台北統一大飯店",
+    "url": "https://www.tongyi-hotel.com",
+    "status": "failed"
+  },
+  {
+    "name": "台北華國大飯店(ImperialTaipei)",
+    "url": "https://www.imperial-hotel.com.tw",
+    "status": "failed"
+  },
+  {
+    "name": "台北華泰瑞舍",
+    "url": "https://www.gloria-residence.com",
+    "status": "failed"
+  },
+  {
+    "name": "台北陽明山中國麗緻大飯店",
+    "url": "https://www.landisresort.com",
+    "status": "failed"
+  },
+  {
+    "name": "台北體育館",
+    "url": "https://www.tms.gov.tw",
+    "status": "failed"
+  },
+  {
+    "name": "台大校友會館",
+    "url": "https://www.ntualumni.org",
+    "status": "failed"
+  },
+  {
+    "name": "圓山花博公園流行館",
+    "url": "https://www.taipeiexpopark.tw",
+    "status": "failed"
+  },
+  {
+    "name": "天母體育館",
+    "url": "https://www.tianmu.gov.tw",
+    "status": "failed"
+  },
+  {
+    "name": "復興美學共享空間",
+    "url": "https://www.fuxing.space",
+    "status": "failed"
+  },
+  {
+    "name": "文華東方婚宴會館",
+    "url": "https://www.mandarin-wedding.com",
+    "status": "failed"
+  },
+  {
+    "name": "社會創新實驗中心",
+    "url": "https://www.siihub.org",
+    "status": "failed"
+  },
+  {
+    "name": "維多麗亞酒店",
+    "url": "https://www.victoria.com.tw",
+    "status": "failed"
+  },
+  {
+    "name": "花博公園爭艷館",
+    "url": "https://www.taipeiexpopark.tw",
+    "status": "failed"
+  },
+  {
+    "name": "華山1914文化創意產業園區(Huashan1914)(Huashan1914)",
+    "url": "https://www.huashan1914.com",
+    "status": "failed"
+  },
+  {
+    "name": "貳樓餐廳",
+    "url": "https://www.secondfloor.com.tw",
+    "status": "failed"
+  }
+]

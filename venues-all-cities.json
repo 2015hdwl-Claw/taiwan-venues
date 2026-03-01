@@ -1596,8 +1596,9 @@
     "url": "https://www.ile-hotel.com",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "上架",
-    "roomType": "宴會廳"
+    "status": "待確認",
+    "roomType": "宴會廳",
+    "notes": " [DNS 無法解析，官網可能已變更]"
   },
   {
     "id": 1049,
@@ -1661,8 +1662,9 @@
     "url": "https://www.ttdhotel.com",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "上架",
-    "roomType": "會議室"
+    "status": "待確認",
+    "roomType": "會議室",
+    "notes": " [DNS 無法解析，官網可能已變更]"
   },
   {
     "id": 1051,
@@ -1692,8 +1694,9 @@
     "url": "https://www.landis.com.tw",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "上架",
-    "roomType": "宴會廳"
+    "status": "待確認",
+    "roomType": "宴會廳",
+    "notes": " [DNS 無法解析，官網可能已變更]"
   },
   {
     "id": 1052,
@@ -1724,11 +1727,11 @@
     },
     "layoutImageUrl": null,
     "rentalTimeNote": "需提前3天預約",
-    "notes": "台北車站旁，交通便利，適合商務會議",
+    "notes": "台北車站旁，交通便利，適合商務會議 [DNS 無法解析，官網可能已變更]",
     "capacityCategory": "small",
     "targetAudience": "企業",
     "createdAt": "2026-02-26T00:00:00.000Z",
-    "status": "上架",
+    "status": "待確認",
     "roomType": "會議室",
     "url": "https://www.caametro.com"
   },
@@ -1793,8 +1796,9 @@
     "url": "https://www.hotelbf.com",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "上架",
-    "roomType": "會議室"
+    "status": "待確認",
+    "roomType": "會議室",
+    "notes": " [DNS 無法解析，官網可能已變更]"
   },
   {
     "id": 1055,
@@ -1824,8 +1828,9 @@
     "url": "https://www.leofoo-hotel.com",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "上架",
-    "roomType": "宴會廳"
+    "status": "待確認",
+    "roomType": "宴會廳",
+    "notes": " [DNS 無法解析，官網可能已變更]"
   },
   {
     "id": 1056,
@@ -1892,8 +1897,9 @@
     "url": "https://www.dianhua.com.tw",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "上架",
-    "roomType": "婚宴會館"
+    "status": "待確認",
+    "roomType": "婚宴會館",
+    "notes": " [DNS 無法解析，官網可能已變更]"
   },
   {
     "id": 1058,
@@ -1923,8 +1929,9 @@
     "url": "https://www.beitou-hall.com",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "上架",
-    "roomType": "會議中心"
+    "status": "待確認",
+    "roomType": "會議中心",
+    "notes": " [DNS 無法解析，官網可能已變更]"
   },
   {
     "id": 1059,
@@ -1954,8 +1961,9 @@
     "url": "https://www.youchun-hotel.com",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "上架",
-    "roomType": "宴會廳"
+    "status": "待確認",
+    "roomType": "宴會廳",
+    "notes": " [DNS 無法解析，官網可能已變更]"
   },
   {
     "id": 1060,
@@ -13769,8 +13777,9 @@
     "url": "https://www.landis.com.tw",
     "verified": true,
     "verifiedAt": "2026-03-01",
-    "status": "上架",
-    "roomType": "宴會廳"
+    "status": "待確認",
+    "roomType": "宴會廳",
+    "notes": " [DNS 無法解析，官網可能已變更]"
   },
   {
     "id": 1412,
@@ -13800,8 +13809,9 @@
     "url": "https://www.landis.com.tw",
     "verified": true,
     "verifiedAt": "2026-03-01",
-    "status": "上架",
-    "roomType": "宴會廳"
+    "status": "待確認",
+    "roomType": "宴會廳",
+    "notes": " [DNS 無法解析，官網可能已變更]"
   },
   {
     "id": 1413,
