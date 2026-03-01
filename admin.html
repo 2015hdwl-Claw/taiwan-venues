@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-    <title>場地資料庫後台管理</title>
+    <title>場地資料庫管理</title>
     <style>
         * { box-sizing: border-box; margin: 0; padding: 0; }
         body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; background: #f5f5f5; }
@@ -18,23 +18,26 @@
         .stat-value { font-size: 1.1rem; font-weight: bold; }
         .stat-label { font-size: 0.65rem; opacity: 0.8; }
         
+        /* Notice Bar */
+        .notice { background: #f39c12; color: white; padding: 0.5rem 1rem; text-align: center; font-size: 0.85rem; position: fixed; top: 50px; left: 0; right: 0; z-index: 99; }
+        .notice a { color: white; text-decoration: underline; }
+        
         /* Container */
-        .container { margin-top: 60px; padding: 0.5rem; display: flex; gap: 0.5rem; height: calc(100vh - 60px); }
+        .container { margin-top: 90px; padding: 0.5rem; display: flex; gap: 0.5rem; height: calc(100vh - 90px); }
         
         /* Sidebar */
         .sidebar { width: 260px; background: white; border-radius: 8px; padding: 0.75rem; overflow-y: auto; flex-shrink: 0; transition: transform 0.3s ease; }
         .sidebar h3 { margin-bottom: 0.5rem; color: #666; font-size: 0.8rem; text-transform: uppercase; }
         .filter-group { margin-bottom: 0.75rem; }
-        .filter-group label { display: block; font-size: 0.8rem; margin-bottom: 0.25rem; color: #333; }
-        .filter-group input, .filter-group select { width: 100%; padding: 0.5rem; border: 1px solid #ddd; border-radius: 4px; font-size: 0.85rem; }
-        .filter-group input:focus, .filter-group select:focus { outline: none; border-color: #3498db; }
+        .filter-group input { width: 100%; padding: 0.5rem; border: 1px solid #ddd; border-radius: 4px; font-size: 0.85rem; }
+        .filter-group input:focus { outline: none; border-color: #3498db; }
         
-        .city-list, .type-list, .status-list { list-style: none; max-height: 150px; overflow-y: auto; }
-        .city-list li, .type-list li, .status-list li { padding: 0.4rem 0.5rem; cursor: pointer; border-radius: 4px; display: flex; justify-content: space-between; font-size: 0.8rem; }
-        .city-list li:hover, .type-list li:hover, .status-list li:hover { background: #ecf0f1; }
-        .city-list li.active, .type-list li.active, .status-list li.active { background: #3498db; color: white; }
+        .city-list, .type-list { list-style: none; max-height: 150px; overflow-y: auto; }
+        .city-list li, .type-list li { padding: 0.4rem 0.5rem; cursor: pointer; border-radius: 4px; display: flex; justify-content: space-between; font-size: 0.8rem; }
+        .city-list li:hover, .type-list li:hover { background: #ecf0f1; }
+        .city-list li.active, .type-list li.active { background: #3498db; color: white; }
         .count { background: #eee; padding: 0.1rem 0.4rem; border-radius: 10px; font-size: 0.7rem; }
-        .city-list li.active .count, .type-list li.active .count, .status-list li.active .count { background: rgba(255,255,255,0.3); }
+        .city-list li.active .count, .type-list li.active .count { background: rgba(255,255,255,0.3); }
         
         .issues-section { margin-top: 0.75rem; border-top: 1px solid #eee; padding-top: 0.75rem; max-height: 200px; overflow-y: auto; }
         .issue-item { padding: 0.4rem; background: #fff3cd; border-radius: 4px; margin-bottom: 0.4rem; font-size: 0.75rem; cursor: pointer; }
@@ -49,17 +52,10 @@
         .search-box { flex: 1; min-width: 150px; position: relative; }
         .search-box input { width: 100%; padding: 0.5rem 0.75rem 0.5rem 2rem; border: 1px solid #ddd; border-radius: 4px; font-size: 0.85rem; }
         .search-box::before { content: '🔍'; position: absolute; left: 0.5rem; top: 50%; transform: translateY(-50%); font-size: 0.9rem; }
-        .btn { padding: 0.4rem 0.75rem; border: none; border-radius: 4px; cursor: pointer; font-size: 0.8rem; white-space: nowrap; }
-        .btn-primary { background: #3498db; color: white; }
-        .btn-danger { background: #e74c3c; color: white; }
-        .btn-success { background: #27ae60; color: white; }
-        .btn-warning { background: #f39c12; color: white; }
-        .btn:hover { opacity: 0.9; }
-        .btn:active { transform: scale(0.95); }
         
         /* Table */
         .table-container { flex: 1; background: white; border-radius: 8px; overflow: auto; -webkit-overflow-scrolling: touch; }
-        table { width: 100%; border-collapse: collapse; font-size: 0.8rem; min-width: 900px; }
+        table { width: 100%; border-collapse: collapse; font-size: 0.8rem; min-width: 800px; }
         th, td { padding: 0.5rem; text-align: left; border-bottom: 1px solid #eee; }
         th { background: #f8f9fa; position: sticky; top: 0; z-index: 10; font-weight: 600; cursor: pointer; user-select: none; }
         th:hover { background: #e9ecef; }
@@ -86,28 +82,29 @@
         .sidebar-toggle { display: none; position: fixed; bottom: 1rem; left: 1rem; z-index: 150; width: 50px; height: 50px; border-radius: 50%; background: #3498db; color: white; border: none; box-shadow: 0 2px 10px rgba(0,0,0,0.2); font-size: 1.5rem; cursor: pointer; }
         .sidebar-overlay { display: none; position: fixed; top: 0; left: 0; right: 0; bottom: 0; background: rgba(0,0,0,0.5); z-index: 199; }
         
-        /* Modal */
+        /* Modal - 查看詳情 */
         .modal { display: none; position: fixed; top: 0; left: 0; right: 0; bottom: 0; background: rgba(0,0,0,0.5); z-index: 1000; align-items: center; justify-content: center; padding: 0.5rem; }
         .modal.show { display: flex; }
-        .modal-content { background: white; border-radius: 8px; width: 100%; max-width: 800px; max-height: 95vh; overflow-y: auto; -webkit-overflow-scrolling: touch; }
+        .modal-content { background: white; border-radius: 8px; width: 100%; max-width: 700px; max-height: 95vh; overflow-y: auto; -webkit-overflow-scrolling: touch; }
         .modal-header { padding: 0.75rem 1rem; border-bottom: 1px solid #eee; display: flex; justify-content: space-between; align-items: center; position: sticky; top: 0; background: white; z-index: 10; }
         .modal-header h2 { font-size: 1.1rem; }
         .modal-close { background: none; border: none; font-size: 1.5rem; cursor: pointer; color: #666; padding: 0; line-height: 1; }
         .modal-body { padding: 0.75rem 1rem; }
-        .form-group { margin-bottom: 0.75rem; }
-        .form-group label { display: block; font-size: 0.8rem; margin-bottom: 0.2rem; font-weight: 500; }
-        .form-group input, .form-group select, .form-group textarea { width: 100%; padding: 0.5rem; border: 1px solid #ddd; border-radius: 4px; font-size: 0.85rem; }
-        .form-group textarea { min-height: 60px; resize: vertical; }
-        .form-row { display: grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); gap: 0.75rem; }
-        .modal-footer { padding: 0.75rem 1rem; border-top: 1px solid #eee; display: flex; justify-content: flex-end; gap: 0.5rem; flex-wrap: wrap; position: sticky; bottom: 0; background: white; }
         
-        .images-section { margin-top: 0.75rem; }
-        .images-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(100px, 1fr)); gap: 0.5rem; margin-top: 0.5rem; }
-        .image-item { position: relative; aspect-ratio: 4/3; background: #f5f5f5; border-radius: 4px; overflow: hidden; }
+        .detail-section { margin-bottom: 1rem; }
+        .detail-section h4 { color: #666; font-size: 0.8rem; margin-bottom: 0.5rem; padding-bottom: 0.25rem; border-bottom: 1px solid #eee; }
+        .detail-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 0.5rem; }
+        .detail-item { padding: 0.4rem 0; }
+        .detail-item label { font-size: 0.75rem; color: #888; display: block; }
+        .detail-item span { font-size: 0.85rem; color: #333; }
+        .detail-item span.missing { color: #e74c3c; }
+        
+        .images-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(120px, 1fr)); gap: 0.5rem; margin-top: 0.5rem; }
+        .image-item { aspect-ratio: 4/3; background: #f5f5f5; border-radius: 4px; overflow: hidden; }
         .image-item img { width: 100%; height: 100%; object-fit: cover; }
-        .image-item .remove-btn { position: absolute; top: 4px; right: 4px; background: rgba(0,0,0,0.6); color: white; border: none; border-radius: 50%; width: 22px; height: 22px; cursor: pointer; font-size: 12px; }
-        .add-image-btn { border: 2px dashed #ddd; display: flex; align-items: center; justify-content: center; cursor: pointer; color: #666; }
-        .add-image-btn:hover { border-color: #3498db; color: #3498db; }
+        
+        .modal-footer { padding: 0.75rem 1rem; border-top: 1px solid #eee; display: flex; justify-content: center; background: white; }
+        .modal-footer .btn { padding: 0.5rem 1.5rem; }
         
         .toast { position: fixed; bottom: 1rem; right: 1rem; padding: 0.75rem 1rem; background: #333; color: white; border-radius: 4px; z-index: 2000; animation: slideIn 0.3s ease; font-size: 0.85rem; max-width: calc(100% - 2rem); }
         .toast.success { background: #27ae60; }
@@ -122,18 +119,13 @@
             .header h1 { font-size: 1rem; }
             .stat { min-width: 45px; padding: 0.3rem 0.4rem; }
             .stat-value { font-size: 1rem; }
-            .stat-label { font-size: 0.6rem; }
             
-            .container { margin-top: 55px; padding: 0.4rem; gap: 0.4rem; height: calc(100vh - 55px); }
+            .container { margin-top: 85px; padding: 0.4rem; gap: 0.4rem; height: calc(100vh - 85px); }
             
             .sidebar { width: 220px; padding: 0.5rem; }
             .city-list, .type-list { max-height: 120px; }
-            .issues-section { max-height: 150px; }
             
-            .toolbar { padding: 0.4rem; gap: 0.4rem; }
-            .btn { padding: 0.35rem 0.6rem; font-size: 0.75rem; }
-            
-            table { font-size: 0.75rem; min-width: 800px; }
+            table { font-size: 0.75rem; min-width: 700px; }
             th, td { padding: 0.4rem; }
         }
         
@@ -144,11 +136,10 @@
             .stats { gap: 0.25rem; }
             .stat { min-width: 40px; padding: 0.25rem 0.35rem; }
             .stat-value { font-size: 0.9rem; }
-            .stat-label { font-size: 0.55rem; }
             
-            .container { margin-top: 50px; padding: 0.25rem; height: calc(100vh - 50px); flex-direction: column; }
+            .notice { font-size: 0.75rem; padding: 0.4rem; top: 48px; }
+            .container { margin-top: 80px; padding: 0.25rem; height: calc(100vh - 80px); flex-direction: column; }
             
-            /* Sidebar 變成底部彈出 */
             .sidebar { 
                 position: fixed; 
                 bottom: 0; 
@@ -171,64 +162,26 @@
             
             .toolbar { padding: 0.4rem; gap: 0.3rem; }
             .search-box { min-width: 100%; order: -1; }
-            .btn { padding: 0.35rem 0.5rem; font-size: 0.7rem; }
-            .btn-success { display: none; } /* 手機版隱藏匯出按鈕 */
             
             .table-container { border-radius: 6px; }
-            table { font-size: 0.7rem; min-width: 700px; }
+            table { font-size: 0.7rem; min-width: 600px; }
             th, td { padding: 0.35rem 0.3rem; }
             th { font-size: 0.65rem; }
             
-            /* Modal 全螢幕 */
             .modal { padding: 0; align-items: flex-end; }
             .modal-content { 
                 max-width: 100%; 
                 max-height: 95vh; 
                 border-radius: 16px 16px 0 0; 
-                height: 95vh;
             }
-            .modal-header { padding: 0.5rem 0.75rem; }
-            .modal-header h2 { font-size: 1rem; }
             .modal-body { padding: 0.5rem 0.75rem; }
-            .form-row { grid-template-columns: 1fr; gap: 0.5rem; }
-            .modal-footer { padding: 0.5rem 0.75rem; justify-content: center; }
-            .modal-footer .btn { flex: 1; min-width: 70px; text-align: center; }
-            
-            .toast { bottom: 0.75rem; right: 0.75rem; padding: 0.5rem 0.75rem; font-size: 0.75rem; }
-        }
-        
-        /* ==================== 小手機 (< 400px) ==================== */
-        @media screen and (max-width: 399px) {
-            .header h1 { font-size: 0.8rem; }
-            .stat { min-width: 35px; padding: 0.2rem 0.3rem; }
-            .stat-value { font-size: 0.8rem; }
-            
-            .sidebar { height: 70vh; }
-            
-            table { font-size: 0.65rem; min-width: 600px; }
-            th, td { padding: 0.3rem 0.25rem; }
-        }
-        
-        /* ==================== 橫向手機 ==================== */
-        @media screen and (max-width: 767px) and (orientation: landscape) {
-            .container { margin-top: 45px; height: calc(100vh - 45px); }
-            .sidebar { height: 80vh; }
-            .modal-content { height: 100vh; max-height: 100vh; border-radius: 0; }
-        }
-        
-        /* ==================== 列印樣式 ==================== */
-        @media print {
-            .header, .sidebar, .sidebar-toggle, .sidebar-overlay, .toolbar, .modal { display: none !important; }
-            .container { margin: 0; padding: 0; height: auto; }
-            .main { width: 100%; }
-            .table-container { overflow: visible; }
-            table { min-width: auto; font-size: 10pt; }
+            .detail-grid { grid-template-columns: 1fr; }
         }
     </style>
 </head>
 <body>
     <div class="header">
-        <h1>🏛️ 場地資料庫後台</h1>
+        <h1>🏛️ 場地資料庫</h1>
         <div class="stats">
             <div class="stat active" id="statAll" onclick="filterByStatus('')">
                 <div class="stat-value" id="totalCount">-</div>
@@ -247,6 +200,10 @@
                 <div class="stat-label">待修</div>
             </div>
         </div>
+    </div>
+    
+    <div class="notice">
+        📝 這是唯讀展示頁面。如需編輯，請直接告訴 OpenClaw 要修改的內容。
     </div>
     
     <!-- Sidebar Overlay (手機版) -->
@@ -282,13 +239,6 @@
                 <div class="search-box">
                     <input type="text" id="tableSearch" placeholder="快速搜尋...">
                 </div>
-                <select id="statusFilter" onchange="filterByStatus(this.value)">
-                    <option value="上架">上架</option>
-                    <option value="下架">下架</option>
-                    <option value="">全部</option>
-                </select>
-                <button class="btn btn-primary" onclick="showAddModal()">➕ 新增</button>
-                <button class="btn btn-success" onclick="exportData()">📤 匯出</button>
             </div>
             
             <div class="table-container">
@@ -305,210 +255,40 @@
                             <th style="width: 90px;" onclick="sortTable('contactPhone')" data-sort="contactPhone">電話</th>
                             <th style="width: 50px;" onclick="sortTable('photos')" data-sort="photos">照片</th>
                             <th style="width: 50px;">狀態</th>
-                            <th style="width: 50px;">操作</th>
                         </tr>
                     </thead>
                     <tbody id="venuesTable">
-                        <tr><td colspan="11" class="loading">載入中...</td></tr>
+                        <tr><td colspan="10" class="loading">載入中...</td></tr>
                     </tbody>
                 </table>
             </div>
         </div>
     </div>
     
-    <div class="modal" id="editModal">
+    <!-- 查看詳情 Modal -->
+    <div class="modal" id="detailModal">
         <div class="modal-content">
             <div class="modal-header">
-                <h2 id="modalTitle">編輯場地</h2>
+                <h2 id="modalTitle">場地詳情</h2>
                 <button class="modal-close" onclick="closeModal()">&times;</button>
             </div>
-            <div class="modal-body">
-                <input type="hidden" id="editId">
-                
-                <div class="form-row">
-                    <div class="form-group">
-                        <label>場地名稱 *</label>
-                        <input type="text" id="editName" required>
-                    </div>
-                    <div class="form-group">
-                        <label>狀態</label>
-                        <select id="editStatus">
-                            <option value="上架">上架</option>
-                            <option value="下架">下架</option>
-                        </select>
-                    </div>
-                </div>
-                
-                <div class="form-row">
-                    <div class="form-group">
-                        <label>場地類型</label>
-                        <select id="editVenueType">
-                            <option value="飯店場地">飯店場地</option>
-                            <option value="展演場地">展演場地</option>
-                            <option value="機關場地">機關場地</option>
-                            <option value="會議中心">會議中心</option>
-                            <option value="度假村">度假村</option>
-                            <option value="宴會廳">宴會廳</option>
-                            <option value="婚宴場地">婚宴場地</option>
-                            <option value="運動場地">運動場地</option>
-                            <option value="其他">其他</option>
-                        </select>
-                    </div>
-                    <div class="form-group">
-                        <label>廳房名稱</label>
-                        <input type="text" id="editRoomName">
-                    </div>
-                    <div class="form-group">
-                        <label>廳房類型</label>
-                        <input type="text" id="editRoomType" placeholder="如：宴會廳、會議室">
-                    </div>
-                </div>
-                
-                <div class="form-row">
-                    <div class="form-group">
-                        <label>城市</label>
-                        <select id="editCity">
-                            <option value="台北市">台北市</option>
-                            <option value="新北市">新北市</option>
-                            <option value="桃園市">桃園市</option>
-                            <option value="台中市">台中市</option>
-                            <option value="台南市">台南市</option>
-                            <option value="高雄市">高雄市</option>
-                            <option value="基隆市">基隆市</option>
-                            <option value="新竹市">新竹市</option>
-                            <option value="新竹縣">新竹縣</option>
-                            <option value="苗栗縣">苗栗縣</option>
-                            <option value="彰化縣">彰化縣</option>
-                            <option value="南投縣">南投縣</option>
-                            <option value="雲林縣">雲林縣</option>
-                            <option value="嘉義市">嘉義市</option>
-                            <option value="嘉義縣">嘉義縣</option>
-                            <option value="屏東縣">屏東縣</option>
-                            <option value="宜蘭縣">宜蘭縣</option>
-                            <option value="花蓮縣">花蓮縣</option>
-                            <option value="台東縣">台東縣</option>
-                            <option value="澎湖縣">澎湖縣</option>
-                            <option value="金門縣">金門縣</option>
-                            <option value="連江縣">連江縣</option>
-                        </select>
-                    </div>
-                    <div class="form-group" style="flex: 2;">
-                        <label>地址</label>
-                        <input type="text" id="editAddress">
-                    </div>
-                </div>
-                
-                <div class="form-row">
-                    <div class="form-group">
-                        <label>聯絡人</label>
-                        <input type="text" id="editContactPerson">
-                    </div>
-                    <div class="form-group">
-                        <label>聯絡電話</label>
-                        <input type="text" id="editContactPhone">
-                    </div>
-                    <div class="form-group">
-                        <label>Email</label>
-                        <input type="email" id="editContactEmail">
-                    </div>
-                </div>
-                
-                <div class="form-row">
-                    <div class="form-group">
-                        <label>官網</label>
-                        <input type="url" id="editWebsite" placeholder="https://">
-                    </div>
-                </div>
-                
-                <h4 style="margin: 0.75rem 0 0.5rem; color: #666; font-size: 0.85rem;">💰 價格資訊</h4>
-                <div class="form-row">
-                    <div class="form-group">
-                        <label>時薪</label>
-                        <input type="number" id="editPricePerHour" placeholder="元/小時">
-                    </div>
-                    <div class="form-group">
-                        <label>半日價</label>
-                        <input type="number" id="editPriceHalfDay" placeholder="元/4小時">
-                    </div>
-                    <div class="form-group">
-                        <label>全日價</label>
-                        <input type="number" id="editPriceFullDay" placeholder="元/8小時">
-                    </div>
-                </div>
-                
-                <h4 style="margin: 0.75rem 0 0.5rem; color: #666; font-size: 0.85rem;">👥 容納人數</h4>
-                <div class="form-row">
-                    <div class="form-group">
-                        <label>空場</label>
-                        <input type="number" id="editMaxCapacityEmpty" placeholder="最大人數">
-                    </div>
-                    <div class="form-group">
-                        <label>劇院式</label>
-                        <input type="number" id="editMaxCapacityTheater" placeholder="座位數">
-                    </div>
-                    <div class="form-group">
-                        <label>教室式</label>
-                        <input type="number" id="editMaxCapacityClassroom" placeholder="座位數">
-                    </div>
-                </div>
-                
-                <h4 style="margin: 0.75rem 0 0.5rem; color: #666; font-size: 0.85rem;">🕐 開放時間</h4>
-                <div class="form-row">
-                    <div class="form-group">
-                        <label>平日</label>
-                        <input type="text" id="editAvailableTimeWeekday" placeholder="09:00-22:00">
-                    </div>
-                    <div class="form-group">
-                        <label>假日</label>
-                        <input type="text" id="editAvailableTimeWeekend" placeholder="09:00-22:00">
-                    </div>
-                </div>
-                
-                <div class="form-group">
-                    <label>設備</label>
-                    <input type="text" id="editEquipment" placeholder="投影機、音響、麥克風等">
-                </div>
-                
-                <div class="form-group">
-                    <label>租借備註</label>
-                    <input type="text" id="editRentalTimeNote" placeholder="如：需提前2週預約">
-                </div>
-                
-                <div class="form-group">
-                    <label>其他備註</label>
-                    <textarea id="editNotes" placeholder="其他補充說明..."></textarea>
-                </div>
-                
-                <div class="images-section">
-                    <h4 style="margin-bottom: 0.5rem; color: #666; font-size: 0.85rem;">📷 照片</h4>
-                    <div class="images-grid" id="imagesGrid"></div>
-                    <div class="form-group" style="margin-top: 0.5rem;">
-                        <input type="text" id="addImageUrl" placeholder="輸入圖片網址後按新增...">
-                    </div>
-                    <button type="button" class="btn" onclick="addImage()">新增圖片</button>
-                </div>
+            <div class="modal-body" id="modalBody">
             </div>
             <div class="modal-footer">
-                <button class="btn" onclick="closeModal()">取消</button>
-                <button class="btn btn-warning" id="toggleStatusBtn" onclick="toggleVenueStatus()">下架</button>
-                <button class="btn btn-danger" id="deleteBtn" onclick="deleteVenue()">刪除</button>
-                <button class="btn btn-primary" onclick="saveVenue()">儲存</button>
+                <button class="btn" onclick="closeModal()">關閉</button>
             </div>
         </div>
     </div>
 
     <script>
-        // API 端點 - 根據部署環境自動選擇
-        const API_BASE = window.location.hostname.includes('github.io') 
-            ? 'https://taiwan-venues.onrender.com'  // Render 部署的後端
-            : '';  // 本地開發
+        // 直接從 GitHub Raw 讀取 JSON（不需要 Render API）
+        const DATA_URL = 'https://raw.githubusercontent.com/2015hdwl-Claw/taiwan-venues/main/venues-all-cities.json';
         
+        let allVenues = [];
         let venues = [];
-        let stats = {};
         let currentCity = '';
         let currentType = '';
         let currentStatus = '上架';
-        let currentImages = [];
         
         // 排序狀態
         let sortField = 'id';
@@ -518,18 +298,8 @@
         let sidebarOpen = false;
         
         document.addEventListener('DOMContentLoaded', () => {
-            loadStats();
-            loadVenues();
-            document.getElementById('tableSearch').addEventListener('input', debounce(loadVenues, 300));
-            
-            // 點擊篩選後自動關閉 sidebar (手機版)
-            document.querySelectorAll('.city-list li, .type-list li').forEach(li => {
-                li.addEventListener('click', () => {
-                    if (window.innerWidth <= 767) {
-                        setTimeout(toggleSidebar, 300);
-                    }
-                });
-            });
+            loadData();
+            document.getElementById('tableSearch').addEventListener('input', debounce(filterVenues, 300));
         });
         
         function toggleSidebar() {
@@ -547,88 +317,132 @@
             };
         }
         
-        async function loadStats() {
+        async function loadData() {
             try {
-                const res = await fetch(`${API_BASE}/api/stats`);
-                stats = await res.json();
-                
-                document.getElementById('totalCount').textContent = stats.total;
-                document.getElementById('onlineCount').textContent = stats.status?.上架 || 0;
-                document.getElementById('offlineCount').textContent = stats.status?.下架 || 0;
-                document.getElementById('issueCount').textContent = stats.issues.length;
-                document.getElementById('allCityCount').textContent = stats.total;
-                document.getElementById('allTypeCount').textContent = stats.total;
-                
-                // 城市列表
-                const cityList = document.getElementById('cityList');
-                const cityItems = Object.entries(stats.cities)
-                    .sort((a, b) => b[1] - a[1])
-                    .map(([city, count]) => `
-                        <li data-city="${city}" onclick="filterByCity('${city}')">
-                            ${city} <span class="count">${count}</span>
-                        </li>
-                    `).join('');
-                cityList.innerHTML = `<li class="active" data-city="" onclick="filterByCity('')">全部城市 <span class="count">${stats.total}</span></li>` + cityItems;
-                
-                // 類型列表
-                const typeList = document.getElementById('typeList');
-                const typeItems = Object.entries(stats.types)
-                    .sort((a, b) => b[1] - a[1])
-                    .map(([type, count]) => `
-                        <li data-type="${type}" onclick="filterByType('${type}')">
-                            ${type} <span class="count">${count}</span>
-                        </li>
-                    `).join('');
-                typeList.innerHTML = `<li class="active" data-type="" onclick="filterByType('')">全部類型 <span class="count">${stats.total}</span></li>` + typeItems;
-                
-                // 問題列表
-                const issuesHtml = stats.issues.slice(0, 15).map(i => `
-                    <div class="issue-item" onclick="editVenue(${i.id})">
-                        <strong>${i.name}</strong>
-                        <span class="issue-tag">${i.issue}</span>
-                    </div>
-                `).join('');
-                document.getElementById('issuesList').innerHTML = issuesHtml || '<p style="color:#666;font-size:0.75rem;">✅ 無待修正項目</p>';
-                
+                const res = await fetch(DATA_URL);
+                allVenues = await res.json();
+                calculateStats();
+                filterVenues();
             } catch (e) {
-                console.error('載入統計失敗:', e);
+                document.getElementById('venuesTable').innerHTML = '<tr><td colspan="10" class="loading">載入失敗: ' + e.message + '</td></tr>';
             }
         }
         
-        async function loadVenues() {
-            const search = document.getElementById('tableSearch').value;
-            let status = currentStatus;
+        function calculateStats() {
+            const stats = {
+                total: allVenues.length,
+                online: 0,
+                offline: 0,
+                issues: [],
+                cities: {},
+                types: {}
+            };
             
-            let url = `${API_BASE}/api/venues?city=${encodeURIComponent(currentCity)}&type=${encodeURIComponent(currentType)}&status=${encodeURIComponent(status)}`;
-            if (search) url += `&search=${encodeURIComponent(search)}`;
+            allVenues.forEach(v => {
+                // 狀態統計
+                if (v.status === '下架') stats.offline++;
+                else stats.online++;
+                
+                // 城市統計
+                const city = v.city || '未知';
+                stats.cities[city] = (stats.cities[city] || 0) + 1;
+                
+                // 類型統計
+                const type = v.venueType || '未知';
+                stats.types[type] = (stats.types[type] || 0) + 1;
+                
+                // 問題檢查
+                if (!v.contactPhone) stats.issues.push({id: v.id, name: v.name, issue: '缺電話'});
+                else if (!v.images || Object.keys(v.images || {}).length === 0) stats.issues.push({id: v.id, name: v.name, issue: '缺照片'});
+                else if (!v.priceHalfDay && !v.priceFullDay && !v.pricePerHour) stats.issues.push({id: v.id, name: v.name, issue: '缺價格'});
+            });
             
-            try {
-                const res = await fetch(url);
-                venues = await res.json();
-                renderTable();
-            } catch (e) {
-                document.getElementById('venuesTable').innerHTML = '<tr><td colspan="11" class="loading">載入失敗</td></tr>';
-            }
+            document.getElementById('totalCount').textContent = stats.total;
+            document.getElementById('onlineCount').textContent = stats.online;
+            document.getElementById('offlineCount').textContent = stats.offline;
+            document.getElementById('issueCount').textContent = stats.issues.length;
+            document.getElementById('allCityCount').textContent = stats.total;
+            document.getElementById('allTypeCount').textContent = stats.total;
+            
+            // 城市列表
+            const cityList = document.getElementById('cityList');
+            const cityItems = Object.entries(stats.cities)
+                .sort((a, b) => b[1] - a[1])
+                .map(([city, count]) => `
+                    <li data-city="${city}" onclick="filterByCity('${city}')">
+                        ${city} <span class="count">${count}</span>
+                    </li>
+                `).join('');
+            cityList.innerHTML = `<li class="active" data-city="" onclick="filterByCity('')">全部城市 <span class="count">${stats.total}</span></li>` + cityItems;
+            
+            // 類型列表
+            const typeList = document.getElementById('typeList');
+            const typeItems = Object.entries(stats.types)
+                .sort((a, b) => b[1] - a[1])
+                .map(([type, count]) => `
+                    <li data-type="${type}" onclick="filterByType('${type}')">
+                        ${type} <span class="count">${count}</span>
+                    </li>
+                `).join('');
+            typeList.innerHTML = `<li class="active" data-type="" onclick="filterByType('')">全部類型 <span class="count">${stats.total}</span></li>` + typeItems;
+            
+            // 問題列表
+            const issuesHtml = stats.issues.slice(0, 20).map(i => `
+                <div class="issue-item" onclick="showDetail(${i.id})">
+                    <strong>${i.name}</strong>
+                    <span class="issue-tag">${i.issue}</span>
+                </div>
+            `).join('');
+            document.getElementById('issuesList').innerHTML = issuesHtml || '<p style="color:#666;font-size:0.75rem;">✅ 無待修正項目</p>';
+        }
+        
+        function filterVenues() {
+            const search = document.getElementById('tableSearch').value.toLowerCase();
+            
+            venues = allVenues.filter(v => {
+                // 城市篩選
+                if (currentCity && v.city !== currentCity) return false;
+                
+                // 類型篩選
+                if (currentType && v.venueType !== currentType) return false;
+                
+                // 狀態篩選
+                if (currentStatus === 'issues') {
+                    const hasIssue = !v.contactPhone || !v.images || Object.keys(v.images || {}).length === 0 || (!v.priceHalfDay && !v.priceFullDay && !v.pricePerHour);
+                    if (!hasIssue) return false;
+                } else if (currentStatus && v.status !== currentStatus) {
+                    return false;
+                }
+                
+                // 搜尋
+                if (search) {
+                    const searchable = `${v.name} ${v.address || ''} ${v.roomName || ''} ${v.city || ''}`.toLowerCase();
+                    if (!searchable.includes(search)) return false;
+                }
+                
+                return true;
+            });
+            
+            sortVenues();
+            renderTable();
         }
         
         function renderTable() {
             const html = venues.map(v => {
                 const typeClass = getTypeClass(v.venueType);
-                const issues = getVenueIssues(v);
-                const issueBadge = issues.length > 0 ? `<span class="issue-badge">${issues.length}</span>` : '✅';
                 const statusClass = v.status === '下架' ? 'offline' : '';
                 const statusBadge = v.status === '下架' 
                     ? '<span class="status-badge status-offline">下架</span>'
                     : '<span class="status-badge status-online">上架</span>';
                 
                 // 照片
-                const photos = v.images || [];
-                const photoHtml = photos.length > 0 
-                    ? `<span title="${photos.length} 張照片">📷${photos.length}</span>`
+                const photoCount = v.images ? Object.keys(v.images).length : 0;
+                const photoHtml = photoCount > 0 
+                    ? `<span title="${photoCount} 張照片">📷${photoCount}</span>`
                     : '<span style="color:#e74c3c">無</span>';
                 
                 return `
-                    <tr class="${statusClass}" onclick="editVenue(${v.id})" style="cursor:pointer">
+                    <tr class="${statusClass}" onclick="showDetail(${v.id})" style="cursor:pointer">
                         <td>${v.id}</td>
                         <td><strong>${v.name || '?'}</strong></td>
                         <td>${v.roomName || '-'}</td>
@@ -639,14 +453,11 @@
                         <td>${v.contactPhone || '<span style="color:#e74c3c">缺</span>'}</td>
                         <td>${photoHtml}</td>
                         <td>${statusBadge}</td>
-                        <td>
-                            <button class="btn" onclick="event.stopPropagation();editVenue(${v.id})" style="padding:0.2rem 0.4rem;font-size:0.7rem;">編輯</button>
-                        </td>
                     </tr>
                 `;
             }).join('');
             
-            document.getElementById('venuesTable').innerHTML = html || '<tr><td colspan="11" class="loading">無資料</td></tr>';
+            document.getElementById('venuesTable').innerHTML = html || '<tr><td colspan="10" class="loading">無資料</td></tr>';
         }
         
         function getTypeClass(type) {
@@ -662,21 +473,13 @@
             return map[type] || 'tag-other';
         }
         
-        function getVenueIssues(v) {
-            const issues = [];
-            if (!v.contactPhone) issues.push('缺電話');
-            if (!v.images || v.images.length === 0) issues.push('缺照片');
-            if (!v.priceHalfDay && !v.priceFullDay && !v.pricePerHour) issues.push('缺價格');
-            if (!v.address) issues.push('缺地址');
-            return issues;
-        }
-        
         function filterByCity(city) {
             currentCity = city;
             document.querySelectorAll('.city-list li').forEach(li => {
                 li.classList.toggle('active', li.dataset.city === city);
             });
-            loadVenues();
+            filterVenues();
+            if (window.innerWidth <= 767) setTimeout(toggleSidebar, 300);
         }
         
         function filterByType(type) {
@@ -684,17 +487,12 @@
             document.querySelectorAll('.type-list li').forEach(li => {
                 li.classList.toggle('active', li.dataset.type === type);
             });
-            loadVenues();
+            filterVenues();
+            if (window.innerWidth <= 767) setTimeout(toggleSidebar, 300);
         }
         
         function filterByStatus(status) {
-            if (status === 'issues') {
-                currentStatus = '';
-                document.getElementById('statusFilter').value = '';
-            } else {
-                currentStatus = status;
-                document.getElementById('statusFilter').value = status;
-            }
+            currentStatus = status;
             
             document.querySelectorAll('.stat').forEach(s => s.classList.remove('active'));
             if (status === '') document.getElementById('statAll').classList.add('active');
@@ -702,7 +500,7 @@
             else if (status === '下架') document.getElementById('statOffline').classList.add('active');
             else if (status === 'issues') document.getElementById('statIssues').classList.add('active');
             
-            loadVenues();
+            filterVenues();
         }
         
         function sortTable(field) {
@@ -729,297 +527,117 @@
                 let valA, valB;
                 
                 switch (sortField) {
-                    case 'id':
-                        valA = a.id || 0;
-                        valB = b.id || 0;
-                        break;
-                    case 'name':
-                        valA = (a.name || '').toLowerCase();
-                        valB = (b.name || '').toLowerCase();
-                        break;
-                    case 'roomName':
-                        valA = (a.roomName || '').toLowerCase();
-                        valB = (b.roomName || '').toLowerCase();
-                        break;
-                    case 'venueType':
-                        valA = (a.venueType || '').toLowerCase();
-                        valB = (b.venueType || '').toLowerCase();
-                        break;
-                    case 'city':
-                        valA = (a.city || '').toLowerCase();
-                        valB = (b.city || '').toLowerCase();
-                        break;
-                    case 'capacity':
-                        valA = a.maxCapacityTheater || a.maxCapacityEmpty || 0;
-                        valB = b.maxCapacityTheater || b.maxCapacityEmpty || 0;
-                        break;
-                    case 'priceHalfDay':
-                        valA = parseFloat(a.priceHalfDay) || 0;
-                        valB = parseFloat(b.priceHalfDay) || 0;
-                        break;
-                    case 'contactPhone':
-                        valA = (a.contactPhone || '').toLowerCase();
-                        valB = (b.contactPhone || '').toLowerCase();
-                        break;
-                    case 'photos':
-                        valA = (a.images || []).length;
-                        valB = (b.images || []).length;
-                        break;
-                    default:
-                        valA = a[sortField] || '';
-                        valB = b[sortField] || '';
+                    case 'id': valA = a.id || 0; valB = b.id || 0; break;
+                    case 'name': valA = (a.name || '').toLowerCase(); valB = (b.name || '').toLowerCase(); break;
+                    case 'roomName': valA = (a.roomName || '').toLowerCase(); valB = (b.roomName || '').toLowerCase(); break;
+                    case 'venueType': valA = (a.venueType || '').toLowerCase(); valB = (b.venueType || '').toLowerCase(); break;
+                    case 'city': valA = (a.city || '').toLowerCase(); valB = (b.city || '').toLowerCase(); break;
+                    case 'capacity': valA = a.maxCapacityTheater || a.maxCapacityEmpty || 0; valB = b.maxCapacityTheater || b.maxCapacityEmpty || 0; break;
+                    case 'priceHalfDay': valA = parseFloat(a.priceHalfDay) || 0; valB = parseFloat(b.priceHalfDay) || 0; break;
+                    case 'contactPhone': valA = (a.contactPhone || '').toLowerCase(); valB = (b.contactPhone || '').toLowerCase(); break;
+                    case 'photos': valA = a.images ? Object.keys(a.images).length : 0; valB = b.images ? Object.keys(b.images).length : 0; break;
+                    default: valA = a[sortField] || ''; valB = b[sortField] || '';
                 }
                 
                 if (typeof valA === 'number' && typeof valB === 'number') {
                     return sortOrder === 'asc' ? valA - valB : valB - valA;
                 } else {
-                    const strA = String(valA);
-                    const strB = String(valB);
-                    if (sortOrder === 'asc') {
-                        return strA.localeCompare(strB, 'zh-TW');
-                    } else {
-                        return strB.localeCompare(strA, 'zh-TW');
-                    }
+                    return sortOrder === 'asc' 
+                        ? String(valA).localeCompare(String(valB), 'zh-TW')
+                        : String(valB).localeCompare(String(valA), 'zh-TW');
                 }
             });
         }
         
-        async function editVenue(id) {
-            let venue = venues.find(v => v.id === id);
+        function showDetail(id) {
+            const venue = allVenues.find(v => v.id === id);
+            if (!venue) return;
             
-            if (!venue) {
-                try {
-                    showToast('載入中...', '');
-                    
-                    // 先嘗試單個場地 API
-                    let res = await fetch(`${API_BASE}/api/venue/${id}`);
-                    if (res.ok) {
-                        venue = await res.json();
-                    } else {
-                        // 備用方案：從全部場地 API 獲取並過濾
-                        res = await fetch(`${API_BASE}/api/venues?status=`);
-                        if (res.ok) {
-                            const allVenues = await res.json();
-                            venue = allVenues.find(v => v.id === id);
-                        }
-                    }
-                } catch (e) {
-                    showToast('無法載入場地資料: ' + e.message, 'error');
-                    return;
-                }
-            }
+            document.getElementById('modalTitle').textContent = venue.name || '場地詳情';
             
-            if (!venue) {
-                showToast('找不到此場地 (ID: ' + id + ')', 'error');
-                return;
-            }
+            const images = venue.images || {};
+            const imageKeys = Object.keys(images);
+            const imagesHtml = imageKeys.length > 0 
+                ? imageKeys.map(k => `<div class="image-item"><img src="${images[k]}" alt="${k}" onerror="this.style.display='none'"></div>`).join('')
+                : '<p style="color:#888;font-size:0.85rem;">無照片</p>';
             
-            document.getElementById('modalTitle').textContent = '編輯：' + venue.name;
-            document.getElementById('deleteBtn').style.display = 'inline-block';
-            document.getElementById('toggleStatusBtn').style.display = 'inline-block';
-            document.getElementById('toggleStatusBtn').textContent = venue.status === '下架' ? '重新上架' : '下架';
+            document.getElementById('modalBody').innerHTML = `
+                <div class="detail-section">
+                    <h4>📋 基本資訊</h4>
+                    <div class="detail-grid">
+                        <div class="detail-item"><label>ID</label><span>${venue.id}</span></div>
+                        <div class="detail-item"><label>場地名稱</label><span><strong>${venue.name || '-'}</strong></span></div>
+                        <div class="detail-item"><label>廳房名稱</label><span>${venue.roomName || '-'}</span></div>
+                        <div class="detail-item"><label>廳房類型</label><span>${venue.roomType || venue.type || '-'}</span></div>
+                        <div class="detail-item"><label>場地類型</label><span>${venue.venueType || '-'}</span></div>
+                        <div class="detail-item"><label>狀態</label><span>${venue.status === '下架' ? '<span class="status-badge status-offline">下架</span>' : '<span class="status-badge status-online">上架</span>'}</span></div>
+                    </div>
+                </div>
+                
+                <div class="detail-section">
+                    <h4>📍 地址資訊</h4>
+                    <div class="detail-grid">
+                        <div class="detail-item"><label>城市</label><span>${venue.city || '-'}</span></div>
+                        <div class="detail-item" style="grid-column: span 2;"><label>地址</label><span>${venue.address || '<span class="missing">未填寫</span>'}</span></div>
+                    </div>
+                </div>
+                
+                <div class="detail-section">
+                    <h4>📞 聯絡資訊</h4>
+                    <div class="detail-grid">
+                        <div class="detail-item"><label>聯絡人</label><span>${venue.contactPerson || '-'}</span></div>
+                        <div class="detail-item"><label>電話</label><span>${venue.contactPhone || '<span class="missing">缺</span>'}</span></div>
+                        <div class="detail-item"><label>Email</label><span>${venue.contactEmail || '-'}</span></div>
+                        <div class="detail-item"><label>官網</label><span>${venue.url || venue.website || '-'}</span></div>
+                    </div>
+                </div>
+                
+                <div class="detail-section">
+                    <h4>💰 價格資訊</h4>
+                    <div class="detail-grid">
+                        <div class="detail-item"><label>時薪</label><span>${venue.pricePerHour ? '$' + Number(venue.pricePerHour).toLocaleString() : '-'}</span></div>
+                        <div class="detail-item"><label>半日價</label><span>${venue.priceHalfDay ? '$' + Number(venue.priceHalfDay).toLocaleString() : '<span class="missing">缺</span>'}</span></div>
+                        <div class="detail-item"><label>全日價</label><span>${venue.priceFullDay ? '$' + Number(venue.priceFullDay).toLocaleString() : '-'}</span></div>
+                    </div>
+                </div>
+                
+                <div class="detail-section">
+                    <h4>👥 容納人數</h4>
+                    <div class="detail-grid">
+                        <div class="detail-item"><label>空場</label><span>${venue.maxCapacityEmpty || '-'}</span></div>
+                        <div class="detail-item"><label>劇院式</label><span>${venue.maxCapacityTheater || '-'}</span></div>
+                        <div class="detail-item"><label>教室式</label><span>${venue.maxCapacityClassroom || '-'}</span></div>
+                    </div>
+                </div>
+                
+                <div class="detail-section">
+                    <h4>🕐 開放時間</h4>
+                    <div class="detail-grid">
+                        <div class="detail-item"><label>平日</label><span>${venue.availableTimeWeekday || '-'}</span></div>
+                        <div class="detail-item"><label>假日</label><span>${venue.availableTimeWeekend || '-'}</span></div>
+                    </div>
+                </div>
+                
+                <div class="detail-section">
+                    <h4>🛠️ 設備與備註</h4>
+                    <div class="detail-grid">
+                        <div class="detail-item" style="grid-column: span 2;"><label>設備</label><span>${venue.equipment || '-'}</span></div>
+                        <div class="detail-item" style="grid-column: span 2;"><label>租借備註</label><span>${venue.rentalTimeNote || '-'}</span></div>
+                        <div class="detail-item" style="grid-column: span 2;"><label>其他備註</label><span>${venue.notes || '-'}</span></div>
+                    </div>
+                </div>
+                
+                <div class="detail-section">
+                    <h4>📷 照片 (${imageKeys.length} 張)</h4>
+                    <div class="images-grid">${imagesHtml}</div>
+                </div>
+            `;
             
-            document.getElementById('editId').value = venue.id;
-            document.getElementById('editName').value = venue.name || '';
-            document.getElementById('editStatus').value = venue.status || '上架';
-            document.getElementById('editVenueType').value = venue.venueType || '其他';
-            document.getElementById('editRoomName').value = venue.roomName || '';
-            document.getElementById('editRoomType').value = venue.roomType || venue.type || '';
-            document.getElementById('editCity').value = venue.city || '台北市';
-            document.getElementById('editAddress').value = venue.address || '';
-            document.getElementById('editContactPerson').value = venue.contactPerson || '';
-            document.getElementById('editContactPhone').value = venue.contactPhone || '';
-            document.getElementById('editContactEmail').value = venue.contactEmail || '';
-            document.getElementById('editWebsite').value = venue.website || '';
-            document.getElementById('editPricePerHour').value = venue.pricePerHour || '';
-            document.getElementById('editPriceHalfDay').value = venue.priceHalfDay || '';
-            document.getElementById('editPriceFullDay').value = venue.priceFullDay || '';
-            document.getElementById('editMaxCapacityEmpty').value = venue.maxCapacityEmpty || '';
-            document.getElementById('editMaxCapacityTheater').value = venue.maxCapacityTheater || '';
-            document.getElementById('editMaxCapacityClassroom').value = venue.maxCapacityClassroom || '';
-            document.getElementById('editAvailableTimeWeekday').value = venue.availableTimeWeekday || '';
-            document.getElementById('editAvailableTimeWeekend').value = venue.availableTimeWeekend || '';
-            document.getElementById('editEquipment').value = venue.equipment || '';
-            document.getElementById('editRentalTimeNote').value = venue.rentalTimeNote || '';
-            document.getElementById('editNotes').value = venue.notes || '';
-            
-            currentImages = venue.images || [];
-            renderImages();
-            
-            document.getElementById('editModal').classList.add('show');
-        }
-        
-        function showAddModal() {
-            document.getElementById('modalTitle').textContent = '新增場地';
-            document.getElementById('deleteBtn').style.display = 'none';
-            document.getElementById('toggleStatusBtn').style.display = 'none';
-            
-            document.getElementById('editId').value = '';
-            document.querySelectorAll('#editModal input, #editModal textarea').forEach(el => el.value = '');
-            document.getElementById('editVenueType').value = '飯店場地';
-            document.getElementById('editCity').value = '台北市';
-            document.getElementById('editStatus').value = '上架';
-            
-            currentImages = [];
-            renderImages();
-            
-            document.getElementById('editModal').classList.add('show');
+            document.getElementById('detailModal').classList.add('show');
         }
         
         function closeModal() {
-            document.getElementById('editModal').classList.remove('show');
-        }
-        
-        function renderImages() {
-            const grid = document.getElementById('imagesGrid');
-            let html = currentImages.map((img, i) => `
-                <div class="image-item">
-                    <img src="${img}" alt="照片 ${i+1}" onerror="this.src='data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2280%22>❌</text></svg>'">
-                    <button class="remove-btn" onclick="removeImage(${i})">×</button>
-                </div>
-            `).join('');
-            
-            html += `<div class="image-item add-image-btn" onclick="document.getElementById('addImageUrl').focus()">➕</div>`;
-            grid.innerHTML = html;
-        }
-        
-        function addImage() {
-            const url = document.getElementById('addImageUrl').value.trim();
-            if (url && !currentImages.includes(url)) {
-                currentImages.push(url);
-                renderImages();
-                document.getElementById('addImageUrl').value = '';
-            }
-        }
-        
-        function removeImage(index) {
-            currentImages.splice(index, 1);
-            renderImages();
-        }
-        
-        async function saveVenue() {
-            const id = document.getElementById('editId').value;
-            const data = {
-                name: document.getElementById('editName').value,
-                status: document.getElementById('editStatus').value,
-                venueType: document.getElementById('editVenueType').value,
-                roomName: document.getElementById('editRoomName').value,
-                roomType: document.getElementById('editRoomType').value,
-                city: document.getElementById('editCity').value,
-                address: document.getElementById('editAddress').value,
-                contactPerson: document.getElementById('editContactPerson').value,
-                contactPhone: document.getElementById('editContactPhone').value,
-                contactEmail: document.getElementById('editContactEmail').value,
-                website: document.getElementById('editWebsite').value,
-                pricePerHour: document.getElementById('editPricePerHour').value || null,
-                priceHalfDay: document.getElementById('editPriceHalfDay').value || null,
-                priceFullDay: document.getElementById('editPriceFullDay').value || null,
-                maxCapacityEmpty: document.getElementById('editMaxCapacityEmpty').value || null,
-                maxCapacityTheater: document.getElementById('editMaxCapacityTheater').value || null,
-                maxCapacityClassroom: document.getElementById('editMaxCapacityClassroom').value || null,
-                availableTimeWeekday: document.getElementById('editAvailableTimeWeekday').value,
-                availableTimeWeekend: document.getElementById('editAvailableTimeWeekend').value,
-                equipment: document.getElementById('editEquipment').value,
-                rentalTimeNote: document.getElementById('editRentalTimeNote').value,
-                notes: document.getElementById('editNotes').value,
-                images: currentImages
-            };
-            
-            if (!data.name) {
-                showToast('請輸入場地名稱', 'error');
-                return;
-            }
-            
-            try {
-                if (id) {
-                    data.id = parseInt(id);
-                } else {
-                    data.id = Date.now();
-                }
-                
-                const res = await fetch(`${API_BASE}/api/venue/update`, {
-                    method: 'POST',
-                    headers: { 'Content-Type': 'application/json' },
-                    body: JSON.stringify(data)
-                });
-                const result = await res.json();
-                if (result.success) {
-                    showToast(id ? '更新成功' : '新增成功', 'success');
-                    closeModal();
-                    loadStats();
-                    loadVenues();
-                } else {
-                    showToast(result.message, 'error');
-                }
-            } catch (e) {
-                showToast('儲存失敗: ' + e.message, 'error');
-            }
-        }
-        
-        async function toggleVenueStatus() {
-            const id = document.getElementById('editId').value;
-            const currentStatus = document.getElementById('editStatus').value;
-            const newStatus = currentStatus === '下架' ? '上架' : '下架';
-            
-            if (!id) return;
-            
-            try {
-                const res = await fetch(`${API_BASE}/api/venue/update`, {
-                    method: 'POST',
-                    headers: { 'Content-Type': 'application/json' },
-                    body: JSON.stringify({ id: parseInt(id), status: newStatus })
-                });
-                const result = await res.json();
-                if (result.success) {
-                    showToast(newStatus === '上架' ? '已重新上架' : '已下架', 'success');
-                    document.getElementById('editStatus').value = newStatus;
-                    document.getElementById('toggleStatusBtn').textContent = newStatus === '下架' ? '重新上架' : '下架';
-                    loadStats();
-                    loadVenues();
-                } else {
-                    showToast(result.message, 'error');
-                }
-            } catch (e) {
-                showToast('操作失敗: ' + e.message, 'error');
-            }
-        }
-        
-        async function deleteVenue() {
-            const id = document.getElementById('editId').value;
-            if (!id) return;
-            
-            if (!confirm('確定要刪除此場地嗎？此操作無法復原。')) return;
-            
-            try {
-                const res = await fetch(`${API_BASE}/api/venue/delete`, {
-                    method: 'POST',
-                    headers: { 'Content-Type': 'application/json' },
-                    body: JSON.stringify({ id: parseInt(id) })
-                });
-                const result = await res.json();
-                if (result.success) {
-                    showToast('刪除成功', 'success');
-                    closeModal();
-                    loadStats();
-                    loadVenues();
-                } else {
-                    showToast(result.message, 'error');
-                }
-            } catch (e) {
-                showToast('刪除失敗: ' + e.message, 'error');
-            }
-        }
-        
-        function exportData() {
-            window.open(`${API_BASE}/api/venues?status=`, '_blank');
-        }
-        
-        function showToast(message, type = '') {
-            const toast = document.createElement('div');
-            toast.className = `toast ${type}`;
-            toast.textContent = message;
-            document.body.appendChild(toast);
-            setTimeout(() => toast.remove(), 3000);
+            document.getElementById('detailModal').classList.remove('show');
         }
     </script>
 </body>
