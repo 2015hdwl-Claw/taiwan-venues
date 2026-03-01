@@ -14767,12 +14767,16 @@
     "availableTimeWeekend": "08:30-22:30",
     "equipment": "專業音響系統、舞台燈光、大型投影設備、同步翻譯設備",
     "images": {
-      "main": "",
-      "gallery": [],
-      "floorPlan": "",
-      "needsUpdate": true,
-      "note": "待補充照片",
-      "lastUpdated": "2026-03-01"
+      "main": "https://www.ticc.com.tw/wSite/public/Img/f1687945050916.jpg",
+      "gallery": [
+        "https://www.ticc.com.tw/wSite/public/Img/f1687945050916.jpg",
+        "https://www.ticc.com.tw/wSite/public/Img/f1687945053932.jpg",
+        "https://www.ticc.com.tw/wSite/public/Img/f1687945057150.jpg",
+        "https://www.ticc.com.tw/wSite/public/Img/f1687945060025.jpg",
+        "https://www.ticc.com.tw/wSite/public/Img/f1687945063635.jpg",
+        "https://www.ticc.com.tw/wSite/public/Img/f1687945066135.jpg"
+      ],
+      "source": "https://www.ticc.com.tw/wSite/cp?xdUrl=/wSite/ap/cp_VenueSearch.jsp&roomId=plenary&ctNode=322&CtUnit=99&BaseDSD=7&mp=1"
     },
     "url": "https://www.ticc.com.tw/",
     "sourceUrl": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/lp_PlenaryHall.jsp&ctNode=323&CtUnit=100&BaseDSD=7&mp=1",
@@ -14807,12 +14811,16 @@
     "availableTimeWeekend": "08:30-22:30",
     "equipment": "專業音響系統、舞台燈光、投影設備",
     "images": {
-      "main": "",
-      "gallery": [],
-      "floorPlan": "",
-      "needsUpdate": true,
-      "note": "待補充照片",
-      "lastUpdated": "2026-03-01"
+      "main": "https://www.ticc.com.tw/wSite/public/Img/f1687945050916.jpg",
+      "gallery": [
+        "https://www.ticc.com.tw/wSite/public/Img/f1687945050916.jpg",
+        "https://www.ticc.com.tw/wSite/public/Img/f1687945053932.jpg",
+        "https://www.ticc.com.tw/wSite/public/Img/f1687945057150.jpg",
+        "https://www.ticc.com.tw/wSite/public/Img/f1687945060025.jpg",
+        "https://www.ticc.com.tw/wSite/public/Img/f1687945063635.jpg",
+        "https://www.ticc.com.tw/wSite/public/Img/f1687945066135.jpg"
+      ],
+      "source": "https://www.ticc.com.tw/wSite/cp?xdUrl=/wSite/ap/cp_VenueSearch.jsp&roomId=plenary&ctNode=322&CtUnit=99&BaseDSD=7&mp=1"
     },
     "url": "https://www.ticc.com.tw/",
     "sourceUrl": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/lp_PlenaryHall.jsp&ctNode=323&CtUnit=100&BaseDSD=7&mp=1",
