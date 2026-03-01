@@ -1282,12 +1282,15 @@
     "availableTimeWeekend": "休館",
     "equipment": "投影機、白板、WiFi",
     "images": {
-      "main": "",
-      "gallery": [],
-      "floorPlan": "",
-      "needsUpdate": true,
-      "note": "待補充真實照片網址",
-      "lastUpdated": "2026-03-01"
+      "main": "https://ctfassets.imgix.net/vh7r69kgcki3/1KAGba0IzZeeojWdOGkYIM/51b3928058014abcde9e7c83e7f79a47/Private_Office.jpg?auto=format%20compress&fit=crop&q=80&w=882&h=495",
+      "gallery": [
+        "https://ctfassets.imgix.net/vh7r69kgcki3/1KAGba0IzZeeojWdOGkYIM/51b3928058014abcde9e7c83e7f79a47/Private_Office.jpg?auto=format%20compress&fit=crop&q=80&w=882&h=495",
+        "https://ctfassets.imgix.net/vh7r69kgcki3/47iHCetfvkgKZowIFZ8iWb/467b5ba3852b149e10a3b3cc7a440552/Coworking_membership.jpg?auto=format%20compress&fit=crop&q=80&w=882&h=495",
+        "https://ctfassets.imgix.net/vh7r69kgcki3/44uBD1YgEV4HH40i0NZ6yC/94b1b024841af68a6a918727142c50c6/Workspace_for_the_day.jpg?auto=format%20compress&fit=crop&q=80&w=882&h=495",
+        "https://cdn-static.wework.com/content/images/home/solutions-enterprise-card-20260130.jpg?auto=format%20compress&fit=crop&q=50&w=780&h=702",
+        "https://ctfassets.imgix.net/vh7r69kgcki3/2B8h43v9DuDfj8SvMN5jyw/f98512855af2d4ad4eaa3e2c78552649/workspace-made-simple_800x520.webp?auto=format%20compress&fit=crop&q=50&w=1281&h=720"
+      ],
+      "source": "https://www.wework.com"
     },
     "url": "https://www.wework.com",
     "verified": true,
@@ -1316,7 +1319,7 @@
         }
       }
     ],
-    "status": "上架",
+    "status": "待確認",
     "address": "台北市信義區忠孝東路五段10號",
     "contact": {
       "phone": "02-7708-8888"
@@ -1332,7 +1335,8 @@
       "needsUpdate": true,
       "note": "待補充真實照片網址",
       "lastUpdated": "2026-03-01"
-    }
+    },
+    "notes": " [官網無法連線或擋爬蟲，需手動確認]"
   },
   {
     "id": 1041,
@@ -1568,8 +1572,9 @@
     "url": "https://www.wtaipei.com",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "上架",
-    "roomType": "宴會廳"
+    "status": "待確認",
+    "roomType": "宴會廳",
+    "notes": " [官網無法連線或擋爬蟲，需手動確認]"
   },
   {
     "id": 1048,
@@ -2059,11 +2064,11 @@
       "width": 15,
       "height": 6
     },
-    "notes": "五星級國際飯店，適合大型尾牙、婚宴、企業活動",
+    "notes": "五星級國際飯店，適合大型尾牙、婚宴、企業活動 [官網無法連線或擋爬蟲，需手動確認]",
     "source": "官方網站",
     "verifiedAt": "2026-02-27",
     "verified": true,
-    "status": "上架",
+    "status": "待確認",
     "roomType": "宴會廳"
   },
   {
@@ -2095,13 +2100,13 @@
     },
     "layoutImageUrl": null,
     "rentalTimeNote": "需提前1週預約",
-    "notes": "適合中型會議、產品發表會、記者會",
+    "notes": "適合中型會議、產品發表會、記者會 [官網無法連線或擋爬蟲，需手動確認]",
     "capacityCategory": "medium-large",
     "targetAudience": "企業",
     "hasOnlineBooking": false,
     "bookingUrl": null,
     "createdAt": "2026-02-26T00:00:00.000Z",
-    "status": "上架",
+    "status": "待確認",
     "roomType": "會議室",
     "url": "https://www.hyatt.com/taipei"
   },
@@ -2134,13 +2139,13 @@
     },
     "layoutImageUrl": null,
     "rentalTimeNote": "需提前3天預約",
-    "notes": "7間會議室可彈性組合，適合董事會議、培訓課程",
+    "notes": "7間會議室可彈性組合，適合董事會議、培訓課程 [官網無法連線或擋爬蟲，需手動確認]",
     "capacityCategory": "small",
     "targetAudience": "企業",
     "hasOnlineBooking": false,
     "bookingUrl": null,
     "createdAt": "2026-02-26T00:00:00.000Z",
-    "status": "上架",
+    "status": "待確認",
     "roomType": "會議室",
     "url": "https://www.hyatt.com/taipei"
   },
@@ -2172,8 +2177,9 @@
     "url": "https://www.grandhyatt.com/taipei",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "上架",
-    "roomType": "宴會廳"
+    "status": "待確認",
+    "roomType": "宴會廳",
+    "notes": " [官網無法連線或擋爬蟲，需手動確認]"
   },
   {
     "id": 1065,
@@ -2203,8 +2209,9 @@
     "url": "https://www.victoriam.com",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "上架",
-    "roomType": "會議中心"
+    "status": "待確認",
+    "roomType": "會議中心",
+    "notes": " [官網無法連線或擋爬蟲，需手動確認]"
   },
   {
     "id": 1066,
@@ -2234,8 +2241,9 @@
     "url": "https://www.taipei-business.com",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "上架",
-    "roomType": "會議中心"
+    "status": "待確認",
+    "roomType": "會議中心",
+    "notes": " [官網無法連線，需手動搜尋確認]"
   },
   {
     "id": 1067,
@@ -2300,8 +2308,9 @@
     "url": "https://www.ambience-hotel.com",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "上架",
-    "roomType": "宴會廳"
+    "status": "待確認",
+    "roomType": "宴會廳",
+    "notes": " [官網無法連線，需手動搜尋確認]"
   },
   {
     "id": 1069,
@@ -2399,8 +2408,9 @@
     "url": "https://www.zibei-hotel.com",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "上架",
-    "roomType": "宴會廳"
+    "status": "待確認",
+    "roomType": "宴會廳",
+    "notes": " [官網無法連線，需手動搜尋確認]"
   },
   {
     "id": 1074,
@@ -2453,12 +2463,15 @@
     "contactPhone": "02-2321-5511",
     "contactEmail": "reservations.taipei@sheraton.com",
     "images": {
-      "main": "",
-      "gallery": [],
-      "floorPlan": "",
-      "needsUpdate": true,
-      "note": "待補充真實照片網址",
-      "lastUpdated": "2026-03-01"
+      "main": "https://www.sheratongrandtaipei.com/files/pages_15973115521159vd495_l.jpg",
+      "gallery": [
+        "https://www.sheratongrandtaipei.com/files/pages_15973115521159vd495_l.jpg",
+        "https://www.sheratongrandtaipei.com/files/pages_177210476815033xg52_m.jpg",
+        "https://www.sheratongrandtaipei.com/files/pages_176398055714s0e1g54_m.jpg",
+        "https://www.sheratongrandtaipei.com/files/pages_176124406014pwqsl51_m.jpg",
+        "https://www.sheratongrandtaipei.com/files/pages_176123959514pwmxb06_m.jpg"
+      ],
+      "source": "https://www.sheratongrandtaipei.com"
     }
   },
   {
@@ -2479,13 +2492,11 @@
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "專業音響燈光、LED螢幕",
     "images": {
-      "main": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Le_Meridien_Taipei_20131216.jpg",
-      "gallery": [],
-      "floorPlan": "",
-      "needsUpdate": false,
-      "note": "照片來源：維基百科（真實照片）",
-      "lastUpdated": "2026-03-01",
-      "source": "Wikipedia Commons"
+      "main": "https://le-meridien.marriott.com/wp-content/themes/marriott-master/assets/img/brandbar/devices.png",
+      "gallery": [
+        "https://le-meridien.marriott.com/wp-content/themes/marriott-master/assets/img/brandbar/devices.png"
+      ],
+      "source": "https://www.lemeridien.com/taipei"
     },
     "url": "https://www.lemeridien-taipei.com",
     "verified": true,
@@ -2591,8 +2602,9 @@
     "url": "https://www.taipeiarena.com",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "上架",
-    "roomType": "體育館"
+    "status": "待確認",
+    "roomType": "體育館",
+    "notes": " [官網無法連線或擋爬蟲，需手動確認]"
   },
   {
     "id": 1080,
@@ -2622,8 +2634,9 @@
     "url": "https://www.kanghua-hotel.com",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "上架",
-    "roomType": "宴會廳"
+    "status": "待確認",
+    "roomType": "宴會廳",
+    "notes": " [官網無法連線，需手動搜尋確認]"
   },
   {
     "id": 1081,
@@ -2653,8 +2666,9 @@
     "url": "https://www.midtownrichard.com",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "上架",
-    "roomType": "宴會廳"
+    "status": "待確認",
+    "roomType": "宴會廳",
+    "notes": " [官網無法連線，需手動搜尋確認]"
   },
   {
     "id": 1082,
@@ -2754,8 +2768,9 @@
     "url": "https://www.ching-tai.com",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "上架",
-    "roomType": "宴會廳"
+    "status": "待確認",
+    "roomType": "宴會廳",
+    "notes": " [官網無法連線或擋爬蟲，需手動確認]"
   },
   {
     "id": 1085,
@@ -2862,11 +2877,11 @@
       "width": 13,
       "height": 5
     },
-    "notes": "五星級飯店，適合婚宴、尾牙、企業活動",
+    "notes": "五星級飯店，適合婚宴、尾牙、企業活動 [官網無法連線或擋爬蟲，需手動確認]",
     "source": "官方網站",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "上架",
+    "status": "待確認",
     "roomType": "宴會廳"
   },
   {
@@ -2897,8 +2912,9 @@
     "url": "https://www.regenthotels.com/taipei",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "上架",
-    "roomType": "宴會廳"
+    "status": "待確認",
+    "roomType": "宴會廳",
+    "notes": " [官網無法連線或擋爬蟲，需手動確認]"
   },
   {
     "id": 1088,
@@ -2928,8 +2944,9 @@
     "url": "https://www.songyi-hotel.com",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "上架",
-    "roomType": "宴會廳"
+    "status": "待確認",
+    "roomType": "宴會廳",
+    "notes": " [官網無法連線，需手動搜尋確認]"
   },
   {
     "id": 1089,
@@ -2959,8 +2976,9 @@
     "url": "https://www.chateau-china.com",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "上架",
-    "roomType": "宴會廳"
+    "status": "待確認",
+    "roomType": "宴會廳",
+    "notes": " [官網無法連線，需手動搜尋確認]"
   },
   {
     "id": 1090,
@@ -3060,8 +3078,9 @@
     "url": "https://www.firsthotel.com",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "上架",
-    "roomType": "宴會廳"
+    "status": "待確認",
+    "roomType": "宴會廳",
+    "notes": " [官網無法連線或擋爬蟲，需手動確認]"
   },
   {
     "id": 1093,
@@ -3091,8 +3110,9 @@
     "url": "https://www.first-hotel.com.tw",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "上架",
-    "roomType": "宴會廳"
+    "status": "待確認",
+    "roomType": "宴會廳",
+    "notes": " [官網無法連線，需手動搜尋確認]"
   },
   {
     "id": 1094,
@@ -3122,8 +3142,9 @@
     "url": "https://www.tongyi-hotel.com",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "上架",
-    "roomType": "宴會廳"
+    "status": "待確認",
+    "roomType": "宴會廳",
+    "notes": " [官網無法連線，需手動搜尋確認]"
   },
   {
     "id": 1095,
@@ -3371,8 +3392,9 @@
     "url": "https://www.imperial-hotel.com.tw",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "上架",
-    "roomType": "宴會廳"
+    "status": "待確認",
+    "roomType": "宴會廳",
+    "notes": " [官網無法連線，需手動搜尋確認]"
   },
   {
     "id": 1102,
@@ -3402,8 +3424,9 @@
     "url": "https://www.gloria-residence.com",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "上架",
-    "roomType": "宴會廳"
+    "status": "待確認",
+    "roomType": "宴會廳",
+    "notes": " [官網無法連線，需手動搜尋確認]"
   },
   {
     "id": 1103,
@@ -3501,8 +3524,9 @@
     "url": "https://www.landisresort.com",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "上架",
-    "roomType": "宴會廳"
+    "status": "待確認",
+    "roomType": "宴會廳",
+    "notes": " [官網無法連線，需手動搜尋確認]"
   },
   {
     "name": "台北香格里拉遠東國際大飯店",
@@ -3535,12 +3559,15 @@
     "contactEmail": "events@shangri-la.com",
     "url": "https://www.shangri-la.com/taipei",
     "images": {
-      "main": "",
-      "gallery": [],
-      "floorPlan": "",
-      "needsUpdate": true,
-      "note": "待補充真實照片網址",
-      "lastUpdated": "2026-03-01"
+      "main": "https://sitecore-cd-imgr.shangri-la.com/MediaFiles/F/6/5/%7BF65E1DA9-2E64-4765-B62C-5626E1F16404%7D2025_PlazaSuite_1180x535.jpg?w=360&h=175&mode=crop&quality=100&scale=both",
+      "gallery": [
+        "https://sitecore-cd-imgr.shangri-la.com/MediaFiles/F/6/5/%7BF65E1DA9-2E64-4765-B62C-5626E1F16404%7D2025_PlazaSuite_1180x535.jpg?w=360&h=175&mode=crop&quality=100&scale=both",
+        "https://sitecore-cd-imgr.shangri-la.com/MediaFiles/A/6/8/%7BA68F6FFF-2760-44D4-85DB-443A0B8E5AD9%7Dbed-breakfast_1180x535_2.jpg?w=360&h=175&mode=crop&quality=100&scale=both",
+        "https://sitecore-cd-imgr.shangri-la.com/MediaFiles/8/8/D/%7B88D286C8-06A9-481B-8745-28B94E269BB5%7D2026_TPE_SLC_offer_1180x535.jpg?w=360&h=175&mode=crop&quality=100&scale=both",
+        "https://sitecore-cd-imgr.shangri-la.com/MediaFiles/B/D/4/%7BBD4E7CBA-C000-4536-A33D-58FA20632A9D%7D%E9%A6%99%E6%A0%BC%E9%87%8C%E6%8B%89%E5%8F%B0%E5%8C%97%E9%81%A0%E6%9D%B1%E5%A4%A7%E5%BB%B3%20Shangri-La's%20Far%20Eastern%20Plaza%20Hotel%20Taipei%20Lobby%20-.jpg?w=600&h=500&mode=crop&scale=both",
+        "https://sitecore-cd-imgr.shangri-la.com/MediaFiles/0/7/7/%7B077B9188-7299-4D30-9703-9F8EB1DBD9BE%7D200106_TPE_Deluxe_City_View_Twin.jpg"
+      ],
+      "source": "https://www.shangri-la.com/taipei"
     }
   },
   {
@@ -3571,8 +3598,9 @@
     "url": "https://www.tms.gov.tw",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "上架",
-    "roomType": "體育館"
+    "status": "待確認",
+    "roomType": "體育館",
+    "notes": " [官網無法連線或擋爬蟲，需手動確認]"
   },
   {
     "id": 1108,
@@ -3602,8 +3630,9 @@
     "url": "https://www.ntualumni.org",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "上架",
-    "roomType": "會議中心"
+    "status": "待確認",
+    "roomType": "會議中心",
+    "notes": " [官網無法連線或擋爬蟲，需手動確認]"
   },
   {
     "id": 1109,
@@ -3665,8 +3694,9 @@
     "url": "https://www.taipeiexpopark.tw",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "上架",
-    "roomType": "展覽館"
+    "status": "待確認",
+    "roomType": "展覽館",
+    "notes": " [官網無法連線，需手動搜尋確認]"
   },
   {
     "id": 1112,
@@ -3696,8 +3726,9 @@
     "url": "https://www.tianmu.gov.tw",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "上架",
-    "roomType": "體育館"
+    "status": "待確認",
+    "roomType": "體育館",
+    "notes": " [官網無法連線，需手動搜尋確認]"
   },
   {
     "name": "寒舍艾美酒店",
@@ -3726,12 +3757,11 @@
     "contactEmail": "reservations@lemeridien-taipei.com",
     "url": "https://www.lemeridien.com/taipei",
     "images": {
-      "main": "",
-      "gallery": [],
-      "floorPlan": "",
-      "needsUpdate": true,
-      "note": "待補充真實照片網址",
-      "lastUpdated": "2026-03-01"
+      "main": "https://le-meridien.marriott.com/wp-content/themes/marriott-master/assets/img/brandbar/devices.png",
+      "gallery": [
+        "https://le-meridien.marriott.com/wp-content/themes/marriott-master/assets/img/brandbar/devices.png"
+      ],
+      "source": "https://www.lemeridien.com/taipei"
     }
   },
   {
@@ -3830,8 +3860,9 @@
     "url": "https://www.fuxing.space",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "上架",
-    "roomType": "共享空間"
+    "status": "待確認",
+    "roomType": "共享空間",
+    "notes": " [官網無法連線，需手動搜尋確認]"
   },
   {
     "id": 1118,
@@ -3893,8 +3924,9 @@
     "url": "https://www.mandarin-wedding.com",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "上架",
-    "roomType": "婚宴會館"
+    "status": "待確認",
+    "roomType": "婚宴會館",
+    "notes": " [官網無法連線，需手動搜尋確認]"
   },
   {
     "id": 1120,
@@ -3925,8 +3957,9 @@
     "url": "https://www.siihub.org",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "上架",
-    "roomType": "共享空間"
+    "status": "待確認",
+    "roomType": "共享空間",
+    "notes": " [官網無法連線，需手動搜尋確認]"
   },
   {
     "id": 1121,
@@ -3995,11 +4028,11 @@
     },
     "layoutImageUrl": null,
     "rentalTimeNote": "需提前2週預約",
-    "notes": "大直優質飯店，適合企業活動、婚宴",
+    "notes": "大直優質飯店，適合企業活動、婚宴 [官網無法連線或擋爬蟲，需手動確認]",
     "capacityCategory": "medium",
     "targetAudience": "企業",
     "createdAt": "2026-02-26T00:00:00.000Z",
-    "status": "上架",
+    "status": "待確認",
     "roomType": "宴會廳",
     "url": "https://www.victoria.com.tw"
   },
@@ -4031,8 +4064,9 @@
     "url": "https://www.taipeiexpopark.tw",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "上架",
-    "roomType": "展覽館"
+    "status": "待確認",
+    "roomType": "展覽館",
+    "notes": " [官網無法連線，需手動搜尋確認]"
   },
   {
     "id": 1124,
@@ -4092,12 +4126,15 @@
     "availableTimeWeekend": "09:00-22:00",
     "equipment": "基本燈光、空調、電力供應",
     "images": {
-      "main": "",
-      "gallery": [],
-      "floorPlan": "",
-      "needsUpdate": true,
-      "note": "待補充真實照片網址",
-      "lastUpdated": "2026-03-01"
+      "main": "https://media.huashan1914.com/WebUPD/huashan1914/Index/%E6%89%BE%E6%B4%BB%E5%8B%95(1).png",
+      "gallery": [
+        "https://media.huashan1914.com/WebUPD/huashan1914/Index/%E6%89%BE%E6%B4%BB%E5%8B%95(1).png",
+        "https://media.huashan1914.com/WebUPD/huashan1914/Index/20210810_%E5%AE%98%E7%B6%B2%E6%8F%9B%E5%9C%96-08.png",
+        "https://media.huashan1914.com/WebUPD/huashan1914/Index/720%E7%9C%8B%E8%A6%8B%E8%8F%AF%E5%B1%B1.png",
+        "https://media.huashan1914.com/WebUPD/huashan1914/Index/%E7%B7%9A%E4%B8%8A%E5%AE%A2%E6%9C%8D.png",
+        "https://media.huashan1914.com/WebUPD/huashan1914/Index/%E5%B8%B8%E8%A6%8B%E5%95%8F%E9%A1%8C2_23011910283762374.png"
+      ],
+      "source": "https://www.huashan1914.com"
     },
     "url": "https://www.huashan1914.com",
     "transportation": {
@@ -4194,8 +4231,9 @@
     "url": "https://www.secondfloor.com.tw",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "上架",
-    "roomType": "餐廳包場"
+    "status": "待確認",
+    "roomType": "餐廳包場",
+    "notes": " [官網無法連線，需手動搜尋確認]"
   },
   {
     "id": 1128,
@@ -12646,8 +12684,9 @@
     "url": "https://www.wtaipei.com",
     "verified": true,
     "verifiedAt": "2026-03-01",
-    "status": "上架",
-    "roomType": "宴會廳"
+    "status": "待確認",
+    "roomType": "宴會廳",
+    "notes": " [官網無法連線或擋爬蟲，需手動確認]"
   },
   {
     "id": 1382,
@@ -12677,8 +12716,9 @@
     "url": "https://www.wtaipei.com",
     "verified": true,
     "verifiedAt": "2026-03-01",
-    "status": "上架",
-    "roomType": "宴會廳"
+    "status": "待確認",
+    "roomType": "宴會廳",
+    "notes": " [官網無法連線或擋爬蟲，需手動確認]"
   },
   {
     "id": 1383,
@@ -12708,8 +12748,9 @@
     "url": "https://www.wtaipei.com",
     "verified": true,
     "verifiedAt": "2026-03-01",
-    "status": "上架",
-    "roomType": "宴會廳"
+    "status": "待確認",
+    "roomType": "宴會廳",
+    "notes": " [官網無法連線或擋爬蟲，需手動確認]"
   },
   {
     "id": 1384,
@@ -13547,13 +13588,11 @@
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "專業音響燈光、LED螢幕",
     "images": {
-      "main": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Le_Meridien_Taipei_20131216.jpg",
-      "gallery": [],
-      "floorPlan": "",
-      "needsUpdate": false,
-      "note": "照片來源：維基百科（真實照片）",
-      "lastUpdated": "2026-03-01",
-      "source": "Wikipedia Commons"
+      "main": "https://le-meridien.marriott.com/wp-content/themes/marriott-master/assets/img/brandbar/devices.png",
+      "gallery": [
+        "https://le-meridien.marriott.com/wp-content/themes/marriott-master/assets/img/brandbar/devices.png"
+      ],
+      "source": "https://www.lemeridien.com/taipei"
     },
     "url": "https://www.lemeridien-taipei.com",
     "verified": true,
@@ -13579,13 +13618,11 @@
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "專業音響燈光、LED螢幕",
     "images": {
-      "main": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Le_Meridien_Taipei_20131216.jpg",
-      "gallery": [],
-      "floorPlan": "",
-      "needsUpdate": false,
-      "note": "照片來源：維基百科（真實照片）",
-      "lastUpdated": "2026-03-01",
-      "source": "Wikipedia Commons"
+      "main": "https://le-meridien.marriott.com/wp-content/themes/marriott-master/assets/img/brandbar/devices.png",
+      "gallery": [
+        "https://le-meridien.marriott.com/wp-content/themes/marriott-master/assets/img/brandbar/devices.png"
+      ],
+      "source": "https://www.lemeridien.com/taipei"
     },
     "url": "https://www.lemeridien-taipei.com",
     "verified": true,
@@ -13611,13 +13648,11 @@
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "專業音響燈光、LED螢幕",
     "images": {
-      "main": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Le_Meridien_Taipei_20131216.jpg",
-      "gallery": [],
-      "floorPlan": "",
-      "needsUpdate": false,
-      "note": "照片來源：維基百科（真實照片）",
-      "lastUpdated": "2026-03-01",
-      "source": "Wikipedia Commons"
+      "main": "https://le-meridien.marriott.com/wp-content/themes/marriott-master/assets/img/brandbar/devices.png",
+      "gallery": [
+        "https://le-meridien.marriott.com/wp-content/themes/marriott-master/assets/img/brandbar/devices.png"
+      ],
+      "source": "https://www.lemeridien.com/taipei"
     },
     "url": "https://www.lemeridien-taipei.com",
     "verified": true,
@@ -13643,13 +13678,11 @@
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "專業音響燈光、LED螢幕",
     "images": {
-      "main": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Le_Meridien_Taipei_20131216.jpg",
-      "gallery": [],
-      "floorPlan": "",
-      "needsUpdate": false,
-      "note": "照片來源：維基百科（真實照片）",
-      "lastUpdated": "2026-03-01",
-      "source": "Wikipedia Commons"
+      "main": "https://le-meridien.marriott.com/wp-content/themes/marriott-master/assets/img/brandbar/devices.png",
+      "gallery": [
+        "https://le-meridien.marriott.com/wp-content/themes/marriott-master/assets/img/brandbar/devices.png"
+      ],
+      "source": "https://www.lemeridien.com/taipei"
     },
     "url": "https://www.lemeridien-taipei.com",
     "verified": true,

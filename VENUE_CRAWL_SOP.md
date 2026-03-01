@@ -18,6 +18,77 @@
 
 ---
 
+## ⚠️ 重要：完整檢查流程
+
+### 第一步：建立待處理清單（必做！）
+
+**每次開始前，必須先執行完整檢查：**
+
+```javascript
+const fs = require('fs');
+const data = JSON.parse(fs.readFileSync('venues-all-cities.json', 'utf8'));
+
+// 1. 過濾目標城市
+const city = '台北市'; // 或其他城市
+const venues = data.filter(v => v.city === city);
+
+// 2. 分類
+const withPhotos = venues.filter(v => v.images?.main || (v.images?.gallery && v.images.gallery.length > 0));
+const withoutPhotos = venues.filter(v => !v.images?.main && (!v.images?.gallery || v.images.gallery.length === 0));
+
+// 3. 需要處理的場地（上架 + 有官網）
+const needPhotos = withoutPhotos.filter(v => 
+  v.status === '上架' && 
+  v.url && 
+  v.url.startsWith('http')
+);
+
+// 4. 輸出統計
+console.log('總場地:', venues.length);
+console.log('有照片:', withPhotos.length, '(' + Math.round(withPhotos.length/venues.length*100) + '%)');
+console.log('需要抓照片:', needPhotos.length);
+
+// 5. 儲存待處理清單
+fs.writeFileSync('need-photos.json', JSON.stringify(needPhotos, null, 2));
+```
+
+### 第二步：確認「檢查完畢」的標準
+
+**一個城市「檢查完畢」的定義：**
+
+| 條件 | 說明 |
+|------|------|
+| ✅ 所有場地都已分類 | 有照片 / 需要抓照片 / 待確認 / 下架 |
+| ✅ 需要抓照片的場地 = 0 | 或已全部處理完畢 |
+| ✅ 待確認場地已記錄 | 記錄在 failed-venues.json |
+| ✅ 下架場地已排除 | 不需處理 |
+
+### 第三步：批次處理
+
+```bash
+# 1. 建立待處理清單
+node -e "上述腳本"
+
+# 2. 執行批次抓取
+node playwright-crawl.js
+
+# 3. 重新檢查
+node -e "上述腳本"  # 確認 needPhotos.length = 0
+```
+
+### 台北市目前狀況（2026-03-01 21:24）
+
+| 分類 | 數量 | 狀態 |
+|------|------|------|
+| ✅ 有照片 | 143 | 70% |
+| 🔴 **需要抓照片** | **42** | **未完成** ❌ |
+| 🟡 待確認 | 9 | 已記錄 |
+| ⚫ 下架 | 9 | 不需處理 |
+
+**結論：台北市尚未檢查完畢，還有 42 個場地需要抓照片！**
+
+---
+
 ## 🎯 目標資料（每個場地必收集）
 
 ### 1. 官網資訊
