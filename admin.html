@@ -2,66 +2,73 @@
 <html lang="zh-TW">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
     <title>場地資料庫後台管理</title>
     <style>
         * { box-sizing: border-box; margin: 0; padding: 0; }
         body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; background: #f5f5f5; }
         
-        .header { background: #2c3e50; color: white; padding: 1rem 2rem; position: fixed; top: 0; left: 0; right: 0; z-index: 100; display: flex; justify-content: space-between; align-items: center; }
-        .header h1 { font-size: 1.25rem; }
-        .stats { display: flex; gap: 1.5rem; }
-        .stat { text-align: center; cursor: pointer; padding: 0.5rem; border-radius: 4px; }
+        /* Header */
+        .header { background: #2c3e50; color: white; padding: 0.75rem 1rem; position: fixed; top: 0; left: 0; right: 0; z-index: 100; display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 0.5rem; }
+        .header h1 { font-size: 1.1rem; white-space: nowrap; }
+        .stats { display: flex; gap: 0.5rem; flex-wrap: wrap; }
+        .stat { text-align: center; cursor: pointer; padding: 0.35rem 0.5rem; border-radius: 4px; min-width: 50px; }
         .stat:hover { background: rgba(255,255,255,0.1); }
         .stat.active { background: rgba(255,255,255,0.2); }
-        .stat-value { font-size: 1.5rem; font-weight: bold; }
-        .stat-label { font-size: 0.75rem; opacity: 0.8; }
+        .stat-value { font-size: 1.1rem; font-weight: bold; }
+        .stat-label { font-size: 0.65rem; opacity: 0.8; }
         
-        .container { margin-top: 70px; padding: 1rem; display: flex; gap: 1rem; height: calc(100vh - 70px); }
+        /* Container */
+        .container { margin-top: 60px; padding: 0.5rem; display: flex; gap: 0.5rem; height: calc(100vh - 60px); }
         
-        .sidebar { width: 280px; background: white; border-radius: 8px; padding: 1rem; overflow-y: auto; flex-shrink: 0; }
-        .sidebar h3 { margin-bottom: 0.5rem; color: #666; font-size: 0.875rem; text-transform: uppercase; }
-        .filter-group { margin-bottom: 1rem; }
-        .filter-group label { display: block; font-size: 0.875rem; margin-bottom: 0.25rem; color: #333; }
-        .filter-group input, .filter-group select { width: 100%; padding: 0.5rem; border: 1px solid #ddd; border-radius: 4px; font-size: 0.875rem; }
+        /* Sidebar */
+        .sidebar { width: 260px; background: white; border-radius: 8px; padding: 0.75rem; overflow-y: auto; flex-shrink: 0; transition: transform 0.3s ease; }
+        .sidebar h3 { margin-bottom: 0.5rem; color: #666; font-size: 0.8rem; text-transform: uppercase; }
+        .filter-group { margin-bottom: 0.75rem; }
+        .filter-group label { display: block; font-size: 0.8rem; margin-bottom: 0.25rem; color: #333; }
+        .filter-group input, .filter-group select { width: 100%; padding: 0.5rem; border: 1px solid #ddd; border-radius: 4px; font-size: 0.85rem; }
         .filter-group input:focus, .filter-group select:focus { outline: none; border-color: #3498db; }
         
-        .city-list, .type-list, .status-list { list-style: none; }
-        .city-list li, .type-list li, .status-list li { padding: 0.5rem; cursor: pointer; border-radius: 4px; display: flex; justify-content: space-between; font-size: 0.875rem; }
+        .city-list, .type-list, .status-list { list-style: none; max-height: 150px; overflow-y: auto; }
+        .city-list li, .type-list li, .status-list li { padding: 0.4rem 0.5rem; cursor: pointer; border-radius: 4px; display: flex; justify-content: space-between; font-size: 0.8rem; }
         .city-list li:hover, .type-list li:hover, .status-list li:hover { background: #ecf0f1; }
         .city-list li.active, .type-list li.active, .status-list li.active { background: #3498db; color: white; }
-        .count { background: #eee; padding: 0.1rem 0.5rem; border-radius: 10px; font-size: 0.75rem; }
+        .count { background: #eee; padding: 0.1rem 0.4rem; border-radius: 10px; font-size: 0.7rem; }
         .city-list li.active .count, .type-list li.active .count, .status-list li.active .count { background: rgba(255,255,255,0.3); }
         
-        .issues-section { margin-top: 1rem; border-top: 1px solid #eee; padding-top: 1rem; max-height: 300px; overflow-y: auto; }
-        .issue-item { padding: 0.5rem; background: #fff3cd; border-radius: 4px; margin-bottom: 0.5rem; font-size: 0.8rem; cursor: pointer; }
+        .issues-section { margin-top: 0.75rem; border-top: 1px solid #eee; padding-top: 0.75rem; max-height: 200px; overflow-y: auto; }
+        .issue-item { padding: 0.4rem; background: #fff3cd; border-radius: 4px; margin-bottom: 0.4rem; font-size: 0.75rem; cursor: pointer; }
         .issue-item:hover { background: #ffe69c; }
-        .issue-tag { background: #e74c3c; color: white; padding: 0.1rem 0.3rem; border-radius: 3px; font-size: 0.7rem; margin-left: 0.25rem; }
+        .issue-tag { background: #e74c3c; color: white; padding: 0.1rem 0.3rem; border-radius: 3px; font-size: 0.65rem; margin-left: 0.25rem; }
         
-        .main { flex: 1; display: flex; flex-direction: column; overflow: hidden; }
+        /* Main Content */
+        .main { flex: 1; display: flex; flex-direction: column; overflow: hidden; min-width: 0; }
         
-        .toolbar { background: white; padding: 0.75rem 1rem; border-radius: 8px; margin-bottom: 1rem; display: flex; gap: 1rem; align-items: center; flex-wrap: wrap; }
-        .search-box { flex: 1; min-width: 200px; position: relative; }
-        .search-box input { width: 100%; padding: 0.5rem 0.75rem 0.5rem 2rem; border: 1px solid #ddd; border-radius: 4px; font-size: 0.875rem; }
-        .search-box::before { content: '🔍'; position: absolute; left: 0.5rem; top: 50%; transform: translateY(-50%); }
-        .btn { padding: 0.5rem 1rem; border: none; border-radius: 4px; cursor: pointer; font-size: 0.875rem; white-space: nowrap; }
+        /* Toolbar */
+        .toolbar { background: white; padding: 0.5rem; border-radius: 8px; margin-bottom: 0.5rem; display: flex; gap: 0.5rem; align-items: center; flex-wrap: wrap; }
+        .search-box { flex: 1; min-width: 150px; position: relative; }
+        .search-box input { width: 100%; padding: 0.5rem 0.75rem 0.5rem 2rem; border: 1px solid #ddd; border-radius: 4px; font-size: 0.85rem; }
+        .search-box::before { content: '🔍'; position: absolute; left: 0.5rem; top: 50%; transform: translateY(-50%); font-size: 0.9rem; }
+        .btn { padding: 0.4rem 0.75rem; border: none; border-radius: 4px; cursor: pointer; font-size: 0.8rem; white-space: nowrap; }
         .btn-primary { background: #3498db; color: white; }
         .btn-danger { background: #e74c3c; color: white; }
         .btn-success { background: #27ae60; color: white; }
         .btn-warning { background: #f39c12; color: white; }
         .btn:hover { opacity: 0.9; }
+        .btn:active { transform: scale(0.95); }
         
-        .table-container { flex: 1; background: white; border-radius: 8px; overflow: auto; }
-        table { width: 100%; border-collapse: collapse; font-size: 0.875rem; }
-        th, td { padding: 0.75rem; text-align: left; border-bottom: 1px solid #eee; }
+        /* Table */
+        .table-container { flex: 1; background: white; border-radius: 8px; overflow: auto; -webkit-overflow-scrolling: touch; }
+        table { width: 100%; border-collapse: collapse; font-size: 0.8rem; min-width: 900px; }
+        th, td { padding: 0.5rem; text-align: left; border-bottom: 1px solid #eee; }
         th { background: #f8f9fa; position: sticky; top: 0; z-index: 10; font-weight: 600; cursor: pointer; user-select: none; }
         th:hover { background: #e9ecef; }
-        th.sort-asc::after { content: ' ▲'; font-size: 0.7rem; }
-        th.sort-desc::after { content: ' ▼'; font-size: 0.7rem; }
+        th.sort-asc::after { content: ' ▲'; font-size: 0.6rem; }
+        th.sort-desc::after { content: ' ▼'; font-size: 0.6rem; }
         tr:hover { background: #f8f9fa; }
         tr.offline { background: #fff5f5; opacity: 0.7; }
         
-        .tag { display: inline-block; padding: 0.2rem 0.5rem; border-radius: 3px; font-size: 0.75rem; margin-right: 0.25rem; }
+        .tag { display: inline-block; padding: 0.15rem 0.4rem; border-radius: 3px; font-size: 0.7rem; margin-right: 0.2rem; }
         .tag-hotel { background: #e8f5e9; color: #2e7d32; }
         .tag-exhibition { background: #e3f2fd; color: #1565c0; }
         .tag-government { background: #fff3e0; color: #ef6c00; }
@@ -69,48 +76,159 @@
         .tag-conference { background: #f3e5f5; color: #7b1fa2; }
         .tag-other { background: #f5f5f5; color: #666; }
         
-        .status-badge { padding: 0.2rem 0.5rem; border-radius: 3px; font-size: 0.75rem; font-weight: 500; }
+        .status-badge { padding: 0.15rem 0.4rem; border-radius: 3px; font-size: 0.7rem; font-weight: 500; }
         .status-online { background: #d4edda; color: #155724; }
         .status-offline { background: #f8d7da; color: #721c24; }
         
-        .issue-badge { background: #e74c3c; color: white; padding: 0.1rem 0.3rem; border-radius: 3px; font-size: 0.7rem; }
+        .issue-badge { background: #e74c3c; color: white; padding: 0.1rem 0.3rem; border-radius: 3px; font-size: 0.65rem; }
         
-        .modal { display: none; position: fixed; top: 0; left: 0; right: 0; bottom: 0; background: rgba(0,0,0,0.5); z-index: 1000; align-items: center; justify-content: center; }
+        /* Mobile Sidebar Toggle */
+        .sidebar-toggle { display: none; position: fixed; bottom: 1rem; left: 1rem; z-index: 150; width: 50px; height: 50px; border-radius: 50%; background: #3498db; color: white; border: none; box-shadow: 0 2px 10px rgba(0,0,0,0.2); font-size: 1.5rem; cursor: pointer; }
+        .sidebar-overlay { display: none; position: fixed; top: 0; left: 0; right: 0; bottom: 0; background: rgba(0,0,0,0.5); z-index: 199; }
+        
+        /* Modal */
+        .modal { display: none; position: fixed; top: 0; left: 0; right: 0; bottom: 0; background: rgba(0,0,0,0.5); z-index: 1000; align-items: center; justify-content: center; padding: 0.5rem; }
         .modal.show { display: flex; }
-        .modal-content { background: white; border-radius: 8px; width: 90%; max-width: 800px; max-height: 90vh; overflow-y: auto; }
-        .modal-header { padding: 1rem; border-bottom: 1px solid #eee; display: flex; justify-content: space-between; align-items: center; }
-        .modal-header h2 { font-size: 1.25rem; }
-        .modal-close { background: none; border: none; font-size: 1.5rem; cursor: pointer; color: #666; }
-        .modal-body { padding: 1rem; }
-        .form-group { margin-bottom: 1rem; }
-        .form-group label { display: block; font-size: 0.875rem; margin-bottom: 0.25rem; font-weight: 500; }
-        .form-group input, .form-group select, .form-group textarea { width: 100%; padding: 0.5rem; border: 1px solid #ddd; border-radius: 4px; font-size: 0.875rem; }
-        .form-group textarea { min-height: 80px; resize: vertical; }
-        .form-row { display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 1rem; }
-        .modal-footer { padding: 1rem; border-top: 1px solid #eee; display: flex; justify-content: flex-end; gap: 0.5rem; flex-wrap: wrap; }
+        .modal-content { background: white; border-radius: 8px; width: 100%; max-width: 800px; max-height: 95vh; overflow-y: auto; -webkit-overflow-scrolling: touch; }
+        .modal-header { padding: 0.75rem 1rem; border-bottom: 1px solid #eee; display: flex; justify-content: space-between; align-items: center; position: sticky; top: 0; background: white; z-index: 10; }
+        .modal-header h2 { font-size: 1.1rem; }
+        .modal-close { background: none; border: none; font-size: 1.5rem; cursor: pointer; color: #666; padding: 0; line-height: 1; }
+        .modal-body { padding: 0.75rem 1rem; }
+        .form-group { margin-bottom: 0.75rem; }
+        .form-group label { display: block; font-size: 0.8rem; margin-bottom: 0.2rem; font-weight: 500; }
+        .form-group input, .form-group select, .form-group textarea { width: 100%; padding: 0.5rem; border: 1px solid #ddd; border-radius: 4px; font-size: 0.85rem; }
+        .form-group textarea { min-height: 60px; resize: vertical; }
+        .form-row { display: grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); gap: 0.75rem; }
+        .modal-footer { padding: 0.75rem 1rem; border-top: 1px solid #eee; display: flex; justify-content: flex-end; gap: 0.5rem; flex-wrap: wrap; position: sticky; bottom: 0; background: white; }
         
-        .images-section { margin-top: 1rem; }
-        .images-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); gap: 0.5rem; margin-top: 0.5rem; }
+        .images-section { margin-top: 0.75rem; }
+        .images-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(100px, 1fr)); gap: 0.5rem; margin-top: 0.5rem; }
         .image-item { position: relative; aspect-ratio: 4/3; background: #f5f5f5; border-radius: 4px; overflow: hidden; }
         .image-item img { width: 100%; height: 100%; object-fit: cover; }
-        .image-item .remove-btn { position: absolute; top: 4px; right: 4px; background: rgba(0,0,0,0.6); color: white; border: none; border-radius: 50%; width: 24px; height: 24px; cursor: pointer; font-size: 12px; }
+        .image-item .remove-btn { position: absolute; top: 4px; right: 4px; background: rgba(0,0,0,0.6); color: white; border: none; border-radius: 50%; width: 22px; height: 22px; cursor: pointer; font-size: 12px; }
         .add-image-btn { border: 2px dashed #ddd; display: flex; align-items: center; justify-content: center; cursor: pointer; color: #666; }
         .add-image-btn:hover { border-color: #3498db; color: #3498db; }
         
-        .toast { position: fixed; bottom: 2rem; right: 2rem; padding: 1rem 1.5rem; background: #333; color: white; border-radius: 4px; z-index: 2000; animation: slideIn 0.3s ease; }
+        .toast { position: fixed; bottom: 1rem; right: 1rem; padding: 0.75rem 1rem; background: #333; color: white; border-radius: 4px; z-index: 2000; animation: slideIn 0.3s ease; font-size: 0.85rem; max-width: calc(100% - 2rem); }
         .toast.success { background: #27ae60; }
         .toast.error { background: #e74c3c; }
         @keyframes slideIn { from { transform: translateY(100%); opacity: 0; } to { transform: translateY(0); opacity: 1; } }
         
-        .loading { text-align: center; padding: 3rem; color: #666; }
+        .loading { text-align: center; padding: 2rem; color: #666; }
         
-        .photo-preview { max-width: 100px; max-height: 60px; border-radius: 4px; cursor: pointer; }
-        .photo-preview:hover { opacity: 0.8; }
+        /* ==================== 平板版 (768px - 1024px) ==================== */
+        @media screen and (max-width: 1024px) {
+            .header { padding: 0.5rem 0.75rem; }
+            .header h1 { font-size: 1rem; }
+            .stat { min-width: 45px; padding: 0.3rem 0.4rem; }
+            .stat-value { font-size: 1rem; }
+            .stat-label { font-size: 0.6rem; }
+            
+            .container { margin-top: 55px; padding: 0.4rem; gap: 0.4rem; height: calc(100vh - 55px); }
+            
+            .sidebar { width: 220px; padding: 0.5rem; }
+            .city-list, .type-list { max-height: 120px; }
+            .issues-section { max-height: 150px; }
+            
+            .toolbar { padding: 0.4rem; gap: 0.4rem; }
+            .btn { padding: 0.35rem 0.6rem; font-size: 0.75rem; }
+            
+            table { font-size: 0.75rem; min-width: 800px; }
+            th, td { padding: 0.4rem; }
+        }
+        
+        /* ==================== 手機版 (< 768px) ==================== */
+        @media screen and (max-width: 767px) {
+            .header { padding: 0.5rem; flex-wrap: nowrap; }
+            .header h1 { font-size: 0.9rem; }
+            .stats { gap: 0.25rem; }
+            .stat { min-width: 40px; padding: 0.25rem 0.35rem; }
+            .stat-value { font-size: 0.9rem; }
+            .stat-label { font-size: 0.55rem; }
+            
+            .container { margin-top: 50px; padding: 0.25rem; height: calc(100vh - 50px); flex-direction: column; }
+            
+            /* Sidebar 變成底部彈出 */
+            .sidebar { 
+                position: fixed; 
+                bottom: 0; 
+                left: 0; 
+                right: 0; 
+                width: 100%; 
+                height: 60vh; 
+                transform: translateY(100%); 
+                z-index: 200; 
+                border-radius: 16px 16px 0 0; 
+                box-shadow: 0 -2px 20px rgba(0,0,0,0.15);
+                padding-bottom: 1rem;
+            }
+            .sidebar.show { transform: translateY(0); }
+            .sidebar-overlay.show { display: block; }
+            
+            .sidebar-toggle { display: flex; align-items: center; justify-content: center; }
+            
+            .main { width: 100%; }
+            
+            .toolbar { padding: 0.4rem; gap: 0.3rem; }
+            .search-box { min-width: 100%; order: -1; }
+            .btn { padding: 0.35rem 0.5rem; font-size: 0.7rem; }
+            .btn-success { display: none; } /* 手機版隱藏匯出按鈕 */
+            
+            .table-container { border-radius: 6px; }
+            table { font-size: 0.7rem; min-width: 700px; }
+            th, td { padding: 0.35rem 0.3rem; }
+            th { font-size: 0.65rem; }
+            
+            /* Modal 全螢幕 */
+            .modal { padding: 0; align-items: flex-end; }
+            .modal-content { 
+                max-width: 100%; 
+                max-height: 95vh; 
+                border-radius: 16px 16px 0 0; 
+                height: 95vh;
+            }
+            .modal-header { padding: 0.5rem 0.75rem; }
+            .modal-header h2 { font-size: 1rem; }
+            .modal-body { padding: 0.5rem 0.75rem; }
+            .form-row { grid-template-columns: 1fr; gap: 0.5rem; }
+            .modal-footer { padding: 0.5rem 0.75rem; justify-content: center; }
+            .modal-footer .btn { flex: 1; min-width: 70px; text-align: center; }
+            
+            .toast { bottom: 0.75rem; right: 0.75rem; padding: 0.5rem 0.75rem; font-size: 0.75rem; }
+        }
+        
+        /* ==================== 小手機 (< 400px) ==================== */
+        @media screen and (max-width: 399px) {
+            .header h1 { font-size: 0.8rem; }
+            .stat { min-width: 35px; padding: 0.2rem 0.3rem; }
+            .stat-value { font-size: 0.8rem; }
+            
+            .sidebar { height: 70vh; }
+            
+            table { font-size: 0.65rem; min-width: 600px; }
+            th, td { padding: 0.3rem 0.25rem; }
+        }
+        
+        /* ==================== 橫向手機 ==================== */
+        @media screen and (max-width: 767px) and (orientation: landscape) {
+            .container { margin-top: 45px; height: calc(100vh - 45px); }
+            .sidebar { height: 80vh; }
+            .modal-content { height: 100vh; max-height: 100vh; border-radius: 0; }
+        }
+        
+        /* ==================== 列印樣式 ==================== */
+        @media print {
+            .header, .sidebar, .sidebar-toggle, .sidebar-overlay, .toolbar, .modal { display: none !important; }
+            .container { margin: 0; padding: 0; height: auto; }
+            .main { width: 100%; }
+            .table-container { overflow: visible; }
+            table { min-width: auto; font-size: 10pt; }
+        }
     </style>
 </head>
 <body>
     <div class="header">
-        <h1>🏛️ 場地資料庫後台管理</h1>
+        <h1>🏛️ 場地資料庫後台</h1>
         <div class="stats">
             <div class="stat active" id="statAll" onclick="filterByStatus('')">
                 <div class="stat-value" id="totalCount">-</div>
@@ -118,21 +236,27 @@
             </div>
             <div class="stat" id="statOnline" onclick="filterByStatus('上架')">
                 <div class="stat-value" id="onlineCount">-</div>
-                <div class="stat-label">上架中</div>
+                <div class="stat-label">上架</div>
             </div>
             <div class="stat" id="statOffline" onclick="filterByStatus('下架')">
                 <div class="stat-value" id="offlineCount">-</div>
-                <div class="stat-label">已下架</div>
+                <div class="stat-label">下架</div>
             </div>
             <div class="stat" id="statIssues" onclick="filterByStatus('issues')">
                 <div class="stat-value" id="issueCount">-</div>
-                <div class="stat-label">待修正</div>
+                <div class="stat-label">待修</div>
             </div>
         </div>
     </div>
     
+    <!-- Sidebar Overlay (手機版) -->
+    <div class="sidebar-overlay" id="sidebarOverlay" onclick="toggleSidebar()"></div>
+    
+    <!-- Mobile Sidebar Toggle Button -->
+    <button class="sidebar-toggle" id="sidebarToggle" onclick="toggleSidebar()">☰</button>
+    
     <div class="container">
-        <div class="sidebar">
+        <div class="sidebar" id="sidebar">
             <div class="filter-group">
                 <input type="text" id="searchInput" placeholder="搜尋場地名稱、地址...">
             </div>
@@ -142,7 +266,7 @@
                 <li class="active" data-city="">全部城市 <span class="count" id="allCityCount">-</span></li>
             </ul>
             
-            <h3 style="margin-top: 1rem;">🏷️ 依類型</h3>
+            <h3 style="margin-top: 0.75rem;">🏷️ 依類型</h3>
             <ul class="type-list" id="typeList">
                 <li class="active" data-type="">全部類型 <span class="count" id="allTypeCount">-</span></li>
             </ul>
@@ -159,11 +283,11 @@
                     <input type="text" id="tableSearch" placeholder="快速搜尋...">
                 </div>
                 <select id="statusFilter" onchange="filterByStatus(this.value)">
-                    <option value="上架">顯示上架</option>
-                    <option value="下架">顯示下架</option>
-                    <option value="">顯示全部</option>
+                    <option value="上架">上架</option>
+                    <option value="下架">下架</option>
+                    <option value="">全部</option>
                 </select>
-                <button class="btn btn-primary" onclick="showAddModal()">➕ 新增場地</button>
+                <button class="btn btn-primary" onclick="showAddModal()">➕ 新增</button>
                 <button class="btn btn-success" onclick="exportData()">📤 匯出</button>
             </div>
             
@@ -172,16 +296,16 @@
                     <thead>
                         <tr>
                             <th style="width: 50px;" onclick="sortTable('id')" data-sort="id">ID</th>
-                            <th style="width: 180px;" onclick="sortTable('name')" data-sort="name">場地名稱</th>
-                            <th style="width: 100px;" onclick="sortTable('roomName')" data-sort="roomName">廳房</th>
-                            <th style="width: 100px;" onclick="sortTable('venueType')" data-sort="venueType">類型</th>
-                            <th style="width: 80px;" onclick="sortTable('city')" data-sort="city">城市</th>
-                            <th style="width: 80px;" onclick="sortTable('capacity')" data-sort="capacity">容納</th>
-                            <th style="width: 90px;" onclick="sortTable('priceHalfDay')" data-sort="priceHalfDay">半日價</th>
-                            <th style="width: 110px;" onclick="sortTable('contactPhone')" data-sort="contactPhone">電話</th>
+                            <th style="width: 150px;" onclick="sortTable('name')" data-sort="name">場地名稱</th>
+                            <th style="width: 80px;" onclick="sortTable('roomName')" data-sort="roomName">廳房</th>
+                            <th style="width: 80px;" onclick="sortTable('venueType')" data-sort="venueType">類型</th>
+                            <th style="width: 70px;" onclick="sortTable('city')" data-sort="city">城市</th>
+                            <th style="width: 60px;" onclick="sortTable('capacity')" data-sort="capacity">容納</th>
+                            <th style="width: 70px;" onclick="sortTable('priceHalfDay')" data-sort="priceHalfDay">半日價</th>
+                            <th style="width: 90px;" onclick="sortTable('contactPhone')" data-sort="contactPhone">電話</th>
                             <th style="width: 50px;" onclick="sortTable('photos')" data-sort="photos">照片</th>
-                            <th style="width: 60px;">狀態</th>
-                            <th style="width: 80px;">操作</th>
+                            <th style="width: 50px;">狀態</th>
+                            <th style="width: 50px;">操作</th>
                         </tr>
                     </thead>
                     <tbody id="venuesTable">
@@ -296,7 +420,7 @@
                     </div>
                 </div>
                 
-                <h4 style="margin: 1rem 0 0.5rem; color: #666;">💰 價格資訊</h4>
+                <h4 style="margin: 0.75rem 0 0.5rem; color: #666; font-size: 0.85rem;">💰 價格資訊</h4>
                 <div class="form-row">
                     <div class="form-group">
                         <label>時薪</label>
@@ -312,7 +436,7 @@
                     </div>
                 </div>
                 
-                <h4 style="margin: 1rem 0 0.5rem; color: #666;">👥 容納人數</h4>
+                <h4 style="margin: 0.75rem 0 0.5rem; color: #666; font-size: 0.85rem;">👥 容納人數</h4>
                 <div class="form-row">
                     <div class="form-group">
                         <label>空場</label>
@@ -328,7 +452,7 @@
                     </div>
                 </div>
                 
-                <h4 style="margin: 1rem 0 0.5rem; color: #666;">🕐 開放時間</h4>
+                <h4 style="margin: 0.75rem 0 0.5rem; color: #666; font-size: 0.85rem;">🕐 開放時間</h4>
                 <div class="form-row">
                     <div class="form-group">
                         <label>平日</label>
@@ -356,7 +480,7 @@
                 </div>
                 
                 <div class="images-section">
-                    <h4 style="margin-bottom: 0.5rem; color: #666;">📷 照片</h4>
+                    <h4 style="margin-bottom: 0.5rem; color: #666; font-size: 0.85rem;">📷 照片</h4>
                     <div class="images-grid" id="imagesGrid"></div>
                     <div class="form-group" style="margin-top: 0.5rem;">
                         <input type="text" id="addImageUrl" placeholder="輸入圖片網址後按新增...">
@@ -390,11 +514,30 @@
         let sortField = 'id';
         let sortOrder = 'asc';
         
+        // Sidebar 狀態
+        let sidebarOpen = false;
+        
         document.addEventListener('DOMContentLoaded', () => {
             loadStats();
             loadVenues();
             document.getElementById('tableSearch').addEventListener('input', debounce(loadVenues, 300));
+            
+            // 點擊篩選後自動關閉 sidebar (手機版)
+            document.querySelectorAll('.city-list li, .type-list li').forEach(li => {
+                li.addEventListener('click', () => {
+                    if (window.innerWidth <= 767) {
+                        setTimeout(toggleSidebar, 300);
+                    }
+                });
+            });
         });
+        
+        function toggleSidebar() {
+            sidebarOpen = !sidebarOpen;
+            document.getElementById('sidebar').classList.toggle('show', sidebarOpen);
+            document.getElementById('sidebarOverlay').classList.toggle('show', sidebarOpen);
+            document.getElementById('sidebarToggle').textContent = sidebarOpen ? '✕' : '☰';
+        }
         
         function debounce(func, wait) {
             let timeout;
@@ -445,7 +588,7 @@
                         <span class="issue-tag">${i.issue}</span>
                     </div>
                 `).join('');
-                document.getElementById('issuesList').innerHTML = issuesHtml || '<p style="color:#666;font-size:0.8rem;">✅ 無待修正項目</p>';
+                document.getElementById('issuesList').innerHTML = issuesHtml || '<p style="color:#666;font-size:0.75rem;">✅ 無待修正項目</p>';
                 
             } catch (e) {
                 console.error('載入統計失敗:', e);
@@ -497,7 +640,7 @@
                         <td>${photoHtml}</td>
                         <td>${statusBadge}</td>
                         <td>
-                            <button class="btn" onclick="event.stopPropagation();editVenue(${v.id})" style="padding:0.25rem 0.5rem;font-size:0.75rem;">編輯</button>
+                            <button class="btn" onclick="event.stopPropagation();editVenue(${v.id})" style="padding:0.2rem 0.4rem;font-size:0.7rem;">編輯</button>
                         </td>
                     </tr>
                 `;
@@ -546,16 +689,13 @@
         
         function filterByStatus(status) {
             if (status === 'issues') {
-                // 顯示所有有問題的場地
                 currentStatus = '';
                 document.getElementById('statusFilter').value = '';
-                // TODO: 實現問題篩選
             } else {
                 currentStatus = status;
                 document.getElementById('statusFilter').value = status;
             }
             
-            // 更新頂部統計按鈕狀態
             document.querySelectorAll('.stat').forEach(s => s.classList.remove('active'));
             if (status === '') document.getElementById('statAll').classList.add('active');
             else if (status === '上架') document.getElementById('statOnline').classList.add('active');
@@ -573,7 +713,6 @@
                 sortOrder = 'asc';
             }
             
-            // 更新表頭樣式
             document.querySelectorAll('th[data-sort]').forEach(th => {
                 th.classList.remove('sort-asc', 'sort-desc');
                 if (th.dataset.sort === field) {
@@ -646,13 +785,11 @@
         }
         
         async function editVenue(id) {
-            // 先從當前資料中找
             let venue = venues.find(v => v.id === id);
             
-            // 如果找不到，從 API 獲取
             if (!venue) {
                 try {
-                    showToast('載入場地資料中...', '');
+                    showToast('載入中...', '');
                     const res = await fetch(`${API_BASE}/api/venue/${id}`);
                     if (res.ok) {
                         venue = await res.json();
@@ -668,12 +805,11 @@
                 return;
             }
             
-            document.getElementById('modalTitle').textContent = '編輯場地：' + venue.name;
+            document.getElementById('modalTitle').textContent = '編輯：' + venue.name;
             document.getElementById('deleteBtn').style.display = 'inline-block';
             document.getElementById('toggleStatusBtn').style.display = 'inline-block';
             document.getElementById('toggleStatusBtn').textContent = venue.status === '下架' ? '重新上架' : '下架';
             
-            // 填充表單
             document.getElementById('editId').value = venue.id;
             document.getElementById('editName').value = venue.name || '';
             document.getElementById('editStatus').value = venue.status || '上架';
@@ -698,7 +834,6 @@
             document.getElementById('editRentalTimeNote').value = venue.rentalTimeNote || '';
             document.getElementById('editNotes').value = venue.notes || '';
             
-            // 載入照片
             currentImages = venue.images || [];
             renderImages();
             
@@ -790,7 +925,6 @@
                 if (id) {
                     data.id = parseInt(id);
                 } else {
-                    // 新增 - 需要生成新 ID
                     data.id = Date.now();
                 }
                 
