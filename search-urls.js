@@ -1,144 +1,105 @@
-const fs = require('fs');
+const { execSync } = require('child_process');
 
-// 自動搜尋正確 URL 的腳本
-class URLSearcher {
-  constructor() {
-    this.results = {
-      total: 0,
-      found: 0,
-      notFound: 0,
-      venues: []
-    };
-  }
+// 可能的官網變體
+const searches = [
+  { name: 'CAMA咖啡', urls: [
+    'https://www.camacoffee.com.tw',
+    'https://camacoffee.com.tw',
+    'https://www.cama.com.tw'
+  ]},
+  { name: 'Goodmans咖啡廳', urls: [
+    'https://www.goodmans.com.tw',
+    'https://goodmanscafe.com.tw'
+  ]},
+  { name: 'TCCC台灣文創訓練中心', urls: [
+    'https://www.tcc-creative.com.tw',
+    'https://www.tcccafe.com.tw'
+  ]},
+  { name: '公務人力發展學院', urls: [
+    'https://www.nacs.gov.tw',
+    'https://www.ncsi.gov.tw',
+    'https://csf.gov.tw'
+  ]},
+  { name: '典藏咖啡廳', urls: [
+    'https://www.artco-cafe.com.tw',
+    'https://artco.com.tw'
+  ]},
+  { name: '台北一樂園大飯店', urls: [
+    'https://www.ile-hotel.com.tw',
+    'https://www.onehotel.com.tw'
+  ]},
+  { name: '台北丹迪旅店', urls: [
+    'https://www.dandyhotel.com.tw',
+    'https://www.ttdhotel.com.tw'
+  ]},
+  { name: '台北亞都麗緻大飯店', urls: [
+    'https://www.landistpe.com',
+    'https://www.landis.com.tw',
+    'https://www.thelandistaipei.com'
+  ]},
+  { name: '台北京站酒店', urls: [
+    'https://www.caametro.com.tw',
+    'https://www.cityinn.com.tw'
+  ]},
+  { name: '台北八方美學商旅', urls: [
+    'https://www.bafang-hotel.com.tw',
+    'https://www.hotelbf.com.tw'
+  ]},
+  { name: '台北六福客棧', urls: [
+    'https://www.leofoohotel.com.tw',
+    'https://www.sixstarhotel.com.tw'
+  ]},
+  { name: '台北典華', urls: [
+    'https://www.dianhua.com',
+    'https://www.tpe-dianhua.com.tw'
+  ]},
+  { name: '台北北投會館', urls: [
+    'https://www.beitou-hall.com.tw',
+    'https://www.bt-hall.gov.tw'
+  ]},
+  { name: '台北友春大飯店', urls: [
+    'https://www.youchun-hotel.com.tw',
+    'https://www.friendhotel.com.tw'
+  ]}
+];
 
-  async searchVenue(venue) {
-    const searchTerm = `${venue.name} ${venue.city} 官方網站`;
-    
+console.log('=== 搜尋正確官網 ===\n');
+
+const results = [];
+
+for (const search of searches) {
+  console.log(`🔍 ${search.name}`);
+  
+  let found = null;
+  for (const url of search.urls) {
     try {
-      console.log(`\n🔍 搜尋: ${venue.name} (${venue.city})`);
-      console.log(`   搜尋詞: ${searchTerm}`);
+      const res = execSync(`curl -I "${url}" --connect-timeout 5 -s 2>&1 | head -1`, { 
+        encoding: 'utf8', timeout: 8000 
+      });
       
-      // 使用 web_search 工具搜尋
-      const searchResults = await this.webSearch(searchTerm);
-      
-      if (searchResults && searchResults.length > 0) {
-        // 找到最可能的官方網站
-        const officialUrl = this.findOfficialUrl(searchResults, venue.name);
-        
-        if (officialUrl) {
-          console.log(`   ✅ 找到: ${officialUrl}`);
-          return {
-            status: 'found',
-            url: officialUrl,
-            searchResults: searchResults.slice(0, 3)
-          };
-        }
+      if (res.includes('200') || res.includes('301') || res.includes('302')) {
+        found = url;
+        console.log(`  ✅ 找到: ${url}`);
+        break;
       }
-      
-      console.log(`   ❌ 未找到官方網站`);
-      return {
-        status: 'not_found',
-        url: null,
-        searchResults: searchResults ? searchResults.slice(0, 3) : []
-      };
-    } catch (error) {
-      console.log(`   ❌ 搜尋錯誤: ${error.message}`);
-      return {
-        status: 'error',
-        url: null,
-        error: error.message
-      };
+    } catch (e) {
+      // 繼續嘗試下一個
     }
   }
-
-  async webSearch(query) {
-    // 這裡需要調用實際的 web_search 工具
-    // 由於我們在 Node.js 環境中，我們需要模擬或使用外部工具
-    // 暫時返回空陣列，實際使用時需要整合
-    return [];
+  
+  if (!found) {
+    console.log('  ❌ 未找到');
   }
-
-  findOfficialUrl(searchResults, venueName) {
-    // 優先尋找包含場地名稱的官方網站
-    for (const result of searchResults) {
-      const url = result.url || result.link;
-      const title = result.title || '';
-      
-      // 檢查是否是官方網站
-      if (this.isOfficialSite(url, title, venueName)) {
-        return url;
-      }
-    }
-    
-    // 如果沒有找到明確的官方網站，返回第一個結果
-    if (searchResults.length > 0) {
-      return searchResults[0].url || searchResults[0].link;
-    }
-    
-    return null;
-  }
-
-  isOfficialSite(url, title, venueName) {
-    // 檢查 URL 和標題是否包含場地名稱的關鍵字
-    const keywords = venueName.split(/[\s\-\_\.]/);
-    const urlLower = url.toLowerCase();
-    const titleLower = title.toLowerCase();
-    
-    // 檢查是否包含至少一個關鍵字
-    const hasKeyword = keywords.some(keyword => 
-      keyword.length > 2 && 
-      (urlLower.includes(keyword.toLowerCase()) || titleLower.includes(keyword.toLowerCase()))
-    );
-    
-    // 檢查是否是官方網站的特徵
-    const isOfficial = 
-      urlLower.includes('official') ||
-      urlLower.includes('com.tw') ||
-      urlLower.includes('.tw') ||
-      titleLower.includes('官方') ||
-      titleLower.includes('official');
-    
-    return hasKeyword || isOfficial;
-  }
-
-  sleep(ms) {
-    return new Promise(resolve => setTimeout(resolve, ms));
-  }
+  
+  results.push({ name: search.name, found });
+  console.log('');
 }
 
-// 主程式
-async function main() {
-  const searcher = new URLSearcher();
+// 輸出結果
+console.log('=== 搜尋結果 ===');
+const found = results.filter(r => r.found);
+console.log(`找到: ${found.length}/${results.length}`);
 
-  try {
-    // 讀取失敗的 URL 清單
-    const failedUrls = JSON.parse(fs.readFileSync('repaired-failed-urls.json', 'utf8'));
-
-    console.log('📊 失敗 URL 清單\n');
-    console.log('總數:', failedUrls.length);
-
-    console.log('\n⚠️ 注意: 此腳本需要整合 web_search 工具才能正常運作');
-    console.log('請使用 OpenClaw 的 web_search 工具進行搜尋\n');
-
-    // 保存範例清單供手動搜尋使用
-    const searchList = failedUrls.map(v => ({
-      name: v.name,
-      city: v.city,
-      oldUrl: v.url,
-      error: v.error
-    }));
-
-    fs.writeFileSync(
-      'venues-to-search.json',
-      JSON.stringify(searchList, null, 2)
-    );
-
-    console.log('✅ 已生成搜尋清單: venues-to-search.json');
-    console.log('\n建議使用 web_search 工具逐個搜尋這些場地');
-
-  } catch (error) {
-    console.error('❌ 錯誤:', error.message);
-  }
-}
-
-main();
+found.forEach(r => {
+  console.log(`✅ ${r.name}: ${r.found}`);
+});
