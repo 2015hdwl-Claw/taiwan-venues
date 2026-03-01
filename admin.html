@@ -561,9 +561,17 @@
 
             // 顯示主照片（用於場地卡片）
             if (images.main) {
-                imagesHtml += `<div class="image-item" style="grid-column: span 2; position: relative;">
-                    <img src="${images.main}" alt="主照片（場地卡片用）" onerror="this.style.display='none'">
-                    <div style="position:absolute;bottom:0;left:0;right:0;background:rgba(0,0,0,0.7);color:white;padding:0.25rem;font-size:0.7rem;">📷 主照片（場地卡片用）</div>
+                imagesHtml += `<div style="margin-bottom: 1rem; padding: 0.75rem; background: #f8f9fa; border-radius: 4px;">
+                    <div style="font-weight: 600; margin-bottom: 0.5rem; color: #2c3e50;">📷 主照片（場地卡片用）</div>
+                    <div style="display: flex; align-items: center; gap: 0.5rem; flex-wrap: wrap;">
+                        <img src="${images.main}" alt="主照片" style="width: 200px; height: 150px; object-fit: cover; border-radius: 4px; border: 1px solid #ddd;" onerror="this.style.display='none'; this.nextElementSibling.style.display='block';">
+                        <div style="display: none; padding: 0.5rem; background: #fff3cd; border-radius: 4px; font-size: 0.75rem; color: #856404;">⚠️ 圖片載入失敗</div>
+                    </div>
+                    <div style="margin-top: 0.5rem;">
+                        <label style="font-size: 0.75rem; color: #666;">網址：</label>
+                        <a href="${images.main}" target="_blank" style="font-size: 0.75rem; color: #3498db; word-break: break-all;">${images.main}</a>
+                        <button onclick="navigator.clipboard.writeText('${images.main}').then(() => alert('已複製網址'))" style="margin-left: 0.5rem; padding: 0.2rem 0.5rem; font-size: 0.7rem; background: #3498db; color: white; border: none; border-radius: 3px; cursor: pointer;">複製</button>
+                    </div>
                 </div>`;
                 photoCount++;
             }
@@ -571,9 +579,17 @@
             // 顯示 gallery 照片（用於會議室介紹）
             if (images.gallery && Array.isArray(images.gallery)) {
                 images.gallery.forEach((url, i) => {
-                    imagesHtml += `<div class="image-item" style="position: relative;">
-                        <img src="${url}" alt="會議室照片 ${i+1}" onerror="this.style.display='none'">
-                        <div style="position:absolute;bottom:0;left:0;right:0;background:rgba(0,0,0,0.7);color:white;padding:0.25rem;font-size:0.7rem;">🏛️ 會議室照片 ${i+1}</div>
+                    imagesHtml += `<div style="margin-bottom: 1rem; padding: 0.75rem; background: #f8f9fa; border-radius: 4px;">
+                        <div style="font-weight: 600; margin-bottom: 0.5rem; color: #2c3e50;">🏛️ 會議室照片 ${i+1}</div>
+                        <div style="display: flex; align-items: center; gap: 0.5rem; flex-wrap: wrap;">
+                            <img src="${url}" alt="會議室照片 ${i+1}" style="width: 200px; height: 150px; object-fit: cover; border-radius: 4px; border: 1px solid #ddd;" onerror="this.style.display='none'; this.nextElementSibling.style.display='block';">
+                            <div style="display: none; padding: 0.5rem; background: #fff3cd; border-radius: 4px; font-size: 0.75rem; color: #856404;">⚠️ 圖片載入失敗</div>
+                        </div>
+                        <div style="margin-top: 0.5rem;">
+                            <label style="font-size: 0.75rem; color: #666;">網址：</label>
+                            <a href="${url}" target="_blank" style="font-size: 0.75rem; color: #3498db; word-break: break-all;">${url}</a>
+                            <button onclick="navigator.clipboard.writeText('${url}').then(() => alert('已複製網址'))" style="margin-left: 0.5rem; padding: 0.2rem 0.5rem; font-size: 0.7rem; background: #3498db; color: white; border: none; border-radius: 3px; cursor: pointer;">複製</button>
+                        </div>
                     </div>`;
                     photoCount++;
                 });
@@ -581,9 +597,17 @@
 
             // 顯示平面圖（如果有）
             if (images.floorPlan) {
-                imagesHtml += `<div class="image-item" style="grid-column: span 2; position: relative;">
-                    <img src="${images.floorPlan}" alt="平面圖" onerror="this.style.display='none'">
-                    <div style="position:absolute;bottom:0;left:0;right:0;background:rgba(0,0,0,0.7);color:white;padding:0.25rem;font-size:0.7rem;">📐 平面圖</div>
+                imagesHtml += `<div style="margin-bottom: 1rem; padding: 0.75rem; background: #f8f9fa; border-radius: 4px;">
+                    <div style="font-weight: 600; margin-bottom: 0.5rem; color: #2c3e50;">📐 平面圖</div>
+                    <div style="display: flex; align-items: center; gap: 0.5rem; flex-wrap: wrap;">
+                        <img src="${images.floorPlan}" alt="平面圖" style="width: 200px; height: 150px; object-fit: cover; border-radius: 4px; border: 1px solid #ddd;" onerror="this.style.display='none'; this.nextElementSibling.style.display='block';">
+                        <div style="display: none; padding: 0.5rem; background: #fff3cd; border-radius: 4px; font-size: 0.75rem; color: #856404;">⚠️ 圖片載入失敗</div>
+                    </div>
+                    <div style="margin-top: 0.5rem;">
+                        <label style="font-size: 0.75rem; color: #666;">網址：</label>
+                        <a href="${images.floorPlan}" target="_blank" style="font-size: 0.75rem; color: #3498db; word-break: break-all;">${images.floorPlan}</a>
+                        <button onclick="navigator.clipboard.writeText('${images.floorPlan}').then(() => alert('已複製網址'))" style="margin-left: 0.5rem; padding: 0.2rem 0.5rem; font-size: 0.7rem; background: #3498db; color: white; border: none; border-radius: 3px; cursor: pointer;">複製</button>
+                    </div>
                 </div>`;
                 photoCount++;
             }
@@ -660,7 +684,7 @@
                 
                 <div class="detail-section">
                     <h4>📷 照片 (${photoCount} 張)</h4>
-                    <div class="images-grid">${imagesHtml}</div>
+                    <div style="max-height: 400px; overflow-y: auto;">${imagesHtml}</div>
                 </div>
             `;
             
