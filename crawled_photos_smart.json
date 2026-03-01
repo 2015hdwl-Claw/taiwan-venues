@@ -1,0 +1,43 @@
+{
+  "台北喜來登大飯店": {
+    "method": "web_fetch",
+    "main": "https://www.sheraton.com/wp-content/themes/sheraton/assets/img/sheraton.png",
+    "gallery": [
+      "https://sheraton.marriott.com/wp-content/themes/marriott-master/assets/img/brandbar/devices.png"
+    ]
+  },
+  "台北圓山大飯店": {
+    "method": "agent_browser",
+    "main": "https://www.grand-hotel.org/images/photo/restaurant-img@3x.jpg",
+    "gallery": [
+      "https://www.grand-hotel.org/images/photo/restaurant-img@3x.jpg",
+      "https://www.grand-hotel.org/images/photo/restaurant-img@3x.jpg",
+      "https://www.grand-hotel.org/images/photo/restaurant-img@3x.jpg"
+    ]
+  },
+  "台北威斯汀六福皇宮": {
+    "method": "agent_browser",
+    "main": "https://westin.marriott.com/wp-content/themes/marriott-master/assets/img/brandbar/devices.png",
+    "gallery": [
+      "https://cache.marriott.com/aka-fonts/ccpa/privacyoptions29x14.png",
+      "https://cache.marriott.com/aka-fonts/ccpa/privacyoptions29x14.png",
+      "https://cache.marriott.com/aka-fonts/ccpa/privacyoptions29x14.png"
+    ]
+  },
+  "台北寒舍艾美酒店": {
+    "method": "web_fetch",
+    "main": "https://www.lemeridien-taipei.com/files/set_176986464614we4qi80.jpg",
+    "gallery": [
+      "https://www.lemeridien-taipei.com/style/spg_f.png"
+    ]
+  },
+  "集思台大會議中心": {
+    "method": "web_fetch",
+    "main": "https://www.meeting.com.tw/images/taipei.png",
+    "gallery": [
+      "https://www.meeting.com.tw/images/hsinchu.png",
+      "https://www.meeting.com.tw/images/taichung.png",
+      "https://www.meeting.com.tw/images/tainan.png"
+    ]
+  }
+}
