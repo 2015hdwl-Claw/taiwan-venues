@@ -2178,37 +2178,6 @@
     "urlUpdatedAt": "2026-02-28T08:44:10.706Z"
   },
   {
-    "id": 46,
-    "name": "花蓮翰品酒店",
-    "roomName": "翰品廳",
-    "venueType": "飯店場地",
-    "type": "宴會廳",
-    "city": "花蓮縣",
-    "address": "花蓮市永興路2號",
-    "contactPerson": "宴會部",
-    "contactPhone": "03-8234567",
-    "contactEmail": "hualien@chateaudechine.com",
-    "priceHalfDay": 22000,
-    "priceFullDay": 40000,
-    "maxCapacityTheater": 250,
-    "maxCapacityClassroom": 140,
-    "availableTimeWeekday": "08:00-22:00",
-    "availableTimeWeekend": "08:00-22:00",
-    "equipment": "專業音響、投影設備",
-    "images": {
-      "main": "https://www.chateaudechine.com/2dd1e9a8aa5a8.jpg",
-      "gallery": [
-        "https://www.chateaudechine.com/2dd1e9a8aa5a8.jpg",
-        "https://www.chateaudechine.com/ceea491011afc.jpg",
-        "https://www.chateaudechine.com/282105e50a218.jpg",
-        "https://www.chateaudechine.com/acdc80c8f7396.jpg"
-      ]
-    },
-    "url": "https://www.chateaudechine.com/hualien",
-    "verified": true,
-    "verifiedAt": "2026-02-27"
-  },
-  {
     "id": 47,
     "name": "花蓮遠雄悅來大飯店",
     "roomName": "悅來廳",
