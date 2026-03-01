@@ -977,9 +977,12 @@
     "url": "https://www.camacoffee.com",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "待確認",
+    "status": "待修",
     "roomType": "咖啡廳包場",
-    "notes": " [官網無法連線，需手動搜尋確認]"
+    "notes": " [官網無法連線，需手動搜尋確認]",
+    "missingFields": [
+      "照片"
+    ]
   },
   {
     "id": 1032,
@@ -1043,9 +1046,12 @@
     "url": "https://www.goodmanscafe.com",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "待確認",
+    "status": "待修",
     "roomType": "咖啡廳包場",
-    "notes": " [官網無法連線，需手動搜尋確認]"
+    "notes": " [官網無法連線，需手動搜尋確認]",
+    "missingFields": [
+      "照片"
+    ]
   },
   {
     "id": 1034,
@@ -1136,8 +1142,11 @@
     "url": "https://www.regus.com",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "上架",
-    "roomType": "共享空間"
+    "status": "待修",
+    "roomType": "共享空間",
+    "missingFields": [
+      "會議室名稱（具體）"
+    ]
   },
   {
     "id": 1036,
@@ -1225,8 +1234,11 @@
     "source": "官方網站",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "待確認",
-    "roomType": "會議室"
+    "status": "待修",
+    "roomType": "會議室",
+    "missingFields": [
+      "照片"
+    ]
   },
   {
     "id": 1038,
@@ -1260,8 +1272,11 @@
     "url": "https://www.executivecentre.com",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "上架",
-    "roomType": "共享空間"
+    "status": "待修",
+    "roomType": "共享空間",
+    "missingFields": [
+      "會議室名稱（具體）"
+    ]
   },
   {
     "id": 1039,
@@ -1295,8 +1310,11 @@
     "url": "https://www.wework.com",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "上架",
-    "roomType": "共享空間"
+    "status": "待修",
+    "roomType": "共享空間",
+    "missingFields": [
+      "會議室名稱（具體）"
+    ]
   },
   {
     "name": "W飯店台北",
@@ -1319,7 +1337,7 @@
         }
       }
     ],
-    "status": "待確認",
+    "status": "待修",
     "address": "台北市信義區忠孝東路五段10號",
     "contact": {
       "phone": "02-7708-8888"
@@ -1336,7 +1354,15 @@
       "note": "待補充真實照片網址",
       "lastUpdated": "2026-03-01"
     },
-    "notes": " [官網無法連線或擋爬蟲，需手動確認]"
+    "notes": " [官網無法連線或擋爬蟲，需手動確認]",
+    "missingFields": [
+      "會議室名稱（具體）",
+      "價格",
+      "劇院式人數",
+      "教室式人數",
+      "照片",
+      "聯絡電話"
+    ]
   },
   {
     "id": 1041,
@@ -1374,9 +1400,12 @@
     "hasOnlineBooking": false,
     "bookingUrl": null,
     "createdAt": "2026-02-26T00:00:00.000Z",
-    "status": "上架",
+    "status": "待修",
     "roomType": "宴會廳",
-    "url": "https://www.brotherhotel.com.tw/?cat=75"
+    "url": "https://www.brotherhotel.com.tw/?cat=75",
+    "missingFields": [
+      "會議室名稱（具體）"
+    ]
   },
   {
     "id": 1042,
@@ -1441,8 +1470,11 @@
     "url": "https://www.courtyard.com/taipei",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "上架",
-    "roomType": "宴會廳"
+    "status": "待修",
+    "roomType": "宴會廳",
+    "missingFields": [
+      "照片"
+    ]
   },
   {
     "id": 1044,
@@ -1473,9 +1505,12 @@
     "url": "https://www.artco.com.tw",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "待確認",
+    "status": "待修",
     "roomType": "咖啡廳包場",
-    "notes": " [官網無法連線，需手動搜尋確認]"
+    "notes": " [官網無法連線，需手動搜尋確認]",
+    "missingFields": [
+      "照片"
+    ]
   },
   {
     "id": 1045,
@@ -1508,8 +1543,11 @@
     "url": "https://www.ntut.edu.tw",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "上架",
-    "roomType": "會議中心"
+    "status": "待修",
+    "roomType": "會議中心",
+    "missingFields": [
+      "會議室名稱（具體）"
+    ]
   },
   {
     "id": 1046,
@@ -1539,10 +1577,13 @@
     "url": "https://www.tainex.com.tw/",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "上架",
+    "status": "待修",
     "roomType": "展覽館",
     "venuePageUrl": "https://www.tainex.com.tw/venue/meetingroom",
-    "notes": "以展覽為主，會議室為附屬設施。1館/2館皆有會議室可租借。"
+    "notes": "以展覽為主，會議室為附屬設施。1館/2館皆有會議室可租借。",
+    "missingFields": [
+      "教室式人數"
+    ]
   },
   {
     "id": 1047,
@@ -1572,9 +1613,12 @@
     "url": "https://www.wtaipei.com",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "待確認",
+    "status": "待修",
     "roomType": "宴會廳",
-    "notes": " [官網無法連線或擋爬蟲，需手動確認]"
+    "notes": " [官網無法連線或擋爬蟲，需手動確認]",
+    "missingFields": [
+      "照片"
+    ]
   },
   {
     "id": 1048,
@@ -1604,9 +1648,12 @@
     "url": "https://www.ile-hotel.com",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "待確認",
+    "status": "待修",
     "roomType": "宴會廳",
-    "notes": " [官網無法連線，需手動搜尋確認]"
+    "notes": " [官網無法連線，需手動搜尋確認]",
+    "missingFields": [
+      "照片"
+    ]
   },
   {
     "id": 1049,
@@ -1639,8 +1686,11 @@
     "url": "https://www.twtc.com.tw/",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "上架",
-    "roomType": "展覽館"
+    "status": "待修",
+    "roomType": "展覽館",
+    "missingFields": [
+      "教室式人數"
+    ]
   },
   {
     "id": 1050,
@@ -1671,9 +1721,12 @@
     "url": "https://www.dandyhotel.com.tw",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "上架",
+    "status": "待修",
     "roomType": "會議室",
-    "notes": ""
+    "notes": "",
+    "missingFields": [
+      "會議室名稱（具體）"
+    ]
   },
   {
     "id": 1051,
@@ -1746,9 +1799,12 @@
     "capacityCategory": "small",
     "targetAudience": "企業",
     "createdAt": "2026-02-26T00:00:00.000Z",
-    "status": "上架",
+    "status": "待修",
     "roomType": "會議室",
-    "url": "https://www.cityinn.com.tw"
+    "url": "https://www.cityinn.com.tw",
+    "missingFields": [
+      "會議室名稱（具體）"
+    ]
   },
   {
     "id": 1053,
@@ -1811,9 +1867,13 @@
     "url": "https://www.hotelbf.com",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "待確認",
+    "status": "待修",
     "roomType": "會議室",
-    "notes": " [官網無法連線，需手動搜尋確認]"
+    "notes": " [官網無法連線，需手動搜尋確認]",
+    "missingFields": [
+      "會議室名稱（具體）",
+      "照片"
+    ]
   },
   {
     "id": 1055,
@@ -1883,9 +1943,13 @@
     "capacityCategory": "small",
     "targetAudience": "企業",
     "createdAt": "2026-02-26T00:00:00.000Z",
-    "status": "上架",
+    "status": "待修",
     "roomType": "會議室",
-    "url": "https://www.courtyard.com/taipei-six"
+    "url": "https://www.courtyard.com/taipei-six",
+    "missingFields": [
+      "會議室名稱（具體）",
+      "照片"
+    ]
   },
   {
     "id": 1057,
@@ -1915,9 +1979,12 @@
     "url": "https://www.dianhua.com.tw",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "待確認",
+    "status": "待修",
     "roomType": "婚宴會館",
-    "notes": " [官網無法連線，需手動搜尋確認]"
+    "notes": " [官網無法連線，需手動搜尋確認]",
+    "missingFields": [
+      "照片"
+    ]
   },
   {
     "id": 1058,
@@ -1947,9 +2014,13 @@
     "url": "https://www.beitou-hall.com",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "待確認",
+    "status": "待修",
     "roomType": "會議中心",
-    "notes": " [官網無法連線，需手動搜尋確認]"
+    "notes": " [官網無法連線，需手動搜尋確認]",
+    "missingFields": [
+      "會議室名稱（具體）",
+      "照片"
+    ]
   },
   {
     "id": 1059,
@@ -1979,9 +2050,12 @@
     "url": "https://www.youchun-hotel.com",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "待確認",
+    "status": "待修",
     "roomType": "宴會廳",
-    "notes": " [官網無法連線，需手動搜尋確認]"
+    "notes": " [官網無法連線，需手動搜尋確認]",
+    "missingFields": [
+      "照片"
+    ]
   },
   {
     "id": 1060,
@@ -2068,7 +2142,7 @@
     "source": "官方網站",
     "verifiedAt": "2026-02-27",
     "verified": true,
-    "status": "待確認",
+    "status": "上架",
     "roomType": "宴會廳"
   },
   {
@@ -2106,9 +2180,12 @@
     "hasOnlineBooking": false,
     "bookingUrl": null,
     "createdAt": "2026-02-26T00:00:00.000Z",
-    "status": "待確認",
+    "status": "待修",
     "roomType": "會議室",
-    "url": "https://www.hyatt.com/taipei"
+    "url": "https://www.hyatt.com/taipei",
+    "missingFields": [
+      "照片"
+    ]
   },
   {
     "id": 1063,
@@ -2145,9 +2222,12 @@
     "hasOnlineBooking": false,
     "bookingUrl": null,
     "createdAt": "2026-02-26T00:00:00.000Z",
-    "status": "待確認",
+    "status": "待修",
     "roomType": "會議室",
-    "url": "https://www.hyatt.com/taipei"
+    "url": "https://www.hyatt.com/taipei",
+    "missingFields": [
+      "照片"
+    ]
   },
   {
     "id": 1064,
@@ -2177,9 +2257,12 @@
     "url": "https://www.grandhyatt.com/taipei",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "待確認",
+    "status": "待修",
     "roomType": "宴會廳",
-    "notes": " [官網無法連線或擋爬蟲，需手動確認]"
+    "notes": " [官網無法連線或擋爬蟲，需手動確認]",
+    "missingFields": [
+      "照片"
+    ]
   },
   {
     "id": 1065,
@@ -2209,9 +2292,13 @@
     "url": "https://www.victoriam.com",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "待確認",
+    "status": "待修",
     "roomType": "會議中心",
-    "notes": " [官網無法連線或擋爬蟲，需手動確認]"
+    "notes": " [官網無法連線或擋爬蟲，需手動確認]",
+    "missingFields": [
+      "會議室名稱（具體）",
+      "照片"
+    ]
   },
   {
     "id": 1066,
@@ -2241,9 +2328,13 @@
     "url": "https://www.taipei-business.com",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "待確認",
+    "status": "待修",
     "roomType": "會議中心",
-    "notes": " [官網無法連線，需手動搜尋確認]"
+    "notes": " [官網無法連線，需手動搜尋確認]",
+    "missingFields": [
+      "會議室名稱（具體）",
+      "照片"
+    ]
   },
   {
     "id": 1067,
@@ -2308,9 +2399,12 @@
     "url": "https://www.ambience-hotel.com",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "待確認",
+    "status": "待修",
     "roomType": "宴會廳",
-    "notes": " [官網無法連線，需手動搜尋確認]"
+    "notes": " [官網無法連線，需手動搜尋確認]",
+    "missingFields": [
+      "照片"
+    ]
   },
   {
     "id": 1069,
@@ -2408,9 +2502,12 @@
     "url": "https://www.zibei-hotel.com",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "待確認",
+    "status": "待修",
     "roomType": "宴會廳",
-    "notes": " [官網無法連線，需手動搜尋確認]"
+    "notes": " [官網無法連線，需手動搜尋確認]",
+    "missingFields": [
+      "照片"
+    ]
   },
   {
     "id": 1074,
@@ -2458,7 +2555,7 @@
     "url": "https://www.sheratongrandtaipei.com",
     "id": 1075,
     "venueType": "其他",
-    "status": "上架",
+    "status": "待修",
     "roomName": "綜合",
     "contactPhone": "02-2321-5511",
     "contactEmail": "reservations.taipei@sheraton.com",
@@ -2472,7 +2569,13 @@
         "https://www.sheratongrandtaipei.com/files/pages_176123959514pwmxb06_m.jpg"
       ],
       "source": "https://www.sheratongrandtaipei.com"
-    }
+    },
+    "missingFields": [
+      "會議室名稱（具體）",
+      "價格",
+      "劇院式人數",
+      "教室式人數"
+    ]
   },
   {
     "id": 1076,
@@ -2538,9 +2641,12 @@
     "capacityCategory": "medium-large",
     "targetAudience": "企業",
     "createdAt": "2026-02-26T00:00:00.000Z",
-    "status": "上架",
+    "status": "待修",
     "roomType": "宴會廳",
-    "url": "https://www.humblehousehotels.com/taipei"
+    "url": "https://www.humblehousehotels.com/taipei",
+    "missingFields": [
+      "會議室名稱（具體）"
+    ]
   },
   {
     "id": 1078,
@@ -2602,9 +2708,13 @@
     "url": "https://www.taipeiarena.com",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "待確認",
+    "status": "待修",
     "roomType": "體育館",
-    "notes": " [官網無法連線或擋爬蟲，需手動確認]"
+    "notes": " [官網無法連線或擋爬蟲，需手動確認]",
+    "missingFields": [
+      "教室式人數",
+      "照片"
+    ]
   },
   {
     "id": 1080,
@@ -2634,9 +2744,12 @@
     "url": "https://www.kanghua-hotel.com",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "待確認",
+    "status": "待修",
     "roomType": "宴會廳",
-    "notes": " [官網無法連線，需手動搜尋確認]"
+    "notes": " [官網無法連線，需手動搜尋確認]",
+    "missingFields": [
+      "照片"
+    ]
   },
   {
     "id": 1081,
@@ -2666,9 +2779,12 @@
     "url": "https://www.midtownrichard.com",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "待確認",
+    "status": "待修",
     "roomType": "宴會廳",
-    "notes": " [官網無法連線，需手動搜尋確認]"
+    "notes": " [官網無法連線，需手動搜尋確認]",
+    "missingFields": [
+      "照片"
+    ]
   },
   {
     "id": 1082,
@@ -2704,9 +2820,12 @@
     "capacityCategory": "small",
     "targetAudience": "企業",
     "createdAt": "2026-02-26T00:00:00.000Z",
-    "status": "上架",
+    "status": "待修",
     "roomType": "會議室",
-    "url": "https://www.eclathotels.com"
+    "url": "https://www.eclathotels.com",
+    "missingFields": [
+      "會議室名稱（具體）"
+    ]
   },
   {
     "id": 1083,
@@ -2768,9 +2887,12 @@
     "url": "https://www.ching-tai.com",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "待確認",
+    "status": "待修",
     "roomType": "宴會廳",
-    "notes": " [官網無法連線或擋爬蟲，需手動確認]"
+    "notes": " [官網無法連線或擋爬蟲，需手動確認]",
+    "missingFields": [
+      "照片"
+    ]
   },
   {
     "id": 1085,
@@ -2881,7 +3003,7 @@
     "source": "官方網站",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "待確認",
+    "status": "上架",
     "roomType": "宴會廳"
   },
   {
@@ -2912,9 +3034,12 @@
     "url": "https://www.regenthotels.com/taipei",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "待確認",
+    "status": "待修",
     "roomType": "宴會廳",
-    "notes": " [官網無法連線或擋爬蟲，需手動確認]"
+    "notes": " [官網無法連線或擋爬蟲，需手動確認]",
+    "missingFields": [
+      "照片"
+    ]
   },
   {
     "id": 1088,
@@ -2944,9 +3069,12 @@
     "url": "https://www.songyi-hotel.com",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "待確認",
+    "status": "待修",
     "roomType": "宴會廳",
-    "notes": " [官網無法連線，需手動搜尋確認]"
+    "notes": " [官網無法連線，需手動搜尋確認]",
+    "missingFields": [
+      "照片"
+    ]
   },
   {
     "id": 1089,
@@ -2976,9 +3104,12 @@
     "url": "https://www.chateau-china.com",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "待確認",
+    "status": "待修",
     "roomType": "宴會廳",
-    "notes": " [官網無法連線，需手動搜尋確認]"
+    "notes": " [官網無法連線，需手動搜尋確認]",
+    "missingFields": [
+      "照片"
+    ]
   },
   {
     "id": 1090,
@@ -3014,9 +3145,12 @@
     "capacityCategory": "medium-large",
     "targetAudience": "企業",
     "createdAt": "2026-02-26T00:00:00.000Z",
-    "status": "上架",
+    "status": "待修",
     "roomType": "宴會廳",
-    "url": "https://www.dynasty.com.tw"
+    "url": "https://www.dynasty.com.tw",
+    "missingFields": [
+      "會議室名稱（具體）"
+    ]
   },
   {
     "id": 1091,
@@ -3047,8 +3181,11 @@
     "url": "https://www.san-want.com",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "上架",
-    "roomType": "宴會廳"
+    "status": "待修",
+    "roomType": "宴會廳",
+    "missingFields": [
+      "會議室名稱（具體）"
+    ]
   },
   {
     "id": 1092,
@@ -3078,9 +3215,12 @@
     "url": "https://www.firsthotel.com",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "待確認",
+    "status": "待修",
     "roomType": "宴會廳",
-    "notes": " [官網無法連線或擋爬蟲，需手動確認]"
+    "notes": " [官網無法連線或擋爬蟲，需手動確認]",
+    "missingFields": [
+      "照片"
+    ]
   },
   {
     "id": 1093,
@@ -3110,9 +3250,12 @@
     "url": "https://www.first-hotel.com.tw",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "待確認",
+    "status": "待修",
     "roomType": "宴會廳",
-    "notes": " [官網無法連線，需手動搜尋確認]"
+    "notes": " [官網無法連線，需手動搜尋確認]",
+    "missingFields": [
+      "照片"
+    ]
   },
   {
     "id": 1094,
@@ -3142,9 +3285,12 @@
     "url": "https://www.tongyi-hotel.com",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "待確認",
+    "status": "待修",
     "roomType": "宴會廳",
-    "notes": " [官網無法連線，需手動搜尋確認]"
+    "notes": " [官網無法連線，需手動搜尋確認]",
+    "missingFields": [
+      "照片"
+    ]
   },
   {
     "id": 1095,
@@ -3180,9 +3326,12 @@
     "capacityCategory": "medium-large",
     "targetAudience": "企業",
     "createdAt": "2026-02-26T00:00:00.000Z",
-    "status": "上架",
+    "status": "待修",
     "roomType": "宴會廳",
-    "url": "https://www.grandmayfull.com"
+    "url": "https://www.grandmayfull.com",
+    "missingFields": [
+      "會議室名稱（具體）"
+    ]
   },
   {
     "id": 1096,
@@ -3392,9 +3541,12 @@
     "url": "https://www.imperial-hotel.com.tw",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "待確認",
+    "status": "待修",
     "roomType": "宴會廳",
-    "notes": " [官網無法連線，需手動搜尋確認]"
+    "notes": " [官網無法連線，需手動搜尋確認]",
+    "missingFields": [
+      "照片"
+    ]
   },
   {
     "id": 1102,
@@ -3424,9 +3576,12 @@
     "url": "https://www.gloria-residence.com",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "待確認",
+    "status": "待修",
     "roomType": "宴會廳",
-    "notes": " [官網無法連線，需手動搜尋確認]"
+    "notes": " [官網無法連線，需手動搜尋確認]",
+    "missingFields": [
+      "照片"
+    ]
   },
   {
     "id": 1103,
@@ -3524,9 +3679,12 @@
     "url": "https://www.landisresort.com",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "待確認",
+    "status": "待修",
     "roomType": "宴會廳",
-    "notes": " [官網無法連線，需手動搜尋確認]"
+    "notes": " [官網無法連線，需手動搜尋確認]",
+    "missingFields": [
+      "照片"
+    ]
   },
   {
     "name": "台北香格里拉遠東國際大飯店",
@@ -3549,7 +3707,7 @@
         }
       }
     ],
-    "status": "上架",
+    "status": "待修",
     "address": "台北市大安區敦化南路二段201號",
     "contact": {
       "phone": "02-2378-8888"
@@ -3568,7 +3726,14 @@
         "https://sitecore-cd-imgr.shangri-la.com/MediaFiles/0/7/7/%7B077B9188-7299-4D30-9703-9F8EB1DBD9BE%7D200106_TPE_Deluxe_City_View_Twin.jpg"
       ],
       "source": "https://www.shangri-la.com/taipei"
-    }
+    },
+    "missingFields": [
+      "會議室名稱（具體）",
+      "價格",
+      "劇院式人數",
+      "教室式人數",
+      "聯絡電話"
+    ]
   },
   {
     "id": 1107,
@@ -3598,9 +3763,13 @@
     "url": "https://www.tms.gov.tw",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "待確認",
+    "status": "待修",
     "roomType": "體育館",
-    "notes": " [官網無法連線或擋爬蟲，需手動確認]"
+    "notes": " [官網無法連線或擋爬蟲，需手動確認]",
+    "missingFields": [
+      "教室式人數",
+      "照片"
+    ]
   },
   {
     "id": 1108,
@@ -3630,9 +3799,13 @@
     "url": "https://www.ntualumni.org",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "待確認",
+    "status": "待修",
     "roomType": "會議中心",
-    "notes": " [官網無法連線或擋爬蟲，需手動確認]"
+    "notes": " [官網無法連線或擋爬蟲，需手動確認]",
+    "missingFields": [
+      "會議室名稱（具體）",
+      "照片"
+    ]
   },
   {
     "id": 1109,
@@ -3663,8 +3836,11 @@
     "url": "https://www.ntu.edu.tw",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "上架",
-    "roomType": "體育館"
+    "status": "待修",
+    "roomType": "體育館",
+    "missingFields": [
+      "教室式人數"
+    ]
   },
   {
     "id": 1111,
@@ -3694,9 +3870,13 @@
     "url": "https://www.taipeiexpopark.tw",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "待確認",
+    "status": "待修",
     "roomType": "展覽館",
-    "notes": " [官網無法連線，需手動搜尋確認]"
+    "notes": " [官網無法連線，需手動搜尋確認]",
+    "missingFields": [
+      "會議室名稱（具體）",
+      "照片"
+    ]
   },
   {
     "id": 1112,
@@ -3726,9 +3906,13 @@
     "url": "https://www.tianmu.gov.tw",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "待確認",
+    "status": "待修",
     "roomType": "體育館",
-    "notes": " [官網無法連線，需手動搜尋確認]"
+    "notes": " [官網無法連線，需手動搜尋確認]",
+    "missingFields": [
+      "教室式人數",
+      "照片"
+    ]
   },
   {
     "name": "寒舍艾美酒店",
@@ -3747,7 +3931,7 @@
         }
       }
     ],
-    "status": "上架",
+    "status": "待修",
     "address": "台北市信義區松高路18號",
     "contact": {
       "phone": "02-6618-8000"
@@ -3762,7 +3946,14 @@
         "https://le-meridien.marriott.com/wp-content/themes/marriott-master/assets/img/brandbar/devices.png"
       ],
       "source": "https://www.lemeridien.com/taipei"
-    }
+    },
+    "missingFields": [
+      "會議室名稱（具體）",
+      "價格",
+      "劇院式人數",
+      "教室式人數",
+      "聯絡電話"
+    ]
   },
   {
     "id": 1115,
@@ -3860,9 +4051,12 @@
     "url": "https://www.fuxing.space",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "待確認",
+    "status": "待修",
     "roomType": "共享空間",
-    "notes": " [官網無法連線，需手動搜尋確認]"
+    "notes": " [官網無法連線，需手動搜尋確認]",
+    "missingFields": [
+      "照片"
+    ]
   },
   {
     "id": 1118,
@@ -3893,8 +4087,11 @@
     "url": "https://www.nccu.edu.tw",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "上架",
-    "roomType": "會議中心"
+    "status": "待修",
+    "roomType": "會議中心",
+    "missingFields": [
+      "會議室名稱（具體）"
+    ]
   },
   {
     "id": 1119,
@@ -3924,9 +4121,12 @@
     "url": "https://www.mandarin-wedding.com",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "待確認",
+    "status": "待修",
     "roomType": "婚宴會館",
-    "notes": " [官網無法連線，需手動搜尋確認]"
+    "notes": " [官網無法連線，需手動搜尋確認]",
+    "missingFields": [
+      "照片"
+    ]
   },
   {
     "id": 1120,
@@ -3957,9 +4157,12 @@
     "url": "https://www.siihub.org",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "待確認",
+    "status": "待修",
     "roomType": "共享空間",
-    "notes": " [官網無法連線，需手動搜尋確認]"
+    "notes": " [官網無法連線，需手動搜尋確認]",
+    "missingFields": [
+      "照片"
+    ]
   },
   {
     "id": 1121,
@@ -3995,9 +4198,12 @@
     "capacityCategory": "medium",
     "targetAudience": "企業",
     "createdAt": "2026-02-26T00:00:00.000Z",
-    "status": "上架",
+    "status": "待修",
     "roomType": "宴會廳",
-    "url": "https://www.sanwant.com"
+    "url": "https://www.sanwant.com",
+    "missingFields": [
+      "會議室名稱（具體）"
+    ]
   },
   {
     "id": 1122,
@@ -4032,9 +4238,13 @@
     "capacityCategory": "medium",
     "targetAudience": "企業",
     "createdAt": "2026-02-26T00:00:00.000Z",
-    "status": "待確認",
+    "status": "待修",
     "roomType": "宴會廳",
-    "url": "https://www.victoria.com.tw"
+    "url": "https://www.victoria.com.tw",
+    "missingFields": [
+      "會議室名稱（具體）",
+      "照片"
+    ]
   },
   {
     "id": 1123,
@@ -4064,9 +4274,13 @@
     "url": "https://www.taipeiexpopark.tw",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "待確認",
+    "status": "待修",
     "roomType": "展覽館",
-    "notes": " [官網無法連線，需手動搜尋確認]"
+    "notes": " [官網無法連線，需手動搜尋確認]",
+    "missingFields": [
+      "會議室名稱（具體）",
+      "照片"
+    ]
   },
   {
     "id": 1124,
@@ -4102,9 +4316,12 @@
     "capacityCategory": "medium-large",
     "targetAudience": "企業",
     "createdAt": "2026-02-26T00:00:00.000Z",
-    "status": "上架",
+    "status": "待修",
     "roomType": "宴會廳",
-    "url": "https://www.taipeigarden.com.tw"
+    "url": "https://www.taipeigarden.com.tw",
+    "missingFields": [
+      "會議室名稱（具體）"
+    ]
   },
   {
     "id": 1125,
@@ -4198,9 +4415,12 @@
     "capacityCategory": "medium",
     "targetAudience": "企業",
     "createdAt": "2026-02-26T00:00:00.000Z",
-    "status": "上架",
+    "status": "待修",
     "roomType": "宴會廳",
-    "url": "https://www.grandview.com.tw"
+    "url": "https://www.grandview.com.tw",
+    "missingFields": [
+      "會議室名稱（具體）"
+    ]
   },
   {
     "id": 1127,
@@ -4231,9 +4451,12 @@
     "url": "https://www.secondfloor.com.tw",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "待確認",
+    "status": "待修",
     "roomType": "餐廳包場",
-    "notes": " [官網無法連線，需手動搜尋確認]"
+    "notes": " [官網無法連線，需手動搜尋確認]",
+    "missingFields": [
+      "照片"
+    ]
   },
   {
     "id": 1128,
@@ -10959,8 +11182,12 @@
     "url": "https://www.cksmh.gov.tw",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "下架",
-    "roomType": "演藝廳"
+    "status": "待修",
+    "roomType": "演藝廳",
+    "missingFields": [
+      "教室式人數",
+      "照片"
+    ]
   },
   {
     "id": 1334,
@@ -10991,8 +11218,11 @@
     "url": "https://www.zssc.gov.tw",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "下架",
-    "roomType": "活動中心"
+    "status": "待修",
+    "roomType": "活動中心",
+    "missingFields": [
+      "照片"
+    ]
   },
   {
     "id": 1335,
@@ -11023,8 +11253,12 @@
     "url": "https://www.xysc.gov.tw",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "下架",
-    "roomType": "會議室"
+    "status": "待修",
+    "roomType": "會議室",
+    "missingFields": [
+      "會議室名稱（具體）",
+      "照片"
+    ]
   },
   {
     "id": 1336,
@@ -11055,8 +11289,11 @@
     "url": "https://www.nhsc.gov.tw",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "下架",
-    "roomType": "活動中心"
+    "status": "待修",
+    "roomType": "活動中心",
+    "missingFields": [
+      "照片"
+    ]
   },
   {
     "id": 1337,
@@ -11086,8 +11323,12 @@
     "url": "https://www.sunat.gov.tw",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "下架",
-    "roomType": "演藝廳"
+    "status": "待修",
+    "roomType": "演藝廳",
+    "missingFields": [
+      "教室式人數",
+      "照片"
+    ]
   },
   {
     "id": 1338,
@@ -11150,8 +11391,14 @@
     "category": "機關場地",
     "needsReview": true,
     "reviewNote": "機關場地申請方式複雜，需要驗證申請流程、價格、可用時間等資訊",
-    "status": "下架",
-    "roomType": "會議室"
+    "status": "待修",
+    "roomType": "會議室",
+    "missingFields": [
+      "價格",
+      "劇院式人數",
+      "教室式人數",
+      "照片"
+    ]
   },
   {
     "name": "朱崙區民活動中心",
@@ -11168,7 +11415,7 @@
         "equipment": []
       }
     ],
-    "status": "下架",
+    "status": "待修",
     "address": "台北市中山區龍江路15號3樓",
     "contact": {
       "phone": "02-25031369轉506"
@@ -11184,7 +11431,15 @@
       "needsUpdate": true,
       "note": "待補充真實照片網址",
       "lastUpdated": "2026-03-01"
-    }
+    },
+    "missingFields": [
+      "會議室名稱（具體）",
+      "價格",
+      "劇院式人數",
+      "教室式人數",
+      "照片",
+      "聯絡電話"
+    ]
   },
   {
     "id": 1340,
@@ -11256,8 +11511,14 @@
     "category": "機關場地",
     "needsReview": true,
     "reviewNote": "機關場地申請方式複雜，需要驗證申請流程、價格、可用時間等資訊",
-    "status": "下架",
-    "roomType": "活動中心"
+    "status": "待修",
+    "roomType": "活動中心",
+    "missingFields": [
+      "價格",
+      "劇院式人數",
+      "教室式人數",
+      "照片"
+    ]
   },
   {
     "name": "林森三區民活動中心",
@@ -11280,7 +11541,7 @@
         }
       }
     ],
-    "status": "下架",
+    "status": "待修",
     "address": "台北市林森北路67巷7號3樓",
     "contact": {
       "phone": "02-25031369轉506"
@@ -11296,7 +11557,15 @@
       "needsUpdate": true,
       "note": "待補充真實照片網址",
       "lastUpdated": "2026-03-01"
-    }
+    },
+    "missingFields": [
+      "會議室名稱（具體）",
+      "價格",
+      "劇院式人數",
+      "教室式人數",
+      "照片",
+      "聯絡電話"
+    ]
   },
   {
     "id": 1342,
@@ -12684,9 +12953,12 @@
     "url": "https://www.wtaipei.com",
     "verified": true,
     "verifiedAt": "2026-03-01",
-    "status": "待確認",
+    "status": "待修",
     "roomType": "宴會廳",
-    "notes": " [官網無法連線或擋爬蟲，需手動確認]"
+    "notes": " [官網無法連線或擋爬蟲，需手動確認]",
+    "missingFields": [
+      "照片"
+    ]
   },
   {
     "id": 1382,
@@ -12716,9 +12988,12 @@
     "url": "https://www.wtaipei.com",
     "verified": true,
     "verifiedAt": "2026-03-01",
-    "status": "待確認",
+    "status": "待修",
     "roomType": "宴會廳",
-    "notes": " [官網無法連線或擋爬蟲，需手動確認]"
+    "notes": " [官網無法連線或擋爬蟲，需手動確認]",
+    "missingFields": [
+      "照片"
+    ]
   },
   {
     "id": 1383,
@@ -12748,9 +13023,12 @@
     "url": "https://www.wtaipei.com",
     "verified": true,
     "verifiedAt": "2026-03-01",
-    "status": "待確認",
+    "status": "待修",
     "roomType": "宴會廳",
-    "notes": " [官網無法連線或擋爬蟲，需手動確認]"
+    "notes": " [官網無法連線或擋爬蟲，需手動確認]",
+    "missingFields": [
+      "照片"
+    ]
   },
   {
     "id": 1384,
@@ -13627,8 +13905,11 @@
     "url": "https://www.lemeridien-taipei.com",
     "verified": true,
     "verifiedAt": "2026-03-01",
-    "status": "上架",
-    "roomType": "宴會廳"
+    "status": "待修",
+    "roomType": "宴會廳",
+    "missingFields": [
+      "會議室名稱（具體）"
+    ]
   },
   {
     "id": 1406,
@@ -13722,8 +14003,11 @@
     "url": "https://www.palaisdechine.com",
     "verified": true,
     "verifiedAt": "2026-03-01",
-    "status": "上架",
-    "roomType": "宴會廳"
+    "status": "待修",
+    "roomType": "宴會廳",
+    "missingFields": [
+      "會議室名稱（具體）"
+    ]
   },
   {
     "id": 1409,
@@ -13826,9 +14110,12 @@
     "url": "https://www.thelandis.com",
     "verified": true,
     "verifiedAt": "2026-03-01",
-    "status": "上架",
+    "status": "待修",
     "roomType": "宴會廳",
-    "notes": ""
+    "notes": "",
+    "missingFields": [
+      "會議室名稱（具體）"
+    ]
   },
   {
     "id": 1412,
@@ -13861,9 +14148,12 @@
     "url": "https://www.thelandis.com",
     "verified": true,
     "verifiedAt": "2026-03-01",
-    "status": "上架",
+    "status": "待修",
     "roomType": "宴會廳",
-    "notes": ""
+    "notes": "",
+    "missingFields": [
+      "會議室名稱（具體）"
+    ]
   },
   {
     "id": 1413,
@@ -14665,7 +14955,11 @@
       "source": "https://www.ticc.com.tw/"
     },
     "venuePageUrl": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/cp_VenueSearch.jsp&roomId=PH&ctNode=322&CtUnit=99&BaseDSD=7&mp=1",
-    "status": "上架"
+    "status": "待修",
+    "missingFields": [
+      "劇院式人數",
+      "教室式人數"
+    ]
   },
   {
     "id": 1449,
@@ -14697,7 +14991,11 @@
       "source": "https://www.ticc.com.tw/"
     },
     "venuePageUrl": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/cp_VenueSearch.jsp&roomId=101&ctNode=322&CtUnit=99&BaseDSD=7&mp=1",
-    "status": "上架"
+    "status": "待修",
+    "missingFields": [
+      "劇院式人數",
+      "教室式人數"
+    ]
   },
   {
     "id": 1450,
@@ -14730,7 +15028,11 @@
       "source": "https://www.ticc.com.tw/"
     },
     "venuePageUrl": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/cp_VenueSearch.jsp&roomId=101A&ctNode=322&CtUnit=99&BaseDSD=7&mp=1",
-    "status": "上架"
+    "status": "待修",
+    "missingFields": [
+      "劇院式人數",
+      "教室式人數"
+    ]
   },
   {
     "id": 1451,
@@ -14762,7 +15064,11 @@
       "source": "https://www.ticc.com.tw/"
     },
     "venuePageUrl": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/cp_VenueSearch.jsp&roomId=101AB&ctNode=322&CtUnit=99&BaseDSD=7&mp=1",
-    "status": "上架"
+    "status": "待修",
+    "missingFields": [
+      "劇院式人數",
+      "教室式人數"
+    ]
   },
   {
     "id": 1452,
@@ -14795,7 +15101,11 @@
       "source": "https://www.ticc.com.tw/"
     },
     "venuePageUrl": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/cp_VenueSearch.jsp&roomId=101B&ctNode=322&CtUnit=99&BaseDSD=7&mp=1",
-    "status": "上架"
+    "status": "待修",
+    "missingFields": [
+      "劇院式人數",
+      "教室式人數"
+    ]
   },
   {
     "id": 1453,
@@ -14828,7 +15138,11 @@
       "source": "https://www.ticc.com.tw/"
     },
     "venuePageUrl": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/cp_VenueSearch.jsp&roomId=101C&ctNode=322&CtUnit=99&BaseDSD=7&mp=1",
-    "status": "上架"
+    "status": "待修",
+    "missingFields": [
+      "劇院式人數",
+      "教室式人數"
+    ]
   },
   {
     "id": 1454,
@@ -14860,7 +15174,11 @@
       "source": "https://www.ticc.com.tw/"
     },
     "venuePageUrl": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/cp_VenueSearch.jsp&roomId=101CD&ctNode=322&CtUnit=99&BaseDSD=7&mp=1",
-    "status": "上架"
+    "status": "待修",
+    "missingFields": [
+      "劇院式人數",
+      "教室式人數"
+    ]
   },
   {
     "id": 1455,
@@ -14893,7 +15211,11 @@
       "source": "https://www.ticc.com.tw/"
     },
     "venuePageUrl": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/cp_VenueSearch.jsp&roomId=101D&ctNode=322&CtUnit=99&BaseDSD=7&mp=1",
-    "status": "上架"
+    "status": "待修",
+    "missingFields": [
+      "劇院式人數",
+      "教室式人數"
+    ]
   },
   {
     "id": 1456,
@@ -14924,7 +15246,11 @@
       "source": "https://www.ticc.com.tw/"
     },
     "venuePageUrl": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/cp_VenueSearch.jsp&roomId=102&ctNode=322&CtUnit=99&BaseDSD=7&mp=1",
-    "status": "上架"
+    "status": "待修",
+    "missingFields": [
+      "劇院式人數",
+      "教室式人數"
+    ]
   },
   {
     "id": 1457,
@@ -14957,7 +15283,11 @@
       "source": "https://www.ticc.com.tw/"
     },
     "venuePageUrl": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/cp_VenueSearch.jsp&roomId=103&ctNode=322&CtUnit=99&BaseDSD=7&mp=1",
-    "status": "上架"
+    "status": "待修",
+    "missingFields": [
+      "劇院式人數",
+      "教室式人數"
+    ]
   },
   {
     "id": 1458,
@@ -14990,7 +15320,11 @@
       "source": "https://www.ticc.com.tw/"
     },
     "venuePageUrl": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/cp_VenueSearch.jsp&roomId=105&ctNode=322&CtUnit=99&BaseDSD=7&mp=1",
-    "status": "上架"
+    "status": "待修",
+    "missingFields": [
+      "劇院式人數",
+      "教室式人數"
+    ]
   },
   {
     "id": 1459,
@@ -15017,7 +15351,11 @@
       "source": "https://www.ticc.com.tw/"
     },
     "venuePageUrl": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/cp_VenueSearch.jsp&roomId=106&ctNode=322&CtUnit=99&BaseDSD=7&mp=1",
-    "status": "上架"
+    "status": "待修",
+    "missingFields": [
+      "劇院式人數",
+      "教室式人數"
+    ]
   },
   {
     "id": 1460,
@@ -15044,7 +15382,11 @@
       "source": "https://www.ticc.com.tw/"
     },
     "venuePageUrl": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/cp_VenueSearch.jsp&roomId=1FVIP_N&ctNode=322&CtUnit=99&BaseDSD=7&mp=1",
-    "status": "上架"
+    "status": "待修",
+    "missingFields": [
+      "劇院式人數",
+      "教室式人數"
+    ]
   },
   {
     "id": 1461,
@@ -15072,7 +15414,11 @@
       "source": "https://www.ticc.com.tw/"
     },
     "venuePageUrl": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/cp_VenueSearch.jsp&roomId=1FVIP_S&ctNode=322&CtUnit=99&BaseDSD=7&mp=1",
-    "status": "上架"
+    "status": "待修",
+    "missingFields": [
+      "劇院式人數",
+      "教室式人數"
+    ]
   },
   {
     "id": 1462,
@@ -15101,7 +15447,11 @@
       "source": "https://www.ticc.com.tw/"
     },
     "venuePageUrl": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/cp_VenueSearch.jsp&roomId=201&ctNode=322&CtUnit=99&BaseDSD=7&mp=1",
-    "status": "上架"
+    "status": "待修",
+    "missingFields": [
+      "劇院式人數",
+      "教室式人數"
+    ]
   },
   {
     "id": 1463,
@@ -15134,7 +15484,11 @@
       "source": "https://www.ticc.com.tw/"
     },
     "venuePageUrl": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/cp_VenueSearch.jsp&roomId=201A&ctNode=322&CtUnit=99&BaseDSD=7&mp=1",
-    "status": "上架"
+    "status": "待修",
+    "missingFields": [
+      "劇院式人數",
+      "教室式人數"
+    ]
   },
   {
     "id": 1464,
@@ -15166,7 +15520,11 @@
       "source": "https://www.ticc.com.tw/"
     },
     "venuePageUrl": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/cp_VenueSearch.jsp&roomId=201AB&ctNode=322&CtUnit=99&BaseDSD=7&mp=1",
-    "status": "上架"
+    "status": "待修",
+    "missingFields": [
+      "劇院式人數",
+      "教室式人數"
+    ]
   },
   {
     "id": 1465,
@@ -15196,7 +15554,11 @@
       "source": "https://www.ticc.com.tw/"
     },
     "venuePageUrl": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/cp_VenueSearch.jsp&roomId=201ABC&ctNode=322&CtUnit=99&BaseDSD=7&mp=1",
-    "status": "上架"
+    "status": "待修",
+    "missingFields": [
+      "劇院式人數",
+      "教室式人數"
+    ]
   },
   {
     "id": 1466,
@@ -15226,7 +15588,11 @@
       "source": "https://www.ticc.com.tw/"
     },
     "venuePageUrl": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/cp_VenueSearch.jsp&roomId=201ABEF&ctNode=322&CtUnit=99&BaseDSD=7&mp=1",
-    "status": "上架"
+    "status": "待修",
+    "missingFields": [
+      "劇院式人數",
+      "教室式人數"
+    ]
   },
   {
     "id": 1467,
@@ -15259,7 +15625,11 @@
       "source": "https://www.ticc.com.tw/"
     },
     "venuePageUrl": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/cp_VenueSearch.jsp&roomId=201AF&ctNode=322&CtUnit=99&BaseDSD=7&mp=1",
-    "status": "上架"
+    "status": "待修",
+    "missingFields": [
+      "劇院式人數",
+      "教室式人數"
+    ]
   },
   {
     "id": 1468,
@@ -15292,7 +15662,11 @@
       "source": "https://www.ticc.com.tw/"
     },
     "venuePageUrl": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/cp_VenueSearch.jsp&roomId=201B&ctNode=322&CtUnit=99&BaseDSD=7&mp=1",
-    "status": "上架"
+    "status": "待修",
+    "missingFields": [
+      "劇院式人數",
+      "教室式人數"
+    ]
   },
   {
     "id": 1469,
@@ -15325,7 +15699,11 @@
       "source": "https://www.ticc.com.tw/"
     },
     "venuePageUrl": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/cp_VenueSearch.jsp&roomId=201BC&ctNode=322&CtUnit=99&BaseDSD=7&mp=1",
-    "status": "上架"
+    "status": "待修",
+    "missingFields": [
+      "劇院式人數",
+      "教室式人數"
+    ]
   },
   {
     "id": 1470,
@@ -15356,7 +15734,11 @@
       "source": "https://www.ticc.com.tw/"
     },
     "venuePageUrl": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/cp_VenueSearch.jsp&roomId=201BCDE&ctNode=322&CtUnit=99&BaseDSD=7&mp=1",
-    "status": "上架"
+    "status": "待修",
+    "missingFields": [
+      "劇院式人數",
+      "教室式人數"
+    ]
   },
   {
     "id": 1471,
@@ -15389,7 +15771,11 @@
       "source": "https://www.ticc.com.tw/"
     },
     "venuePageUrl": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/cp_VenueSearch.jsp&roomId=201BE&ctNode=322&CtUnit=99&BaseDSD=7&mp=1",
-    "status": "上架"
+    "status": "待修",
+    "missingFields": [
+      "劇院式人數",
+      "教室式人數"
+    ]
   },
   {
     "id": 1472,
@@ -15422,7 +15808,11 @@
       "source": "https://www.ticc.com.tw/"
     },
     "venuePageUrl": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/cp_VenueSearch.jsp&roomId=201C&ctNode=322&CtUnit=99&BaseDSD=7&mp=1",
-    "status": "上架"
+    "status": "待修",
+    "missingFields": [
+      "劇院式人數",
+      "教室式人數"
+    ]
   },
   {
     "id": 1473,
@@ -15455,7 +15845,11 @@
       "source": "https://www.ticc.com.tw/"
     },
     "venuePageUrl": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/cp_VenueSearch.jsp&roomId=201CD&ctNode=322&CtUnit=99&BaseDSD=7&mp=1",
-    "status": "上架"
+    "status": "待修",
+    "missingFields": [
+      "劇院式人數",
+      "教室式人數"
+    ]
   },
   {
     "id": 1474,
@@ -15488,7 +15882,11 @@
       "source": "https://www.ticc.com.tw/"
     },
     "venuePageUrl": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/cp_VenueSearch.jsp&roomId=201D&ctNode=322&CtUnit=99&BaseDSD=7&mp=1",
-    "status": "上架"
+    "status": "待修",
+    "missingFields": [
+      "劇院式人數",
+      "教室式人數"
+    ]
   },
   {
     "id": 1475,
@@ -15521,7 +15919,11 @@
       "source": "https://www.ticc.com.tw/"
     },
     "venuePageUrl": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/cp_VenueSearch.jsp&roomId=201DE&ctNode=322&CtUnit=99&BaseDSD=7&mp=1",
-    "status": "上架"
+    "status": "待修",
+    "missingFields": [
+      "劇院式人數",
+      "教室式人數"
+    ]
   },
   {
     "id": 1476,
@@ -15551,7 +15953,11 @@
       "source": "https://www.ticc.com.tw/"
     },
     "venuePageUrl": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/cp_VenueSearch.jsp&roomId=201DEF&ctNode=322&CtUnit=99&BaseDSD=7&mp=1",
-    "status": "上架"
+    "status": "待修",
+    "missingFields": [
+      "劇院式人數",
+      "教室式人數"
+    ]
   },
   {
     "id": 1477,
@@ -15584,7 +15990,11 @@
       "source": "https://www.ticc.com.tw/"
     },
     "venuePageUrl": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/cp_VenueSearch.jsp&roomId=201E&ctNode=322&CtUnit=99&BaseDSD=7&mp=1",
-    "status": "上架"
+    "status": "待修",
+    "missingFields": [
+      "劇院式人數",
+      "教室式人數"
+    ]
   },
   {
     "id": 1478,
@@ -15616,7 +16026,11 @@
       "source": "https://www.ticc.com.tw/"
     },
     "venuePageUrl": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/cp_VenueSearch.jsp&roomId=201EF&ctNode=322&CtUnit=99&BaseDSD=7&mp=1",
-    "status": "上架"
+    "status": "待修",
+    "missingFields": [
+      "劇院式人數",
+      "教室式人數"
+    ]
   },
   {
     "id": 1479,
@@ -15649,7 +16063,11 @@
       "source": "https://www.ticc.com.tw/"
     },
     "venuePageUrl": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/cp_VenueSearch.jsp&roomId=201F&ctNode=322&CtUnit=99&BaseDSD=7&mp=1",
-    "status": "上架"
+    "status": "待修",
+    "missingFields": [
+      "劇院式人數",
+      "教室式人數"
+    ]
   },
   {
     "id": 1480,
@@ -15682,7 +16100,11 @@
       "source": "https://www.ticc.com.tw/"
     },
     "venuePageUrl": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/cp_VenueSearch.jsp&roomId=202&ctNode=322&CtUnit=99&BaseDSD=7&mp=1",
-    "status": "上架"
+    "status": "待修",
+    "missingFields": [
+      "劇院式人數",
+      "教室式人數"
+    ]
   },
   {
     "id": 1481,
@@ -15715,7 +16137,11 @@
       "source": "https://www.ticc.com.tw/"
     },
     "venuePageUrl": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/cp_VenueSearch.jsp&roomId=202A&ctNode=322&CtUnit=99&BaseDSD=7&mp=1",
-    "status": "上架"
+    "status": "待修",
+    "missingFields": [
+      "劇院式人數",
+      "教室式人數"
+    ]
   },
   {
     "id": 1482,
@@ -15748,7 +16174,11 @@
       "source": "https://www.ticc.com.tw/"
     },
     "venuePageUrl": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/cp_VenueSearch.jsp&roomId=202B&ctNode=322&CtUnit=99&BaseDSD=7&mp=1",
-    "status": "上架"
+    "status": "待修",
+    "missingFields": [
+      "劇院式人數",
+      "教室式人數"
+    ]
   },
   {
     "id": 1483,
@@ -15781,7 +16211,11 @@
       "source": "https://www.ticc.com.tw/"
     },
     "venuePageUrl": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/cp_VenueSearch.jsp&roomId=203&ctNode=322&CtUnit=99&BaseDSD=7&mp=1",
-    "status": "上架"
+    "status": "待修",
+    "missingFields": [
+      "劇院式人數",
+      "教室式人數"
+    ]
   },
   {
     "id": 1484,
@@ -15814,7 +16248,11 @@
       "source": "https://www.ticc.com.tw/"
     },
     "venuePageUrl": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/cp_VenueSearch.jsp&roomId=203A&ctNode=322&CtUnit=99&BaseDSD=7&mp=1",
-    "status": "上架"
+    "status": "待修",
+    "missingFields": [
+      "劇院式人數",
+      "教室式人數"
+    ]
   },
   {
     "id": 1485,
@@ -15847,7 +16285,11 @@
       "source": "https://www.ticc.com.tw/"
     },
     "venuePageUrl": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/cp_VenueSearch.jsp&roomId=203B&ctNode=322&CtUnit=99&BaseDSD=7&mp=1",
-    "status": "上架"
+    "status": "待修",
+    "missingFields": [
+      "劇院式人數",
+      "教室式人數"
+    ]
   },
   {
     "id": 1486,
@@ -15876,7 +16318,11 @@
       "source": "https://www.ticc.com.tw/"
     },
     "venuePageUrl": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/cp_VenueSearch.jsp&roomId=3FBA&ctNode=322&CtUnit=99&BaseDSD=7&mp=1",
-    "status": "上架"
+    "status": "待修",
+    "missingFields": [
+      "劇院式人數",
+      "教室式人數"
+    ]
   },
   {
     "id": 1487,
@@ -15909,7 +16355,11 @@
       "source": "https://www.ticc.com.tw/"
     },
     "venuePageUrl": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/cp_VenueSearch.jsp&roomId=3FLG_N&ctNode=322&CtUnit=99&BaseDSD=7&mp=1",
-    "status": "上架"
+    "status": "待修",
+    "missingFields": [
+      "劇院式人數",
+      "教室式人數"
+    ]
   },
   {
     "id": 1488,
@@ -15942,7 +16392,11 @@
       "source": "https://www.ticc.com.tw/"
     },
     "venuePageUrl": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/cp_VenueSearch.jsp&roomId=3FLG_S&ctNode=322&CtUnit=99&BaseDSD=7&mp=1",
-    "status": "上架"
+    "status": "待修",
+    "missingFields": [
+      "劇院式人數",
+      "教室式人數"
+    ]
   },
   {
     "id": 1489,
@@ -15975,7 +16429,11 @@
       "source": "https://www.ticc.com.tw/"
     },
     "venuePageUrl": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/cp_VenueSearch.jsp&roomId=401&ctNode=322&CtUnit=99&BaseDSD=7&mp=1",
-    "status": "上架"
+    "status": "待修",
+    "missingFields": [
+      "劇院式人數",
+      "教室式人數"
+    ]
   },
   {
     "id": 1490,
@@ -16008,7 +16466,11 @@
       "source": "https://www.ticc.com.tw/"
     },
     "venuePageUrl": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/cp_VenueSearch.jsp&roomId=402&ctNode=322&CtUnit=99&BaseDSD=7&mp=1",
-    "status": "上架"
+    "status": "待修",
+    "missingFields": [
+      "劇院式人數",
+      "教室式人數"
+    ]
   },
   {
     "id": 1491,
@@ -16041,7 +16503,11 @@
       "source": "https://www.ticc.com.tw/"
     },
     "venuePageUrl": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/cp_VenueSearch.jsp&roomId=4FLGN&ctNode=322&CtUnit=99&BaseDSD=7&mp=1",
-    "status": "上架"
+    "status": "待修",
+    "missingFields": [
+      "劇院式人數",
+      "教室式人數"
+    ]
   },
   {
     "id": 1492,
@@ -16074,7 +16540,11 @@
       "source": "https://www.ticc.com.tw/"
     },
     "venuePageUrl": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/cp_VenueSearch.jsp&roomId=4FVIP&ctNode=322&CtUnit=99&BaseDSD=7&mp=1",
-    "status": "上架"
+    "status": "待修",
+    "missingFields": [
+      "劇院式人數",
+      "教室式人數"
+    ]
   },
   {
     "id": 1493,
@@ -16098,7 +16568,12 @@
       ],
       "source": "https://www.sce.ntnu.edu.tw/home/space/"
     },
-    "status": "上架"
+    "status": "待修",
+    "missingFields": [
+      "價格",
+      "劇院式人數",
+      "教室式人數"
+    ]
   },
   {
     "id": 1494,
@@ -16122,7 +16597,11 @@
       ],
       "source": "https://www.sce.ntnu.edu.tw/home/space/"
     },
-    "status": "上架"
+    "status": "待修",
+    "missingFields": [
+      "價格",
+      "教室式人數"
+    ]
   },
   {
     "id": 1495,
@@ -16146,7 +16625,11 @@
       ],
       "source": "https://www.sce.ntnu.edu.tw/home/space/"
     },
-    "status": "上架"
+    "status": "待修",
+    "missingFields": [
+      "價格",
+      "教室式人數"
+    ]
   },
   {
     "id": 1496,
@@ -16170,7 +16653,11 @@
       ],
       "source": "https://www.sce.ntnu.edu.tw/home/space/"
     },
-    "status": "上架"
+    "status": "待修",
+    "missingFields": [
+      "價格",
+      "教室式人數"
+    ]
   },
   {
     "id": 1497,
@@ -16194,7 +16681,11 @@
       ],
       "source": "https://www.sce.ntnu.edu.tw/home/space/"
     },
-    "status": "上架"
+    "status": "待修",
+    "missingFields": [
+      "價格",
+      "教室式人數"
+    ]
   },
   {
     "id": 1498,
@@ -16218,7 +16709,11 @@
       ],
       "source": "https://www.sce.ntnu.edu.tw/home/space/"
     },
-    "status": "上架"
+    "status": "待修",
+    "missingFields": [
+      "價格",
+      "教室式人數"
+    ]
   },
   {
     "id": 1499,
@@ -16242,7 +16737,11 @@
       ],
       "source": "https://www.sce.ntnu.edu.tw/home/space/"
     },
-    "status": "上架"
+    "status": "待修",
+    "missingFields": [
+      "價格",
+      "教室式人數"
+    ]
   },
   {
     "id": 1500,
@@ -16266,7 +16765,11 @@
       ],
       "source": "https://www.sce.ntnu.edu.tw/home/space/"
     },
-    "status": "上架"
+    "status": "待修",
+    "missingFields": [
+      "價格",
+      "教室式人數"
+    ]
   },
   {
     "id": 1501,
@@ -16290,7 +16793,11 @@
       ],
       "source": "https://www.sce.ntnu.edu.tw/home/space/"
     },
-    "status": "上架"
+    "status": "待修",
+    "missingFields": [
+      "價格",
+      "教室式人數"
+    ]
   },
   {
     "id": 1502,
@@ -16314,7 +16821,11 @@
       ],
       "source": "https://www.sce.ntnu.edu.tw/home/space/"
     },
-    "status": "上架"
+    "status": "待修",
+    "missingFields": [
+      "價格",
+      "教室式人數"
+    ]
   },
   {
     "id": 1503,
@@ -16338,7 +16849,11 @@
       ],
       "source": "https://www.sce.ntnu.edu.tw/home/space/"
     },
-    "status": "上架"
+    "status": "待修",
+    "missingFields": [
+      "價格",
+      "教室式人數"
+    ]
   },
   {
     "id": 1504,
@@ -16362,7 +16877,11 @@
       ],
       "source": "https://www.sce.ntnu.edu.tw/home/space/"
     },
-    "status": "上架"
+    "status": "待修",
+    "missingFields": [
+      "價格",
+      "教室式人數"
+    ]
   },
   {
     "id": 1505,
@@ -16386,6 +16905,10 @@
       ],
       "source": "https://www.sce.ntnu.edu.tw/home/space/"
     },
-    "status": "上架"
+    "status": "待修",
+    "missingFields": [
+      "價格",
+      "教室式人數"
+    ]
   }
 ]
