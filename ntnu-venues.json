@@ -1,0 +1,28 @@
+{
+  "name": "師大進修推廣學院",
+  "url": "https://www.sce.ntnu.edu.tw/home/index.php",
+  "venuePageUrl": "https://www.sce.ntnu.edu.tw/home/space/",
+  "contact": {
+    "phone": "02-77495800",
+    "email": "sce@ntnu.edu.tw",
+    "address": "106 臺北市大安區和平東路一段 129 號"
+  },
+  "rooms": [],
+  "photos": [
+    "https://www.sce.ntnu.edu.tw/home/src/img/banner-left.png",
+    "https://www.sce.ntnu.edu.tw/home/src/img/banner-right.png",
+    "https://www.sce.ntnu.edu.tw/home/src/img/space/tw/22/20220611145119.jpg",
+    "https://www.sce.ntnu.edu.tw/home/src/img/space/tw/1/20240304200042.jpg",
+    "https://www.sce.ntnu.edu.tw/home/src/img/space/tw/2/20151009-_DSC2543_compressed.jpg",
+    "https://www.sce.ntnu.edu.tw/home/src/img/space/tw/3/1_compressed.jpg",
+    "https://www.sce.ntnu.edu.tw/home/src/img/space/tw/7/20220611155208.jpg",
+    "https://www.sce.ntnu.edu.tw/home/src/img/space/tw/8/20151009-_DSC2576_compressed.jpg",
+    "https://www.sce.ntnu.edu.tw/home/src/img/space/tw/16/20251216144842.jpg",
+    "https://www.sce.ntnu.edu.tw/home/src/img/space/tw/17/1.jpg",
+    "https://www.sce.ntnu.edu.tw/home/src/img/space/tw/12/IMG_4436_compressed.jpg",
+    "https://www.sce.ntnu.edu.tw/home/src/img/space/tw/14/1.jpg",
+    "https://www.sce.ntnu.edu.tw/home/src/img/space/tw/11/IMG_4460_compressed.jpg",
+    "https://www.sce.ntnu.edu.tw/home/src/img/space/tw/13/IMG_4446_compressed.jpg",
+    "https://www.sce.ntnu.edu.tw/home/src/img/space/tw/19/1.jpg"
+  ]
+}

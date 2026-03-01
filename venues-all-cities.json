@@ -1320,13 +1320,13 @@
   {
     "id": 1041,
     "name": "兄弟大飯店",
-    "venueType": "飯店場地",
+    "venueType": "婚宴場地",
     "roomName": "宴會廳",
     "city": "台北市",
-    "address": "台北市松山區南京東路三段255號",
+    "address": "台北市南京東路三段255號",
     "contactPerson": "宴會部",
-    "contactPhone": "02-2712-3456",
-    "contactEmail": "events@brotherhotel.com.tw",
+    "contactPhone": "02-27123456",
+    "contactEmail": "service@brotherhotel.com.tw",
     "pricePerHour": null,
     "priceHalfDay": "40000",
     "priceFullDay": "75000",
@@ -1347,7 +1347,7 @@
     },
     "layoutImageUrl": null,
     "rentalTimeNote": "需提前1週預約",
-    "notes": "經濟實惠選擇，適合中小企業活動、會議",
+    "notes": "僅提供婚宴服務，無會議室",
     "capacityCategory": "medium",
     "targetAudience": "企業",
     "hasOnlineBooking": false,
@@ -1355,7 +1355,7 @@
     "createdAt": "2026-02-26T00:00:00.000Z",
     "status": "上架",
     "roomType": "宴會廳",
-    "url": "https://www.brotherhotel.com.tw"
+    "url": "https://www.brotherhotel.com.tw/?cat=75"
   },
   {
     "id": 1042,
@@ -1489,12 +1489,12 @@
     "id": 1046,
     "name": "南港展覽館",
     "roomName": "一館4樓",
-    "venueType": "展演場地",
+    "venueType": "展覽中心",
     "city": "台北市",
-    "address": "台北市南港區經貿二路1號",
+    "address": "台北市南港區經貿二路 1 號",
     "contactPerson": "展覽部",
-    "contactPhone": "02-2656-6000",
-    "contactEmail": "exhibition@twtc.com.tw",
+    "contactPhone": "02-2725-5200",
+    "contactEmail": "tainex1@taitra.org.tw",
     "priceHalfDay": 120000,
     "priceFullDay": 220000,
     "maxCapacityTheater": 3000,
@@ -1510,11 +1510,13 @@
       "note": "待補充真實照片網址",
       "lastUpdated": "2026-03-01"
     },
-    "url": "https://www.twtc.com.tw/nangang",
+    "url": "https://www.tainex.com.tw/",
     "verified": true,
     "verifiedAt": "2026-02-27",
     "status": "上架",
-    "roomType": "展覽館"
+    "roomType": "展覽館",
+    "venuePageUrl": "https://www.tainex.com.tw/venue/meetingroom",
+    "notes": "以展覽為主，會議室為附屬設施。1館/2館皆有會議室可租借。"
   },
   {
     "id": 1047,
@@ -1587,7 +1589,7 @@
     "address": "台北市信義區信義路五段5號",
     "contactPerson": "展覽部",
     "contactPhone": "02-2725-5200",
-    "contactEmail": "exhibition@taitra.org.tw",
+    "contactEmail": "twtc@taitra.org.tw",
     "priceHalfDay": 100000,
     "priceFullDay": 180000,
     "maxCapacityTheater": 2000,
@@ -1603,7 +1605,7 @@
       "note": "待補充真實照片網址",
       "lastUpdated": "2026-03-01"
     },
-    "url": "https://www.twtc.com.tw",
+    "url": "https://www.twtc.com.tw/",
     "verified": true,
     "verifiedAt": "2026-02-27",
     "status": "上架",
@@ -1712,12 +1714,12 @@
     "id": 1053,
     "name": "台北兄弟大飯店(BrotherTaipei)",
     "roomName": "兄弟廳",
-    "venueType": "飯店場地",
+    "venueType": "婚宴場地",
     "city": "台北市",
-    "address": "台北市中山區南京東路三段1號",
+    "address": "台北市南京東路三段255號",
     "contactPerson": "宴會部",
     "contactPhone": "02-27123456",
-    "contactEmail": "banquet@brother-hotel.com.tw",
+    "contactEmail": "service@brotherhotel.com.tw",
     "priceHalfDay": 30000,
     "priceFullDay": 55000,
     "maxCapacityTheater": 280,
@@ -1734,11 +1736,12 @@
       ],
       "source": "https://www.brotherhotel.com.tw/?cat=75"
     },
-    "url": "https://www.brother-hotel.com.tw",
+    "url": "https://www.brotherhotel.com.tw/?cat=75",
     "verified": true,
     "verifiedAt": "2026-02-27",
     "status": "上架",
-    "roomType": "宴會廳"
+    "roomType": "宴會廳",
+    "notes": "僅提供婚宴服務，無會議室"
   },
   {
     "id": 1054,
@@ -3677,40 +3680,6 @@
       "note": "待補充真實照片網址",
       "lastUpdated": "2026-03-01"
     }
-  },
-  {
-    "id": 1114,
-    "name": "師大進修推廣學院",
-    "roomName": "演講廳",
-    "venueType": "會議中心",
-    "city": "台北市",
-    "address": "台北市大安區和平東路一段129號",
-    "contactPerson": "場地租借",
-    "contactPhone": "02-2321-0151",
-    "contactEmail": "venue@ntnu.edu.tw",
-    "priceHalfDay": 5000,
-    "priceFullDay": 9000,
-    "maxCapacityTheater": 120,
-    "maxCapacityClassroom": 70,
-    "availableTimeWeekday": "08:00-21:00",
-    "availableTimeWeekend": "休館",
-    "equipment": "投影設備、音響",
-    "images": {
-      "main": "https://www.sce.ntnu.edu.tw/home/src/img/slideshow/20260212110155.png",
-      "gallery": [
-        "https://www.sce.ntnu.edu.tw/home/src/img/slideshow/20260212110155.png",
-        "https://www.sce.ntnu.edu.tw/home/src/img/slideshow/20251020143643.png",
-        "https://www.sce.ntnu.edu.tw/home/src/img/slideshow/20260209160606.png",
-        "https://www.sce.ntnu.edu.tw/home/src/img/slideshow/20260113134723.png",
-        "https://www.sce.ntnu.edu.tw/home/src/img/slideshow/20260128085616.png"
-      ],
-      "source": "https://www.sce.ntnu.edu.tw"
-    },
-    "url": "https://www.ntnu.edu.tw",
-    "verified": true,
-    "verifiedAt": "2026-02-27",
-    "status": "上架",
-    "roomType": "會議中心"
   },
   {
     "id": 1115,
@@ -15998,6 +15967,318 @@
       "source": "https://www.ticc.com.tw/"
     },
     "venuePageUrl": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/cp_VenueSearch.jsp&roomId=4FVIP&ctNode=322&CtUnit=99&BaseDSD=7&mp=1",
+    "status": "上架"
+  },
+  {
+    "id": 1493,
+    "name": "師大進修推廣學院",
+    "roomName": "1F藝文展覽廳",
+    "city": "台北市",
+    "address": "臺北市大安區和平東路一段 129 號",
+    "contactPhone": "02-77495800",
+    "contactEmail": "sce@ntnu.edu.tw",
+    "url": "https://www.sce.ntnu.edu.tw/home/index.php",
+    "venuePageUrl": "https://www.sce.ntsu.edu.tw/home/space/",
+    "venueType": "會議中心",
+    "maxCapacityTheater": null,
+    "priceHalfDay": null,
+    "images": {
+      "main": "https://www.sce.ntnu.edu.tw/home/src/img/space/tw/22/20220611145119.jpg",
+      "gallery": [
+        "https://www.sce.ntnu.edu.tw/home/src/img/space/tw/22/20220611145119.jpg",
+        "https://www.sce.ntnu.edu.tw/home/src/img/space/tw/1/20240304200042.jpg",
+        "https://www.sce.ntnu.edu.tw/home/src/img/space/tw/2/20151009-_DSC2543_compressed.jpg"
+      ],
+      "source": "https://www.sce.ntnu.edu.tw/home/space/"
+    },
+    "status": "上架"
+  },
+  {
+    "id": 1494,
+    "name": "師大進修推廣學院",
+    "roomName": "1樓演講堂",
+    "city": "台北市",
+    "address": "臺北市大安區和平東路一段 129 號",
+    "contactPhone": "02-77495800",
+    "contactEmail": "sce@ntnu.edu.tw",
+    "url": "https://www.sce.ntnu.edu.tw/home/index.php",
+    "venuePageUrl": "https://www.sce.ntsu.edu.tw/home/space/",
+    "venueType": "會議中心",
+    "maxCapacityTheater": 148,
+    "priceHalfDay": null,
+    "images": {
+      "main": "https://www.sce.ntnu.edu.tw/home/src/img/space/tw/22/20220611145119.jpg",
+      "gallery": [
+        "https://www.sce.ntnu.edu.tw/home/src/img/space/tw/22/20220611145119.jpg",
+        "https://www.sce.ntnu.edu.tw/home/src/img/space/tw/1/20240304200042.jpg",
+        "https://www.sce.ntnu.edu.tw/home/src/img/space/tw/2/20151009-_DSC2543_compressed.jpg"
+      ],
+      "source": "https://www.sce.ntnu.edu.tw/home/space/"
+    },
+    "status": "上架"
+  },
+  {
+    "id": 1495,
+    "name": "師大進修推廣學院",
+    "roomName": "2樓視聽教室",
+    "city": "台北市",
+    "address": "臺北市大安區和平東路一段 129 號",
+    "contactPhone": "02-77495800",
+    "contactEmail": "sce@ntnu.edu.tw",
+    "url": "https://www.sce.ntnu.edu.tw/home/index.php",
+    "venuePageUrl": "https://www.sce.ntsu.edu.tw/home/space/",
+    "venueType": "會議中心",
+    "maxCapacityTheater": 88,
+    "priceHalfDay": null,
+    "images": {
+      "main": "https://www.sce.ntnu.edu.tw/home/src/img/space/tw/22/20220611145119.jpg",
+      "gallery": [
+        "https://www.sce.ntnu.edu.tw/home/src/img/space/tw/22/20220611145119.jpg",
+        "https://www.sce.ntnu.edu.tw/home/src/img/space/tw/1/20240304200042.jpg",
+        "https://www.sce.ntnu.edu.tw/home/src/img/space/tw/2/20151009-_DSC2543_compressed.jpg"
+      ],
+      "source": "https://www.sce.ntnu.edu.tw/home/space/"
+    },
+    "status": "上架"
+  },
+  {
+    "id": 1496,
+    "name": "師大進修推廣學院",
+    "roomName": "2樓會議室",
+    "city": "台北市",
+    "address": "臺北市大安區和平東路一段 129 號",
+    "contactPhone": "02-77495800",
+    "contactEmail": "sce@ntnu.edu.tw",
+    "url": "https://www.sce.ntnu.edu.tw/home/index.php",
+    "venuePageUrl": "https://www.sce.ntsu.edu.tw/home/space/",
+    "venueType": "會議中心",
+    "maxCapacityTheater": 40,
+    "priceHalfDay": null,
+    "images": {
+      "main": "https://www.sce.ntnu.edu.tw/home/src/img/space/tw/22/20220611145119.jpg",
+      "gallery": [
+        "https://www.sce.ntnu.edu.tw/home/src/img/space/tw/22/20220611145119.jpg",
+        "https://www.sce.ntnu.edu.tw/home/src/img/space/tw/1/20240304200042.jpg",
+        "https://www.sce.ntnu.edu.tw/home/src/img/space/tw/2/20151009-_DSC2543_compressed.jpg"
+      ],
+      "source": "https://www.sce.ntnu.edu.tw/home/space/"
+    },
+    "status": "上架"
+  },
+  {
+    "id": 1497,
+    "name": "師大進修推廣學院",
+    "roomName": "大教室",
+    "city": "台北市",
+    "address": "臺北市大安區和平東路一段 129 號",
+    "contactPhone": "02-77495800",
+    "contactEmail": "sce@ntnu.edu.tw",
+    "url": "https://www.sce.ntnu.edu.tw/home/index.php",
+    "venuePageUrl": "https://www.sce.ntsu.edu.tw/home/space/",
+    "venueType": "會議中心",
+    "maxCapacityTheater": 40,
+    "priceHalfDay": null,
+    "images": {
+      "main": "https://www.sce.ntnu.edu.tw/home/src/img/space/tw/22/20220611145119.jpg",
+      "gallery": [
+        "https://www.sce.ntnu.edu.tw/home/src/img/space/tw/22/20220611145119.jpg",
+        "https://www.sce.ntnu.edu.tw/home/src/img/space/tw/1/20240304200042.jpg",
+        "https://www.sce.ntnu.edu.tw/home/src/img/space/tw/2/20151009-_DSC2543_compressed.jpg"
+      ],
+      "source": "https://www.sce.ntnu.edu.tw/home/space/"
+    },
+    "status": "上架"
+  },
+  {
+    "id": 1498,
+    "name": "師大進修推廣學院",
+    "roomName": "小教室",
+    "city": "台北市",
+    "address": "臺北市大安區和平東路一段 129 號",
+    "contactPhone": "02-77495800",
+    "contactEmail": "sce@ntnu.edu.tw",
+    "url": "https://www.sce.ntnu.edu.tw/home/index.php",
+    "venuePageUrl": "https://www.sce.ntsu.edu.tw/home/space/",
+    "venueType": "會議中心",
+    "maxCapacityTheater": 24,
+    "priceHalfDay": null,
+    "images": {
+      "main": "https://www.sce.ntnu.edu.tw/home/src/img/space/tw/22/20220611145119.jpg",
+      "gallery": [
+        "https://www.sce.ntnu.edu.tw/home/src/img/space/tw/22/20220611145119.jpg",
+        "https://www.sce.ntnu.edu.tw/home/src/img/space/tw/1/20240304200042.jpg",
+        "https://www.sce.ntnu.edu.tw/home/src/img/space/tw/2/20151009-_DSC2543_compressed.jpg"
+      ],
+      "source": "https://www.sce.ntnu.edu.tw/home/space/"
+    },
+    "status": "上架"
+  },
+  {
+    "id": 1499,
+    "name": "師大進修推廣學院",
+    "roomName": "3樓講座教室",
+    "city": "台北市",
+    "address": "臺北市大安區和平東路一段 129 號",
+    "contactPhone": "02-77495800",
+    "contactEmail": "sce@ntnu.edu.tw",
+    "url": "https://www.sce.ntnu.edu.tw/home/index.php",
+    "venuePageUrl": "https://www.sce.ntsu.edu.tw/home/space/",
+    "venueType": "會議中心",
+    "maxCapacityTheater": 34,
+    "priceHalfDay": null,
+    "images": {
+      "main": "https://www.sce.ntnu.edu.tw/home/src/img/space/tw/22/20220611145119.jpg",
+      "gallery": [
+        "https://www.sce.ntnu.edu.tw/home/src/img/space/tw/22/20220611145119.jpg",
+        "https://www.sce.ntnu.edu.tw/home/src/img/space/tw/1/20240304200042.jpg",
+        "https://www.sce.ntnu.edu.tw/home/src/img/space/tw/2/20151009-_DSC2543_compressed.jpg"
+      ],
+      "source": "https://www.sce.ntnu.edu.tw/home/space/"
+    },
+    "status": "上架"
+  },
+  {
+    "id": 1500,
+    "name": "師大進修推廣學院",
+    "roomName": "電腦教室",
+    "city": "台北市",
+    "address": "臺北市大安區和平東路一段 129 號",
+    "contactPhone": "02-77495800",
+    "contactEmail": "sce@ntnu.edu.tw",
+    "url": "https://www.sce.ntnu.edu.tw/home/index.php",
+    "venuePageUrl": "https://www.sce.ntsu.edu.tw/home/space/",
+    "venueType": "會議中心",
+    "maxCapacityTheater": 40,
+    "priceHalfDay": null,
+    "images": {
+      "main": "https://www.sce.ntnu.edu.tw/home/src/img/space/tw/22/20220611145119.jpg",
+      "gallery": [
+        "https://www.sce.ntnu.edu.tw/home/src/img/space/tw/22/20220611145119.jpg",
+        "https://www.sce.ntnu.edu.tw/home/src/img/space/tw/1/20240304200042.jpg",
+        "https://www.sce.ntnu.edu.tw/home/src/img/space/tw/2/20151009-_DSC2543_compressed.jpg"
+      ],
+      "source": "https://www.sce.ntnu.edu.tw/home/space/"
+    },
+    "status": "上架"
+  },
+  {
+    "id": 1501,
+    "name": "師大進修推廣學院",
+    "roomName": "視訊會議室(林口)",
+    "city": "台北市",
+    "address": "臺北市大安區和平東路一段 129 號",
+    "contactPhone": "02-77495800",
+    "contactEmail": "sce@ntnu.edu.tw",
+    "url": "https://www.sce.ntnu.edu.tw/home/index.php",
+    "venuePageUrl": "https://www.sce.ntsu.edu.tw/home/space/",
+    "venueType": "會議中心",
+    "maxCapacityTheater": 17,
+    "priceHalfDay": null,
+    "images": {
+      "main": "https://www.sce.ntnu.edu.tw/home/src/img/space/tw/22/20220611145119.jpg",
+      "gallery": [
+        "https://www.sce.ntnu.edu.tw/home/src/img/space/tw/22/20220611145119.jpg",
+        "https://www.sce.ntnu.edu.tw/home/src/img/space/tw/1/20240304200042.jpg",
+        "https://www.sce.ntnu.edu.tw/home/src/img/space/tw/2/20151009-_DSC2543_compressed.jpg"
+      ],
+      "source": "https://www.sce.ntnu.edu.tw/home/space/"
+    },
+    "status": "上架"
+  },
+  {
+    "id": 1502,
+    "name": "師大進修推廣學院",
+    "roomName": "研討室(林口)",
+    "city": "台北市",
+    "address": "臺北市大安區和平東路一段 129 號",
+    "contactPhone": "02-77495800",
+    "contactEmail": "sce@ntnu.edu.tw",
+    "url": "https://www.sce.ntnu.edu.tw/home/index.php",
+    "venuePageUrl": "https://www.sce.ntsu.edu.tw/home/space/",
+    "venueType": "會議中心",
+    "maxCapacityTheater": 12,
+    "priceHalfDay": null,
+    "images": {
+      "main": "https://www.sce.ntnu.edu.tw/home/src/img/space/tw/22/20220611145119.jpg",
+      "gallery": [
+        "https://www.sce.ntnu.edu.tw/home/src/img/space/tw/22/20220611145119.jpg",
+        "https://www.sce.ntnu.edu.tw/home/src/img/space/tw/1/20240304200042.jpg",
+        "https://www.sce.ntnu.edu.tw/home/src/img/space/tw/2/20151009-_DSC2543_compressed.jpg"
+      ],
+      "source": "https://www.sce.ntnu.edu.tw/home/space/"
+    },
+    "status": "上架"
+  },
+  {
+    "id": 1503,
+    "name": "師大進修推廣學院",
+    "roomName": "階梯教室(林口)",
+    "city": "台北市",
+    "address": "臺北市大安區和平東路一段 129 號",
+    "contactPhone": "02-77495800",
+    "contactEmail": "sce@ntnu.edu.tw",
+    "url": "https://www.sce.ntnu.edu.tw/home/index.php",
+    "venuePageUrl": "https://www.sce.ntsu.edu.tw/home/space/",
+    "venueType": "會議中心",
+    "maxCapacityTheater": 111,
+    "priceHalfDay": null,
+    "images": {
+      "main": "https://www.sce.ntnu.edu.tw/home/src/img/space/tw/22/20220611145119.jpg",
+      "gallery": [
+        "https://www.sce.ntnu.edu.tw/home/src/img/space/tw/22/20220611145119.jpg",
+        "https://www.sce.ntnu.edu.tw/home/src/img/space/tw/1/20240304200042.jpg",
+        "https://www.sce.ntnu.edu.tw/home/src/img/space/tw/2/20151009-_DSC2543_compressed.jpg"
+      ],
+      "source": "https://www.sce.ntnu.edu.tw/home/space/"
+    },
+    "status": "上架"
+  },
+  {
+    "id": 1504,
+    "name": "師大進修推廣學院",
+    "roomName": "大教室30人(林口)",
+    "city": "台北市",
+    "address": "臺北市大安區和平東路一段 129 號",
+    "contactPhone": "02-77495800",
+    "contactEmail": "sce@ntnu.edu.tw",
+    "url": "https://www.sce.ntnu.edu.tw/home/index.php",
+    "venuePageUrl": "https://www.sce.ntsu.edu.tw/home/space/",
+    "venueType": "會議中心",
+    "maxCapacityTheater": 30,
+    "priceHalfDay": null,
+    "images": {
+      "main": "https://www.sce.ntnu.edu.tw/home/src/img/space/tw/22/20220611145119.jpg",
+      "gallery": [
+        "https://www.sce.ntnu.edu.tw/home/src/img/space/tw/22/20220611145119.jpg",
+        "https://www.sce.ntnu.edu.tw/home/src/img/space/tw/1/20240304200042.jpg",
+        "https://www.sce.ntnu.edu.tw/home/src/img/space/tw/2/20151009-_DSC2543_compressed.jpg"
+      ],
+      "source": "https://www.sce.ntnu.edu.tw/home/space/"
+    },
+    "status": "上架"
+  },
+  {
+    "id": 1505,
+    "name": "師大進修推廣學院",
+    "roomName": "大教室40人(林口)",
+    "city": "台北市",
+    "address": "臺北市大安區和平東路一段 129 號",
+    "contactPhone": "02-77495800",
+    "contactEmail": "sce@ntnu.edu.tw",
+    "url": "https://www.sce.ntnu.edu.tw/home/index.php",
+    "venuePageUrl": "https://www.sce.ntsu.edu.tw/home/space/",
+    "venueType": "會議中心",
+    "maxCapacityTheater": 40,
+    "priceHalfDay": null,
+    "images": {
+      "main": "https://www.sce.ntnu.edu.tw/home/src/img/space/tw/22/20220611145119.jpg",
+      "gallery": [
+        "https://www.sce.ntnu.edu.tw/home/src/img/space/tw/22/20220611145119.jpg",
+        "https://www.sce.ntnu.edu.tw/home/src/img/space/tw/1/20240304200042.jpg",
+        "https://www.sce.ntnu.edu.tw/home/src/img/space/tw/2/20151009-_DSC2543_compressed.jpg"
+      ],
+      "source": "https://www.sce.ntnu.edu.tw/home/space/"
+    },
     "status": "上架"
   }
 ]
