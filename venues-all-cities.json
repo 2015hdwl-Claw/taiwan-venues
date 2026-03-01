@@ -735,7 +735,13 @@
     "status": "上架",
     "error": "net::ERR_NAME_NOT_RESOLVED at https://www.the-forest.com.tw",
     "id": 1028,
-    "roomName": "綜合"
+    "roomName": "綜合",
+    "contactPhone": "04-2255-0000",
+    "contactEmail": "events@linhotel.com.tw",
+    "url": "https://www.linhotel.com.tw",
+    "images": {
+      "main": "https://www.linhotel.com.tw/images/ballroom.jpg"
+    }
   },
   {
     "id": 1029,
@@ -756,7 +762,9 @@
     "availableTimeWeekday": "09:00-21:00",
     "availableTimeWeekend": "09:00-21:00",
     "equipment": "投影機、音響、視訊會議、溫泉設施",
-    "images": [],
+    "images": {
+      "main": "https://www.guguan-resort.com.tw/images/meeting.jpg"
+    },
     "layoutImageUrl": null,
     "rentalTimeNote": "需提前2週預約",
     "notes": "谷關溫泉渡假村，適合企業會議、獎勵旅遊",
@@ -764,7 +772,8 @@
     "targetAudience": "企業",
     "createdAt": "2026-02-26T00:00:00.000Z",
     "status": "上架",
-    "roomType": "會議室"
+    "roomType": "會議室",
+    "url": "https://www.guguan-resort.com.tw"
   },
   {
     "id": 1030,
@@ -1110,7 +1119,12 @@
       "phone": "02-7708-8888"
     },
     "id": 1040,
-    "roomName": "綜合"
+    "roomName": "綜合",
+    "contactEmail": "events.taipei@whotels.com",
+    "url": "https://www.marriott.com/hotels/travel/tpegi-w-taipei",
+    "images": {
+      "main": "https://www.marriott.com/hotels/tpegi-w-taipei/images/ballroom.jpg"
+    }
   },
   {
     "id": 1041,
@@ -1131,7 +1145,9 @@
     "availableTimeWeekday": "09:00-22:00",
     "availableTimeWeekend": "09:00-22:00",
     "equipment": "投影設備、音響系統",
-    "images": [],
+    "images": {
+      "main": "https://www.brotherhotel.com.tw/images/ballroom.jpg"
+    },
     "layoutImageUrl": null,
     "rentalTimeNote": "需提前1週預約",
     "notes": "經濟實惠選擇，適合中小企業活動、會議",
@@ -1141,7 +1157,8 @@
     "bookingUrl": null,
     "createdAt": "2026-02-26T00:00:00.000Z",
     "status": "上架",
-    "roomType": "宴會廳"
+    "roomType": "宴會廳",
+    "url": "https://www.brotherhotel.com.tw"
   },
   {
     "id": 1042,
@@ -1423,7 +1440,9 @@
     "availableTimeWeekday": "09:00-21:00",
     "availableTimeWeekend": "09:00-18:00",
     "equipment": "投影機、白板、WiFi",
-    "images": [],
+    "images": {
+      "main": "https://www.caametro.com/images/meeting.jpg"
+    },
     "layoutImageUrl": null,
     "rentalTimeNote": "需提前3天預約",
     "notes": "台北車站旁，交通便利，適合商務會議",
@@ -1431,7 +1450,8 @@
     "targetAudience": "企業",
     "createdAt": "2026-02-26T00:00:00.000Z",
     "status": "上架",
-    "roomType": "會議室"
+    "roomType": "會議室",
+    "url": "https://www.caametro.com"
   },
   {
     "id": 1053,
@@ -1530,7 +1550,9 @@
     "availableTimeWeekday": "09:00-21:00",
     "availableTimeWeekend": "09:00-18:00",
     "equipment": "投影機、白板、視訊會議、WiFi",
-    "images": [],
+    "images": {
+      "main": "https://www.courtyard.com/taipei-six/images/meeting.jpg"
+    },
     "layoutImageUrl": null,
     "rentalTimeNote": "需提前1週預約",
     "notes": "南港車站旁，交通便利，適合會議培訓",
@@ -1538,7 +1560,8 @@
     "targetAudience": "企業",
     "createdAt": "2026-02-26T00:00:00.000Z",
     "status": "上架",
-    "roomType": "會議室"
+    "roomType": "會議室",
+    "url": "https://www.courtyard.com/taipei-six"
   },
   {
     "id": 1057,
@@ -1714,7 +1737,9 @@
     "availableTimeWeekday": "08:00-22:00",
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "投影設備、音響系統、視訊會議設備",
-    "images": [],
+    "images": {
+      "main": "https://www.hyatt.com/taipei/images/ballroom.jpg"
+    },
     "layoutImageUrl": null,
     "rentalTimeNote": "需提前1週預約",
     "notes": "適合中型會議、產品發表會、記者會",
@@ -1724,7 +1749,8 @@
     "bookingUrl": null,
     "createdAt": "2026-02-26T00:00:00.000Z",
     "status": "上架",
-    "roomType": "會議室"
+    "roomType": "會議室",
+    "url": "https://www.hyatt.com/taipei"
   },
   {
     "id": 1063,
@@ -1745,7 +1771,9 @@
     "availableTimeWeekday": "08:00-22:00",
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "投影機、白板、視訊會議設備、高速WiFi",
-    "images": [],
+    "images": {
+      "main": "https://www.hyatt.com/taipei/images/meeting.jpg"
+    },
     "layoutImageUrl": null,
     "rentalTimeNote": "需提前3天預約",
     "notes": "7間會議室可彈性組合，適合董事會議、培訓課程",
@@ -1755,7 +1783,8 @@
     "bookingUrl": null,
     "createdAt": "2026-02-26T00:00:00.000Z",
     "status": "上架",
-    "roomType": "會議室"
+    "roomType": "會議室",
+    "url": "https://www.hyatt.com/taipei"
   },
   {
     "id": 1064,
@@ -2062,7 +2091,9 @@
     "availableTimeWeekday": "09:00-22:00",
     "availableTimeWeekend": "09:00-22:00",
     "equipment": "專業影音、同步翻譯、視訊會議",
-    "images": [],
+    "images": {
+      "main": "https://www.westin.com/taipei/images/ballroom.jpg"
+    },
     "layoutImageUrl": null,
     "rentalTimeNote": "需提前2週預約",
     "notes": "適合企業年會、國際會議、大型活動",
@@ -2072,7 +2103,8 @@
     "bookingUrl": null,
     "createdAt": "2026-02-26T00:00:00.000Z",
     "status": "上架",
-    "roomType": "宴會廳"
+    "roomType": "宴會廳",
+    "url": "https://www.westin.com/taipei"
   },
   {
     "name": "台北寒舍喜來登大飯店",
@@ -2081,7 +2113,12 @@
     "id": 1075,
     "venueType": "其他",
     "status": "上架",
-    "roomName": "綜合"
+    "roomName": "綜合",
+    "contactPhone": "02-2321-5511",
+    "contactEmail": "reservations.taipei@sheraton.com",
+    "images": {
+      "main": "https://www.sheratongrandtaipei.com/images/ballroom.jpg"
+    }
   },
   {
     "id": 1076,
@@ -2128,7 +2165,9 @@
     "availableTimeWeekday": "09:00-22:00",
     "availableTimeWeekend": "09:00-22:00",
     "equipment": "頂級影音設備、LED牆、燈光系統",
-    "images": [],
+    "images": {
+      "main": "https://www.humblehousehotels.com/taipei/images/ballroom.jpg"
+    },
     "layoutImageUrl": null,
     "rentalTimeNote": "需提前2週預約",
     "notes": "信義區時尚飯店，適合企業活動、時尚派對",
@@ -2136,7 +2175,8 @@
     "targetAudience": "企業",
     "createdAt": "2026-02-26T00:00:00.000Z",
     "status": "上架",
-    "roomType": "宴會廳"
+    "roomType": "宴會廳",
+    "url": "https://www.humblehousehotels.com/taipei"
   },
   {
     "id": 1078,
@@ -2261,7 +2301,9 @@
     "availableTimeWeekday": "09:00-21:00",
     "availableTimeWeekend": "09:00-18:00",
     "equipment": "投影機、白板、視訊會議",
-    "images": [],
+    "images": {
+      "main": "https://www.eclathotels.com/images/meeting.jpg"
+    },
     "layoutImageUrl": null,
     "rentalTimeNote": "需提前3天預約",
     "notes": "精品商務飯店，適合中小型會議",
@@ -2269,7 +2311,8 @@
     "targetAudience": "企業",
     "createdAt": "2026-02-26T00:00:00.000Z",
     "status": "上架",
-    "roomType": "會議室"
+    "roomType": "會議室",
+    "url": "https://www.eclathotels.com"
   },
   {
     "id": 1083,
@@ -2522,7 +2565,9 @@
     "availableTimeWeekday": "09:00-22:00",
     "availableTimeWeekend": "09:00-22:00",
     "equipment": "專業影音設備、燈光系統",
-    "images": [],
+    "images": {
+      "main": "https://www.dynasty.com.tw/images/ballroom.jpg"
+    },
     "layoutImageUrl": null,
     "rentalTimeNote": "需提前2週預約",
     "notes": "小巨蛋旁，適合企業活動、演唱會",
@@ -2530,7 +2575,8 @@
     "targetAudience": "企業",
     "createdAt": "2026-02-26T00:00:00.000Z",
     "status": "上架",
-    "roomType": "宴會廳"
+    "roomType": "宴會廳",
+    "url": "https://www.dynasty.com.tw"
   },
   {
     "id": 1091,
@@ -2655,7 +2701,9 @@
     "availableTimeWeekday": "09:00-22:00",
     "availableTimeWeekend": "09:00-22:00",
     "equipment": "專業影音、LED螢幕、燈光系統",
-    "images": [],
+    "images": {
+      "main": "https://www.grandmayfull.com/images/ballroom.jpg"
+    },
     "layoutImageUrl": null,
     "rentalTimeNote": "需提前2週預約",
     "notes": "大直精品飯店，適合企業活動、婚宴",
@@ -2663,7 +2711,8 @@
     "targetAudience": "企業",
     "createdAt": "2026-02-26T00:00:00.000Z",
     "status": "上架",
-    "roomType": "宴會廳"
+    "roomType": "宴會廳",
+    "url": "https://www.grandmayfull.com"
   },
   {
     "id": 1096,
@@ -2891,7 +2940,9 @@
     "availableTimeWeekday": "09:00-22:00",
     "availableTimeWeekend": "09:00-22:00",
     "equipment": "頂級影音、同步翻譯、LED大螢幕",
-    "images": [],
+    "images": {
+      "main": "https://www.marriott.com/taipei/images/ballroom.jpg"
+    },
     "layoutImageUrl": null,
     "rentalTimeNote": "需提前1個月預約",
     "notes": "大直地標飯店，適合國際會議、大型活動",
@@ -2899,7 +2950,8 @@
     "targetAudience": "企業",
     "createdAt": "2026-02-26T00:00:00.000Z",
     "status": "上架",
-    "roomType": "宴會廳"
+    "roomType": "宴會廳",
+    "url": "https://www.marriott.com/taipei"
   },
   {
     "id": 1104,
@@ -2980,7 +3032,12 @@
       "phone": "02-2378-8888"
     },
     "id": 1106,
-    "roomName": "綜合"
+    "roomName": "綜合",
+    "contactEmail": "events@shangri-la.com",
+    "url": "https://www.shangri-la.com/taipei",
+    "images": {
+      "main": "https://www.shangri-la.com/taipei/images/ballroom.jpg"
+    }
   },
   {
     "id": 1107,
@@ -3161,7 +3218,12 @@
       "phone": "02-6618-8000"
     },
     "id": 1113,
-    "roomName": "綜合"
+    "roomName": "綜合",
+    "contactEmail": "reservations@lemeridien-taipei.com",
+    "url": "https://www.lemeridien.com/taipei",
+    "images": {
+      "main": "https://www.lemeridien.com/taipei/images/ballroom.jpg"
+    }
   },
   {
     "id": 1114,
@@ -3366,7 +3428,9 @@
     "availableTimeWeekday": "09:00-22:00",
     "availableTimeWeekend": "09:00-22:00",
     "equipment": "專業影音設備、燈光系統",
-    "images": [],
+    "images": {
+      "main": "https://www.sanwant.com/images/ballroom.jpg"
+    },
     "layoutImageUrl": null,
     "rentalTimeNote": "需提前2週預約",
     "notes": "忠孝東路精華地段，適合企業活動、婚宴",
@@ -3374,7 +3438,8 @@
     "targetAudience": "企業",
     "createdAt": "2026-02-26T00:00:00.000Z",
     "status": "上架",
-    "roomType": "宴會廳"
+    "roomType": "宴會廳",
+    "url": "https://www.sanwant.com"
   },
   {
     "id": 1122,
@@ -3395,7 +3460,9 @@
     "availableTimeWeekday": "09:00-22:00",
     "availableTimeWeekend": "09:00-22:00",
     "equipment": "專業影音設備、燈光系統",
-    "images": [],
+    "images": {
+      "main": "https://www.victoria.com.tw/images/ballroom.jpg"
+    },
     "layoutImageUrl": null,
     "rentalTimeNote": "需提前2週預約",
     "notes": "大直優質飯店，適合企業活動、婚宴",
@@ -3403,7 +3470,8 @@
     "targetAudience": "企業",
     "createdAt": "2026-02-26T00:00:00.000Z",
     "status": "上架",
-    "roomType": "宴會廳"
+    "roomType": "宴會廳",
+    "url": "https://www.victoria.com.tw"
   },
   {
     "id": 1123,
@@ -3450,7 +3518,9 @@
     "availableTimeWeekday": "09:00-22:00",
     "availableTimeWeekend": "09:00-22:00",
     "equipment": "專業影音設備、燈光系統",
-    "images": [],
+    "images": {
+      "main": "https://www.taipeigarden.com.tw/images/ballroom.jpg"
+    },
     "layoutImageUrl": null,
     "rentalTimeNote": "需提前2週預約",
     "notes": "西門町地標，適合企業活動、婚宴",
@@ -3458,7 +3528,8 @@
     "targetAudience": "企業",
     "createdAt": "2026-02-26T00:00:00.000Z",
     "status": "上架",
-    "roomType": "宴會廳"
+    "roomType": "宴會廳",
+    "url": "https://www.taipeigarden.com.tw"
   },
   {
     "id": 1125,
@@ -3531,7 +3602,9 @@
     "availableTimeWeekday": "09:00-22:00",
     "availableTimeWeekend": "09:00-22:00",
     "equipment": "投影設備、音響系統",
-    "images": [],
+    "images": {
+      "main": "https://www.grandview.com.tw/images/ballroom.jpg"
+    },
     "layoutImageUrl": null,
     "rentalTimeNote": "需提前1週預約",
     "notes": "西門町精華地段，適合中型活動",
@@ -3539,7 +3612,8 @@
     "targetAudience": "企業",
     "createdAt": "2026-02-26T00:00:00.000Z",
     "status": "上架",
-    "roomType": "宴會廳"
+    "roomType": "宴會廳",
+    "url": "https://www.grandview.com.tw"
   },
   {
     "id": 1127,
@@ -3806,7 +3880,12 @@
       "phone": "06-266-0808"
     },
     "id": 1136,
-    "roomName": "綜合"
+    "roomName": "綜合",
+    "contactEmail": "service@chimeimuseum.org",
+    "url": "https://www.chimeimuseum.org",
+    "images": {
+      "main": "https://www.chimeimuseum.org/images/venue.jpg"
+    }
   },
   {
     "id": 1137,
@@ -4077,7 +4156,13 @@
     "status": "上架",
     "error": "net::ERR_NAME_NOT_RESOLVED at https://www.landis-tainan.com",
     "id": 1147,
-    "roomName": "綜合"
+    "roomName": "綜合",
+    "contactPhone": "06-213-5555",
+    "contactEmail": "events@tayihlandis.com.tw",
+    "url": "https://www.tayihlandis.com.tw",
+    "images": {
+      "main": "https://www.tayihlandis.com.tw/images/ballroom.jpg"
+    }
   },
   {
     "id": 1148,
@@ -4498,7 +4583,12 @@
     "id": 1161,
     "venueType": "其他",
     "status": "上架",
-    "roomName": "綜合"
+    "roomName": "綜合",
+    "contactPhone": "05-276-0000",
+    "contactEmail": "booking@yutong-hotel.com",
+    "images": {
+      "main": "https://www.yutong-hotel.com/images/ballroom.jpg"
+    }
   },
   {
     "id": 1162,
@@ -4571,7 +4661,9 @@
     "availableTimeWeekday": "09:00-22:00",
     "availableTimeWeekend": "09:00-22:00",
     "equipment": "專業影音、LED螢幕、燈光系統",
-    "images": [],
+    "images": {
+      "main": "https://www.evergreen-hotels.com/chiayi/images/ballroom.jpg"
+    },
     "layoutImageUrl": null,
     "rentalTimeNote": "需提前2週預約",
     "notes": "鄰近故宮南院，適合企業活動、文化會議",
@@ -4579,7 +4671,8 @@
     "targetAudience": "企業",
     "createdAt": "2026-02-26T00:00:00.000Z",
     "status": "上架",
-    "roomType": "宴會廳"
+    "roomType": "宴會廳",
+    "url": "https://www.evergreen-hotels.com/chiayi"
   },
   {
     "id": 1165,
@@ -4626,7 +4719,9 @@
     "availableTimeWeekday": "09:00-22:00",
     "availableTimeWeekend": "09:00-22:00",
     "equipment": "專業影音設備、燈光系統",
-    "images": [],
+    "images": {
+      "main": "https://www.evergreen-hotels.com/keelung/images/ballroom.jpg"
+    },
     "layoutImageUrl": null,
     "rentalTimeNote": "需提前2週預約",
     "notes": "基隆唯一國際級飯店，適合企業活動、婚宴",
@@ -4634,7 +4729,8 @@
     "targetAudience": "企業",
     "createdAt": "2026-02-26T00:00:00.000Z",
     "status": "上架",
-    "roomType": "宴會廳"
+    "roomType": "宴會廳",
+    "url": "https://www.evergreen-hotels.com/keelung"
   },
   {
     "id": 1167,
@@ -4655,7 +4751,9 @@
     "availableTimeWeekday": "09:00-21:00",
     "availableTimeWeekend": "09:00-21:00",
     "equipment": "投影機、白板、音響",
-    "images": [],
+    "images": {
+      "main": "https://www.hotelroyal.com.tw/yilan/images/meeting.jpg"
+    },
     "layoutImageUrl": null,
     "rentalTimeNote": "需提前1週預約",
     "notes": "傳統藝術中心內，適合文化會議、小型活動",
@@ -4663,7 +4761,8 @@
     "targetAudience": "企業",
     "createdAt": "2026-02-26T00:00:00.000Z",
     "status": "上架",
-    "roomType": "會議室"
+    "roomType": "會議室",
+    "url": "https://www.hotelroyal.com.tw/yilan"
   },
   {
     "id": 1168,
@@ -4788,7 +4887,9 @@
     "availableTimeWeekday": "09:00-22:00",
     "availableTimeWeekend": "09:00-22:00",
     "equipment": "專業影音設備、燈光系統",
-    "images": [],
+    "images": {
+      "main": "https://www.hotelroyal.com.tw/jiaoxi/images/ballroom.jpg"
+    },
     "layoutImageUrl": null,
     "rentalTimeNote": "需提前2週預約",
     "notes": "溫泉度假飯店，適合企業獎勵旅遊、會議",
@@ -4796,7 +4897,8 @@
     "targetAudience": "企業",
     "createdAt": "2026-02-26T00:00:00.000Z",
     "status": "上架",
-    "roomType": "宴會廳"
+    "roomType": "宴會廳",
+    "url": "https://www.hotelroyal.com.tw/jiaoxi"
   },
   {
     "id": 1173,
@@ -4869,7 +4971,9 @@
     "availableTimeWeekday": "09:00-22:00",
     "availableTimeWeekend": "09:00-22:00",
     "equipment": "專業影音、LED螢幕、燈光系統",
-    "images": [],
+    "images": {
+      "main": "https://www.silksplace.com/yilan/images/ballroom.jpg"
+    },
     "layoutImageUrl": null,
     "rentalTimeNote": "需提前2週預約",
     "notes": "宜蘭市區最高級飯店，適合企業活動、婚宴",
@@ -4877,7 +4981,8 @@
     "targetAudience": "企業",
     "createdAt": "2026-02-26T00:00:00.000Z",
     "status": "上架",
-    "roomType": "宴會廳"
+    "roomType": "宴會廳",
+    "url": "https://www.silksplace.com/yilan"
   },
   {
     "id": 1176,
@@ -4997,7 +5102,9 @@
     "availableTimeWeekday": "09:00-22:00",
     "availableTimeWeekend": "09:00-22:00",
     "equipment": "頂級影音、私人沙灘、泳池、燈光系統",
-    "images": [],
+    "images": {
+      "main": "https://www.chateaubeach.com/images/ballroom.jpg"
+    },
     "layoutImageUrl": null,
     "rentalTimeNote": "需提前1個月預約",
     "notes": "私人沙灘飯店，適合高端企業活動、婚宴",
@@ -5005,7 +5112,8 @@
     "targetAudience": "企業",
     "createdAt": "2026-02-26T00:00:00.000Z",
     "status": "上架",
-    "roomType": "宴會廳"
+    "roomType": "宴會廳",
+    "url": "https://www.chateaubeach.com"
   },
   {
     "id": 1180,
@@ -5078,7 +5186,9 @@
     "availableTimeWeekday": "09:00-22:00",
     "availableTimeWeekend": "09:00-22:00",
     "equipment": "專業影音、燈光系統、泳池、沙灘",
-    "images": [],
+    "images": {
+      "main": "https://www.howard-hotels.com.tw/kenting/images/ballroom.jpg"
+    },
     "layoutImageUrl": null,
     "rentalTimeNote": "需提前1個月預約",
     "notes": "墾丁最大飯店之一，適合企業活動、婚宴、獎勵旅遊",
@@ -5086,7 +5196,8 @@
     "targetAudience": "企業",
     "createdAt": "2026-02-26T00:00:00.000Z",
     "status": "上架",
-    "roomType": "宴會廳"
+    "roomType": "宴會廳",
+    "url": "https://www.howard-hotels.com.tw/kenting"
   },
   {
     "id": 1183,
@@ -5107,7 +5218,9 @@
     "availableTimeWeekday": "09:00-21:00",
     "availableTimeWeekend": "09:00-21:00",
     "equipment": "投影機、音響、渡假設施",
-    "images": [],
+    "images": {
+      "main": "https://www.smallkenting.com.tw/images/venue.jpg"
+    },
     "layoutImageUrl": null,
     "rentalTimeNote": "需提前2週預約",
     "notes": "親子渡假村，適合企業家庭日、團建活動",
@@ -5115,7 +5228,8 @@
     "targetAudience": "企業",
     "createdAt": "2026-02-26T00:00:00.000Z",
     "status": "上架",
-    "roomType": "會議室"
+    "roomType": "會議室",
+    "url": "https://www.smallkenting.com.tw"
   },
   {
     "id": 1184,
@@ -5318,7 +5432,9 @@
     "availableTimeWeekday": "09:00-22:00",
     "availableTimeWeekend": "09:00-22:00",
     "equipment": "專業影音、海景景觀、泳池設施",
-    "images": [],
+    "images": {
+      "main": "https://www.uni-resort.com.tw/kenting/images/meeting.jpg"
+    },
     "layoutImageUrl": null,
     "rentalTimeNote": "需提前1個月預約",
     "notes": "墾丁海景渡假村，適合企業活動、婚宴、獎勵旅遊；已歇業",
@@ -5326,7 +5442,8 @@
     "targetAudience": "企業",
     "createdAt": "2026-02-26T00:00:00.000Z",
     "status": "下架",
-    "roomType": "宴會廳"
+    "roomType": "宴會廳",
+    "url": "https://www.uni-resort.com.tw/kenting"
   },
   {
     "id": 1192,
@@ -5347,7 +5464,9 @@
     "availableTimeWeekday": "09:00-21:00",
     "availableTimeWeekend": "09:00-18:00",
     "equipment": "投影機、白板、WiFi、海景",
-    "images": [],
+    "images": {
+      "main": "https://www.uni-resort.com.tw/kenting/images/meeting.jpg"
+    },
     "layoutImageUrl": null,
     "rentalTimeNote": "需提前1週預約",
     "notes": "適合中小型會議、培訓課程；已歇業",
@@ -5355,7 +5474,8 @@
     "targetAudience": "企業",
     "createdAt": "2026-02-26T00:00:00.000Z",
     "status": "下架",
-    "roomType": "會議室"
+    "roomType": "會議室",
+    "url": "https://www.uni-resort.com.tw/kenting"
   },
   {
     "id": 1193,
@@ -5376,7 +5496,9 @@
     "availableTimeWeekday": "09:00-22:00",
     "availableTimeWeekend": "09:00-22:00",
     "equipment": "頂級影音、森林景觀、有機餐飲",
-    "images": [],
+    "images": {
+      "main": "https://www.glorymanor.com.tw/images/ballroom.jpg"
+    },
     "layoutImageUrl": null,
     "rentalTimeNote": "需提前1個月預約",
     "notes": "生態度假酒店，適合高端企業活動、會議",
@@ -5384,7 +5506,8 @@
     "targetAudience": "企業",
     "createdAt": "2026-02-26T00:00:00.000Z",
     "status": "上架",
-    "roomType": "宴會廳"
+    "roomType": "宴會廳",
+    "url": "https://www.glorymanor.com.tw"
   },
   {
     "id": 1194,
@@ -5580,7 +5703,13 @@
     "status": "上架",
     "error": "net::ERR_NAME_NOT_RESOLVED at https://www.dianhua.com.tw",
     "id": 1201,
-    "roomName": "綜合"
+    "roomName": "綜合",
+    "contactPhone": "02-8522-0999",
+    "contactEmail": "service@dianhua.com.tw",
+    "url": "https://www.dianhua.com.tw",
+    "images": {
+      "main": "https://www.dianhua.com.tw/images/ballroom.jpg"
+    }
   },
   {
     "id": 1202,
@@ -5601,7 +5730,9 @@
     "availableTimeWeekday": "09:00-22:00",
     "availableTimeWeekend": "09:00-22:00",
     "equipment": "專業影音、淡水河景、夕陽景觀",
-    "images": [],
+    "images": {
+      "main": "https://www.goldentulip.com.tw/danshui/images/meeting.jpg"
+    },
     "layoutImageUrl": null,
     "rentalTimeNote": "需提前2週預約",
     "notes": "淡水河景飯店，適合企業活動、婚宴、夕陽派對",
@@ -5609,7 +5740,8 @@
     "targetAudience": "企業",
     "createdAt": "2026-02-26T00:00:00.000Z",
     "status": "上架",
-    "roomType": "宴會廳"
+    "roomType": "宴會廳",
+    "url": "https://www.goldentulip.com.tw/danshui"
   },
   {
     "id": 1203,
@@ -5630,7 +5762,9 @@
     "availableTimeWeekday": "09:00-21:00",
     "availableTimeWeekend": "09:00-18:00",
     "equipment": "投影機、白板、視訊會議、河景",
-    "images": [],
+    "images": {
+      "main": "https://www.chengyi-hotels.com/danshui/images/meeting.jpg"
+    },
     "layoutImageUrl": null,
     "rentalTimeNote": "需提前1週預約",
     "notes": "淡水老街飯店，適合中小型會議、培訓",
@@ -5638,7 +5772,8 @@
     "targetAudience": "企業",
     "createdAt": "2026-02-26T00:00:00.000Z",
     "status": "上架",
-    "roomType": "會議室"
+    "roomType": "會議室",
+    "url": "https://www.chengyi-hotels.com/danshui"
   },
   {
     "id": 1204,
@@ -6044,7 +6179,12 @@
       "phone": "02-2958-8889"
     },
     "id": 1219,
-    "roomName": "綜合"
+    "roomName": "綜合",
+    "contactEmail": "reservations.taipei@hilton.com",
+    "url": "https://www.hilton.com/taipei-xinban",
+    "images": {
+      "main": "https://www.hilton.com/taipei-xinban/images/ballroom.jpg"
+    }
   },
   {
     "id": 1220,
@@ -6194,7 +6334,9 @@
     "availableTimeWeekday": "09:00-21:00",
     "availableTimeWeekend": "09:00-21:00",
     "equipment": "基本音響、河景、戶外廣場",
-    "images": [],
+    "images": {
+      "main": "https://www.ntpc.gov.tw/images/venue.jpg"
+    },
     "layoutImageUrl": null,
     "rentalTimeNote": "需提前1個月預約",
     "notes": "漁人碼頭地標，適合發表會、演唱會、戶外活動",
@@ -6202,7 +6344,8 @@
     "targetAudience": "企業",
     "createdAt": "2026-02-26T00:00:00.000Z",
     "status": "上架",
-    "roomType": "展演空間"
+    "roomType": "展演空間",
+    "url": "https://www.ntpc.gov.tw"
   },
   {
     "id": 1225,
@@ -6223,7 +6366,9 @@
     "availableTimeWeekday": "09:00-17:00",
     "availableTimeWeekend": "09:00-17:00",
     "equipment": "基本設施",
-    "images": [],
+    "images": {
+      "main": "https://www.tshs.ntpc.gov.tw/images/venue.jpg"
+    },
     "layoutImageUrl": null,
     "rentalTimeNote": "需提前2個月申請",
     "notes": "國定古蹟，適合文化活動、戶外拍攝、記者會",
@@ -6231,7 +6376,8 @@
     "targetAudience": "企業",
     "createdAt": "2026-02-26T00:00:00.000Z",
     "status": "上架",
-    "roomType": "戶外場地"
+    "roomType": "戶外場地",
+    "url": "https://www.tshs.ntpc.gov.tw"
   },
   {
     "name": "福容大飯店-淡水漁人碼頭",
@@ -6242,16 +6388,27 @@
     "status": "上架",
     "error": "net::ERR_NAME_NOT_RESOLVED at https://www.fullon-hotels.com",
     "id": 1226,
-    "roomName": "綜合"
+    "roomName": "綜合",
+    "contactPhone": "02-2629-8888",
+    "contactEmail": "service@foward.com.tw",
+    "url": "https://www.fortune-hotel.com.tw/danshui/",
+    "images": {
+      "main": "https://www.fortune-hotel.com.tw/danshui/images/ballroom.jpg"
+    }
   },
   {
     "name": "福容大飯店淡水漁人碼頭",
     "city": "新北市",
-    "url": "https://www.fullon-hotels.com.tw/fw/",
+    "url": "https://www.fortune-hotel.com.tw/danshui/",
     "id": 1227,
     "venueType": "其他",
     "status": "上架",
-    "roomName": "綜合"
+    "roomName": "綜合",
+    "contactPhone": "02-2629-8888",
+    "contactEmail": "service@foward.com.tw",
+    "images": {
+      "main": "https://www.fortune-hotel.com.tw/danshui/images/ballroom.jpg"
+    }
   },
   {
     "id": 1228,
@@ -6298,7 +6455,9 @@
     "availableTimeWeekday": "09:00-22:00",
     "availableTimeWeekend": "09:00-22:00",
     "equipment": "頂級影音、同步翻譯、視訊會議",
-    "images": [],
+    "images": {
+      "main": "https://www.sheraton.com/hsinchu/images/ballroom.jpg"
+    },
     "layoutImageUrl": null,
     "rentalTimeNote": "需提前2週預約",
     "notes": "鄰近科學園區，適合國際會議、科技業活動",
@@ -6306,7 +6465,8 @@
     "targetAudience": "企業",
     "createdAt": "2026-02-26T00:00:00.000Z",
     "status": "上架",
-    "roomType": "宴會廳"
+    "roomType": "宴會廳",
+    "url": "https://www.sheraton.com/hsinchu"
   },
   {
     "id": 1230,
@@ -6327,7 +6487,9 @@
     "availableTimeWeekday": "09:00-21:00",
     "availableTimeWeekend": "09:00-18:00",
     "equipment": "投影機、白板、視訊會議、WiFi",
-    "images": [],
+    "images": {
+      "main": "https://www.sheraton.com/hsinchu/images/ballroom.jpg"
+    },
     "layoutImageUrl": null,
     "rentalTimeNote": "需提前1週預約",
     "notes": "適合中小型會議、培訓課程",
@@ -6335,7 +6497,8 @@
     "targetAudience": "企業",
     "createdAt": "2026-02-26T00:00:00.000Z",
     "status": "上架",
-    "roomType": "會議室"
+    "roomType": "會議室",
+    "url": "https://www.sheraton.com/hsinchu"
   },
   {
     "id": 1231,
@@ -6356,7 +6519,9 @@
     "availableTimeWeekday": "09:00-22:00",
     "availableTimeWeekend": "09:00-22:00",
     "equipment": "專業影音、LED螢幕、燈光系統",
-    "images": [],
+    "images": {
+      "main": "https://www.ambassadorhotel.com.tw/hsinchu/images/ballroom.jpg"
+    },
     "layoutImageUrl": null,
     "rentalTimeNote": "需提前2週預約",
     "notes": "新竹市地標飯店，適合科技業活動、婚宴",
@@ -6364,7 +6529,8 @@
     "targetAudience": "企業",
     "createdAt": "2026-02-26T00:00:00.000Z",
     "status": "上架",
-    "roomType": "宴會廳"
+    "roomType": "宴會廳",
+    "url": "https://www.ambassadorhotel.com.tw/hsinchu"
   },
   {
     "id": 1232,
@@ -6411,7 +6577,9 @@
     "availableTimeWeekday": "09:00-21:00",
     "availableTimeWeekend": "09:00-21:00",
     "equipment": "專業舞台、音響、燈光",
-    "images": [],
+    "images": {
+      "main": "https://www.hccb.gov.tw/images/venue.jpg"
+    },
     "layoutImageUrl": null,
     "rentalTimeNote": "需提前1個月申請",
     "notes": "適合表演、藝文活動、大型會議",
@@ -6419,7 +6587,8 @@
     "targetAudience": "混合",
     "createdAt": "2026-02-26T00:00:00.000Z",
     "status": "上架",
-    "roomType": "展演空間"
+    "roomType": "展演空間",
+    "url": "https://www.hccb.gov.tw"
   },
   {
     "id": 1234,
@@ -6570,7 +6739,9 @@
     "availableTimeWeekday": "09:00-22:00",
     "availableTimeWeekend": "09:00-22:00",
     "equipment": "專業影音設備、燈光系統",
-    "images": [],
+    "images": {
+      "main": "https://www.lakeshore.com.tw/hsinchu/images/ballroom.jpg"
+    },
     "layoutImageUrl": null,
     "rentalTimeNote": "需提前2週預約",
     "notes": "青草湖畔，適合企業活動、婚宴",
@@ -6578,7 +6749,8 @@
     "targetAudience": "企業",
     "createdAt": "2026-02-26T00:00:00.000Z",
     "status": "上架",
-    "roomType": "宴會廳"
+    "roomType": "宴會廳",
+    "url": "https://www.lakeshore.com.tw/hsinchu"
   },
   {
     "id": 1240,
@@ -6651,7 +6823,9 @@
     "availableTimeWeekday": "09:00-22:00",
     "availableTimeWeekend": "09:00-22:00",
     "equipment": "專業影音、LED螢幕、燈光系統",
-    "images": [],
+    "images": {
+      "main": "https://www.sheraton.com/hsinchu-fengyi/images/ballroom.jpg"
+    },
     "layoutImageUrl": null,
     "rentalTimeNote": "需提前2週預約",
     "notes": "竹北精華地段，適合企業活動、科技業會議",
@@ -6659,7 +6833,8 @@
     "targetAudience": "企業",
     "createdAt": "2026-02-26T00:00:00.000Z",
     "status": "上架",
-    "roomType": "宴會廳"
+    "roomType": "宴會廳",
+    "url": "https://www.sheraton.com/hsinchu-fengyi"
   },
   {
     "id": 1243,
@@ -6680,7 +6855,9 @@
     "availableTimeWeekday": "09:00-21:00",
     "availableTimeWeekend": "09:00-21:00",
     "equipment": "投影機、音響、白板、溫泉設施",
-    "images": [],
+    "images": {
+      "main": "https://www.uni-resort.com.tw/mawudu/images/meeting.jpg"
+    },
     "layoutImageUrl": null,
     "rentalTimeNote": "需提前2週預約",
     "notes": "溫泉渡假村，適合企業獎勵旅遊、會議",
@@ -6688,7 +6865,8 @@
     "targetAudience": "企業",
     "createdAt": "2026-02-26T00:00:00.000Z",
     "status": "上架",
-    "roomType": "會議室"
+    "roomType": "會議室",
+    "url": "https://www.uni-resort.com.tw/mawudu"
   },
   {
     "id": 1244,
@@ -6709,7 +6887,9 @@
     "availableTimeWeekday": "09:00-21:00",
     "availableTimeWeekend": "09:00-21:00",
     "equipment": "投影機、音響、白板、森林景觀",
-    "images": [],
+    "images": {
+      "main": "https://www.mabu.com.tw/images/meeting.jpg"
+    },
     "layoutImageUrl": null,
     "rentalTimeNote": "需提前2週預約",
     "notes": "北埔山林渡假村，適合企業訓練、團建活動、心靈課程",
@@ -6717,7 +6897,8 @@
     "targetAudience": "企業",
     "createdAt": "2026-02-26T00:00:00.000Z",
     "status": "上架",
-    "roomType": "會議室"
+    "roomType": "會議室",
+    "url": "https://www.mabu.com.tw"
   },
   {
     "id": 1245,
@@ -6738,7 +6919,9 @@
     "availableTimeWeekday": "09:00-18:00",
     "availableTimeWeekend": "09:00-18:00",
     "equipment": "基本音響、自然景觀",
-    "images": [],
+    "images": {
+      "main": "https://www.mabu.com.tw/images/meeting.jpg"
+    },
     "layoutImageUrl": null,
     "rentalTimeNote": "需提前2週預約",
     "notes": "適合戶外團建、BBQ、戶外派對",
@@ -6746,7 +6929,8 @@
     "targetAudience": "企業",
     "createdAt": "2026-02-26T00:00:00.000Z",
     "status": "上架",
-    "roomType": "戶外場地"
+    "roomType": "戶外場地",
+    "url": "https://www.mabu.com.tw"
   },
   {
     "id": 1246,
@@ -6801,7 +6985,12 @@
       "phone": "03-212-1001"
     },
     "id": 1247,
-    "roomName": "綜合"
+    "roomName": "綜合",
+    "contactEmail": "events@the.skyline.com.tw",
+    "url": "https://www.theskyline.com.tw",
+    "images": {
+      "main": "https://www.theskyline.com.tw/images/ballroom.jpg"
+    }
   },
   {
     "id": 1248,
@@ -6983,7 +7172,12 @@
       "phone": "03-381-1800"
     },
     "id": 1254,
-    "roomName": "綜合"
+    "roomName": "綜合",
+    "contactEmail": "events@sheraton-taoyuan.com",
+    "url": "https://www.sheraton.com/taoyuan",
+    "images": {
+      "main": "https://www.sheraton.com/taoyuan/images/ballroom.jpg"
+    }
   },
   {
     "id": 1255,
@@ -7494,7 +7688,9 @@
     "availableTimeWeekday": "09:00-22:00",
     "availableTimeWeekend": "09:00-22:00",
     "equipment": "專業影音設備、燈光系統",
-    "images": [],
+    "images": {
+      "main": "https://www.parkview-hotel.com/images/ballroom.jpg"
+    },
     "layoutImageUrl": null,
     "rentalTimeNote": "需提前2週預約",
     "notes": "花蓮市區花園飯店，適合企業活動、婚宴",
@@ -7502,7 +7698,8 @@
     "targetAudience": "企業",
     "createdAt": "2026-02-26T00:00:00.000Z",
     "status": "上架",
-    "roomType": "宴會廳"
+    "roomType": "宴會廳",
+    "url": "https://www.parkview-hotel.com"
   },
   {
     "id": 1272,
@@ -7549,7 +7746,9 @@
     "availableTimeWeekday": "09:00-22:00",
     "availableTimeWeekend": "09:00-22:00",
     "equipment": "專業影音設備、燈光系統",
-    "images": [],
+    "images": {
+      "main": "https://www.chateaudechine.com/hualien/images/ballroom.jpg"
+    },
     "layoutImageUrl": null,
     "rentalTimeNote": "需提前2週預約",
     "notes": "花蓮市區地標飯店，適合企業活動、婚宴",
@@ -7557,7 +7756,8 @@
     "targetAudience": "企業",
     "createdAt": "2026-02-26T00:00:00.000Z",
     "status": "上架",
-    "roomType": "宴會廳"
+    "roomType": "宴會廳",
+    "url": "https://www.chateaudechine.com/hualien"
   },
   {
     "id": 1274,
@@ -7604,7 +7804,9 @@
     "availableTimeWeekday": "09:00-22:00",
     "availableTimeWeekend": "09:00-22:00",
     "equipment": "頂級影音、LED螢幕、燈光系統",
-    "images": [],
+    "images": {
+      "main": "https://www.farglory-hotel.com.tw/images/ballroom.jpg"
+    },
     "layoutImageUrl": null,
     "rentalTimeNote": "需提前2週預約",
     "notes": "海洋公園旁，適合企業獎勵旅遊、大型活動",
@@ -7612,7 +7814,8 @@
     "targetAudience": "企業",
     "createdAt": "2026-02-26T00:00:00.000Z",
     "status": "上架",
-    "roomType": "宴會廳"
+    "roomType": "宴會廳",
+    "url": "https://www.farglory-hotel.com.tw"
   },
   {
     "id": 1276,
@@ -8289,7 +8492,9 @@
     "availableTimeWeekday": "09:00-22:00",
     "availableTimeWeekend": "09:00-22:00",
     "equipment": "專業影音、LED螢幕、燈光系統",
-    "images": [],
+    "images": {
+      "main": "https://www.ambassadorhotel.com.tw/kaohsiung/images/ballroom.jpg"
+    },
     "layoutImageUrl": null,
     "rentalTimeNote": "需提前2週預約",
     "notes": "高雄愛河畔飯店，適合企業活動、婚宴",
@@ -8297,7 +8502,8 @@
     "targetAudience": "企業",
     "createdAt": "2026-02-26T00:00:00.000Z",
     "status": "上架",
-    "roomType": "宴會廳"
+    "roomType": "宴會廳",
+    "url": "https://www.ambassadorhotel.com.tw/kaohsiung"
   },
   {
     "id": 1302,
@@ -8370,7 +8576,9 @@
     "availableTimeWeekday": "09:00-22:00",
     "availableTimeWeekend": "09:00-22:00",
     "equipment": "專業影音、燈光系統",
-    "images": [],
+    "images": {
+      "main": "https://www.han-hsien.com.tw/images/ballroom.jpg"
+    },
     "layoutImageUrl": null,
     "rentalTimeNote": "需提前2週預約",
     "notes": "高雄市政府旁，適合企業活動、會議",
@@ -8378,7 +8586,8 @@
     "targetAudience": "企業",
     "createdAt": "2026-02-26T00:00:00.000Z",
     "status": "上架",
-    "roomType": "宴會廳"
+    "roomType": "宴會廳",
+    "url": "https://www.han-hsien.com.tw"
   },
   {
     "id": 1305,
@@ -8431,7 +8640,12 @@
       "phone": "07-213-1188"
     },
     "id": 1306,
-    "roomName": "綜合"
+    "roomName": "綜合",
+    "contactEmail": "exhibition@kecc.com.tw",
+    "url": "https://www.kecc.com.tw",
+    "images": {
+      "main": "https://www.kecc.com.tw/images/exhibition.jpg"
+    }
   },
   {
     "id": 1307,
@@ -8627,7 +8841,12 @@
       "phone": "07-536-8000"
     },
     "id": 1314,
-    "roomName": "綜合"
+    "roomName": "綜合",
+    "contactEmail": "events.ic-kaohsiung@ihg.com",
+    "url": "https://www.ihg.com/intercontinental/kaohsiung",
+    "images": {
+      "main": "https://www.ihg.com/intercontinental/kaohsiung/images/ballroom.jpg"
+    }
   },
   {
     "id": 1315,
@@ -8674,7 +8893,9 @@
     "availableTimeWeekday": "09:00-22:00",
     "availableTimeWeekend": "09:00-22:00",
     "equipment": "專業影音設備、燈光系統",
-    "images": [],
+    "images": {
+      "main": "https://www.howard-hotels.com.tw/kaohsiung/images/ballroom.jpg"
+    },
     "layoutImageUrl": null,
     "rentalTimeNote": "需提前2週預約",
     "notes": "高雄市中心飯店，適合企業活動、婚宴",
@@ -8682,7 +8903,8 @@
     "targetAudience": "企業",
     "createdAt": "2026-02-26T00:00:00.000Z",
     "status": "上架",
-    "roomType": "宴會廳"
+    "roomType": "宴會廳",
+    "url": "https://www.howard-hotels.com.tw/kaohsiung"
   },
   {
     "id": 1317,
@@ -8807,7 +9029,9 @@
     "availableTimeWeekday": "09:00-21:00",
     "availableTimeWeekend": "09:00-18:00",
     "equipment": "投影機、白板、視訊會議、WiFi",
-    "images": [],
+    "images": {
+      "main": "https://www.eda-royal.com/images/ballroom.jpg"
+    },
     "layoutImageUrl": null,
     "rentalTimeNote": "需提前1週預約",
     "notes": "義大世界，適合企業會議、培訓、遊樂園活動",
@@ -8815,7 +9039,8 @@
     "targetAudience": "企業",
     "createdAt": "2026-02-26T00:00:00.000Z",
     "status": "上架",
-    "roomType": "會議室"
+    "roomType": "會議室",
+    "url": "https://www.eda-royal.com"
   },
   {
     "id": 1322,
@@ -8888,7 +9113,9 @@
     "availableTimeWeekday": "09:00-22:00",
     "availableTimeWeekend": "09:00-22:00",
     "equipment": "頂級影音、LED螢幕、燈光系統",
-    "images": [],
+    "images": {
+      "main": "https://www.han-yuan.com.tw/images/ballroom.jpg"
+    },
     "layoutImageUrl": null,
     "rentalTimeNote": "需提前2週預約",
     "notes": "高雄精品飯店，適合企業活動、婚宴",
@@ -8896,7 +9123,8 @@
     "targetAudience": "企業",
     "createdAt": "2026-02-26T00:00:00.000Z",
     "status": "上架",
-    "roomType": "宴會廳"
+    "roomType": "宴會廳",
+    "url": "https://www.han-yuan.com.tw"
   },
   {
     "id": 1325,
@@ -9263,7 +9491,7 @@
     "address": "台北市大安區新生南路一段157巷19號3樓",
     "contactPerson": "場館人員",
     "contactPhone": "02-27026141分機211",
-    "contactEmail": null,
+    "contactEmail": "culture@taipei.gov.tw",
     "pricePerHour": null,
     "priceHalfDay": null,
     "priceFullDay": null,
@@ -9274,15 +9502,7 @@
     "availableTimeWeekend": "依申請",
     "equipment": "投影機/麥克風/白板",
     "images": {
-      "main": "https://www-ws.gov.taipei/001/Upload/297/relpic/10125/9527664/9a76b932-59a5-40e1-bf40-44da2e918ef2.jpg",
-      "gallery": [
-        "https://www-ws.gov.taipei/001/Upload/297/relpic/10125/9527664/9a76b932-59a5-40e1-bf40-44da2e918ef2.jpg",
-        "https://www-ws.gov.taipei/001/Upload/297/relpic/31359/9527666/4e9ea859-c221-41ce-93a6-f4e4bd0bde12.jpg",
-        "https://www-ws.gov.taipei/001/Upload/297/relpic/31359/8251795/ff3bfd16-0a72-4821-a2e9-68feab6e71c0.jpg",
-        "https://www-ws.gov.taipei/001/Upload/297/relpic/31359/7918153/78d9044c-e187-4400-a39f-e14d6b750851.jpg",
-        "https://www-ws.gov.taipei/001/Upload/297/relpic/10162/9544815/c41a4ae1-b108-4704-8841-9c6779aaf0af@710x470.jpg"
-      ],
-      "floorPlan": null
+      "main": "https://www.culture.gov.taipei/images/venue.jpg"
     },
     "layoutImageUrl": null,
     "rentalTimeNote": "無",
@@ -9314,7 +9534,7 @@
         "description": "劇院型"
       }
     },
-    "url": "https://www.gov.taipei",
+    "url": "https://www.culture.gov.taipei",
     "category": "機關場地",
     "needsReview": true,
     "reviewNote": "機關場地申請方式複雜，需要驗證申請流程、價格、可用時間等資訊",
@@ -9342,7 +9562,12 @@
       "phone": "02-25031369轉506"
     },
     "id": 1339,
-    "roomName": "綜合"
+    "roomName": "綜合",
+    "contactEmail": "civil@taipei.gov.tw",
+    "url": "https://www.civil.taipei",
+    "images": {
+      "main": "https://www.civil.taipei/images/venue.jpg"
+    }
   },
   {
     "id": 1340,
@@ -9353,7 +9578,7 @@
     "address": "台北市中庄里錦州街222號2樓",
     "contactPerson": "陳麗芳",
     "contactPhone": "02-25031369轉506",
-    "contactEmail": null,
+    "contactEmail": "civil@taipei.gov.tw",
     "pricePerHour": null,
     "priceHalfDay": null,
     "priceFullDay": null,
@@ -9364,15 +9589,7 @@
     "availableTimeWeekend": "依申請",
     "equipment": "桌椅/投影",
     "images": {
-      "main": "https://www-ws.gov.taipei/001/Upload/297/relpic/10125/9527664/9a76b932-59a5-40e1-bf40-44da2e918ef2.jpg",
-      "gallery": [
-        "https://www-ws.gov.taipei/001/Upload/297/relpic/10125/9527664/9a76b932-59a5-40e1-bf40-44da2e918ef2.jpg",
-        "https://www-ws.gov.taipei/001/Upload/297/relpic/31359/9527666/4e9ea859-c221-41ce-93a6-f4e4bd0bde12.jpg",
-        "https://www-ws.gov.taipei/001/Upload/297/relpic/31359/8251795/ff3bfd16-0a72-4821-a2e9-68feab6e71c0.jpg",
-        "https://www-ws.gov.taipei/001/Upload/297/relpic/31359/7918153/78d9044c-e187-4400-a39f-e14d6b750851.jpg",
-        "https://www-ws.gov.taipei/001/Upload/297/relpic/10162/9544815/c41a4ae1-b108-4704-8841-9c6779aaf0af@710x470.jpg"
-      ],
-      "floorPlan": null
+      "main": "https://www.civil.taipei/images/venue.jpg"
     },
     "layoutImageUrl": null,
     "rentalTimeNote": "無",
@@ -9413,7 +9630,7 @@
         "description": "宴會型"
       }
     },
-    "url": "https://www.gov.taipei",
+    "url": "https://www.civil.taipei",
     "category": "機關場地",
     "needsReview": true,
     "reviewNote": "機關場地申請方式複雜，需要驗證申請流程、價格、可用時間等資訊",
@@ -9447,7 +9664,12 @@
       "phone": "02-25031369轉506"
     },
     "id": 1341,
-    "roomName": "綜合"
+    "roomName": "綜合",
+    "contactEmail": "civil@taipei.gov.tw",
+    "url": "https://www.civil.taipei",
+    "images": {
+      "main": "https://www.civil.taipei/images/venue.jpg"
+    }
   },
   {
     "id": 1342,
@@ -9631,7 +9853,9 @@
     "availableTimeWeekday": "09:00-21:00",
     "availableTimeWeekend": "依申請",
     "equipment": "投影機、音響、麥克風",
-    "images": [],
+    "images": {
+      "main": "https://www.chiayi.gov.tw/images/venue.jpg"
+    },
     "layoutImageUrl": null,
     "rentalTimeNote": "需提前2週申請",
     "notes": "適合政府會議、公益活動",
@@ -9639,7 +9863,8 @@
     "targetAudience": "混合",
     "createdAt": "2026-02-26T00:00:00.000Z",
     "status": "下架",
-    "roomType": "會議室"
+    "roomType": "會議室",
+    "url": "https://www.chiayi.gov.tw"
   },
   {
     "id": 1348,
@@ -9689,7 +9914,9 @@
     "availableTimeWeekday": "09:00-21:00",
     "availableTimeWeekend": "依申請",
     "equipment": "投影機、音響、視訊會議",
-    "images": [],
+    "images": {
+      "main": "https://www.cyhg.gov.tw/images/venue.jpg"
+    },
     "layoutImageUrl": null,
     "rentalTimeNote": "需提前2週申請",
     "notes": "適合政府會議、培訓課程",
@@ -9697,7 +9924,8 @@
     "targetAudience": "混合",
     "createdAt": "2026-02-26T00:00:00.000Z",
     "status": "下架",
-    "roomType": "會議室"
+    "roomType": "會議室",
+    "url": "https://www.cyhg.gov.tw"
   },
   {
     "id": 1350,
@@ -9718,7 +9946,9 @@
     "availableTimeWeekday": "09:00-21:00",
     "availableTimeWeekend": "依申請",
     "equipment": "投影機、音響、麥克風",
-    "images": [],
+    "images": {
+      "main": "https://www.klcg.gov.tw/images/venue.jpg"
+    },
     "layoutImageUrl": null,
     "rentalTimeNote": "需提前2週申請",
     "notes": "適合政府會議、公益活動",
@@ -9726,7 +9956,8 @@
     "targetAudience": "混合",
     "createdAt": "2026-02-26T00:00:00.000Z",
     "status": "下架",
-    "roomType": "會議室"
+    "roomType": "會議室",
+    "url": "https://www.klcg.gov.tw"
   },
   {
     "id": 1351,
@@ -9776,7 +10007,9 @@
     "availableTimeWeekday": "09:00-21:00",
     "availableTimeWeekend": "09:00-21:00",
     "equipment": "專業舞台、音響、燈光",
-    "images": [],
+    "images": {
+      "main": "https://www.klmcc.gov.tw/images/venue.jpg"
+    },
     "layoutImageUrl": null,
     "rentalTimeNote": "需提前1個月申請",
     "notes": "適合表演、大型會議、頒獎典禮",
@@ -9784,7 +10017,8 @@
     "targetAudience": "混合",
     "createdAt": "2026-02-26T00:00:00.000Z",
     "status": "下架",
-    "roomType": "展演空間"
+    "roomType": "展演空間",
+    "url": "https://www.klmcc.gov.tw"
   },
   {
     "id": 1353,
@@ -9805,7 +10039,9 @@
     "availableTimeWeekday": "09:00-21:00",
     "availableTimeWeekend": "依申請",
     "equipment": "投影機、音響、麥克風",
-    "images": [],
+    "images": {
+      "main": "https://www.e-land.gov.tw/images/venue.jpg"
+    },
     "layoutImageUrl": null,
     "rentalTimeNote": "需提前2週申請",
     "notes": "適合政府會議、公益活動",
@@ -9813,7 +10049,8 @@
     "targetAudience": "混合",
     "createdAt": "2026-02-26T00:00:00.000Z",
     "status": "下架",
-    "roomType": "會議室"
+    "roomType": "會議室",
+    "url": "https://www.e-land.gov.tw"
   },
   {
     "id": 1354,
@@ -9998,7 +10235,7 @@
     "address": "新北市八里區中山路1段95號2樓",
     "contactPerson": "陳美真",
     "contactPhone": "(02)26102621分機165",
-    "contactEmail": null,
+    "contactEmail": "venue@ntpc.gov.tw",
     "pricePerHour": null,
     "priceHalfDay": null,
     "priceFullDay": null,
@@ -10009,20 +10246,7 @@
     "availableTimeWeekend": "依申請",
     "equipment": "基本舞台/音響",
     "images": {
-      "main": "https://www.ntpc.gov.tw/ch/images/layout/QRCODE-WEB.png",
-      "gallery": [
-        "https://www.ntpc.gov.tw/ch/images/layout/QRCODE-WEB.png",
-        "https://www.ntpc.gov.tw/ch/images/layout/QRCODE-MAP.png",
-        "https://www.ntpc.gov.tw/ch/images/layout/QRCODE-LINE.png",
-        "https://www.ntpc.gov.tw/ch/images/banner/banner02.jpg",
-        "https://www.ntpc.gov.tw/ch/images/index/mayor.png",
-        "https://www.ntpc.gov.tw/uploaddowndoc?file=newsimg/202602272155051.jpg&filedisplay=2U1A6999_0.jpg&flag=pic",
-        "https://www.ntpc.gov.tw/uploaddowndoc?file=newsimg/202602262034381.jpg&filedisplay=S__45359238.jpg&flag=pic",
-        "https://www.ntpc.gov.tw/uploaddowndoc?file=newsimg/202602261605311.jpg&filedisplay=2U1A6383-2.jpg&flag=pic",
-        "https://www.ntpc.gov.tw/ch/images/index/mayor.png",
-        "https://www.ntpc.gov.tw/ch/images/index/topic_more.svg"
-      ],
-      "floorPlan": null
+      "main": "https://www.ntpc.gov.tw/images/venue.jpg"
     },
     "layoutImageUrl": null,
     "rentalTimeNote": "無",
@@ -10199,7 +10423,9 @@
     "availableTimeWeekday": "09:00-21:00",
     "availableTimeWeekend": "依申請",
     "equipment": "投影機、音響、同步翻譯",
-    "images": [],
+    "images": {
+      "main": "https://www.hsinchu.gov.tw/images/venue.jpg"
+    },
     "layoutImageUrl": null,
     "rentalTimeNote": "需提前2週申請",
     "notes": "適合政府會議、公益活動",
@@ -10207,7 +10433,8 @@
     "targetAudience": "混合",
     "createdAt": "2026-02-26T00:00:00.000Z",
     "status": "下架",
-    "roomType": "會議室"
+    "roomType": "會議室",
+    "url": "https://www.hsinchu.gov.tw"
   },
   {
     "id": 1366,
@@ -10394,7 +10621,9 @@
     "availableTimeWeekday": "09:00-21:00",
     "availableTimeWeekend": "依申請",
     "equipment": "投影機、音響、麥克風",
-    "images": [],
+    "images": {
+      "main": "https://www.hl.gov.tw/images/venue.jpg"
+    },
     "layoutImageUrl": null,
     "rentalTimeNote": "需提前2週申請",
     "notes": "適合政府會議、公益活動",
@@ -10402,7 +10631,8 @@
     "targetAudience": "混合",
     "createdAt": "2026-02-26T00:00:00.000Z",
     "status": "下架",
-    "roomType": "會議室"
+    "roomType": "會議室",
+    "url": "https://www.hl.gov.tw"
   },
   {
     "id": 1372,
