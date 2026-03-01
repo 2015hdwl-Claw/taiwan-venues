@@ -1,0 +1,11 @@
+services:
+  - type: web
+    name: taiwan-venues-api
+    env: python
+    buildCommand: pip install -r requirements.txt
+    startCommand: python admin-server.py
+    plan: free
+    healthCheckPath: /api/stats
+    envVars:
+      - key: PYTHON_VERSION
+        value: 3.11

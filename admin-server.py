@@ -3,6 +3,8 @@
 場地資料庫後台管理伺服器
 啟動方式: python3 admin-server.py
 預設網址: http://localhost:8080
+
+部署到 Render: 自動使用 PORT 環境變數
 """
 
 import http.server
@@ -10,13 +12,25 @@ import json
 import os
 from urllib.parse import parse_qs, urlparse
 
-PORT = 8080
+PORT = int(os.environ.get('PORT', 8080))
 DATA_DIR = os.path.dirname(os.path.abspath(__file__))
 MAIN_DB = os.path.join(DATA_DIR, 'venues-all-cities.json')
 
 class VenueAdminHandler(http.server.SimpleHTTPRequestHandler):
     def __init__(self, *args, **kwargs):
         super().__init__(*args, directory=DATA_DIR, **kwargs)
+    
+    def end_headers(self):
+        # 添加 CORS headers
+        self.send_header('Access-Control-Allow-Origin', '*')
+        self.send_header('Access-Control-Allow-Methods', 'GET, POST, OPTIONS')
+        self.send_header('Access-Control-Allow-Headers', 'Content-Type')
+        super().end_headers()
+    
+    def do_OPTIONS(self):
+        # 處理 preflight 請求
+        self.send_response(200)
+        self.end_headers()
     
     def do_GET(self):
         parsed = urlparse(self.path)
@@ -166,7 +180,6 @@ class VenueAdminHandler(http.server.SimpleHTTPRequestHandler):
     def send_json(self, data, code=200):
         self.send_response(code)
         self.send_header('Content-Type', 'application/json; charset=utf-8')
-        self.send_header('Access-Control-Allow-Origin', '*')
         self.end_headers()
         self.wfile.write(json.dumps(data, ensure_ascii=False).encode('utf-8'))
     

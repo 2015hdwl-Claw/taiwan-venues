@@ -371,6 +371,11 @@
     </div>
 
     <script>
+        // API 端點 - 根據部署環境自動選擇
+        const API_BASE = window.location.hostname.includes('github.io') 
+            ? 'https://taiwan-venues-api.onrender.com'  // Render 部署的後端
+            : '';  // 本地開發
+        
         let venues = [];
         let stats = {};
         let currentCity = '';
@@ -394,7 +399,7 @@
         
         async function loadStats() {
             try {
-                const res = await fetch('/api/stats');
+                const res = await fetch(`${API_BASE}/api/stats`);
                 stats = await res.json();
                 
                 document.getElementById('totalCount').textContent = stats.total;
@@ -444,7 +449,7 @@
             const search = document.getElementById('tableSearch').value;
             let status = currentStatus;
             
-            let url = `/api/venues?city=${encodeURIComponent(currentCity)}&type=${encodeURIComponent(currentType)}&status=${encodeURIComponent(status)}`;
+            let url = `${API_BASE}/api/venues?city=${encodeURIComponent(currentCity)}&type=${encodeURIComponent(currentType)}&status=${encodeURIComponent(status)}`;
             if (search) url += `&search=${encodeURIComponent(search)}`;
             
             try {
@@ -683,7 +688,7 @@
                     data.id = Date.now();
                 }
                 
-                const res = await fetch('/api/venue/update', {
+                const res = await fetch(`${API_BASE}/api/venue/update`, {
                     method: 'POST',
                     headers: { 'Content-Type': 'application/json' },
                     body: JSON.stringify(data)
@@ -710,7 +715,7 @@
             if (!id) return;
             
             try {
-                const res = await fetch('/api/venue/update', {
+                const res = await fetch(`${API_BASE}/api/venue/update`, {
                     method: 'POST',
                     headers: { 'Content-Type': 'application/json' },
                     body: JSON.stringify({ id: parseInt(id), status: newStatus })
@@ -737,7 +742,7 @@
             if (!confirm('確定要刪除此場地嗎？此操作無法復原。')) return;
             
             try {
-                const res = await fetch('/api/venue/delete', {
+                const res = await fetch(`${API_BASE}/api/venue/delete`, {
                     method: 'POST',
                     headers: { 'Content-Type': 'application/json' },
                     body: JSON.stringify({ id: parseInt(id) })
@@ -757,7 +762,7 @@
         }
         
         function exportData() {
-            window.open('/api/venues?status=', '_blank');
+            window.open(`${API_BASE}/api/venues?status=`, '_blank');
         }
         
         function showToast(message, type = '') {
