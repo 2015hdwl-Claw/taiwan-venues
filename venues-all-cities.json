@@ -977,8 +977,9 @@
     "url": "https://www.camacoffee.com",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "上架",
-    "roomType": "咖啡廳包場"
+    "status": "待確認",
+    "roomType": "咖啡廳包場",
+    "notes": " [官網無法連線，待確認]"
   },
   {
     "id": 1032,
@@ -999,10 +1000,13 @@
     "availableTimeWeekend": "休館",
     "equipment": "投影機、白板、WiFi",
     "images": {
-      "main": "",
-      "gallery": [],
-      "source": "https://clbc.tw/",
-      "note": "官網無會議室照片，需手動補充"
+      "main": "https://clbc.tw/wp-content/uploads/2019/02/daanmain-001-1.jpg",
+      "gallery": [
+        "https://clbc.tw/wp-content/uploads/2019/02/daanmain-001-1.jpg",
+        "https://clbc.tw/wp-content/uploads/2019/05/PZF03955.jpg",
+        "https://clbc.tw/wp-content/uploads/2018/12/%E8%82%A5%E7%9A%82%E7%AE%B1B-20.jpg"
+      ],
+      "source": "https://clbc.tw/"
     },
     "url": "https://clbc.tw/",
     "verified": true,
@@ -1039,8 +1043,9 @@
     "url": "https://www.goodmanscafe.com",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "上架",
-    "roomType": "咖啡廳包場"
+    "status": "待確認",
+    "roomType": "咖啡廳包場",
+    "notes": " [官網無法連線，待確認]"
   },
   {
     "id": 1034,
@@ -1062,12 +1067,15 @@
     "availableTimeWeekend": "09:00-22:00",
     "equipment": "專業音響、投影設備、燈光",
     "images": {
-      "main": "",
-      "gallery": [],
-      "floorPlan": "",
-      "needsUpdate": true,
-      "note": "待補充真實照片網址",
-      "lastUpdated": "2026-03-01"
+      "main": "https://static.wixstatic.com/media/bd4101_b060d5db47da4905a037701ac0251b0e~mv2.png/v1/fill/w_1280,h_99,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/bd4101_b060d5db47da4905a037701ac0251b0e~mv2.png",
+      "gallery": [
+        "https://static.wixstatic.com/media/bd4101_b060d5db47da4905a037701ac0251b0e~mv2.png/v1/fill/w_1280,h_99,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/bd4101_b060d5db47da4905a037701ac0251b0e~mv2.png",
+        "https://static.wixstatic.com/media/b8e171_567eaa1bf25a4baf9e3deda73fcda17e~mv2.jpg/v1/fill/w_230,h_342,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/DSC_0059.jpg",
+        "https://static.wixstatic.com/media/4a5f41_7376f72f26af44af91feec132c9f4bcb~mv2.png/v1/fill/w_824,h_426,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/%E5%9C%96%E7%89%87%201.png",
+        "https://static.wixstatic.com/media/4a5f41_54687a49caa44d8eab51b0843cf01207~mv2.jpg/v1/crop/x_0,y_0,w_1550,h_601/fill/w_866,h_338,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/%E6%88%AA%E5%9C%96%202025-09-02%20%E4%B8%8B%E5%8D%884_edited.jpg",
+        "https://static.wixstatic.com/media/bd4101_7aebd358e20f447b859e8c1d64e3103d~mv2.png/v1/fill/w_278,h_52,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/111.png"
+      ],
+      "source": "https://www.nuzone.com.tw"
     },
     "url": "https://www.nuzone.com.tw",
     "transportation": {
@@ -1115,12 +1123,15 @@
     "availableTimeWeekend": "休館",
     "equipment": "投影機、白板、WiFi",
     "images": {
-      "main": "",
-      "gallery": [],
-      "floorPlan": "",
-      "needsUpdate": true,
-      "note": "待補充真實照片網址",
-      "lastUpdated": "2026-03-01"
+      "main": "https://assets.iwgplc.com/image/upload/c_fill,f_auto,q_auto,w_344,h_258//v1756988667/WebsiteImagery/Gallery/FAI_1.jpg",
+      "gallery": [
+        "https://assets.iwgplc.com/image/upload/c_fill,f_auto,q_auto,w_344,h_258//v1756988667/WebsiteImagery/Gallery/FAI_1.jpg",
+        "https://assets.iwgplc.com/image/upload/c_fill,f_auto,q_auto,w_344,h_258//v1756386142/WebsiteImagery/Gallery/TR_1.jpg",
+        "https://assets.iwgplc.com/image/upload/c_fill,f_auto,q_auto,w_344,h_258//v1756989320/WebsiteImagery/Gallery/SAMB_1.jpg",
+        "https://assets.iwgplc.com/image/upload/c_fill,f_auto,q_auto,w_344,h_258//v1756989291/WebsiteImagery/Gallery/NB_1.jpg",
+        "https://assets.iwgplc.com/image/upload/c_fill,f_auto,q_auto,w_344,h_258//v1756989289/WebsiteImagery/Gallery/IB_1.jpg"
+      ],
+      "source": "https://www.regus.com"
     },
     "url": "https://www.regus.com",
     "verified": true,
@@ -1147,12 +1158,15 @@
     "availableTimeWeekend": "10:00-22:00",
     "equipment": "投影機、音響",
     "images": {
-      "main": "",
-      "gallery": [],
-      "floorPlan": "",
-      "needsUpdate": true,
-      "note": "待補充真實照片網址",
-      "lastUpdated": "2026-03-01"
+      "main": "https://simplekaffa.thothcdn.com/images/property_images/banner/6db5ce15de306aed207117be4199ee267ec3798a.png",
+      "gallery": [
+        "https://simplekaffa.thothcdn.com/images/property_images/banner/6db5ce15de306aed207117be4199ee267ec3798a.png",
+        "https://simplekaffa.thothcdn.com/images/property_images/banner/9255319beacb1fb8086cdad1d5dad38d577e5aad.",
+        "https://simplekaffa.thothcdn.com/images/property_images/banner/3ea616280c3d9f9c23ad281ab87863b3b4ee3193.png",
+        "https://simplekaffa.thothcdn.com/images/property_images/banner/8a206405b91a50558715e1490a51faa73d7e9f7d.png",
+        "https://simplekaffa.thothcdn.com/images/property_images/banner/235e80418f6c3578783fd72603885204e76000b7.png"
+      ],
+      "source": "https://www.simplekaffa.com"
     },
     "url": "https://www.simplekaffa.com",
     "verified": true,
@@ -1207,11 +1221,11 @@
       "width": 4,
       "height": 3
     },
-    "notes": "專業訓練場地，適合企業培訓、會議",
+    "notes": "專業訓練場地，適合企業培訓、會議 [官網無法連線，待確認]",
     "source": "官方網站",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "上架",
+    "status": "待確認",
     "roomType": "會議室"
   },
   {
@@ -1233,12 +1247,15 @@
     "availableTimeWeekend": "休館",
     "equipment": "投影機、白板、WiFi",
     "images": {
-      "main": "",
-      "gallery": [],
-      "floorPlan": "",
-      "needsUpdate": true,
-      "note": "待補充真實照片網址",
-      "lastUpdated": "2026-03-01"
+      "main": "https://www.executivecentre.com/_next/image/?url=https%3A%2F%2Fassets.executivecentre.com%2Fassets%2FTEC-HeroBanner-HKG-28S-Coworking-MemberLounge.jpg&w=3840&q=75",
+      "gallery": [
+        "https://www.executivecentre.com/_next/image/?url=https%3A%2F%2Fassets.executivecentre.com%2Fassets%2FTEC-HeroBanner-HKG-28S-Coworking-MemberLounge.jpg&w=3840&q=75",
+        "https://www.executivecentre.com/_next/image/?url=https%3A%2F%2Fassets.executivecentre.com%2Fassets%2FTEC-HeroBanner-HKG-28S-Coworking-MemberLounge.jpg&w=3840&q=75",
+        "https://www.executivecentre.com/_next/image/?url=https%3A%2F%2Fassets.executivecentre.com%2Fassets%2FTEC-HeroBanner-SEL-HAN-Coworking-Lounge.jpg&w=3840&q=75",
+        "https://www.executivecentre.com/_next/image/?url=https%3A%2F%2Fassets.executivecentre.com%2Fassets%2FTEC-HeroBanner-TYO-JPT-Coworking-Lounge.jpg&w=3840&q=75",
+        "https://www.executivecentre.com/_next/image/?url=https%3A%2F%2Fassets.executivecentre.com%2Fassets%2FTEC-HeroBanner-SGN-NEX-Coworking-Lounge.jpg&w=3840&q=75"
+      ],
+      "source": "https://www.executivecentre.com"
     },
     "url": "https://www.executivecentre.com",
     "verified": true,
@@ -1385,8 +1402,9 @@
     "url": "https://www.ncsi.gov.tw",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "上架",
-    "roomType": "會議中心"
+    "status": "待確認",
+    "roomType": "會議中心",
+    "notes": " [官網無法連線，待確認]"
   },
   {
     "id": 1043,
@@ -1448,8 +1466,9 @@
     "url": "https://www.artco.com.tw",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "上架",
-    "roomType": "咖啡廳包場"
+    "status": "待確認",
+    "roomType": "咖啡廳包場",
+    "notes": " [官網無法連線，待確認]"
   },
   {
     "id": 1045,
@@ -1503,12 +1522,12 @@
     "availableTimeWeekend": "09:00-18:00",
     "equipment": "專業展覽設備",
     "images": {
-      "main": "",
-      "gallery": [],
-      "floorPlan": "",
-      "needsUpdate": true,
-      "note": "待補充真實照片網址",
-      "lastUpdated": "2026-03-01"
+      "main": "https://www.tainex.com.tw/images/bee.svg",
+      "gallery": [
+        "https://www.tainex.com.tw/images/bee.svg",
+        "https://www.tainex.com.tw/images/%E5%8C%97%E9%96%80%E6%AC%BELogo.svg"
+      ],
+      "source": "https://www.tainex.com.tw/"
     },
     "url": "https://www.tainex.com.tw/",
     "verified": true,
@@ -1598,12 +1617,15 @@
     "availableTimeWeekend": "09:00-18:00",
     "equipment": "專業展覽設備",
     "images": {
-      "main": "",
-      "gallery": [],
-      "floorPlan": "",
-      "needsUpdate": true,
-      "note": "待補充真實照片網址",
-      "lastUpdated": "2026-03-01"
+      "main": "https://www.twtc.com.tw/images/banner/b20211105154308.jpg",
+      "gallery": [
+        "https://www.twtc.com.tw/images/banner/b20211105154308.jpg",
+        "https://www.twtc.com.tw/images/banner/b20211105154344.jpg",
+        "https://www.twtc.com.tw/images/banner/b20231030091848.jpg",
+        "https://www.twtc.com.tw/images/banner/b20211105154035.jpg",
+        "https://www.twtc.com.tw/images/banner/b20211105154103.jpg"
+      ],
+      "source": "https://www.twtc.com.tw/"
     },
     "url": "https://www.twtc.com.tw/",
     "verified": true,
@@ -14489,10 +14511,13 @@
     "availableTimeWeekend": "休館",
     "equipment": "投影機、白板、WiFi",
     "images": {
-      "main": "",
-      "gallery": [],
-      "source": "https://clbc.tw/",
-      "note": "官網無會議室照片，需手動補充"
+      "main": "https://clbc.tw/wp-content/uploads/2019/02/daanmain-001-1.jpg",
+      "gallery": [
+        "https://clbc.tw/wp-content/uploads/2019/02/daanmain-001-1.jpg",
+        "https://clbc.tw/wp-content/uploads/2019/05/PZF03955.jpg",
+        "https://clbc.tw/wp-content/uploads/2018/12/%E8%82%A5%E7%9A%82%E7%AE%B1B-20.jpg"
+      ],
+      "source": "https://clbc.tw/"
     },
     "url": "https://clbc.tw/",
     "verified": true,
@@ -14519,10 +14544,13 @@
     "availableTimeWeekend": "休館",
     "equipment": "投影機、白板、WiFi",
     "images": {
-      "main": "",
-      "gallery": [],
-      "source": "https://clbc.tw/",
-      "note": "官網無會議室照片，需手動補充"
+      "main": "https://clbc.tw/wp-content/uploads/2019/02/daanmain-001-1.jpg",
+      "gallery": [
+        "https://clbc.tw/wp-content/uploads/2019/02/daanmain-001-1.jpg",
+        "https://clbc.tw/wp-content/uploads/2019/05/PZF03955.jpg",
+        "https://clbc.tw/wp-content/uploads/2018/12/%E8%82%A5%E7%9A%82%E7%AE%B1B-20.jpg"
+      ],
+      "source": "https://clbc.tw/"
     },
     "url": "https://clbc.tw/",
     "verified": true,

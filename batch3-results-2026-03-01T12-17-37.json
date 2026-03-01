@@ -1,0 +1,32 @@
+[
+  {
+    "name": "台北亞都麗緻大飯店",
+    "url": "https://www.landistpe.com",
+    "error": "Command failed: agent-browser open \"https://www.landistpe.com\" --timeout 20000 2>&1",
+    "status": "failed"
+  },
+  {
+    "name": "台北喜來登大飯店",
+    "url": "https://www.sheraton-taipei.com",
+    "photos": [],
+    "status": "success"
+  },
+  {
+    "name": "台北君悅酒店",
+    "url": "https://www.grandhyatttaipei.com",
+    "photos": [],
+    "status": "success"
+  },
+  {
+    "name": "台北W飯店",
+    "url": "https://www.marriott.com/hotels/travel/tpegi-w-taipei",
+    "photos": [],
+    "status": "success"
+  },
+  {
+    "name": "台北國賓大飯店",
+    "url": "https://www.ambassadorhotel.com.tw",
+    "error": "spawnSync /bin/sh ETIMEDOUT",
+    "status": "failed"
+  }
+]

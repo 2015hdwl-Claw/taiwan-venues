@@ -1,0 +1,90 @@
+[
+  {
+    "name": "CAMA咖啡",
+    "url": "https://www.camacoffee.com",
+    "error": "Command failed: agent-browser open \"https://www.camacoffee.com\" --timeout 15000 2>&1",
+    "status": "failed"
+  },
+  {
+    "name": "CLBC大安商務中心",
+    "url": "https://clbc.tw/",
+    "photos": [
+      "https://clbc.tw/wp-content/uploads/2019/02/daanmain-001-1.jpg",
+      "https://clbc.tw/wp-content/uploads/2019/05/PZF03955.jpg",
+      "https://clbc.tw/wp-content/uploads/2018/12/%E8%82%A5%E7%9A%82%E7%AE%B1B-20.jpg"
+    ],
+    "status": "success"
+  },
+  {
+    "name": "Goodmans咖啡廳",
+    "url": "https://www.goodmanscafe.com",
+    "error": "Command failed: agent-browser open \"https://www.goodmanscafe.com\" --timeout 15000 2>&1",
+    "status": "failed"
+  },
+  {
+    "name": "NUZONE展演空間",
+    "url": "https://www.nuzone.com.tw",
+    "photos": [
+      "https://static.wixstatic.com/media/bd4101_b060d5db47da4905a037701ac0251b0e~mv2.png/v1/fill/w_1280,h_99,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/bd4101_b060d5db47da4905a037701ac0251b0e~mv2.png",
+      "https://static.wixstatic.com/media/b8e171_567eaa1bf25a4baf9e3deda73fcda17e~mv2.jpg/v1/fill/w_230,h_342,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/DSC_0059.jpg",
+      "https://static.wixstatic.com/media/4a5f41_7376f72f26af44af91feec132c9f4bcb~mv2.png/v1/fill/w_824,h_426,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/%E5%9C%96%E7%89%87%201.png",
+      "https://static.wixstatic.com/media/4a5f41_54687a49caa44d8eab51b0843cf01207~mv2.jpg/v1/crop/x_0,y_0,w_1550,h_601/fill/w_866,h_338,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/%E6%88%AA%E5%9C%96%202025-09-02%20%E4%B8%8B%E5%8D%884_edited.jpg",
+      "https://static.wixstatic.com/media/bd4101_7aebd358e20f447b859e8c1d64e3103d~mv2.png/v1/fill/w_278,h_52,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/111.png"
+    ],
+    "status": "success"
+  },
+  {
+    "name": "Regus商務中心",
+    "url": "https://www.regus.com",
+    "photos": [
+      "https://assets.iwgplc.com/image/upload/c_fill,f_auto,q_auto,w_344,h_258//v1756988667/WebsiteImagery/Gallery/FAI_1.jpg",
+      "https://assets.iwgplc.com/image/upload/c_fill,f_auto,q_auto,w_344,h_258//v1756386142/WebsiteImagery/Gallery/TR_1.jpg",
+      "https://assets.iwgplc.com/image/upload/c_fill,f_auto,q_auto,w_344,h_258//v1756989320/WebsiteImagery/Gallery/SAMB_1.jpg",
+      "https://assets.iwgplc.com/image/upload/c_fill,f_auto,q_auto,w_344,h_258//v1756989291/WebsiteImagery/Gallery/NB_1.jpg",
+      "https://assets.iwgplc.com/image/upload/c_fill,f_auto,q_auto,w_344,h_258//v1756989289/WebsiteImagery/Gallery/IB_1.jpg"
+    ],
+    "status": "success"
+  },
+  {
+    "name": "Simple Kaffa",
+    "url": "https://www.simplekaffa.com",
+    "photos": [
+      "https://simplekaffa.thothcdn.com/images/property_images/banner/6db5ce15de306aed207117be4199ee267ec3798a.png",
+      "https://simplekaffa.thothcdn.com/images/property_images/banner/9255319beacb1fb8086cdad1d5dad38d577e5aad.",
+      "https://simplekaffa.thothcdn.com/images/property_images/banner/3ea616280c3d9f9c23ad281ab87863b3b4ee3193.png",
+      "https://simplekaffa.thothcdn.com/images/property_images/banner/8a206405b91a50558715e1490a51faa73d7e9f7d.png",
+      "https://simplekaffa.thothcdn.com/images/property_images/banner/235e80418f6c3578783fd72603885204e76000b7.png"
+    ],
+    "status": "success"
+  },
+  {
+    "name": "TCCC台灣文創訓練中心",
+    "url": "https://www.tccc.com.tw",
+    "error": "Command failed: agent-browser open \"https://www.tccc.com.tw\" --timeout 15000 2>&1",
+    "status": "failed"
+  },
+  {
+    "name": "The Executive Centre",
+    "url": "https://www.executivecentre.com",
+    "photos": [
+      "https://www.executivecentre.com/_next/image/?url=https%3A%2F%2Fassets.executivecentre.com%2Fassets%2FTEC-HeroBanner-HKG-28S-Coworking-MemberLounge.jpg&w=3840&q=75",
+      "https://www.executivecentre.com/_next/image/?url=https%3A%2F%2Fassets.executivecentre.com%2Fassets%2FTEC-HeroBanner-HKG-28S-Coworking-MemberLounge.jpg&w=3840&q=75",
+      "https://www.executivecentre.com/_next/image/?url=https%3A%2F%2Fassets.executivecentre.com%2Fassets%2FTEC-HeroBanner-SEL-HAN-Coworking-Lounge.jpg&w=3840&q=75",
+      "https://www.executivecentre.com/_next/image/?url=https%3A%2F%2Fassets.executivecentre.com%2Fassets%2FTEC-HeroBanner-TYO-JPT-Coworking-Lounge.jpg&w=3840&q=75",
+      "https://www.executivecentre.com/_next/image/?url=https%3A%2F%2Fassets.executivecentre.com%2Fassets%2FTEC-HeroBanner-SGN-NEX-Coworking-Lounge.jpg&w=3840&q=75"
+    ],
+    "status": "success"
+  },
+  {
+    "name": "WeWork共享空間",
+    "url": "https://www.wework.com",
+    "photos": [],
+    "status": "success"
+  },
+  {
+    "name": "公務人力發展學院",
+    "url": "https://www.ncsi.gov.tw",
+    "error": "Command failed: agent-browser open \"https://www.ncsi.gov.tw\" --timeout 15000 2>&1",
+    "status": "failed"
+  }
+]

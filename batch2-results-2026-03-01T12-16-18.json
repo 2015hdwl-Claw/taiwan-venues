@@ -1,0 +1,71 @@
+[
+  {
+    "name": "六福萬怡酒店",
+    "url": "https://www.courtyard.com/taipei",
+    "photos": [],
+    "status": "success"
+  },
+  {
+    "name": "典藏咖啡廳",
+    "url": "https://www.artco.com.tw",
+    "error": "Command failed: agent-browser open \"https://www.artco.com.tw\" --timeout 15000 2>&1",
+    "status": "failed"
+  },
+  {
+    "name": "南港展覽館",
+    "url": "https://www.tainex.com.tw/",
+    "photos": [
+      "https://www.tainex.com.tw/images/bee.svg",
+      "https://www.tainex.com.tw/images/%E5%8C%97%E9%96%80%E6%AC%BELogo.svg"
+    ],
+    "status": "success"
+  },
+  {
+    "name": "台北W飯店(WTaipei)",
+    "url": "https://www.wtaipei.com",
+    "error": "Command failed: agent-browser open \"https://www.wtaipei.com\" --timeout 15000 2>&1",
+    "status": "failed"
+  },
+  {
+    "name": "台北一樂園大飯店",
+    "url": "https://www.ile-hotel.com",
+    "error": "Command failed: agent-browser open \"https://www.ile-hotel.com\" --timeout 15000 2>&1",
+    "status": "failed"
+  },
+  {
+    "name": "台北世貿中心(TWTCA)展覽大樓",
+    "url": "https://www.twtc.com.tw/",
+    "photos": [
+      "https://www.twtc.com.tw/images/banner/b20211105154308.jpg",
+      "https://www.twtc.com.tw/images/banner/b20211105154344.jpg",
+      "https://www.twtc.com.tw/images/banner/b20231030091848.jpg",
+      "https://www.twtc.com.tw/images/banner/b20211105154035.jpg",
+      "https://www.twtc.com.tw/images/banner/b20211105154103.jpg"
+    ],
+    "status": "success"
+  },
+  {
+    "name": "台北丹迪旅店",
+    "url": "https://www.ttdhotel.com",
+    "error": "Command failed: agent-browser open \"https://www.ttdhotel.com\" --timeout 15000 2>&1",
+    "status": "failed"
+  },
+  {
+    "name": "台北亞都麗緻大飯店(LandisTaipei)",
+    "url": "https://www.landis.com.tw",
+    "error": "Command failed: agent-browser open \"https://www.landis.com.tw\" --timeout 15000 2>&1",
+    "status": "failed"
+  },
+  {
+    "name": "台北京站酒店",
+    "url": "https://www.caametro.com",
+    "error": "Command failed: agent-browser open \"https://www.caametro.com\" --timeout 15000 2>&1",
+    "status": "failed"
+  },
+  {
+    "name": "台北八方美學商旅",
+    "url": "https://www.hotelbf.com",
+    "error": "Command failed: agent-browser open \"https://www.hotelbf.com\" --timeout 15000 2>&1",
+    "status": "failed"
+  }
+]
