@@ -2288,46 +2288,6 @@
     "roomType": "宴會廳"
   },
   {
-    "id": 1071,
-    "name": "台北國際會議中心(TICC)",
-    "roomName": "102會議室",
-    "venueType": "會議中心",
-    "city": "台北市",
-    "address": "台北市信義區信義路五段1號",
-    "contactPerson": "場地租借",
-    "contactPhone": "02-27255200",
-    "contactEmail": "venue@ticc.com.tw",
-    "priceHalfDay": 27000,
-    "priceFullDay": 22000,
-    "maxCapacityTheater": 200,
-    "maxCapacityClassroom": 200,
-    "availableTimeWeekday": "08:00-22:00",
-    "availableTimeWeekend": "08:00-22:00",
-    "equipment": "專業投影設備、音響",
-    "images": {
-      "main": "https://upload.wikimedia.org/wikipedia/commons/d/de/Taipei_International_Convention_Center_20161126a.jpg",
-      "gallery": [
-        "https://upload.wikimedia.org/wikipedia/commons/6/63/The_entrance_of_Taipei_International_Convention_Center_at_Xinyi_Road%2C_Taipei_City_20070507.jpg",
-        "https://upload.wikimedia.org/wikipedia/commons/c/c0/%E5%A4%A9%E6%88%90%E5%A4%A7%E9%A3%AF%E5%BA%97TICC%E4%B8%96%E8%B2%BF%E6%9C%83%E9%A4%A8%E5%AE%B4%E6%9C%83%E5%BB%B3_20120820.jpg",
-        "https://upload.wikimedia.org/wikipedia/commons/0/00/LisAni%21_Live_Taiwan_Supported_by_Battle_Girl_High_School_20161204.jpg",
-        "https://upload.wikimedia.org/wikipedia/commons/d/de/2007IntelDeveloperForumTaipei_Day1_PressConference.jpg"
-      ],
-      "floorPlan": "",
-      "needsUpdate": false,
-      "note": "照片來源：維基百科（真實照片）",
-      "lastUpdated": "2026-03-01",
-      "source": "Wikipedia Commons"
-    },
-    "url": "https://www.ticc.com.tw",
-    "verified": true,
-    "verifiedAt": "2026-03-01",
-    "status": "上架",
-    "roomType": "會議中心",
-    "areaPing": 70,
-    "areaSqm": 232,
-    "dimensions": "16.2×15.7×5.6公尺"
-  },
-  {
     "id": 1072,
     "name": "台北圓山大飯店",
     "roomName": "大宴會廳",
@@ -14327,154 +14287,6 @@
     "roomType": "宴會廳"
   },
   {
-    "id": 1429,
-    "name": "台北國際會議中心(TICC)",
-    "roomName": "101會議室",
-    "venueType": "會議中心",
-    "city": "台北市",
-    "address": "台北市信義區信義路五段1號",
-    "contactPerson": "場地租借",
-    "contactPhone": "02-27255200",
-    "contactEmail": "venue@ticc.com.tw",
-    "priceHalfDay": 15000,
-    "priceFullDay": 22000,
-    "maxCapacityTheater": 80,
-    "maxCapacityClassroom": 90,
-    "availableTimeWeekday": "08:00-22:00",
-    "availableTimeWeekend": "08:00-22:00",
-    "equipment": "專業投影設備、音響",
-    "images": {
-      "main": "https://upload.wikimedia.org/wikipedia/commons/d/de/Taipei_International_Convention_Center_20161126a.jpg",
-      "gallery": [
-        "https://upload.wikimedia.org/wikipedia/commons/6/63/The_entrance_of_Taipei_International_Convention_Center_at_Xinyi_Road%2C_Taipei_City_20070507.jpg",
-        "https://upload.wikimedia.org/wikipedia/commons/c/c0/%E5%A4%A9%E6%88%90%E5%A4%A7%E9%A3%AF%E5%BA%97TICC%E4%B8%96%E8%B2%BF%E6%9C%83%E9%A4%A8%E5%AE%B4%E6%9C%83%E5%BB%B3_20120820.jpg",
-        "https://upload.wikimedia.org/wikipedia/commons/0/00/LisAni%21_Live_Taiwan_Supported_by_Battle_Girl_High_School_20161204.jpg",
-        "https://upload.wikimedia.org/wikipedia/commons/d/de/2007IntelDeveloperForumTaipei_Day1_PressConference.jpg"
-      ],
-      "floorPlan": "",
-      "needsUpdate": false,
-      "note": "照片來源：維基百科（真實照片）",
-      "lastUpdated": "2026-03-01",
-      "source": "Wikipedia Commons"
-    },
-    "url": "https://www.ticc.com.tw",
-    "verified": true,
-    "verifiedAt": "2026-03-01",
-    "status": "上架",
-    "roomType": "會議中心"
-  },
-  {
-    "id": 1430,
-    "name": "台北國際會議中心(TICC)",
-    "roomName": "103會議室",
-    "venueType": "會議中心",
-    "city": "台北市",
-    "address": "台北市信義區信義路五段1號",
-    "contactPerson": "場地租借",
-    "contactPhone": "02-27255200",
-    "contactEmail": "venue@ticc.com.tw",
-    "priceHalfDay": 12000,
-    "priceFullDay": 22000,
-    "maxCapacityTheater": 60,
-    "maxCapacityClassroom": 90,
-    "availableTimeWeekday": "08:00-22:00",
-    "availableTimeWeekend": "08:00-22:00",
-    "equipment": "專業投影設備、音響",
-    "images": {
-      "main": "https://upload.wikimedia.org/wikipedia/commons/d/de/Taipei_International_Convention_Center_20161126a.jpg",
-      "gallery": [
-        "https://upload.wikimedia.org/wikipedia/commons/6/63/The_entrance_of_Taipei_International_Convention_Center_at_Xinyi_Road%2C_Taipei_City_20070507.jpg",
-        "https://upload.wikimedia.org/wikipedia/commons/c/c0/%E5%A4%A9%E6%88%90%E5%A4%A7%E9%A3%AF%E5%BA%97TICC%E4%B8%96%E8%B2%BF%E6%9C%83%E9%A4%A8%E5%AE%B4%E6%9C%83%E5%BB%B3_20120820.jpg",
-        "https://upload.wikimedia.org/wikipedia/commons/0/00/LisAni%21_Live_Taiwan_Supported_by_Battle_Girl_High_School_20161204.jpg",
-        "https://upload.wikimedia.org/wikipedia/commons/d/de/2007IntelDeveloperForumTaipei_Day1_PressConference.jpg"
-      ],
-      "floorPlan": "",
-      "needsUpdate": false,
-      "note": "照片來源：維基百科（真實照片）",
-      "lastUpdated": "2026-03-01",
-      "source": "Wikipedia Commons"
-    },
-    "url": "https://www.ticc.com.tw",
-    "verified": true,
-    "verifiedAt": "2026-03-01",
-    "status": "上架",
-    "roomType": "會議中心"
-  },
-  {
-    "id": 1431,
-    "name": "台北國際會議中心(TICC)",
-    "roomName": "201會議室",
-    "venueType": "會議中心",
-    "city": "台北市",
-    "address": "台北市信義區信義路五段1號",
-    "contactPerson": "場地租借",
-    "contactPhone": "02-27255200",
-    "contactEmail": "venue@ticc.com.tw",
-    "priceHalfDay": 50000,
-    "priceFullDay": 22000,
-    "maxCapacityTheater": 400,
-    "maxCapacityClassroom": 90,
-    "availableTimeWeekday": "08:00-22:00",
-    "availableTimeWeekend": "08:00-22:00",
-    "equipment": "專業投影設備、音響",
-    "images": {
-      "main": "https://upload.wikimedia.org/wikipedia/commons/d/de/Taipei_International_Convention_Center_20161126a.jpg",
-      "gallery": [
-        "https://upload.wikimedia.org/wikipedia/commons/6/63/The_entrance_of_Taipei_International_Convention_Center_at_Xinyi_Road%2C_Taipei_City_20070507.jpg",
-        "https://upload.wikimedia.org/wikipedia/commons/c/c0/%E5%A4%A9%E6%88%90%E5%A4%A7%E9%A3%AF%E5%BA%97TICC%E4%B8%96%E8%B2%BF%E6%9C%83%E9%A4%A8%E5%AE%B4%E6%9C%83%E5%BB%B3_20120820.jpg",
-        "https://upload.wikimedia.org/wikipedia/commons/0/00/LisAni%21_Live_Taiwan_Supported_by_Battle_Girl_High_School_20161204.jpg",
-        "https://upload.wikimedia.org/wikipedia/commons/d/de/2007IntelDeveloperForumTaipei_Day1_PressConference.jpg"
-      ],
-      "floorPlan": "",
-      "needsUpdate": false,
-      "note": "照片來源：維基百科（真實照片）",
-      "lastUpdated": "2026-03-01",
-      "source": "Wikipedia Commons"
-    },
-    "url": "https://www.ticc.com.tw",
-    "verified": true,
-    "verifiedAt": "2026-03-01",
-    "status": "上架",
-    "roomType": "會議中心"
-  },
-  {
-    "id": 1432,
-    "name": "台北國際會議中心(TICC)",
-    "roomName": "202會議室",
-    "venueType": "會議中心",
-    "city": "台北市",
-    "address": "台北市信義區信義路五段1號",
-    "contactPerson": "場地租借",
-    "contactPhone": "02-27255200",
-    "contactEmail": "venue@ticc.com.tw",
-    "priceHalfDay": 18000,
-    "priceFullDay": 22000,
-    "maxCapacityTheater": 120,
-    "maxCapacityClassroom": 90,
-    "availableTimeWeekday": "08:00-22:00",
-    "availableTimeWeekend": "08:00-22:00",
-    "equipment": "專業投影設備、音響",
-    "images": {
-      "main": "https://upload.wikimedia.org/wikipedia/commons/d/de/Taipei_International_Convention_Center_20161126a.jpg",
-      "gallery": [
-        "https://upload.wikimedia.org/wikipedia/commons/6/63/The_entrance_of_Taipei_International_Convention_Center_at_Xinyi_Road%2C_Taipei_City_20070507.jpg",
-        "https://upload.wikimedia.org/wikipedia/commons/c/c0/%E5%A4%A9%E6%88%90%E5%A4%A7%E9%A3%AF%E5%BA%97TICC%E4%B8%96%E8%B2%BF%E6%9C%83%E9%A4%A8%E5%AE%B4%E6%9C%83%E5%BB%B3_20120820.jpg",
-        "https://upload.wikimedia.org/wikipedia/commons/0/00/LisAni%21_Live_Taiwan_Supported_by_Battle_Girl_High_School_20161204.jpg",
-        "https://upload.wikimedia.org/wikipedia/commons/d/de/2007IntelDeveloperForumTaipei_Day1_PressConference.jpg"
-      ],
-      "floorPlan": "",
-      "needsUpdate": false,
-      "note": "照片來源：維基百科（真實照片）",
-      "lastUpdated": "2026-03-01",
-      "source": "Wikipedia Commons"
-    },
-    "url": "https://www.ticc.com.tw",
-    "verified": true,
-    "verifiedAt": "2026-03-01",
-    "status": "上架",
-    "roomType": "會議中心"
-  },
-  {
     "id": 1433,
     "name": "集思台大會議中心(NTUCC)",
     "roomName": "會議室A",
@@ -14749,315 +14561,1128 @@
     "roomType": "會議室"
   },
   {
-    "id": 1441,
+    "id": 1448,
     "name": "台北國際會議中心(TICC)",
-    "roomName": "大會堂全場",
-    "venueType": "會議場地",
-    "roomType": "會議中心",
     "city": "台北市",
     "address": "台北市信義區信義路五段1號",
-    "contactPerson": "場地預約",
     "contactPhone": "02-2725-5200",
     "contactEmail": "ticc@taitra.org.tw",
-    "priceHalfDay": 112000,
-    "priceFullDay": 318000,
-    "maxCapacityTheater": 3100,
-    "maxCapacityClassroom": null,
-    "availableTimeWeekday": "08:30-22:30",
-    "availableTimeWeekend": "08:30-22:30",
-    "equipment": "專業音響系統、舞台燈光、大型投影設備、同步翻譯設備",
-    "images": {
-      "main": "https://www.ticc.com.tw/wSite/public/Img/f1687945050916.jpg",
-      "gallery": [
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945050916.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945053932.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945057150.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945060025.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945063635.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945066135.jpg"
-      ],
-      "source": "https://www.ticc.com.tw/wSite/cp?xdUrl=/wSite/ap/cp_VenueSearch.jsp&roomId=plenary&ctNode=322&CtUnit=99&BaseDSD=7&mp=1"
-    },
     "url": "https://www.ticc.com.tw/",
-    "sourceUrl": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/lp_PlenaryHall.jsp&ctNode=323&CtUnit=100&BaseDSD=7&mp=1",
-    "verified": true,
-    "verifiedAt": "2026-03-01",
-    "status": "上架",
-    "floor": "1F",
-    "areaPing": 899,
-    "areaSqm": 2973,
-    "dimensions": null,
-    "pricingWeekend": 170000,
-    "pricingExhibition": null,
-    "capacityHorseshoe": null,
-    "area": "2973 平方公尺"
+    "venueType": "會議中心",
+    "roomName": "大會堂",
+    "priceHalfDay": 159000,
+    "priceFullDay": 170000,
+    "maxCapacityTheater": null,
+    "maxCapacityClassroom": null,
+    "area": "899 坪",
+    "images": {
+      "main": "https://upload.wikimedia.org/wikipedia/commons/d/de/Taipei_International_Convention_Center_20161126a.jpg",
+      "gallery": [
+        "\"https://www.ticc.com.tw/wSite/public/Img/f1687945050916.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1687945053932.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1687945057150.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1687945060025.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1687945063635.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1687945066135.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1687945050916.jpg\""
+      ],
+      "source": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/cp_VenueSearch.jsp&roomId=PH&ctNode=322&CtUnit=99&BaseDSD=7&mp=1"
+    },
+    "venuePageUrl": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/cp_VenueSearch.jsp&roomId=PH&ctNode=322&CtUnit=99&BaseDSD=7&mp=1",
+    "status": "active"
   },
   {
-    "id": 1442,
+    "id": 1449,
     "name": "台北國際會議中心(TICC)",
-    "roomName": "大會堂半場(1-27排)",
-    "venueType": "會議場地",
-    "roomType": "會議中心",
     "city": "台北市",
     "address": "台北市信義區信義路五段1號",
-    "contactPerson": "場地預約",
     "contactPhone": "02-2725-5200",
     "contactEmail": "ticc@taitra.org.tw",
-    "priceHalfDay": 112000,
-    "priceFullDay": 0,
-    "maxCapacityTheater": 1208,
-    "maxCapacityClassroom": null,
-    "availableTimeWeekday": "08:30-22:30",
-    "availableTimeWeekend": "08:30-22:30",
-    "equipment": "專業音響系統、舞台燈光、投影設備",
-    "images": {
-      "main": "https://www.ticc.com.tw/wSite/public/Img/f1687945050916.jpg",
-      "gallery": [
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945050916.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945053932.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945057150.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945060025.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945063635.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945066135.jpg"
-      ],
-      "source": "https://www.ticc.com.tw/wSite/cp?xdUrl=/wSite/ap/cp_VenueSearch.jsp&roomId=plenary&ctNode=322&CtUnit=99&BaseDSD=7&mp=1"
-    },
     "url": "https://www.ticc.com.tw/",
-    "sourceUrl": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/lp_PlenaryHall.jsp&ctNode=323&CtUnit=100&BaseDSD=7&mp=1",
-    "verified": true,
-    "verifiedAt": "2026-03-01",
-    "status": "上架",
-    "floor": "1F",
-    "areaPing": null,
-    "areaSqm": null,
-    "dimensions": null,
-    "pricingWeekend": 112000,
-    "pricingExhibition": 123000,
-    "capacityHorseshoe": null
+    "venueType": "會議中心",
+    "roomName": "101全室",
+    "priceHalfDay": 67000,
+    "priceFullDay": 80000,
+    "maxCapacityTheater": null,
+    "maxCapacityClassroom": null,
+    "area": "193 坪",
+    "images": {
+      "main": "https://upload.wikimedia.org/wikipedia/commons/d/de/Taipei_International_Convention_Center_20161126a.jpg",
+      "gallery": [
+        "\"https://www.ticc.com.tw/wSite/public/Img/f1748228800599.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1748228806084.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1748228814334.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1765765176916.jpeg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1765765195144.jpeg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1765778770360.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1765778781179.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1669878417061.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1748228800599.jpg\""
+      ],
+      "source": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/cp_VenueSearch.jsp&roomId=101&ctNode=322&CtUnit=99&BaseDSD=7&mp=1"
+    },
+    "venuePageUrl": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/cp_VenueSearch.jsp&roomId=101&ctNode=322&CtUnit=99&BaseDSD=7&mp=1",
+    "status": "active"
   },
   {
-    "id": 1443,
+    "id": 1450,
     "name": "台北國際會議中心(TICC)",
+    "city": "台北市",
+    "address": "台北市信義區信義路五段1號",
+    "contactPhone": "02-2725-5200",
+    "contactEmail": "ticc@taitra.org.tw",
+    "url": "https://www.ticc.com.tw/",
+    "venueType": "會議中心",
     "roomName": "101A",
-    "venueType": "會議場地",
-    "roomType": "會議中心",
-    "city": "台北市",
-    "address": "台北市信義區信義路五段1號",
-    "contactPerson": "場地預約",
-    "contactPhone": "02-2725-5200",
-    "contactEmail": "ticc@taitra.org.tw",
     "priceHalfDay": 18000,
-    "priceFullDay": 36000,
-    "maxCapacityTheater": 120,
-    "maxCapacityClassroom": 88,
-    "availableTimeWeekday": "08:30-22:30",
-    "availableTimeWeekend": "08:30-22:30",
-    "equipment": "投影設備、音響系統、麥克風系統",
+    "priceFullDay": 21000,
+    "maxCapacityTheater": null,
+    "maxCapacityClassroom": null,
+    "area": "44 坪",
     "images": {
-      "main": "https://www.ticc.com.tw/wSite/public/Img/f1669886153498.jpg",
+      "main": "https://upload.wikimedia.org/wikipedia/commons/d/de/Taipei_International_Convention_Center_20161126a.jpg",
       "gallery": [
-        "https://www.ticc.com.tw/wSite/public/Img/f1669886153498.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1669886160967.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1669886199014.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1670481736434.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1670484282493.jpg"
+        "\"https://www.ticc.com.tw/wSite/public/Img/f1669886153498.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1669886160967.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1669886199014.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1669886153498.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670481736434.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670484282493.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670485435728.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1762915730328.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670685990671.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670761530546.jpg\""
       ],
-      "floorPlan": "",
-      "needsUpdate": false,
-      "note": "來源: TICC 官網",
-      "lastUpdated": "2026-03-01"
+      "source": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/cp_VenueSearch.jsp&roomId=101A&ctNode=322&CtUnit=99&BaseDSD=7&mp=1"
     },
-    "url": "https://www.ticc.com.tw/",
-    "sourceUrl": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/cp_VenueSearch.jsp&roomId=101A&ctNode=322&CtUnit=99&BaseDSD=7&mp=1",
-    "verified": true,
-    "verifiedAt": "2026-03-01",
-    "status": "上架",
-    "floor": "1F",
-    "areaPing": 44,
-    "areaSqm": 148,
-    "dimensions": "12.9×11.5×5.6公尺",
-    "pricingWeekend": 21000,
-    "pricingExhibition": 23500,
-    "capacityHorseshoe": 46
+    "venuePageUrl": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/cp_VenueSearch.jsp&roomId=101A&ctNode=322&CtUnit=99&BaseDSD=7&mp=1",
+    "status": "active"
   },
   {
-    "id": 1444,
+    "id": 1451,
     "name": "台北國際會議中心(TICC)",
+    "city": "台北市",
+    "address": "台北市信義區信義路五段1號",
+    "contactPhone": "02-2725-5200",
+    "contactEmail": "ticc@taitra.org.tw",
+    "url": "https://www.ticc.com.tw/",
+    "venueType": "會議中心",
     "roomName": "101AB",
-    "venueType": "會議場地",
-    "roomType": "會議中心",
-    "city": "台北市",
-    "address": "台北市信義區信義路五段1號",
-    "contactPerson": "場地預約",
-    "contactPhone": "02-2725-5200",
-    "contactEmail": "ticc@taitra.org.tw",
     "priceHalfDay": 39000,
-    "priceFullDay": 78000,
-    "maxCapacityTheater": 272,
-    "maxCapacityClassroom": 208,
-    "availableTimeWeekday": "08:30-22:30",
-    "availableTimeWeekend": "08:30-22:30",
-    "equipment": "投影設備、音響系統、麥克風系統",
+    "priceFullDay": 45000,
+    "maxCapacityTheater": null,
+    "maxCapacityClassroom": null,
+    "area": "98 坪",
     "images": {
-      "main": "https://www.ticc.com.tw/wSite/public/Img/f1670480681699.jpg",
+      "main": "https://upload.wikimedia.org/wikipedia/commons/d/de/Taipei_International_Convention_Center_20161126a.jpg",
       "gallery": [
-        "https://www.ticc.com.tw/wSite/public/Img/f1670480681699.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1670480718949.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1670480724793.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1670480730434.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1670484860353.jpg"
+        "\"https://www.ticc.com.tw/wSite/public/Img/f1670480681699.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670480718949.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670480724793.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670480730434.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670480681699.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670484860353.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670564922689.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670575536939.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670577929830.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670575536939.jpg\""
       ],
-      "floorPlan": "",
-      "needsUpdate": false,
-      "note": "來源: TICC 官網",
-      "lastUpdated": "2026-03-01"
+      "source": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/cp_VenueSearch.jsp&roomId=101AB&ctNode=322&CtUnit=99&BaseDSD=7&mp=1"
     },
-    "url": "https://www.ticc.com.tw/",
-    "sourceUrl": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/cp_VenueSearch.jsp&roomId=101AB&ctNode=322&CtUnit=99&BaseDSD=7&mp=1",
-    "verified": true,
-    "verifiedAt": "2026-03-01",
-    "status": "上架",
-    "floor": "1F",
-    "areaPing": 98,
-    "areaSqm": 326,
-    "dimensions": "12.9×25.3×5.6公尺",
-    "pricingWeekend": 45000,
-    "pricingExhibition": 49000,
-    "capacityHorseshoe": 74
+    "venuePageUrl": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/cp_VenueSearch.jsp&roomId=101AB&ctNode=322&CtUnit=99&BaseDSD=7&mp=1",
+    "status": "active"
   },
   {
-    "id": 1445,
+    "id": 1452,
     "name": "台北國際會議中心(TICC)",
+    "city": "台北市",
+    "address": "台北市信義區信義路五段1號",
+    "contactPhone": "02-2725-5200",
+    "contactEmail": "ticc@taitra.org.tw",
+    "url": "https://www.ticc.com.tw/",
+    "venueType": "會議中心",
     "roomName": "101B",
-    "venueType": "會議場地",
-    "roomType": "會議中心",
-    "city": "台北市",
-    "address": "台北市信義區信義路五段1號",
-    "contactPerson": "場地預約",
-    "contactPhone": "02-2725-5200",
-    "contactEmail": "ticc@taitra.org.tw",
     "priceHalfDay": 22000,
-    "priceFullDay": 44000,
-    "maxCapacityTheater": 152,
-    "maxCapacityClassroom": 120,
-    "availableTimeWeekday": "08:30-22:30",
-    "availableTimeWeekend": "08:30-22:30",
-    "equipment": "投影設備、音響系統、麥克風系統",
+    "priceFullDay": 27000,
+    "maxCapacityTheater": null,
+    "maxCapacityClassroom": null,
+    "area": "53 坪",
     "images": {
-      "main": "https://www.ticc.com.tw/wSite/public/Img/f1670481736434.jpg",
+      "main": "https://upload.wikimedia.org/wikipedia/commons/d/de/Taipei_International_Convention_Center_20161126a.jpg",
       "gallery": [
-        "https://www.ticc.com.tw/wSite/public/Img/f1670481736434.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1670481756074.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1670483437675.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1669886153498.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1670484282493.jpg"
+        "\"https://www.ticc.com.tw/wSite/public/Img/f1670481736434.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670481756074.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670483437675.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670481736434.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1669886153498.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670484282493.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670485435728.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1762915730328.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670686433187.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670685990671.jpg\""
       ],
-      "floorPlan": "",
-      "needsUpdate": false,
-      "note": "來源: TICC 官網",
-      "lastUpdated": "2026-03-01"
+      "source": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/cp_VenueSearch.jsp&roomId=101B&ctNode=322&CtUnit=99&BaseDSD=7&mp=1"
     },
-    "url": "https://www.ticc.com.tw/",
-    "sourceUrl": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/cp_VenueSearch.jsp&roomId=101B&ctNode=322&CtUnit=99&BaseDSD=7&mp=1",
-    "verified": true,
-    "verifiedAt": "2026-03-01",
-    "status": "上架",
-    "floor": "1F",
-    "areaPing": 53,
-    "areaSqm": 176,
-    "dimensions": "12.9×13.7×5.6公尺",
-    "pricingWeekend": 27000,
-    "pricingExhibition": 29000,
-    "capacityHorseshoe": 42
+    "venuePageUrl": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/cp_VenueSearch.jsp&roomId=101B&ctNode=322&CtUnit=99&BaseDSD=7&mp=1",
+    "status": "active"
   },
   {
-    "id": 1446,
+    "id": 1453,
     "name": "台北國際會議中心(TICC)",
+    "city": "台北市",
+    "address": "台北市信義區信義路五段1號",
+    "contactPhone": "02-2725-5200",
+    "contactEmail": "ticc@taitra.org.tw",
+    "url": "https://www.ticc.com.tw/",
+    "venueType": "會議中心",
     "roomName": "101C",
-    "venueType": "會議場地",
-    "roomType": "會議中心",
-    "city": "台北市",
-    "address": "台北市信義區信義路五段1號",
-    "contactPerson": "場地預約",
-    "contactPhone": "02-2725-5200",
-    "contactEmail": "ticc@taitra.org.tw",
     "priceHalfDay": 22000,
-    "priceFullDay": 44000,
-    "maxCapacityTheater": 152,
-    "maxCapacityClassroom": 120,
-    "availableTimeWeekday": "08:30-22:30",
-    "availableTimeWeekend": "08:30-22:30",
-    "equipment": "投影設備、音響系統、麥克風系統",
+    "priceFullDay": 27000,
+    "maxCapacityTheater": null,
+    "maxCapacityClassroom": null,
+    "area": "53 坪",
     "images": {
-      "main": "https://www.ticc.com.tw/wSite/public/Img/f1670484282493.jpg",
+      "main": "https://upload.wikimedia.org/wikipedia/commons/d/de/Taipei_International_Convention_Center_20161126a.jpg",
       "gallery": [
-        "https://www.ticc.com.tw/wSite/public/Img/f1670484282493.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1670484289837.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1670484295525.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1669886153498.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1670481736434.jpg"
+        "\"https://www.ticc.com.tw/wSite/public/Img/f1670484282493.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670484289837.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670484295525.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670484282493.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1669886153498.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670481736434.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670485435728.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1762915730328.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670686433187.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670685990671.jpg\""
       ],
-      "floorPlan": "",
-      "needsUpdate": false,
-      "note": "來源: TICC 官網",
-      "lastUpdated": "2026-03-01"
+      "source": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/cp_VenueSearch.jsp&roomId=101C&ctNode=322&CtUnit=99&BaseDSD=7&mp=1"
     },
-    "url": "https://www.ticc.com.tw/",
-    "sourceUrl": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/cp_VenueSearch.jsp&roomId=101C&ctNode=322&CtUnit=99&BaseDSD=7&mp=1",
-    "verified": true,
-    "verifiedAt": "2026-03-01",
-    "status": "上架",
-    "floor": "1F",
-    "areaPing": 53,
-    "areaSqm": 176,
-    "dimensions": "12.9×13.7×5.6公尺",
-    "pricingWeekend": 27000,
-    "pricingExhibition": 29000,
-    "capacityHorseshoe": 42
+    "venuePageUrl": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/cp_VenueSearch.jsp&roomId=101C&ctNode=322&CtUnit=99&BaseDSD=7&mp=1",
+    "status": "active"
   },
   {
-    "id": 1447,
+    "id": 1454,
     "name": "台北國際會議中心(TICC)",
-    "roomName": "101CD",
-    "venueType": "會議場地",
-    "roomType": "會議中心",
     "city": "台北市",
     "address": "台北市信義區信義路五段1號",
-    "contactPerson": "場地預約",
     "contactPhone": "02-2725-5200",
     "contactEmail": "ticc@taitra.org.tw",
-    "priceHalfDay": 39000,
-    "priceFullDay": 78000,
-    "maxCapacityTheater": 272,
-    "maxCapacityClassroom": 208,
-    "availableTimeWeekday": "08:30-22:30",
-    "availableTimeWeekend": "08:30-22:30",
-    "equipment": "投影設備、音響系統、麥克風系統",
-    "images": {
-      "main": "https://www.ticc.com.tw/wSite/public/Img/f1670484860353.jpg",
-      "gallery": [
-        "https://www.ticc.com.tw/wSite/public/Img/f1670484860353.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1670484881587.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1670484887337.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1670484891275.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1670480681699.jpg"
-      ],
-      "floorPlan": "",
-      "needsUpdate": false,
-      "note": "來源: TICC 官網",
-      "lastUpdated": "2026-03-01"
-    },
     "url": "https://www.ticc.com.tw/",
-    "sourceUrl": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/cp_VenueSearch.jsp&roomId=101CD&ctNode=322&CtUnit=99&BaseDSD=7&mp=1",
-    "verified": true,
-    "verifiedAt": "2026-03-01",
-    "status": "上架",
-    "floor": "1F",
-    "areaPing": 98,
-    "areaSqm": 326,
-    "dimensions": "12.9×25.3×5.6公尺",
-    "pricingWeekend": 45000,
-    "pricingExhibition": 49000,
-    "capacityHorseshoe": 74
+    "venueType": "會議中心",
+    "roomName": "101CD",
+    "priceHalfDay": 39000,
+    "priceFullDay": 45000,
+    "maxCapacityTheater": null,
+    "maxCapacityClassroom": null,
+    "area": "98 坪",
+    "images": {
+      "main": "https://upload.wikimedia.org/wikipedia/commons/d/de/Taipei_International_Convention_Center_20161126a.jpg",
+      "gallery": [
+        "\"https://www.ticc.com.tw/wSite/public/Img/f1670484860353.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670484881587.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670484887337.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670484891275.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670484860353.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670480681699.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670564922689.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670575536939.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670577929830.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670575536939.jpg\""
+      ],
+      "source": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/cp_VenueSearch.jsp&roomId=101CD&ctNode=322&CtUnit=99&BaseDSD=7&mp=1"
+    },
+    "venuePageUrl": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/cp_VenueSearch.jsp&roomId=101CD&ctNode=322&CtUnit=99&BaseDSD=7&mp=1",
+    "status": "active"
+  },
+  {
+    "id": 1455,
+    "name": "台北國際會議中心(TICC)",
+    "city": "台北市",
+    "address": "台北市信義區信義路五段1號",
+    "contactPhone": "02-2725-5200",
+    "contactEmail": "ticc@taitra.org.tw",
+    "url": "https://www.ticc.com.tw/",
+    "venueType": "會議中心",
+    "roomName": "101D",
+    "priceHalfDay": 18000,
+    "priceFullDay": 21000,
+    "maxCapacityTheater": null,
+    "maxCapacityClassroom": null,
+    "area": "44 坪",
+    "images": {
+      "main": "https://upload.wikimedia.org/wikipedia/commons/d/de/Taipei_International_Convention_Center_20161126a.jpg",
+      "gallery": [
+        "\"https://www.ticc.com.tw/wSite/public/Img/f1670485435728.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670485464775.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670485470665.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670485435728.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1669886153498.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670481736434.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670484282493.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1762915730328.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670685990671.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670761530546.jpg\""
+      ],
+      "source": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/cp_VenueSearch.jsp&roomId=101D&ctNode=322&CtUnit=99&BaseDSD=7&mp=1"
+    },
+    "venuePageUrl": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/cp_VenueSearch.jsp&roomId=101D&ctNode=322&CtUnit=99&BaseDSD=7&mp=1",
+    "status": "active"
+  },
+  {
+    "id": 1456,
+    "name": "台北國際會議中心(TICC)",
+    "city": "台北市",
+    "address": "台北市信義區信義路五段1號",
+    "contactPhone": "02-2725-5200",
+    "contactEmail": "ticc@taitra.org.tw",
+    "url": "https://www.ticc.com.tw/",
+    "venueType": "會議中心",
+    "roomName": "102",
+    "priceHalfDay": 27000,
+    "priceFullDay": 32000,
+    "maxCapacityTheater": null,
+    "maxCapacityClassroom": null,
+    "area": "70 坪",
+    "images": {
+      "main": "https://upload.wikimedia.org/wikipedia/commons/d/de/Taipei_International_Convention_Center_20161126a.jpg",
+      "gallery": [
+        "\"https://www.ticc.com.tw/wSite/public/Img/f1670486690431.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670486698040.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670486705618.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670486712962.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670486720025.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670486727368.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1679370890489.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670486690431.jpg\""
+      ],
+      "source": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/cp_VenueSearch.jsp&roomId=102&ctNode=322&CtUnit=99&BaseDSD=7&mp=1"
+    },
+    "venuePageUrl": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/cp_VenueSearch.jsp&roomId=102&ctNode=322&CtUnit=99&BaseDSD=7&mp=1",
+    "status": "active"
+  },
+  {
+    "id": 1457,
+    "name": "台北國際會議中心(TICC)",
+    "city": "台北市",
+    "address": "台北市信義區信義路五段1號",
+    "contactPhone": "02-2725-5200",
+    "contactEmail": "ticc@taitra.org.tw",
+    "url": "https://www.ticc.com.tw/",
+    "venueType": "會議中心",
+    "roomName": "103",
+    "priceHalfDay": 21000,
+    "priceFullDay": 21000,
+    "maxCapacityTheater": null,
+    "maxCapacityClassroom": null,
+    "area": "41 坪",
+    "images": {
+      "main": "https://upload.wikimedia.org/wikipedia/commons/d/de/Taipei_International_Convention_Center_20161126a.jpg",
+      "gallery": [
+        "\"https://www.ticc.com.tw/wSite/public/Img/f1762915730328.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1762915733941.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1762915737270.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1762915739881.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1762915742601.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1762915745665.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1762915748229.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1762915730328.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1669886153498.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670481736434.jpg\""
+      ],
+      "source": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/cp_VenueSearch.jsp&roomId=103&ctNode=322&CtUnit=99&BaseDSD=7&mp=1"
+    },
+    "venuePageUrl": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/cp_VenueSearch.jsp&roomId=103&ctNode=322&CtUnit=99&BaseDSD=7&mp=1",
+    "status": "active"
+  },
+  {
+    "id": 1458,
+    "name": "台北國際會議中心(TICC)",
+    "city": "台北市",
+    "address": "台北市信義區信義路五段1號",
+    "contactPhone": "02-2725-5200",
+    "contactEmail": "ticc@taitra.org.tw",
+    "url": "https://www.ticc.com.tw/",
+    "venueType": "會議中心",
+    "roomName": "105",
+    "priceHalfDay": 18500,
+    "priceFullDay": 21500,
+    "maxCapacityTheater": null,
+    "maxCapacityClassroom": null,
+    "area": "35 坪",
+    "images": {
+      "main": "https://upload.wikimedia.org/wikipedia/commons/d/de/Taipei_International_Convention_Center_20161126a.jpg",
+      "gallery": [
+        "\"https://www.ticc.com.tw/wSite/public/Img/f1670489853837.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670489863493.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670489869775.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670489878165.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1689314544318.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670489853837.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1669886153498.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670481736434.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670484282493.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670485435728.jpg\""
+      ],
+      "source": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/cp_VenueSearch.jsp&roomId=105&ctNode=322&CtUnit=99&BaseDSD=7&mp=1"
+    },
+    "venuePageUrl": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/cp_VenueSearch.jsp&roomId=105&ctNode=322&CtUnit=99&BaseDSD=7&mp=1",
+    "status": "active"
+  },
+  {
+    "id": 1459,
+    "name": "台北國際會議中心(TICC)",
+    "city": "台北市",
+    "address": "台北市信義區信義路五段1號",
+    "contactPhone": "02-2725-5200",
+    "contactEmail": "ticc@taitra.org.tw",
+    "url": "https://www.ticc.com.tw/",
+    "venueType": "會議中心",
+    "roomName": "106",
+    "priceHalfDay": 10000,
+    "priceFullDay": 10000,
+    "maxCapacityTheater": null,
+    "maxCapacityClassroom": null,
+    "area": "12 坪",
+    "images": {
+      "main": "https://upload.wikimedia.org/wikipedia/commons/d/de/Taipei_International_Convention_Center_20161126a.jpg",
+      "gallery": [
+        "\"https://www.ticc.com.tw/wSite/public/Img/f1670490331790.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670490392040.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670490533665.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670490331790.jpg\""
+      ],
+      "source": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/cp_VenueSearch.jsp&roomId=106&ctNode=322&CtUnit=99&BaseDSD=7&mp=1"
+    },
+    "venuePageUrl": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/cp_VenueSearch.jsp&roomId=106&ctNode=322&CtUnit=99&BaseDSD=7&mp=1",
+    "status": "active"
+  },
+  {
+    "id": 1460,
+    "name": "台北國際會議中心(TICC)",
+    "city": "台北市",
+    "address": "台北市信義區信義路五段1號",
+    "contactPhone": "02-2725-5200",
+    "contactEmail": "ticc@taitra.org.tw",
+    "url": "https://www.ticc.com.tw/",
+    "venueType": "會議中心",
+    "roomName": "1F北貴賓室",
+    "priceHalfDay": 20000,
+    "priceFullDay": 20000,
+    "maxCapacityTheater": null,
+    "maxCapacityClassroom": null,
+    "area": "12 坪",
+    "images": {
+      "main": "https://upload.wikimedia.org/wikipedia/commons/d/de/Taipei_International_Convention_Center_20161126a.jpg",
+      "gallery": [
+        "\"https://www.ticc.com.tw/wSite/public/Img/f1670491293681.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1725846988757.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1725846992007.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670491293681.jpg\""
+      ],
+      "source": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/cp_VenueSearch.jsp&roomId=1FVIP_N&ctNode=322&CtUnit=99&BaseDSD=7&mp=1"
+    },
+    "venuePageUrl": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/cp_VenueSearch.jsp&roomId=1FVIP_N&ctNode=322&CtUnit=99&BaseDSD=7&mp=1",
+    "status": "active"
+  },
+  {
+    "id": 1461,
+    "name": "台北國際會議中心(TICC)",
+    "city": "台北市",
+    "address": "台北市信義區信義路五段1號",
+    "contactPhone": "02-2725-5200",
+    "contactEmail": "ticc@taitra.org.tw",
+    "url": "https://www.ticc.com.tw/",
+    "venueType": "會議中心",
+    "roomName": "1F南貴賓室",
+    "priceHalfDay": 20000,
+    "priceFullDay": 20000,
+    "maxCapacityTheater": null,
+    "maxCapacityClassroom": null,
+    "area": "13 坪",
+    "images": {
+      "main": "https://upload.wikimedia.org/wikipedia/commons/d/de/Taipei_International_Convention_Center_20161126a.jpg",
+      "gallery": [
+        "\"https://www.ticc.com.tw/wSite/public/Img/f1670491539853.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670491548009.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670491556056.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670491576290.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670491539853.jpg\""
+      ],
+      "source": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/cp_VenueSearch.jsp&roomId=1FVIP_S&ctNode=322&CtUnit=99&BaseDSD=7&mp=1"
+    },
+    "venuePageUrl": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/cp_VenueSearch.jsp&roomId=1FVIP_S&ctNode=322&CtUnit=99&BaseDSD=7&mp=1",
+    "status": "active"
+  },
+  {
+    "id": 1462,
+    "name": "台北國際會議中心(TICC)",
+    "city": "台北市",
+    "address": "台北市信義區信義路五段1號",
+    "contactPhone": "02-2725-5200",
+    "contactEmail": "ticc@taitra.org.tw",
+    "url": "https://www.ticc.com.tw/",
+    "venueType": "會議中心",
+    "roomName": "201全室",
+    "priceHalfDay": 67000,
+    "priceFullDay": 80000,
+    "maxCapacityTheater": null,
+    "maxCapacityClassroom": null,
+    "area": "220 坪",
+    "images": {
+      "main": "https://upload.wikimedia.org/wikipedia/commons/d/de/Taipei_International_Convention_Center_20161126a.jpg",
+      "gallery": [
+        "\"https://www.ticc.com.tw/wSite/public/Img/f1670556750127.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670556757736.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670556767017.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670556774408.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1661738442678.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670556750127.jpg\""
+      ],
+      "source": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/cp_VenueSearch.jsp&roomId=201&ctNode=322&CtUnit=99&BaseDSD=7&mp=1"
+    },
+    "venuePageUrl": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/cp_VenueSearch.jsp&roomId=201&ctNode=322&CtUnit=99&BaseDSD=7&mp=1",
+    "status": "active"
+  },
+  {
+    "id": 1463,
+    "name": "台北國際會議中心(TICC)",
+    "city": "台北市",
+    "address": "台北市信義區信義路五段1號",
+    "contactPhone": "02-2725-5200",
+    "contactEmail": "ticc@taitra.org.tw",
+    "url": "https://www.ticc.com.tw/",
+    "venueType": "會議中心",
+    "roomName": "201A",
+    "priceHalfDay": 15000,
+    "priceFullDay": 18000,
+    "maxCapacityTheater": null,
+    "maxCapacityClassroom": null,
+    "area": "43 坪",
+    "images": {
+      "main": "https://upload.wikimedia.org/wikipedia/commons/d/de/Taipei_International_Convention_Center_20161126a.jpg",
+      "gallery": [
+        "\"https://www.ticc.com.tw/wSite/public/Img/f1670555922283.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670555930799.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670555938033.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670555945955.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670555922283.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1669886153498.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670481736434.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670484282493.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670485435728.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670685990671.jpg\""
+      ],
+      "source": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/cp_VenueSearch.jsp&roomId=201A&ctNode=322&CtUnit=99&BaseDSD=7&mp=1"
+    },
+    "venuePageUrl": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/cp_VenueSearch.jsp&roomId=201A&ctNode=322&CtUnit=99&BaseDSD=7&mp=1",
+    "status": "active"
+  },
+  {
+    "id": 1464,
+    "name": "台北國際會議中心(TICC)",
+    "city": "台北市",
+    "address": "台北市信義區信義路五段1號",
+    "contactPhone": "02-2725-5200",
+    "contactEmail": "ticc@taitra.org.tw",
+    "url": "https://www.ticc.com.tw/",
+    "venueType": "會議中心",
+    "roomName": "201AB",
+    "priceHalfDay": 29000,
+    "priceFullDay": 34000,
+    "maxCapacityTheater": null,
+    "maxCapacityClassroom": null,
+    "area": "76 坪",
+    "images": {
+      "main": "https://upload.wikimedia.org/wikipedia/commons/d/de/Taipei_International_Convention_Center_20161126a.jpg",
+      "gallery": [
+        "\"https://www.ticc.com.tw/wSite/public/Img/f1670564922689.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670564931705.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670564939689.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670564950439.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670564922689.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670480681699.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670484860353.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670575536939.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670577929830.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670575536939.jpg\""
+      ],
+      "source": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/cp_VenueSearch.jsp&roomId=201AB&ctNode=322&CtUnit=99&BaseDSD=7&mp=1"
+    },
+    "venuePageUrl": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/cp_VenueSearch.jsp&roomId=201AB&ctNode=322&CtUnit=99&BaseDSD=7&mp=1",
+    "status": "active"
+  },
+  {
+    "id": 1465,
+    "name": "台北國際會議中心(TICC)",
+    "city": "台北市",
+    "address": "台北市信義區信義路五段1號",
+    "contactPhone": "02-2725-5200",
+    "contactEmail": "ticc@taitra.org.tw",
+    "url": "https://www.ticc.com.tw/",
+    "venueType": "會議中心",
+    "roomName": "201ABC",
+    "priceHalfDay": 44000,
+    "priceFullDay": 54000,
+    "maxCapacityTheater": null,
+    "maxCapacityClassroom": null,
+    "area": "112 坪",
+    "images": {
+      "main": "https://upload.wikimedia.org/wikipedia/commons/d/de/Taipei_International_Convention_Center_20161126a.jpg",
+      "gallery": [
+        "\"https://www.ticc.com.tw/wSite/public/Img/f1670567795439.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670567804236.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670567825658.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670567886721.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670567795439.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670575896127.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670681321562.jpg\""
+      ],
+      "source": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/cp_VenueSearch.jsp&roomId=201ABC&ctNode=322&CtUnit=99&BaseDSD=7&mp=1"
+    },
+    "venuePageUrl": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/cp_VenueSearch.jsp&roomId=201ABC&ctNode=322&CtUnit=99&BaseDSD=7&mp=1",
+    "status": "active"
+  },
+  {
+    "id": 1466,
+    "name": "台北國際會議中心(TICC)",
+    "city": "台北市",
+    "address": "台北市信義區信義路五段1號",
+    "contactPhone": "02-2725-5200",
+    "contactEmail": "ticc@taitra.org.tw",
+    "url": "https://www.ticc.com.tw/",
+    "venueType": "會議中心",
+    "roomName": "201ABEF",
+    "priceHalfDay": 57000,
+    "priceFullDay": 68000,
+    "maxCapacityTheater": null,
+    "maxCapacityClassroom": null,
+    "area": "152 坪",
+    "images": {
+      "main": "https://upload.wikimedia.org/wikipedia/commons/d/de/Taipei_International_Convention_Center_20161126a.jpg",
+      "gallery": [
+        "\"https://www.ticc.com.tw/wSite/public/Img/f1670568868564.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670568877955.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670568887455.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670568898596.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670568868564.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670575896127.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1765766018177.jpg\""
+      ],
+      "source": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/cp_VenueSearch.jsp&roomId=201ABEF&ctNode=322&CtUnit=99&BaseDSD=7&mp=1"
+    },
+    "venuePageUrl": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/cp_VenueSearch.jsp&roomId=201ABEF&ctNode=322&CtUnit=99&BaseDSD=7&mp=1",
+    "status": "active"
+  },
+  {
+    "id": 1467,
+    "name": "台北國際會議中心(TICC)",
+    "city": "台北市",
+    "address": "台北市信義區信義路五段1號",
+    "contactPhone": "02-2725-5200",
+    "contactEmail": "ticc@taitra.org.tw",
+    "url": "https://www.ticc.com.tw/",
+    "venueType": "會議中心",
+    "roomName": "201AF",
+    "priceHalfDay": 30000,
+    "priceFullDay": 36000,
+    "maxCapacityTheater": null,
+    "maxCapacityClassroom": null,
+    "area": "82 坪",
+    "images": {
+      "main": "https://upload.wikimedia.org/wikipedia/commons/d/de/Taipei_International_Convention_Center_20161126a.jpg",
+      "gallery": [
+        "\"https://www.ticc.com.tw/wSite/public/Img/f1670569732174.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670569753205.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670569775252.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670569798580.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670569732174.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1669886153498.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670481736434.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670484282493.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670485435728.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670686433187.jpg\""
+      ],
+      "source": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/cp_VenueSearch.jsp&roomId=201AF&ctNode=322&CtUnit=99&BaseDSD=7&mp=1"
+    },
+    "venuePageUrl": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/cp_VenueSearch.jsp&roomId=201AF&ctNode=322&CtUnit=99&BaseDSD=7&mp=1",
+    "status": "active"
+  },
+  {
+    "id": 1468,
+    "name": "台北國際會議中心(TICC)",
+    "city": "台北市",
+    "address": "台北市信義區信義路五段1號",
+    "contactPhone": "02-2725-5200",
+    "contactEmail": "ticc@taitra.org.tw",
+    "url": "https://www.ticc.com.tw/",
+    "venueType": "會議中心",
+    "roomName": "201B",
+    "priceHalfDay": 15000,
+    "priceFullDay": 18000,
+    "maxCapacityTheater": null,
+    "maxCapacityClassroom": null,
+    "area": "34 坪",
+    "images": {
+      "main": "https://upload.wikimedia.org/wikipedia/commons/d/de/Taipei_International_Convention_Center_20161126a.jpg",
+      "gallery": [
+        "\"https://www.ticc.com.tw/wSite/public/Img/f1670570993549.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670571003033.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670571011658.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670571020517.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670570993549.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1669886153498.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670485435728.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1762915730328.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670489853837.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670685990671.jpg\""
+      ],
+      "source": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/cp_VenueSearch.jsp&roomId=201B&ctNode=322&CtUnit=99&BaseDSD=7&mp=1"
+    },
+    "venuePageUrl": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/cp_VenueSearch.jsp&roomId=201B&ctNode=322&CtUnit=99&BaseDSD=7&mp=1",
+    "status": "active"
+  },
+  {
+    "id": 1469,
+    "name": "台北國際會議中心(TICC)",
+    "city": "台北市",
+    "address": "台北市信義區信義路五段1號",
+    "contactPhone": "02-2725-5200",
+    "contactEmail": "ticc@taitra.org.tw",
+    "url": "https://www.ticc.com.tw/",
+    "venueType": "會議中心",
+    "roomName": "201BC",
+    "priceHalfDay": 30000,
+    "priceFullDay": 36000,
+    "maxCapacityTheater": null,
+    "maxCapacityClassroom": null,
+    "area": "70 坪",
+    "images": {
+      "main": "https://upload.wikimedia.org/wikipedia/commons/d/de/Taipei_International_Convention_Center_20161126a.jpg",
+      "gallery": [
+        "\"https://www.ticc.com.tw/wSite/public/Img/f1670575536939.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670575548892.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670575562596.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670575571205.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670575536939.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670480681699.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670481736434.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670484282493.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670484860353.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670569732174.jpg\""
+      ],
+      "source": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/cp_VenueSearch.jsp&roomId=201BC&ctNode=322&CtUnit=99&BaseDSD=7&mp=1"
+    },
+    "venuePageUrl": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/cp_VenueSearch.jsp&roomId=201BC&ctNode=322&CtUnit=99&BaseDSD=7&mp=1",
+    "status": "active"
+  },
+  {
+    "id": 1470,
+    "name": "台北國際會議中心(TICC)",
+    "city": "台北市",
+    "address": "台北市信義區信義路五段1號",
+    "contactPhone": "02-2725-5200",
+    "contactEmail": "ticc@taitra.org.tw",
+    "url": "https://www.ticc.com.tw/",
+    "venueType": "會議中心",
+    "roomName": "201BCDE",
+    "priceHalfDay": 59000,
+    "priceFullDay": 72000,
+    "maxCapacityTheater": null,
+    "maxCapacityClassroom": null,
+    "area": "140 坪",
+    "images": {
+      "main": "https://upload.wikimedia.org/wikipedia/commons/d/de/Taipei_International_Convention_Center_20161126a.jpg",
+      "gallery": [
+        "\"https://www.ticc.com.tw/wSite/public/Img/f1670575896127.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670575906471.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670575915611.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670575923549.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670575896127.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670567795439.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670568868564.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670681321562.jpg\""
+      ],
+      "source": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/cp_VenueSearch.jsp&roomId=201BCDE&ctNode=322&CtUnit=99&BaseDSD=7&mp=1"
+    },
+    "venuePageUrl": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/cp_VenueSearch.jsp&roomId=201BCDE&ctNode=322&CtUnit=99&BaseDSD=7&mp=1",
+    "status": "active"
+  },
+  {
+    "id": 1471,
+    "name": "台北國際會議中心(TICC)",
+    "city": "台北市",
+    "address": "台北市信義區信義路五段1號",
+    "contactPhone": "02-2725-5200",
+    "contactEmail": "ticc@taitra.org.tw",
+    "url": "https://www.ticc.com.tw/",
+    "venueType": "會議中心",
+    "roomName": "201BE",
+    "priceHalfDay": 30000,
+    "priceFullDay": 36000,
+    "maxCapacityTheater": null,
+    "maxCapacityClassroom": null,
+    "area": "68 坪",
+    "images": {
+      "main": "https://upload.wikimedia.org/wikipedia/commons/d/de/Taipei_International_Convention_Center_20161126a.jpg",
+      "gallery": [
+        "\"https://www.ticc.com.tw/wSite/public/Img/f1671697520492.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1671697522954.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1671697525270.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1671697527905.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1671697520492.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1669886153498.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670481736434.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670484282493.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670485435728.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670685990671.jpg\""
+      ],
+      "source": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/cp_VenueSearch.jsp&roomId=201BE&ctNode=322&CtUnit=99&BaseDSD=7&mp=1"
+    },
+    "venuePageUrl": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/cp_VenueSearch.jsp&roomId=201BE&ctNode=322&CtUnit=99&BaseDSD=7&mp=1",
+    "status": "active"
+  },
+  {
+    "id": 1472,
+    "name": "台北國際會議中心(TICC)",
+    "city": "台北市",
+    "address": "台北市信義區信義路五段1號",
+    "contactPhone": "02-2725-5200",
+    "contactEmail": "ticc@taitra.org.tw",
+    "url": "https://www.ticc.com.tw/",
+    "venueType": "會議中心",
+    "roomName": "201C",
+    "priceHalfDay": 16000,
+    "priceFullDay": 19000,
+    "maxCapacityTheater": null,
+    "maxCapacityClassroom": null,
+    "area": "35 坪",
+    "images": {
+      "main": "https://upload.wikimedia.org/wikipedia/commons/d/de/Taipei_International_Convention_Center_20161126a.jpg",
+      "gallery": [
+        "\"https://www.ticc.com.tw/wSite/public/Img/f1670576418971.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670576426877.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670576434517.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670576443221.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670576418971.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1669886153498.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670485435728.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1762915730328.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670489853837.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670685990671.jpg\""
+      ],
+      "source": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/cp_VenueSearch.jsp&roomId=201C&ctNode=322&CtUnit=99&BaseDSD=7&mp=1"
+    },
+    "venuePageUrl": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/cp_VenueSearch.jsp&roomId=201C&ctNode=322&CtUnit=99&BaseDSD=7&mp=1",
+    "status": "active"
+  },
+  {
+    "id": 1473,
+    "name": "台北國際會議中心(TICC)",
+    "city": "台北市",
+    "address": "台北市信義區信義路五段1號",
+    "contactPhone": "02-2725-5200",
+    "contactEmail": "ticc@taitra.org.tw",
+    "url": "https://www.ticc.com.tw/",
+    "venueType": "會議中心",
+    "roomName": "201CD",
+    "priceHalfDay": 32000,
+    "priceFullDay": 38000,
+    "maxCapacityTheater": null,
+    "maxCapacityClassroom": null,
+    "area": "70 坪",
+    "images": {
+      "main": "https://upload.wikimedia.org/wikipedia/commons/d/de/Taipei_International_Convention_Center_20161126a.jpg",
+      "gallery": [
+        "\"https://www.ticc.com.tw/wSite/public/Img/f1671678460687.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1671678468109.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1671678886972.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1671678460687.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1669886153498.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670481736434.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670484282493.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670485435728.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670685990671.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670761530546.jpg\""
+      ],
+      "source": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/cp_VenueSearch.jsp&roomId=201CD&ctNode=322&CtUnit=99&BaseDSD=7&mp=1"
+    },
+    "venuePageUrl": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/cp_VenueSearch.jsp&roomId=201CD&ctNode=322&CtUnit=99&BaseDSD=7&mp=1",
+    "status": "active"
+  },
+  {
+    "id": 1474,
+    "name": "台北國際會議中心(TICC)",
+    "city": "台北市",
+    "address": "台北市信義區信義路五段1號",
+    "contactPhone": "02-2725-5200",
+    "contactEmail": "ticc@taitra.org.tw",
+    "url": "https://www.ticc.com.tw/",
+    "venueType": "會議中心",
+    "roomName": "201D",
+    "priceHalfDay": 16000,
+    "priceFullDay": 19000,
+    "maxCapacityTheater": null,
+    "maxCapacityClassroom": null,
+    "area": "35 坪",
+    "images": {
+      "main": "https://upload.wikimedia.org/wikipedia/commons/d/de/Taipei_International_Convention_Center_20161126a.jpg",
+      "gallery": [
+        "\"https://www.ticc.com.tw/wSite/public/Img/f1670577132142.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670577139221.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670577146971.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670577153814.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670577132142.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1669886153498.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670485435728.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1762915730328.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670489853837.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670685990671.jpg\""
+      ],
+      "source": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/cp_VenueSearch.jsp&roomId=201D&ctNode=322&CtUnit=99&BaseDSD=7&mp=1"
+    },
+    "venuePageUrl": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/cp_VenueSearch.jsp&roomId=201D&ctNode=322&CtUnit=99&BaseDSD=7&mp=1",
+    "status": "active"
+  },
+  {
+    "id": 1475,
+    "name": "台北國際會議中心(TICC)",
+    "city": "台北市",
+    "address": "台北市信義區信義路五段1號",
+    "contactPhone": "02-2725-5200",
+    "contactEmail": "ticc@taitra.org.tw",
+    "url": "https://www.ticc.com.tw/",
+    "venueType": "會議中心",
+    "roomName": "201DE",
+    "priceHalfDay": 30000,
+    "priceFullDay": 36000,
+    "maxCapacityTheater": null,
+    "maxCapacityClassroom": null,
+    "area": "70 坪",
+    "images": {
+      "main": "https://upload.wikimedia.org/wikipedia/commons/d/de/Taipei_International_Convention_Center_20161126a.jpg",
+      "gallery": [
+        "\"https://www.ticc.com.tw/wSite/public/Img/f1670577929830.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670577938658.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670577947549.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670577955314.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670577929830.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670480681699.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670481736434.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670484282493.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670484860353.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670569732174.jpg\""
+      ],
+      "source": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/cp_VenueSearch.jsp&roomId=201DE&ctNode=322&CtUnit=99&BaseDSD=7&mp=1"
+    },
+    "venuePageUrl": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/cp_VenueSearch.jsp&roomId=201DE&ctNode=322&CtUnit=99&BaseDSD=7&mp=1",
+    "status": "active"
+  },
+  {
+    "id": 1476,
+    "name": "台北國際會議中心(TICC)",
+    "city": "台北市",
+    "address": "台北市信義區信義路五段1號",
+    "contactPhone": "02-2725-5200",
+    "contactEmail": "ticc@taitra.org.tw",
+    "url": "https://www.ticc.com.tw/",
+    "venueType": "會議中心",
+    "roomName": "201DEF",
+    "priceHalfDay": 44000,
+    "priceFullDay": 54000,
+    "maxCapacityTheater": null,
+    "maxCapacityClassroom": null,
+    "area": "112 坪",
+    "images": {
+      "main": "https://upload.wikimedia.org/wikipedia/commons/d/de/Taipei_International_Convention_Center_20161126a.jpg",
+      "gallery": [
+        "\"https://www.ticc.com.tw/wSite/public/Img/f1670681321562.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670681328984.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670681336171.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670681343937.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670681321562.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670567795439.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670575896127.jpg\""
+      ],
+      "source": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/cp_VenueSearch.jsp&roomId=201DEF&ctNode=322&CtUnit=99&BaseDSD=7&mp=1"
+    },
+    "venuePageUrl": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/cp_VenueSearch.jsp&roomId=201DEF&ctNode=322&CtUnit=99&BaseDSD=7&mp=1",
+    "status": "active"
+  },
+  {
+    "id": 1477,
+    "name": "台北國際會議中心(TICC)",
+    "city": "台北市",
+    "address": "台北市信義區信義路五段1號",
+    "contactPhone": "02-2725-5200",
+    "contactEmail": "ticc@taitra.org.tw",
+    "url": "https://www.ticc.com.tw/",
+    "venueType": "會議中心",
+    "roomName": "201E",
+    "priceHalfDay": 15000,
+    "priceFullDay": 18000,
+    "maxCapacityTheater": null,
+    "maxCapacityClassroom": null,
+    "area": "34 坪",
+    "images": {
+      "main": "https://upload.wikimedia.org/wikipedia/commons/d/de/Taipei_International_Convention_Center_20161126a.jpg",
+      "gallery": [
+        "\"https://www.ticc.com.tw/wSite/public/Img/f1670682015468.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670682023718.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670682031109.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670682038812.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670682015468.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1669886153498.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670485435728.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1762915730328.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670489853837.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670685990671.jpg\""
+      ],
+      "source": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/cp_VenueSearch.jsp&roomId=201E&ctNode=322&CtUnit=99&BaseDSD=7&mp=1"
+    },
+    "venuePageUrl": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/cp_VenueSearch.jsp&roomId=201E&ctNode=322&CtUnit=99&BaseDSD=7&mp=1",
+    "status": "active"
+  },
+  {
+    "id": 1478,
+    "name": "台北國際會議中心(TICC)",
+    "city": "台北市",
+    "address": "台北市信義區信義路五段1號",
+    "contactPhone": "02-2725-5200",
+    "contactEmail": "ticc@taitra.org.tw",
+    "url": "https://www.ticc.com.tw/",
+    "venueType": "會議中心",
+    "roomName": "201EF",
+    "priceHalfDay": 29000,
+    "priceFullDay": 34000,
+    "maxCapacityTheater": null,
+    "maxCapacityClassroom": null,
+    "area": "76 坪",
+    "images": {
+      "main": "https://upload.wikimedia.org/wikipedia/commons/d/de/Taipei_International_Convention_Center_20161126a.jpg",
+      "gallery": [
+        "\"https://www.ticc.com.tw/wSite/public/Img/f1670682401734.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670682411765.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670682420265.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670682429499.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670682401734.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670480681699.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670484860353.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670564922689.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670575536939.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670564922689.jpg\""
+      ],
+      "source": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/cp_VenueSearch.jsp&roomId=201EF&ctNode=322&CtUnit=99&BaseDSD=7&mp=1"
+    },
+    "venuePageUrl": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/cp_VenueSearch.jsp&roomId=201EF&ctNode=322&CtUnit=99&BaseDSD=7&mp=1",
+    "status": "active"
+  },
+  {
+    "id": 1479,
+    "name": "台北國際會議中心(TICC)",
+    "city": "台北市",
+    "address": "台北市信義區信義路五段1號",
+    "contactPhone": "02-2725-5200",
+    "contactEmail": "ticc@taitra.org.tw",
+    "url": "https://www.ticc.com.tw/",
+    "venueType": "會議中心",
+    "roomName": "201F",
+    "priceHalfDay": 15000,
+    "priceFullDay": 18000,
+    "maxCapacityTheater": null,
+    "maxCapacityClassroom": null,
+    "area": "41 坪",
+    "images": {
+      "main": "https://upload.wikimedia.org/wikipedia/commons/d/de/Taipei_International_Convention_Center_20161126a.jpg",
+      "gallery": [
+        "\"https://www.ticc.com.tw/wSite/public/Img/f1671696996184.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1671696999185.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1671697001910.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1671697004612.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1671696996184.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1669886153498.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670481736434.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670484282493.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670485435728.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670685990671.jpg\""
+      ],
+      "source": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/cp_VenueSearch.jsp&roomId=201F&ctNode=322&CtUnit=99&BaseDSD=7&mp=1"
+    },
+    "venuePageUrl": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/cp_VenueSearch.jsp&roomId=201F&ctNode=322&CtUnit=99&BaseDSD=7&mp=1",
+    "status": "active"
+  },
+  {
+    "id": 1480,
+    "name": "台北國際會議中心(TICC)",
+    "city": "台北市",
+    "address": "台北市信義區信義路五段1號",
+    "contactPhone": "02-2725-5200",
+    "contactEmail": "ticc@taitra.org.tw",
+    "url": "https://www.ticc.com.tw/",
+    "venueType": "會議中心",
+    "roomName": "202全室",
+    "priceHalfDay": 12000,
+    "priceFullDay": 14000,
+    "maxCapacityTheater": null,
+    "maxCapacityClassroom": null,
+    "area": "33 坪",
+    "images": {
+      "main": "https://upload.wikimedia.org/wikipedia/commons/d/de/Taipei_International_Convention_Center_20161126a.jpg",
+      "gallery": [
+        "\"https://www.ticc.com.tw/wSite/public/Img/f1670683277859.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670683286374.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670683294859.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670683302546.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670683277859.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1669886153498.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670485435728.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1762915730328.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670489853837.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670685990671.jpg\""
+      ],
+      "source": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/cp_VenueSearch.jsp&roomId=202&ctNode=322&CtUnit=99&BaseDSD=7&mp=1"
+    },
+    "venuePageUrl": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/cp_VenueSearch.jsp&roomId=202&ctNode=322&CtUnit=99&BaseDSD=7&mp=1",
+    "status": "active"
+  },
+  {
+    "id": 1481,
+    "name": "台北國際會議中心(TICC)",
+    "city": "台北市",
+    "address": "台北市信義區信義路五段1號",
+    "contactPhone": "02-2725-5200",
+    "contactEmail": "ticc@taitra.org.tw",
+    "url": "https://www.ticc.com.tw/",
+    "venueType": "會議中心",
+    "roomName": "202A",
+    "priceHalfDay": 7000,
+    "priceFullDay": 8000,
+    "maxCapacityTheater": null,
+    "maxCapacityClassroom": null,
+    "area": "21 坪",
+    "images": {
+      "main": "https://upload.wikimedia.org/wikipedia/commons/d/de/Taipei_International_Convention_Center_20161126a.jpg",
+      "gallery": [
+        "\"https://www.ticc.com.tw/wSite/public/Img/f1670683641140.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670683648999.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1688610399883.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670683641140.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1669886153498.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670485435728.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670486690431.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1762915730328.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670761530546.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670764675968.jpg\""
+      ],
+      "source": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/cp_VenueSearch.jsp&roomId=202A&ctNode=322&CtUnit=99&BaseDSD=7&mp=1"
+    },
+    "venuePageUrl": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/cp_VenueSearch.jsp&roomId=202A&ctNode=322&CtUnit=99&BaseDSD=7&mp=1",
+    "status": "active"
+  },
+  {
+    "id": 1482,
+    "name": "台北國際會議中心(TICC)",
+    "city": "台北市",
+    "address": "台北市信義區信義路五段1號",
+    "contactPhone": "02-2725-5200",
+    "contactEmail": "ticc@taitra.org.tw",
+    "url": "https://www.ticc.com.tw/",
+    "venueType": "會議中心",
+    "roomName": "202B",
+    "priceHalfDay": 5000,
+    "priceFullDay": 6000,
+    "maxCapacityTheater": null,
+    "maxCapacityClassroom": null,
+    "area": "13 坪",
+    "images": {
+      "main": "https://upload.wikimedia.org/wikipedia/commons/d/de/Taipei_International_Convention_Center_20161126a.jpg",
+      "gallery": [
+        "\"https://www.ticc.com.tw/wSite/public/Img/f1670684008999.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670684017046.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670684008999.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670486690431.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1762915730328.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670489853837.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670490331790.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670761530546.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670764675968.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670764323265.jpg\""
+      ],
+      "source": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/cp_VenueSearch.jsp&roomId=202B&ctNode=322&CtUnit=99&BaseDSD=7&mp=1"
+    },
+    "venuePageUrl": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/cp_VenueSearch.jsp&roomId=202B&ctNode=322&CtUnit=99&BaseDSD=7&mp=1",
+    "status": "active"
+  },
+  {
+    "id": 1483,
+    "name": "台北國際會議中心(TICC)",
+    "city": "台北市",
+    "address": "台北市信義區信義路五段1號",
+    "contactPhone": "02-2725-5200",
+    "contactEmail": "ticc@taitra.org.tw",
+    "url": "https://www.ticc.com.tw/",
+    "venueType": "會議中心",
+    "roomName": "203全室",
+    "priceHalfDay": 12000,
+    "priceFullDay": 14000,
+    "maxCapacityTheater": null,
+    "maxCapacityClassroom": null,
+    "area": "33 坪",
+    "images": {
+      "main": "https://upload.wikimedia.org/wikipedia/commons/d/de/Taipei_International_Convention_Center_20161126a.jpg",
+      "gallery": [
+        "\"https://www.ticc.com.tw/wSite/public/Img/f1670684634655.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670684650421.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670684658655.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670684667077.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670684634655.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1669886153498.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670485435728.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1762915730328.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670489853837.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670685990671.jpg\""
+      ],
+      "source": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/cp_VenueSearch.jsp&roomId=203&ctNode=322&CtUnit=99&BaseDSD=7&mp=1"
+    },
+    "venuePageUrl": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/cp_VenueSearch.jsp&roomId=203&ctNode=322&CtUnit=99&BaseDSD=7&mp=1",
+    "status": "active"
+  },
+  {
+    "id": 1484,
+    "name": "台北國際會議中心(TICC)",
+    "city": "台北市",
+    "address": "台北市信義區信義路五段1號",
+    "contactPhone": "02-2725-5200",
+    "contactEmail": "ticc@taitra.org.tw",
+    "url": "https://www.ticc.com.tw/",
+    "venueType": "會議中心",
+    "roomName": "203A",
+    "priceHalfDay": 7000,
+    "priceFullDay": 8000,
+    "maxCapacityTheater": null,
+    "maxCapacityClassroom": null,
+    "area": "13 坪",
+    "images": {
+      "main": "https://upload.wikimedia.org/wikipedia/commons/d/de/Taipei_International_Convention_Center_20161126a.jpg",
+      "gallery": [
+        "\"https://www.ticc.com.tw/wSite/public/Img/f1670685082015.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670685090468.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670685098640.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670685082015.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1669886153498.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670485435728.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670486690431.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1762915730328.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670761530546.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670764675968.jpg\""
+      ],
+      "source": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/cp_VenueSearch.jsp&roomId=203A&ctNode=322&CtUnit=99&BaseDSD=7&mp=1"
+    },
+    "venuePageUrl": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/cp_VenueSearch.jsp&roomId=203A&ctNode=322&CtUnit=99&BaseDSD=7&mp=1",
+    "status": "active"
+  },
+  {
+    "id": 1485,
+    "name": "台北國際會議中心(TICC)",
+    "city": "台北市",
+    "address": "台北市信義區信義路五段1號",
+    "contactPhone": "02-2725-5200",
+    "contactEmail": "ticc@taitra.org.tw",
+    "url": "https://www.ticc.com.tw/",
+    "venueType": "會議中心",
+    "roomName": "203B",
+    "priceHalfDay": 5000,
+    "priceFullDay": 6000,
+    "maxCapacityTheater": null,
+    "maxCapacityClassroom": null,
+    "area": "13 坪",
+    "images": {
+      "main": "https://upload.wikimedia.org/wikipedia/commons/d/de/Taipei_International_Convention_Center_20161126a.jpg",
+      "gallery": [
+        "\"https://www.ticc.com.tw/wSite/public/Img/f1670685348843.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670685356999.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670685348843.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670486690431.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1762915730328.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670489853837.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670490331790.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670761530546.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670764675968.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670764323265.jpg\""
+      ],
+      "source": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/cp_VenueSearch.jsp&roomId=203B&ctNode=322&CtUnit=99&BaseDSD=7&mp=1"
+    },
+    "venuePageUrl": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/cp_VenueSearch.jsp&roomId=203B&ctNode=322&CtUnit=99&BaseDSD=7&mp=1",
+    "status": "active"
+  },
+  {
+    "id": 1486,
+    "name": "台北國際會議中心(TICC)",
+    "city": "台北市",
+    "address": "台北市信義區信義路五段1號",
+    "contactPhone": "02-2725-5200",
+    "contactEmail": "ticc@taitra.org.tw",
+    "url": "https://www.ticc.com.tw/",
+    "venueType": "會議中心",
+    "roomName": "3樓宴會廳",
+    "priceHalfDay": 79000,
+    "priceFullDay": 95000,
+    "maxCapacityTheater": null,
+    "maxCapacityClassroom": null,
+    "area": "295 坪",
+    "images": {
+      "main": "https://upload.wikimedia.org/wikipedia/commons/d/de/Taipei_International_Convention_Center_20161126a.jpg",
+      "gallery": [
+        "\"https://www.ticc.com.tw/wSite/public/Img/f1765766018177.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1765766027901.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1765766031231.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1765766033436.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1765766018177.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670568868564.jpg\""
+      ],
+      "source": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/cp_VenueSearch.jsp&roomId=3FBA&ctNode=322&CtUnit=99&BaseDSD=7&mp=1"
+    },
+    "venuePageUrl": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/cp_VenueSearch.jsp&roomId=3FBA&ctNode=322&CtUnit=99&BaseDSD=7&mp=1",
+    "status": "active"
+  },
+  {
+    "id": 1487,
+    "name": "台北國際會議中心(TICC)",
+    "city": "台北市",
+    "address": "台北市信義區信義路五段1號",
+    "contactPhone": "02-2725-5200",
+    "contactEmail": "ticc@taitra.org.tw",
+    "url": "https://www.ticc.com.tw/",
+    "venueType": "會議中心",
+    "roomName": "3樓北軒",
+    "priceHalfDay": 18500,
+    "priceFullDay": 21500,
+    "maxCapacityTheater": null,
+    "maxCapacityClassroom": null,
+    "area": "46 坪",
+    "images": {
+      "main": "https://upload.wikimedia.org/wikipedia/commons/d/de/Taipei_International_Convention_Center_20161126a.jpg",
+      "gallery": [
+        "\"https://www.ticc.com.tw/wSite/public/Img/f1670686433187.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670686440202.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670686446968.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670686454921.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670686433187.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1669886153498.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670481736434.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670484282493.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670485435728.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670685990671.jpg\""
+      ],
+      "source": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/cp_VenueSearch.jsp&roomId=3FLG_N&ctNode=322&CtUnit=99&BaseDSD=7&mp=1"
+    },
+    "venuePageUrl": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/cp_VenueSearch.jsp&roomId=3FLG_N&ctNode=322&CtUnit=99&BaseDSD=7&mp=1",
+    "status": "active"
+  },
+  {
+    "id": 1488,
+    "name": "台北國際會議中心(TICC)",
+    "city": "台北市",
+    "address": "台北市信義區信義路五段1號",
+    "contactPhone": "02-2725-5200",
+    "contactEmail": "ticc@taitra.org.tw",
+    "url": "https://www.ticc.com.tw/",
+    "venueType": "會議中心",
+    "roomName": "3樓南軒",
+    "priceHalfDay": 18500,
+    "priceFullDay": 21500,
+    "maxCapacityTheater": null,
+    "maxCapacityClassroom": null,
+    "area": "46 坪",
+    "images": {
+      "main": "https://upload.wikimedia.org/wikipedia/commons/d/de/Taipei_International_Convention_Center_20161126a.jpg",
+      "gallery": [
+        "\"https://www.ticc.com.tw/wSite/public/Img/f1670685990671.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670685998374.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670686006077.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670686013593.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670685990671.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1669886153498.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670481736434.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670484282493.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670485435728.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670686433187.jpg\""
+      ],
+      "source": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/cp_VenueSearch.jsp&roomId=3FLG_S&ctNode=322&CtUnit=99&BaseDSD=7&mp=1"
+    },
+    "venuePageUrl": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/cp_VenueSearch.jsp&roomId=3FLG_S&ctNode=322&CtUnit=99&BaseDSD=7&mp=1",
+    "status": "active"
+  },
+  {
+    "id": 1489,
+    "name": "台北國際會議中心(TICC)",
+    "city": "台北市",
+    "address": "台北市信義區信義路五段1號",
+    "contactPhone": "02-2725-5200",
+    "contactEmail": "ticc@taitra.org.tw",
+    "url": "https://www.ticc.com.tw/",
+    "venueType": "會議中心",
+    "roomName": "401會議室",
+    "priceHalfDay": 20000,
+    "priceFullDay": 24000,
+    "maxCapacityTheater": null,
+    "maxCapacityClassroom": null,
+    "area": "58 坪",
+    "images": {
+      "main": "https://upload.wikimedia.org/wikipedia/commons/d/de/Taipei_International_Convention_Center_20161126a.jpg",
+      "gallery": [
+        "\"https://www.ticc.com.tw/wSite/public/Img/f1670761530546.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670761591437.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670762331843.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670762345030.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670761530546.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1669886153498.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670485435728.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1762915730328.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670489853837.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670686433187.jpg\""
+      ],
+      "source": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/cp_VenueSearch.jsp&roomId=401&ctNode=322&CtUnit=99&BaseDSD=7&mp=1"
+    },
+    "venuePageUrl": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/cp_VenueSearch.jsp&roomId=401&ctNode=322&CtUnit=99&BaseDSD=7&mp=1",
+    "status": "active"
+  },
+  {
+    "id": 1490,
+    "name": "台北國際會議中心(TICC)",
+    "city": "台北市",
+    "address": "台北市信義區信義路五段1號",
+    "contactPhone": "02-2725-5200",
+    "contactEmail": "ticc@taitra.org.tw",
+    "url": "https://www.ticc.com.tw/",
+    "venueType": "會議中心",
+    "roomName": "4樓悅軒",
+    "priceHalfDay": 18500,
+    "priceFullDay": 21500,
+    "maxCapacityTheater": null,
+    "maxCapacityClassroom": null,
+    "area": "46 坪",
+    "images": {
+      "main": "https://upload.wikimedia.org/wikipedia/commons/d/de/Taipei_International_Convention_Center_20161126a.jpg",
+      "gallery": [
+        "\"https://www.ticc.com.tw/wSite/public/Img/f1670764675968.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670764682687.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670764689640.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670764698780.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670764675968.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1669886153498.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670481736434.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670484282493.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670485435728.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670686433187.jpg\""
+      ],
+      "source": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/cp_VenueSearch.jsp&roomId=402&ctNode=322&CtUnit=99&BaseDSD=7&mp=1"
+    },
+    "venuePageUrl": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/cp_VenueSearch.jsp&roomId=402&ctNode=322&CtUnit=99&BaseDSD=7&mp=1",
+    "status": "active"
+  },
+  {
+    "id": 1491,
+    "name": "台北國際會議中心(TICC)",
+    "city": "台北市",
+    "address": "台北市信義區信義路五段1號",
+    "contactPhone": "02-2725-5200",
+    "contactEmail": "ticc@taitra.org.tw",
+    "url": "https://www.ticc.com.tw/",
+    "venueType": "會議中心",
+    "roomName": "4樓雅軒",
+    "priceHalfDay": 18500,
+    "priceFullDay": 21500,
+    "maxCapacityTheater": null,
+    "maxCapacityClassroom": null,
+    "area": "46 坪",
+    "images": {
+      "main": "https://upload.wikimedia.org/wikipedia/commons/d/de/Taipei_International_Convention_Center_20161126a.jpg",
+      "gallery": [
+        "\"https://www.ticc.com.tw/wSite/public/Img/f1670764323265.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670764330327.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670764338905.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670764348562.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670764323265.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1669886153498.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670481736434.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670484282493.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670485435728.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670686433187.jpg\""
+      ],
+      "source": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/cp_VenueSearch.jsp&roomId=4FLGN&ctNode=322&CtUnit=99&BaseDSD=7&mp=1"
+    },
+    "venuePageUrl": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/cp_VenueSearch.jsp&roomId=4FLGN&ctNode=322&CtUnit=99&BaseDSD=7&mp=1",
+    "status": "active"
+  },
+  {
+    "id": 1492,
+    "name": "台北國際會議中心(TICC)",
+    "city": "台北市",
+    "address": "台北市信義區信義路五段1號",
+    "contactPhone": "02-2725-5200",
+    "contactEmail": "ticc@taitra.org.tw",
+    "url": "https://www.ticc.com.tw/",
+    "venueType": "會議中心",
+    "roomName": "4樓鳳凰廳",
+    "priceHalfDay": 42000,
+    "priceFullDay": 63000,
+    "maxCapacityTheater": null,
+    "maxCapacityClassroom": null,
+    "area": "11 坪",
+    "images": {
+      "main": "https://upload.wikimedia.org/wikipedia/commons/d/de/Taipei_International_Convention_Center_20161126a.jpg",
+      "gallery": [
+        "\"https://www.ticc.com.tw/wSite/public/Img/f1670762854984.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670762862796.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670762869452.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670762877687.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670762885702.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670762892624.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670762854984.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670480681699.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670484860353.jpg\\nhttps://www.ticc.com.tw/wSite/public/Img/f1670564922689.jpg\""
+      ],
+      "source": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/cp_VenueSearch.jsp&roomId=4FVIP&ctNode=322&CtUnit=99&BaseDSD=7&mp=1"
+    },
+    "venuePageUrl": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/cp_VenueSearch.jsp&roomId=4FVIP&ctNode=322&CtUnit=99&BaseDSD=7&mp=1",
+    "status": "active"
   }
 ]
