@@ -1,0 +1,42 @@
+{
+  "台北國際會議中心(TICC)": {
+    "url": "https://www.ticc.com.tw",
+    "meeting_page": "https://www.ticc.com.tw/meeting_room.php"
+  },
+  "台北喜來登大飯店(SheratonTaipei)": {
+    "url": "https://www.sheraton.com/taipei",
+    "meeting_page": "https://www.sheraton.com/taipei/meetings"
+  },
+  "台北圓山大飯店": {
+    "url": "https://www.grand-hotel.org",
+    "meeting_page": "https://www.grand-hotel.org/meeting"
+  },
+  "台北文華東方酒店(MOHTaipei)": {
+    "url": "https://www.mandarinoriental.com/taipei",
+    "meeting_page": "https://www.mandarinoriental.com/taipei/meetings-and-events"
+  },
+  "台北國賓大飯店(AmbassadorTaipei)": {
+    "url": "https://www.ambassadorhotel.com.tw/taipei",
+    "meeting_page": "https://www.ambassadorhotel.com.tw/taipei/meeting"
+  },
+  "台北威斯汀六福皇宮(Westin)": {
+    "url": "https://www.westin.com/taipei",
+    "meeting_page": "https://www.westin.com/taipei/meetings"
+  },
+  "台北寒舍艾美酒店(LeMeridienTaipei)": {
+    "url": "https://www.lemeridien-taipei.com",
+    "meeting_page": "https://www.lemeridien-taipei.com/meetings"
+  },
+  "台北君品酒店(PalaisdeChine)": {
+    "url": "https://www.palaisdechine.com",
+    "meeting_page": "https://www.palaisdechine.com/meeting"
+  },
+  "集思台大會議中心(NTUCC)": {
+    "url": "https://www.meeting.com.tw",
+    "meeting_page": "https://www.meeting.com.tw/ntu"
+  },
+  "張榮發基金會(KLCF)國際會議中心": {
+    "url": "https://www.klcfoffice.org",
+    "meeting_page": "https://www.klcfoffice.tw/conference"
+  }
+}

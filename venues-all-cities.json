@@ -1955,8 +1955,9 @@
       ],
       "floorPlan": "",
       "needsUpdate": false,
-      "note": "使用 Unsplash 精品飯店照片",
-      "lastUpdated": "2026-03-01"
+      "note": "照片來源：Unsplash（高品質示意照片）",
+      "lastUpdated": "2026-03-01",
+      "source": "Unsplash"
     },
     "url": "https://www.palaisdechine.com",
     "verified": true,
@@ -2213,8 +2214,9 @@
       ],
       "floorPlan": "",
       "needsUpdate": false,
-      "note": "使用 Unsplash 飯店照片",
-      "lastUpdated": "2026-03-01"
+      "note": "照片來源：Unsplash（高品質示意照片）",
+      "lastUpdated": "2026-03-01",
+      "source": "Unsplash"
     },
     "url": "https://www.sheraton.com/taipei",
     "verified": true,
@@ -2271,15 +2273,13 @@
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "專業音響燈光、投影設備",
     "images": {
-      "main": "https://images.unsplash.com/photo-1564501049412-61c2a3083791?w=800",
-      "gallery": [
-        "https://images.unsplash.com/photo-1438032005730-c779502df39b?w=800",
-        "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800"
-      ],
+      "main": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Ambassador_Hotel_Taipei_20190706.jpg",
+      "gallery": [],
       "floorPlan": "",
       "needsUpdate": false,
-      "note": "使用 Unsplash 飯店照片",
-      "lastUpdated": "2026-03-01"
+      "note": "照片來源：維基百科（真實照片）",
+      "lastUpdated": "2026-03-01",
+      "source": "Wikipedia Commons"
     },
     "url": "https://www.ambassadorhotel.com.tw/taipei",
     "verified": true,
@@ -2307,15 +2307,18 @@
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "專業舞台、燈光音響、同步翻譯設備、投影設備",
     "images": {
-      "main": "https://images.unsplash.com/photo-1505373877841-8d25f7d46678?w=800",
+      "main": "https://upload.wikimedia.org/wikipedia/commons/d/de/Taipei_International_Convention_Center_20161126a.jpg",
       "gallery": [
-        "https://images.unsplash.com/photo-1540575467063-178a50c2df87?w=800",
-        "https://images.unsplash.com/photo-1558403194-611308249627?w=800"
+        "https://upload.wikimedia.org/wikipedia/commons/6/63/The_entrance_of_Taipei_International_Convention_Center_at_Xinyi_Road%2C_Taipei_City_20070507.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/c/c0/%E5%A4%A9%E6%88%90%E5%A4%A7%E9%A3%AF%E5%BA%97TICC%E4%B8%96%E8%B2%BF%E6%9C%83%E9%A4%A8%E5%AE%B4%E6%9C%83%E5%BB%B3_20120820.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/0/00/LisAni%21_Live_Taiwan_Supported_by_Battle_Girl_High_School_20161204.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/d/de/2007IntelDeveloperForumTaipei_Day1_PressConference.jpg"
       ],
       "floorPlan": "",
       "needsUpdate": false,
-      "note": "使用 Unsplash 會議中心照片",
-      "lastUpdated": "2026-03-01"
+      "note": "照片來源：維基百科（真實照片）",
+      "lastUpdated": "2026-03-01",
+      "source": "Wikipedia Commons"
     },
     "url": "https://www.ticc.com.tw",
     "transportation": {
@@ -2363,15 +2366,18 @@
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "專業投影設備、音響",
     "images": {
-      "main": "https://images.unsplash.com/photo-1505373877841-8d25f7d46678?w=800",
+      "main": "https://upload.wikimedia.org/wikipedia/commons/d/de/Taipei_International_Convention_Center_20161126a.jpg",
       "gallery": [
-        "https://images.unsplash.com/photo-1540575467063-178a50c2df87?w=800",
-        "https://images.unsplash.com/photo-1558403194-611308249627?w=800"
+        "https://upload.wikimedia.org/wikipedia/commons/6/63/The_entrance_of_Taipei_International_Convention_Center_at_Xinyi_Road%2C_Taipei_City_20070507.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/c/c0/%E5%A4%A9%E6%88%90%E5%A4%A7%E9%A3%AF%E5%BA%97TICC%E4%B8%96%E8%B2%BF%E6%9C%83%E9%A4%A8%E5%AE%B4%E6%9C%83%E5%BB%B3_20120820.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/0/00/LisAni%21_Live_Taiwan_Supported_by_Battle_Girl_High_School_20161204.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/d/de/2007IntelDeveloperForumTaipei_Day1_PressConference.jpg"
       ],
       "floorPlan": "",
       "needsUpdate": false,
-      "note": "使用 Unsplash 會議中心照片",
-      "lastUpdated": "2026-03-01"
+      "note": "照片來源：維基百科（真實照片）",
+      "lastUpdated": "2026-03-01",
+      "source": "Wikipedia Commons"
     },
     "url": "https://www.ticc.com.tw",
     "verified": true,
@@ -2397,15 +2403,17 @@
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "頂級音響燈光、LED螢幕",
     "images": {
-      "main": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?w=800",
+      "main": "https://upload.wikimedia.org/wikipedia/commons/d/de/Grand_Hotel_Taipei_20130902-2.jpg",
       "gallery": [
-        "https://images.unsplash.com/photo-1533613220915-609f6d277859?w=800",
-        "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=800"
+        "https://upload.wikimedia.org/wikipedia/commons/c/c0/Interior_of_Grand_Hotel_Taipei_20130903.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/a/a9/Taipeh_Taipei_Grand_Hotel_Innen_Lobby_1.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/5/5c/Grand_Hotel_Taipei_Kirin_Hall_Front.jpg"
       ],
       "floorPlan": "",
       "needsUpdate": false,
-      "note": "使用 Unsplash 飯店照片",
-      "lastUpdated": "2026-03-01"
+      "note": "照片來源：維基百科（真實照片）",
+      "lastUpdated": "2026-03-01",
+      "source": "Wikipedia Commons"
     },
     "url": "https://www.grand-hotel.org",
     "verified": true,
@@ -2464,15 +2472,13 @@
     "availableTimeWeekend": "09:00-22:00",
     "equipment": "專業影音、同步翻譯、視訊會議",
     "images": {
-      "main": "https://images.unsplash.com/photo-1459749411175-04bf5292ceea?w=800",
-      "gallery": [
-        "https://images.unsplash.com/photo-1464366400600-7168b8af9bc3?w=800",
-        "https://images.unsplash.com/photo-1497366811353-6870744d04b2?w=800"
-      ],
+      "main": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Hotel_metropolitan_premier_taipei_20210829_facade_02.jpg",
+      "gallery": [],
       "floorPlan": "",
       "needsUpdate": false,
-      "note": "使用 Unsplash 豪華飯店照片",
-      "lastUpdated": "2026-03-01"
+      "note": "照片來源：維基百科（真實照片）",
+      "lastUpdated": "2026-03-01",
+      "source": "Wikipedia Commons"
     },
     "layoutImageUrl": null,
     "rentalTimeNote": "需提前2週預約",
@@ -2523,15 +2529,13 @@
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "專業音響燈光、LED螢幕",
     "images": {
-      "main": "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?w=800",
-      "gallery": [
-        "https://images.unsplash.com/photo-1508389158531-9c6b1fe0b0d4?w=800",
-        "https://images.unsplash.com/photo-1517502884422-41eaead166d4?w=800"
-      ],
+      "main": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Le_Meridien_Taipei_20131216.jpg",
+      "gallery": [],
       "floorPlan": "",
       "needsUpdate": false,
-      "note": "使用 Unsplash 設計飯店照片",
-      "lastUpdated": "2026-03-01"
+      "note": "照片來源：維基百科（真實照片）",
+      "lastUpdated": "2026-03-01",
+      "source": "Wikipedia Commons"
     },
     "url": "https://www.lemeridien-taipei.com",
     "verified": true,
@@ -2819,15 +2823,17 @@
     "availableTimeWeekend": "08:00-24:00",
     "equipment": "頂級音響燈光、投影設備",
     "images": {
-      "main": "https://images.unsplash.com/photo-1582719508461-905c673771fd?w=800",
+      "main": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Mandarin_Oriental%2C_Taipei_2021.jpg",
       "gallery": [
-        "https://images.unsplash.com/photo-1560448204-603b3fc33ddc?w=800",
-        "https://images.unsplash.com/photo-1571896349842-33c89424de2d?w=800"
+        "https://upload.wikimedia.org/wikipedia/commons/e/e1/Lobby_of_the_Interior_of_Mandarin_Oriental%2C_Taipei.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/a/af/The_Grand_Salon_of_Mandarin_Oriental%2C_Taipei_20260206.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/5/5f/Fung_Shiang_Court_at_Mandarin_Oriental%2C_Taipei_04.jpg"
       ],
       "floorPlan": "",
       "needsUpdate": false,
-      "note": "使用 Unsplash 豪華飯店照片",
-      "lastUpdated": "2026-03-01"
+      "note": "照片來源：維基百科（真實照片）",
+      "lastUpdated": "2026-03-01",
+      "source": "Wikipedia Commons"
     },
     "url": "https://www.mandarinoriental.com/taipei",
     "transportation": {
@@ -3855,8 +3861,9 @@
       ],
       "floorPlan": "",
       "needsUpdate": false,
-      "note": "使用 Unsplash 會議中心照片",
-      "lastUpdated": "2026-03-01"
+      "note": "照片來源：Unsplash（高品質示意照片）",
+      "lastUpdated": "2026-03-01",
+      "source": "Unsplash"
     },
     "url": "https://www.yfpcf.org",
     "verified": true,
@@ -4312,8 +4319,9 @@
       ],
       "floorPlan": "",
       "needsUpdate": false,
-      "note": "使用 Unsplash 會議中心照片",
-      "lastUpdated": "2026-03-01"
+      "note": "照片來源：Unsplash（高品質示意照片）",
+      "lastUpdated": "2026-03-01",
+      "source": "Unsplash"
     },
     "url": "https://www.ntuacc.org",
     "verified": true,
@@ -12823,8 +12831,9 @@
       ],
       "floorPlan": "",
       "needsUpdate": false,
-      "note": "使用 Unsplash 飯店照片",
-      "lastUpdated": "2026-03-01"
+      "note": "照片來源：Unsplash（高品質示意照片）",
+      "lastUpdated": "2026-03-01",
+      "source": "Unsplash"
     },
     "url": "https://www.sheraton.com/taipei",
     "verified": true,
@@ -12857,8 +12866,9 @@
       ],
       "floorPlan": "",
       "needsUpdate": false,
-      "note": "使用 Unsplash 飯店照片",
-      "lastUpdated": "2026-03-01"
+      "note": "照片來源：Unsplash（高品質示意照片）",
+      "lastUpdated": "2026-03-01",
+      "source": "Unsplash"
     },
     "url": "https://www.sheraton.com/taipei",
     "verified": true,
@@ -12891,8 +12901,9 @@
       ],
       "floorPlan": "",
       "needsUpdate": false,
-      "note": "使用 Unsplash 飯店照片",
-      "lastUpdated": "2026-03-01"
+      "note": "照片來源：Unsplash（高品質示意照片）",
+      "lastUpdated": "2026-03-01",
+      "source": "Unsplash"
     },
     "url": "https://www.sheraton.com/taipei",
     "verified": true,
@@ -12925,8 +12936,9 @@
       ],
       "floorPlan": "",
       "needsUpdate": false,
-      "note": "使用 Unsplash 飯店照片",
-      "lastUpdated": "2026-03-01"
+      "note": "照片來源：Unsplash（高品質示意照片）",
+      "lastUpdated": "2026-03-01",
+      "source": "Unsplash"
     },
     "url": "https://www.sheraton.com/taipei",
     "verified": true,
@@ -12952,15 +12964,17 @@
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "頂級音響燈光、LED螢幕",
     "images": {
-      "main": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?w=800",
+      "main": "https://upload.wikimedia.org/wikipedia/commons/d/de/Grand_Hotel_Taipei_20130902-2.jpg",
       "gallery": [
-        "https://images.unsplash.com/photo-1533613220915-609f6d277859?w=800",
-        "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=800"
+        "https://upload.wikimedia.org/wikipedia/commons/c/c0/Interior_of_Grand_Hotel_Taipei_20130903.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/a/a9/Taipeh_Taipei_Grand_Hotel_Innen_Lobby_1.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/5/5c/Grand_Hotel_Taipei_Kirin_Hall_Front.jpg"
       ],
       "floorPlan": "",
       "needsUpdate": false,
-      "note": "使用 Unsplash 飯店照片",
-      "lastUpdated": "2026-03-01"
+      "note": "照片來源：維基百科（真實照片）",
+      "lastUpdated": "2026-03-01",
+      "source": "Wikipedia Commons"
     },
     "url": "https://www.grand-hotel.org",
     "verified": true,
@@ -12986,15 +13000,17 @@
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "頂級音響燈光、LED螢幕",
     "images": {
-      "main": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?w=800",
+      "main": "https://upload.wikimedia.org/wikipedia/commons/d/de/Grand_Hotel_Taipei_20130902-2.jpg",
       "gallery": [
-        "https://images.unsplash.com/photo-1533613220915-609f6d277859?w=800",
-        "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=800"
+        "https://upload.wikimedia.org/wikipedia/commons/c/c0/Interior_of_Grand_Hotel_Taipei_20130903.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/a/a9/Taipeh_Taipei_Grand_Hotel_Innen_Lobby_1.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/5/5c/Grand_Hotel_Taipei_Kirin_Hall_Front.jpg"
       ],
       "floorPlan": "",
       "needsUpdate": false,
-      "note": "使用 Unsplash 飯店照片",
-      "lastUpdated": "2026-03-01"
+      "note": "照片來源：維基百科（真實照片）",
+      "lastUpdated": "2026-03-01",
+      "source": "Wikipedia Commons"
     },
     "url": "https://www.grand-hotel.org",
     "verified": true,
@@ -13020,15 +13036,17 @@
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "頂級音響燈光、LED螢幕",
     "images": {
-      "main": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?w=800",
+      "main": "https://upload.wikimedia.org/wikipedia/commons/d/de/Grand_Hotel_Taipei_20130902-2.jpg",
       "gallery": [
-        "https://images.unsplash.com/photo-1533613220915-609f6d277859?w=800",
-        "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=800"
+        "https://upload.wikimedia.org/wikipedia/commons/c/c0/Interior_of_Grand_Hotel_Taipei_20130903.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/a/a9/Taipeh_Taipei_Grand_Hotel_Innen_Lobby_1.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/5/5c/Grand_Hotel_Taipei_Kirin_Hall_Front.jpg"
       ],
       "floorPlan": "",
       "needsUpdate": false,
-      "note": "使用 Unsplash 飯店照片",
-      "lastUpdated": "2026-03-01"
+      "note": "照片來源：維基百科（真實照片）",
+      "lastUpdated": "2026-03-01",
+      "source": "Wikipedia Commons"
     },
     "url": "https://www.grand-hotel.org",
     "verified": true,
@@ -13054,15 +13072,17 @@
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "頂級音響燈光、LED螢幕",
     "images": {
-      "main": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?w=800",
+      "main": "https://upload.wikimedia.org/wikipedia/commons/d/de/Grand_Hotel_Taipei_20130902-2.jpg",
       "gallery": [
-        "https://images.unsplash.com/photo-1533613220915-609f6d277859?w=800",
-        "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=800"
+        "https://upload.wikimedia.org/wikipedia/commons/c/c0/Interior_of_Grand_Hotel_Taipei_20130903.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/a/a9/Taipeh_Taipei_Grand_Hotel_Innen_Lobby_1.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/5/5c/Grand_Hotel_Taipei_Kirin_Hall_Front.jpg"
       ],
       "floorPlan": "",
       "needsUpdate": false,
-      "note": "使用 Unsplash 飯店照片",
-      "lastUpdated": "2026-03-01"
+      "note": "照片來源：維基百科（真實照片）",
+      "lastUpdated": "2026-03-01",
+      "source": "Wikipedia Commons"
     },
     "url": "https://www.grand-hotel.org",
     "verified": true,
@@ -13090,15 +13110,17 @@
     "availableTimeWeekend": "08:00-24:00",
     "equipment": "頂級音響燈光、投影設備",
     "images": {
-      "main": "https://images.unsplash.com/photo-1582719508461-905c673771fd?w=800",
+      "main": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Mandarin_Oriental%2C_Taipei_2021.jpg",
       "gallery": [
-        "https://images.unsplash.com/photo-1560448204-603b3fc33ddc?w=800",
-        "https://images.unsplash.com/photo-1571896349842-33c89424de2d?w=800"
+        "https://upload.wikimedia.org/wikipedia/commons/e/e1/Lobby_of_the_Interior_of_Mandarin_Oriental%2C_Taipei.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/a/af/The_Grand_Salon_of_Mandarin_Oriental%2C_Taipei_20260206.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/5/5f/Fung_Shiang_Court_at_Mandarin_Oriental%2C_Taipei_04.jpg"
       ],
       "floorPlan": "",
       "needsUpdate": false,
-      "note": "使用 Unsplash 豪華飯店照片",
-      "lastUpdated": "2026-03-01"
+      "note": "照片來源：維基百科（真實照片）",
+      "lastUpdated": "2026-03-01",
+      "source": "Wikipedia Commons"
     },
     "url": "https://www.mandarinoriental.com/taipei",
     "transportation": {
@@ -13147,15 +13169,17 @@
     "availableTimeWeekend": "08:00-24:00",
     "equipment": "頂級音響燈光、投影設備",
     "images": {
-      "main": "https://images.unsplash.com/photo-1582719508461-905c673771fd?w=800",
+      "main": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Mandarin_Oriental%2C_Taipei_2021.jpg",
       "gallery": [
-        "https://images.unsplash.com/photo-1560448204-603b3fc33ddc?w=800",
-        "https://images.unsplash.com/photo-1571896349842-33c89424de2d?w=800"
+        "https://upload.wikimedia.org/wikipedia/commons/e/e1/Lobby_of_the_Interior_of_Mandarin_Oriental%2C_Taipei.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/a/af/The_Grand_Salon_of_Mandarin_Oriental%2C_Taipei_20260206.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/5/5f/Fung_Shiang_Court_at_Mandarin_Oriental%2C_Taipei_04.jpg"
       ],
       "floorPlan": "",
       "needsUpdate": false,
-      "note": "使用 Unsplash 豪華飯店照片",
-      "lastUpdated": "2026-03-01"
+      "note": "照片來源：維基百科（真實照片）",
+      "lastUpdated": "2026-03-01",
+      "source": "Wikipedia Commons"
     },
     "url": "https://www.mandarinoriental.com/taipei",
     "transportation": {
@@ -13204,15 +13228,17 @@
     "availableTimeWeekend": "08:00-24:00",
     "equipment": "頂級音響燈光、投影設備",
     "images": {
-      "main": "https://images.unsplash.com/photo-1582719508461-905c673771fd?w=800",
+      "main": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Mandarin_Oriental%2C_Taipei_2021.jpg",
       "gallery": [
-        "https://images.unsplash.com/photo-1560448204-603b3fc33ddc?w=800",
-        "https://images.unsplash.com/photo-1571896349842-33c89424de2d?w=800"
+        "https://upload.wikimedia.org/wikipedia/commons/e/e1/Lobby_of_the_Interior_of_Mandarin_Oriental%2C_Taipei.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/a/af/The_Grand_Salon_of_Mandarin_Oriental%2C_Taipei_20260206.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/5/5f/Fung_Shiang_Court_at_Mandarin_Oriental%2C_Taipei_04.jpg"
       ],
       "floorPlan": "",
       "needsUpdate": false,
-      "note": "使用 Unsplash 豪華飯店照片",
-      "lastUpdated": "2026-03-01"
+      "note": "照片來源：維基百科（真實照片）",
+      "lastUpdated": "2026-03-01",
+      "source": "Wikipedia Commons"
     },
     "url": "https://www.mandarinoriental.com/taipei",
     "transportation": {
@@ -13261,15 +13287,17 @@
     "availableTimeWeekend": "08:00-24:00",
     "equipment": "頂級音響燈光、投影設備",
     "images": {
-      "main": "https://images.unsplash.com/photo-1582719508461-905c673771fd?w=800",
+      "main": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Mandarin_Oriental%2C_Taipei_2021.jpg",
       "gallery": [
-        "https://images.unsplash.com/photo-1560448204-603b3fc33ddc?w=800",
-        "https://images.unsplash.com/photo-1571896349842-33c89424de2d?w=800"
+        "https://upload.wikimedia.org/wikipedia/commons/e/e1/Lobby_of_the_Interior_of_Mandarin_Oriental%2C_Taipei.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/a/af/The_Grand_Salon_of_Mandarin_Oriental%2C_Taipei_20260206.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/5/5f/Fung_Shiang_Court_at_Mandarin_Oriental%2C_Taipei_04.jpg"
       ],
       "floorPlan": "",
       "needsUpdate": false,
-      "note": "使用 Unsplash 豪華飯店照片",
-      "lastUpdated": "2026-03-01"
+      "note": "照片來源：維基百科（真實照片）",
+      "lastUpdated": "2026-03-01",
+      "source": "Wikipedia Commons"
     },
     "url": "https://www.mandarinoriental.com/taipei",
     "transportation": {
@@ -13316,15 +13344,13 @@
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "專業音響燈光、投影設備",
     "images": {
-      "main": "https://images.unsplash.com/photo-1564501049412-61c2a3083791?w=800",
-      "gallery": [
-        "https://images.unsplash.com/photo-1438032005730-c779502df39b?w=800",
-        "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800"
-      ],
+      "main": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Ambassador_Hotel_Taipei_20190706.jpg",
+      "gallery": [],
       "floorPlan": "",
       "needsUpdate": false,
-      "note": "使用 Unsplash 飯店照片",
-      "lastUpdated": "2026-03-01"
+      "note": "照片來源：維基百科（真實照片）",
+      "lastUpdated": "2026-03-01",
+      "source": "Wikipedia Commons"
     },
     "url": "https://www.ambassadorhotel.com.tw/taipei",
     "verified": true,
@@ -13350,15 +13376,13 @@
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "專業音響燈光、投影設備",
     "images": {
-      "main": "https://images.unsplash.com/photo-1564501049412-61c2a3083791?w=800",
-      "gallery": [
-        "https://images.unsplash.com/photo-1438032005730-c779502df39b?w=800",
-        "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800"
-      ],
+      "main": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Ambassador_Hotel_Taipei_20190706.jpg",
+      "gallery": [],
       "floorPlan": "",
       "needsUpdate": false,
-      "note": "使用 Unsplash 飯店照片",
-      "lastUpdated": "2026-03-01"
+      "note": "照片來源：維基百科（真實照片）",
+      "lastUpdated": "2026-03-01",
+      "source": "Wikipedia Commons"
     },
     "url": "https://www.ambassadorhotel.com.tw/taipei",
     "verified": true,
@@ -13384,15 +13408,13 @@
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "專業音響燈光、投影設備",
     "images": {
-      "main": "https://images.unsplash.com/photo-1564501049412-61c2a3083791?w=800",
-      "gallery": [
-        "https://images.unsplash.com/photo-1438032005730-c779502df39b?w=800",
-        "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800"
-      ],
+      "main": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Ambassador_Hotel_Taipei_20190706.jpg",
+      "gallery": [],
       "floorPlan": "",
       "needsUpdate": false,
-      "note": "使用 Unsplash 飯店照片",
-      "lastUpdated": "2026-03-01"
+      "note": "照片來源：維基百科（真實照片）",
+      "lastUpdated": "2026-03-01",
+      "source": "Wikipedia Commons"
     },
     "url": "https://www.ambassadorhotel.com.tw/taipei",
     "verified": true,
@@ -13418,15 +13440,13 @@
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "專業音響燈光、投影設備",
     "images": {
-      "main": "https://images.unsplash.com/photo-1564501049412-61c2a3083791?w=800",
-      "gallery": [
-        "https://images.unsplash.com/photo-1438032005730-c779502df39b?w=800",
-        "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800"
-      ],
+      "main": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Ambassador_Hotel_Taipei_20190706.jpg",
+      "gallery": [],
       "floorPlan": "",
       "needsUpdate": false,
-      "note": "使用 Unsplash 飯店照片",
-      "lastUpdated": "2026-03-01"
+      "note": "照片來源：維基百科（真實照片）",
+      "lastUpdated": "2026-03-01",
+      "source": "Wikipedia Commons"
     },
     "url": "https://www.ambassadorhotel.com.tw/taipei",
     "verified": true,
@@ -13454,15 +13474,13 @@
     "availableTimeWeekend": "09:00-22:00",
     "equipment": "專業影音、同步翻譯、視訊會議",
     "images": {
-      "main": "https://images.unsplash.com/photo-1459749411175-04bf5292ceea?w=800",
-      "gallery": [
-        "https://images.unsplash.com/photo-1464366400600-7168b8af9bc3?w=800",
-        "https://images.unsplash.com/photo-1497366811353-6870744d04b2?w=800"
-      ],
+      "main": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Hotel_metropolitan_premier_taipei_20210829_facade_02.jpg",
+      "gallery": [],
       "floorPlan": "",
       "needsUpdate": false,
-      "note": "使用 Unsplash 豪華飯店照片",
-      "lastUpdated": "2026-03-01"
+      "note": "照片來源：維基百科（真實照片）",
+      "lastUpdated": "2026-03-01",
+      "source": "Wikipedia Commons"
     },
     "layoutImageUrl": null,
     "rentalTimeNote": "需提前2週預約",
@@ -13497,15 +13515,13 @@
     "availableTimeWeekend": "09:00-22:00",
     "equipment": "專業影音、同步翻譯、視訊會議",
     "images": {
-      "main": "https://images.unsplash.com/photo-1459749411175-04bf5292ceea?w=800",
-      "gallery": [
-        "https://images.unsplash.com/photo-1464366400600-7168b8af9bc3?w=800",
-        "https://images.unsplash.com/photo-1497366811353-6870744d04b2?w=800"
-      ],
+      "main": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Hotel_metropolitan_premier_taipei_20210829_facade_02.jpg",
+      "gallery": [],
       "floorPlan": "",
       "needsUpdate": false,
-      "note": "使用 Unsplash 豪華飯店照片",
-      "lastUpdated": "2026-03-01"
+      "note": "照片來源：維基百科（真實照片）",
+      "lastUpdated": "2026-03-01",
+      "source": "Wikipedia Commons"
     },
     "layoutImageUrl": null,
     "rentalTimeNote": "需提前2週預約",
@@ -13540,15 +13556,13 @@
     "availableTimeWeekend": "09:00-22:00",
     "equipment": "專業影音、同步翻譯、視訊會議",
     "images": {
-      "main": "https://images.unsplash.com/photo-1459749411175-04bf5292ceea?w=800",
-      "gallery": [
-        "https://images.unsplash.com/photo-1464366400600-7168b8af9bc3?w=800",
-        "https://images.unsplash.com/photo-1497366811353-6870744d04b2?w=800"
-      ],
+      "main": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Hotel_metropolitan_premier_taipei_20210829_facade_02.jpg",
+      "gallery": [],
       "floorPlan": "",
       "needsUpdate": false,
-      "note": "使用 Unsplash 豪華飯店照片",
-      "lastUpdated": "2026-03-01"
+      "note": "照片來源：維基百科（真實照片）",
+      "lastUpdated": "2026-03-01",
+      "source": "Wikipedia Commons"
     },
     "layoutImageUrl": null,
     "rentalTimeNote": "需提前2週預約",
@@ -13583,15 +13597,13 @@
     "availableTimeWeekend": "09:00-22:00",
     "equipment": "專業影音、同步翻譯、視訊會議",
     "images": {
-      "main": "https://images.unsplash.com/photo-1459749411175-04bf5292ceea?w=800",
-      "gallery": [
-        "https://images.unsplash.com/photo-1464366400600-7168b8af9bc3?w=800",
-        "https://images.unsplash.com/photo-1497366811353-6870744d04b2?w=800"
-      ],
+      "main": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Hotel_metropolitan_premier_taipei_20210829_facade_02.jpg",
+      "gallery": [],
       "floorPlan": "",
       "needsUpdate": false,
-      "note": "使用 Unsplash 豪華飯店照片",
-      "lastUpdated": "2026-03-01"
+      "note": "照片來源：維基百科（真實照片）",
+      "lastUpdated": "2026-03-01",
+      "source": "Wikipedia Commons"
     },
     "layoutImageUrl": null,
     "rentalTimeNote": "需提前2週預約",
@@ -13624,15 +13636,13 @@
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "專業音響燈光、LED螢幕",
     "images": {
-      "main": "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?w=800",
-      "gallery": [
-        "https://images.unsplash.com/photo-1508389158531-9c6b1fe0b0d4?w=800",
-        "https://images.unsplash.com/photo-1517502884422-41eaead166d4?w=800"
-      ],
+      "main": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Le_Meridien_Taipei_20131216.jpg",
+      "gallery": [],
       "floorPlan": "",
       "needsUpdate": false,
-      "note": "使用 Unsplash 設計飯店照片",
-      "lastUpdated": "2026-03-01"
+      "note": "照片來源：維基百科（真實照片）",
+      "lastUpdated": "2026-03-01",
+      "source": "Wikipedia Commons"
     },
     "url": "https://www.lemeridien-taipei.com",
     "verified": true,
@@ -13658,15 +13668,13 @@
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "專業音響燈光、LED螢幕",
     "images": {
-      "main": "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?w=800",
-      "gallery": [
-        "https://images.unsplash.com/photo-1508389158531-9c6b1fe0b0d4?w=800",
-        "https://images.unsplash.com/photo-1517502884422-41eaead166d4?w=800"
-      ],
+      "main": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Le_Meridien_Taipei_20131216.jpg",
+      "gallery": [],
       "floorPlan": "",
       "needsUpdate": false,
-      "note": "使用 Unsplash 設計飯店照片",
-      "lastUpdated": "2026-03-01"
+      "note": "照片來源：維基百科（真實照片）",
+      "lastUpdated": "2026-03-01",
+      "source": "Wikipedia Commons"
     },
     "url": "https://www.lemeridien-taipei.com",
     "verified": true,
@@ -13692,15 +13700,13 @@
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "專業音響燈光、LED螢幕",
     "images": {
-      "main": "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?w=800",
-      "gallery": [
-        "https://images.unsplash.com/photo-1508389158531-9c6b1fe0b0d4?w=800",
-        "https://images.unsplash.com/photo-1517502884422-41eaead166d4?w=800"
-      ],
+      "main": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Le_Meridien_Taipei_20131216.jpg",
+      "gallery": [],
       "floorPlan": "",
       "needsUpdate": false,
-      "note": "使用 Unsplash 設計飯店照片",
-      "lastUpdated": "2026-03-01"
+      "note": "照片來源：維基百科（真實照片）",
+      "lastUpdated": "2026-03-01",
+      "source": "Wikipedia Commons"
     },
     "url": "https://www.lemeridien-taipei.com",
     "verified": true,
@@ -13726,15 +13732,13 @@
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "專業音響燈光、LED螢幕",
     "images": {
-      "main": "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?w=800",
-      "gallery": [
-        "https://images.unsplash.com/photo-1508389158531-9c6b1fe0b0d4?w=800",
-        "https://images.unsplash.com/photo-1517502884422-41eaead166d4?w=800"
-      ],
+      "main": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Le_Meridien_Taipei_20131216.jpg",
+      "gallery": [],
       "floorPlan": "",
       "needsUpdate": false,
-      "note": "使用 Unsplash 設計飯店照片",
-      "lastUpdated": "2026-03-01"
+      "note": "照片來源：維基百科（真實照片）",
+      "lastUpdated": "2026-03-01",
+      "source": "Wikipedia Commons"
     },
     "url": "https://www.lemeridien-taipei.com",
     "verified": true,
@@ -13767,8 +13771,9 @@
       ],
       "floorPlan": "",
       "needsUpdate": false,
-      "note": "使用 Unsplash 精品飯店照片",
-      "lastUpdated": "2026-03-01"
+      "note": "照片來源：Unsplash（高品質示意照片）",
+      "lastUpdated": "2026-03-01",
+      "source": "Unsplash"
     },
     "url": "https://www.palaisdechine.com",
     "verified": true,
@@ -13801,8 +13806,9 @@
       ],
       "floorPlan": "",
       "needsUpdate": false,
-      "note": "使用 Unsplash 精品飯店照片",
-      "lastUpdated": "2026-03-01"
+      "note": "照片來源：Unsplash（高品質示意照片）",
+      "lastUpdated": "2026-03-01",
+      "source": "Unsplash"
     },
     "url": "https://www.palaisdechine.com",
     "verified": true,
@@ -13835,8 +13841,9 @@
       ],
       "floorPlan": "",
       "needsUpdate": false,
-      "note": "使用 Unsplash 精品飯店照片",
-      "lastUpdated": "2026-03-01"
+      "note": "照片來源：Unsplash（高品質示意照片）",
+      "lastUpdated": "2026-03-01",
+      "source": "Unsplash"
     },
     "url": "https://www.palaisdechine.com",
     "verified": true,
@@ -14420,15 +14427,18 @@
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "專業投影設備、音響",
     "images": {
-      "main": "https://images.unsplash.com/photo-1505373877841-8d25f7d46678?w=800",
+      "main": "https://upload.wikimedia.org/wikipedia/commons/d/de/Taipei_International_Convention_Center_20161126a.jpg",
       "gallery": [
-        "https://images.unsplash.com/photo-1540575467063-178a50c2df87?w=800",
-        "https://images.unsplash.com/photo-1558403194-611308249627?w=800"
+        "https://upload.wikimedia.org/wikipedia/commons/6/63/The_entrance_of_Taipei_International_Convention_Center_at_Xinyi_Road%2C_Taipei_City_20070507.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/c/c0/%E5%A4%A9%E6%88%90%E5%A4%A7%E9%A3%AF%E5%BA%97TICC%E4%B8%96%E8%B2%BF%E6%9C%83%E9%A4%A8%E5%AE%B4%E6%9C%83%E5%BB%B3_20120820.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/0/00/LisAni%21_Live_Taiwan_Supported_by_Battle_Girl_High_School_20161204.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/d/de/2007IntelDeveloperForumTaipei_Day1_PressConference.jpg"
       ],
       "floorPlan": "",
       "needsUpdate": false,
-      "note": "使用 Unsplash 會議中心照片",
-      "lastUpdated": "2026-03-01"
+      "note": "照片來源：維基百科（真實照片）",
+      "lastUpdated": "2026-03-01",
+      "source": "Wikipedia Commons"
     },
     "url": "https://www.ticc.com.tw",
     "verified": true,
@@ -14454,15 +14464,18 @@
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "專業投影設備、音響",
     "images": {
-      "main": "https://images.unsplash.com/photo-1505373877841-8d25f7d46678?w=800",
+      "main": "https://upload.wikimedia.org/wikipedia/commons/d/de/Taipei_International_Convention_Center_20161126a.jpg",
       "gallery": [
-        "https://images.unsplash.com/photo-1540575467063-178a50c2df87?w=800",
-        "https://images.unsplash.com/photo-1558403194-611308249627?w=800"
+        "https://upload.wikimedia.org/wikipedia/commons/6/63/The_entrance_of_Taipei_International_Convention_Center_at_Xinyi_Road%2C_Taipei_City_20070507.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/c/c0/%E5%A4%A9%E6%88%90%E5%A4%A7%E9%A3%AF%E5%BA%97TICC%E4%B8%96%E8%B2%BF%E6%9C%83%E9%A4%A8%E5%AE%B4%E6%9C%83%E5%BB%B3_20120820.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/0/00/LisAni%21_Live_Taiwan_Supported_by_Battle_Girl_High_School_20161204.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/d/de/2007IntelDeveloperForumTaipei_Day1_PressConference.jpg"
       ],
       "floorPlan": "",
       "needsUpdate": false,
-      "note": "使用 Unsplash 會議中心照片",
-      "lastUpdated": "2026-03-01"
+      "note": "照片來源：維基百科（真實照片）",
+      "lastUpdated": "2026-03-01",
+      "source": "Wikipedia Commons"
     },
     "url": "https://www.ticc.com.tw",
     "verified": true,
@@ -14488,15 +14501,18 @@
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "專業投影設備、音響",
     "images": {
-      "main": "https://images.unsplash.com/photo-1505373877841-8d25f7d46678?w=800",
+      "main": "https://upload.wikimedia.org/wikipedia/commons/d/de/Taipei_International_Convention_Center_20161126a.jpg",
       "gallery": [
-        "https://images.unsplash.com/photo-1540575467063-178a50c2df87?w=800",
-        "https://images.unsplash.com/photo-1558403194-611308249627?w=800"
+        "https://upload.wikimedia.org/wikipedia/commons/6/63/The_entrance_of_Taipei_International_Convention_Center_at_Xinyi_Road%2C_Taipei_City_20070507.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/c/c0/%E5%A4%A9%E6%88%90%E5%A4%A7%E9%A3%AF%E5%BA%97TICC%E4%B8%96%E8%B2%BF%E6%9C%83%E9%A4%A8%E5%AE%B4%E6%9C%83%E5%BB%B3_20120820.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/0/00/LisAni%21_Live_Taiwan_Supported_by_Battle_Girl_High_School_20161204.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/d/de/2007IntelDeveloperForumTaipei_Day1_PressConference.jpg"
       ],
       "floorPlan": "",
       "needsUpdate": false,
-      "note": "使用 Unsplash 會議中心照片",
-      "lastUpdated": "2026-03-01"
+      "note": "照片來源：維基百科（真實照片）",
+      "lastUpdated": "2026-03-01",
+      "source": "Wikipedia Commons"
     },
     "url": "https://www.ticc.com.tw",
     "verified": true,
@@ -14522,15 +14538,18 @@
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "專業投影設備、音響",
     "images": {
-      "main": "https://images.unsplash.com/photo-1505373877841-8d25f7d46678?w=800",
+      "main": "https://upload.wikimedia.org/wikipedia/commons/d/de/Taipei_International_Convention_Center_20161126a.jpg",
       "gallery": [
-        "https://images.unsplash.com/photo-1540575467063-178a50c2df87?w=800",
-        "https://images.unsplash.com/photo-1558403194-611308249627?w=800"
+        "https://upload.wikimedia.org/wikipedia/commons/6/63/The_entrance_of_Taipei_International_Convention_Center_at_Xinyi_Road%2C_Taipei_City_20070507.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/c/c0/%E5%A4%A9%E6%88%90%E5%A4%A7%E9%A3%AF%E5%BA%97TICC%E4%B8%96%E8%B2%BF%E6%9C%83%E9%A4%A8%E5%AE%B4%E6%9C%83%E5%BB%B3_20120820.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/0/00/LisAni%21_Live_Taiwan_Supported_by_Battle_Girl_High_School_20161204.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/d/de/2007IntelDeveloperForumTaipei_Day1_PressConference.jpg"
       ],
       "floorPlan": "",
       "needsUpdate": false,
-      "note": "使用 Unsplash 會議中心照片",
-      "lastUpdated": "2026-03-01"
+      "note": "照片來源：維基百科（真實照片）",
+      "lastUpdated": "2026-03-01",
+      "source": "Wikipedia Commons"
     },
     "url": "https://www.ticc.com.tw",
     "verified": true,
@@ -14563,8 +14582,9 @@
       ],
       "floorPlan": "",
       "needsUpdate": false,
-      "note": "使用 Unsplash 會議中心照片",
-      "lastUpdated": "2026-03-01"
+      "note": "照片來源：Unsplash（高品質示意照片）",
+      "lastUpdated": "2026-03-01",
+      "source": "Unsplash"
     },
     "url": "https://www.ntuacc.org",
     "verified": true,
@@ -14597,8 +14617,9 @@
       ],
       "floorPlan": "",
       "needsUpdate": false,
-      "note": "使用 Unsplash 會議中心照片",
-      "lastUpdated": "2026-03-01"
+      "note": "照片來源：Unsplash（高品質示意照片）",
+      "lastUpdated": "2026-03-01",
+      "source": "Unsplash"
     },
     "url": "https://www.ntuacc.org",
     "verified": true,
@@ -14631,8 +14652,9 @@
       ],
       "floorPlan": "",
       "needsUpdate": false,
-      "note": "使用 Unsplash 會議中心照片",
-      "lastUpdated": "2026-03-01"
+      "note": "照片來源：Unsplash（高品質示意照片）",
+      "lastUpdated": "2026-03-01",
+      "source": "Unsplash"
     },
     "url": "https://www.ntuacc.org",
     "verified": true,
@@ -14665,8 +14687,9 @@
       ],
       "floorPlan": "",
       "needsUpdate": false,
-      "note": "使用 Unsplash 會議中心照片",
-      "lastUpdated": "2026-03-01"
+      "note": "照片來源：Unsplash（高品質示意照片）",
+      "lastUpdated": "2026-03-01",
+      "source": "Unsplash"
     },
     "url": "https://www.yfpcf.org",
     "verified": true,
@@ -14699,8 +14722,9 @@
       ],
       "floorPlan": "",
       "needsUpdate": false,
-      "note": "使用 Unsplash 會議中心照片",
-      "lastUpdated": "2026-03-01"
+      "note": "照片來源：Unsplash（高品質示意照片）",
+      "lastUpdated": "2026-03-01",
+      "source": "Unsplash"
     },
     "url": "https://www.yfpcf.org",
     "verified": true,
@@ -14733,8 +14757,9 @@
       ],
       "floorPlan": "",
       "needsUpdate": false,
-      "note": "使用 Unsplash 會議中心照片",
-      "lastUpdated": "2026-03-01"
+      "note": "照片來源：Unsplash（高品質示意照片）",
+      "lastUpdated": "2026-03-01",
+      "source": "Unsplash"
     },
     "url": "https://www.yfpcf.org",
     "verified": true,
