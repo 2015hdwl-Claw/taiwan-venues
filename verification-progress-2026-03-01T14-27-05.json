@@ -1,0 +1,1985 @@
+[
+  {
+    "id": 1031,
+    "name": "CAMA咖啡",
+    "originalUrl": "https://www.camacoffee.com",
+    "status": "錯誤",
+    "verified": false,
+    "issues": [
+      "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.camacoffee.com/\nCall log:\n  - navigating to \"https://www.camacoffee.com/\", waiting until \"domcontentloaded\"\n"
+    ],
+    "meetingPageUrl": null,
+    "officialData": {}
+  },
+  {
+    "id": 1032,
+    "name": "CLBC大安商務中心",
+    "originalUrl": "https://clbc.tw/",
+    "status": "待修",
+    "verified": false,
+    "issues": [
+      "官網標題不匹配",
+      "缺少會議室照片"
+    ],
+    "meetingPageUrl": "https://clbc.tw/clbc%E6%B4%BB%E5%8B%95%E5%A0%B4%E5%9C%B0%E7%A9%BA%E9%96%93%E7%A7%9F%E5%80%9F/",
+    "officialData": {
+      "roomNames": [
+        "會議",
+        "團練室",
+        "智璽會議中心",
+        "台北創新實驗室"
+      ],
+      "priceMatches": [],
+      "capacityMatches": [],
+      "photos": [],
+      "pageTitle": "CLBC活動場地空間租借 - CLBC",
+      "bodyTextLength": 1154
+    }
+  },
+  {
+    "id": 1033,
+    "name": "Goodmans咖啡廳",
+    "originalUrl": "https://www.goodmanscafe.com",
+    "status": "錯誤",
+    "verified": false,
+    "issues": [
+      "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.goodmanscafe.com/\nCall log:\n  - navigating to \"https://www.goodmanscafe.com/\", waiting until \"domcontentloaded\"\n"
+    ],
+    "meetingPageUrl": null,
+    "officialData": {}
+  },
+  {
+    "id": 1034,
+    "name": "NUZONE展演空間",
+    "originalUrl": "https://www.nuzone.com.tw",
+    "status": "待修",
+    "verified": false,
+    "issues": [
+      "官網標題不匹配",
+      "會議室名稱不一致",
+      "缺少會議室照片"
+    ],
+    "meetingPageUrl": "https://www.flickr.com/photos/157822996@N08/albums",
+    "officialData": {
+      "roomNames": [
+        "格雷雪聖誕偵訊室"
+      ],
+      "priceMatches": [],
+      "capacityMatches": [],
+      "photos": [],
+      "pageTitle": "NUZONE展演空間’s albums | Flickr",
+      "bodyTextLength": 4560
+    }
+  },
+  {
+    "id": 1035,
+    "name": "Regus商務中心",
+    "originalUrl": "https://www.regus.com",
+    "status": "待修",
+    "verified": true,
+    "issues": [
+      "官網標題不匹配"
+    ],
+    "meetingPageUrl": "https://www.regus.com/en/office-space/offices-for-individuals",
+    "officialData": {
+      "roomNames": [],
+      "priceMatches": [],
+      "capacityMatches": [],
+      "photos": [
+        "https://assets.iwgplc.com/image/upload/c_fill,f_auto,q_auto,w_768,h_257,g_auto:subject//v1753349162/WebsiteImagery/Gallery/IPO_1.jpg",
+        "https://assets.iwgplc.com/image/upload/c_fill,f_auto,q_auto,w_420,h_315//v1752056550/WebsiteImagery/Gallery/IPO_2.jpg",
+        "https://assets.iwgplc.com/image/upload/c_fill,f_auto,q_auto,w_420,h_315//v1752056544/WebsiteImagery/Gallery/IPO_3.jpg",
+        "https://assets.iwgplc.com/image/upload/c_fill,f_auto,q_auto,w_420,h_315//v1752056549/WebsiteImagery/Gallery/IPO_4.jpg",
+        "https://assets.iwgplc.com/image/upload/c_fill,f_auto,q_auto,w_668,h_447//v1753965356/WebsiteImagery/Gallery/STO_8.jpg",
+        "https://assets.iwgplc.com/image/upload/c_fill,f_auto,q_auto,w_668,h_447//v1753965305/WebsiteImagery/Gallery/STO_6.jpg",
+        "https://assets.iwgplc.com/image/upload/c_fill,f_auto,q_auto,w_768,h_325,g_auto:subject//v1756298340/WebsiteImagery/Gallery/HO_6.jpg",
+        "https://assets.iwgplc.com/image/upload/c_fill,f_auto,q_auto,w_768,h_580,g_faces//v1756291581/WebsiteImagery/Gallery/IPO_7.jpg",
+        "https://assets.iwgplc.com/image/upload/c_fill,f_auto,q_auto,w_768,h_580,g_faces//v1752056547/WebsiteImagery/Gallery/IPO_6.jpg",
+        "https://assets.iwgplc.com/image/upload/c_fill,f_auto,q_auto,w_768,h_580,g_faces//v1756291577/WebsiteImagery/Gallery/IPO_5.jpg"
+      ],
+      "pageTitle": "Individual Private Office Space | Rent Fully Serviced Offices | Regus",
+      "bodyTextLength": 8157
+    }
+  },
+  {
+    "id": 1036,
+    "name": "Simple Kaffa",
+    "originalUrl": "https://www.simplekaffa.com",
+    "status": "待確認",
+    "verified": false,
+    "issues": [
+      "找不到會議室頁面"
+    ],
+    "meetingPageUrl": null,
+    "officialData": {}
+  },
+  {
+    "id": 1037,
+    "name": "TCCC台灣文創訓練中心",
+    "originalUrl": "https://www.tccc.com.tw",
+    "status": "錯誤",
+    "verified": false,
+    "issues": [
+      "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.tccc.com.tw/\nCall log:\n  - navigating to \"https://www.tccc.com.tw/\", waiting until \"domcontentloaded\"\n"
+    ],
+    "meetingPageUrl": null,
+    "officialData": {}
+  },
+  {
+    "id": 1038,
+    "name": "The Executive Centre",
+    "originalUrl": "https://www.executivecentre.com",
+    "status": "已驗證",
+    "verified": true,
+    "issues": [],
+    "meetingPageUrl": "https://www.executivecentre.com/meeting-rooms-conference",
+    "officialData": {
+      "roomNames": [],
+      "priceMatches": [],
+      "capacityMatches": [],
+      "photos": [
+        "https://www.executivecentre.com/_next/image/?url=https%3A%2F%2Fassets.executivecentre.com%2Fassets%2FBanner-Product-MeetingRoom.jpg&w=3840&q=75",
+        "https://www.executivecentre.com/_next/image/?url=%2F_next%2Fstatic%2Fmedia%2FplanOverview-mr-meetingRoom.1f2225da.jpg&w=3840&q=75",
+        "https://www.executivecentre.com/_next/image/?url=%2F_next%2Fstatic%2Fmedia%2FplanOverview-mr-boardRoom.fbe5da52.jpg&w=3840&q=75",
+        "https://www.executivecentre.com/_next/image/?url=%2F_next%2Fstatic%2Fmedia%2FplanOverview-mr-functionRoom.a989831d.jpg&w=3840&q=75",
+        "https://www.executivecentre.com/_next/image/?url=https%3A%2F%2Fassets.executivecentre.com%2Fassets%2FMeetingRoom-Rental_SpecialEvents.webp&w=3840&q=75",
+        "https://www.executivecentre.com/_next/image/?url=https%3A%2F%2Fassets.executivecentre.com%2Fassets%2FMeetingRoom-Rental_Hire.webp&w=3840&q=75",
+        "https://www.executivecentre.com/_next/image/?url=https%3A%2F%2Fassets.executivecentre.com%2Fassets%2FMeetingRoom-TailoredforPrivacy_MagicGlass.webp&w=3840&q=75",
+        "https://www.executivecentre.com/_next/image/?url=https%3A%2F%2Fassets.executivecentre.com%2Fassets%2FMeetingRoom-Rental_VideoConference.webp&w=3840&q=75",
+        "https://www.executivecentre.com/_next/image/?url=https%3A%2F%2Fassets.executivecentre.com%2Fassets%2Ftn_hongkong.jpg&w=3840&q=75",
+        "https://www.executivecentre.com/_next/image/?url=https%3A%2F%2Fassets.executivecentre.com%2Fassets%2Ftn_beijing.jpg&w=3840&q=75"
+      ],
+      "pageTitle": "Meeting Room Rental - The Executive Centre",
+      "bodyTextLength": 8801
+    }
+  },
+  {
+    "id": 1039,
+    "name": "WeWork共享空間",
+    "originalUrl": "https://www.wework.com",
+    "status": "待確認",
+    "verified": false,
+    "issues": [
+      "官網標題不匹配",
+      "找不到會議室頁面"
+    ],
+    "meetingPageUrl": null,
+    "officialData": {}
+  },
+  {
+    "id": 1040,
+    "name": "W飯店台北",
+    "originalUrl": "https://www.marriott.com/hotels/travel/tpegi-w-taipei",
+    "status": "待確認",
+    "verified": false,
+    "issues": [
+      "官網標題不匹配",
+      "找不到會議室頁面"
+    ],
+    "meetingPageUrl": null,
+    "officialData": {}
+  },
+  {
+    "id": 1041,
+    "name": "兄弟大飯店",
+    "originalUrl": "https://www.brotherhotel.com.tw/?cat=75",
+    "status": "待修",
+    "verified": false,
+    "issues": [
+      "缺少會議室照片"
+    ],
+    "meetingPageUrl": "https://www.brotherhotel.com.tw/?cat=76",
+    "officialData": {
+      "roomNames": [],
+      "priceMatches": [],
+      "capacityMatches": [],
+      "photos": [],
+      "pageTitle": "會議專案 | 兄弟大飯店 - Brother Hotel",
+      "bodyTextLength": 822
+    }
+  },
+  {
+    "id": 1042,
+    "name": "公務人力發展學院",
+    "originalUrl": "https://www.hrd.gov.tw",
+    "status": "待修",
+    "verified": false,
+    "issues": [
+      "缺少會議室照片"
+    ],
+    "meetingPageUrl": "https://www.hrd.gov.tw/1123/2127/?q=%E5%A0%B4%E5%9C%B0%E6%9F%A5%E8%A9%A2",
+    "officialData": {
+      "roomNames": [],
+      "priceMatches": [],
+      "capacityMatches": [],
+      "photos": [],
+      "pageTitle": "Google 搜尋引擎-行政院人事行政總處公務人力發展學院",
+      "bodyTextLength": 3109
+    }
+  },
+  {
+    "id": 1043,
+    "name": "六福萬怡酒店",
+    "originalUrl": "https://www.courtyard.com/taipei",
+    "status": "待確認",
+    "verified": false,
+    "issues": [
+      "官網標題不匹配",
+      "找不到會議室頁面"
+    ],
+    "meetingPageUrl": null,
+    "officialData": {}
+  },
+  {
+    "id": 1044,
+    "name": "典藏咖啡廳",
+    "originalUrl": "https://www.artco.com.tw",
+    "status": "錯誤",
+    "verified": false,
+    "issues": [
+      "page.goto: net::ERR_CERT_COMMON_NAME_INVALID at https://www.artco.com.tw/\nCall log:\n  - navigating to \"https://www.artco.com.tw/\", waiting until \"domcontentloaded\"\n"
+    ],
+    "meetingPageUrl": null,
+    "officialData": {}
+  },
+  {
+    "id": 1045,
+    "name": "北科大創新育成中心",
+    "originalUrl": "https://www.ntut.edu.tw",
+    "status": "待修",
+    "verified": true,
+    "issues": [
+      "官網標題不匹配",
+      "會議室名稱不一致"
+    ],
+    "meetingPageUrl": "https://www.ntut.edu.tw/p/404-1007-85205.php",
+    "officialData": {
+      "roomNames": [
+        "校長室"
+      ],
+      "priceMatches": [],
+      "capacityMatches": [],
+      "photos": [
+        "https://www.ntut.edu.tw/var/file/7/1007/pictures/64/m/mczh-tw1920x700_large30258_271421852504.png"
+      ],
+      "pageTitle": "臺北科技大學校長 任貽均終身特聘教授 - 國立臺北科技大學",
+      "bodyTextLength": 1996
+    }
+  },
+  {
+    "id": 1046,
+    "name": "南港展覽館",
+    "originalUrl": "https://www.tainex.com.tw/",
+    "status": "待修",
+    "verified": false,
+    "issues": [
+      "缺少會議室照片"
+    ],
+    "meetingPageUrl": "https://www.tainex.com.tw/event",
+    "officialData": {
+      "roomNames": [],
+      "priceMatches": [],
+      "capacityMatches": [],
+      "photos": [],
+      "pageTitle": "南港展覽館",
+      "bodyTextLength": 547
+    }
+  },
+  {
+    "id": 1047,
+    "name": "台北W飯店(WTaipei)",
+    "originalUrl": "https://www.wtaipei.com",
+    "status": "錯誤",
+    "verified": false,
+    "issues": [
+      "page.goto: net::ERR_CERT_COMMON_NAME_INVALID at https://www.wtaipei.com/\nCall log:\n  - navigating to \"https://www.wtaipei.com/\", waiting until \"domcontentloaded\"\n"
+    ],
+    "meetingPageUrl": null,
+    "officialData": {}
+  },
+  {
+    "id": 1048,
+    "name": "台北一樂園大飯店",
+    "originalUrl": "https://www.ile-hotel.com",
+    "status": "錯誤",
+    "verified": false,
+    "issues": [
+      "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.ile-hotel.com/\nCall log:\n  - navigating to \"https://www.ile-hotel.com/\", waiting until \"domcontentloaded\"\n"
+    ],
+    "meetingPageUrl": null,
+    "officialData": {}
+  },
+  {
+    "id": 1049,
+    "name": "台北世貿中心(TWTCA)展覽大樓",
+    "originalUrl": "https://www.twtc.com.tw/",
+    "status": "待修",
+    "verified": false,
+    "issues": [
+      "缺少會議室照片"
+    ],
+    "meetingPageUrl": "https://www.tainex.com.tw/event",
+    "officialData": {
+      "roomNames": [],
+      "priceMatches": [],
+      "capacityMatches": [],
+      "photos": [],
+      "pageTitle": "南港展覽館",
+      "bodyTextLength": 547
+    }
+  },
+  {
+    "id": 1050,
+    "name": "台北丹迪旅店",
+    "originalUrl": "https://www.dandyhotel.com.tw",
+    "status": "待確認",
+    "verified": false,
+    "issues": [
+      "官網標題不匹配",
+      "找不到會議室頁面"
+    ],
+    "meetingPageUrl": null,
+    "officialData": {}
+  },
+  {
+    "id": 1051,
+    "name": "台北亞都麗緻大飯店(LandisTaipei)",
+    "originalUrl": "https://www.thelandis.com",
+    "status": "待修",
+    "verified": true,
+    "issues": [
+      "官網標題不匹配"
+    ],
+    "meetingPageUrl": "https://www.thelandistheater.com/shows-events-1",
+    "officialData": {
+      "roomNames": [],
+      "priceMatches": [],
+      "capacityMatches": [],
+      "photos": [
+        "https://static.wixstatic.com/media/a9b95d_e21e4eed088c424685467dfbcfd17cef~mv2.png/v1/fill/w_1280,h_864,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/a9b95d_e21e4eed088c424685467dfbcfd17cef~mv2.png",
+        "https://static.wixstatic.com/media/a9b95d_b87f1e584a1745199bfe8637f333a8a7~mv2.png/v1/fill/w_240,h_240,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Untitled%20design%20(34).png"
+      ],
+      "pageTitle": "Events & Tickets | The Landis",
+      "bodyTextLength": 612
+    }
+  },
+  {
+    "id": 1052,
+    "name": "台北京站酒店",
+    "originalUrl": "https://www.cityinn.com.tw",
+    "status": "待確認",
+    "verified": false,
+    "issues": [
+      "官網標題不匹配",
+      "找不到會議室頁面"
+    ],
+    "meetingPageUrl": null,
+    "officialData": {}
+  },
+  {
+    "id": 1053,
+    "name": "台北兄弟大飯店(BrotherTaipei)",
+    "originalUrl": "https://www.brotherhotel.com.tw/?cat=75",
+    "status": "待修",
+    "verified": false,
+    "issues": [
+      "官網標題不匹配",
+      "缺少會議室照片"
+    ],
+    "meetingPageUrl": "https://www.brotherhotel.com.tw/?cat=76",
+    "officialData": {
+      "roomNames": [],
+      "priceMatches": [],
+      "capacityMatches": [],
+      "photos": [],
+      "pageTitle": "會議專案 | 兄弟大飯店 - Brother Hotel",
+      "bodyTextLength": 822
+    }
+  },
+  {
+    "id": 1054,
+    "name": "台北八方美學商旅",
+    "originalUrl": "https://www.hotelbf.com",
+    "status": "錯誤",
+    "verified": false,
+    "issues": [
+      "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.hotelbf.com/\nCall log:\n  - navigating to \"https://www.hotelbf.com/\", waiting until \"domcontentloaded\"\n"
+    ],
+    "meetingPageUrl": null,
+    "officialData": {}
+  },
+  {
+    "id": 1055,
+    "name": "台北六福客棧(Leofoo)",
+    "originalUrl": "https://www.leofoo.com.tw",
+    "status": "待修",
+    "verified": false,
+    "issues": [
+      "官網標題不匹配",
+      "會議室名稱不一致",
+      "缺少會議室照片"
+    ],
+    "meetingPageUrl": "https://www.leofoo.com.tw/business/index/5",
+    "officialData": {
+      "roomNames": [
+        "食尚餐廳"
+      ],
+      "priceMatches": [],
+      "capacityMatches": [],
+      "photos": [],
+      "pageTitle": "食尚餐廳｜六福旅遊集團",
+      "bodyTextLength": 691
+    }
+  },
+  {
+    "id": 1056,
+    "name": "台北六福萬怡酒店",
+    "originalUrl": "https://www.courtyard.com/taipei-six",
+    "status": "待確認",
+    "verified": false,
+    "issues": [
+      "官網標題不匹配",
+      "找不到會議室頁面"
+    ],
+    "meetingPageUrl": null,
+    "officialData": {}
+  },
+  {
+    "id": 1057,
+    "name": "台北典華",
+    "originalUrl": "https://www.dianhua.com.tw",
+    "status": "錯誤",
+    "verified": false,
+    "issues": [
+      "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.dianhua.com.tw/\nCall log:\n  - navigating to \"https://www.dianhua.com.tw/\", waiting until \"domcontentloaded\"\n"
+    ],
+    "meetingPageUrl": null,
+    "officialData": {}
+  },
+  {
+    "id": 1058,
+    "name": "台北北投會館",
+    "originalUrl": "https://www.beitou-hall.com",
+    "status": "錯誤",
+    "verified": false,
+    "issues": [
+      "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.beitou-hall.com/\nCall log:\n  - navigating to \"https://www.beitou-hall.com/\", waiting until \"domcontentloaded\"\n"
+    ],
+    "meetingPageUrl": null,
+    "officialData": {}
+  },
+  {
+    "id": 1059,
+    "name": "台北友春大飯店",
+    "originalUrl": "https://www.youchun-hotel.com",
+    "status": "錯誤",
+    "verified": false,
+    "issues": [
+      "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.youchun-hotel.com/\nCall log:\n  - navigating to \"https://www.youchun-hotel.com/\", waiting until \"domcontentloaded\"\n"
+    ],
+    "meetingPageUrl": null,
+    "officialData": {}
+  },
+  {
+    "id": 1060,
+    "name": "台北君品酒店(PalaisdeChine)",
+    "originalUrl": "https://www.palaisdechine.com",
+    "status": "待確認",
+    "verified": false,
+    "issues": [
+      "官網標題不匹配",
+      "找不到會議室頁面"
+    ],
+    "meetingPageUrl": null,
+    "officialData": {}
+  },
+  {
+    "id": 1061,
+    "name": "台北君悅酒店(GrandHyattTaipei)",
+    "originalUrl": "https://www.hyatt.com/zh-TW/hotel/taiwan/grand-hyatt-taipei/tyoph",
+    "status": "待確認",
+    "verified": false,
+    "issues": [
+      "官網標題不匹配",
+      "找不到會議室頁面"
+    ],
+    "meetingPageUrl": null,
+    "officialData": {}
+  },
+  {
+    "id": 1062,
+    "name": "台北君悅酒店(GrandHyattTaipei)",
+    "originalUrl": "https://www.hyatt.com/taipei",
+    "status": "待確認",
+    "verified": false,
+    "issues": [
+      "官網標題不匹配",
+      "找不到會議室頁面"
+    ],
+    "meetingPageUrl": null,
+    "officialData": {}
+  },
+  {
+    "id": 1063,
+    "name": "台北君悅酒店(GrandHyattTaipei)",
+    "originalUrl": "https://www.hyatt.com/taipei",
+    "status": "待確認",
+    "verified": false,
+    "issues": [
+      "官網標題不匹配",
+      "找不到會議室頁面"
+    ],
+    "meetingPageUrl": null,
+    "officialData": {}
+  },
+  {
+    "id": 1064,
+    "name": "台北君悅酒店(GrandHyattTaipei)",
+    "originalUrl": "https://www.grandhyatt.com/taipei",
+    "status": "待確認",
+    "verified": false,
+    "issues": [
+      "官網標題不匹配",
+      "找不到會議室頁面"
+    ],
+    "meetingPageUrl": null,
+    "officialData": {}
+  },
+  {
+    "id": 1065,
+    "name": "台北唯客樂文旅",
+    "originalUrl": "https://www.victoriam.com",
+    "status": "錯誤",
+    "verified": false,
+    "issues": [
+      "page.goto: Timeout 20000ms exceeded.\nCall log:\n  - navigating to \"https://www.victoriam.com/\", waiting until \"domcontentloaded\"\n"
+    ],
+    "meetingPageUrl": null,
+    "officialData": {}
+  },
+  {
+    "id": 1066,
+    "name": "台北商務會館",
+    "originalUrl": "https://www.taipei-business.com",
+    "status": "錯誤",
+    "verified": false,
+    "issues": [
+      "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.taipei-business.com/\nCall log:\n  - navigating to \"https://www.taipei-business.com/\", waiting until \"domcontentloaded\"\n"
+    ],
+    "meetingPageUrl": null,
+    "officialData": {}
+  },
+  {
+    "id": 1067,
+    "name": "台北喜來登大飯店(SheratonTaipei)",
+    "originalUrl": "https://www.sheratongrandtaipei.com/websev?lang=zh-tw",
+    "status": "待修",
+    "verified": true,
+    "issues": [
+      "會議室名稱不一致"
+    ],
+    "meetingPageUrl": "https://www.sheratongrandtaipei.com/websev?lang=zh-tw&ref=pages&cat=2&id=16",
+    "officialData": {
+      "roomNames": [
+        "宴會會議",
+        "宴會會議",
+        "宴會會議",
+        "大廳酒吧"
+      ],
+      "priceMatches": [],
+      "capacityMatches": [],
+      "photos": [
+        "https://www.sheratongrandtaipei.com/files/pages_174741223414fku9025_l.jpg",
+        "https://www.sheratongrandtaipei.com/files/pages_174741231514fkubd47_l.jpg",
+        "https://www.sheratongrandtaipei.com/files/pages_174741226114fku9r77_l.jpg",
+        "https://www.sheratongrandtaipei.com/files/pages_174741225014fku9g00_l.jpg"
+      ],
+      "pageTitle": "台北喜來登大飯店 Sheraton Grand Taipei Hotel - 精選美饌 - 大廳酒吧",
+      "bodyTextLength": 3328
+    }
+  },
+  {
+    "id": 1068,
+    "name": "台北喜瑞飯店",
+    "originalUrl": "https://www.ambience-hotel.com",
+    "status": "錯誤",
+    "verified": false,
+    "issues": [
+      "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.ambience-hotel.com/\nCall log:\n  - navigating to \"https://www.ambience-hotel.com/\", waiting until \"domcontentloaded\"\n"
+    ],
+    "meetingPageUrl": null,
+    "officialData": {}
+  },
+  {
+    "id": 1069,
+    "name": "台北國賓大飯店(AmbassadorTaipei)",
+    "originalUrl": "https://www.ambassadorhotel.com.tw/taipei",
+    "status": "錯誤",
+    "verified": false,
+    "issues": [
+      "page.goto: Timeout 20000ms exceeded.\nCall log:\n  - navigating to \"https://www.ambassadorhotel.com.tw/taipei\", waiting until \"domcontentloaded\"\n"
+    ],
+    "meetingPageUrl": null,
+    "officialData": {}
+  },
+  {
+    "id": 1072,
+    "name": "台北圓山大飯店",
+    "originalUrl": "https://www.grand-hotel.org",
+    "status": "待修",
+    "verified": true,
+    "issues": [
+      "官網標題不匹配"
+    ],
+    "meetingPageUrl": "https://www.grand-hotel.org/TW/index.aspx#",
+    "officialData": {
+      "roomNames": [],
+      "priceMatches": [],
+      "capacityMatches": [],
+      "photos": [
+        "https://www.grand-hotel.org/TW/images/photo/restaurant-img@3x.jpg"
+      ],
+      "pageTitle": "圓山大飯店",
+      "bodyTextLength": 230
+    }
+  },
+  {
+    "id": 1073,
+    "name": "台北姿美大飯店",
+    "originalUrl": "https://www.zibei-hotel.com",
+    "status": "錯誤",
+    "verified": false,
+    "issues": [
+      "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.zibei-hotel.com/\nCall log:\n  - navigating to \"https://www.zibei-hotel.com/\", waiting until \"domcontentloaded\"\n"
+    ],
+    "meetingPageUrl": null,
+    "officialData": {}
+  },
+  {
+    "id": 1074,
+    "name": "台北威斯汀六福皇宮(Westin)",
+    "originalUrl": "https://www.westin.com/taipei",
+    "status": "待修",
+    "verified": true,
+    "issues": [
+      "官網標題不匹配"
+    ],
+    "meetingPageUrl": "https://www.marriott.com/en-us/meeting-event-hotels/group-reservations/westin.mi",
+    "officialData": {
+      "roomNames": [],
+      "priceMatches": [],
+      "capacityMatches": [],
+      "photos": [
+        "https://cache.marriott.com/is/image/marriotts7prod/wi-atlwu-pre-function-main-40706",
+        "https://cache.marriott.com/is/image/marriotts7prod/wi-rswwi-nautical-room-9242438-71809",
+        "https://cache.marriott.com/is/image/marriotts7prod/wi_brand_wesls-266402",
+        "https://cache.marriott.com/is/image/marriotts7prod/wi-brandcampaign2024-yoga-02-30014",
+        "https://cache.marriott.com/content/dam/marriott-digital/wi/us-canada/hws/p/phxws/en_us/photo/unlimited/assets/phxws-rainmakers-1660.tif"
+      ],
+      "pageTitle": "Meetings & Events by Westin",
+      "bodyTextLength": 2577
+    }
+  },
+  {
+    "id": 1075,
+    "name": "台北寒舍喜來登大飯店",
+    "originalUrl": "https://www.sheratongrandtaipei.com",
+    "status": "待修",
+    "verified": true,
+    "issues": [
+      "官網標題不匹配",
+      "會議室名稱不一致"
+    ],
+    "meetingPageUrl": "https://www.sheratongrandtaipei.com/websev?lang=zh-tw&ref=pages&cat=2&id=16",
+    "officialData": {
+      "roomNames": [
+        "宴會會議",
+        "宴會會議",
+        "宴會會議",
+        "大廳酒吧"
+      ],
+      "priceMatches": [],
+      "capacityMatches": [],
+      "photos": [
+        "https://www.sheratongrandtaipei.com/files/pages_174741222614fku8q21_l.jpg",
+        "https://www.sheratongrandtaipei.com/files/pages_174741223414fku9025_l.jpg",
+        "https://www.sheratongrandtaipei.com/files/pages_174741231514fkubd47_l.jpg",
+        "https://www.sheratongrandtaipei.com/files/pages_174741226114fku9r77_l.jpg",
+        "https://www.sheratongrandtaipei.com/files/pages_174741225014fku9g00_l.jpg"
+      ],
+      "pageTitle": "台北喜來登大飯店 Sheraton Grand Taipei Hotel - 精選美饌 - 大廳酒吧",
+      "bodyTextLength": 3332
+    }
+  },
+  {
+    "id": 1076,
+    "name": "台北寒舍艾美酒店(LeMeridienTaipei)",
+    "originalUrl": "https://www.lemeridien-taipei.com",
+    "status": "待修",
+    "verified": false,
+    "issues": [
+      "缺少會議室照片"
+    ],
+    "meetingPageUrl": "https://www.lemeridien-taipei.com/websev?lang=zh-tw&ref=pages&cat=43&type=0",
+    "officialData": {
+      "roomNames": [],
+      "priceMatches": [],
+      "capacityMatches": [],
+      "photos": [],
+      "pageTitle": "台北寒舍艾美酒店 - Le Méridien Taipei - 宴會專案",
+      "bodyTextLength": 1564
+    }
+  },
+  {
+    "id": 1077,
+    "name": "台北寒舍艾麗酒店(HummerHouse)",
+    "originalUrl": "https://www.humblehousehotels.com/taipei",
+    "status": "待修",
+    "verified": true,
+    "issues": [
+      "官網標題不匹配"
+    ],
+    "meetingPageUrl": "https://www.humblehousehotels.com/en/websev?cat=page&id=7",
+    "officialData": {
+      "roomNames": [],
+      "priceMatches": [],
+      "capacityMatches": [],
+      "photos": [
+        "https://www.humblehousehotels.com/files/page_1388370600uivul7.jpg"
+      ],
+      "pageTitle": "Humble House Taipei - Rooms - DELUXE ROOM",
+      "bodyTextLength": 1635
+    }
+  },
+  {
+    "id": 1078,
+    "name": "台北寒舍艾麗酒店(HummerHouse)",
+    "originalUrl": "https://www.humblehouse.com",
+    "status": "待確認",
+    "verified": false,
+    "issues": [
+      "官網標題不匹配",
+      "找不到會議室頁面"
+    ],
+    "meetingPageUrl": null,
+    "officialData": {}
+  },
+  {
+    "id": 1079,
+    "name": "台北小巨蛋(TPEArena)",
+    "originalUrl": "https://www.taipeiarena.com",
+    "status": "待確認",
+    "verified": false,
+    "issues": [
+      "官網標題不匹配",
+      "找不到會議室頁面"
+    ],
+    "meetingPageUrl": null,
+    "officialData": {}
+  },
+  {
+    "id": 1080,
+    "name": "台北康華大飯店",
+    "originalUrl": "https://www.kanghua-hotel.com",
+    "status": "錯誤",
+    "verified": false,
+    "issues": [
+      "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.kanghua-hotel.com/\nCall log:\n  - navigating to \"https://www.kanghua-hotel.com/\", waiting until \"domcontentloaded\"\n"
+    ],
+    "meetingPageUrl": null,
+    "officialData": {}
+  },
+  {
+    "id": 1081,
+    "name": "台北德立莊酒店",
+    "originalUrl": "https://www.midtownrichard.com",
+    "status": "錯誤",
+    "verified": false,
+    "issues": [
+      "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.midtownrichard.com/\nCall log:\n  - navigating to \"https://www.midtownrichard.com/\", waiting until \"domcontentloaded\"\n"
+    ],
+    "meetingPageUrl": null,
+    "officialData": {}
+  },
+  {
+    "id": 1082,
+    "name": "台北怡亨酒店",
+    "originalUrl": "https://www.eclathotels.com",
+    "status": "待確認",
+    "verified": false,
+    "issues": [
+      "官網標題不匹配",
+      "找不到會議室頁面"
+    ],
+    "meetingPageUrl": null,
+    "officialData": {}
+  },
+  {
+    "id": 1083,
+    "name": "台北意舍酒店(CitizenM)",
+    "originalUrl": "https://www.citizenm.com/taipei",
+    "status": "待確認",
+    "verified": false,
+    "issues": [
+      "官網標題不匹配",
+      "找不到會議室頁面"
+    ],
+    "meetingPageUrl": null,
+    "officialData": {}
+  },
+  {
+    "id": 1084,
+    "name": "台北慶泰大飯店",
+    "originalUrl": "https://www.ching-tai.com",
+    "status": "錯誤",
+    "verified": false,
+    "issues": [
+      "page.goto: net::ERR_SSL_VERSION_OR_CIPHER_MISMATCH at https://www.ching-tai.com/\nCall log:\n  - navigating to \"https://www.ching-tai.com/\", waiting until \"domcontentloaded\"\n"
+    ],
+    "meetingPageUrl": null,
+    "officialData": {}
+  },
+  {
+    "id": 1085,
+    "name": "台北文華東方酒店(MOHTaipei)",
+    "originalUrl": "https://www.mandarinoriental.com/taipei",
+    "status": "待修",
+    "verified": true,
+    "issues": [
+      "官網標題不匹配"
+    ],
+    "meetingPageUrl": "https://www.mandarinoriental.com/en/taipei/songshan/stay?roomType=Rooms",
+    "officialData": {
+      "roomNames": [],
+      "priceMatches": [],
+      "capacityMatches": [],
+      "photos": [
+        "https://media.ffycdn.net/eu/mandarin-oriental-hotel-group/oy6E3rsLkt5vaNhNAcTM.jpg",
+        "data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="
+      ],
+      "pageTitle": "Luxury Accommodations In Songshan | Mandarin Oriental, Taipei",
+      "bodyTextLength": 2599
+    }
+  },
+  {
+    "id": 1086,
+    "name": "台北晶華酒店(RegentTaipei)",
+    "originalUrl": "https://www.regenthotels.com/taipei",
+    "status": "待確認",
+    "verified": false,
+    "issues": [
+      "官網標題不匹配",
+      "找不到會議室頁面"
+    ],
+    "meetingPageUrl": null,
+    "officialData": {}
+  },
+  {
+    "id": 1087,
+    "name": "台北晶華酒店(RegentTaipei)",
+    "originalUrl": "https://www.regenthotels.com/taipei",
+    "status": "待確認",
+    "verified": false,
+    "issues": [
+      "官網標題不匹配",
+      "找不到會議室頁面"
+    ],
+    "meetingPageUrl": null,
+    "officialData": {}
+  },
+  {
+    "id": 1088,
+    "name": "台北松意酒店",
+    "originalUrl": "https://www.songyi-hotel.com",
+    "status": "錯誤",
+    "verified": false,
+    "issues": [
+      "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.songyi-hotel.com/\nCall log:\n  - navigating to \"https://www.songyi-hotel.com/\", waiting until \"domcontentloaded\"\n"
+    ],
+    "meetingPageUrl": null,
+    "officialData": {}
+  },
+  {
+    "id": 1089,
+    "name": "台北洛碁大飯店",
+    "originalUrl": "https://www.chateau-china.com",
+    "status": "錯誤",
+    "verified": false,
+    "issues": [
+      "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.chateau-china.com/\nCall log:\n  - navigating to \"https://www.chateau-china.com/\", waiting until \"domcontentloaded\"\n"
+    ],
+    "meetingPageUrl": null,
+    "officialData": {}
+  },
+  {
+    "id": 1090,
+    "name": "台北王朝大酒店",
+    "originalUrl": "https://www.dynasty.com.tw",
+    "status": "待修",
+    "verified": false,
+    "issues": [
+      "官網標題不匹配",
+      "缺少會議室照片"
+    ],
+    "meetingPageUrl": "https://www.dynasty.com.tw/news",
+    "officialData": {
+      "roomNames": [],
+      "priceMatches": [],
+      "capacityMatches": [],
+      "photos": [],
+      "pageTitle": "皇朝食品有限公司(湖口、新豐、竹北、新竹、團膳、便當訂做、飯包)",
+      "bodyTextLength": 531
+    }
+  },
+  {
+    "id": 1091,
+    "name": "台北神旺大飯店(SanWantTaipei)",
+    "originalUrl": "https://www.san-want.com",
+    "status": "錯誤",
+    "verified": false,
+    "issues": [
+      "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.san-want.com/\nCall log:\n  - navigating to \"https://www.san-want.com/\", waiting until \"domcontentloaded\"\n"
+    ],
+    "meetingPageUrl": null,
+    "officialData": {}
+  },
+  {
+    "id": 1092,
+    "name": "台北第一大飯店",
+    "originalUrl": "https://www.firsthotel.com",
+    "status": "錯誤",
+    "verified": false,
+    "issues": [
+      "page.goto: net::ERR_CONNECTION_REFUSED at https://www.firsthotel.com/\nCall log:\n  - navigating to \"https://www.firsthotel.com/\", waiting until \"domcontentloaded\"\n"
+    ],
+    "meetingPageUrl": null,
+    "officialData": {}
+  },
+  {
+    "id": 1093,
+    "name": "台北第一酒店(FirstHotel)",
+    "originalUrl": "https://www.first-hotel.com.tw",
+    "status": "錯誤",
+    "verified": false,
+    "issues": [
+      "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.first-hotel.com.tw/\nCall log:\n  - navigating to \"https://www.first-hotel.com.tw/\", waiting until \"domcontentloaded\"\n"
+    ],
+    "meetingPageUrl": null,
+    "officialData": {}
+  },
+  {
+    "id": 1094,
+    "name": "台北統一大飯店",
+    "originalUrl": "https://www.tongyi-hotel.com",
+    "status": "錯誤",
+    "verified": false,
+    "issues": [
+      "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.tongyi-hotel.com/\nCall log:\n  - navigating to \"https://www.tongyi-hotel.com/\", waiting until \"domcontentloaded\"\n"
+    ],
+    "meetingPageUrl": null,
+    "officialData": {}
+  },
+  {
+    "id": 1095,
+    "name": "台北美福大飯店",
+    "originalUrl": "https://www.grandmayfull.com",
+    "status": "待修",
+    "verified": false,
+    "issues": [
+      "官網標題不匹配",
+      "缺少會議室照片"
+    ],
+    "meetingPageUrl": "https://www.tablecheck.com/en/grand-mayfull-hotel-taipei-palette-buffet/reserve/landing?require_venue=true",
+    "officialData": {
+      "roomNames": [],
+      "priceMatches": [],
+      "capacityMatches": [],
+      "photos": [],
+      "pageTitle": "Palette Buffet Restaurant - Grand Mayfull Hotel Taipei - TableCheck",
+      "bodyTextLength": 331
+    }
+  },
+  {
+    "id": 1096,
+    "name": "台北美福大飯店",
+    "originalUrl": "https://www.grandmayfull.com",
+    "status": "待修",
+    "verified": false,
+    "issues": [
+      "官網標題不匹配",
+      "缺少會議室照片"
+    ],
+    "meetingPageUrl": "https://www.tablecheck.com/en/grand-mayfull-hotel-taipei-palette-buffet/reserve/landing?require_venue=true",
+    "officialData": {
+      "roomNames": [],
+      "priceMatches": [],
+      "capacityMatches": [],
+      "photos": [],
+      "pageTitle": "Palette Buffet Restaurant - Grand Mayfull Hotel Taipei - TableCheck",
+      "bodyTextLength": 331
+    }
+  },
+  {
+    "id": 1097,
+    "name": "台北老爺大酒店(RoyalInnTaipei)",
+    "originalUrl": "https://www.hotelroyal.com.tw/taipei",
+    "status": "待修",
+    "verified": true,
+    "issues": [
+      "官網標題不匹配",
+      "會議室名稱不一致"
+    ],
+    "meetingPageUrl": "https://www.hotelroyal.com.tw/zh-tw/promotions/rooms",
+    "officialData": {
+      "roomNames": [
+        "南港老爺行旅 ✕ Bose【聲影娛樂室】含早餐專案 NT$3"
+      ],
+      "priceMatches": [],
+      "capacityMatches": [],
+      "photos": [
+        "https://imagedelivery.net/a6-OYZSpZSiOriMeuFHR3w/d40f8959-753a-4be0-35d5-12e2f42b9900/public",
+        "https://imagedelivery.net/a6-OYZSpZSiOriMeuFHR3w/8b7da02e-72f2-4996-1c1a-2e9030c18f00/public",
+        "https://imagedelivery.net/a6-OYZSpZSiOriMeuFHR3w/056698cb-6bbd-449c-57da-01345d7eca00/public",
+        "https://www.hotelroyal.com.tw/assets/img/contentPlaceholder-8A745A.gif"
+      ],
+      "pageTitle": "住宿優惠｜老爺酒店集團",
+      "bodyTextLength": 1290
+    }
+  },
+  {
+    "id": 1098,
+    "name": "台北艾美酒店",
+    "originalUrl": "https://www.lemeridien.com/taipei",
+    "status": "待修",
+    "verified": true,
+    "issues": [
+      "官網標題不匹配"
+    ],
+    "meetingPageUrl": "https://le-meridien.marriott.com/programmes/meetings-and-events/",
+    "officialData": {
+      "roomNames": [],
+      "priceMatches": [],
+      "capacityMatches": [],
+      "photos": [
+        "https://le-meridien.marriott.com/wp-content/themes/marriott-master/assets/img/brandbar/devices.png"
+      ],
+      "pageTitle": "Meeting Rooms & Spaces | Le Méridien Hotels & Resorts",
+      "bodyTextLength": 2381
+    }
+  },
+  {
+    "id": 1099,
+    "name": "台北艾美酒店",
+    "originalUrl": "https://www.lemeridien.com/taipei",
+    "status": "待修",
+    "verified": true,
+    "issues": [
+      "官網標題不匹配"
+    ],
+    "meetingPageUrl": "https://le-meridien.marriott.com/programmes/meetings-and-events/",
+    "officialData": {
+      "roomNames": [],
+      "priceMatches": [],
+      "capacityMatches": [],
+      "photos": [
+        "https://le-meridien.marriott.com/wp-content/themes/marriott-master/assets/img/brandbar/devices.png"
+      ],
+      "pageTitle": "Meeting Rooms & Spaces | Le Méridien Hotels & Resorts",
+      "bodyTextLength": 2381
+    }
+  },
+  {
+    "id": 1100,
+    "name": "台北花園大酒店(TGHotel)",
+    "originalUrl": "https://www.taipeigarden.com.tw",
+    "status": "待修",
+    "verified": false,
+    "issues": [
+      "官網標題不匹配",
+      "缺少會議室照片"
+    ],
+    "meetingPageUrl": "https://www.taipeigarden.com.tw/news-events/",
+    "officialData": {
+      "roomNames": [],
+      "priceMatches": [],
+      "capacityMatches": [],
+      "photos": [],
+      "pageTitle": "最新消息",
+      "bodyTextLength": 3284
+    }
+  },
+  {
+    "id": 1101,
+    "name": "台北華國大飯店(ImperialTaipei)",
+    "originalUrl": "https://www.imperial-hotel.com.tw",
+    "status": "錯誤",
+    "verified": false,
+    "issues": [
+      "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.imperial-hotel.com.tw/\nCall log:\n  - navigating to \"https://www.imperial-hotel.com.tw/\", waiting until \"domcontentloaded\"\n"
+    ],
+    "meetingPageUrl": null,
+    "officialData": {}
+  },
+  {
+    "id": 1102,
+    "name": "台北華泰瑞舍",
+    "originalUrl": "https://www.gloria-residence.com",
+    "status": "錯誤",
+    "verified": false,
+    "issues": [
+      "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.gloria-residence.com/\nCall log:\n  - navigating to \"https://www.gloria-residence.com/\", waiting until \"domcontentloaded\"\n"
+    ],
+    "meetingPageUrl": null,
+    "officialData": {}
+  },
+  {
+    "id": 1103,
+    "name": "台北萬豪酒店(MarriottTaipei)",
+    "originalUrl": "https://www.marriott.com/taipei",
+    "status": "待修",
+    "verified": false,
+    "issues": [
+      "官網標題不匹配",
+      "缺少會議室照片"
+    ],
+    "meetingPageUrl": "https://www.vacationsbymarriott.com/default.aspx?site=us&nav=marriottvacations&air1=true&room1=true&car1=false",
+    "officialData": {
+      "roomNames": [],
+      "priceMatches": [],
+      "capacityMatches": [],
+      "photos": [],
+      "pageTitle": "Vacation and Travel Package Deals | Vacations by Marriott Bonvoy",
+      "bodyTextLength": 2652
+    }
+  },
+  {
+    "id": 1104,
+    "name": "台北西華飯店(SherwoodTaipei)",
+    "originalUrl": "https://www.sherwood.com.tw",
+    "status": "待確認",
+    "verified": false,
+    "issues": [
+      "找不到會議室頁面"
+    ],
+    "meetingPageUrl": null,
+    "officialData": {}
+  },
+  {
+    "id": 1105,
+    "name": "台北陽明山中國麗緻大飯店",
+    "originalUrl": "https://www.landisresort.com",
+    "status": "錯誤",
+    "verified": false,
+    "issues": [
+      "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.landisresort.com/\nCall log:\n  - navigating to \"https://www.landisresort.com/\", waiting until \"domcontentloaded\"\n"
+    ],
+    "meetingPageUrl": null,
+    "officialData": {}
+  },
+  {
+    "id": 1106,
+    "name": "台北香格里拉遠東國際大飯店",
+    "originalUrl": "https://www.shangri-la.com/taipei",
+    "status": "待修",
+    "verified": false,
+    "issues": [
+      "官網標題不匹配",
+      "缺少會議室照片"
+    ],
+    "meetingPageUrl": "https://www.shangri-la.com/taipei/fareasternplazashangrila/rooms-suites/rooms/superior-room/",
+    "officialData": {
+      "roomNames": [],
+      "priceMatches": [],
+      "capacityMatches": [],
+      "photos": [],
+      "pageTitle": "Luxury Hotels and Resorts | Official Site Shangri-La Hotels and Resorts",
+      "bodyTextLength": 2887
+    }
+  },
+  {
+    "id": 1107,
+    "name": "台北體育館",
+    "originalUrl": "https://www.tms.gov.tw",
+    "status": "錯誤",
+    "verified": false,
+    "issues": [
+      "page.goto: net::ERR_ADDRESS_UNREACHABLE at https://www.tms.gov.tw/\nCall log:\n  - navigating to \"https://www.tms.gov.tw/\", waiting until \"domcontentloaded\"\n"
+    ],
+    "meetingPageUrl": null,
+    "officialData": {}
+  },
+  {
+    "id": 1108,
+    "name": "台大校友會館",
+    "originalUrl": "https://www.ntualumni.org",
+    "status": "錯誤",
+    "verified": false,
+    "issues": [
+      "page.goto: net::ERR_CERT_COMMON_NAME_INVALID at https://www.ntualumni.org/\nCall log:\n  - navigating to \"https://www.ntualumni.org/\", waiting until \"domcontentloaded\"\n"
+    ],
+    "meetingPageUrl": null,
+    "officialData": {}
+  },
+  {
+    "id": 1109,
+    "name": "台大綜合體育館",
+    "originalUrl": "https://www.ntu.edu.tw",
+    "status": "待修",
+    "verified": false,
+    "issues": [
+      "官網標題不匹配",
+      "缺少會議室照片"
+    ],
+    "meetingPageUrl": "https://labspotlight.ntu.edu.tw/",
+    "officialData": {
+      "roomNames": [],
+      "priceMatches": [],
+      "capacityMatches": [],
+      "photos": [],
+      "pageTitle": "Lab Spotlight, National Taiwan University",
+      "bodyTextLength": 647
+    }
+  },
+  {
+    "id": 1111,
+    "name": "圓山花博公園流行館",
+    "originalUrl": "https://www.taipeiexpopark.tw",
+    "status": "錯誤",
+    "verified": false,
+    "issues": [
+      "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.taipeiexpopark.tw/\nCall log:\n  - navigating to \"https://www.taipeiexpopark.tw/\", waiting until \"domcontentloaded\"\n"
+    ],
+    "meetingPageUrl": null,
+    "officialData": {}
+  },
+  {
+    "id": 1112,
+    "name": "天母體育館",
+    "originalUrl": "https://www.tianmu.gov.tw",
+    "status": "錯誤",
+    "verified": false,
+    "issues": [
+      "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.tianmu.gov.tw/\nCall log:\n  - navigating to \"https://www.tianmu.gov.tw/\", waiting until \"domcontentloaded\"\n"
+    ],
+    "meetingPageUrl": null,
+    "officialData": {}
+  },
+  {
+    "id": 1113,
+    "name": "寒舍艾美酒店",
+    "originalUrl": "https://www.lemeridien.com/taipei",
+    "status": "待修",
+    "verified": true,
+    "issues": [
+      "官網標題不匹配"
+    ],
+    "meetingPageUrl": "https://le-meridien.marriott.com/programmes/meetings-and-events/",
+    "officialData": {
+      "roomNames": [],
+      "priceMatches": [],
+      "capacityMatches": [],
+      "photos": [
+        "https://le-meridien.marriott.com/wp-content/themes/marriott-master/assets/img/brandbar/devices.png"
+      ],
+      "pageTitle": "Meeting Rooms & Spaces | Le Méridien Hotels & Resorts",
+      "bodyTextLength": 2381
+    }
+  },
+  {
+    "id": 1115,
+    "name": "張榮發基金會(KLCF)國際會議中心",
+    "originalUrl": "https://www.yfpcf.org",
+    "status": "錯誤",
+    "verified": false,
+    "issues": [
+      "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.yfpcf.org/\nCall log:\n  - navigating to \"https://www.yfpcf.org/\", waiting until \"domcontentloaded\"\n"
+    ],
+    "meetingPageUrl": null,
+    "officialData": {}
+  },
+  {
+    "id": 1116,
+    "name": "彭園婚宴會館",
+    "originalUrl": "https://www.pengyuan.com.tw",
+    "status": "待修",
+    "verified": true,
+    "issues": [
+      "會議室名稱不一致"
+    ],
+    "meetingPageUrl": "https://www.pengyuan.com.tw/place",
+    "officialData": {
+      "roomNames": [
+        "彭園婚宴會館 - 湘菜、婚宴場地、尾牙餐廳"
+      ],
+      "priceMatches": [],
+      "capacityMatches": [],
+      "photos": [
+        "https://www.pengyuan.com.tw/upload/pictures/store/1805_DSC_6837-iloveimg-resized-iloveimg-cropped%20(1).jpg",
+        "https://www.pengyuan.com.tw/upload/pictures/store/5549__DSC6423-HDR.jpg",
+        "https://www.pengyuan.com.tw/upload/pictures/store/5838_1_DSC1975.jpg",
+        "https://www.pengyuan.com.tw/upload/pictures/store/4547__DSC6628-HDR%20(4).jpg",
+        "https://www.pengyuan.com.tw/upload/pictures/store/4959_1100X619.jpg",
+        "https://www.pengyuan.com.tw/upload/pictures/store/3559__DSC7853-HDR.jpg",
+        "https://www.pengyuan.com.tw/upload/pictures/store/1607__DSC4739-HDR%20(1).jpg",
+        "https://www.pengyuan.com.tw/upload/pictures/store/5638__DSC4279-HDR%20(1)%20(1).jpg",
+        "https://www.pengyuan.com.tw/upload/pictures/store/5209_DSC_6640_DxO.jpg",
+        "https://www.pengyuan.com.tw/upload/pictures/store/3904_%E5%AE%98%E7%B6%B2%E5%B0%81%E9%9D%A2.jpg"
+      ],
+      "pageTitle": "婚宴場地及專案 - 彭園婚宴會館",
+      "bodyTextLength": 855
+    }
+  },
+  {
+    "id": 1117,
+    "name": "復興美學共享空間",
+    "originalUrl": "https://www.fuxing.space",
+    "status": "錯誤",
+    "verified": false,
+    "issues": [
+      "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.fuxing.space/\nCall log:\n  - navigating to \"https://www.fuxing.space/\", waiting until \"domcontentloaded\"\n"
+    ],
+    "meetingPageUrl": null,
+    "officialData": {}
+  },
+  {
+    "id": 1118,
+    "name": "政大公企中心",
+    "originalUrl": "https://www.nccu.edu.tw",
+    "status": "待修",
+    "verified": false,
+    "issues": [
+      "官網標題不匹配",
+      "缺少會議室照片"
+    ],
+    "meetingPageUrl": "https://www.nccu.edu.tw/p/406-1000-21958,r19.php?Lang=zh-tw",
+    "officialData": {
+      "roomNames": [],
+      "priceMatches": [],
+      "capacityMatches": [],
+      "photos": [],
+      "pageTitle": "【招商】電動車充電專用場地出租及充電設備建置案2026-03-02更新 - 國立政治大學",
+      "bodyTextLength": 1712
+    }
+  },
+  {
+    "id": 1119,
+    "name": "文華東方婚宴會館",
+    "originalUrl": "https://www.mandarin-wedding.com",
+    "status": "錯誤",
+    "verified": false,
+    "issues": [
+      "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.mandarin-wedding.com/\nCall log:\n  - navigating to \"https://www.mandarin-wedding.com/\", waiting until \"domcontentloaded\"\n"
+    ],
+    "meetingPageUrl": null,
+    "officialData": {}
+  },
+  {
+    "id": 1120,
+    "name": "社會創新實驗中心",
+    "originalUrl": "https://www.siihub.org",
+    "status": "錯誤",
+    "verified": false,
+    "issues": [
+      "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.siihub.org/\nCall log:\n  - navigating to \"https://www.siihub.org/\", waiting until \"domcontentloaded\"\n"
+    ],
+    "meetingPageUrl": null,
+    "officialData": {}
+  },
+  {
+    "id": 1121,
+    "name": "神旺大飯店",
+    "originalUrl": "https://www.sanwant.com",
+    "status": "待修",
+    "verified": true,
+    "issues": [
+      "官網標題不匹配"
+    ],
+    "meetingPageUrl": "https://www.sanwant.com/Traditional/about2.php",
+    "officialData": {
+      "roomNames": [],
+      "priceMatches": [],
+      "capacityMatches": [],
+      "photos": [
+        "https://www.sanwant.com/Traditional/images/about/sider_img.jpg",
+        "https://www.sanwant.com/Traditional/images/location/zhongxiao.jpg",
+        "https://www.sanwant.com/Traditional/images/location/a4.jpg"
+      ],
+      "pageTitle": "潮品集潮州餐廳-餐廳位置｜潮品集潮州餐廳",
+      "bodyTextLength": 400
+    }
+  },
+  {
+    "id": 1122,
+    "name": "維多麗亞酒店",
+    "originalUrl": "https://www.victoria.com.tw",
+    "status": "錯誤",
+    "verified": false,
+    "issues": [
+      "page.goto: net::ERR_CERT_COMMON_NAME_INVALID at https://www.victoria.com.tw/\nCall log:\n  - navigating to \"https://www.victoria.com.tw/\", waiting until \"domcontentloaded\"\n"
+    ],
+    "meetingPageUrl": null,
+    "officialData": {}
+  },
+  {
+    "id": 1123,
+    "name": "花博公園爭艷館",
+    "originalUrl": "https://www.taipeiexpopark.tw",
+    "status": "錯誤",
+    "verified": false,
+    "issues": [
+      "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.taipeiexpopark.tw/\nCall log:\n  - navigating to \"https://www.taipeiexpopark.tw/\", waiting until \"domcontentloaded\"\n"
+    ],
+    "meetingPageUrl": null,
+    "officialData": {}
+  },
+  {
+    "id": 1124,
+    "name": "花園大酒店",
+    "originalUrl": "https://www.taipeigarden.com.tw",
+    "status": "待修",
+    "verified": false,
+    "issues": [
+      "官網標題不匹配",
+      "缺少會議室照片"
+    ],
+    "meetingPageUrl": "https://www.taipeigarden.com.tw/news-events/",
+    "officialData": {
+      "roomNames": [],
+      "priceMatches": [],
+      "capacityMatches": [],
+      "photos": [],
+      "pageTitle": "最新消息",
+      "bodyTextLength": 3284
+    }
+  },
+  {
+    "id": 1125,
+    "name": "華山1914文化創意產業園區(Huashan1914)(Huashan1914)",
+    "originalUrl": "https://www.huashan1914.com",
+    "status": "已驗證",
+    "verified": true,
+    "issues": [],
+    "meetingPageUrl": "https://www.huashan1914.com/w/huashan1914/exhibition",
+    "officialData": {
+      "roomNames": [],
+      "priceMatches": [],
+      "capacityMatches": [],
+      "photos": [
+        "https://media.huashan1914.com/WebUPD/huashan1914/exhibition/6A9A1825we.jpg"
+      ],
+      "pageTitle": "近期上演/展覽 - 華山1914文化創意產業園區",
+      "bodyTextLength": 1588
+    }
+  },
+  {
+    "id": 1126,
+    "name": "豪景大酒店",
+    "originalUrl": "https://www.grandview.com.tw",
+    "status": "待確認",
+    "verified": false,
+    "issues": [
+      "官網標題不匹配",
+      "找不到會議室頁面"
+    ],
+    "meetingPageUrl": null,
+    "officialData": {}
+  },
+  {
+    "id": 1127,
+    "name": "貳樓餐廳",
+    "originalUrl": "https://www.secondfloor.com.tw",
+    "status": "錯誤",
+    "verified": false,
+    "issues": [
+      "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.secondfloor.com.tw/\nCall log:\n  - navigating to \"https://www.secondfloor.com.tw/\", waiting until \"domcontentloaded\"\n"
+    ],
+    "meetingPageUrl": null,
+    "officialData": {}
+  },
+  {
+    "id": 1128,
+    "name": "集思台大會議中心(NTUCC)",
+    "originalUrl": "https://www.ntuacc.org",
+    "status": "錯誤",
+    "verified": false,
+    "issues": [
+      "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.ntuacc.org/\nCall log:\n  - navigating to \"https://www.ntuacc.org/\", waiting until \"domcontentloaded\"\n"
+    ],
+    "meetingPageUrl": null,
+    "officialData": {}
+  },
+  {
+    "id": 1129,
+    "name": "青青婚宴會館",
+    "originalUrl": "https://www.qingqing.com.tw",
+    "status": "待確認",
+    "verified": false,
+    "issues": [
+      "官網標題不匹配",
+      "找不到會議室頁面"
+    ],
+    "meetingPageUrl": null,
+    "officialData": {}
+  },
+  {
+    "id": 1130,
+    "name": "香格里拉台北遠東國際大飯店",
+    "originalUrl": "https://www.shangri-la.com/taipei",
+    "status": "待修",
+    "verified": false,
+    "issues": [
+      "官網標題不匹配",
+      "缺少會議室照片"
+    ],
+    "meetingPageUrl": "https://www.shangri-la.com/taipei/fareasternplazashangrila/rooms-suites/rooms/superior-room/",
+    "officialData": {
+      "roomNames": [],
+      "priceMatches": [],
+      "capacityMatches": [],
+      "photos": [],
+      "pageTitle": "Luxury Hotels and Resorts | Official Site Shangri-La Hotels and Resorts",
+      "bodyTextLength": 2887
+    }
+  },
+  {
+    "id": 1333,
+    "name": "中正紀念堂(CKSMH)",
+    "originalUrl": "https://www.cksmh.gov.tw",
+    "status": "待修",
+    "verified": false,
+    "issues": [
+      "缺少會議室照片"
+    ],
+    "meetingPageUrl": "https://www.cksmh.gov.tw/cl.aspx?n=6096",
+    "officialData": {
+      "roomNames": [],
+      "priceMatches": [],
+      "capacityMatches": [],
+      "photos": [],
+      "pageTitle": "國立中正紀念堂-活動",
+      "bodyTextLength": 737
+    }
+  },
+  {
+    "id": 1334,
+    "name": "台北中山運動中心",
+    "originalUrl": "https://www.zssc.gov.tw",
+    "status": "錯誤",
+    "verified": false,
+    "issues": [
+      "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.zssc.gov.tw/\nCall log:\n  - navigating to \"https://www.zssc.gov.tw/\", waiting until \"domcontentloaded\"\n"
+    ],
+    "meetingPageUrl": null,
+    "officialData": {}
+  },
+  {
+    "id": 1335,
+    "name": "台北信義運動中心",
+    "originalUrl": "https://www.xysc.gov.tw",
+    "status": "錯誤",
+    "verified": false,
+    "issues": [
+      "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.xysc.gov.tw/\nCall log:\n  - navigating to \"https://www.xysc.gov.tw/\", waiting until \"domcontentloaded\"\n"
+    ],
+    "meetingPageUrl": null,
+    "officialData": {}
+  },
+  {
+    "id": 1336,
+    "name": "台北內湖運動中心",
+    "originalUrl": "https://www.nhsc.gov.tw",
+    "status": "錯誤",
+    "verified": false,
+    "issues": [
+      "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.nhsc.gov.tw/\nCall log:\n  - navigating to \"https://www.nhsc.gov.tw/\", waiting until \"domcontentloaded\"\n"
+    ],
+    "meetingPageUrl": null,
+    "officialData": {}
+  },
+  {
+    "id": 1337,
+    "name": "國父紀念館(SYSMH)",
+    "originalUrl": "https://www.sunat.gov.tw",
+    "status": "錯誤",
+    "verified": false,
+    "issues": [
+      "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.sunat.gov.tw/\nCall log:\n  - navigating to \"https://www.sunat.gov.tw/\", waiting until \"domcontentloaded\"\n"
+    ],
+    "meetingPageUrl": null,
+    "officialData": {}
+  },
+  {
+    "id": 1338,
+    "name": "客家藝文活動中心",
+    "originalUrl": "https://www.culture.gov.taipei",
+    "status": "錯誤",
+    "verified": false,
+    "issues": [
+      "page.goto: net::ERR_CERT_DATE_INVALID at https://www.culture.gov.taipei/\nCall log:\n  - navigating to \"https://www.culture.gov.taipei/\", waiting until \"domcontentloaded\"\n"
+    ],
+    "meetingPageUrl": null,
+    "officialData": {}
+  },
+  {
+    "id": 1339,
+    "name": "朱崙區民活動中心",
+    "originalUrl": "https://www.civil.taipei",
+    "status": "錯誤",
+    "verified": false,
+    "issues": [
+      "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.civil.taipei/\nCall log:\n  - navigating to \"https://www.civil.taipei/\", waiting until \"domcontentloaded\"\n"
+    ],
+    "meetingPageUrl": null,
+    "officialData": {}
+  },
+  {
+    "id": 1340,
+    "name": "松江區民活動中心",
+    "originalUrl": "https://www.civil.taipei",
+    "status": "錯誤",
+    "verified": false,
+    "issues": [
+      "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.civil.taipei/\nCall log:\n  - navigating to \"https://www.civil.taipei/\", waiting until \"domcontentloaded\"\n"
+    ],
+    "meetingPageUrl": null,
+    "officialData": {}
+  },
+  {
+    "id": 1341,
+    "name": "林森三區民活動中心",
+    "originalUrl": "https://www.civil.taipei",
+    "status": "錯誤",
+    "verified": false,
+    "issues": [
+      "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.civil.taipei/\nCall log:\n  - navigating to \"https://www.civil.taipei/\", waiting until \"domcontentloaded\"\n"
+    ],
+    "meetingPageUrl": null,
+    "officialData": {}
+  },
+  {
+    "id": 1381,
+    "name": "台北W飯店(WTaipei)",
+    "originalUrl": "https://www.wtaipei.com",
+    "status": "錯誤",
+    "verified": false,
+    "issues": [
+      "page.goto: net::ERR_CERT_COMMON_NAME_INVALID at https://www.wtaipei.com/\nCall log:\n  - navigating to \"https://www.wtaipei.com/\", waiting until \"domcontentloaded\"\n"
+    ],
+    "meetingPageUrl": null,
+    "officialData": {}
+  },
+  {
+    "id": 1382,
+    "name": "台北W飯店(WTaipei)",
+    "originalUrl": "https://www.wtaipei.com",
+    "status": "錯誤",
+    "verified": false,
+    "issues": [
+      "page.goto: net::ERR_CERT_COMMON_NAME_INVALID at https://www.wtaipei.com/\nCall log:\n  - navigating to \"https://www.wtaipei.com/\", waiting until \"domcontentloaded\"\n"
+    ],
+    "meetingPageUrl": null,
+    "officialData": {}
+  },
+  {
+    "id": 1383,
+    "name": "台北W飯店(WTaipei)",
+    "originalUrl": "https://www.wtaipei.com",
+    "status": "錯誤",
+    "verified": false,
+    "issues": [
+      "page.goto: net::ERR_CERT_COMMON_NAME_INVALID at https://www.wtaipei.com/\nCall log:\n  - navigating to \"https://www.wtaipei.com/\", waiting until \"domcontentloaded\"\n"
+    ],
+    "meetingPageUrl": null,
+    "officialData": {}
+  },
+  {
+    "id": 1384,
+    "name": "台北喜來登大飯店(SheratonTaipei)",
+    "originalUrl": "https://www.sheratongrandtaipei.com/websev?lang=zh-tw",
+    "status": "待修",
+    "verified": true,
+    "issues": [
+      "會議室名稱不一致"
+    ],
+    "meetingPageUrl": "https://www.sheratongrandtaipei.com/websev?lang=zh-tw&ref=pages&cat=2&id=16",
+    "officialData": {
+      "roomNames": [
+        "宴會會議",
+        "宴會會議",
+        "宴會會議",
+        "大廳酒吧"
+      ],
+      "priceMatches": [],
+      "capacityMatches": [],
+      "photos": [
+        "https://www.sheratongrandtaipei.com/files/pages_174741223414fku9025_l.jpg",
+        "https://www.sheratongrandtaipei.com/files/pages_174741231514fkubd47_l.jpg",
+        "https://www.sheratongrandtaipei.com/files/pages_174741226114fku9r77_l.jpg",
+        "https://www.sheratongrandtaipei.com/files/pages_174741225014fku9g00_l.jpg"
+      ],
+      "pageTitle": "台北喜來登大飯店 Sheraton Grand Taipei Hotel - 精選美饌 - 大廳酒吧",
+      "bodyTextLength": 3328
+    }
+  },
+  {
+    "id": 1385,
+    "name": "台北喜來登大飯店(SheratonTaipei)",
+    "originalUrl": "https://www.sheratongrandtaipei.com/websev?lang=zh-tw",
+    "status": "待修",
+    "verified": true,
+    "issues": [
+      "會議室名稱不一致"
+    ],
+    "meetingPageUrl": "https://www.sheratongrandtaipei.com/websev?lang=zh-tw&ref=pages&cat=2&id=16",
+    "officialData": {
+      "roomNames": [
+        "宴會會議",
+        "宴會會議",
+        "宴會會議",
+        "大廳酒吧"
+      ],
+      "priceMatches": [],
+      "capacityMatches": [],
+      "photos": [
+        "https://www.sheratongrandtaipei.com/files/pages_174741222614fku8q21_l.jpg",
+        "https://www.sheratongrandtaipei.com/files/pages_174741223414fku9025_l.jpg",
+        "https://www.sheratongrandtaipei.com/files/pages_174741231514fkubd47_l.jpg",
+        "https://www.sheratongrandtaipei.com/files/pages_174741226114fku9r77_l.jpg",
+        "https://www.sheratongrandtaipei.com/files/pages_174741225014fku9g00_l.jpg"
+      ],
+      "pageTitle": "台北喜來登大飯店 Sheraton Grand Taipei Hotel - 精選美饌 - 大廳酒吧",
+      "bodyTextLength": 3332
+    }
+  },
+  {
+    "id": 1386,
+    "name": "台北喜來登大飯店(SheratonTaipei)",
+    "originalUrl": "https://www.sheratongrandtaipei.com/websev?lang=zh-tw",
+    "status": "待修",
+    "verified": true,
+    "issues": [
+      "會議室名稱不一致"
+    ],
+    "meetingPageUrl": "https://www.sheratongrandtaipei.com/websev?lang=zh-tw&ref=pages&cat=2&id=16",
+    "officialData": {
+      "roomNames": [
+        "宴會會議",
+        "宴會會議",
+        "宴會會議",
+        "大廳酒吧"
+      ],
+      "priceMatches": [],
+      "capacityMatches": [],
+      "photos": [
+        "https://www.sheratongrandtaipei.com/files/pages_174741222614fku8q21_l.jpg",
+        "https://www.sheratongrandtaipei.com/files/pages_174741223414fku9025_l.jpg",
+        "https://www.sheratongrandtaipei.com/files/pages_174741231514fkubd47_l.jpg",
+        "https://www.sheratongrandtaipei.com/files/pages_174741226114fku9r77_l.jpg",
+        "https://www.sheratongrandtaipei.com/files/pages_174741225014fku9g00_l.jpg"
+      ],
+      "pageTitle": "台北喜來登大飯店 Sheraton Grand Taipei Hotel - 精選美饌 - 大廳酒吧",
+      "bodyTextLength": 3332
+    }
+  },
+  {
+    "id": 1387,
+    "name": "台北喜來登大飯店(SheratonTaipei)",
+    "originalUrl": "https://www.sheratongrandtaipei.com/websev?lang=zh-tw",
+    "status": "待修",
+    "verified": true,
+    "issues": [
+      "會議室名稱不一致"
+    ],
+    "meetingPageUrl": "https://www.sheratongrandtaipei.com/websev?lang=zh-tw&ref=pages&cat=2&id=16",
+    "officialData": {
+      "roomNames": [
+        "宴會會議",
+        "宴會會議",
+        "宴會會議",
+        "大廳酒吧"
+      ],
+      "priceMatches": [],
+      "capacityMatches": [],
+      "photos": [
+        "https://www.sheratongrandtaipei.com/files/pages_174741222614fku8q21_l.jpg",
+        "https://www.sheratongrandtaipei.com/files/pages_174741223414fku9025_l.jpg",
+        "https://www.sheratongrandtaipei.com/files/pages_174741226114fku9r77_l.jpg",
+        "https://www.sheratongrandtaipei.com/files/pages_174741225014fku9g00_l.jpg"
+      ],
+      "pageTitle": "台北喜來登大飯店 Sheraton Grand Taipei Hotel - 精選美饌 - 大廳酒吧",
+      "bodyTextLength": 3284
+    }
+  },
+  {
+    "id": 1388,
+    "name": "台北圓山大飯店",
+    "originalUrl": "https://www.grand-hotel.org",
+    "status": "待修",
+    "verified": true,
+    "issues": [
+      "官網標題不匹配"
+    ],
+    "meetingPageUrl": "https://www.grand-hotel.org/TW/index.aspx#",
+    "officialData": {
+      "roomNames": [],
+      "priceMatches": [],
+      "capacityMatches": [],
+      "photos": [
+        "https://www.grand-hotel.org/TW/images/photo/restaurant-img@3x.jpg"
+      ],
+      "pageTitle": "圓山大飯店",
+      "bodyTextLength": 230
+    }
+  },
+  {
+    "id": 1389,
+    "name": "台北圓山大飯店",
+    "originalUrl": "https://www.grand-hotel.org",
+    "status": "待修",
+    "verified": true,
+    "issues": [
+      "官網標題不匹配"
+    ],
+    "meetingPageUrl": "https://www.grand-hotel.org/TW/index.aspx#",
+    "officialData": {
+      "roomNames": [],
+      "priceMatches": [],
+      "capacityMatches": [],
+      "photos": [
+        "https://www.grand-hotel.org/TW/images/photo/restaurant-img@3x.jpg"
+      ],
+      "pageTitle": "圓山大飯店",
+      "bodyTextLength": 230
+    }
+  },
+  {
+    "id": 1390,
+    "name": "台北圓山大飯店",
+    "originalUrl": "https://www.grand-hotel.org",
+    "status": "待修",
+    "verified": true,
+    "issues": [
+      "官網標題不匹配"
+    ],
+    "meetingPageUrl": "https://www.grand-hotel.org/TW/index.aspx#",
+    "officialData": {
+      "roomNames": [],
+      "priceMatches": [],
+      "capacityMatches": [],
+      "photos": [
+        "https://www.grand-hotel.org/TW/images/photo/restaurant-img@3x.jpg"
+      ],
+      "pageTitle": "圓山大飯店",
+      "bodyTextLength": 230
+    }
+  },
+  {
+    "id": 1391,
+    "name": "台北圓山大飯店",
+    "originalUrl": "https://www.grand-hotel.org",
+    "status": "待修",
+    "verified": true,
+    "issues": [
+      "官網標題不匹配"
+    ],
+    "meetingPageUrl": "https://www.grand-hotel.org/TW/index.aspx#",
+    "officialData": {
+      "roomNames": [],
+      "priceMatches": [],
+      "capacityMatches": [],
+      "photos": [
+        "https://www.grand-hotel.org/TW/images/photo/restaurant-img@3x.jpg"
+      ],
+      "pageTitle": "圓山大飯店",
+      "bodyTextLength": 230
+    }
+  },
+  {
+    "id": 1392,
+    "name": "台北文華東方酒店(MOHTaipei)",
+    "originalUrl": "https://www.mandarinoriental.com/taipei",
+    "status": "待修",
+    "verified": true,
+    "issues": [
+      "官網標題不匹配"
+    ],
+    "meetingPageUrl": "https://www.mandarinoriental.com/en/taipei/songshan/stay?roomType=Rooms",
+    "officialData": {
+      "roomNames": [],
+      "priceMatches": [],
+      "capacityMatches": [],
+      "photos": [
+        "https://media.ffycdn.net/eu/mandarin-oriental-hotel-group/oy6E3rsLkt5vaNhNAcTM.jpg",
+        "data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="
+      ],
+      "pageTitle": "Luxury Accommodations In Songshan | Mandarin Oriental, Taipei",
+      "bodyTextLength": 2599
+    }
+  },
+  {
+    "id": 1393,
+    "name": "台北文華東方酒店(MOHTaipei)",
+    "originalUrl": "https://www.mandarinoriental.com/taipei",
+    "status": "待修",
+    "verified": true,
+    "issues": [
+      "官網標題不匹配"
+    ],
+    "meetingPageUrl": "https://www.mandarinoriental.com/en/taipei/songshan/stay?roomType=Rooms",
+    "officialData": {
+      "roomNames": [],
+      "priceMatches": [],
+      "capacityMatches": [],
+      "photos": [
+        "https://media.ffycdn.net/eu/mandarin-oriental-hotel-group/oy6E3rsLkt5vaNhNAcTM.jpg",
+        "data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="
+      ],
+      "pageTitle": "Luxury Accommodations In Songshan | Mandarin Oriental, Taipei",
+      "bodyTextLength": 2599
+    }
+  },
+  {
+    "id": 1394,
+    "name": "台北文華東方酒店(MOHTaipei)",
+    "originalUrl": "https://www.mandarinoriental.com/taipei",
+    "status": "待修",
+    "verified": true,
+    "issues": [
+      "官網標題不匹配"
+    ],
+    "meetingPageUrl": "https://www.mandarinoriental.com/en/taipei/songshan/stay?roomType=Rooms",
+    "officialData": {
+      "roomNames": [],
+      "priceMatches": [],
+      "capacityMatches": [],
+      "photos": [
+        "https://media.ffycdn.net/eu/mandarin-oriental-hotel-group/oy6E3rsLkt5vaNhNAcTM.jpg",
+        "data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="
+      ],
+      "pageTitle": "Luxury Accommodations In Songshan | Mandarin Oriental, Taipei",
+      "bodyTextLength": 2599
+    }
+  },
+  {
+    "id": 1395,
+    "name": "台北文華東方酒店(MOHTaipei)",
+    "originalUrl": "https://www.mandarinoriental.com/taipei",
+    "status": "待修",
+    "verified": true,
+    "issues": [
+      "官網標題不匹配"
+    ],
+    "meetingPageUrl": "https://www.mandarinoriental.com/en/taipei/songshan/stay?roomType=Rooms",
+    "officialData": {
+      "roomNames": [],
+      "priceMatches": [],
+      "capacityMatches": [],
+      "photos": [
+        "https://media.ffycdn.net/eu/mandarin-oriental-hotel-group/oy6E3rsLkt5vaNhNAcTM.jpg",
+        "data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="
+      ],
+      "pageTitle": "Luxury Accommodations In Songshan | Mandarin Oriental, Taipei",
+      "bodyTextLength": 2599
+    }
+  }
+]

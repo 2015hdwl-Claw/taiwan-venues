@@ -1,0 +1,344 @@
+[
+  {
+    "id": 1031,
+    "name": "CAMA咖啡",
+    "originalUrl": "https://www.camacoffee.com",
+    "status": "錯誤",
+    "verified": false,
+    "issues": [
+      "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.camacoffee.com/\nCall log:\n  - navigating to \"https://www.camacoffee.com/\", waiting until \"domcontentloaded\"\n"
+    ],
+    "meetingPageUrl": null,
+    "officialData": {}
+  },
+  {
+    "id": 1032,
+    "name": "CLBC大安商務中心",
+    "originalUrl": "https://clbc.tw/",
+    "status": "待修",
+    "verified": false,
+    "issues": [
+      "官網標題不匹配",
+      "缺少會議室照片"
+    ],
+    "meetingPageUrl": "https://clbc.tw/clbc%E6%B4%BB%E5%8B%95%E5%A0%B4%E5%9C%B0%E7%A9%BA%E9%96%93%E7%A7%9F%E5%80%9F/",
+    "officialData": {
+      "roomNames": [
+        "會議",
+        "團練室",
+        "智璽會議中心",
+        "台北創新實驗室"
+      ],
+      "priceMatches": [],
+      "capacityMatches": [],
+      "photos": [],
+      "pageTitle": "CLBC活動場地空間租借 - CLBC",
+      "bodyTextLength": 1154
+    }
+  },
+  {
+    "id": 1033,
+    "name": "Goodmans咖啡廳",
+    "originalUrl": "https://www.goodmanscafe.com",
+    "status": "錯誤",
+    "verified": false,
+    "issues": [
+      "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.goodmanscafe.com/\nCall log:\n  - navigating to \"https://www.goodmanscafe.com/\", waiting until \"domcontentloaded\"\n"
+    ],
+    "meetingPageUrl": null,
+    "officialData": {}
+  },
+  {
+    "id": 1034,
+    "name": "NUZONE展演空間",
+    "originalUrl": "https://www.nuzone.com.tw",
+    "status": "待修",
+    "verified": false,
+    "issues": [
+      "官網標題不匹配",
+      "會議室名稱不一致",
+      "缺少會議室照片"
+    ],
+    "meetingPageUrl": "https://www.flickr.com/photos/157822996@N08/albums",
+    "officialData": {
+      "roomNames": [
+        "格雷雪聖誕偵訊室"
+      ],
+      "priceMatches": [],
+      "capacityMatches": [],
+      "photos": [],
+      "pageTitle": "NUZONE展演空間’s albums | Flickr",
+      "bodyTextLength": 4560
+    }
+  },
+  {
+    "id": 1035,
+    "name": "Regus商務中心",
+    "originalUrl": "https://www.regus.com",
+    "status": "待修",
+    "verified": true,
+    "issues": [
+      "官網標題不匹配"
+    ],
+    "meetingPageUrl": "https://www.regus.com/en/office-space/offices-for-individuals",
+    "officialData": {
+      "roomNames": [],
+      "priceMatches": [],
+      "capacityMatches": [],
+      "photos": [
+        "https://assets.iwgplc.com/image/upload/c_fill,f_auto,q_auto,w_768,h_257,g_auto:subject//v1753349162/WebsiteImagery/Gallery/IPO_1.jpg",
+        "https://assets.iwgplc.com/image/upload/c_fill,f_auto,q_auto,w_420,h_315//v1752056550/WebsiteImagery/Gallery/IPO_2.jpg",
+        "https://assets.iwgplc.com/image/upload/c_fill,f_auto,q_auto,w_420,h_315//v1752056544/WebsiteImagery/Gallery/IPO_3.jpg",
+        "https://assets.iwgplc.com/image/upload/c_fill,f_auto,q_auto,w_420,h_315//v1752056549/WebsiteImagery/Gallery/IPO_4.jpg",
+        "https://assets.iwgplc.com/image/upload/c_fill,f_auto,q_auto,w_668,h_447//v1753965356/WebsiteImagery/Gallery/STO_8.jpg",
+        "https://assets.iwgplc.com/image/upload/c_fill,f_auto,q_auto,w_668,h_447//v1753965305/WebsiteImagery/Gallery/STO_6.jpg",
+        "https://assets.iwgplc.com/image/upload/c_fill,f_auto,q_auto,w_768,h_325,g_auto:subject//v1756298340/WebsiteImagery/Gallery/HO_6.jpg",
+        "https://assets.iwgplc.com/image/upload/c_fill,f_auto,q_auto,w_768,h_580,g_faces//v1756291581/WebsiteImagery/Gallery/IPO_7.jpg",
+        "https://assets.iwgplc.com/image/upload/c_fill,f_auto,q_auto,w_768,h_580,g_faces//v1752056547/WebsiteImagery/Gallery/IPO_6.jpg",
+        "https://assets.iwgplc.com/image/upload/c_fill,f_auto,q_auto,w_768,h_580,g_faces//v1756291577/WebsiteImagery/Gallery/IPO_5.jpg"
+      ],
+      "pageTitle": "Individual Private Office Space | Rent Fully Serviced Offices | Regus",
+      "bodyTextLength": 8157
+    }
+  },
+  {
+    "id": 1036,
+    "name": "Simple Kaffa",
+    "originalUrl": "https://www.simplekaffa.com",
+    "status": "待確認",
+    "verified": false,
+    "issues": [
+      "找不到會議室頁面"
+    ],
+    "meetingPageUrl": null,
+    "officialData": {}
+  },
+  {
+    "id": 1037,
+    "name": "TCCC台灣文創訓練中心",
+    "originalUrl": "https://www.tccc.com.tw",
+    "status": "錯誤",
+    "verified": false,
+    "issues": [
+      "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.tccc.com.tw/\nCall log:\n  - navigating to \"https://www.tccc.com.tw/\", waiting until \"domcontentloaded\"\n"
+    ],
+    "meetingPageUrl": null,
+    "officialData": {}
+  },
+  {
+    "id": 1038,
+    "name": "The Executive Centre",
+    "originalUrl": "https://www.executivecentre.com",
+    "status": "已驗證",
+    "verified": true,
+    "issues": [],
+    "meetingPageUrl": "https://www.executivecentre.com/meeting-rooms-conference",
+    "officialData": {
+      "roomNames": [],
+      "priceMatches": [],
+      "capacityMatches": [],
+      "photos": [
+        "https://www.executivecentre.com/_next/image/?url=https%3A%2F%2Fassets.executivecentre.com%2Fassets%2FBanner-Product-MeetingRoom.jpg&w=3840&q=75",
+        "https://www.executivecentre.com/_next/image/?url=%2F_next%2Fstatic%2Fmedia%2FplanOverview-mr-meetingRoom.1f2225da.jpg&w=3840&q=75",
+        "https://www.executivecentre.com/_next/image/?url=%2F_next%2Fstatic%2Fmedia%2FplanOverview-mr-boardRoom.fbe5da52.jpg&w=3840&q=75",
+        "https://www.executivecentre.com/_next/image/?url=%2F_next%2Fstatic%2Fmedia%2FplanOverview-mr-functionRoom.a989831d.jpg&w=3840&q=75",
+        "https://www.executivecentre.com/_next/image/?url=https%3A%2F%2Fassets.executivecentre.com%2Fassets%2FMeetingRoom-Rental_SpecialEvents.webp&w=3840&q=75",
+        "https://www.executivecentre.com/_next/image/?url=https%3A%2F%2Fassets.executivecentre.com%2Fassets%2FMeetingRoom-Rental_Hire.webp&w=3840&q=75",
+        "https://www.executivecentre.com/_next/image/?url=https%3A%2F%2Fassets.executivecentre.com%2Fassets%2FMeetingRoom-TailoredforPrivacy_MagicGlass.webp&w=3840&q=75",
+        "https://www.executivecentre.com/_next/image/?url=https%3A%2F%2Fassets.executivecentre.com%2Fassets%2FMeetingRoom-Rental_VideoConference.webp&w=3840&q=75",
+        "https://www.executivecentre.com/_next/image/?url=https%3A%2F%2Fassets.executivecentre.com%2Fassets%2Ftn_hongkong.jpg&w=3840&q=75",
+        "https://www.executivecentre.com/_next/image/?url=https%3A%2F%2Fassets.executivecentre.com%2Fassets%2Ftn_beijing.jpg&w=3840&q=75"
+      ],
+      "pageTitle": "Meeting Room Rental - The Executive Centre",
+      "bodyTextLength": 8801
+    }
+  },
+  {
+    "id": 1039,
+    "name": "WeWork共享空間",
+    "originalUrl": "https://www.wework.com",
+    "status": "待確認",
+    "verified": false,
+    "issues": [
+      "官網標題不匹配",
+      "找不到會議室頁面"
+    ],
+    "meetingPageUrl": null,
+    "officialData": {}
+  },
+  {
+    "id": 1040,
+    "name": "W飯店台北",
+    "originalUrl": "https://www.marriott.com/hotels/travel/tpegi-w-taipei",
+    "status": "待確認",
+    "verified": false,
+    "issues": [
+      "官網標題不匹配",
+      "找不到會議室頁面"
+    ],
+    "meetingPageUrl": null,
+    "officialData": {}
+  },
+  {
+    "id": 1041,
+    "name": "兄弟大飯店",
+    "originalUrl": "https://www.brotherhotel.com.tw/?cat=75",
+    "status": "待修",
+    "verified": false,
+    "issues": [
+      "缺少會議室照片"
+    ],
+    "meetingPageUrl": "https://www.brotherhotel.com.tw/?cat=76",
+    "officialData": {
+      "roomNames": [],
+      "priceMatches": [],
+      "capacityMatches": [],
+      "photos": [],
+      "pageTitle": "會議專案 | 兄弟大飯店 - Brother Hotel",
+      "bodyTextLength": 822
+    }
+  },
+  {
+    "id": 1042,
+    "name": "公務人力發展學院",
+    "originalUrl": "https://www.hrd.gov.tw",
+    "status": "待修",
+    "verified": false,
+    "issues": [
+      "缺少會議室照片"
+    ],
+    "meetingPageUrl": "https://www.hrd.gov.tw/1123/2127/?q=%E5%A0%B4%E5%9C%B0%E6%9F%A5%E8%A9%A2",
+    "officialData": {
+      "roomNames": [],
+      "priceMatches": [],
+      "capacityMatches": [],
+      "photos": [],
+      "pageTitle": "Google 搜尋引擎-行政院人事行政總處公務人力發展學院",
+      "bodyTextLength": 3109
+    }
+  },
+  {
+    "id": 1043,
+    "name": "六福萬怡酒店",
+    "originalUrl": "https://www.courtyard.com/taipei",
+    "status": "待確認",
+    "verified": false,
+    "issues": [
+      "官網標題不匹配",
+      "找不到會議室頁面"
+    ],
+    "meetingPageUrl": null,
+    "officialData": {}
+  },
+  {
+    "id": 1044,
+    "name": "典藏咖啡廳",
+    "originalUrl": "https://www.artco.com.tw",
+    "status": "錯誤",
+    "verified": false,
+    "issues": [
+      "page.goto: net::ERR_CERT_COMMON_NAME_INVALID at https://www.artco.com.tw/\nCall log:\n  - navigating to \"https://www.artco.com.tw/\", waiting until \"domcontentloaded\"\n"
+    ],
+    "meetingPageUrl": null,
+    "officialData": {}
+  },
+  {
+    "id": 1045,
+    "name": "北科大創新育成中心",
+    "originalUrl": "https://www.ntut.edu.tw",
+    "status": "待修",
+    "verified": true,
+    "issues": [
+      "官網標題不匹配",
+      "會議室名稱不一致"
+    ],
+    "meetingPageUrl": "https://www.ntut.edu.tw/p/404-1007-85205.php",
+    "officialData": {
+      "roomNames": [
+        "校長室"
+      ],
+      "priceMatches": [],
+      "capacityMatches": [],
+      "photos": [
+        "https://www.ntut.edu.tw/var/file/7/1007/pictures/64/m/mczh-tw1920x700_large30258_271421852504.png"
+      ],
+      "pageTitle": "臺北科技大學校長 任貽均終身特聘教授 - 國立臺北科技大學",
+      "bodyTextLength": 1996
+    }
+  },
+  {
+    "id": 1046,
+    "name": "南港展覽館",
+    "originalUrl": "https://www.tainex.com.tw/",
+    "status": "待修",
+    "verified": false,
+    "issues": [
+      "缺少會議室照片"
+    ],
+    "meetingPageUrl": "https://www.tainex.com.tw/event",
+    "officialData": {
+      "roomNames": [],
+      "priceMatches": [],
+      "capacityMatches": [],
+      "photos": [],
+      "pageTitle": "南港展覽館",
+      "bodyTextLength": 547
+    }
+  },
+  {
+    "id": 1047,
+    "name": "台北W飯店(WTaipei)",
+    "originalUrl": "https://www.wtaipei.com",
+    "status": "錯誤",
+    "verified": false,
+    "issues": [
+      "page.goto: net::ERR_CERT_COMMON_NAME_INVALID at https://www.wtaipei.com/\nCall log:\n  - navigating to \"https://www.wtaipei.com/\", waiting until \"domcontentloaded\"\n"
+    ],
+    "meetingPageUrl": null,
+    "officialData": {}
+  },
+  {
+    "id": 1048,
+    "name": "台北一樂園大飯店",
+    "originalUrl": "https://www.ile-hotel.com",
+    "status": "錯誤",
+    "verified": false,
+    "issues": [
+      "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.ile-hotel.com/\nCall log:\n  - navigating to \"https://www.ile-hotel.com/\", waiting until \"domcontentloaded\"\n"
+    ],
+    "meetingPageUrl": null,
+    "officialData": {}
+  },
+  {
+    "id": 1049,
+    "name": "台北世貿中心(TWTCA)展覽大樓",
+    "originalUrl": "https://www.twtc.com.tw/",
+    "status": "待修",
+    "verified": false,
+    "issues": [
+      "缺少會議室照片"
+    ],
+    "meetingPageUrl": "https://www.tainex.com.tw/event",
+    "officialData": {
+      "roomNames": [],
+      "priceMatches": [],
+      "capacityMatches": [],
+      "photos": [],
+      "pageTitle": "南港展覽館",
+      "bodyTextLength": 547
+    }
+  },
+  {
+    "id": 1050,
+    "name": "台北丹迪旅店",
+    "originalUrl": "https://www.dandyhotel.com.tw",
+    "status": "待確認",
+    "verified": false,
+    "issues": [
+      "官網標題不匹配",
+      "找不到會議室頁面"
+    ],
+    "meetingPageUrl": null,
+    "officialData": {}
+  }
+]
