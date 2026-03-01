@@ -1340,12 +1340,13 @@
     "availableTimeWeekend": "09:00-22:00",
     "equipment": "投影設備、音響系統",
     "images": {
-      "main": "",
-      "gallery": [],
-      "floorPlan": "",
-      "needsUpdate": true,
-      "note": "待補充真實照片網址",
-      "lastUpdated": "2026-03-01"
+      "main": "https://www.brotherhotel.com.tw/wp-content/uploads/2022/11/13F宴會廳婚宴-400x300.jpg",
+      "gallery": [
+        "https://www.brotherhotel.com.tw/wp-content/uploads/2022/11/13F宴會廳婚宴-400x300.jpg",
+        "https://www.brotherhotel.com.tw/wp-content/uploads/2022/11/婚宴場地-400x300.jpg",
+        "https://www.brotherhotel.com.tw/wp-content/uploads/2022/11/DSC_9665-400x300.jpg"
+      ],
+      "source": "https://www.brotherhotel.com.tw/?cat=75"
     },
     "layoutImageUrl": null,
     "rentalTimeNote": "需提前1週預約",
@@ -1725,12 +1726,13 @@
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "專業音響、投影設備",
     "images": {
-      "main": "",
-      "gallery": [],
-      "floorPlan": "",
-      "needsUpdate": true,
-      "note": "待補充真實照片網址",
-      "lastUpdated": "2026-03-01"
+      "main": "https://www.brotherhotel.com.tw/wp-content/uploads/2022/11/13F宴會廳婚宴-400x300.jpg",
+      "gallery": [
+        "https://www.brotherhotel.com.tw/wp-content/uploads/2022/11/13F宴會廳婚宴-400x300.jpg",
+        "https://www.brotherhotel.com.tw/wp-content/uploads/2022/11/婚宴場地-400x300.jpg",
+        "https://www.brotherhotel.com.tw/wp-content/uploads/2022/11/DSC_9665-400x300.jpg"
+      ],
+      "source": "https://www.brotherhotel.com.tw/?cat=75"
     },
     "url": "https://www.brother-hotel.com.tw",
     "verified": true,
