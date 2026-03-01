@@ -2492,12 +2492,13 @@
     "availableTimeWeekend": "09:00-22:00",
     "equipment": "頂級影音設備、LED牆、燈光系統",
     "images": {
-      "main": "",
-      "gallery": [],
-      "floorPlan": "",
-      "needsUpdate": true,
-      "note": "待補充真實照片網址",
-      "lastUpdated": "2026-03-01"
+      "main": "https://www.humblehousehotels.com/files/other_160407197911abvhf.jpg",
+      "gallery": [
+        "https://www.humblehousehotels.com/files/other_160407197911abvhf.jpg",
+        "https://www.humblehousehotels.com/files/other_1458636099w3hlvo.jpg",
+        "https://www.humblehousehotels.com/files/other_1464597948w7xb83.jpg"
+      ],
+      "source": "https://www.humblehousehotels.com/taipei"
     },
     "layoutImageUrl": null,
     "rentalTimeNote": "需提前2週預約",
@@ -2527,12 +2528,13 @@
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "專業音響燈光、投影設備",
     "images": {
-      "main": "",
-      "gallery": [],
-      "floorPlan": "",
-      "needsUpdate": true,
-      "note": "待補充真實照片網址",
-      "lastUpdated": "2026-03-01"
+      "main": "https://www.humblehousehotels.com/files/other_160407197911abvhf.jpg",
+      "gallery": [
+        "https://www.humblehousehotels.com/files/other_160407197911abvhf.jpg",
+        "https://www.humblehousehotels.com/files/other_1458636099w3hlvo.jpg",
+        "https://www.humblehousehotels.com/files/other_1464597948w7xb83.jpg"
+      ],
+      "source": "https://www.humblehousehotels.com/taipei"
     },
     "url": "https://www.humblehouse.com",
     "verified": true,
@@ -2653,12 +2655,13 @@
     "availableTimeWeekend": "09:00-18:00",
     "equipment": "投影機、白板、視訊會議",
     "images": {
-      "main": "",
-      "gallery": [],
-      "floorPlan": "",
-      "needsUpdate": true,
-      "note": "待補充真實照片網址",
-      "lastUpdated": "2026-03-01"
+      "main": "https://image-tc.galaxy.tf/wipng-8n3qtclk3uzpmf5j5r3hnph8x/file.png",
+      "gallery": [
+        "https://image-tc.galaxy.tf/wipng-8n3qtclk3uzpmf5j5r3hnph8x/file.png",
+        "https://image-tc.galaxy.tf/wijpeg-c5lwx8yf76m65gm1qf51z0ukm/miami3.jpg?width=960",
+        "https://image-tc.galaxy.tf/wijpeg-9yr208kqe5v0zncb4rkes4bmf/taipei1.jpg?width=960"
+      ],
+      "source": "https://www.eclathotels.com"
     },
     "layoutImageUrl": null,
     "rentalTimeNote": "需提前3天預約",
@@ -2688,12 +2691,13 @@
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "專業音響、投影設備",
     "images": {
-      "main": "",
-      "gallery": [],
-      "floorPlan": "",
-      "needsUpdate": true,
-      "note": "待補充真實照片網址",
-      "lastUpdated": "2026-03-01"
+      "main": "https://cache.marriott.com/is/image/marriotts7prod/cm-washingtondc-noma-wnm-206-31494",
+      "gallery": [
+        "https://cache.marriott.com/is/image/marriotts7prod/cm-washingtondc-noma-wnm-206-31494",
+        "https://cache.marriott.com/is/image/marriotts7prod/cm-cm-nycbo-6096b-13364",
+        "https://cache.marriott.com/is/image/marriotts7prod/cm-cmzrhcm1602895-39385"
+      ],
+      "source": "https://www.citizenm.com/taipei"
     },
     "url": "https://www.citizenm.com/taipei",
     "verified": true,
@@ -2957,12 +2961,13 @@
     "availableTimeWeekend": "09:00-22:00",
     "equipment": "專業影音設備、燈光系統",
     "images": {
-      "main": "",
-      "gallery": [],
-      "floorPlan": "",
-      "needsUpdate": true,
-      "note": "待補充真實照片網址",
-      "lastUpdated": "2026-03-01"
+      "main": "https://www.dynasty.com.tw/images/index/banner1.jpg",
+      "gallery": [
+        "https://www.dynasty.com.tw/images/index/banner1.jpg",
+        "https://www.dynasty.com.tw/images/index/banner2.jpg",
+        "https://www.dynasty.com.tw/images/index/banner1-s.jpg"
+      ],
+      "source": "https://www.dynasty.com.tw"
     },
     "layoutImageUrl": null,
     "rentalTimeNote": "需提前2週預約",
@@ -2992,12 +2997,13 @@
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "專業音響、投影設備",
     "images": {
-      "main": "",
-      "gallery": [],
-      "floorPlan": "",
-      "needsUpdate": true,
-      "note": "待補充真實照片網址",
-      "lastUpdated": "2026-03-01"
+      "main": "https://www.sanwant.com/Traditional/images/header/index.jpg",
+      "gallery": [
+        "https://www.sanwant.com/Traditional/images/header/index.jpg",
+        "https://www.sanwant.com/Traditional/images/banner/img1.jpg",
+        "https://www.sanwant.com/Traditional/images/banner/img2.jpg"
+      ],
+      "source": "https://www.sanwant.com"
     },
     "url": "https://www.san-want.com",
     "verified": true,
@@ -3118,12 +3124,13 @@
     "availableTimeWeekend": "09:00-22:00",
     "equipment": "專業影音、LED螢幕、燈光系統",
     "images": {
-      "main": "",
-      "gallery": [],
-      "floorPlan": "",
-      "needsUpdate": true,
-      "note": "待補充真實照片網址",
-      "lastUpdated": "2026-03-01"
+      "main": "https://www.grandmayfull.com/img/2025%20World%20Luxury%20Awards.png",
+      "gallery": [
+        "https://www.grandmayfull.com/img/2025%20World%20Luxury%20Awards.png",
+        "https://www.grandmayfull.com/img/2020FiveStar.png",
+        "https://www.grandmayfull.com/img/2025-Michelin%20Logo.png"
+      ],
+      "source": "https://www.grandmayfull.com"
     },
     "layoutImageUrl": null,
     "rentalTimeNote": "需提前2週預約",
@@ -3153,12 +3160,13 @@
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "專業音響燈光、投影設備",
     "images": {
-      "main": "",
-      "gallery": [],
-      "floorPlan": "",
-      "needsUpdate": true,
-      "note": "待補充真實照片網址",
-      "lastUpdated": "2026-03-01"
+      "main": "https://www.grandmayfull.com/img/2025%20World%20Luxury%20Awards.png",
+      "gallery": [
+        "https://www.grandmayfull.com/img/2025%20World%20Luxury%20Awards.png",
+        "https://www.grandmayfull.com/img/2020FiveStar.png",
+        "https://www.grandmayfull.com/img/2025-Michelin%20Logo.png"
+      ],
+      "source": "https://www.grandmayfull.com"
     },
     "url": "https://www.grandmayfull.com",
     "verified": true,
@@ -3184,12 +3192,12 @@
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "專業音響、投影設備",
     "images": {
-      "main": "",
-      "gallery": [],
-      "floorPlan": "",
-      "needsUpdate": true,
-      "note": "待補充真實照片網址",
-      "lastUpdated": "2026-03-01"
+      "main": "https://www.hotelroyal.com.tw/assets/img/index/calligraphy.png",
+      "gallery": [
+        "https://www.hotelroyal.com.tw/assets/img/index/calligraphy.png",
+        "https://imagedelivery.net/a6-OYZSpZSiOriMeuFHR3w/8f798454-fa7b-42f1-521a-3090032d1100/public"
+      ],
+      "source": "https://www.hotelroyal.com.tw/taipei"
     },
     "url": "https://www.hotelroyal.com.tw/taipei",
     "verified": true,
@@ -3215,12 +3223,12 @@
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "專業音響燈光、LED螢幕",
     "images": {
-      "main": "",
-      "gallery": [],
-      "floorPlan": "",
-      "needsUpdate": true,
-      "note": "待補充真實照片網址",
-      "lastUpdated": "2026-03-01"
+      "main": "https://le-meridien.marriott.com/wp-content/themes/marriott-master/assets/img/brandbar/devices.png",
+      "gallery": [
+        "https://le-meridien.marriott.com/wp-content/themes/marriott-master/assets/img/brandbar/devices.png",
+        "https://le-meridien.marriott.com/"
+      ],
+      "source": "https://www.lemeridien.com/taipei"
     },
     "url": "https://www.lemeridien.com/taipei",
     "verified": true,
@@ -3248,12 +3256,12 @@
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "專業音響燈光、投影設備",
     "images": {
-      "main": "",
-      "gallery": [],
-      "floorPlan": "",
-      "needsUpdate": true,
-      "note": "待補充真實照片網址",
-      "lastUpdated": "2026-03-01"
+      "main": "https://le-meridien.marriott.com/wp-content/themes/marriott-master/assets/img/brandbar/devices.png",
+      "gallery": [
+        "https://le-meridien.marriott.com/wp-content/themes/marriott-master/assets/img/brandbar/devices.png",
+        "https://le-meridien.marriott.com/"
+      ],
+      "source": "https://www.lemeridien.com/taipei"
     },
     "url": "https://www.lemeridien.com/taipei",
     "transportation": {
@@ -3300,12 +3308,13 @@
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "專業音響、投影設備",
     "images": {
-      "main": "",
-      "gallery": [],
-      "floorPlan": "",
-      "needsUpdate": true,
-      "note": "待補充真實照片網址",
-      "lastUpdated": "2026-03-01"
+      "main": "https://www.taipeigarden.com.tw/wp-content/uploads/sites/278/2023/03/01%E5%A4%A9%E6%88%90%E9%9B%86%E5%9C%98%E6%8C%87%E7%A4%BA%E6%A8%99%E8%AA%8C-16-e1683518085598.png",
+      "gallery": [
+        "https://www.taipeigarden.com.tw/wp-content/uploads/sites/278/2023/03/01%E5%A4%A9%E6%88%90%E9%9B%86%E5%9C%98%E6%8C%87%E7%A4%BA%E6%A8%99%E8%AA%8C-16-e1683518085598.png",
+        "https://www.taipeigarden.com.tw/wp-content/uploads/sites/278/2023/03/10636247_10152352649698616_2574451134329955712_n-removebg-preview-1.png",
+        "https://www.taipeigarden.com.tw/wp-content/uploads/sites/278/2023/03/01%E5%A4%A9%E6%88%90%E9%9B%86%E5%9C%98%E6%8C%87%E7%A4%BA%E6%A8%99%E8%AA%8C-16-e1683518085598.png"
+      ],
+      "source": "https://www.taipeigarden.com.tw"
     },
     "url": "https://www.taipeigarden.com.tw",
     "verified": true,
@@ -3395,12 +3404,11 @@
     "availableTimeWeekend": "09:00-22:00",
     "equipment": "頂級影音、同步翻譯、LED大螢幕",
     "images": {
-      "main": "",
-      "gallery": [],
-      "floorPlan": "",
-      "needsUpdate": true,
-      "note": "待補充真實照片網址",
-      "lastUpdated": "2026-03-01"
+      "main": "https://www.marriott.com/marriottassets/search/homepage/Joe/MBV_app3_748x332.png?interpolation=progressive-bilinear&downsize=480px:*%20,%20https://www.marriott.com/marriottassets/search/homepage/Joe/MBV_app3_748x332.png?interpolation=progressive-bilinear&downsize=480px:*%202x",
+      "gallery": [
+        "https://www.marriott.com/marriottassets/search/homepage/Joe/MBV_app3_748x332.png?interpolation=progressive-bilinear&downsize=480px:*%20,%20https://www.marriott.com/marriottassets/search/homepage/Joe/MBV_app3_748x332.png?interpolation=progressive-bilinear&downsize=480px:*%202x"
+      ],
+      "source": "https://www.marriott.com/taipei"
     },
     "layoutImageUrl": null,
     "rentalTimeNote": "需提前1個月預約",
@@ -3430,12 +3438,13 @@
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "專業音響燈光、投影設備",
     "images": {
-      "main": "",
-      "gallery": [],
-      "floorPlan": "",
-      "needsUpdate": true,
-      "note": "待補充真實照片網址",
-      "lastUpdated": "2026-03-01"
+      "main": "https://www.sherwood.com.tw/tempasset/assets/img/bn-01_900x700.jpg",
+      "gallery": [
+        "https://www.sherwood.com.tw/tempasset/assets/img/bn-01_900x700.jpg",
+        "https://www.sherwood.com.tw/tempasset/assets/img/item-04_200x200.png",
+        "https://www.sherwood.com.tw/tempasset/assets/img/item-05_200x200.png"
+      ],
+      "source": "https://www.sherwood.com.tw"
     },
     "url": "https://www.sherwood.com.tw",
     "verified": true,
@@ -3593,12 +3602,13 @@
     "availableTimeWeekend": "09:00-18:00",
     "equipment": "專業音響、燈光",
     "images": {
-      "main": "",
-      "gallery": [],
-      "floorPlan": "",
-      "needsUpdate": true,
-      "note": "待補充真實照片網址",
-      "lastUpdated": "2026-03-01"
+      "main": "https://www.ntu.edu.tw/images/photo-nav-about-cover-1.jpg",
+      "gallery": [
+        "https://www.ntu.edu.tw/images/photo-nav-about-cover-1.jpg",
+        "https://www.ntu.edu.tw/images/photo-nav-about-cover-2.jpg",
+        "https://www.ntu.edu.tw/images/photo-nav-about-cover-3.jpg"
+      ],
+      "source": "https://www.ntu.edu.tw"
     },
     "url": "https://www.ntu.edu.tw",
     "verified": true,
@@ -3756,12 +3766,13 @@
     "availableTimeWeekend": "11:00-22:00",
     "equipment": "專業音響燈光、投影設備",
     "images": {
-      "main": "",
-      "gallery": [],
-      "floorPlan": "",
-      "needsUpdate": true,
-      "note": "待補充真實照片網址",
-      "lastUpdated": "2026-03-01"
+      "main": "https://www.pengyuan.com.tw/images/open.svg",
+      "gallery": [
+        "https://www.pengyuan.com.tw/images/open.svg",
+        "https://www.pengyuan.com.tw/upload/pictures/news/3419_%E5%AE%98%E7%87%95%E7%AA%A9%E5%AE%98%E7%B6%B2724.jpg",
+        "https://www.pengyuan.com.tw/upload/pictures/news/1318_tokidoki%20%E7%85%A7%E7%89%87%E7%89%88_724-321.jpg"
+      ],
+      "source": "https://www.pengyuan.com.tw"
     },
     "url": "https://www.pengyuan.com.tw",
     "verified": true,
@@ -3819,12 +3830,13 @@
     "availableTimeWeekend": "休館",
     "equipment": "投影設備、音響",
     "images": {
-      "main": "",
-      "gallery": [],
-      "floorPlan": "",
-      "needsUpdate": true,
-      "note": "待補充真實照片網址",
-      "lastUpdated": "2026-03-01"
+      "main": "https://www.nccu.edu.tw/var/file/0/1000/randimg/mobileadv_1541_4967525_59647.jpg",
+      "gallery": [
+        "https://www.nccu.edu.tw/var/file/0/1000/randimg/mobileadv_1541_4967525_59647.jpg",
+        "https://www.nccu.edu.tw/var/file/0/1000/randimg/mobileadv_1538_7434889_03210.jpg",
+        "https://www.nccu.edu.tw/var/file/0/1000/randimg/mobileadv_1532_8049799_71500.jpg"
+      ],
+      "source": "https://www.nccu.edu.tw"
     },
     "url": "https://www.nccu.edu.tw",
     "verified": true,
@@ -3915,12 +3927,13 @@
     "availableTimeWeekend": "09:00-22:00",
     "equipment": "專業影音設備、燈光系統",
     "images": {
-      "main": "",
-      "gallery": [],
-      "floorPlan": "",
-      "needsUpdate": true,
-      "note": "待補充真實照片網址",
-      "lastUpdated": "2026-03-01"
+      "main": "https://www.sanwant.com/Traditional/images/header/index.jpg",
+      "gallery": [
+        "https://www.sanwant.com/Traditional/images/header/index.jpg",
+        "https://www.sanwant.com/Traditional/images/banner/img1.jpg",
+        "https://www.sanwant.com/Traditional/images/banner/img2.jpg"
+      ],
+      "source": "https://www.sanwant.com"
     },
     "layoutImageUrl": null,
     "rentalTimeNote": "需提前2週預約",
@@ -4020,12 +4033,13 @@
     "availableTimeWeekend": "09:00-22:00",
     "equipment": "專業影音設備、燈光系統",
     "images": {
-      "main": "",
-      "gallery": [],
-      "floorPlan": "",
-      "needsUpdate": true,
-      "note": "待補充真實照片網址",
-      "lastUpdated": "2026-03-01"
+      "main": "https://www.taipeigarden.com.tw/wp-content/uploads/sites/278/2023/03/01%E5%A4%A9%E6%88%90%E9%9B%86%E5%9C%98%E6%8C%87%E7%A4%BA%E6%A8%99%E8%AA%8C-16-e1683518085598.png",
+      "gallery": [
+        "https://www.taipeigarden.com.tw/wp-content/uploads/sites/278/2023/03/01%E5%A4%A9%E6%88%90%E9%9B%86%E5%9C%98%E6%8C%87%E7%A4%BA%E6%A8%99%E8%AA%8C-16-e1683518085598.png",
+        "https://www.taipeigarden.com.tw/wp-content/uploads/sites/278/2023/03/10636247_10152352649698616_2574451134329955712_n-removebg-preview-1.png",
+        "https://www.taipeigarden.com.tw/wp-content/uploads/sites/278/2023/03/01%E5%A4%A9%E6%88%90%E9%9B%86%E5%9C%98%E6%8C%87%E7%A4%BA%E6%A8%99%E8%AA%8C-16-e1683518085598.png"
+      ],
+      "source": "https://www.taipeigarden.com.tw"
     },
     "layoutImageUrl": null,
     "rentalTimeNote": "需提前2週預約",
@@ -4112,12 +4126,13 @@
     "availableTimeWeekend": "09:00-22:00",
     "equipment": "投影設備、音響系統",
     "images": {
-      "main": "",
-      "gallery": [],
-      "floorPlan": "",
-      "needsUpdate": true,
-      "note": "待補充真實照片網址",
-      "lastUpdated": "2026-03-01"
+      "main": "https://www.grandview.com.tw/storage/system/banner/Banner-lg-F.webp",
+      "gallery": [
+        "https://www.grandview.com.tw/storage/system/banner/Banner-lg-F.webp",
+        "https://www.grandview.com.tw/storage/system/index/index_about02-edited.webp",
+        "https://www.grandview.com.tw/storage/system/index/about-0101.webp"
+      ],
+      "source": "https://www.grandview.com.tw"
     },
     "layoutImageUrl": null,
     "rentalTimeNote": "需提前1週預約",
@@ -4214,12 +4229,13 @@
     "availableTimeWeekend": "11:00-22:00",
     "equipment": "專業音響燈光",
     "images": {
-      "main": "",
-      "gallery": [],
-      "floorPlan": "",
-      "needsUpdate": true,
-      "note": "待補充真實照片網址",
-      "lastUpdated": "2026-03-01"
+      "main": "https://shoplineimg.com/5d5ced0a3781fc0001c45b75/5dd7f2cf04eb1c001812a100/1200x.webp?source_format=png",
+      "gallery": [
+        "https://shoplineimg.com/5d5ced0a3781fc0001c45b75/5dd7f2cf04eb1c001812a100/1200x.webp?source_format=png",
+        "https://shoplineimg.com/5d5ced0a3781fc0001c45b75/5dd7f2d556bc370036af77be/450x.webp?source_format=png",
+        "https://shoplineimg.com/5d5ced0a3781fc0001c45b75/667f8c0db506bd0019abf61e/750x.webp?source_format=png"
+      ],
+      "source": "https://www.qingqing.com.tw"
     },
     "url": "https://www.qingqing.com.tw",
     "verified": true,
@@ -4245,12 +4261,13 @@
     "availableTimeWeekend": "08:00-24:00",
     "equipment": "頂級音響燈光、LED螢幕",
     "images": {
-      "main": "",
-      "gallery": [],
-      "floorPlan": "",
-      "needsUpdate": true,
-      "note": "待補充真實照片網址",
-      "lastUpdated": "2026-03-01"
+      "main": "https://sitecore-cd-imgr.shangri-la.com/MediaFiles/F/6/5/%7BF65E1DA9-2E64-4765-B62C-5626E1F16404%7D2025_PlazaSuite_1180x535.jpg?w=360&h=175&mode=crop&quality=100&scale=both",
+      "gallery": [
+        "https://sitecore-cd-imgr.shangri-la.com/MediaFiles/F/6/5/%7BF65E1DA9-2E64-4765-B62C-5626E1F16404%7D2025_PlazaSuite_1180x535.jpg?w=360&h=175&mode=crop&quality=100&scale=both",
+        "https://sitecore-cd-imgr.shangri-la.com/MediaFiles/A/6/8/%7BA68F6FFF-2760-44D4-85DB-443A0B8E5AD9%7Dbed-breakfast_1180x535_2.jpg?w=360&h=175&mode=crop&quality=100&scale=both",
+        "https://sitecore-cd-imgr.shangri-la.com/MediaFiles/8/8/D/%7B88D286C8-06A9-481B-8745-28B94E269BB5%7D2026_TPE_SLC_offer_1180x535.jpg?w=360&h=175&mode=crop&quality=100&scale=both"
+      ],
+      "source": "https://www.shangri-la.com/taipei"
     },
     "url": "https://www.shangri-la.com/taipei",
     "verified": true,

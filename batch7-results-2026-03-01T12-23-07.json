@@ -1,0 +1,97 @@
+[
+  {
+    "name": "復興美學共享空間",
+    "url": "https://www.fuxing.space",
+    "status": "failed"
+  },
+  {
+    "name": "政大公企中心",
+    "url": "https://www.nccu.edu.tw",
+    "photos": [
+      "https://www.nccu.edu.tw/var/file/0/1000/randimg/mobileadv_1541_4967525_59647.jpg",
+      "https://www.nccu.edu.tw/var/file/0/1000/randimg/mobileadv_1538_7434889_03210.jpg",
+      "https://www.nccu.edu.tw/var/file/0/1000/randimg/mobileadv_1532_8049799_71500.jpg"
+    ],
+    "status": "success"
+  },
+  {
+    "name": "文華東方婚宴會館",
+    "url": "https://www.mandarin-wedding.com",
+    "status": "failed"
+  },
+  {
+    "name": "社會創新實驗中心",
+    "url": "https://www.siihub.org",
+    "status": "failed"
+  },
+  {
+    "name": "神旺大飯店",
+    "url": "https://www.sanwant.com",
+    "photos": [
+      "https://www.sanwant.com/Traditional/images/header/index.jpg",
+      "https://www.sanwant.com/Traditional/images/banner/img1.jpg",
+      "https://www.sanwant.com/Traditional/images/banner/img2.jpg"
+    ],
+    "status": "success"
+  },
+  {
+    "name": "維多麗亞酒店",
+    "url": "https://www.victoria.com.tw",
+    "status": "failed"
+  },
+  {
+    "name": "花博公園爭艷館",
+    "url": "https://www.taipeiexpopark.tw",
+    "status": "failed"
+  },
+  {
+    "name": "花園大酒店",
+    "url": "https://www.taipeigarden.com.tw",
+    "photos": [
+      "https://www.taipeigarden.com.tw/wp-content/uploads/sites/278/2023/03/01%E5%A4%A9%E6%88%90%E9%9B%86%E5%9C%98%E6%8C%87%E7%A4%BA%E6%A8%99%E8%AA%8C-16-e1683518085598.png",
+      "https://www.taipeigarden.com.tw/wp-content/uploads/sites/278/2023/03/10636247_10152352649698616_2574451134329955712_n-removebg-preview-1.png",
+      "https://www.taipeigarden.com.tw/wp-content/uploads/sites/278/2023/03/01%E5%A4%A9%E6%88%90%E9%9B%86%E5%9C%98%E6%8C%87%E7%A4%BA%E6%A8%99%E8%AA%8C-16-e1683518085598.png"
+    ],
+    "status": "success"
+  },
+  {
+    "name": "華山1914文化創意產業園區(Huashan1914)(Huashan1914)",
+    "url": "https://www.huashan1914.com",
+    "status": "failed"
+  },
+  {
+    "name": "豪景大酒店",
+    "url": "https://www.grandview.com.tw",
+    "photos": [
+      "https://www.grandview.com.tw/storage/system/banner/Banner-lg-F.webp",
+      "https://www.grandview.com.tw/storage/system/index/index_about02-edited.webp",
+      "https://www.grandview.com.tw/storage/system/index/about-0101.webp"
+    ],
+    "status": "success"
+  },
+  {
+    "name": "貳樓餐廳",
+    "url": "https://www.secondfloor.com.tw",
+    "status": "failed"
+  },
+  {
+    "name": "青青婚宴會館",
+    "url": "https://www.qingqing.com.tw",
+    "photos": [
+      "https://shoplineimg.com/5d5ced0a3781fc0001c45b75/5dd7f2cf04eb1c001812a100/1200x.webp?source_format=png",
+      "https://shoplineimg.com/5d5ced0a3781fc0001c45b75/5dd7f2d556bc370036af77be/450x.webp?source_format=png",
+      "https://shoplineimg.com/5d5ced0a3781fc0001c45b75/667f8c0db506bd0019abf61e/750x.webp?source_format=png"
+    ],
+    "status": "success"
+  },
+  {
+    "name": "香格里拉台北遠東國際大飯店",
+    "url": "https://www.shangri-la.com/taipei",
+    "photos": [
+      "https://sitecore-cd-imgr.shangri-la.com/MediaFiles/F/6/5/%7BF65E1DA9-2E64-4765-B62C-5626E1F16404%7D2025_PlazaSuite_1180x535.jpg?w=360&h=175&mode=crop&quality=100&scale=both",
+      "https://sitecore-cd-imgr.shangri-la.com/MediaFiles/A/6/8/%7BA68F6FFF-2760-44D4-85DB-443A0B8E5AD9%7Dbed-breakfast_1180x535_2.jpg?w=360&h=175&mode=crop&quality=100&scale=both",
+      "https://sitecore-cd-imgr.shangri-la.com/MediaFiles/8/8/D/%7B88D286C8-06A9-481B-8745-28B94E269BB5%7D2026_TPE_SLC_offer_1180x535.jpg?w=360&h=175&mode=crop&quality=100&scale=both"
+    ],
+    "status": "success"
+  }
+]
