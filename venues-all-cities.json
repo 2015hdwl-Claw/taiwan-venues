@@ -3101,15 +3101,16 @@
       "note": "待補充真實照片網址",
       "lastUpdated": "2026-03-01"
     },
-    "url": "https://www.chateau-china.com",
+    "url": "https://greenworldhotelzhonghua.tw-taiwan.com/zh/",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "待修",
+    "status": "上架",
     "roomType": "宴會廳",
     "notes": " [官網無法連線，需手動搜尋確認]",
     "missingFields": [
       "照片"
-    ]
+    ],
+    "lastSearched": "2026-03-01T22:29:32.171Z"
   },
   {
     "id": 1090,

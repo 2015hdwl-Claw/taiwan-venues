@@ -1,0 +1,152 @@
+[
+  {
+    "id": 1031,
+    "name": "CAMA咖啡",
+    "originalUrl": "https://www.camacoffee.com",
+    "error": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.camacoffee.com/\nCall log:\n  - navigating to \"ht",
+    "foundUrl": null,
+    "googleMaps": null,
+    "candidates": [],
+    "status": "未找到"
+  },
+  {
+    "id": 1033,
+    "name": "Goodmans咖啡廳",
+    "originalUrl": "https://www.goodmanscafe.com",
+    "error": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.goodmanscafe.com/\nCall log:\n  - navigating to \"",
+    "foundUrl": null,
+    "googleMaps": null,
+    "candidates": [],
+    "status": "未找到"
+  },
+  {
+    "id": 1037,
+    "name": "TCCC台灣文創訓練中心",
+    "originalUrl": "https://www.tccc.com.tw",
+    "error": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.tccc.com.tw/\nCall log:\n  - navigating to \"https",
+    "foundUrl": null,
+    "googleMaps": null,
+    "candidates": [],
+    "status": "未找到"
+  },
+  {
+    "id": 1044,
+    "name": "典藏咖啡廳",
+    "originalUrl": "https://www.artco.com.tw",
+    "error": "page.goto: net::ERR_CERT_COMMON_NAME_INVALID at https://www.artco.com.tw/\nCall log:\n  - navigating t",
+    "foundUrl": null,
+    "googleMaps": null,
+    "candidates": [],
+    "status": "未找到"
+  },
+  {
+    "id": 1047,
+    "name": "台北W飯店(WTaipei)",
+    "originalUrl": "https://www.wtaipei.com",
+    "error": "page.goto: net::ERR_CERT_COMMON_NAME_INVALID at https://www.wtaipei.com/\nCall log:\n  - navigating to",
+    "foundUrl": null,
+    "googleMaps": null,
+    "candidates": [],
+    "status": "未找到"
+  },
+  {
+    "id": 1048,
+    "name": "台北一樂園大飯店",
+    "originalUrl": "https://www.ile-hotel.com",
+    "error": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.ile-hotel.com/\nCall log:\n  - navigating to \"htt",
+    "foundUrl": null,
+    "googleMaps": null,
+    "candidates": [],
+    "status": "未找到"
+  },
+  {
+    "id": 1054,
+    "name": "台北八方美學商旅",
+    "originalUrl": "https://www.hotelbf.com",
+    "error": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.hotelbf.com/\nCall log:\n  - navigating to \"https",
+    "foundUrl": null,
+    "googleMaps": null,
+    "candidates": [],
+    "status": "未找到"
+  },
+  {
+    "id": 1057,
+    "name": "台北典華",
+    "originalUrl": "https://www.dianhua.com.tw",
+    "error": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.dianhua.com.tw/\nCall log:\n  - navigating to \"ht",
+    "foundUrl": null,
+    "googleMaps": null,
+    "candidates": [],
+    "status": "未找到"
+  },
+  {
+    "id": 1058,
+    "name": "台北北投會館",
+    "originalUrl": "https://www.beitou-hall.com",
+    "error": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.beitou-hall.com/\nCall log:\n  - navigating to \"h",
+    "foundUrl": null,
+    "googleMaps": null,
+    "candidates": [],
+    "status": "未找到"
+  },
+  {
+    "id": 1059,
+    "name": "台北友春大飯店",
+    "originalUrl": "https://www.youchun-hotel.com",
+    "error": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.youchun-hotel.com/\nCall log:\n  - navigating to ",
+    "foundUrl": null,
+    "googleMaps": null,
+    "candidates": [],
+    "status": "未找到"
+  },
+  {
+    "id": 1065,
+    "name": "台北唯客樂文旅",
+    "originalUrl": "https://www.victoriam.com",
+    "error": "page.goto: Timeout 20000ms exceeded.\nCall log:\n  - navigating to \"https://www.victoriam.com/\", waiti",
+    "foundUrl": null,
+    "googleMaps": null,
+    "candidates": [],
+    "status": "未找到"
+  },
+  {
+    "id": 1066,
+    "name": "台北商務會館",
+    "originalUrl": "https://www.taipei-business.com",
+    "error": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.taipei-business.com/\nCall log:\n  - navigating t",
+    "foundUrl": null,
+    "googleMaps": null,
+    "candidates": [],
+    "status": "未找到"
+  },
+  {
+    "id": 1068,
+    "name": "台北喜瑞飯店",
+    "originalUrl": "https://www.ambience-hotel.com",
+    "error": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.ambience-hotel.com/\nCall log:\n  - navigating to",
+    "foundUrl": null,
+    "googleMaps": null,
+    "candidates": [],
+    "status": "未找到"
+  },
+  {
+    "id": 1069,
+    "name": "台北國賓大飯店(AmbassadorTaipei)",
+    "originalUrl": "https://www.ambassadorhotel.com.tw/taipei",
+    "error": "page.goto: Timeout 20000ms exceeded.\nCall log:\n  - navigating to \"https://www.ambassadorhotel.com.tw",
+    "foundUrl": null,
+    "googleMaps": null,
+    "candidates": [],
+    "status": "未找到"
+  },
+  {
+    "id": 1073,
+    "name": "台北姿美大飯店",
+    "originalUrl": "https://www.zibei-hotel.com",
+    "error": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.zibei-hotel.com/\nCall log:\n  - navigating to \"h",
+    "foundUrl": null,
+    "googleMaps": null,
+    "candidates": [],
+    "status": "未找到"
+  }
+]

@@ -1,0 +1,202 @@
+[
+  {
+    "id": 1031,
+    "name": "CAMA咖啡",
+    "originalUrl": "https://www.camacoffee.com",
+    "error": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.camacoffee.com/\nCall log:\n  - navigating to \"ht",
+    "foundUrl": null,
+    "googleMaps": "https://www.google.com/maps/search/CAMA%E5%92%96%E5%95%A1",
+    "facebook": "https://www.facebook.com/",
+    "status": "未找到"
+  },
+  {
+    "id": 1033,
+    "name": "Goodmans咖啡廳",
+    "originalUrl": "https://www.goodmanscafe.com",
+    "error": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.goodmanscafe.com/\nCall log:\n  - navigating to \"",
+    "foundUrl": null,
+    "googleMaps": "https://www.google.com/maps/search/Goodmans%E5%92%96%E5%95%A1%E5%BB%B3",
+    "facebook": "https://www.facebook.com/",
+    "status": "未找到"
+  },
+  {
+    "id": 1037,
+    "name": "TCCC台灣文創訓練中心",
+    "originalUrl": "https://www.tccc.com.tw",
+    "error": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.tccc.com.tw/\nCall log:\n  - navigating to \"https",
+    "foundUrl": null,
+    "googleMaps": "https://www.google.com/maps/search/TCCC%E5%8F%B0%E7%81%A3%E6%96%87%E5%89%B5%E8%A8%93%E7%B7%B4%E4%B8%AD%E5%BF%83",
+    "facebook": "https://www.facebook.com/",
+    "status": "未找到"
+  },
+  {
+    "id": 1044,
+    "name": "典藏咖啡廳",
+    "originalUrl": "https://www.artco.com.tw",
+    "error": "page.goto: net::ERR_CERT_COMMON_NAME_INVALID at https://www.artco.com.tw/\nCall log:\n  - navigating t",
+    "foundUrl": null,
+    "googleMaps": "https://www.google.com/maps/search/%E5%85%B8%E8%97%8F%E5%92%96%E5%95%A1%E5%BB%B3",
+    "facebook": "https://www.facebook.com/",
+    "status": "未找到"
+  },
+  {
+    "id": 1047,
+    "name": "台北W飯店(WTaipei)",
+    "originalUrl": "https://www.wtaipei.com",
+    "error": "page.goto: net::ERR_CERT_COMMON_NAME_INVALID at https://www.wtaipei.com/\nCall log:\n  - navigating to",
+    "foundUrl": null,
+    "googleMaps": "https://www.google.com/maps/search/%E5%8F%B0%E5%8C%97W%E9%A3%AF%E5%BA%97(WTaipei)",
+    "facebook": "https://www.facebook.com/",
+    "status": "未找到"
+  },
+  {
+    "id": 1048,
+    "name": "台北一樂園大飯店",
+    "originalUrl": "https://www.ile-hotel.com",
+    "error": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.ile-hotel.com/\nCall log:\n  - navigating to \"htt",
+    "foundUrl": null,
+    "googleMaps": "https://www.google.com/maps/search/%E5%8F%B0%E5%8C%97%E4%B8%80%E6%A8%82%E5%9C%92%E5%A4%A7%E9%A3%AF%E5%BA%97",
+    "facebook": "https://www.facebook.com/",
+    "status": "未找到"
+  },
+  {
+    "id": 1054,
+    "name": "台北八方美學商旅",
+    "originalUrl": "https://www.hotelbf.com",
+    "error": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.hotelbf.com/\nCall log:\n  - navigating to \"https",
+    "foundUrl": null,
+    "googleMaps": "https://www.google.com/maps/search/%E5%8F%B0%E5%8C%97%E5%85%AB%E6%96%B9%E7%BE%8E%E5%AD%B8%E5%95%86%E6%97%85",
+    "facebook": "https://www.facebook.com/",
+    "status": "未找到"
+  },
+  {
+    "id": 1057,
+    "name": "台北典華",
+    "originalUrl": "https://www.dianhua.com.tw",
+    "error": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.dianhua.com.tw/\nCall log:\n  - navigating to \"ht",
+    "foundUrl": null,
+    "googleMaps": "https://www.google.com/maps/search/%E5%8F%B0%E5%8C%97%E5%85%B8%E8%8F%AF",
+    "facebook": "https://www.facebook.com/",
+    "status": "未找到"
+  },
+  {
+    "id": 1058,
+    "name": "台北北投會館",
+    "originalUrl": "https://www.beitou-hall.com",
+    "error": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.beitou-hall.com/\nCall log:\n  - navigating to \"h",
+    "foundUrl": null,
+    "googleMaps": "https://www.google.com/maps/search/%E5%8F%B0%E5%8C%97%E5%8C%97%E6%8A%95%E6%9C%83%E9%A4%A8",
+    "facebook": "https://www.facebook.com/",
+    "status": "未找到"
+  },
+  {
+    "id": 1059,
+    "name": "台北友春大飯店",
+    "originalUrl": "https://www.youchun-hotel.com",
+    "error": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.youchun-hotel.com/\nCall log:\n  - navigating to ",
+    "foundUrl": null,
+    "googleMaps": "https://www.google.com/maps/search/%E5%8F%B0%E5%8C%97%E5%8F%8B%E6%98%A5%E5%A4%A7%E9%A3%AF%E5%BA%97",
+    "facebook": "https://www.facebook.com/",
+    "status": "未找到"
+  },
+  {
+    "id": 1065,
+    "name": "台北唯客樂文旅",
+    "originalUrl": "https://www.victoriam.com",
+    "error": "page.goto: Timeout 20000ms exceeded.\nCall log:\n  - navigating to \"https://www.victoriam.com/\", waiti",
+    "foundUrl": null,
+    "googleMaps": "https://www.google.com/maps/search/%E5%8F%B0%E5%8C%97%E5%94%AF%E5%AE%A2%E6%A8%82%E6%96%87%E6%97%85",
+    "facebook": "https://www.facebook.com/",
+    "status": "未找到"
+  },
+  {
+    "id": 1066,
+    "name": "台北商務會館",
+    "originalUrl": "https://www.taipei-business.com",
+    "error": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.taipei-business.com/\nCall log:\n  - navigating t",
+    "foundUrl": null,
+    "googleMaps": "https://www.google.com/maps/search/%E5%8F%B0%E5%8C%97%E5%95%86%E5%8B%99%E6%9C%83%E9%A4%A8",
+    "facebook": "https://www.facebook.com/",
+    "status": "未找到"
+  },
+  {
+    "id": 1068,
+    "name": "台北喜瑞飯店",
+    "originalUrl": "https://www.ambience-hotel.com",
+    "error": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.ambience-hotel.com/\nCall log:\n  - navigating to",
+    "foundUrl": null,
+    "googleMaps": "https://www.google.com/maps/search/%E5%8F%B0%E5%8C%97%E5%96%9C%E7%91%9E%E9%A3%AF%E5%BA%97",
+    "facebook": "https://www.facebook.com/",
+    "status": "未找到"
+  },
+  {
+    "id": 1069,
+    "name": "台北國賓大飯店(AmbassadorTaipei)",
+    "originalUrl": "https://www.ambassadorhotel.com.tw/taipei",
+    "error": "page.goto: Timeout 20000ms exceeded.\nCall log:\n  - navigating to \"https://www.ambassadorhotel.com.tw",
+    "foundUrl": null,
+    "googleMaps": "https://www.google.com/maps/search/%E5%8F%B0%E5%8C%97%E5%9C%8B%E8%B3%93%E5%A4%A7%E9%A3%AF%E5%BA%97(AmbassadorTaipei)",
+    "facebook": "https://www.facebook.com/",
+    "status": "未找到"
+  },
+  {
+    "id": 1073,
+    "name": "台北姿美大飯店",
+    "originalUrl": "https://www.zibei-hotel.com",
+    "error": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.zibei-hotel.com/\nCall log:\n  - navigating to \"h",
+    "foundUrl": null,
+    "googleMaps": "https://www.google.com/maps/search/%E5%8F%B0%E5%8C%97%E5%A7%BF%E7%BE%8E%E5%A4%A7%E9%A3%AF%E5%BA%97",
+    "facebook": "https://www.facebook.com/",
+    "status": "未找到"
+  },
+  {
+    "id": 1080,
+    "name": "台北康華大飯店",
+    "originalUrl": "https://www.kanghua-hotel.com",
+    "error": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.kanghua-hotel.com/\nCall log:\n  - navigating to ",
+    "foundUrl": null,
+    "googleMaps": "https://www.google.com/maps/search/%E5%8F%B0%E5%8C%97%E5%BA%B7%E8%8F%AF%E5%A4%A7%E9%A3%AF%E5%BA%97",
+    "facebook": "https://www.facebook.com/",
+    "status": "未找到"
+  },
+  {
+    "id": 1081,
+    "name": "台北德立莊酒店",
+    "originalUrl": "https://www.midtownrichard.com",
+    "error": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.midtownrichard.com/\nCall log:\n  - navigating to",
+    "foundUrl": null,
+    "googleMaps": "https://www.google.com/maps/search/%E5%8F%B0%E5%8C%97%E5%BE%B7%E7%AB%8B%E8%8E%8A%E9%85%92%E5%BA%97",
+    "facebook": "https://www.facebook.com/",
+    "status": "未找到"
+  },
+  {
+    "id": 1084,
+    "name": "台北慶泰大飯店",
+    "originalUrl": "https://www.ching-tai.com",
+    "error": "page.goto: net::ERR_SSL_VERSION_OR_CIPHER_MISMATCH at https://www.ching-tai.com/\nCall log:\n  - navig",
+    "foundUrl": null,
+    "googleMaps": "https://www.google.com/maps/search/%E5%8F%B0%E5%8C%97%E6%85%B6%E6%B3%B0%E5%A4%A7%E9%A3%AF%E5%BA%97",
+    "facebook": "https://www.facebook.com/",
+    "status": "未找到"
+  },
+  {
+    "id": 1088,
+    "name": "台北松意酒店",
+    "originalUrl": "https://www.songyi-hotel.com",
+    "error": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.songyi-hotel.com/\nCall log:\n  - navigating to \"",
+    "foundUrl": null,
+    "googleMaps": "https://www.google.com/maps/search/%E5%8F%B0%E5%8C%97%E6%9D%BE%E6%84%8F%E9%85%92%E5%BA%97",
+    "facebook": "https://www.facebook.com/",
+    "status": "未找到"
+  },
+  {
+    "id": 1089,
+    "name": "台北洛碁大飯店",
+    "originalUrl": "https://www.chateau-china.com",
+    "error": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.chateau-china.com/\nCall log:\n  - navigating to ",
+    "foundUrl": null,
+    "googleMaps": "https://www.google.com/maps/search/%E5%8F%B0%E5%8C%97%E6%B4%9B%E7%A2%81%E5%A4%A7%E9%A3%AF%E5%BA%97",
+    "facebook": "https://www.facebook.com/",
+    "status": "未找到"
+  }
+]
