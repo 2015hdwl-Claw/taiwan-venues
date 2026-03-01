@@ -253,45 +253,17 @@ function filterVenues() {
 // ===== 排序場地 =====
 function sortVenues(venueList, sortType) {
     const sorted = [...venueList];
-    
+
     switch (sortType) {
-        case 'default':
-            // 預設排序：場地類型優先，然後價格
+        case 'name-asc':
+            // 場地名稱排序
             sorted.sort((a, b) => {
-                // 先按場地類型排序
-                const typeOrder = { '會議場地': 1, '飯店場地': 2, '展演場地': 3, '婚宴場地': 4 };
-                const typeA = typeOrder[a.venueType] || 99;
-                const typeB = typeOrder[b.venueType] || 99;
-                if (typeA !== typeB) return typeA - typeB;
-                
-                // 再按價格排序
-                const priceA = a.priceHalfDay || a.priceFullDay || 999999;
-                const priceB = b.priceHalfDay || b.priceFullDay || 999999;
-                return priceA - priceB;
-            });
-            break;
-            
-        case 'name-price-availability':
-            // 自訂排序：場地名稱、價格、可否租用
-            sorted.sort((a, b) => {
-                // 先按名稱排序
                 const nameA = a.name + (a.roomName || '');
                 const nameB = b.name + (b.roomName || '');
-                const nameCompare = nameA.localeCompare(nameB, 'zh-TW');
-                if (nameCompare !== 0) return nameCompare;
-                
-                // 再按價格排序
-                const priceA = a.priceHalfDay || a.priceFullDay || 999999;
-                const priceB = b.priceHalfDay || b.priceFullDay || 999999;
-                if (priceA !== priceB) return priceA - priceB;
-                
-                // 最後按可否租用（有聯絡方式的排前面）
-                const hasContactA = (a.contactPhone && a.contactPhone !== '請查詢官網') ? 1 : 0;
-                const hasContactB = (b.contactPhone && b.contactPhone !== '請查詢官網') ? 1 : 0;
-                return hasContactB - hasContactA;
+                return nameA.localeCompare(nameB, 'zh-TW');
             });
             break;
-            
+
         case 'price-asc':
             // 價格由低到高
             sorted.sort((a, b) => {
@@ -300,7 +272,7 @@ function sortVenues(venueList, sortType) {
                 return priceA - priceB;
             });
             break;
-            
+
         case 'price-desc':
             // 價格由高到低
             sorted.sort((a, b) => {
@@ -309,7 +281,7 @@ function sortVenues(venueList, sortType) {
                 return priceB - priceA;
             });
             break;
-            
+
         case 'capacity-desc':
             // 容納人數由多到少
             sorted.sort((a, b) => {
@@ -318,21 +290,17 @@ function sortVenues(venueList, sortType) {
                 return capB - capA;
             });
             break;
-            
-        case 'name-asc':
-            // 名稱 A-Z
+
+        default:
+            // 預設排序：場地名稱
             sorted.sort((a, b) => {
                 const nameA = a.name + (a.roomName || '');
                 const nameB = b.name + (b.roomName || '');
                 return nameA.localeCompare(nameB, 'zh-TW');
             });
             break;
-            
-        default:
-            // 預設排序
-            break;
     }
-    
+
     return sorted;
 }
 
