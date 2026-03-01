@@ -1,0 +1,33 @@
+[
+  {
+    "name": "張榮發基金會國際會議中心",
+    "url": "https://www.klcfoa.org",
+    "error": "Command failed: agent-browser open \"https://www.klcfoa.org\" --timeout 20000\n\u001b[31m✗\u001b[0m page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.klcfoa.org/\nCall log:\n  - navigating to \"https://www.klcfoa.org/\", waiting until \"load\"\n\n"
+  },
+  {
+    "name": "集思台大會議中心",
+    "url": "https://www.ntucc.ntu.edu.tw",
+    "error": "Command failed: agent-browser open \"https://www.ntucc.ntu.edu.tw\" --timeout 20000\n\u001b[31m✗\u001b[0m page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.ntucc.ntu.edu.tw/\nCall log:\n  - navigating to \"https://www.ntucc.ntu.edu.tw/\", waiting until \"load\"\n\n"
+  },
+  {
+    "name": "公務人力發展學院",
+    "url": "https://www.ncsi.gov.tw",
+    "error": "Command failed: agent-browser open \"https://www.ncsi.gov.tw\" --timeout 20000\n\u001b[31m✗\u001b[0m page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.ncsi.gov.tw/\nCall log:\n  - navigating to \"https://www.ncsi.gov.tw/\", waiting until \"load\"\n\n"
+  },
+  {
+    "name": "國家圖書館",
+    "url": "https://www.ncl.edu.tw",
+    "photos": [
+      "https://www.ncl.edu.tw/themes/3/images/youtube.png",
+      "https://nclfile.ncl.edu.tw/banner/small/9845ab4d-5885-4d84-bb81-9f8d0b1be229.jpg",
+      "https://nclfile.ncl.edu.tw/banner/small/dc28c1a1-457e-41c8-96fc-c28cf81d66c8.jpg",
+      "https://nclfile.ncl.edu.tw/banner/small/2b8e8546-c7cd-47d4-805b-b51e4958355f.jpg",
+      "https://nclfile.ncl.edu.tw/banner/small/1e67da06-8283-4a84-9352-1e40603db358.jpg"
+    ]
+  },
+  {
+    "name": "台北市立圖書館總館",
+    "url": "https://www.tpml.edu.tw",
+    "error": "Command failed: agent-browser open \"https://www.tpml.edu.tw\" --timeout 20000\n\u001b[31m✗\u001b[0m page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.tpml.edu.tw/\nCall log:\n  - navigating to \"https://www.tpml.edu.tw/\", waiting until \"load\"\n\n"
+  }
+]

@@ -267,12 +267,11 @@
     "availableTimeWeekend": "09:00-22:00",
     "equipment": "專業舞台、燈光音響",
     "images": {
-      "main": "",
-      "gallery": [],
-      "floorPlan": "",
-      "needsUpdate": true,
-      "note": "待補充真實照片網址",
-      "lastUpdated": "2026-03-01"
+      "main": "https://www.npac-ntt.org/dispPageBox/getFile/GetImg.aspx?FileLocation=Banner%2f&FileName=20200117213434423auaE.JPG",
+      "gallery": [
+        "https://www.npac-ntt.org/dispPageBox/getFile/GetImg.aspx?FileLocation=Banner%2f&FileName=20200117213434423auaE.JPG"
+      ],
+      "source": "https://www.npac-ntt.org/venuehire/rentnews"
     },
     "url": "https://www.npac-ntt.org",
     "transportation": {
@@ -1470,12 +1469,15 @@
     "availableTimeWeekend": "休館",
     "equipment": "投影設備、音響",
     "images": {
-      "main": "",
-      "gallery": [],
-      "floorPlan": "",
-      "needsUpdate": true,
-      "note": "待補充真實照片網址",
-      "lastUpdated": "2026-03-01"
+      "main": "https://www.ntut.edu.tw/var/file/7/1007/randimg/mobileadv_3973_5062299_87901.jpg",
+      "gallery": [
+        "https://www.ntut.edu.tw/var/file/7/1007/randimg/mobileadv_3973_5062299_87901.jpg",
+        "https://www.ntut.edu.tw/var/file/7/1007/randimg/mobileadv_3917_9027893_74268.jpg",
+        "https://www.ntut.edu.tw/var/file/7/1007/randimg/mobileadv_3760_579287_42481.jpg",
+        "https://www.ntut.edu.tw/var/file/7/1007/randimg/mobileadv_4311_1540266_41233.jpg",
+        "https://www.ntut.edu.tw/var/file/7/1007/randimg/mobileadv_2928_6357912_07814.jpg"
+      ],
+      "source": "https://www.ntut.edu.tw"
     },
     "url": "https://www.ntut.edu.tw",
     "verified": true,
@@ -3694,12 +3696,15 @@
     "availableTimeWeekend": "休館",
     "equipment": "投影設備、音響",
     "images": {
-      "main": "",
-      "gallery": [],
-      "floorPlan": "",
-      "needsUpdate": true,
-      "note": "待補充真實照片網址",
-      "lastUpdated": "2026-03-01"
+      "main": "https://www.sce.ntnu.edu.tw/home/src/img/slideshow/20260212110155.png",
+      "gallery": [
+        "https://www.sce.ntnu.edu.tw/home/src/img/slideshow/20260212110155.png",
+        "https://www.sce.ntnu.edu.tw/home/src/img/slideshow/20251020143643.png",
+        "https://www.sce.ntnu.edu.tw/home/src/img/slideshow/20260209160606.png",
+        "https://www.sce.ntnu.edu.tw/home/src/img/slideshow/20260113134723.png",
+        "https://www.sce.ntnu.edu.tw/home/src/img/slideshow/20260128085616.png"
+      ],
+      "source": "https://www.sce.ntnu.edu.tw"
     },
     "url": "https://www.ntnu.edu.tw",
     "verified": true,
