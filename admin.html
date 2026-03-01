@@ -54,7 +54,10 @@
         .table-container { flex: 1; background: white; border-radius: 8px; overflow: auto; }
         table { width: 100%; border-collapse: collapse; font-size: 0.875rem; }
         th, td { padding: 0.75rem; text-align: left; border-bottom: 1px solid #eee; }
-        th { background: #f8f9fa; position: sticky; top: 0; z-index: 10; font-weight: 600; }
+        th { background: #f8f9fa; position: sticky; top: 0; z-index: 10; font-weight: 600; cursor: pointer; user-select: none; }
+        th:hover { background: #e9ecef; }
+        th.sort-asc::after { content: ' ▲'; font-size: 0.7rem; }
+        th.sort-desc::after { content: ' ▼'; font-size: 0.7rem; }
         tr:hover { background: #f8f9fa; }
         tr.offline { background: #fff5f5; opacity: 0.7; }
         
@@ -168,15 +171,15 @@
                 <table>
                     <thead>
                         <tr>
-                            <th style="width: 50px;">ID</th>
-                            <th style="width: 180px;">場地名稱</th>
-                            <th style="width: 100px;">廳房</th>
-                            <th style="width: 100px;">類型</th>
-                            <th style="width: 80px;">城市</th>
-                            <th style="width: 80px;">容納</th>
-                            <th style="width: 90px;">半日價</th>
-                            <th style="width: 110px;">電話</th>
-                            <th style="width: 50px;">照片</th>
+                            <th style="width: 50px;" onclick="sortTable('id')" data-sort="id">ID</th>
+                            <th style="width: 180px;" onclick="sortTable('name')" data-sort="name">場地名稱</th>
+                            <th style="width: 100px;" onclick="sortTable('roomName')" data-sort="roomName">廳房</th>
+                            <th style="width: 100px;" onclick="sortTable('venueType')" data-sort="venueType">類型</th>
+                            <th style="width: 80px;" onclick="sortTable('city')" data-sort="city">城市</th>
+                            <th style="width: 80px;" onclick="sortTable('capacity')" data-sort="capacity">容納</th>
+                            <th style="width: 90px;" onclick="sortTable('priceHalfDay')" data-sort="priceHalfDay">半日價</th>
+                            <th style="width: 110px;" onclick="sortTable('contactPhone')" data-sort="contactPhone">電話</th>
+                            <th style="width: 50px;" onclick="sortTable('photos')" data-sort="photos">照片</th>
                             <th style="width: 60px;">狀態</th>
                             <th style="width: 80px;">操作</th>
                         </tr>
@@ -383,6 +386,10 @@
         let currentStatus = '上架';
         let currentImages = [];
         
+        // 排序狀態
+        let sortField = 'id';
+        let sortOrder = 'asc';
+        
         document.addEventListener('DOMContentLoaded', () => {
             loadStats();
             loadVenues();
@@ -558,9 +565,108 @@
             loadVenues();
         }
         
-        function editVenue(id) {
-            const venue = venues.find(v => v.id === id);
-            if (!venue) return;
+        function sortTable(field) {
+            if (sortField === field) {
+                sortOrder = sortOrder === 'asc' ? 'desc' : 'asc';
+            } else {
+                sortField = field;
+                sortOrder = 'asc';
+            }
+            
+            // 更新表頭樣式
+            document.querySelectorAll('th[data-sort]').forEach(th => {
+                th.classList.remove('sort-asc', 'sort-desc');
+                if (th.dataset.sort === field) {
+                    th.classList.add(sortOrder === 'asc' ? 'sort-asc' : 'sort-desc');
+                }
+            });
+            
+            sortVenues();
+            renderTable();
+        }
+        
+        function sortVenues() {
+            venues.sort((a, b) => {
+                let valA, valB;
+                
+                switch (sortField) {
+                    case 'id':
+                        valA = a.id || 0;
+                        valB = b.id || 0;
+                        break;
+                    case 'name':
+                        valA = (a.name || '').toLowerCase();
+                        valB = (b.name || '').toLowerCase();
+                        break;
+                    case 'roomName':
+                        valA = (a.roomName || '').toLowerCase();
+                        valB = (b.roomName || '').toLowerCase();
+                        break;
+                    case 'venueType':
+                        valA = (a.venueType || '').toLowerCase();
+                        valB = (b.venueType || '').toLowerCase();
+                        break;
+                    case 'city':
+                        valA = (a.city || '').toLowerCase();
+                        valB = (b.city || '').toLowerCase();
+                        break;
+                    case 'capacity':
+                        valA = a.maxCapacityTheater || a.maxCapacityEmpty || 0;
+                        valB = b.maxCapacityTheater || b.maxCapacityEmpty || 0;
+                        break;
+                    case 'priceHalfDay':
+                        valA = parseFloat(a.priceHalfDay) || 0;
+                        valB = parseFloat(b.priceHalfDay) || 0;
+                        break;
+                    case 'contactPhone':
+                        valA = (a.contactPhone || '').toLowerCase();
+                        valB = (b.contactPhone || '').toLowerCase();
+                        break;
+                    case 'photos':
+                        valA = (a.images || []).length;
+                        valB = (b.images || []).length;
+                        break;
+                    default:
+                        valA = a[sortField] || '';
+                        valB = b[sortField] || '';
+                }
+                
+                if (typeof valA === 'number' && typeof valB === 'number') {
+                    return sortOrder === 'asc' ? valA - valB : valB - valA;
+                } else {
+                    const strA = String(valA);
+                    const strB = String(valB);
+                    if (sortOrder === 'asc') {
+                        return strA.localeCompare(strB, 'zh-TW');
+                    } else {
+                        return strB.localeCompare(strA, 'zh-TW');
+                    }
+                }
+            });
+        }
+        
+        async function editVenue(id) {
+            // 先從當前資料中找
+            let venue = venues.find(v => v.id === id);
+            
+            // 如果找不到，從 API 獲取
+            if (!venue) {
+                try {
+                    showToast('載入場地資料中...', '');
+                    const res = await fetch(`${API_BASE}/api/venue/${id}`);
+                    if (res.ok) {
+                        venue = await res.json();
+                    }
+                } catch (e) {
+                    showToast('無法載入場地資料', 'error');
+                    return;
+                }
+            }
+            
+            if (!venue) {
+                showToast('找不到此場地', 'error');
+                return;
+            }
             
             document.getElementById('modalTitle').textContent = '編輯場地：' + venue.name;
             document.getElementById('deleteBtn').style.display = 'inline-block';

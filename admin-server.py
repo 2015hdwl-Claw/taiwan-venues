@@ -12,6 +12,8 @@ import json
 import os
 from urllib.parse import parse_qs, urlparse
 
+import re
+
 PORT = int(os.environ.get('PORT', 8080))
 DATA_DIR = os.path.dirname(os.path.abspath(__file__))
 MAIN_DB = os.path.join(DATA_DIR, 'venues-all-cities.json')
@@ -39,6 +41,10 @@ class VenueAdminHandler(http.server.SimpleHTTPRequestHandler):
             self.get_venues(parsed.query)
         elif parsed.path == '/api/stats':
             self.get_stats()
+        elif parsed.path.startswith('/api/venue/'):
+            # 獲取單個場地 /api/venue/123
+            venue_id = parsed.path.split('/')[-1]
+            self.get_venue_by_id(venue_id)
         elif parsed.path == '/':
             self.redirect('/admin.html')
         else:
@@ -90,6 +96,24 @@ class VenueAdminHandler(http.server.SimpleHTTPRequestHandler):
             self.send_json(venues)
         except Exception as e:
             self.send_error(500, str(e))
+    
+    def get_venue_by_id(self, venue_id_str):
+        """獲取單個場地資料"""
+        try:
+            venue_id = int(venue_id_str)
+            with open(MAIN_DB, 'r', encoding='utf-8') as f:
+                venues = json.load(f)
+            
+            for v in venues:
+                if v.get('id') == venue_id:
+                    self.send_json(v)
+                    return
+            
+            self.send_json({'error': '場地不存在'}, 404)
+        except ValueError:
+            self.send_json({'error': '無效的 ID'}, 400)
+        except Exception as e:
+            self.send_json({'error': str(e)}, 500)
     
     def get_stats(self):
         try:
