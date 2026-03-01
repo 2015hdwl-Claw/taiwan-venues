@@ -974,15 +974,16 @@
       "note": "待補充真實照片網址",
       "lastUpdated": "2026-03-01"
     },
-    "url": "https://www.camacoffee.com",
+    "url": "https://www.camacafe.com/",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "待修",
+    "status": "上架",
     "roomType": "咖啡廳包場",
     "notes": " [官網無法連線，需手動搜尋確認]",
     "missingFields": [
       "照片"
-    ]
+    ],
+    "lastUpdated": "2026-03-01T23:07:15.057Z"
   },
   {
     "id": 1032,
@@ -1043,15 +1044,16 @@
       "note": "待補充真實照片網址",
       "lastUpdated": "2026-03-01"
     },
-    "url": "https://www.goodmanscafe.com",
+    "url": "https://www.goodmanscoffee.com/",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "待修",
+    "status": "上架",
     "roomType": "咖啡廳包場",
     "notes": " [官網無法連線，需手動搜尋確認]",
     "missingFields": [
       "照片"
-    ]
+    ],
+    "lastUpdated": "2026-03-01T23:07:15.058Z"
   },
   {
     "id": 1034,
@@ -1210,7 +1212,7 @@
       "note": "待補充真實照片網址",
       "lastUpdated": "2026-03-01"
     },
-    "url": "https://www.tccc.com.tw",
+    "url": "https://www.tccc.com.tw/",
     "transportation": {
       "mrt": {
         "station": "台北101/世貿站",
@@ -1234,11 +1236,12 @@
     "source": "官方網站",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "待修",
+    "status": "上架",
     "roomType": "會議室",
     "missingFields": [
       "照片"
-    ]
+    ],
+    "lastUpdated": "2026-03-01T23:07:15.058Z"
   },
   {
     "id": 1038,
@@ -1502,15 +1505,16 @@
       "note": "待補充真實照片網址",
       "lastUpdated": "2026-03-01"
     },
-    "url": "https://www.artco.com.tw",
+    "url": "https://cafe.artco.com.tw/",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "待修",
+    "status": "上架",
     "roomType": "咖啡廳包場",
     "notes": " [官網無法連線，需手動搜尋確認]",
     "missingFields": [
       "照片"
-    ]
+    ],
+    "lastUpdated": "2026-03-01T23:07:15.062Z"
   },
   {
     "id": 1045,
@@ -1610,15 +1614,16 @@
       "note": "待補充真實照片網址",
       "lastUpdated": "2026-03-01"
     },
-    "url": "https://www.wtaipei.com",
+    "url": "https://www.marriott.com/tpewh",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "待修",
+    "status": "上架",
     "roomType": "宴會廳",
     "notes": " [官網無法連線或擋爬蟲，需手動確認]",
     "missingFields": [
       "照片"
-    ]
+    ],
+    "lastUpdated": "2026-03-01T23:07:15.063Z"
   },
   {
     "id": 1048,
@@ -1648,12 +1653,14 @@
     "url": "https://www.ile-hotel.com",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "待修",
+    "status": "下架",
     "roomType": "宴會廳",
     "notes": " [官網無法連線，需手動搜尋確認]",
     "missingFields": [
       "照片"
-    ]
+    ],
+    "note": "已拆除改建",
+    "lastUpdated": "2026-03-01T23:07:15.062Z"
   },
   {
     "id": 1049,
@@ -1867,13 +1874,15 @@
     "url": "https://www.hotelbf.com",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "待修",
+    "status": "下架",
     "roomType": "會議室",
     "notes": " [官網無法連線，需手動搜尋確認]",
     "missingFields": [
       "會議室名稱（具體）",
       "照片"
-    ]
+    ],
+    "note": "現址已改為其他品牌",
+    "lastUpdated": "2026-03-01T23:07:15.062Z"
   },
   {
     "id": 1055,
@@ -1976,15 +1985,16 @@
       "note": "待補充真實照片網址",
       "lastUpdated": "2026-03-01"
     },
-    "url": "https://www.dianhua.com.tw",
+    "url": "https://www.denwell.com/",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "待修",
+    "status": "上架",
     "roomType": "婚宴會館",
     "notes": " [官網無法連線，需手動搜尋確認]",
     "missingFields": [
       "照片"
-    ]
+    ],
+    "lastUpdated": "2026-03-01T23:07:15.058Z"
   },
   {
     "id": 1058,
@@ -2011,16 +2021,17 @@
       "note": "待補充真實照片網址",
       "lastUpdated": "2026-03-01"
     },
-    "url": "https://www.beitou-hall.com",
+    "url": "https://btresort.metro.taipei/",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "待修",
+    "status": "上架",
     "roomType": "會議中心",
     "notes": " [官網無法連線，需手動搜尋確認]",
     "missingFields": [
       "會議室名稱（具體）",
       "照片"
-    ]
+    ],
+    "lastUpdated": "2026-03-01T23:07:15.058Z"
   },
   {
     "id": 1059,
@@ -2050,12 +2061,14 @@
     "url": "https://www.youchun-hotel.com",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "待修",
+    "status": "下架",
     "roomType": "宴會廳",
     "notes": " [官網無法連線，需手動搜尋確認]",
     "missingFields": [
       "照片"
-    ]
+    ],
+    "note": "結束營業",
+    "lastUpdated": "2026-03-01T23:07:15.062Z"
   },
   {
     "id": 1060,
@@ -2289,16 +2302,17 @@
       "note": "待補充真實照片網址",
       "lastUpdated": "2026-03-01"
     },
-    "url": "https://www.victoriam.com",
+    "url": "https://www.victoriam.com/",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "待修",
+    "status": "上架",
     "roomType": "會議中心",
     "notes": " [官網無法連線或擋爬蟲，需手動確認]",
     "missingFields": [
       "會議室名稱（具體）",
       "照片"
-    ]
+    ],
+    "lastUpdated": "2026-03-01T23:07:15.063Z"
   },
   {
     "id": 1066,
@@ -2325,16 +2339,17 @@
       "note": "待補充真實照片網址",
       "lastUpdated": "2026-03-01"
     },
-    "url": "https://www.taipei-business.com",
+    "url": "https://www.tbc-group.com/",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "待修",
+    "status": "上架",
     "roomType": "會議中心",
     "notes": " [官網無法連線，需手動搜尋確認]",
     "missingFields": [
       "會議室名稱（具體）",
       "照片"
-    ]
+    ],
+    "lastUpdated": "2026-03-01T23:07:15.058Z"
   },
   {
     "id": 1067,
@@ -2396,15 +2411,16 @@
       "note": "待補充真實照片網址",
       "lastUpdated": "2026-03-01"
     },
-    "url": "https://www.ambience-hotel.com",
+    "url": "https://www.ambiencehotel.com.tw/",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "待修",
+    "status": "上架",
     "roomType": "宴會廳",
     "notes": " [官網無法連線，需手動搜尋確認]",
     "missingFields": [
       "照片"
-    ]
+    ],
+    "lastUpdated": "2026-03-01T23:07:15.058Z"
   },
   {
     "id": 1069,
@@ -2436,7 +2452,8 @@
     "verified": true,
     "verifiedAt": "2026-02-27",
     "status": "上架",
-    "roomType": "宴會廳"
+    "roomType": "宴會廳",
+    "lastUpdated": "2026-03-01T23:07:15.063Z"
   },
   {
     "id": 1072,
@@ -2502,12 +2519,14 @@
     "url": "https://www.zibei-hotel.com",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "待修",
+    "status": "下架",
     "roomType": "宴會廳",
     "notes": " [官網無法連線，需手動搜尋確認]",
     "missingFields": [
       "照片"
-    ]
+    ],
+    "note": "結束營業",
+    "lastUpdated": "2026-03-01T23:07:15.062Z"
   },
   {
     "id": 1074,
@@ -2744,12 +2763,14 @@
     "url": "https://www.kanghua-hotel.com",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "待修",
+    "status": "下架",
     "roomType": "宴會廳",
     "notes": " [官網無法連線，需手動搜尋確認]",
     "missingFields": [
       "照片"
-    ]
+    ],
+    "note": "2022年3月結束營業",
+    "lastUpdated": "2026-03-01T23:07:15.062Z"
   },
   {
     "id": 1081,
@@ -2776,15 +2797,16 @@
       "note": "待補充真實照片網址",
       "lastUpdated": "2026-03-01"
     },
-    "url": "https://www.midtownrichard.com",
+    "url": "https://www.midtownrichard.com/",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "待修",
+    "status": "待確認",
     "roomType": "宴會廳",
     "notes": " [官網無法連線，需手動搜尋確認]",
     "missingFields": [
       "照片"
-    ]
+    ],
+    "lastUpdated": "2026-03-01T23:07:15.063Z"
   },
   {
     "id": 1082,
@@ -2887,12 +2909,14 @@
     "url": "https://www.ching-tai.com",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "待修",
+    "status": "下架",
     "roomType": "宴會廳",
     "notes": " [官網無法連線或擋爬蟲，需手動確認]",
     "missingFields": [
       "照片"
-    ]
+    ],
+    "note": "2021年12月結束營業",
+    "lastUpdated": "2026-03-01T23:07:15.062Z"
   },
   {
     "id": 1085,
@@ -3066,15 +3090,16 @@
       "note": "待補充真實照片網址",
       "lastUpdated": "2026-03-01"
     },
-    "url": "https://www.songyi-hotel.com",
+    "url": "https://www.songyi-hotel.com/",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "待修",
+    "status": "待確認",
     "roomType": "宴會廳",
     "notes": " [官網無法連線，需手動搜尋確認]",
     "missingFields": [
       "照片"
-    ]
+    ],
+    "lastUpdated": "2026-03-01T23:07:15.063Z"
   },
   {
     "id": 1089,
@@ -3101,16 +3126,17 @@
       "note": "待補充真實照片網址",
       "lastUpdated": "2026-03-01"
     },
-    "url": "https://greenworldhotelzhonghua.tw-taiwan.com/zh/",
+    "url": "https://www.chateau-china.com/",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "上架",
+    "status": "待確認",
     "roomType": "宴會廳",
     "notes": " [官網無法連線，需手動搜尋確認]",
     "missingFields": [
       "照片"
     ],
-    "lastSearched": "2026-03-01T22:29:32.171Z"
+    "lastSearched": "2026-03-01T22:29:32.171Z",
+    "lastUpdated": "2026-03-01T23:07:15.063Z"
   },
   {
     "id": 1090,
@@ -3179,14 +3205,15 @@
       ],
       "source": "https://www.sanwant.com"
     },
-    "url": "https://www.san-want.com",
+    "url": "https://www.san-want.com/",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "待修",
+    "status": "待確認",
     "roomType": "宴會廳",
     "missingFields": [
       "會議室名稱（具體）"
-    ]
+    ],
+    "lastUpdated": "2026-03-01T23:07:15.063Z"
   },
   {
     "id": 1092,
@@ -3216,12 +3243,14 @@
     "url": "https://www.firsthotel.com",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "待修",
+    "status": "下架",
     "roomType": "宴會廳",
     "notes": " [官網無法連線或擋爬蟲，需手動確認]",
     "missingFields": [
       "照片"
-    ]
+    ],
+    "note": "結束營業",
+    "lastUpdated": "2026-03-01T23:07:15.063Z"
   },
   {
     "id": 1093,
@@ -3248,15 +3277,16 @@
       "note": "待補充真實照片網址",
       "lastUpdated": "2026-03-01"
     },
-    "url": "https://www.first-hotel.com.tw",
+    "url": "https://www.first-hotel.com.tw/",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "待修",
+    "status": "待確認",
     "roomType": "宴會廳",
     "notes": " [官網無法連線，需手動搜尋確認]",
     "missingFields": [
       "照片"
-    ]
+    ],
+    "lastUpdated": "2026-03-01T23:07:15.063Z"
   },
   {
     "id": 1094,
@@ -3283,15 +3313,16 @@
       "note": "待補充真實照片網址",
       "lastUpdated": "2026-03-01"
     },
-    "url": "https://www.tongyi-hotel.com",
+    "url": "https://www.tongyi-hotel.com/",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "待修",
+    "status": "待確認",
     "roomType": "宴會廳",
     "notes": " [官網無法連線，需手動搜尋確認]",
     "missingFields": [
       "照片"
-    ]
+    ],
+    "lastUpdated": "2026-03-01T23:07:15.063Z"
   },
   {
     "id": 1095,
@@ -3391,11 +3422,12 @@
       ],
       "source": "https://www.hotelroyal.com.tw/taipei"
     },
-    "url": "https://www.hotelroyal.com.tw/taipei",
+    "url": "https://www.royal-nikko-taipei.com.tw/",
     "verified": true,
     "verifiedAt": "2026-02-27",
     "status": "上架",
-    "roomType": "宴會廳"
+    "roomType": "宴會廳",
+    "lastUpdated": "2026-03-01T23:07:15.060Z"
   },
   {
     "id": 1098,
@@ -3539,15 +3571,16 @@
       "note": "待補充真實照片網址",
       "lastUpdated": "2026-03-01"
     },
-    "url": "https://www.imperial-hotel.com.tw",
+    "url": "https://www.imperial-hotel.com.tw/",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "待修",
+    "status": "待確認",
     "roomType": "宴會廳",
     "notes": " [官網無法連線，需手動搜尋確認]",
     "missingFields": [
       "照片"
-    ]
+    ],
+    "lastUpdated": "2026-03-01T23:07:15.063Z"
   },
   {
     "id": 1102,
@@ -3574,15 +3607,16 @@
       "note": "待補充真實照片網址",
       "lastUpdated": "2026-03-01"
     },
-    "url": "https://www.gloria-residence.com",
+    "url": "https://www.gloria-residence.com/",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "待修",
+    "status": "待確認",
     "roomType": "宴會廳",
     "notes": " [官網無法連線，需手動搜尋確認]",
     "missingFields": [
       "照片"
-    ]
+    ],
+    "lastUpdated": "2026-03-01T23:07:15.063Z"
   },
   {
     "id": 1103,
@@ -3618,7 +3652,8 @@
     "createdAt": "2026-02-26T00:00:00.000Z",
     "status": "上架",
     "roomType": "宴會廳",
-    "url": "https://www.marriott.com/taipei"
+    "url": "https://www.taipeimarriott.com.tw/",
+    "lastUpdated": "2026-03-01T23:07:15.060Z"
   },
   {
     "id": 1104,
@@ -3649,8 +3684,10 @@
     "url": "https://www.sherwood.com.tw",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "上架",
-    "roomType": "宴會廳"
+    "status": "下架",
+    "roomType": "宴會廳",
+    "note": "2022年2月結束營業",
+    "lastUpdated": "2026-03-01T23:07:15.062Z"
   },
   {
     "id": 1105,
@@ -3677,15 +3714,16 @@
       "note": "待補充真實照片網址",
       "lastUpdated": "2026-03-01"
     },
-    "url": "https://www.landisresort.com",
+    "url": "https://www.landisresort.com/",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "待修",
+    "status": "待確認",
     "roomType": "宴會廳",
     "notes": " [官網無法連線，需手動搜尋確認]",
     "missingFields": [
       "照片"
-    ]
+    ],
+    "lastUpdated": "2026-03-01T23:07:15.063Z"
   },
   {
     "name": "台北香格里拉遠東國際大飯店",
@@ -3761,16 +3799,17 @@
       "note": "待補充真實照片網址",
       "lastUpdated": "2026-03-01"
     },
-    "url": "https://www.tms.gov.tw",
+    "url": "https://www.tms.gov.taipei/",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "待修",
+    "status": "上架",
     "roomType": "體育館",
     "notes": " [官網無法連線或擋爬蟲，需手動確認]",
     "missingFields": [
       "教室式人數",
       "照片"
-    ]
+    ],
+    "lastUpdated": "2026-03-01T23:07:15.063Z"
   },
   {
     "id": 1108,
@@ -3797,16 +3836,17 @@
       "note": "待補充真實照片網址",
       "lastUpdated": "2026-03-01"
     },
-    "url": "https://www.ntualumni.org",
+    "url": "https://www.ntualumni.org.tw/",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "待修",
+    "status": "上架",
     "roomType": "會議中心",
     "notes": " [官網無法連線或擋爬蟲，需手動確認]",
     "missingFields": [
       "會議室名稱（具體）",
       "照片"
-    ]
+    ],
+    "lastUpdated": "2026-03-01T23:07:15.063Z"
   },
   {
     "id": 1109,
@@ -3868,16 +3908,17 @@
       "note": "待補充真實照片網址",
       "lastUpdated": "2026-03-01"
     },
-    "url": "https://www.taipeiexpopark.tw",
+    "url": "https://www.taipeiexpopark.tw/",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "待修",
+    "status": "待確認",
     "roomType": "展覽館",
     "notes": " [官網無法連線，需手動搜尋確認]",
     "missingFields": [
       "會議室名稱（具體）",
       "照片"
-    ]
+    ],
+    "lastUpdated": "2026-03-01T23:07:15.063Z"
   },
   {
     "id": 1112,
@@ -3904,16 +3945,17 @@
       "note": "待補充真實照片網址",
       "lastUpdated": "2026-03-01"
     },
-    "url": "https://www.tianmu.gov.tw",
+    "url": "https://www.tms.gov.taipei/",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "待修",
+    "status": "待確認",
     "roomType": "體育館",
     "notes": " [官網無法連線，需手動搜尋確認]",
     "missingFields": [
       "教室式人數",
       "照片"
-    ]
+    ],
+    "lastUpdated": "2026-03-01T23:07:15.063Z"
   },
   {
     "name": "寒舍艾美酒店",
@@ -3985,11 +4027,12 @@
       "lastUpdated": "2026-03-01",
       "source": "Unsplash"
     },
-    "url": "https://www.yfpcf.org",
+    "url": "https://www.yfpcf.org/",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "上架",
-    "roomType": "會議中心"
+    "status": "待確認",
+    "roomType": "會議中心",
+    "lastUpdated": "2026-03-01T23:07:15.064Z"
   },
   {
     "id": 1116,
@@ -4049,15 +4092,16 @@
       "note": "待補充真實照片網址",
       "lastUpdated": "2026-03-01"
     },
-    "url": "https://www.fuxing.space",
+    "url": "https://www.fuxing.space/",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "待修",
+    "status": "待確認",
     "roomType": "共享空間",
     "notes": " [官網無法連線，需手動搜尋確認]",
     "missingFields": [
       "照片"
-    ]
+    ],
+    "lastUpdated": "2026-03-01T23:07:15.064Z"
   },
   {
     "id": 1118,
@@ -4119,15 +4163,16 @@
       "note": "待補充真實照片網址",
       "lastUpdated": "2026-03-01"
     },
-    "url": "https://www.mandarin-wedding.com",
+    "url": "https://www.mandarin-wedding.com/",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "待修",
+    "status": "待確認",
     "roomType": "婚宴會館",
     "notes": " [官網無法連線，需手動搜尋確認]",
     "missingFields": [
       "照片"
-    ]
+    ],
+    "lastUpdated": "2026-03-01T23:07:15.064Z"
   },
   {
     "id": 1120,
@@ -4155,15 +4200,16 @@
       "note": "待補充真實照片網址",
       "lastUpdated": "2026-03-01"
     },
-    "url": "https://www.siihub.org",
+    "url": "https://www.siihub.org/",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "待修",
+    "status": "待確認",
     "roomType": "共享空間",
     "notes": " [官網無法連線，需手動搜尋確認]",
     "missingFields": [
       "照片"
-    ]
+    ],
+    "lastUpdated": "2026-03-01T23:07:15.064Z"
   },
   {
     "id": 1121,
@@ -4239,13 +4285,14 @@
     "capacityCategory": "medium",
     "targetAudience": "企業",
     "createdAt": "2026-02-26T00:00:00.000Z",
-    "status": "待修",
+    "status": "上架",
     "roomType": "宴會廳",
-    "url": "https://www.victoria.com.tw",
+    "url": "https://www.grandvictoria.com.tw/",
     "missingFields": [
       "會議室名稱（具體）",
       "照片"
-    ]
+    ],
+    "lastUpdated": "2026-03-01T23:07:46.450Z"
   },
   {
     "id": 1123,
@@ -4272,16 +4319,17 @@
       "note": "待補充真實照片網址",
       "lastUpdated": "2026-03-01"
     },
-    "url": "https://www.taipeiexpopark.tw",
+    "url": "https://www.taipeiexpopark.tw/",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "待修",
+    "status": "待確認",
     "roomType": "展覽館",
     "notes": " [官網無法連線，需手動搜尋確認]",
     "missingFields": [
       "會議室名稱（具體）",
       "照片"
-    ]
+    ],
+    "lastUpdated": "2026-03-01T23:07:15.064Z"
   },
   {
     "id": 1124,
@@ -4416,12 +4464,13 @@
     "capacityCategory": "medium",
     "targetAudience": "企業",
     "createdAt": "2026-02-26T00:00:00.000Z",
-    "status": "待修",
+    "status": "上架",
     "roomType": "宴會廳",
-    "url": "https://www.grandview.com.tw",
+    "url": "https://www.riverview.com.tw/",
     "missingFields": [
       "會議室名稱（具體）"
-    ]
+    ],
+    "lastUpdated": "2026-03-01T23:07:46.486Z"
   },
   {
     "id": 1127,
@@ -4449,15 +4498,16 @@
       "note": "待補充真實照片網址",
       "lastUpdated": "2026-03-01"
     },
-    "url": "https://www.secondfloor.com.tw",
+    "url": "https://www.secondfloor.com.tw/",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "待修",
+    "status": "待確認",
     "roomType": "餐廳包場",
     "notes": " [官網無法連線，需手動搜尋確認]",
     "missingFields": [
       "照片"
-    ]
+    ],
+    "lastUpdated": "2026-03-01T23:07:15.064Z"
   },
   {
     "id": 1128,
@@ -4488,11 +4538,12 @@
       "lastUpdated": "2026-03-01",
       "source": "Unsplash"
     },
-    "url": "https://www.ntuacc.org",
+    "url": "https://www.ntuacc.org/",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "上架",
-    "roomType": "會議中心"
+    "status": "待確認",
+    "roomType": "會議中心",
+    "lastUpdated": "2026-03-01T23:07:15.064Z"
   },
   {
     "id": 1129,
@@ -11216,14 +11267,15 @@
       "note": "待補充真實照片網址",
       "lastUpdated": "2026-03-01"
     },
-    "url": "https://www.zssc.gov.tw",
+    "url": "https://zssc.cyc.org.tw/",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "待修",
+    "status": "上架",
     "roomType": "活動中心",
     "missingFields": [
       "照片"
-    ]
+    ],
+    "lastUpdated": "2026-03-01T23:07:15.061Z"
   },
   {
     "id": 1335,
@@ -11251,15 +11303,16 @@
       "note": "待補充真實照片網址",
       "lastUpdated": "2026-03-01"
     },
-    "url": "https://www.xysc.gov.tw",
+    "url": "https://xysc.cyc.org.tw/",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "待修",
+    "status": "上架",
     "roomType": "會議室",
     "missingFields": [
       "會議室名稱（具體）",
       "照片"
-    ]
+    ],
+    "lastUpdated": "2026-03-01T23:07:15.061Z"
   },
   {
     "id": 1336,
@@ -11287,14 +11340,15 @@
       "note": "待補充真實照片網址",
       "lastUpdated": "2026-03-01"
     },
-    "url": "https://www.nhsc.gov.tw",
+    "url": "https://nhsc.cyc.org.tw/",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "待修",
+    "status": "上架",
     "roomType": "活動中心",
     "missingFields": [
       "照片"
-    ]
+    ],
+    "lastUpdated": "2026-03-01T23:07:15.061Z"
   },
   {
     "id": 1337,
@@ -11321,15 +11375,16 @@
       "note": "待補充真實照片網址",
       "lastUpdated": "2026-03-01"
     },
-    "url": "https://www.sunat.gov.tw",
+    "url": "https://www.yatsen.gov.tw/",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "待修",
+    "status": "上架",
     "roomType": "演藝廳",
     "missingFields": [
       "教室式人數",
       "照片"
-    ]
+    ],
+    "lastUpdated": "2026-03-01T23:07:15.061Z"
   },
   {
     "id": 1338,
@@ -11388,18 +11443,19 @@
         "description": "劇院型"
       }
     },
-    "url": "https://www.culture.gov.taipei",
+    "url": "https://thcf.org.tw/",
     "category": "機關場地",
     "needsReview": true,
     "reviewNote": "機關場地申請方式複雜，需要驗證申請流程、價格、可用時間等資訊",
-    "status": "待修",
+    "status": "上架",
     "roomType": "會議室",
     "missingFields": [
       "價格",
       "劇院式人數",
       "教室式人數",
       "照片"
-    ]
+    ],
+    "lastUpdated": "2026-03-01T23:07:15.063Z"
   },
   {
     "name": "朱崙區民活動中心",
@@ -11416,7 +11472,7 @@
         "equipment": []
       }
     ],
-    "status": "待修",
+    "status": "上架",
     "address": "台北市中山區龍江路15號3樓",
     "contact": {
       "phone": "02-25031369轉506"
@@ -11424,7 +11480,7 @@
     "id": 1339,
     "roomName": "綜合",
     "contactEmail": "civil@taipei.gov.tw",
-    "url": "https://www.civil.taipei",
+    "url": "https://zsdp.gov.taipei/",
     "images": {
       "main": "",
       "gallery": [],
@@ -11440,7 +11496,8 @@
       "教室式人數",
       "照片",
       "聯絡電話"
-    ]
+    ],
+    "lastUpdated": "2026-03-01T23:07:15.061Z"
   },
   {
     "id": 1340,
@@ -11508,18 +11565,19 @@
         "description": "宴會型"
       }
     },
-    "url": "https://www.civil.taipei",
+    "url": "https://zsdp.gov.taipei/",
     "category": "機關場地",
     "needsReview": true,
     "reviewNote": "機關場地申請方式複雜，需要驗證申請流程、價格、可用時間等資訊",
-    "status": "待修",
+    "status": "上架",
     "roomType": "活動中心",
     "missingFields": [
       "價格",
       "劇院式人數",
       "教室式人數",
       "照片"
-    ]
+    ],
+    "lastUpdated": "2026-03-01T23:07:15.061Z"
   },
   {
     "name": "林森三區民活動中心",
@@ -11542,7 +11600,7 @@
         }
       }
     ],
-    "status": "待修",
+    "status": "上架",
     "address": "台北市林森北路67巷7號3樓",
     "contact": {
       "phone": "02-25031369轉506"
@@ -11550,7 +11608,7 @@
     "id": 1341,
     "roomName": "綜合",
     "contactEmail": "civil@taipei.gov.tw",
-    "url": "https://www.civil.taipei",
+    "url": "https://zsdp.gov.taipei/",
     "images": {
       "main": "",
       "gallery": [],
@@ -11566,7 +11624,8 @@
       "教室式人數",
       "照片",
       "聯絡電話"
-    ]
+    ],
+    "lastUpdated": "2026-03-01T23:07:15.062Z"
   },
   {
     "id": 1342,
