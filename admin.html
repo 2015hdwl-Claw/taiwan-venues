@@ -790,18 +790,27 @@
             if (!venue) {
                 try {
                     showToast('載入中...', '');
-                    const res = await fetch(`${API_BASE}/api/venue/${id}`);
+                    
+                    // 先嘗試單個場地 API
+                    let res = await fetch(`${API_BASE}/api/venue/${id}`);
                     if (res.ok) {
                         venue = await res.json();
+                    } else {
+                        // 備用方案：從全部場地 API 獲取並過濾
+                        res = await fetch(`${API_BASE}/api/venues?status=`);
+                        if (res.ok) {
+                            const allVenues = await res.json();
+                            venue = allVenues.find(v => v.id === id);
+                        }
                     }
                 } catch (e) {
-                    showToast('無法載入場地資料', 'error');
+                    showToast('無法載入場地資料: ' + e.message, 'error');
                     return;
                 }
             }
             
             if (!venue) {
-                showToast('找不到此場地', 'error');
+                showToast('找不到此場地 (ID: ' + id + ')', 'error');
                 return;
             }
             
