@@ -3,204 +3,187 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>台灣場地資料庫</title>
-    <style>
-        * { box-sizing: border-box; margin: 0; padding: 0; }
-        body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); min-height: 100vh; display: flex; align-items: center; justify-content: center; padding: 1rem; }
-        
-        .container { background: white; border-radius: 16px; box-shadow: 0 20px 60px rgba(0,0,0,0.3); max-width: 800px; width: 100%; overflow: hidden; }
-        
-        .header { background: linear-gradient(135deg, #2c3e50 0%, #3498db 100%); color: white; padding: 2rem; text-align: center; }
-        .header h1 { font-size: 1.75rem; margin-bottom: 0.5rem; }
-        .header p { opacity: 0.9; font-size: 0.95rem; }
-        
-        .stats { display: grid; grid-template-columns: repeat(4, 1fr); gap: 1rem; padding: 1.5rem; background: #f8f9fa; }
-        .stat { text-align: center; padding: 1rem; background: white; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1); }
-        .stat-value { font-size: 2rem; font-weight: bold; color: #2c3e50; }
-        .stat-label { font-size: 0.8rem; color: #666; margin-top: 0.25rem; }
-        .stat.online .stat-value { color: #27ae60; }
-        .stat.offline .stat-value { color: #e74c3c; }
-        .stat.issues .stat-value { color: #f39c12; }
-        
-        .content { padding: 1.5rem; }
-        
-        .section { margin-bottom: 1.5rem; }
-        .section h3 { font-size: 1rem; color: #666; margin-bottom: 0.75rem; display: flex; align-items: center; gap: 0.5rem; }
-        
-        .city-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(140px, 1fr)); gap: 0.5rem; }
-        .city-item { background: #f8f9fa; padding: 0.75rem; border-radius: 6px; display: flex; justify-content: space-between; align-items: center; font-size: 0.85rem; }
-        .city-item:hover { background: #e9ecef; }
-        .city-count { background: #3498db; color: white; padding: 0.2rem 0.5rem; border-radius: 10px; font-size: 0.75rem; }
-        
-        .type-list { display: flex; flex-wrap: wrap; gap: 0.5rem; }
-        .type-tag { background: #e8f5e9; color: #2e7d32; padding: 0.5rem 1rem; border-radius: 20px; font-size: 0.85rem; display: flex; align-items: center; gap: 0.5rem; }
-        .type-tag .count { background: rgba(0,0,0,0.1); padding: 0.1rem 0.5rem; border-radius: 10px; font-size: 0.75rem; }
-        
-        .btn { display: inline-block; padding: 0.75rem 1.5rem; background: linear-gradient(135deg, #3498db 0%, #2980b9 100%); color: white; text-decoration: none; border-radius: 8px; font-weight: 500; transition: transform 0.2s, box-shadow 0.2s; }
-        .btn:hover { transform: translateY(-2px); box-shadow: 0 4px 12px rgba(52, 152, 219, 0.4); }
-        
-        .actions { display: flex; gap: 1rem; justify-content: center; padding: 1.5rem; background: #f8f9fa; border-top: 1px solid #eee; }
-        
-        .loading { text-align: center; padding: 3rem; color: #666; }
-        .error { text-align: center; padding: 2rem; color: #e74c3c; background: #ffeaea; border-radius: 8px; margin: 1rem; }
-        
-        .last-update { text-align: center; padding: 1rem; color: #999; font-size: 0.8rem; border-top: 1px solid #eee; }
-        
-        .venue-highlight { background: #fff3cd; border-left: 4px solid #f39c12; padding: 1rem; border-radius: 0 8px 8px 0; margin-bottom: 1rem; }
-        .venue-highlight h4 { color: #856404; margin-bottom: 0.5rem; }
-        .venue-highlight ul { margin-left: 1.5rem; font-size: 0.9rem; color: #666; }
-    </style>
+    <meta name="description" content="台灣活動規劃大師 - 一站式活動規劃入口網站，場地、餐飲、製作物、執行人員全部搞定">
+    <title>台灣活動規劃大師 - 一站式活動規劃入口網站</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@300;400;500;600;700&display=swap" rel="stylesheet">
 </head>
 <body>
-    <div class="container">
-        <div class="header">
-            <h1>🏛️ 台灣場地資料庫</h1>
-            <p>Venue Database Dashboard</p>
+    <!-- ===== 品牌標題 ===== -->
+    <header class="main-header">
+        <div class="header-content">
+            <h1 class="brand-title">🎉 台灣活動規劃大師</h1>
+            <p class="brand-subtitle">辦活動，找大師就對了！</p>
+        </div>
+    </header>
+
+    <!-- ===== 服務類型選擇器 ===== -->
+    <section class="service-selector-section" id="serviceSelectorSection">
+        <div class="section-header">
+            <h2 class="section-title">選擇服務類型</h2>
+            <p class="section-subtitle">一站式滿足你的活動需求</p>
+        </div>
+        <div class="service-grid">
+            <div class="service-card active" onclick="selectService('venue')">
+                <div class="service-icon">🏢</div>
+                <h3 class="service-name">活動場地</h3>
+                <p class="service-desc">會議室、宴會廳、展演空間</p>
+                <span class="service-badge">332 個場地</span>
+            </div>
+            <div class="service-card" onclick="selectService('catering')">
+                <div class="service-icon">🍽️</div>
+                <h3 class="service-name">活動餐飲</h3>
+                <p class="service-desc">茶點、外燴、自助餐</p>
+                <span class="service-badge coming-soon">即將推出</span>
+            </div>
+            <div class="service-card" onclick="selectService('production')">
+                <div class="service-icon">🎨</div>
+                <h3 class="service-name">活動製作物</h3>
+                <p class="service-desc">背板、佈置、禮品、印刷</p>
+                <span class="service-badge coming-soon">即將推出</span>
+            </div>
+            <div class="service-card" onclick="selectService('execution')">
+                <div class="service-icon">🎬</div>
+                <h3 class="service-name">活動執行</h3>
+                <p class="service-desc">主持人、樂隊、攝影、服務人員</p>
+                <span class="service-badge coming-soon">即將推出</span>
+            </div>
+        </div>
+    </section>
+
+    <!-- ===== 活動類型選擇器 (Apple 產品選擇風格) ===== -->
+    <section class="type-selector-section" id="typeSelectorSection">
+        <div class="section-header">
+            <h1 class="section-title">選擇你的活動類型</h1>
+            <p class="section-subtitle">找到最適合的場地，讓活動更完美</p>
         </div>
         
-        <div class="stats" id="statsSection">
-            <div class="stat">
-                <div class="stat-value" id="totalCount">-</div>
-                <div class="stat-label">總場地數</div>
+        <!-- 左右滑動選擇器 -->
+        <div class="type-carousel-container">
+            <button class="carousel-nav carousel-prev" onclick="prevType()" aria-label="上一個">
+                <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                    <polyline points="15 18 9 12 15 6"></polyline>
+                </svg>
+            </button>
+            
+            <div class="type-carousel" id="typeCarousel">
+                <!-- 活動類型卡片會由 JS 動態生成 -->
             </div>
-            <div class="stat online">
-                <div class="stat-value" id="onlineCount">-</div>
-                <div class="stat-label">上架中</div>
+            
+            <button class="carousel-nav carousel-next" onclick="nextType()" aria-label="下一個">
+                <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                    <polyline points="9 18 15 12 9 6"></polyline>
+                </svg>
+            </button>
+        </div>
+        
+        <!-- 指示器 -->
+        <div class="carousel-indicators" id="carouselIndicators"></div>
+    </section>
+
+    <!-- ===== 場地列表 ===== -->
+    <section class="venues-section" id="venuesSection" style="display: none;">
+        <div class="section-header">
+            <button class="back-button" onclick="goBack()">
+                <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                    <polyline points="15 18 9 12 15 6"></polyline>
+                </svg>
+                返回選擇
+            </button>
+            <h1 class="section-title" id="venuesTitle">場地列表</h1>
+            <p class="section-subtitle" id="venuesSubtitle">為你推薦最適合的場地</p>
+        </div>
+        
+        <!-- 篩選器 -->
+        <div class="filter-bar">
+            <div class="filter-group">
+                <select id="cityFilter" onchange="filterVenues()">
+                    <option value="">所有縣市</option>
+                </select>
+                <select id="capacityFilter" onchange="filterVenues()">
+                    <option value="">所有規模</option>
+                    <option value="small">50人以下</option>
+                    <option value="medium">50-200人</option>
+                    <option value="large">200-500人</option>
+                    <option value="xlarge">500人以上</option>
+                </select>
+                <select id="sortFilter" onchange="filterVenues()">
+                    <option value="name-asc">場地名稱排序</option>
+                    <option value="price-asc">價格由低到高</option>
+                    <option value="price-desc">價格由高到低</option>
+                    <option value="capacity-desc">容納人數由多到少</option>
+                </select>
             </div>
-            <div class="stat offline">
-                <div class="stat-value" id="offlineCount">-</div>
-                <div class="stat-label">已下架</div>
-            </div>
-            <div class="stat issues">
-                <div class="stat-value" id="issueCount">-</div>
-                <div class="stat-label">待修正</div>
+            <div class="filter-count">
+                <span id="venueCount">0</span> 個場地
             </div>
         </div>
         
-        <div class="content" id="content">
-            <div class="loading">載入資料中...</div>
+        <!-- 場地網格 -->
+        <div class="venues-grid" id="venuesGrid">
+            <!-- 場地卡片由 JS 動態生成 -->
         </div>
-        
-        <div class="actions">
-            <a href="admin.html" class="btn">🔧 進入後台管理</a>
-            <a href="venues-all-cities.json" class="btn" style="background: linear-gradient(135deg, #27ae60 0%, #219a52 100%);">📥 下載 JSON</a>
-        </div>
-        
-        <div class="last-update">
-            最後更新：<span id="lastUpdate">-</span>
+    </section>
+
+    <!-- ===== 場地詳情 Modal (Apple 風格) ===== -->
+    <div class="modal" id="venueModal">
+        <div class="modal-backdrop" onclick="closeModal()"></div>
+        <div class="modal-container">
+            <div class="modal-header">
+                <button class="modal-close" onclick="closeModal()">
+                    <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <line x1="18" y1="6" x2="6" y2="18"></line>
+                        <line x1="6" y1="6" x2="18" y2="18"></line>
+                    </svg>
+                </button>
+            </div>
+            <div class="modal-content" id="modalContent">
+                <!-- 動態內容 -->
+            </div>
         </div>
     </div>
 
-    <script>
-        // API 端點 - 根據部署環境自動選擇
-        const API_BASE = window.location.hostname.includes('github.io') 
-            ? 'https://taiwan-venues.onrender.com'  // Render 部署的後端
-            : '';  // 本地開發
-        
-        async function loadData() {
-            try {
-                // 嘗試從 API 獲取統計
-                const statsRes = await fetch(`${API_BASE}/api/stats`);
-                const stats = await statsRes.json();
-                
-                // 直接從 GitHub 讀取 JSON（備用方案）
-                const dataRes = await fetch('venues-all-cities.json');
-                const venues = await dataRes.json();
-                
-                renderDashboard(venues, stats);
-            } catch (e) {
-                // 如果 API 失敗，直接讀取 JSON
-                try {
-                    const res = await fetch('venues-all-cities.json');
-                    const venues = await res.json();
-                    renderDashboard(venues, null);
-                } catch (err) {
-                    document.getElementById('content').innerHTML = `
-                        <div class="error">
-                            ❌ 載入失敗：${err.message}<br>
-                            <small>請確認資料檔案存在</small>
-                        </div>
-                    `;
-                }
-            }
-        }
-        
-        function renderDashboard(venues, stats) {
-            // 計算統計
-            const total = venues.length;
-            const online = venues.filter(v => v.status === '上架').length;
-            const offline = venues.filter(v => v.status === '下架').length;
-            const issues = venues.filter(v => !v.contactPhone || !v.images?.length).length;
-            
-            // 更新統計數字
-            document.getElementById('totalCount').textContent = total;
-            document.getElementById('onlineCount').textContent = online;
-            document.getElementById('offlineCount').textContent = offline;
-            document.getElementById('issueCount').textContent = issues;
-            
-            // 城市分布
-            const cities = {};
-            venues.forEach(v => {
-                const city = v.city || '未知';
-                cities[city] = (cities[city] || 0) + 1;
-            });
-            
-            const cityHtml = Object.entries(cities)
-                .sort((a, b) => b[1] - a[1])
-                .map(([city, count]) => `
-                    <div class="city-item">
-                        <span>${city}</span>
-                        <span class="city-count">${count}</span>
-                    </div>
-                `).join('');
-            
-            // 類型分布
-            const types = {};
-            venues.forEach(v => {
-                const type = v.venueType || '其他';
-                types[type] = (types[type] || 0) + 1;
-            });
-            
-            const typeHtml = Object.entries(types)
-                .sort((a, b) => b[1] - a[1])
-                .map(([type, count]) => `
-                    <span class="type-tag">
-                        ${type}
-                        <span class="count">${count}</span>
-                    </span>
-                `).join('');
-            
-            // 更新時間
-            document.getElementById('lastUpdate').textContent = new Date().toLocaleString('zh-TW');
-            
-            // 渲染內容
-            document.getElementById('content').innerHTML = `
-                <div class="venue-highlight">
-                    <h4>⚠️ 統一渡假村狀態更新</h4>
-                    <ul>
-                        <li>✅ 統一渡假村-谷關：上架中</li>
-                        <li>✅ 統一渡假村-馬武督：上架中</li>
-                        <li>❌ 統一渡假村-墾丁：已下架（已歇業）</li>
-                    </ul>
-                </div>
-                
-                <div class="section">
-                    <h3>📍 城市分布</h3>
-                    <div class="city-grid">${cityHtml}</div>
-                </div>
-                
-                <div class="section">
-                    <h3>🏷️ 場地類型</h3>
-                    <div class="type-list">${typeHtml}</div>
-                </div>
-            `;
-        }
-        
-        // 載入資料
-        loadData();
-        
-        // 每 30 秒自動刷新
-        setInterval(loadData, 30000);
-    </script>
+    <!-- ===== 比較面板 (Apple 風格) ===== -->
+    <div class="compare-panel" id="comparePanel">
+        <div class="compare-panel-header">
+            <div class="compare-panel-title">
+                <span class="compare-icon">⬜</span>
+                比較場地
+                <span class="compare-count" id="compareCount">0</span>
+            </div>
+            <div class="compare-panel-actions">
+                <button class="compare-clear" onclick="clearCompare()">清除全部</button>
+                <button class="compare-view" onclick="showCompare()" id="compareViewBtn" disabled>
+                    查看比較
+                </button>
+            </div>
+        </div>
+        <div class="compare-items" id="compareItems">
+            <div class="compare-empty">選擇場地以開始比較</div>
+        </div>
+    </div>
+
+    <!-- ===== 比較結果 Modal ===== -->
+    <div class="modal compare-modal" id="compareModal">
+        <div class="modal-backdrop" onclick="closeCompareModal()"></div>
+        <div class="modal-container modal-large">
+            <div class="modal-header">
+                <h2 class="modal-title">場地比較</h2>
+                <button class="modal-close" onclick="closeCompareModal()">
+                    <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <line x1="18" y1="6" x2="6" y2="18"></line>
+                        <line x1="6" y1="6" x2="18" y2="18"></line>
+                    </svg>
+                </button>
+            </div>
+            <div class="compare-content" id="compareContent">
+                <!-- 動態內容 -->
+            </div>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
 </body>
 </html>
