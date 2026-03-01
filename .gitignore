@@ -1,19 +1,33 @@
-# 備份檔案
-*.backup
-*.bak
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
 
-# 開發用檔案
-.deploy
-DEPLOY.md
-GROK_*.md
-HOW_TO_USE_GROK.md
-QUICKSTART.md
-UPDATE_*.md
+# IDE
+.vscode/
+.idea/
 
-# Agent 系統（內部用）
-agents/
-
-# 其他
+# OS
 .DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.bak
+*.backup
+*-backup-*.json
+
+# Node (if any)
 node_modules/
-.env
+package-lock.json
+
+# Keep data files
+!venues-all-cities.json
