@@ -3620,37 +3620,6 @@
     "roomType": "體育館"
   },
   {
-    "id": 1110,
-    "name": "國際會議中心(TICC)",
-    "roomName": "201會議室",
-    "venueType": "會議中心",
-    "city": "台北市",
-    "address": "台北市信義區信義路五段1號",
-    "contactPerson": "場地租借",
-    "contactPhone": "02-2725-5200",
-    "contactEmail": "venue@ticc.com.tw",
-    "priceHalfDay": 15000,
-    "priceFullDay": 28000,
-    "maxCapacityTheater": 200,
-    "maxCapacityClassroom": 120,
-    "availableTimeWeekday": "08:00-22:00",
-    "availableTimeWeekend": "08:00-22:00",
-    "equipment": "專業投影設備、音響",
-    "images": {
-      "main": "",
-      "gallery": [],
-      "floorPlan": "",
-      "needsUpdate": true,
-      "note": "待補充真實照片網址",
-      "lastUpdated": "2026-03-01"
-    },
-    "url": "https://www.ticc.com.tw",
-    "verified": true,
-    "verifiedAt": "2026-02-27",
-    "status": "上架",
-    "roomType": "會議中心"
-  },
-  {
     "id": 1111,
     "name": "圓山花博公園流行館",
     "roomName": "全館",
@@ -14790,7 +14759,7 @@
     "contactPerson": "場地預約",
     "contactPhone": "02-2725-5200",
     "contactEmail": "ticc@taitra.org.tw",
-    "priceHalfDay": 159000,
+    "priceHalfDay": 112000,
     "priceFullDay": 318000,
     "maxCapacityTheater": 3100,
     "maxCapacityClassroom": null,
@@ -14816,7 +14785,8 @@
     "dimensions": null,
     "pricingWeekend": 170000,
     "pricingExhibition": null,
-    "capacityHorseshoe": null
+    "capacityHorseshoe": null,
+    "area": "2973 平方公尺"
   },
   {
     "id": 1442,
@@ -14829,7 +14799,7 @@
     "contactPerson": "場地預約",
     "contactPhone": "02-2725-5200",
     "contactEmail": "ticc@taitra.org.tw",
-    "priceHalfDay": null,
+    "priceHalfDay": 112000,
     "priceFullDay": 0,
     "maxCapacityTheater": 1208,
     "maxCapacityClassroom": null,
