@@ -1,0 +1,66 @@
+{
+  "project": "台灣活動場地資料庫",
+  "version": "2.0",
+  "lastUpdated": "2026-02-26T08:22:00+08:00",
+  
+  "agents": {
+    "orchestrator": {
+      "name": "Orchestrator",
+      "nameZh": "總管",
+      "model": "zai/glm-5",
+      "emoji": "🎯",
+      "mention": "@Orchestrator",
+      "workspace": "/root/.openclaw/workspace/taiwan-venues/agents/orchestrator/",
+      "status": "active",
+      "responsibilities": ["任務分派", "進度追蹤", "每日報告", "資料同步"]
+    },
+    "marketing-research": {
+      "name": "MarketingResearch",
+      "nameZh": "行銷研究",
+      "model": "zai/glm-5",
+      "emoji": "📈",
+      "mention": "@MarketingResearch",
+      "workspace": "/root/.openclaw/workspace/taiwan-venues/agents/marketing-research/",
+      "status": "active",
+      "responsibilities": ["市場研究", "場地發掘", "行銷文案", "SEO優化", "業務推廣"]
+    },
+    "project-manager": {
+      "name": "ProjectManager",
+      "nameZh": "專案管理",
+      "model": "zai/glm-5",
+      "emoji": "📋",
+      "mention": "@ProjectManager",
+      "workspace": "/root/.openclaw/workspace/taiwan-venues/agents/project-manager/",
+      "status": "active",
+      "responsibilities": ["資料品質", "任務看板", "收集排程", "進度追蹤", "聯絡驗證"]
+    },
+    "dev": {
+      "name": "Dev",
+      "nameZh": "程式開發",
+      "model": "zai/glm-5",
+      "emoji": "💻",
+      "mention": "@Dev",
+      "workspace": "/root/.openclaw/workspace/taiwan-venues/agents/dev/",
+      "status": "active",
+      "responsibilities": ["網頁維護", "CSV匯入", "GitHub部署", "API開發", "爬蟲開發"]
+    }
+  },
+  
+  "sharedWorkspace": "/root/.openclaw/workspace/taiwan-venues/",
+  
+  "schedule": {
+    "dailyReport": "22:00",
+    "dataQualityCheck": "09:00",
+    "venueCollection": "每週一",
+    "deploymentSync": "資料更新時"
+  },
+  
+  "dataStatus": {
+    "totalVenues": 15,
+    "cities": {
+      "台北市": 12,
+      "新北市": 3
+    },
+    "lastUpdate": "2026-02-26"
+  }
+}

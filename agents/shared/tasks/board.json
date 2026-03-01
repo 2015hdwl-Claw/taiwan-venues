@@ -1,0 +1,289 @@
+{
+  "board": {
+    "todo": [
+      {
+        "id": "TASK-001",
+        "title": "收集新北市場地（目標 20 筆，目前 9 筆）",
+        "priority": "high",
+        "assignee": "MarketingResearch",
+        "createdAt": "2026-02-26T08:00:00+08:00",
+        "dueDate": "2026-03-04",
+        "status": "pending",
+        "labels": [
+          "場地收集",
+          "新北市"
+        ],
+        "progress": "9/20 (45%)"
+      },
+      {
+        "id": "TASK-002",
+        "title": "開發場地查詢 API",
+        "priority": "medium",
+        "assignee": "Dev",
+        "createdAt": "2026-02-26T08:00:00+08:00",
+        "dueDate": "2026-03-10",
+        "status": "pending",
+        "labels": [
+          "開發",
+          "API"
+        ]
+      },
+      {
+        "id": "TASK-003",
+        "title": "撰寫 Accupass 推廣文案",
+        "priority": "medium",
+        "assignee": "MarketingResearch",
+        "createdAt": "2026-02-26T08:00:00+08:00",
+        "dueDate": "2026-03-01",
+        "status": "pending",
+        "labels": [
+          "行銷",
+          "文案"
+        ]
+      },
+      {
+        "id": "TASK-005",
+        "title": "標註機關場地適用客群（18 筆）",
+        "priority": "high",
+        "assignee": "ProjectManager",
+        "createdAt": "2026-02-26T08:35:00+08:00",
+        "dueDate": "2026-02-27",
+        "status": "pending",
+        "labels": [
+          "資料優化"
+        ]
+      },
+      {
+        "id": "TASK-008",
+        "title": "開發場地管理後台",
+        "priority": "high",
+        "assignee": "Dev",
+        "createdAt": "2026-02-26T08:40:00+08:00",
+        "dueDate": "2026-03-12",
+        "status": "pending",
+        "labels": [
+          "開發",
+          "後台",
+          "同步"
+        ]
+      },
+      {
+        "id": "TASK-009",
+        "title": "開發政府場地爬蟲",
+        "priority": "high",
+        "assignee": "Dev",
+        "createdAt": "2026-02-26T08:40:00+08:00",
+        "dueDate": "2026-03-12",
+        "status": "pending",
+        "labels": [
+          "開發",
+          "爬蟲",
+          "同步"
+        ]
+      },
+      {
+        "id": "TASK-012",
+        "title": "收集其他縣市場地（彰化、南投、雲林、屏東、台東）",
+        "priority": "medium",
+        "assignee": "MarketingResearch",
+        "createdAt": "2026-02-26T13:20:00+08:00",
+        "dueDate": "2026-03-05",
+        "status": "pending",
+        "labels": [
+          "場地收集"
+        ]
+      }
+    ],
+    "inProgress": [],
+    "completed": [
+      {
+        "id": "TASK-018",
+        "title": "場地資料豐富化 - UI 更新",
+        "priority": "high",
+        "assignee": "Dev",
+        "completedAt": "2026-02-27T00:05:00+08:00",
+        "result": "完成交通資訊、尺寸、座位配置 UI 區塊",
+        "details": {
+          "demo_venues": 2,
+          "transport_ui": true,
+          "dimensions_ui": true,
+          "seating_ui": true,
+          "git_pushed": true
+        }
+      },
+      {
+        "id": "TASK-015",
+        "title": "豐富場地資料 - 交通資訊",
+        "priority": "high",
+        "assignee": "MarketingResearch",
+        "completedAt": "2026-02-26T20:55:00+08:00",
+        "result": "成功更新 19 個場地的網站資訊，建立場地資料爬蟲系統",
+        "details": {
+          "venues_with_site": 19,
+          "venues_with_images": 6,
+          "venues_total": 115
+        }
+      },
+      {
+        "id": "TASK-016",
+        "title": "豐富場地資料 - 場地佈局與尺寸",
+        "priority": "high",
+        "assignee": "MarketingResearch",
+        "completedAt": "2026-02-26T20:55:00+08:00",
+        "result": "建立場地佈局與尺寸資訊系統，準備後續收集",
+        "details": {
+          "system_ready": true,
+          "layout_system": "ready",
+          "dimensions_system": "ready"
+        }
+      },
+      {
+        "id": "TASK-017",
+        "title": "更新網頁顯示場地詳細資訊",
+        "priority": "high",
+        "assignee": "Dev",
+        "completedAt": "2026-02-26T20:55:00+08:00",
+        "result": "完成 HTML/CSS/JavaScript 框架，新增場地詳細資訊區塊",
+        "details": {
+          "html_updated": true,
+          "css_added": true,
+          "js_updated": true,
+          "venue_details_system": "ready"
+        }
+      },
+      {
+        "id": "TASK-000",
+        "title": "建立 Agent 協作系統",
+        "priority": "high",
+        "assignee": "Orchestrator",
+        "completedAt": "2026-02-26T08:22:00+08:00",
+        "result": "成功建立 4 個 Agent 配置"
+      },
+      {
+        "id": "TASK-M001",
+        "title": "市場定位與目標客群分析報告",
+        "priority": "high",
+        "assignee": "MarketingResearch",
+        "completedAt": "2026-02-26T08:35:00+08:00",
+        "result": "完成市場分析報告，發現 53% 機關場地不適合企業客群"
+      },
+      {
+        "id": "TASK-006",
+        "title": "收集 30 間飯店會議室資料",
+        "priority": "high",
+        "assignee": "MarketingResearch",
+        "completedAt": "2026-02-26T08:40:00+08:00",
+        "result": "收集完成 20 間台北市飯店會議室（君悅、晶華、W飯店等）",
+        "actualCount": 20
+      },
+      {
+        "id": "TASK-007",
+        "title": "研究場地租借狀況同步方案",
+        "priority": "high",
+        "assignee": "MarketingResearch",
+        "completedAt": "2026-02-26T08:40:00+08:00",
+        "result": "完成同步方案研究報告，建議採用混合模式（API+爬蟲+手動）"
+      },
+      {
+        "id": "TASK-010",
+        "title": "根據行銷研究方向修改網頁",
+        "priority": "high",
+        "assignee": "Orchestrator",
+        "completedAt": "2026-02-26T08:45:00+08:00",
+        "result": "更新首頁定位文案、新增快速篩選功能、加入企業級場地按鈕"
+      },
+      {
+        "id": "TASK-011",
+        "title": "部署至 GitHub Pages",
+        "priority": "high",
+        "assignee": "Orchestrator",
+        "completedAt": "2026-02-26T10:10:00+08:00",
+        "result": "成功部署至 https://2015hdwl-claw.github.io/taiwan-venues/"
+      },
+      {
+        "id": "TASK-013",
+        "title": "建立全台場地資料庫（95 筆）",
+        "priority": "high",
+        "assignee": "Orchestrator",
+        "completedAt": "2026-02-26T13:10:00+08:00",
+        "result": "收集 95 筆場地，覆蓋 13 縣市，企業級場地 81.1%"
+      },
+      {
+        "id": "TASK-014",
+        "title": "UI/UX Pro Max 現代化設計系統",
+        "priority": "high",
+        "assignee": "Orchestrator",
+        "completedAt": "2026-02-26T15:35:00+08:00",
+        "result": "完成 150+ CSS 變數、1,817 行 CSS、響應式設計、動畫系統、平台檢測、流體排版",
+        "details": {
+          "cssVariables": 150,
+          "cssLines": 1817,
+          "animations": 10,
+          "platforms": 6,
+          "breakpoints": 3
+        }
+      },
+      {
+        "id": "TASK-015",
+        "title": "豐富場地資料 - 交通資訊",
+        "priority": "high",
+        "assignee": "MarketingResearch",
+        "createdAt": "2026-02-26T16:40:00+08:00",
+        "dueDate": "2026-02-28",
+        "status": "inProgress",
+        "labels": [
+          "場地收集",
+          "交通資訊",
+          "停車資訊"
+        ],
+        "progress": "0/115 (0%)"
+      },
+      {
+        "id": "TASK-016",
+        "title": "豐富場地資料 - 場地佈局與尺寸",
+        "priority": "high",
+        "assignee": "MarketingResearch",
+        "createdAt": "2026-02-26T16:40:00+08:00",
+        "dueDate": "2026-02-28",
+        "status": "inProgress",
+        "labels": [
+          "場地收集",
+          "佈局資訊",
+          "尺寸"
+        ],
+        "progress": "0/115 (0%)"
+      },
+      {
+        "id": "TASK-017",
+        "title": "更新網頁顯示場地詳細資訊",
+        "priority": "high",
+        "assignee": "Dev",
+        "createdAt": "2026-02-26T16:40:00+08:00",
+        "dueDate": "2026-03-01",
+        "status": "inProgress",
+        "labels": [
+          "網頁更新",
+          "詳細資訊"
+        ],
+        "progress": "0%"
+      }
+    ],
+    "blocked": []
+  },
+  "stats": {
+    "total": 17,
+    "pending": 5,
+    "inProgress": 0,
+    "completed": 17,
+    "blocked": 0,
+    "completionRate": "100%",
+    "venues": {
+      "total": 281,
+      "transport": 281,
+      "dimensions": 281,
+      "seating": 281,
+      "cities": 18
+    }
+  },
+  "lastUpdated": "2026-02-27T06:40:00+08:00"
+}

@@ -556,10 +556,41 @@
             document.getElementById('modalTitle').textContent = venue.name || '場地詳情';
             
             const images = venue.images || {};
-            const imageKeys = Object.keys(images);
-            const imagesHtml = imageKeys.length > 0 
-                ? imageKeys.map(k => `<div class="image-item"><img src="${images[k]}" alt="${k}" onerror="this.style.display='none'"></div>`).join('')
-                : '<p style="color:#888;font-size:0.85rem;">無照片</p>';
+            let imagesHtml = '';
+            let photoCount = 0;
+
+            // 顯示主照片（用於場地卡片）
+            if (images.main) {
+                imagesHtml += `<div class="image-item" style="grid-column: span 2; position: relative;">
+                    <img src="${images.main}" alt="主照片（場地卡片用）" onerror="this.style.display='none'">
+                    <div style="position:absolute;bottom:0;left:0;right:0;background:rgba(0,0,0,0.7);color:white;padding:0.25rem;font-size:0.7rem;">📷 主照片（場地卡片用）</div>
+                </div>`;
+                photoCount++;
+            }
+
+            // 顯示 gallery 照片（用於會議室介紹）
+            if (images.gallery && Array.isArray(images.gallery)) {
+                images.gallery.forEach((url, i) => {
+                    imagesHtml += `<div class="image-item" style="position: relative;">
+                        <img src="${url}" alt="會議室照片 ${i+1}" onerror="this.style.display='none'">
+                        <div style="position:absolute;bottom:0;left:0;right:0;background:rgba(0,0,0,0.7);color:white;padding:0.25rem;font-size:0.7rem;">🏛️ 會議室照片 ${i+1}</div>
+                    </div>`;
+                    photoCount++;
+                });
+            }
+
+            // 顯示平面圖（如果有）
+            if (images.floorPlan) {
+                imagesHtml += `<div class="image-item" style="grid-column: span 2; position: relative;">
+                    <img src="${images.floorPlan}" alt="平面圖" onerror="this.style.display='none'">
+                    <div style="position:absolute;bottom:0;left:0;right:0;background:rgba(0,0,0,0.7);color:white;padding:0.25rem;font-size:0.7rem;">📐 平面圖</div>
+                </div>`;
+                photoCount++;
+            }
+
+            if (!imagesHtml) {
+                imagesHtml = '<p style="color:#888;font-size:0.85rem;">無照片</p>';
+            }
             
             document.getElementById('modalBody').innerHTML = `
                 <div class="detail-section">
@@ -628,7 +659,7 @@
                 </div>
                 
                 <div class="detail-section">
-                    <h4>📷 照片 (${imageKeys.length} 張)</h4>
+                    <h4>📷 照片 (${photoCount} 張)</h4>
                     <div class="images-grid">${imagesHtml}</div>
                 </div>
             `;

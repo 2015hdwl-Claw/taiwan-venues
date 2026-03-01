@@ -1,0 +1,2778 @@
+[
+  {
+    "name": "南投九族文化村(Formosan)",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "南投涵碧樓大飯店",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "南投溪頭妖怪主題飯店",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "南投溪頭米堤大飯店",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "南投縣立體育場",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "台中中港大飯店",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "台中全国大飯店",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "台中全國大飯店(National)",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "台中國家歌劇院",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "台中市(TCCG)世貿中心",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "台中市(TCCG)立體育館",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "台中文心森林公園圓滿戶外劇場",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "台中日月千禧酒店(Millennium)",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "台中日航酒店",
+    "rooms": 2,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "台中林酒店(TheLin)",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "台中永豐棧酒店",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "台中港區藝術中心",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "台中福華大飯店(HowardTaichung)",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "台中裕元花園酒店(Windsor)",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "台中誠品生活480",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "台中通豪大飯店(TongHao)",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "台中金典婚宴會館",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "台中金典酒店(SplendorTaichung)",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "台中長榮桂冠酒店(EvergreenLaurel)",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "台中麒麟大飯店",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "東海大學(Tunghai)茂榜廳",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "林酒店",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "統一渡假村(UniResort)-谷關",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "逢甲大學(FCU)中科校區",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "CAMA咖啡",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "CLBC大安商務中心",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "Goodmans咖啡廳",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "NUZONE展演空間",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "Regus商務中心",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "Simple Kaffa",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "TCCC台灣文創訓練中心",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "The Executive Centre",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "WeWork共享空間",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "W飯店台北",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "兄弟大飯店",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "公務人力發展學院",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "六福萬怡酒店",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "典藏咖啡廳",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "北科大創新育成中心",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "南港展覽館",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "台北W飯店(WTaipei)",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "台北一樂園大飯店",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "台北世貿中心(TWTC)展覽大樓",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "台北丹迪旅店",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "台北亞都麗緻大飯店(LandisTaipei)",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "台北京站酒店",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "台北兄弟大飯店(BrotherTaipei)",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "台北八方美學商旅",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "台北六福客棧(Leofoo)",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "台北六福萬怡酒店",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "台北典華",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "台北北投會館",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "台北友春大飯店",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "台北君品酒店(PalaisdeChine)",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "台北君悅酒店(GrandHyattTaipei)",
+    "rooms": 4,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "台北唯客樂文旅",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "台北商務會館",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "台北喜來登大飯店(SheratonTaipei)",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "台北喜瑞飯店",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "台北國賓大飯店(AmbassadorTaipei)",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "台北國際會議中心(TICC)",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "台北國際會議中心(TICC)TICC",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "台北圓山大飯店",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "台北姿美大飯店",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "台北威斯汀六福皇宮(Westin)",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "台北寒舍喜來登大飯店",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "台北寒舍艾美酒店(LeMeridienTaipei)",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "台北寒舍艾麗酒店(HummerHouse)",
+    "rooms": 2,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "台北小巨蛋(TPEArena)",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "台北康華大飯店",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "台北德立莊酒店",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "台北怡亨酒店",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "台北意舍酒店(CitizenM)",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "台北慶泰大飯店",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "台北文華東方酒店(MOHTaipei)",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "台北晶華酒店(RegentTaipei)",
+    "rooms": 2,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "台北松意酒店",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "台北洛碁大飯店",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "台北王朝大酒店",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "台北神旺大飯店(SanWantTaipei)",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "台北第一大飯店",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "台北第一酒店(FirstHotel)",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "台北統一大飯店",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "台北美福大飯店",
+    "rooms": 2,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "台北老爺大酒店(RoyalInnTaipei)",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "台北艾美酒店",
+    "rooms": 2,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "台北花園大酒店(TGHotel)",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "台北華國大飯店(ImperialTaipei)",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "台北華泰瑞舍",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "台北萬豪酒店(MarriottTaipei)",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "台北西華飯店(SherwoodTaipei)",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "台北陽明山中國麗緻大飯店",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "台北香格里拉遠東國際大飯店",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "台北體育館",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "台大校友會館",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "台大綜合體育館",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "國際會議中心(TICC)",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "圓山花博公園流行館",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "天母體育館",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "寒舍艾美酒店",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "師大進修推廣學院",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "張榮發基金會國際會議中心",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "彭園婚宴會館",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "復興美學共享空間",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "政大公企中心",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "文華東方婚宴會館",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "社會創新實驗中心",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "神旺大飯店",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "維多麗亞酒店",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "花博公園爭艷館",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "花園大酒店",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "華山1914文化創意產業園區(Huashan1914)",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "豪景大酒店",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "貳樓餐廳",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "集思台大會議中心",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "青青婚宴會館",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "香格里拉台北遠東國際大飯店",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "台南劍橋大飯店",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "台南和逸飯店",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "台南大億麗緻酒店(TainanRegent)",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "台南天下大飯店",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "台南太子大飯店",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "台南奇美博物館",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "台南市立體育館",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "台南成大會館",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "台南桂田酒店(GueiLinTainan)",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "台南維悅婚宴會館",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "台南維悅酒店(WeYue)",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "台南老爺行旅(RoyalTainan)",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "台南遠東香格里拉",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "台南香格里拉遠東",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "台南香格里拉遠東國際大飯店(ShangriLaTainan)",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "大億國際會議中心",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "大億麗緻酒店",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "大台南會展中心",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "成大國際會議中心",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "台東娜路彎大酒店(Narowan)",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "台東知本老爺酒店(RoyalChihpen)",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "台東縣立體育館",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "台東豐泰大飯店",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "綠島朝日溫泉度假村",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "蘭嶼別館",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "嘉義兆品酒店",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "嘉義市立博物館",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "嘉義耐斯王子大飯店",
+    "rooms": 2,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "嘉義鈺通大飯店",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "嘉義中正大學(CCU)",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "嘉義縣立體育館",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "嘉義長榮文苑酒店",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "基隆華國大飯店",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "基隆長榮桂冠酒店",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "傳藝老爺行旅",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "宜蘭傳藝中心(NCFTAIlan)",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "宜蘭傳藝老爺行旅",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "宜蘭力麗威斯汀度假酒店",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "宜蘭晶英酒店(SilksPlaceYilan)",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "宜蘭礁溪老爺酒店(RoyalJiaoxi)",
+    "rooms": 2,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "宜蘭縣立體育館",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "宜蘭蘭城晶英酒店(SilksPlaceYilanCity)",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "宜蘭長榮鳳凰酒店",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "墾丁凱撒大飯店(CaesarPark)",
+    "rooms": 2,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "墾丁夏都沙灘酒店(ChateauBeach)",
+    "rooms": 2,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "墾丁悠活渡假村(YoHo)",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "墾丁福華渡假飯店(HowardKenting)",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "小墾丁渡假村",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "小琉球大飯店",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "屏東墾丁凱撒大飯店(CaesarPark)",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "屏東墾丁夏都沙灘酒店(ChateauBeach)",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "屏東墾丁悠活渡假村(YoHo)",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "屏東墾丁福華渡假飯店(HowardKenting)",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "屏東縣立體育館",
+    "rooms": 2,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "統一渡假村(UniResort)-墾丁",
+    "rooms": 2,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "華泰瑞苑墾丁賓館",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "彰化大葉大學",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "彰化建國科技大學",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "彰化桂冠歐悅酒店",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "彰化秀傳紀念醫院",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "彰化縣立文化局",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "彰化縣立體育館",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "彰化鹿港茂迪太陽能會館",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "典華旗艦店",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "台北淡水將捷金鬱金香酒店",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "台北淡水承億酒店",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "新北三重福朋喜來登酒店",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "新北三重綜合運動場",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "新北三重金陵婚宴會館",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "新北中和福朋喜來登",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "新北土城日月光國際會議中心",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "新北市板橋體育館",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "新北新莊晶冠廣場",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "新北新莊體育館",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "新北板橋凱撒大飯店(CaesarParkBanqiao)",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "新北板橋凱薩帝苑婚宴會館",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "新北板橋瀚品酒店",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "新北海天地大飯店",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "新北淡水文化園區",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "新北福容大飯店(Fullon)淡水漁人碼頭",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "新北萬里翡翠灣福華渡假飯店",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "新板希爾頓酒店",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "新板民生婚宴會館",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "板橋435藝文特區",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "板橋凱撒大飯店(CaesarParkBanqiao)",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "林口福容婚宴會館",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "淡水漁人舞台",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "淡水紅毛城古蹟園區",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "福容大飯店(Fullon)-淡水漁人碼頭",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "福容大飯店(Fullon)淡水漁人碼頭",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "交通大學國際會議廳",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "新竹喜來登大飯店",
+    "rooms": 2,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "新竹國賓大飯店",
+    "rooms": 2,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "新竹市文化局",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "新竹市立演藝廳",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "新竹煙波大飯店",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "新竹玻璃工藝博物館",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "新竹生活美學館",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "清華大學(NTHU)國際會議廳",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "煙波大飯店新竹湖濱館",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "新竹喜來登飯店",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "新竹縣體育場",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "新竹豐邑喜來登大飯店",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "統一渡假村(UniResort)-馬武督",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "麻布山林",
+    "rooms": 2,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "中央大學文學院",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "尊爵天際大飯店",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "桃園中壢藝術館",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "桃園假日酒店",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "桃園千葉婚宴會館",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "桃園南方莊園度假飯店",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "桃園古華花園飯店",
+    "rooms": 2,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "桃園喜來登酒店",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "桃園大園國際會議中心",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "桃園大溪威斯汀度假酒店",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "桃園尊爵大飯店",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "桃園尊爵天際大飯店",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "桃園會展中心",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "桃園藝文廣場",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "桃園諾富特華航酒店",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "澎湖澄舍會館",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "澎湖福朋喜來登酒店",
+    "rooms": 2,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "澎湖縣立體育館",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "花蓮太魯閣晶英酒店",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "花蓮理想大地度假酒店",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "花蓮理想大地渡假飯店",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "花蓮縣立體育館",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "花蓮美侖大飯店",
+    "rooms": 2,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "花蓮翰品酒店",
+    "rooms": 2,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "花蓮遠雄悅來大飯店",
+    "rooms": 2,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "苗栗尚順君樂大飯店",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "苗栗文化局中正堂",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "苗栗縣立體育場",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "苗栗西湖渡假村",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "苗栗香格里拉樂園",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "連江縣立體育館",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "馬祖北竿芹壁民宿村",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "馬祖南竿福沃大飯店",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "馬祖日光海岸海景旅店",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "金門縣立體育館",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "金門金湖飯店",
+    "rooms": 2,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "雲林劍湖山王子大飯店",
+    "rooms": 2,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "雲林縣立體育館",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "雲林虎尾科技大學",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "夢時代購物中心",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "大東文化藝術中心",
+    "rooms": 2,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "新天地婚宴會館",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "義大天悅飯店",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "義大皇家酒店",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "駁二藝術特區",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "高雄人承大飯店",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "高雄國賓大飯店",
+    "rooms": 2,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "高雄城市商旅(CityInn)",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "高雄寒軒國際大飯店(HanHsien)",
+    "rooms": 2,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "高雄展覽館(KEC)",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "高雄巨蛋",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "高雄市立社會教育館",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "高雄市立美術館(KMFA)",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "高雄市立體育館",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "高雄承億酒店",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "高雄捷絲旅酒店",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "高雄比歐緻飯店",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "高雄洲際酒店",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "高雄漢來大飯店(GrandHiLaHotel)",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "高雄福華大飯店(HowardKaohsiung)",
+    "rooms": 2,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "高雄科學工藝博物館",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "高雄秝芯旅館",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "高雄義大皇冠假日酒店",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "高雄義大皇家酒店(EdaRoyal)",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "高雄翰品酒店(ChamChamKaohsiung)",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "高雄翰皇酒店",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "高雄翰苑酒店",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "高雄英迪格酒店",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "高雄華王大飯店(KingChina)",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "南投埔里鎮立圖書館",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "南投清境農場國民賓館",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "南投竹山紫南宮",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "南投縣立文化中心",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "台中市(TCCG)政府",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "台中市(TCCG)立圖書館",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "中正紀念堂(CKSMH)",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "台北中山運動中心",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "台北信義運動中心",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "台北內湖運動中心",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "國父紀念館(SYSMH)",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "客家藝文活動中心",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "朱崙區民活動中心",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "松江區民活動中心",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "林森三區民活動中心",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "台南南門勞工育樂中心",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "台南市政府(TNG)",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "台南市政府(TNG)永華中心",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "台南市立文化中心",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "台東縣政府文化處",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "嘉義市政府(CYCG)",
+    "rooms": 2,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "嘉義縣政府",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "基隆市政府(KLCG)",
+    "rooms": 2,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "基隆市文化中心",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "宜蘭縣政府",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "宜蘭縣政府文化局",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "宜蘭縣文化中心",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "屏東縣政府文化處",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "彰化鹿港天后宮",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "新北三峽老街活動中心",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "新北土城承天禪寺",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "新北市公有場地",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "新北市政府(NTC)",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "鶯歌陶瓷博物館",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "新竹市政府(HCG)",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "新竹科學園區活動中心",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "新竹縣政府",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "新竹縣政府文化局",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "中原大學(CYCU)活動中心",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "桃園孔廟暨忠烈祠",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "桃園市政府(TYCG)",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "花蓮縣政府",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "花蓮縣文化局",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "苗栗通霄拱天宮",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "苗栗頭份鎮民活動中心",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "金門金城鎮公所",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "雲林斗六市立圖書館",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "雲林縣文化中心",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "衛武營國家藝術文化中心",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "高雄市立圖書館總館",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  },
+  {
+    "name": "高雄衛武營國家藝術文化中心",
+    "rooms": 1,
+    "hasMainPhoto": true,
+    "galleryPhotos": 0,
+    "needsRooms": false,
+    "needsPhotos": true
+  }
+]
