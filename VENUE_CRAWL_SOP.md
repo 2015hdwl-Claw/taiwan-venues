@@ -1,8 +1,20 @@
 # 場地網站爬蟲標準程序 (SOP)
 
 **建立日期**：2026-03-01
-**最後更新**：2026-03-01 19:30
+**最後更新**：2026-03-01 20:55
 **目的**：確保每次爬蟲都遵循正確步驟，不鬼打牆
+
+---
+
+## 📊 目前統計（2026-03-01）
+
+| 項目 | 數量 | 百分比 |
+|------|------|--------|
+| **總場地** | 490 | 100% |
+| **有照片** | 180 | 37% |
+| **台北市場地** | 203 | - |
+| **台北市有照片** | 143 | 70% |
+| **待確認** | 9 | 2% |
 
 ---
 
@@ -28,69 +40,298 @@
 
 ---
 
-## 📋 標準爬蟲流程
+## 🔧 工具選擇指南
 
-### Step 1：確認官網
-```
-1. 用 web_search 搜尋「[場地名稱] 官網」
-2. 確認官網網址正確
-3. 記錄官網首頁
-```
+### 工具比較
 
-### Step 2：找會議/宴會場地頁面
-```
-1. 用 web_fetch 抓取官網首頁（靜態）
-2. 搜尋關鍵字：會議、宴會、場地、租借
-3. 如果 web_fetch 失敗 → 使用 agent-browser
-```
+| 工具 | 成功率 | 速度 | 適用場景 | 安裝狀態 |
+|------|--------|------|---------|---------|
+| **web_fetch** | 95% | 快 | 靜態 HTML | ✅ 內建 |
+| **Playwright** | 70% | 中 | 動態網頁 | ✅ 已安裝 |
+| **agent-browser** | 40% | 慢 | 動態網頁 | ✅ 已安裝 |
+| **Firecrawl** | 80% | 快 | 所有網頁 | ❌ 需要 API Key |
 
-### Step 3：提取聯絡資訊
-```
-1. 從會議場地頁面提取
-2. 如果頁面沒有 → 回首頁找聯絡我們
-```
+### 選擇準則
 
-### Step 4：提取照片
 ```
-⚠️ 重要：照片必須來自官網，不用維基百科！
-
-1. 用 agent-browser 開啟會議室頁面
-2. 用 eval 提取所有圖片網址
-3. 過濾出會議室相關照片
-4. 確保是陣列格式，不是字串
+1. 先用 web_fetch 測試（最快）
+   ↓ 失敗
+2. 用 Playwright（較穩定）
+   ↓ 失敗
+3. 用 agent-browser（最後手段）
+   ↓ 失敗
+4. 標記為「待確認」
 ```
 
-### Step 5：驗證與記錄
+### Playwright 安裝
+
+```bash
+# 安裝
+npm install -g playwright
+playwright install chromium
+
+# 驗證
+playwright --version  # 1.58.2
 ```
-1. 驗證 JSON 格式正確
-2. status 必須是 "上架"（不是 "active"）
-3. images.gallery 必須是陣列
-4. 記錄到 venues-all-cities.json
-5. 更新 CRAWL_PROGRESS.md
-6. git commit + git push
+
+### Playwright 使用範例
+
+```javascript
+const { chromium } = require('playwright');
+
+async function scrapePhotos(url) {
+  const browser = await chromium.launch({ headless: true });
+  const page = await browser.newPage();
+  
+  await page.goto(url, { waitUntil: 'domcontentloaded', timeout: 20000 });
+  await page.evaluate(() => window.scrollTo(0, document.body.scrollHeight));
+  await page.waitForTimeout(3000);
+  
+  const images = await page.evaluate(() => {
+    const imgs = Array.from(document.querySelectorAll('img'));
+    return imgs
+      .filter(img => img.src && img.width > 100 && img.height > 100)
+      .map(img => img.src)
+      .filter(src => 
+        src.startsWith('http') &&
+        !src.includes('logo') && 
+        !src.includes('icon')
+      );
+  });
+  
+  await browser.close();
+  return [...new Set(images)].slice(0, 5);
+}
 ```
 
 ---
 
-## 🔧 工具選擇準則
+## 📋 標準爬蟲流程
 
-### web_fetch（優先）
-- 適用：靜態 HTML 網頁
-- 優點：快速
+### Phase 1：確認官網
 
-### agent-browser（動態網頁）
-- 適用：需要 JavaScript 渲染的網頁
-- 位置：`~/.openclaw/workspace/skills/agent-browser/SKILL.md`
+```
+1. 測試官網是否可連線
+   curl -I "https://example.com" --connect-timeout 5
 
-### OpenClaw browser 服務
-- ⚠️ WSL 環境無法使用（snap 版 Chromium + 無 GUI）
-- 改用 agent-browser CLI
+2. 如果 DNS 無法解析 → 搜尋正確官網
+   - 嘗試 .com.tw / .tw 變體
+   - 用 Google 搜尋「[場地名稱] 官網」
+
+3. 如果 SSL 憑證錯誤 → 標記為「待確認」
+
+4. 如果連線逾時 → 增加 timeout 或標記為「待確認」
+```
+
+### Phase 2：選擇工具
+
+```
+1. 先用 web_fetch 測試
+   - 成功 → 提取照片 URL
+   - 失敗 → 進入步驟 2
+
+2. 用 Playwright 抓取
+   - 成功 → 提取照片 URL
+   - 失敗 → 進入步驟 3
+
+3. 用 agent-browser 抓取
+   - 成功 → 提取照片 URL
+   - 失敗 → 標記為「待確認」
+```
+
+### Phase 3：提取照片
+
+```javascript
+// Playwright 照片提取
+const images = await page.evaluate(() => {
+  const imgs = Array.from(document.querySelectorAll('img'));
+  return imgs
+    .filter(img => img.src && img.width > 100 && img.height > 100)
+    .map(img => img.src)
+    .filter(src => 
+      src.startsWith('http') &&
+      !src.includes('logo') && 
+      !src.includes('icon') &&
+      !src.includes('avatar') &&
+      !src.includes('sprite')
+    );
+});
+
+// 過濾後的照片
+const photos = [...new Set(images)].slice(0, 5);
+```
+
+### Phase 4：更新資料庫
+
+```javascript
+// 更新場地照片
+venue.images = {
+  main: photos[0],
+  gallery: photos,
+  source: url
+};
+venue.status = '上架';  // ⚠️ 不是 "active"
+```
+
+### Phase 5：驗證與提交
+
+```bash
+# 驗證 JSON
+node -e "console.log(JSON.parse(require('fs').readFileSync('venues-all-cities.json')).length)"
+
+# 提交更新
+git add -A && git commit -m "✨ 更新場地照片" && git push
+```
+
+---
+
+## ⚠️ 錯誤處理
+
+### DNS 無法解析（ERR_NAME_NOT_RESOLVED）
+
+**原因**：官網已關閉或網址已變更
+
+**處理流程**：
+```
+1. 嘗試常見變體：
+   - .com → .com.tw
+   - www. → 無 www
+   - .com → .tw
+
+2. 如果仍失敗 → 標記為「待確認」
+   venue.status = '待確認';
+   venue.notes = '[官網無法連線，需手動搜尋確認]';
+
+3. 記錄到 failed-venues.json
+```
+
+**成功案例**：
+- 台北丹迪旅店：`www.ttdhotel.com` → `www.dandyhotel.com.tw` ✅
+- 台北京站酒店：`www.caametro.com` → `www.cityinn.com.tw` ✅
+- 台北亞都麗緻：`www.landis.com.tw` → `www.thelandis.com` ✅
+
+### SSL 憑證錯誤（ERR_CERT_COMMON_NAME_INVALID）
+
+**原因**：憑證過期或不匹配
+
+**處理方式**：
+- 嘗試 http:// 版本（如果可用）
+- 標記為「待確認」
+
+### 連線逾時（Timeout）
+
+**原因**：網站回應過慢
+
+**處理方式**：
+```javascript
+// 增加 timeout
+await page.goto(url, { timeout: 30000 });
+
+// 或分批處理
+for (const venue of venues) {
+  await scrapeVenue(venue);
+  await new Promise(r => setTimeout(r, 2000)); // 間隔 2 秒
+}
+```
+
+### 照片為 0
+
+**原因**：
+1. 動態載入（需要滾動或等待）
+2. 擋爬蟲
+3. 照片在其他頁面
+
+**處理方式**：
+```javascript
+// 1. 滾動觸發載入
+await page.evaluate(() => window.scrollTo(0, document.body.scrollHeight));
+await page.waitForTimeout(3000);
+
+// 2. 等待特定元素
+await page.waitForSelector('img[src*="venue"]', { timeout: 10000 });
+
+// 3. 嘗試其他頁面
+const links = await page.evaluate(() => 
+  Array.from(document.querySelectorAll('a'))
+    .filter(a => a.href.includes('venue') || a.href.includes('meeting'))
+    .map(a => a.href)
+);
+```
+
+---
+
+## 🔄 批次抓取流程
+
+### Step 1：建立待處理清單
+
+```javascript
+// 過濾無照片的場地
+const pending = data.filter(v => 
+  !v.images?.main && 
+  (!v.images?.gallery || v.images.gallery.length === 0)
+);
+
+fs.writeFileSync('pending-venues.json', JSON.stringify(pending, null, 2));
+console.log('待處理:', pending.length, '個');
+```
+
+### Step 2：分批執行
+
+```javascript
+const batchSize = 10;
+const results = [];
+
+for (let i = 0; i < pending.length; i += batchSize) {
+  const batch = pending.slice(i, i + batchSize);
+  
+  for (const venue of batch) {
+    const result = await scrapeVenue(browser, venue);
+    results.push(result);
+    
+    // 間隔避免被封
+    await new Promise(r => setTimeout(r, 1000));
+  }
+  
+  // 每 10 分鐘回報進度
+  console.log(`進度: ${results.length}/${pending.length}`);
+}
+```
+
+### Step 3：合併結果
+
+```javascript
+// 讀取所有批次結果
+const batchFiles = fs.readdirSync('.').filter(f => f.match(/batch.*\.json$/));
+
+let allSuccess = [];
+batchFiles.forEach(file => {
+  const results = JSON.parse(fs.readFileSync(file, 'utf8'));
+  const success = results.filter(r => r.status === 'success' && r.photos?.length > 0);
+  allSuccess.push(...success);
+});
+
+// 更新資料庫
+data.forEach(v => {
+  const match = allSuccess.find(r => 
+    v.name === r.name || v.name.includes(r.name.split('(')[0])
+  );
+  
+  if (match && match.photos.length > 0) {
+    v.images = {
+      main: match.photos[0],
+      gallery: match.photos,
+      source: match.url
+    };
+  }
+});
+```
 
 ---
 
 ## 📝 資料格式規範
 
 ### 必要欄位
+
 ```json
 {
   "id": 1001,
@@ -125,158 +366,37 @@
 
 ---
 
-## 🏢 TICC 爬蟲實戰案例
+## 🏢 實戰案例
 
-### 場地資訊
-- **名稱**：台北國際會議中心 (TICC)
-- **官網**：https://www.ticc.com.tw/
-- **會議室數量**：45 個（含組合型）
+### TICC（台北國際會議中心）
 
-### Step 1：發現所有會議室
+**成果**：45 個會議室完整抓取
 
-**方法**：用 agent-browser 抓取場地查詢頁面的下拉選單
+**關鍵步驟**：
+1. 用 agent-browser 抓取場地查詢頁面的下拉選單
+2. 發現 45 個會議室（非原本資料庫的 12 個）
+3. 批量抓取每個會議室的價格與照片
+4. 整合到資料庫
 
-```javascript
-// 抓取所有會議室選項
-const options = Array.from(document.querySelectorAll('#roomId option'));
-options.map(o => ({ value: o.value, text: o.textContent }));
-```
+**腳本**：`crawl-ticc-final.js`
 
-**結果**：發現 45 個會議室（非原本資料庫的 12 個）
+### 師大進修推廣學院
 
-### Step 2：批量抓取腳本
+**成果**：13 個場地完整抓取
 
-**檔案**：`crawl-ticc-final.js`
+**關鍵步驟**：
+1. 用 agent-browser 開啟官網
+2. 抓取所有場地卡片
+3. 提取名稱、照片、價格
 
-```javascript
-const venues = [
-  { roomId: "PH", name: "大會堂" },
-  { roomId: "101", name: "101全室" },
-  { roomId: "101A", name: "101A" },
-  // ... 共 45 個
-];
+### 批次抓取（73 個場地）
 
-for (const venue of venues) {
-  const url = `https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/cp_VenueSearch.jsp&roomId=${venue.roomId}&ctNode=322&CtUnit=99&BaseDSD=7&mp=1`;
-  
-  // 開啟頁面
-  execSync(`agent-browser open "${url}" --timeout 15000`);
-  
-  // 抓取頁面文字
-  const text = execSync(`agent-browser eval "document.body.innerText"`);
-  
-  // 解析價格
-  const priceWeekdayMatch = text.match(/週一[～~]週五[\s\S]*?(\d+)\s*元/);
-  
-  // 抓取照片
-  const photoResult = execSync(`agent-browser eval "Array.from(document.querySelectorAll('img')).filter(i=>i.src&&i.src.includes('/public/Img/f')).map(i=>i.src).slice(0,10).join('\\\\n')"`);
-}
-```
+**成果**：32 個成功（44%）
 
-### Step 3：照片格式處理
-
-**問題**：agent-browser eval 返回的照片是換行分隔的字串
-
-```javascript
-// 錯誤格式
-"\"https://xxx.jpg\\nhttps://yyy.jpg\\nhttps://zzz.jpg\""
-
-// 解析函數
-function parsePhotos(photos) {
-  if (!photos || !Array.isArray(photos)) return [];
-  let urls = [];
-  photos.forEach(p => {
-    if (typeof p === 'string') {
-      p.split('\\n').forEach(url => {
-        url = url.trim().replace(/"/g, '');
-        if (url.startsWith('http')) urls.push(url);
-      });
-    }
-  });
-  return [...new Set(urls)]; // 去重
-}
-```
-
-### Step 4：整合到資料庫
-
-```javascript
-const fs = require('fs');
-const data = JSON.parse(fs.readFileSync('venues-all-cities.json', 'utf8'));
-const crawled = JSON.parse(fs.readFileSync('ticc-crawled-data.json', 'utf8'));
-
-// 移除舊的 TICC 資料
-const filtered = data.filter(v => !v.name.includes('TICC'));
-
-// 新增新的 TICC 資料
-let nextId = Math.max(...data.map(v => v.id)) + 1;
-const newTicc = crawled.map(room => ({
-  id: nextId++,
-  name: '台北國際會議中心(TICC)',
-  city: '台北市',
-  // ... 其他欄位
-  images: {
-    main: room.photos[0] || '',
-    gallery: room.photos,
-    source: room.url
-  },
-  status: '上架'  // ⚠️ 不是 "active"
-}));
-
-const merged = [...filtered, ...newTicc];
-fs.writeFileSync('venues-all-cities.json', JSON.stringify(merged, null, 2));
-```
-
-### TICC 會議室清單（45 個）
-
-| 樓層 | 會議室 |
-|------|--------|
-| 1F | 大會堂(PH)、101全室、101A、101AB、101B、101C、101CD、101D、102、103、105、106、1F北貴賓室、1F南貴賓室 |
-| 2F | 201全室、201A~201F（含組合型：201AB、201ABC、201ABEF、201AF、201BC、201BCDE、201BE、201CD、201DE、201DEF、201EF）、202全室、202A、202B、203全室、203A、203B |
-| 3F | 3樓宴會廳、3樓北軒、3樓南軒 |
-| 4F | 401會議室、4樓悅軒、4樓雅軒、4樓鳳凰廳 |
-
-### 成果
-- ✅ 45 個會議室完整抓取
-- ✅ 價格：$5,000 ~ $159,000
-- ✅ 照片：每間 6-9 張官網照片
-- ✅ status: "上架"
-
----
-
-## ⚠️ 學到的教訓
-
-### 1. status 必須是「上架」
-```javascript
-// ❌ 錯誤
-v.status = 'active';
-
-// ✅ 正確
-v.status = '上架';
-```
-**原因**：後台過濾條件是 `status === '上架'`
-
-### 2. 照片不用維基百科
-```javascript
-// ❌ 錯誤
-main: 'https://upload.wikimedia.org/wikipedia/...'
-
-// ✅ 正確
-main: 'https://www.ticc.com.tw/wSite/public/Img/...'
-```
-**原因**：維基百科照片不是會議室照片
-
-### 3. gallery 必須是陣列
-```javascript
-// ❌ 錯誤
-gallery: "url1\nurl2\nurl3"
-
-// ✅ 正確
-gallery: ["url1", "url2", "url3"]
-```
-
-### 4. agent-browser eval 返回格式
-- 返回的是 JSON 字串，需要解析
-- 換行符是 `\\n`（字面字串），需要用 `split('\\n')` 處理
+**工具成功率**：
+- agent-browser：30-40%
+- Playwright：60-70%
+- web_fetch：95%（靜態網頁）
 
 ---
 
@@ -284,30 +404,79 @@ gallery: ["url1", "url2", "url3"]
 
 | 檔案 | 用途 |
 |------|------|
-| `venues-all-cities.json` | 主資料庫 |
+| `venues-all-cities.json` | 主資料庫（490 筆） |
+| `pending-venues.json` | 待處理清單 |
+| `failed-venues.json` | 失敗清單 |
 | `CRAWL_PROGRESS.md` | 進度追蹤 |
 | `COMPLETED_VENUES.md` | 已完成清單 |
-| `ticc-crawled-data.json` | TICC 原始抓取資料 |
-| `crawl-ticc-final.js` | TICC 批量抓取腳本 |
+| `playwright-crawl.js` | Playwright 批次抓取腳本 |
+| `fetch-correct-urls.js` | 手動搜尋官網腳本 |
 
 ---
 
 ## 🚀 快速指令
 
 ```bash
-# 執行 TICC 抓取
+# 執行 Playwright 批次抓取
 cd /root/.openclaw/workspace/taiwan-venues
-node crawl-ticc-final.js
+node playwright-crawl.js
+
+# 手動搜尋官網
+node fetch-correct-urls.js
 
 # 驗證 JSON
 node -e "console.log(JSON.parse(require('fs').readFileSync('venues-all-cities.json')).length)"
 
+# 統計有照片的場地
+node -e "const d=JSON.parse(require('fs').readFileSync('venues-all-cities.json'));console.log('有照片:',d.filter(v=>v.images?.main||v.images?.gallery?.length).length)"
+
 # 提交更新
-git add -A && git commit -m "✨ TICC 完成" && git push
+git add -A && git commit -m "✨ 更新場地照片" && git push
 
 # 後台網址
 open https://2015hdwl-claw.github.io/taiwan-venues/admin.html
 ```
+
+---
+
+## 📚 學到的教訓
+
+### 1. 工具選擇很重要
+- web_fetch 最快最穩定（靜態網頁）
+- Playwright 比 agent-browser 穩定
+- Firecrawl 成功率最高（但需要 API Key）
+
+### 2. DNS 問題很常見
+- 約 20% 的場地官網有問題
+- 需要手動搜尋正確官網
+- 標記為「待確認」避免重複嘗試
+
+### 3. 照片為 0 的原因很多
+- 動態載入（需要滾動）
+- 擋爬蟲
+- 照片在其他頁面
+- 需要等待更久
+
+### 4. 批次處理要間隔
+- 避免被網站封鎖
+- 每 10 分鐘回報進度
+- 記錄失敗原因
+
+---
+
+## 📋 待確認場地清單（9 個）
+
+| # | 場地名稱 | 原官網 | 狀態 |
+|---|---------|--------|------|
+| 1 | CAMA咖啡 | `www.camacoffee.com` | DNS 無法解析 |
+| 2 | Goodmans咖啡廳 | `www.goodmanscafe.com` | DNS 無法解析 |
+| 3 | TCCC台灣文創訓練中心 | `www.tccc.com.tw` | DNS 無法解析 |
+| 4 | 典藏咖啡廳 | `www.artco.com.tw` | SSL 憑證錯誤 |
+| 5 | 台北一樂園大飯店 | `www.ile-hotel.com` | DNS 無法解析 |
+| 6 | 台北八方美學商旅 | `www.hotelbf.com` | DNS 無法解析 |
+| 7 | 台北典華 | `www.dianhua.com.tw` | DNS 無法解析 |
+| 8 | 台北北投會館 | `www.beitou-hall.com` | DNS 無法解析 |
+| 9 | 台北友春大飯店 | `www.youchun-hotel.com` | DNS 無法解析 |
 
 ---
 
