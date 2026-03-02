@@ -1,0 +1,258 @@
+[
+  {
+    "url": "https://clbc.tw/",
+    "name": "CLBC大安商務中心",
+    "ids": [
+      1032,
+      1439,
+      1440
+    ],
+    "venueListUrl": "https://clbc.tw/clbc%E6%B4%BB%E5%8B%95%E5%A0%B4%E5%9C%B0%E7%A9%BA%E9%96%93%E7%A7%9F%E5%80%9F/",
+    "venueMainImageUrl": "https://clbc.tw/wp-content/uploads/2018/12/clbc-logo.svg",
+    "rooms": [],
+    "error": null
+  },
+  {
+    "url": "https://www.regus.com",
+    "name": "Regus商務中心",
+    "ids": [
+      1035
+    ],
+    "venueListUrl": "https://www.regus.com/en/meeting-rooms/meeting-rooms",
+    "venueMainImageUrl": "https://assets.iwgplc.com/image/upload/c_fill,f_auto,q_auto,w_768,h_257,g_auto:subject//v1754490241/WebsiteImagery/Gallery/MR_1.jpg",
+    "rooms": [],
+    "error": null
+  },
+  {
+    "url": "https://www.tccc.com.tw/",
+    "name": "TCCC台灣文創訓練中心",
+    "ids": [
+      1037
+    ],
+    "venueListUrl": null,
+    "venueMainImageUrl": null,
+    "rooms": [],
+    "error": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.tccc.com.tw/\nCall log:\n  - navigating to \"https://www.tccc.com.tw/\", waiting until \"networkidle\"\n"
+  },
+  {
+    "url": "https://www.executivecentre.com",
+    "name": "The Executive Centre",
+    "ids": [
+      1038
+    ],
+    "venueListUrl": "https://www.executivecentre.com/meeting-rooms-conference",
+    "venueMainImageUrl": null,
+    "rooms": [],
+    "error": "page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://www.executivecentre.com/meeting-rooms-conference\", waiting until \"networkidle\"\n"
+  },
+  {
+    "url": "https://www.brotherhotel.com.tw/",
+    "name": "兄弟大飯店",
+    "ids": [
+      1041
+    ],
+    "venueListUrl": "https://www.brotherhotel.com.tw/?cat=76",
+    "venueMainImageUrl": "https://www.brotherhotel.com.tw/wp-content/uploads/2022/12/%E6%A1%82%E8%8A%B1%E5%BB%B3%E5%A4%96%E5%B8%B6%E8%8F%9C%E5%96%AEfinal-0125-1-853x1280.jpg",
+    "rooms": [],
+    "error": null
+  },
+  {
+    "url": "https://www.hrd.gov.tw",
+    "name": "公務人力發展學院",
+    "ids": [
+      1042
+    ],
+    "venueListUrl": "https://www.hrd.gov.tw/1123/2127/?q=%E5%A0%B4%E5%9C%B0%E6%9F%A5%E8%A9%A2",
+    "venueMainImageUrl": null,
+    "rooms": [
+      {
+        "name": "約有 479 項結果 (搜尋時間：0.53 秒)"
+      }
+    ],
+    "error": null
+  },
+  {
+    "url": "https://www.ntut.edu.tw",
+    "name": "北科大創新育成中心",
+    "ids": [
+      1045
+    ],
+    "venueListUrl": "https://aps-staff.ntut.edu.tw/arearent/ActionServlet",
+    "venueMainImageUrl": null,
+    "rooms": [
+      {
+        "name": "*申請人"
+      },
+      {
+        "name": "*申請單位"
+      },
+      {
+        "name": "*聯絡電話"
+      },
+      {
+        "name": "*E-mail"
+      },
+      {
+        "name": "*申請時間/地點"
+      },
+      {
+        "name": "*會議活動名稱"
+      },
+      {
+        "name": "*使用人數"
+      }
+    ],
+    "error": null
+  },
+  {
+    "url": "https://www.marriott.com/en-us/hotels/tpewh-w-taipei/",
+    "name": "台北W飯店(WTaipei)",
+    "ids": [
+      1047
+    ],
+    "venueListUrl": null,
+    "venueMainImageUrl": null,
+    "rooms": [],
+    "error": "找不到會議室頁面"
+  },
+  {
+    "url": "https://taipei.landishotelsresorts.com/",
+    "name": "台北亞都麗緻大飯店(LandisTaipei)",
+    "ids": [
+      1051
+    ],
+    "venueListUrl": "https://taipei.landishotelsresorts.com/meeting-list.php",
+    "venueMainImageUrl": "https://taipei.landishotelsresorts.com/manage/upload/roomtype/1758907414_16016.jpg",
+    "rooms": [],
+    "error": null
+  },
+  {
+    "url": "https://www.brotherhotel.com.tw/?cat=75",
+    "name": "台北兄弟大飯店(BrotherTaipei)",
+    "ids": [
+      1053
+    ],
+    "venueListUrl": "https://www.brotherhotel.com.tw/?cat=76",
+    "venueMainImageUrl": "https://www.brotherhotel.com.tw/wp-content/uploads/2022/12/%E6%A1%82%E8%8A%B1%E5%BB%B3%E5%A4%96%E5%B8%B6%E8%8F%9C%E5%96%AEfinal-0125-1-853x1280.jpg",
+    "rooms": [],
+    "error": null
+  },
+  {
+    "url": "https://btresort.metro.taipei/",
+    "name": "台北北投會館",
+    "ids": [
+      1058
+    ],
+    "venueListUrl": "https://btresort.metro.taipei/Content_List.aspx?n=57F1336BE33E94C8",
+    "venueMainImageUrl": null,
+    "rooms": [],
+    "error": null
+  },
+  {
+    "url": "https://www.palaisdechinehotel.com/",
+    "name": "台北君品酒店(PalaisdeChine)",
+    "ids": [
+      1060
+    ],
+    "venueListUrl": null,
+    "venueMainImageUrl": null,
+    "rooms": [],
+    "error": "page.goto: Timeout 45000ms exceeded.\nCall log:\n  - navigating to \"https://www.palaisdechinehotel.com/\", waiting until \"networkidle\"\n"
+  },
+  {
+    "url": "https://www.hyatt.com/zh-TW/hotel/taiwan/grand-hyatt-taipei/tyoph",
+    "name": "台北君悅酒店(GrandHyattTaipei)",
+    "ids": [
+      1061
+    ],
+    "venueListUrl": null,
+    "venueMainImageUrl": null,
+    "rooms": [],
+    "error": "找不到會議室頁面"
+  },
+  {
+    "url": "http://www.tbc-group.com/",
+    "name": "台北商務會館",
+    "ids": [
+      1066
+    ],
+    "venueListUrl": null,
+    "venueMainImageUrl": null,
+    "rooms": [],
+    "error": "page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.tbc-group.com/\nCall log:\n  - navigating to \"http://www.tbc-group.com/\", waiting until \"networkidle\"\n"
+  },
+  {
+    "url": "https://www.sheratongrandtaipei.com/websev?lang=zh-tw",
+    "name": "台北喜來登大飯店(SheratonTaipei)",
+    "ids": [
+      1067,
+      1384,
+      1385,
+      1386,
+      1387
+    ],
+    "venueListUrl": "https://www.sheratongrandtaipei.com/websev?lang=zh-tw&ref=pages&cat=50",
+    "venueMainImageUrl": "https://www.sheratongrandtaipei.com/style/logo_1.png",
+    "rooms": [],
+    "error": null
+  },
+  {
+    "url": "https://www.ambiencehotel.com.tw/",
+    "name": "台北喜瑞飯店",
+    "ids": [
+      1068
+    ],
+    "venueListUrl": "https://www.ambiencehotel.com.tw/tw/rooms-t/",
+    "venueMainImageUrl": null,
+    "rooms": [],
+    "error": null
+  },
+  {
+    "url": "https://www.grand-hotel.org/",
+    "name": "台北圓山大飯店",
+    "ids": [
+      1072
+    ],
+    "venueListUrl": null,
+    "venueMainImageUrl": null,
+    "rooms": [],
+    "error": "找不到會議室頁面"
+  },
+  {
+    "url": "https://www.sheratongrandtaipei.com",
+    "name": "台北寒舍喜來登大飯店",
+    "ids": [
+      1075
+    ],
+    "venueListUrl": "https://www.sheratongrandtaipei.com/websev?lang=zh-tw&ref=pages&cat=50",
+    "venueMainImageUrl": "https://www.sheratongrandtaipei.com/style/logo_1.png",
+    "rooms": [],
+    "error": null
+  },
+  {
+    "url": "https://www.lemeridien-taipei.com",
+    "name": "台北寒舍艾美酒店(LeMeridienTaipei)",
+    "ids": [
+      1076,
+      1404,
+      1405,
+      1406,
+      1407
+    ],
+    "venueListUrl": "https://www.lemeridien-taipei.com/websev?lang=zh-tw&ref=pages&cat=43&type=0",
+    "venueMainImageUrl": null,
+    "rooms": [],
+    "error": null
+  },
+  {
+    "url": "https://www.humblehousehotels.com/",
+    "name": "台北寒舍艾麗酒店(HummerHouse)",
+    "ids": [
+      1077
+    ],
+    "venueListUrl": "https://www.humblehousehotels.com/en/websev?cat=page&id=7",
+    "venueMainImageUrl": "https://www.humblehousehotels.com/files/page_161581908711j4rck.jpg",
+    "rooms": [],
+    "error": null
+  }
+]

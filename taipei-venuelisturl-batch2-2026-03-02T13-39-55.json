@@ -1,0 +1,225 @@
+[
+  {
+    "url": "https://www.tccc.com.tw/",
+    "name": "TCCC台灣文創訓練中心",
+    "ids": [
+      1037
+    ],
+    "venueListUrl": null,
+    "venueMainImageUrl": null,
+    "rooms": [],
+    "error": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.tccc.com.tw/\nCall log:\n  - navigating to \"https://www.tccc.com.tw/\", waiting until \"networkidle\"\n"
+  },
+  {
+    "url": "https://www.marriott.com/en-us/hotels/tpewh-w-taipei/",
+    "name": "台北W飯店(WTaipei)",
+    "ids": [
+      1047
+    ],
+    "venueListUrl": null,
+    "venueMainImageUrl": null,
+    "rooms": [],
+    "error": "找不到會議室頁面"
+  },
+  {
+    "url": "https://www.palaisdechinehotel.com/",
+    "name": "台北君品酒店(PalaisdeChine)",
+    "ids": [
+      1060
+    ],
+    "venueListUrl": null,
+    "venueMainImageUrl": null,
+    "rooms": [],
+    "error": "page.goto: Timeout 45000ms exceeded.\nCall log:\n  - navigating to \"https://www.palaisdechinehotel.com/\", waiting until \"networkidle\"\n"
+  },
+  {
+    "url": "https://www.hyatt.com/zh-TW/hotel/taiwan/grand-hyatt-taipei/tyoph",
+    "name": "台北君悅酒店(GrandHyattTaipei)",
+    "ids": [
+      1061
+    ],
+    "venueListUrl": null,
+    "venueMainImageUrl": null,
+    "rooms": [],
+    "error": "找不到會議室頁面"
+  },
+  {
+    "url": "http://www.tbc-group.com/",
+    "name": "台北商務會館",
+    "ids": [
+      1066
+    ],
+    "venueListUrl": null,
+    "venueMainImageUrl": null,
+    "rooms": [],
+    "error": "page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.tbc-group.com/\nCall log:\n  - navigating to \"http://www.tbc-group.com/\", waiting until \"networkidle\"\n"
+  },
+  {
+    "url": "https://www.grand-hotel.org/",
+    "name": "台北圓山大飯店",
+    "ids": [
+      1072
+    ],
+    "venueListUrl": null,
+    "venueMainImageUrl": null,
+    "rooms": [],
+    "error": "找不到會議室頁面"
+  },
+  {
+    "url": "https://www.humblehouse.com",
+    "name": "台北寒舍艾麗酒店(HummerHouse)",
+    "ids": [
+      1078
+    ],
+    "venueListUrl": null,
+    "venueMainImageUrl": null,
+    "rooms": [],
+    "error": "找不到會議室頁面"
+  },
+  {
+    "url": "https://www.citizenm.com/hotels/asia/taipei/",
+    "name": "台北意舍酒店(CitizenM)",
+    "ids": [
+      1083
+    ],
+    "venueListUrl": null,
+    "venueMainImageUrl": null,
+    "rooms": [],
+    "error": "page.goto: Timeout 45000ms exceeded.\nCall log:\n  - navigating to \"https://www.citizenm.com/hotels/asia/taipei/\", waiting until \"networkidle\"\n"
+  },
+  {
+    "url": "https://www.regenthotels.com/tw/regent-taipei",
+    "name": "台北晶華酒店(RegentTaipei)",
+    "ids": [
+      1086
+    ],
+    "venueListUrl": null,
+    "venueMainImageUrl": null,
+    "rooms": [],
+    "error": "找不到會議室頁面"
+  },
+  {
+    "url": "https://www.marriott.com/en-us/hotels/tpemd-le-meridien-taipei/",
+    "name": "台北艾美酒店",
+    "ids": [
+      1098
+    ],
+    "venueListUrl": null,
+    "venueMainImageUrl": null,
+    "rooms": [],
+    "error": "找不到會議室頁面"
+  },
+  {
+    "url": "https://www.shangri-la.com/taipei",
+    "name": "台北香格里拉遠東國際大飯店",
+    "ids": [
+      1106
+    ],
+    "venueListUrl": null,
+    "venueMainImageUrl": null,
+    "rooms": [],
+    "error": "page.goto: Timeout 45000ms exceeded.\nCall log:\n  - navigating to \"https://www.shangri-la.com/taipei\", waiting until \"networkidle\"\n"
+  },
+  {
+    "url": "http://www.ntualumni.org.tw/",
+    "name": "台大校友會館",
+    "ids": [
+      1108
+    ],
+    "venueListUrl": null,
+    "venueMainImageUrl": null,
+    "rooms": [],
+    "error": "page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.ntualumni.org.tw/\nCall log:\n  - navigating to \"http://www.ntualumni.org.tw/\", waiting until \"networkidle\"\n"
+  },
+  {
+    "url": "https://itcc.yff.org.tw/",
+    "name": "張榮發基金會(KLCF)國際會議中心",
+    "ids": [
+      1115,
+      1436,
+      1437,
+      1438
+    ],
+    "venueListUrl": null,
+    "venueMainImageUrl": null,
+    "rooms": [],
+    "error": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://itcc.yff.org.tw/\nCall log:\n  - navigating to \"https://itcc.yff.org.tw/\", waiting until \"networkidle\"\n"
+  },
+  {
+    "url": "https://www.shangri-la.com/tc/taipei/fareasternplazashangrila/",
+    "name": "香格里拉台北遠東國際大飯店",
+    "ids": [
+      1130
+    ],
+    "venueListUrl": null,
+    "venueMainImageUrl": null,
+    "rooms": [],
+    "error": "page.goto: Timeout 45000ms exceeded.\nCall log:\n  - navigating to \"https://www.shangri-la.com/tc/taipei/fareasternplazashangrila/\", waiting until \"networkidle\"\n"
+  },
+  {
+    "url": "https://www.cksmh.gov.tw",
+    "name": "中正紀念堂(CKSMH)",
+    "ids": [
+      1333
+    ],
+    "venueListUrl": "https://event.culture.tw/mocweb/reg/CKSMH/QueryReg.init.ctr?dataVo.actKind=8",
+    "venueMainImageUrl": null,
+    "rooms": [],
+    "error": null
+  },
+  {
+    "url": "https://cssc.cyc.org.tw/",
+    "name": "台北中山運動中心",
+    "ids": [
+      1334
+    ],
+    "venueListUrl": "http://booking.tpsc.sporetrofit.com/",
+    "venueMainImageUrl": null,
+    "rooms": [],
+    "error": null
+  },
+  {
+    "url": "https://xysc.cyc.org.tw/",
+    "name": "台北信義運動中心",
+    "ids": [
+      1335
+    ],
+    "venueListUrl": null,
+    "venueMainImageUrl": null,
+    "rooms": [],
+    "error": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://xysc.cyc.org.tw/\nCall log:\n  - navigating to \"https://xysc.cyc.org.tw/\", waiting until \"networkidle\"\n"
+  },
+  {
+    "url": "https://nhsc.cyc.org.tw/",
+    "name": "台北內湖運動中心",
+    "ids": [
+      1336
+    ],
+    "venueListUrl": "https://scr.cyc.org.tw/tp12.aspx",
+    "venueMainImageUrl": null,
+    "rooms": [],
+    "error": null
+  },
+  {
+    "url": "https://www.yatsen.gov.tw/",
+    "name": "國父紀念館(SYSMH)",
+    "ids": [
+      1337
+    ],
+    "venueListUrl": "https://event.culture.tw/YATSEN",
+    "venueMainImageUrl": null,
+    "rooms": [],
+    "error": null
+  },
+  {
+    "url": "https://www.thcp.org.tw/",
+    "name": "客家藝文活動中心",
+    "ids": [
+      1338
+    ],
+    "venueListUrl": null,
+    "venueMainImageUrl": null,
+    "rooms": [],
+    "error": "page.goto: net::ERR_CERT_COMMON_NAME_INVALID at https://www.thcp.org.tw/\nCall log:\n  - navigating to \"https://www.thcp.org.tw/\", waiting until \"networkidle\"\n"
+  }
+]

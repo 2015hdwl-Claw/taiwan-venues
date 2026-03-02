@@ -1,0 +1,331 @@
+[
+  {
+    "url": "https://www.tccc.com.tw/",
+    "name": "TCCC台灣文創訓練中心",
+    "ids": [
+      1037
+    ],
+    "venueListUrl": null,
+    "venueMainImageUrl": null,
+    "rooms": [],
+    "error": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.tccc.com.tw/\nCall log:\n  - navigating to \"https://www.tccc.com.tw/\", waiting until \"networkidle\"\n"
+  },
+  {
+    "url": "https://www.marriott.com/en-us/hotels/tpewh-w-taipei/",
+    "name": "台北W飯店(WTaipei)",
+    "ids": [
+      1047
+    ],
+    "venueListUrl": null,
+    "venueMainImageUrl": null,
+    "rooms": [],
+    "error": "找不到會議室頁面"
+  },
+  {
+    "url": "https://www.palaisdechinehotel.com/",
+    "name": "台北君品酒店(PalaisdeChine)",
+    "ids": [
+      1060
+    ],
+    "venueListUrl": null,
+    "venueMainImageUrl": null,
+    "rooms": [],
+    "error": "page.goto: Timeout 45000ms exceeded.\nCall log:\n  - navigating to \"https://www.palaisdechinehotel.com/\", waiting until \"networkidle\"\n"
+  },
+  {
+    "url": "https://www.hyatt.com/zh-TW/hotel/taiwan/grand-hyatt-taipei/tyoph",
+    "name": "台北君悅酒店(GrandHyattTaipei)",
+    "ids": [
+      1061
+    ],
+    "venueListUrl": null,
+    "venueMainImageUrl": null,
+    "rooms": [],
+    "error": "找不到會議室頁面"
+  },
+  {
+    "url": "http://www.tbc-group.com/",
+    "name": "台北商務會館",
+    "ids": [
+      1066
+    ],
+    "venueListUrl": null,
+    "venueMainImageUrl": null,
+    "rooms": [],
+    "error": "page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.tbc-group.com/\nCall log:\n  - navigating to \"http://www.tbc-group.com/\", waiting until \"networkidle\"\n"
+  },
+  {
+    "url": "https://www.grand-hotel.org/",
+    "name": "台北圓山大飯店",
+    "ids": [
+      1072
+    ],
+    "venueListUrl": null,
+    "venueMainImageUrl": null,
+    "rooms": [],
+    "error": "找不到會議室頁面"
+  },
+  {
+    "url": "https://www.humblehouse.com",
+    "name": "台北寒舍艾麗酒店(HummerHouse)",
+    "ids": [
+      1078
+    ],
+    "venueListUrl": null,
+    "venueMainImageUrl": null,
+    "rooms": [],
+    "error": "找不到會議室頁面"
+  },
+  {
+    "url": "https://www.citizenm.com/hotels/asia/taipei/",
+    "name": "台北意舍酒店(CitizenM)",
+    "ids": [
+      1083
+    ],
+    "venueListUrl": null,
+    "venueMainImageUrl": null,
+    "rooms": [],
+    "error": "page.goto: Timeout 45000ms exceeded.\nCall log:\n  - navigating to \"https://www.citizenm.com/hotels/asia/taipei/\", waiting until \"networkidle\"\n"
+  },
+  {
+    "url": "https://www.regenthotels.com/tw/regent-taipei",
+    "name": "台北晶華酒店(RegentTaipei)",
+    "ids": [
+      1086
+    ],
+    "venueListUrl": null,
+    "venueMainImageUrl": null,
+    "rooms": [],
+    "error": "找不到會議室頁面"
+  },
+  {
+    "url": "https://www.marriott.com/en-us/hotels/tpemd-le-meridien-taipei/",
+    "name": "台北艾美酒店",
+    "ids": [
+      1098
+    ],
+    "venueListUrl": null,
+    "venueMainImageUrl": null,
+    "rooms": [],
+    "error": "找不到會議室頁面"
+  },
+  {
+    "url": "https://www.shangri-la.com/taipei",
+    "name": "台北香格里拉遠東國際大飯店",
+    "ids": [
+      1106
+    ],
+    "venueListUrl": null,
+    "venueMainImageUrl": null,
+    "rooms": [],
+    "error": "page.goto: Timeout 45000ms exceeded.\nCall log:\n  - navigating to \"https://www.shangri-la.com/taipei\", waiting until \"networkidle\"\n"
+  },
+  {
+    "url": "http://www.ntualumni.org.tw/",
+    "name": "台大校友會館",
+    "ids": [
+      1108
+    ],
+    "venueListUrl": null,
+    "venueMainImageUrl": null,
+    "rooms": [],
+    "error": "page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.ntualumni.org.tw/\nCall log:\n  - navigating to \"http://www.ntualumni.org.tw/\", waiting until \"networkidle\"\n"
+  },
+  {
+    "url": "https://www.ntu.edu.tw",
+    "name": "台大綜合體育館",
+    "ids": [
+      1109
+    ],
+    "venueListUrl": "https://event.ntu.edu.tw/azalea/2026/",
+    "venueMainImageUrl": "https://event.ntu.edu.tw/azalea/2026/images/slide01.jpg",
+    "rooms": [],
+    "error": null
+  },
+  {
+    "url": "https://itcc.yff.org.tw/",
+    "name": "張榮發基金會(KLCF)國際會議中心",
+    "ids": [
+      1115,
+      1436,
+      1437,
+      1438
+    ],
+    "venueListUrl": null,
+    "venueMainImageUrl": null,
+    "rooms": [],
+    "error": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://itcc.yff.org.tw/\nCall log:\n  - navigating to \"https://itcc.yff.org.tw/\", waiting until \"networkidle\"\n"
+  },
+  {
+    "url": "https://www.sanwant.com",
+    "name": "神旺大飯店",
+    "ids": [
+      1121
+    ],
+    "venueListUrl": "https://www.sanwant.com/Traditional/banquet.php",
+    "venueMainImageUrl": null,
+    "rooms": [],
+    "error": null
+  },
+  {
+    "url": "https://www.grandvictoria.com.tw/",
+    "name": "維多麗亞酒店",
+    "ids": [
+      1122
+    ],
+    "venueListUrl": "https://grandvictoria.com.tw/%e9%a4%90%e9%a3%b2%e6%b4%bb%e5%8b%95/",
+    "venueMainImageUrl": "https://grandvictoria.com.tw/wp-content/uploads/sites/237/2023/09/%E6%88%B6%E5%A4%96%E6%B0%9B%E5%9C%8D-16s-1800x700.jpg",
+    "rooms": [
+      {
+        "name": "02\n              NT$ 4,712  抵達 離開"
+      },
+      {
+        "name": "09\n              NT$ 4,712  抵達 離開"
+      },
+      {
+        "name": "16\n              NT$ 4,712  抵達 離開"
+      },
+      {
+        "name": "23\n              NT$ 4,712  抵達 離開"
+      },
+      {
+        "name": "30\n              NT$ 4,712  抵達 離開"
+      },
+      {
+        "name": "06\n              NT$ 4,712  抵達 離開"
+      },
+      {
+        "name": "13\n              NT$ 4,712  抵達 離開"
+      },
+      {
+        "name": "20\n              NT$ 4,712  抵達 離開"
+      },
+      {
+        "name": "27\n              NT$ 4,712  抵達 離開"
+      }
+    ],
+    "error": null
+  },
+  {
+    "url": "https://www.taipeigarden.com.tw",
+    "name": "花園大酒店",
+    "ids": [
+      1124
+    ],
+    "venueListUrl": "https://www.taipeigarden.com.tw/banquets-conferences/meeting-package/",
+    "venueMainImageUrl": "https://www.taipeigarden.com.tw/wp-content/uploads/sites/278/2023/03/10636247_10152352649698616_2574451134329955712_n-removebg-preview-1.png",
+    "rooms": [
+      {
+        "name": "08\n              NT$ 3,045  抵達 離開"
+      },
+      {
+        "name": "15\n              NT$ 3,045  抵達 離開"
+      },
+      {
+        "name": "22\n              NT$ 5,545  抵達 離開"
+      },
+      {
+        "name": "29\n              NT$ 3,045  抵達 離開"
+      },
+      {
+        "name": "05\n              NT$ 3,045  抵達 離開"
+      },
+      {
+        "name": "12\n              NT$ 3,045  抵達 離開"
+      },
+      {
+        "name": "19\n              NT$ 3,045  抵達 離開"
+      },
+      {
+        "name": "26\n              NT$ 3,045  抵達 離開"
+      }
+    ],
+    "error": null
+  },
+  {
+    "url": "https://www.riverview.com.tw/",
+    "name": "豪景大酒店",
+    "ids": [
+      1126
+    ],
+    "venueListUrl": "https://www.riverview.com.tw/#rooms",
+    "venueMainImageUrl": "https://www.riverview.com.tw/wp-content/uploads/2019/09/R%E4%B8%AD%E8%8B%B1-logo-white.png",
+    "rooms": [
+      {
+        "name": "會議室"
+      },
+      {
+        "name": "半天(8:00-12:00)"
+      },
+      {
+        "name": "半天(13:00-16:30)"
+      },
+      {
+        "name": "全天(8:00-16:30)"
+      },
+      {
+        "name": "每小時加收"
+      },
+      {
+        "name": "教室型"
+      },
+      {
+        "name": "戲院型"
+      }
+    ],
+    "error": null
+  },
+  {
+    "url": "https://www.meeting.com.tw/ntu/",
+    "name": "集思台大會議中心(NTUCC)",
+    "ids": [
+      1128
+    ],
+    "venueListUrl": "https://www.meeting.com.tw/ntu/index.php",
+    "venueMainImageUrl": "https://www.meeting.com.tw/ntu/images/floor-ntu.png",
+    "rooms": [
+      {
+        "name": "國際會議廳"
+      },
+      {
+        "name": "蘇格拉底廳"
+      },
+      {
+        "name": "亞歷山大廳"
+      },
+      {
+        "name": "柏拉圖廳"
+      },
+      {
+        "name": "亞里斯多德廳"
+      },
+      {
+        "name": "阿基米得廳"
+      },
+      {
+        "name": "洛克廳"
+      },
+      {
+        "name": "達文西廳"
+      },
+      {
+        "name": "拉斐爾廳"
+      },
+      {
+        "name": "米開朗基羅廳"
+      }
+    ],
+    "error": null
+  },
+  {
+    "url": "https://www.77-67.com/",
+    "name": "青青婚宴會館",
+    "ids": [
+      1129
+    ],
+    "venueListUrl": "https://77-67.com/meeting-chinchin",
+    "venueMainImageUrl": "https://77-67.com/wp-content/uploads/2025/03/%E9%9D%92%E9%9D%92%E9%A3%9F%E5%B0%9A_%E6%9C%83%E8%AD%B0%E5%B0%88%E6%A1%8802.jpg",
+    "rooms": [],
+    "error": null
+  }
+]

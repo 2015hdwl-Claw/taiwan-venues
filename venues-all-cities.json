@@ -1143,10 +1143,12 @@
     "verifiedAt": "2026-02-27",
     "status": "上架",
     "roomType": "會議室",
-    "lastVerified": "2026-03-01T23:28:46.930Z",
+    "lastVerified": "2026-03-02T12:58:02.847Z",
     "verifiedTitle": "CLBC 共同工作空間與複合式展演活動空間 - CLBC",
     "meetingPageUrl": "https://clbc.tw/clbc%E6%B4%BB%E5%8B%95%E5%A0%B4%E5%9C%B0%E7%A9%BA%E9%96%93%E7%A7%9F%E5%80%9F/",
-    "lastUpdated": "2026-03-02T00:16:32.388Z"
+    "lastUpdated": "2026-03-02T00:16:32.388Z",
+    "venueListUrl": "https://clbc.tw/clbc%E6%B4%BB%E5%8B%95%E5%A0%B4%E5%9C%B0%E7%A9%BA%E9%96%93%E7%A7%9F%E5%80%9F/",
+    "venueMainImageUrl": "https://clbc.tw/wp-content/uploads/2018/12/clbc-logo.svg"
   },
   {
     "id": 1033,
@@ -1301,7 +1303,9 @@
     ],
     "verificationStatus": "已驗證",
     "meetingPageUrl": "https://www.regus.com/en/office-space/offices-for-individuals",
-    "lastVerified": "2026-03-02T09:52:23.503Z"
+    "lastVerified": "2026-03-02T12:58:19.757Z",
+    "venueListUrl": "https://www.regus.com/en/meeting-rooms/meeting-rooms",
+    "venueMainImageUrl": "https://assets.iwgplc.com/image/upload/c_fill,f_auto,q_auto,w_768,h_257,g_auto:subject//v1754490241/WebsiteImagery/Gallery/MR_1.jpg"
   },
   {
     "id": 1036,
@@ -1453,7 +1457,8 @@
     ],
     "verificationStatus": "已驗證",
     "meetingPageUrl": "https://www.executivecentre.com/meeting-rooms-conference",
-    "lastVerified": "2026-03-02T09:52:23.503Z"
+    "lastVerified": "2026-03-02T12:59:04.138Z",
+    "venueListUrl": "https://www.executivecentre.com/meeting-rooms-conference"
   },
   {
     "id": 1039,
@@ -1591,7 +1596,10 @@
     "missingFields": [
       "會議室名稱（具體）"
     ],
-    "lastUpdated": "2026-03-02T00:16:32.388Z"
+    "lastUpdated": "2026-03-02T00:16:32.388Z",
+    "venueListUrl": "https://www.brotherhotel.com.tw/?cat=76",
+    "venueMainImageUrl": "https://www.brotherhotel.com.tw/wp-content/uploads/2022/12/%E6%A1%82%E8%8A%B1%E5%BB%B3%E5%A4%96%E5%B8%B6%E8%8F%9C%E5%96%AEfinal-0125-1-853x1280.jpg",
+    "lastVerified": "2026-03-02T12:59:23.708Z"
   },
   {
     "id": 1042,
@@ -1629,11 +1637,12 @@
     "status": "上架",
     "roomType": "會議中心",
     "notes": "",
-    "lastVerified": "2026-03-01T23:29:06.666Z",
+    "lastVerified": "2026-03-02T12:59:37.330Z",
     "verifiedTitle": "中文網-行政院人事行政總處公務人力發展學院",
     "meetingPageUrl": "https://www.hrd.gov.tw/1123/2127/?q=%E5%A0%B4%E5%9C%B0%E6%9F%A5%E8%A9%A2",
     "verificationStatus": "待修正",
-    "verificationNote": "會議室頁面可能不正確"
+    "verificationNote": "會議室頁面可能不正確",
+    "venueListUrl": "https://www.hrd.gov.tw/1123/2127/?q=%E5%A0%B4%E5%9C%B0%E6%9F%A5%E8%A9%A2"
   },
   {
     "id": 1043,
@@ -1754,7 +1763,8 @@
     ],
     "verificationStatus": "已驗證",
     "meetingPageUrl": "https://aps-staff.ntut.edu.tw/arearent/ActionServlet",
-    "lastVerified": "2026-03-02T09:52:23.503Z"
+    "lastVerified": "2026-03-02T12:59:50.840Z",
+    "venueListUrl": "https://aps-staff.ntut.edu.tw/arearent/ActionServlet"
   },
   {
     "id": 1047,
@@ -1953,10 +1963,12 @@
     "status": "上架",
     "roomType": "宴會廳",
     "notes": "",
-    "lastVerified": "2026-03-01T23:29:16.398Z",
+    "lastVerified": "2026-03-02T13:00:09.811Z",
     "verifiedTitle": "Live Music | Live Theater | The Landis | Vineland, New Jersey",
     "meetingPageUrl": "https://www.thelandistheater.com/shows-events-1",
-    "lastUpdated": "2026-03-02T00:16:32.388Z"
+    "lastUpdated": "2026-03-02T00:16:32.388Z",
+    "venueListUrl": "https://taipei.landishotelsresorts.com/meeting-list.php",
+    "venueMainImageUrl": "https://taipei.landishotelsresorts.com/manage/upload/roomtype/1758907414_16016.jpg"
   },
   {
     "id": 1052,
@@ -2039,9 +2051,11 @@
     "status": "上架",
     "roomType": "宴會廳",
     "notes": "僅提供婚宴服務，無會議室",
-    "lastVerified": "2026-03-01T23:29:28.178Z",
+    "lastVerified": "2026-03-02T13:00:28.131Z",
     "verifiedTitle": "婚宴專案 | 兄弟大飯店 - Brother Hotel",
-    "meetingPageUrl": "https://www.brotherhotel.com.tw/?cat=76"
+    "meetingPageUrl": "https://www.brotherhotel.com.tw/?cat=76",
+    "venueListUrl": "https://www.brotherhotel.com.tw/?cat=76",
+    "venueMainImageUrl": "https://www.brotherhotel.com.tw/wp-content/uploads/2022/12/%E6%A1%82%E8%8A%B1%E5%BB%B3%E5%A4%96%E5%B8%B6%E8%8F%9C%E5%96%AEfinal-0125-1-853x1280.jpg"
   },
   {
     "id": 1054,
@@ -2244,11 +2258,12 @@
       "照片"
     ],
     "lastUpdated": "2026-03-02T00:16:32.389Z",
-    "lastVerified": "2026-03-01T23:29:44.020Z",
+    "lastVerified": "2026-03-02T13:00:42.416Z",
     "verifiedTitle": "捷運北投會館",
     "meetingPageUrl": "https://btresort.metro.taipei/Content_List.aspx?n=AC6664006DEBC90D",
     "verificationStatus": "待修正",
-    "verificationNote": "會議室頁面可能不正確"
+    "verificationNote": "會議室頁面可能不正確",
+    "venueListUrl": "https://btresort.metro.taipei/Content_List.aspx?n=57F1336BE33E94C8"
   },
   {
     "id": 1059,
@@ -2631,9 +2646,11 @@
     "verifiedAt": "2026-02-27",
     "status": "上架",
     "roomType": "宴會廳",
-    "lastVerified": "2026-03-01T23:30:24.463Z",
+    "lastVerified": "2026-03-02T13:02:01.158Z",
     "verifiedTitle": "台北喜來登大飯店 Sheraton Grand Taipei Hotel",
-    "meetingPageUrl": "https://www.sheratongrandtaipei.com/websev?lang=zh-tw&ref=pages&cat=2&id=16"
+    "meetingPageUrl": "https://www.sheratongrandtaipei.com/websev?lang=zh-tw&ref=pages&cat=2&id=16",
+    "venueListUrl": "https://www.sheratongrandtaipei.com/websev?lang=zh-tw&ref=pages&cat=50",
+    "venueMainImageUrl": "https://www.sheratongrandtaipei.com/style/logo_1.png"
   },
   {
     "id": 1068,
@@ -2670,10 +2687,11 @@
       "照片"
     ],
     "lastUpdated": "2026-03-02T00:16:32.443Z",
-    "lastVerified": "2026-03-02T10:34:35.907Z",
+    "lastVerified": "2026-03-02T13:02:40.372Z",
     "verificationError": "page.goto: Timeout 20000ms exceeded.\nCall log:\n  - navigating to \"https://www.ambiencehotel.com.tw/\", waiting until \"domcontentloaded\"\n",
     "verificationStatus": "待修正",
-    "verificationNote": "會議室頁面可能不正確"
+    "verificationNote": "會議室頁面可能不正確",
+    "venueListUrl": "https://www.ambiencehotel.com.tw/tw/rooms-t/"
   },
   {
     "id": 1069,
@@ -2867,7 +2885,9 @@
     ],
     "verificationStatus": "已驗證",
     "meetingPageUrl": "https://www.sheratongrandtaipei.com/websev?lang=zh-tw&ref=pages&cat=2&id=16",
-    "lastVerified": "2026-03-02T09:52:23.503Z"
+    "lastVerified": "2026-03-02T13:03:09.484Z",
+    "venueListUrl": "https://www.sheratongrandtaipei.com/websev?lang=zh-tw&ref=pages&cat=50",
+    "venueMainImageUrl": "https://www.sheratongrandtaipei.com/style/logo_1.png"
   },
   {
     "id": 1076,
@@ -2900,11 +2920,12 @@
     "verifiedAt": "2026-02-27",
     "status": "上架",
     "roomType": "宴會廳",
-    "lastVerified": "2026-03-01T23:31:22.066Z",
+    "lastVerified": "2026-03-02T13:03:25.486Z",
     "verifiedTitle": "台北寒舍艾美酒店 - Le Méridien Taipei",
     "meetingPageUrl": "https://www.lemeridien-taipei.com/websev?lang=zh-tw&ref=pages&cat=43&type=0",
     "verificationStatus": "待修正",
-    "verificationNote": "會議室頁面可能不正確"
+    "verificationNote": "會議室頁面可能不正確",
+    "venueListUrl": "https://www.lemeridien-taipei.com/websev?lang=zh-tw&ref=pages&cat=43&type=0"
   },
   {
     "id": 1077,
@@ -2948,7 +2969,10 @@
     "missingFields": [
       "會議室名稱（具體）"
     ],
-    "lastUpdated": "2026-03-02T00:16:32.389Z"
+    "lastUpdated": "2026-03-02T00:16:32.389Z",
+    "venueListUrl": "https://www.humblehousehotels.com/en/websev?cat=page&id=7",
+    "venueMainImageUrl": "https://www.humblehousehotels.com/files/page_161581908711j4rck.jpg",
+    "lastVerified": "2026-03-02T13:03:49.285Z"
   },
   {
     "id": 1078,
@@ -3283,10 +3307,12 @@
     "verifiedAt": "2026-02-27",
     "status": "上架",
     "roomType": "宴會廳",
-    "lastVerified": "2026-03-01T23:31:42.712Z",
+    "lastVerified": "2026-03-02T13:09:00.717Z",
     "verifiedTitle": "Luxury 5 Star Hotel | Songshan | Mandarin Oriental, Taipei",
     "meetingPageUrl": "https://www.mandarinoriental.com/en/taipei/songshan/events",
-    "lastUpdated": "2026-03-02T00:16:32.390Z"
+    "lastUpdated": "2026-03-02T00:16:32.390Z",
+    "venueListUrl": "https://www.mandarinoriental.com/zh-hk/taipei/songshan/events",
+    "venueMainImageUrl": "https://media.ffycdn.net/eu/mandarin-oriental-hotel-group/oy6E3rsLkt5vaNhNAcTM.jpg"
   },
   {
     "id": 1086,
@@ -3507,7 +3533,9 @@
     ],
     "verificationStatus": "已驗證",
     "meetingPageUrl": "https://www.dynasty.com.tw/news",
-    "lastVerified": "2026-03-02T09:52:23.503Z"
+    "lastVerified": "2026-03-02T13:09:17.960Z",
+    "venueListUrl": "https://www.dynasty.com.tw/news",
+    "venueMainImageUrl": "https://www.dynasty.com.tw/images/banner4.jpg"
   },
   {
     "id": 1091,
@@ -3709,7 +3737,9 @@
     ],
     "lastUpdated": "2026-03-02T00:16:32.390Z",
     "verificationStatus": "待修正",
-    "verificationNote": "會議室頁面可能不正確"
+    "verificationNote": "會議室頁面可能不正確",
+    "venueListUrl": "https://www.tablecheck.com/en/grand-mayfull-hotel-taipei-palette-buffet/reserve/landing?require_venue=true",
+    "lastVerified": "2026-03-02T13:09:35.307Z"
   },
   {
     "id": 1096,
@@ -3744,11 +3774,12 @@
     "verifiedAt": "2026-02-27",
     "status": "上架",
     "roomType": "宴會廳",
-    "lastVerified": "2026-03-01T23:31:52.206Z",
+    "lastVerified": "2026-03-02T13:09:51.937Z",
     "verifiedTitle": "Grand Mayfull Hotel Taipei",
     "meetingPageUrl": "https://www.tablecheck.com/en/grand-mayfull-hotel-taipei-palette-buffet/reserve/landing?require_venue=true",
     "verificationStatus": "待修正",
-    "verificationNote": "會議室頁面可能不正確"
+    "verificationNote": "會議室頁面可能不正確",
+    "venueListUrl": "https://www.tablecheck.com/en/grand-mayfull-hotel-taipei-palette-buffet/reserve/landing?require_venue=true"
   },
   {
     "id": 1097,
@@ -3783,8 +3814,10 @@
     "status": "上架",
     "roomType": "宴會廳",
     "lastUpdated": "2026-03-02T00:16:32.293Z",
-    "lastVerified": "2026-03-02T10:34:56.879Z",
-    "verificationError": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.royal-nikko-taipei.com.tw/\nCall log:\n  - navigating to \"https://www.royal-nikko-taipei.com.tw/\", waiting until \"domcontentloaded\"\n"
+    "lastVerified": "2026-03-02T13:10:05.314Z",
+    "verificationError": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.royal-nikko-taipei.com.tw/\nCall log:\n  - navigating to \"https://www.royal-nikko-taipei.com.tw/\", waiting until \"domcontentloaded\"\n",
+    "venueListUrl": "https://www.hotelroyal.com.tw/zh-tw/promotions/meeting",
+    "venueMainImageUrl": "https://imagedelivery.net/a6-OYZSpZSiOriMeuFHR3w/0a658dbf-567c-4584-09aa-c4146693db00/public"
   },
   {
     "id": 1098,
@@ -3880,9 +3913,10 @@
     "verifiedAt": "2026-02-27",
     "status": "上架",
     "roomType": "宴會廳",
-    "lastVerified": "2026-03-01T23:32:00.239Z",
+    "lastVerified": "2026-03-02T13:10:33.187Z",
     "verifiedTitle": "Modern Hotels | Le Méridien Hotels & Resorts",
-    "meetingPageUrl": "https://le-meridien.marriott.com/programmes/meetings-and-events/"
+    "meetingPageUrl": "https://le-meridien.marriott.com/programmes/meetings-and-events/",
+    "venueListUrl": "https://le-meridien.marriott.com/programmes/meetings-and-events/"
   },
   {
     "id": 1100,
@@ -3917,10 +3951,12 @@
     "verifiedAt": "2026-02-27",
     "status": "上架",
     "roomType": "宴會廳",
-    "lastVerified": "2026-03-01T23:32:06.417Z",
+    "lastVerified": "2026-03-02T13:11:03.938Z",
     "verifiedTitle": "關於我們",
     "meetingPageUrl": "https://www.taipeigarden.com.tw/news-events/",
-    "lastUpdated": "2026-03-02T00:16:32.390Z"
+    "lastUpdated": "2026-03-02T00:16:32.390Z",
+    "venueListUrl": "https://www.taipeigarden.com.tw/banquets-conferences/meeting-package/",
+    "venueMainImageUrl": "https://www.taipeigarden.com.tw/wp-content/uploads/sites/278/2023/03/10636247_10152352649698616_2574451134329955712_n-removebg-preview-1.png"
   },
   {
     "id": 1101,
@@ -4038,9 +4074,11 @@
     "roomType": "宴會廳",
     "url": "https://www.taipeimarriott.com.tw/",
     "lastUpdated": "2026-03-01T23:07:15.060Z",
-    "lastVerified": "2026-03-01T23:32:10.793Z",
+    "lastVerified": "2026-03-02T13:11:20.847Z",
     "verifiedTitle": "Taipei Marriott Hotel 台北萬豪酒店",
-    "meetingPageUrl": "https://www.taipeimarriott.com.tw/websev?cat=page&id=74"
+    "meetingPageUrl": "https://www.taipeimarriott.com.tw/websev?cat=page&id=74",
+    "venueListUrl": "https://www.taipeimarriott.com.tw/websev?cat=page&subcat=17",
+    "venueMainImageUrl": "https://www.taipeimarriott.com.tw/files/page_176900685014vqao357_s.jpg"
   },
   {
     "id": 1104,
@@ -4207,10 +4245,11 @@
       "照片"
     ],
     "lastUpdated": "2026-03-02T00:16:32.293Z",
-    "lastVerified": "2026-03-02T10:34:35.882Z",
+    "lastVerified": "2026-03-02T13:12:20.931Z",
     "verificationError": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.tms.gov.taipei/\nCall log:\n  - navigating to \"https://www.tms.gov.taipei/\", waiting until \"domcontentloaded\"\n",
     "verificationStatus": "待修正",
-    "verificationNote": "會議室頁面可能不正確"
+    "verificationNote": "會議室頁面可能不正確",
+    "venueListUrl": "https://vbs.sports.taipei/venues/?G=3"
   },
   {
     "id": 1108,
@@ -4293,7 +4332,9 @@
     ],
     "verificationStatus": "已驗證",
     "meetingPageUrl": "https://sec.ntu.edu.tw/epaper/article.asp?num=1668&sn=39626",
-    "lastVerified": "2026-03-02T09:52:23.503Z"
+    "lastVerified": "2026-03-02T13:15:44.942Z",
+    "venueListUrl": "https://event.ntu.edu.tw/azalea/2026/",
+    "venueMainImageUrl": "https://event.ntu.edu.tw/azalea/2026/images/slide01.jpg"
   },
   {
     "id": 1111,
@@ -4419,7 +4460,8 @@
     ],
     "verificationStatus": "已驗證",
     "meetingPageUrl": "https://le-meridien.marriott.com/programmes/meetings-and-events/",
-    "lastVerified": "2026-03-02T09:52:23.503Z"
+    "lastVerified": "2026-03-02T13:10:33.187Z",
+    "venueListUrl": "https://le-meridien.marriott.com/programmes/meetings-and-events/"
   },
   {
     "id": 1115,
@@ -4667,7 +4709,8 @@
     ],
     "verificationStatus": "已驗證",
     "meetingPageUrl": "https://www.sanwant.com/Traditional/about2.php",
-    "lastVerified": "2026-03-02T09:52:23.503Z"
+    "lastVerified": "2026-03-02T13:15:58.351Z",
+    "venueListUrl": "https://www.sanwant.com/Traditional/banquet.php"
   },
   {
     "id": 1122,
@@ -4710,9 +4753,11 @@
       "照片"
     ],
     "lastUpdated": "2026-03-01T23:07:46.450Z",
-    "lastVerified": "2026-03-01T23:32:26.310Z",
+    "lastVerified": "2026-03-02T13:16:23.073Z",
     "verifiedTitle": "維多麗亞酒店 | 官方網站",
-    "meetingPageUrl": "https://grandvictoria.com.tw/%e9%a4%90%e9%a3%b2%e6%b4%bb%e5%8b%95/"
+    "meetingPageUrl": "https://grandvictoria.com.tw/%e9%a4%90%e9%a3%b2%e6%b4%bb%e5%8b%95/",
+    "venueListUrl": "https://grandvictoria.com.tw/%e9%a4%90%e9%a3%b2%e6%b4%bb%e5%8b%95/",
+    "venueMainImageUrl": "https://grandvictoria.com.tw/wp-content/uploads/sites/237/2023/09/%E6%88%B6%E5%A4%96%E6%B0%9B%E5%9C%8D-16s-1800x700.jpg"
   },
   {
     "id": 1123,
@@ -4799,7 +4844,9 @@
     ],
     "verificationStatus": "已驗證",
     "meetingPageUrl": "https://www.taipeigarden.com.tw/news-events/",
-    "lastVerified": "2026-03-02T09:52:23.503Z"
+    "lastVerified": "2026-03-02T13:16:49.667Z",
+    "venueListUrl": "https://www.taipeigarden.com.tw/banquets-conferences/meeting-package/",
+    "venueMainImageUrl": "https://www.taipeigarden.com.tw/wp-content/uploads/sites/278/2023/03/10636247_10152352649698616_2574451134329955712_n-removebg-preview-1.png"
   },
   {
     "id": 1125,
@@ -4910,9 +4957,11 @@
       "會議室名稱（具體）"
     ],
     "lastUpdated": "2026-03-01T23:07:46.486Z",
-    "lastVerified": "2026-03-01T23:32:52.903Z",
+    "lastVerified": "2026-03-02T13:17:05.440Z",
     "verifiedTitle": "豪景大酒店-本館",
-    "meetingPageUrl": "https://www.riverview.com.tw/%e6%9c%83%e8%ad%b0%e6%9c%8d%e5%8b%99/"
+    "meetingPageUrl": "https://www.riverview.com.tw/%e6%9c%83%e8%ad%b0%e6%9c%8d%e5%8b%99/",
+    "venueListUrl": "https://www.riverview.com.tw/#rooms",
+    "venueMainImageUrl": "https://www.riverview.com.tw/wp-content/uploads/2019/09/R%E4%B8%AD%E8%8B%B1-logo-white.png"
   },
   {
     "id": 1127,
@@ -4992,7 +5041,9 @@
     "roomType": "會議中心",
     "lastUpdated": "2026-03-02T00:16:32.385Z",
     "verificationStatus": "已驗證",
-    "lastVerified": "2026-03-02T10:34:35.907Z"
+    "lastVerified": "2026-03-02T13:17:17.619Z",
+    "venueListUrl": "https://www.meeting.com.tw/ntu/index.php",
+    "venueMainImageUrl": "https://www.meeting.com.tw/ntu/images/floor-ntu.png"
   },
   {
     "id": 1129,
@@ -5027,9 +5078,11 @@
     "verifiedAt": "2026-02-27",
     "status": "上架",
     "roomType": "婚宴會館",
-    "lastVerified": "2026-03-01T23:32:58.663Z",
+    "lastVerified": "2026-03-02T13:17:39.488Z",
     "verifiedTitle": "青手作皂",
-    "lastUpdated": "2026-03-02T00:16:32.390Z"
+    "lastUpdated": "2026-03-02T00:16:32.390Z",
+    "venueListUrl": "https://77-67.com/meeting-chinchin",
+    "venueMainImageUrl": "https://77-67.com/wp-content/uploads/2025/03/%E9%9D%92%E9%9D%92%E9%A3%9F%E5%B0%9A_%E6%9C%83%E8%AD%B0%E5%B0%88%E6%A1%8802.jpg"
   },
   {
     "id": 1130,
@@ -12333,7 +12386,8 @@
     ],
     "verificationStatus": "已驗證",
     "meetingPageUrl": "https://www.cksmh.gov.tw/cl.aspx?n=6096",
-    "lastVerified": "2026-03-02T09:52:23.503Z"
+    "lastVerified": "2026-03-02T13:39:05.418Z",
+    "venueListUrl": "https://event.culture.tw/mocweb/reg/CKSMH/QueryReg.init.ctr?dataVo.actKind=8"
   },
   {
     "id": 1334,
@@ -12370,10 +12424,11 @@
       "照片"
     ],
     "lastUpdated": "2026-03-02T00:16:32.384Z",
-    "lastVerified": "2026-03-02T10:34:35.904Z",
+    "lastVerified": "2026-03-02T13:39:20.970Z",
     "verificationError": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://zssc.cyc.org.tw/\nCall log:\n  - navigating to \"https://zssc.cyc.org.tw/\", waiting until \"domcontentloaded\"\n",
     "verificationStatus": "待修正",
-    "verificationNote": "會議室頁面可能不正確"
+    "verificationNote": "會議室頁面可能不正確",
+    "venueListUrl": "http://booking.tpsc.sporetrofit.com/"
   },
   {
     "id": 1335,
@@ -12452,11 +12507,12 @@
       "照片"
     ],
     "lastUpdated": "2026-03-02T00:16:32.442Z",
-    "lastVerified": "2026-03-01T23:45:08.126Z",
+    "lastVerified": "2026-03-02T13:39:36.589Z",
     "verifiedTitle": "內湖運動中心",
     "meetingPageUrl": "https://scr.cyc.org.tw/tp12.aspx",
     "verificationStatus": "待修正",
-    "verificationNote": "會議室頁面可能不正確"
+    "verificationNote": "會議室頁面可能不正確",
+    "venueListUrl": "https://scr.cyc.org.tw/tp12.aspx"
   },
   {
     "id": 1337,
@@ -12493,11 +12549,12 @@
       "照片"
     ],
     "lastUpdated": "2026-03-01T23:07:15.061Z",
-    "lastVerified": "2026-03-01T23:45:10.609Z",
+    "lastVerified": "2026-03-02T13:39:52.121Z",
     "verifiedTitle": "國立國父紀念館",
     "meetingPageUrl": "https://www.yatsen.gov.tw/cl.aspx?n=6679",
     "verificationStatus": "待修正",
-    "verificationNote": "會議室頁面可能不正確"
+    "verificationNote": "會議室頁面可能不正確",
+    "venueListUrl": "https://event.culture.tw/YATSEN"
   },
   {
     "id": 1338,
@@ -14317,9 +14374,11 @@
     "verifiedAt": "2026-03-01",
     "status": "上架",
     "roomType": "宴會廳",
-    "lastVerified": "2026-03-01T23:30:24.463Z",
+    "lastVerified": "2026-03-02T13:02:01.158Z",
     "verifiedTitle": "台北喜來登大飯店 Sheraton Grand Taipei Hotel",
-    "meetingPageUrl": "https://www.sheratongrandtaipei.com/websev?lang=zh-tw&ref=pages&cat=2&id=16"
+    "meetingPageUrl": "https://www.sheratongrandtaipei.com/websev?lang=zh-tw&ref=pages&cat=2&id=16",
+    "venueListUrl": "https://www.sheratongrandtaipei.com/websev?lang=zh-tw&ref=pages&cat=50",
+    "venueMainImageUrl": "https://www.sheratongrandtaipei.com/style/logo_1.png"
   },
   {
     "id": 1385,
@@ -14357,9 +14416,11 @@
     "verifiedAt": "2026-03-01",
     "status": "上架",
     "roomType": "宴會廳",
-    "lastVerified": "2026-03-01T23:30:24.463Z",
+    "lastVerified": "2026-03-02T13:02:01.158Z",
     "verifiedTitle": "台北喜來登大飯店 Sheraton Grand Taipei Hotel",
-    "meetingPageUrl": "https://www.sheratongrandtaipei.com/websev?lang=zh-tw&ref=pages&cat=2&id=16"
+    "meetingPageUrl": "https://www.sheratongrandtaipei.com/websev?lang=zh-tw&ref=pages&cat=2&id=16",
+    "venueListUrl": "https://www.sheratongrandtaipei.com/websev?lang=zh-tw&ref=pages&cat=50",
+    "venueMainImageUrl": "https://www.sheratongrandtaipei.com/style/logo_1.png"
   },
   {
     "id": 1386,
@@ -14403,9 +14464,11 @@
     "areaPing": 193,
     "areaSqm": 640,
     "dimensions": "25.8×25.3×5.6公尺",
-    "lastVerified": "2026-03-01T23:30:24.463Z",
+    "lastVerified": "2026-03-02T13:02:01.158Z",
     "verifiedTitle": "台北喜來登大飯店 Sheraton Grand Taipei Hotel",
-    "meetingPageUrl": "https://www.sheratongrandtaipei.com/websev?lang=zh-tw&ref=pages&cat=2&id=16"
+    "meetingPageUrl": "https://www.sheratongrandtaipei.com/websev?lang=zh-tw&ref=pages&cat=2&id=16",
+    "venueListUrl": "https://www.sheratongrandtaipei.com/websev?lang=zh-tw&ref=pages&cat=50",
+    "venueMainImageUrl": "https://www.sheratongrandtaipei.com/style/logo_1.png"
   },
   {
     "id": 1387,
@@ -14443,9 +14506,11 @@
     "verifiedAt": "2026-03-01",
     "status": "上架",
     "roomType": "宴會廳",
-    "lastVerified": "2026-03-01T23:30:24.463Z",
+    "lastVerified": "2026-03-02T13:02:01.158Z",
     "verifiedTitle": "台北喜來登大飯店 Sheraton Grand Taipei Hotel",
-    "meetingPageUrl": "https://www.sheratongrandtaipei.com/websev?lang=zh-tw&ref=pages&cat=2&id=16"
+    "meetingPageUrl": "https://www.sheratongrandtaipei.com/websev?lang=zh-tw&ref=pages&cat=2&id=16",
+    "venueListUrl": "https://www.sheratongrandtaipei.com/websev?lang=zh-tw&ref=pages&cat=50",
+    "venueMainImageUrl": "https://www.sheratongrandtaipei.com/style/logo_1.png"
   },
   {
     "id": 1388,
@@ -14671,9 +14736,11 @@
     "verifiedAt": "2026-03-01",
     "status": "上架",
     "roomType": "宴會廳",
-    "lastVerified": "2026-03-01T23:31:42.712Z",
+    "lastVerified": "2026-03-02T13:44:40.937Z",
     "verifiedTitle": "Luxury 5 Star Hotel | Songshan | Mandarin Oriental, Taipei",
-    "meetingPageUrl": "https://www.mandarinoriental.com/en/taipei/songshan/events"
+    "meetingPageUrl": "https://www.mandarinoriental.com/en/taipei/songshan/events",
+    "venueListUrl": "https://www.mandarinoriental.com/en/taipei/songshan/events",
+    "venueMainImageUrl": "https://media.ffycdn.net/eu/mandarin-oriental-hotel-group/oy6E3rsLkt5vaNhNAcTM.jpg"
   },
   {
     "id": 1393,
@@ -14735,9 +14802,11 @@
     "verifiedAt": "2026-03-01",
     "status": "上架",
     "roomType": "宴會廳",
-    "lastVerified": "2026-03-01T23:31:42.712Z",
+    "lastVerified": "2026-03-02T13:44:40.938Z",
     "verifiedTitle": "Luxury 5 Star Hotel | Songshan | Mandarin Oriental, Taipei",
-    "meetingPageUrl": "https://www.mandarinoriental.com/en/taipei/songshan/events"
+    "meetingPageUrl": "https://www.mandarinoriental.com/en/taipei/songshan/events",
+    "venueListUrl": "https://www.mandarinoriental.com/en/taipei/songshan/events",
+    "venueMainImageUrl": "https://media.ffycdn.net/eu/mandarin-oriental-hotel-group/oy6E3rsLkt5vaNhNAcTM.jpg"
   },
   {
     "id": 1394,
@@ -14799,9 +14868,11 @@
     "verifiedAt": "2026-03-01",
     "status": "上架",
     "roomType": "宴會廳",
-    "lastVerified": "2026-03-01T23:31:42.712Z",
+    "lastVerified": "2026-03-02T13:44:40.938Z",
     "verifiedTitle": "Luxury 5 Star Hotel | Songshan | Mandarin Oriental, Taipei",
-    "meetingPageUrl": "https://www.mandarinoriental.com/en/taipei/songshan/events"
+    "meetingPageUrl": "https://www.mandarinoriental.com/en/taipei/songshan/events",
+    "venueListUrl": "https://www.mandarinoriental.com/en/taipei/songshan/events",
+    "venueMainImageUrl": "https://media.ffycdn.net/eu/mandarin-oriental-hotel-group/oy6E3rsLkt5vaNhNAcTM.jpg"
   },
   {
     "id": 1395,
@@ -14863,9 +14934,11 @@
     "verifiedAt": "2026-03-01",
     "status": "上架",
     "roomType": "宴會廳",
-    "lastVerified": "2026-03-01T23:31:42.712Z",
+    "lastVerified": "2026-03-02T13:44:40.938Z",
     "verifiedTitle": "Luxury 5 Star Hotel | Songshan | Mandarin Oriental, Taipei",
-    "meetingPageUrl": "https://www.mandarinoriental.com/en/taipei/songshan/events"
+    "meetingPageUrl": "https://www.mandarinoriental.com/en/taipei/songshan/events",
+    "venueListUrl": "https://www.mandarinoriental.com/en/taipei/songshan/events",
+    "venueMainImageUrl": "https://media.ffycdn.net/eu/mandarin-oriental-hotel-group/oy6E3rsLkt5vaNhNAcTM.jpg"
   },
   {
     "id": 1396,
@@ -15228,9 +15301,10 @@
     "verifiedAt": "2026-03-01",
     "status": "上架",
     "roomType": "宴會廳",
-    "lastVerified": "2026-03-01T23:31:22.066Z",
+    "lastVerified": "2026-03-02T13:03:25.489Z",
     "verifiedTitle": "台北寒舍艾美酒店 - Le Méridien Taipei",
-    "meetingPageUrl": "https://www.lemeridien-taipei.com/websev?lang=zh-tw&ref=pages&cat=43&type=0"
+    "meetingPageUrl": "https://www.lemeridien-taipei.com/websev?lang=zh-tw&ref=pages&cat=43&type=0",
+    "venueListUrl": "https://www.lemeridien-taipei.com/websev?lang=zh-tw&ref=pages&cat=43&type=0"
   },
   {
     "id": 1405,
@@ -15268,7 +15342,8 @@
     ],
     "verificationStatus": "已驗證",
     "meetingPageUrl": "https://www.lemeridien-taipei.com/websev?lang=zh-tw&ref=pages&cat=43&type=0",
-    "lastVerified": "2026-03-02T09:52:23.503Z"
+    "lastVerified": "2026-03-02T13:03:25.492Z",
+    "venueListUrl": "https://www.lemeridien-taipei.com/websev?lang=zh-tw&ref=pages&cat=43&type=0"
   },
   {
     "id": 1406,
@@ -15301,9 +15376,10 @@
     "verifiedAt": "2026-03-01",
     "status": "上架",
     "roomType": "宴會廳",
-    "lastVerified": "2026-03-01T23:31:22.066Z",
+    "lastVerified": "2026-03-02T13:03:25.492Z",
     "verifiedTitle": "台北寒舍艾美酒店 - Le Méridien Taipei",
-    "meetingPageUrl": "https://www.lemeridien-taipei.com/websev?lang=zh-tw&ref=pages&cat=43&type=0"
+    "meetingPageUrl": "https://www.lemeridien-taipei.com/websev?lang=zh-tw&ref=pages&cat=43&type=0",
+    "venueListUrl": "https://www.lemeridien-taipei.com/websev?lang=zh-tw&ref=pages&cat=43&type=0"
   },
   {
     "id": 1407,
@@ -15336,9 +15412,10 @@
     "verifiedAt": "2026-03-01",
     "status": "上架",
     "roomType": "宴會廳",
-    "lastVerified": "2026-03-01T23:31:22.066Z",
+    "lastVerified": "2026-03-02T13:03:25.492Z",
     "verifiedTitle": "台北寒舍艾美酒店 - Le Méridien Taipei",
-    "meetingPageUrl": "https://www.lemeridien-taipei.com/websev?lang=zh-tw&ref=pages&cat=43&type=0"
+    "meetingPageUrl": "https://www.lemeridien-taipei.com/websev?lang=zh-tw&ref=pages&cat=43&type=0",
+    "venueListUrl": "https://www.lemeridien-taipei.com/websev?lang=zh-tw&ref=pages&cat=43&type=0"
   },
   {
     "id": 1408,
@@ -15501,7 +15578,8 @@
     ],
     "verificationStatus": "已驗證",
     "meetingPageUrl": "https://www.thelandistheater.com/shows-events-1",
-    "lastVerified": "2026-03-02T09:52:23.503Z"
+    "lastVerified": "2026-03-02T14:21:05.951Z",
+    "venueListUrl": "https://www.thelandistheater.com/venue"
   },
   {
     "id": 1412,
@@ -15542,7 +15620,8 @@
     ],
     "verificationStatus": "已驗證",
     "meetingPageUrl": "https://www.thelandistheater.com/shows-events-1",
-    "lastVerified": "2026-03-02T09:52:23.503Z"
+    "lastVerified": "2026-03-02T14:21:05.951Z",
+    "venueListUrl": "https://www.thelandistheater.com/venue"
   },
   {
     "id": 1413,
@@ -16362,9 +16441,11 @@
     "verifiedAt": "2026-03-01",
     "status": "上架",
     "roomType": "會議室",
-    "lastVerified": "2026-03-01T23:28:46.930Z",
+    "lastVerified": "2026-03-02T12:58:02.848Z",
     "verifiedTitle": "CLBC 共同工作空間與複合式展演活動空間 - CLBC",
-    "meetingPageUrl": "https://clbc.tw/clbc%E6%B4%BB%E5%8B%95%E5%A0%B4%E5%9C%B0%E7%A9%BA%E9%96%93%E7%A7%9F%E5%80%9F/"
+    "meetingPageUrl": "https://clbc.tw/clbc%E6%B4%BB%E5%8B%95%E5%A0%B4%E5%9C%B0%E7%A9%BA%E9%96%93%E7%A7%9F%E5%80%9F/",
+    "venueListUrl": "https://clbc.tw/clbc%E6%B4%BB%E5%8B%95%E5%A0%B4%E5%9C%B0%E7%A9%BA%E9%96%93%E7%A7%9F%E5%80%9F/",
+    "venueMainImageUrl": "https://clbc.tw/wp-content/uploads/2018/12/clbc-logo.svg"
   },
   {
     "id": 1440,
@@ -16400,9 +16481,11 @@
     "verifiedAt": "2026-03-01",
     "status": "上架",
     "roomType": "會議室",
-    "lastVerified": "2026-03-01T23:28:46.930Z",
+    "lastVerified": "2026-03-02T12:58:02.848Z",
     "verifiedTitle": "CLBC 共同工作空間與複合式展演活動空間 - CLBC",
-    "meetingPageUrl": "https://clbc.tw/clbc%E6%B4%BB%E5%8B%95%E5%A0%B4%E5%9C%B0%E7%A9%BA%E9%96%93%E7%A7%9F%E5%80%9F/"
+    "meetingPageUrl": "https://clbc.tw/clbc%E6%B4%BB%E5%8B%95%E5%A0%B4%E5%9C%B0%E7%A9%BA%E9%96%93%E7%A7%9F%E5%80%9F/",
+    "venueListUrl": "https://clbc.tw/clbc%E6%B4%BB%E5%8B%95%E5%A0%B4%E5%9C%B0%E7%A9%BA%E9%96%93%E7%A7%9F%E5%80%9F/",
+    "venueMainImageUrl": "https://clbc.tw/wp-content/uploads/2018/12/clbc-logo.svg"
   },
   {
     "id": 1448,
@@ -16438,7 +16521,8 @@
     ],
     "verificationStatus": "已驗證",
     "meetingPageUrl": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/lp_Activity_1.jsp&ctNode=318&CtUnit=96&BaseDSD=7&mp=1",
-    "lastVerified": "2026-03-02T09:52:23.503Z"
+    "lastVerified": "2026-03-02T14:21:12.565Z",
+    "venueListUrl": "https://www.ticc.com.tw/wSite/np?ctNode=320&mp=1"
   },
   {
     "id": 1449,
@@ -16474,7 +16558,8 @@
     ],
     "verificationStatus": "已驗證",
     "meetingPageUrl": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/lp_Activity_1.jsp&ctNode=318&CtUnit=96&BaseDSD=7&mp=1",
-    "lastVerified": "2026-03-02T09:52:23.503Z"
+    "lastVerified": "2026-03-02T14:21:12.565Z",
+    "venueListUrl": "https://www.ticc.com.tw/wSite/np?ctNode=320&mp=1"
   },
   {
     "id": 1450,
@@ -16510,7 +16595,8 @@
     ],
     "verificationStatus": "已驗證",
     "meetingPageUrl": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/lp_Activity_1.jsp&ctNode=318&CtUnit=96&BaseDSD=7&mp=1",
-    "lastVerified": "2026-03-02T09:52:23.503Z"
+    "lastVerified": "2026-03-02T14:21:12.565Z",
+    "venueListUrl": "https://www.ticc.com.tw/wSite/np?ctNode=320&mp=1"
   },
   {
     "id": 1451,
@@ -16546,7 +16632,8 @@
     ],
     "verificationStatus": "已驗證",
     "meetingPageUrl": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/lp_Activity_1.jsp&ctNode=318&CtUnit=96&BaseDSD=7&mp=1",
-    "lastVerified": "2026-03-02T09:52:23.503Z"
+    "lastVerified": "2026-03-02T14:21:12.565Z",
+    "venueListUrl": "https://www.ticc.com.tw/wSite/np?ctNode=320&mp=1"
   },
   {
     "id": 1452,
@@ -16582,7 +16669,8 @@
     ],
     "verificationStatus": "已驗證",
     "meetingPageUrl": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/lp_Activity_1.jsp&ctNode=318&CtUnit=96&BaseDSD=7&mp=1",
-    "lastVerified": "2026-03-02T09:52:23.503Z"
+    "lastVerified": "2026-03-02T14:21:12.565Z",
+    "venueListUrl": "https://www.ticc.com.tw/wSite/np?ctNode=320&mp=1"
   },
   {
     "id": 1453,
@@ -16618,7 +16706,8 @@
     ],
     "verificationStatus": "已驗證",
     "meetingPageUrl": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/lp_Activity_1.jsp&ctNode=318&CtUnit=96&BaseDSD=7&mp=1",
-    "lastVerified": "2026-03-02T09:52:23.503Z"
+    "lastVerified": "2026-03-02T14:21:12.565Z",
+    "venueListUrl": "https://www.ticc.com.tw/wSite/np?ctNode=320&mp=1"
   },
   {
     "id": 1454,
@@ -16654,7 +16743,8 @@
     ],
     "verificationStatus": "已驗證",
     "meetingPageUrl": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/lp_Activity_1.jsp&ctNode=318&CtUnit=96&BaseDSD=7&mp=1",
-    "lastVerified": "2026-03-02T09:52:23.503Z"
+    "lastVerified": "2026-03-02T14:21:12.565Z",
+    "venueListUrl": "https://www.ticc.com.tw/wSite/np?ctNode=320&mp=1"
   },
   {
     "id": 1455,
@@ -16690,7 +16780,8 @@
     ],
     "verificationStatus": "已驗證",
     "meetingPageUrl": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/lp_Activity_1.jsp&ctNode=318&CtUnit=96&BaseDSD=7&mp=1",
-    "lastVerified": "2026-03-02T09:52:23.503Z"
+    "lastVerified": "2026-03-02T14:21:12.565Z",
+    "venueListUrl": "https://www.ticc.com.tw/wSite/np?ctNode=320&mp=1"
   },
   {
     "id": 1456,
@@ -16726,7 +16817,8 @@
     ],
     "verificationStatus": "已驗證",
     "meetingPageUrl": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/lp_Activity_1.jsp&ctNode=318&CtUnit=96&BaseDSD=7&mp=1",
-    "lastVerified": "2026-03-02T09:52:23.503Z"
+    "lastVerified": "2026-03-02T14:21:12.565Z",
+    "venueListUrl": "https://www.ticc.com.tw/wSite/np?ctNode=320&mp=1"
   },
   {
     "id": 1457,
@@ -16762,7 +16854,8 @@
     ],
     "verificationStatus": "已驗證",
     "meetingPageUrl": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/lp_Activity_1.jsp&ctNode=318&CtUnit=96&BaseDSD=7&mp=1",
-    "lastVerified": "2026-03-02T09:52:23.503Z"
+    "lastVerified": "2026-03-02T14:21:12.565Z",
+    "venueListUrl": "https://www.ticc.com.tw/wSite/np?ctNode=320&mp=1"
   },
   {
     "id": 1458,
@@ -16798,7 +16891,8 @@
     ],
     "verificationStatus": "已驗證",
     "meetingPageUrl": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/lp_Activity_1.jsp&ctNode=318&CtUnit=96&BaseDSD=7&mp=1",
-    "lastVerified": "2026-03-02T09:52:23.503Z"
+    "lastVerified": "2026-03-02T14:21:12.565Z",
+    "venueListUrl": "https://www.ticc.com.tw/wSite/np?ctNode=320&mp=1"
   },
   {
     "id": 1459,
@@ -16834,7 +16928,8 @@
     ],
     "verificationStatus": "已驗證",
     "meetingPageUrl": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/lp_Activity_1.jsp&ctNode=318&CtUnit=96&BaseDSD=7&mp=1",
-    "lastVerified": "2026-03-02T09:52:23.503Z"
+    "lastVerified": "2026-03-02T14:21:12.565Z",
+    "venueListUrl": "https://www.ticc.com.tw/wSite/np?ctNode=320&mp=1"
   },
   {
     "id": 1460,
@@ -16870,7 +16965,8 @@
     ],
     "verificationStatus": "已驗證",
     "meetingPageUrl": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/lp_Activity_1.jsp&ctNode=318&CtUnit=96&BaseDSD=7&mp=1",
-    "lastVerified": "2026-03-02T09:52:23.503Z"
+    "lastVerified": "2026-03-02T14:21:12.565Z",
+    "venueListUrl": "https://www.ticc.com.tw/wSite/np?ctNode=320&mp=1"
   },
   {
     "id": 1461,
@@ -16906,7 +17002,8 @@
     ],
     "verificationStatus": "已驗證",
     "meetingPageUrl": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/lp_Activity_1.jsp&ctNode=318&CtUnit=96&BaseDSD=7&mp=1",
-    "lastVerified": "2026-03-02T09:52:23.503Z"
+    "lastVerified": "2026-03-02T14:21:12.565Z",
+    "venueListUrl": "https://www.ticc.com.tw/wSite/np?ctNode=320&mp=1"
   },
   {
     "id": 1462,
@@ -16942,7 +17039,8 @@
     ],
     "verificationStatus": "已驗證",
     "meetingPageUrl": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/lp_Activity_1.jsp&ctNode=318&CtUnit=96&BaseDSD=7&mp=1",
-    "lastVerified": "2026-03-02T09:52:23.503Z"
+    "lastVerified": "2026-03-02T14:21:12.565Z",
+    "venueListUrl": "https://www.ticc.com.tw/wSite/np?ctNode=320&mp=1"
   },
   {
     "id": 1463,
@@ -16978,7 +17076,8 @@
     ],
     "verificationStatus": "已驗證",
     "meetingPageUrl": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/lp_Activity_1.jsp&ctNode=318&CtUnit=96&BaseDSD=7&mp=1",
-    "lastVerified": "2026-03-02T09:52:23.503Z"
+    "lastVerified": "2026-03-02T14:21:12.565Z",
+    "venueListUrl": "https://www.ticc.com.tw/wSite/np?ctNode=320&mp=1"
   },
   {
     "id": 1464,
@@ -17014,7 +17113,8 @@
     ],
     "verificationStatus": "已驗證",
     "meetingPageUrl": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/lp_Activity_1.jsp&ctNode=318&CtUnit=96&BaseDSD=7&mp=1",
-    "lastVerified": "2026-03-02T09:52:23.503Z"
+    "lastVerified": "2026-03-02T14:21:12.565Z",
+    "venueListUrl": "https://www.ticc.com.tw/wSite/np?ctNode=320&mp=1"
   },
   {
     "id": 1465,
@@ -17050,7 +17150,8 @@
     ],
     "verificationStatus": "已驗證",
     "meetingPageUrl": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/lp_Activity_1.jsp&ctNode=318&CtUnit=96&BaseDSD=7&mp=1",
-    "lastVerified": "2026-03-02T09:52:23.503Z"
+    "lastVerified": "2026-03-02T14:21:12.565Z",
+    "venueListUrl": "https://www.ticc.com.tw/wSite/np?ctNode=320&mp=1"
   },
   {
     "id": 1466,
@@ -17086,7 +17187,8 @@
     ],
     "verificationStatus": "已驗證",
     "meetingPageUrl": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/lp_Activity_1.jsp&ctNode=318&CtUnit=96&BaseDSD=7&mp=1",
-    "lastVerified": "2026-03-02T09:52:23.503Z"
+    "lastVerified": "2026-03-02T14:21:12.565Z",
+    "venueListUrl": "https://www.ticc.com.tw/wSite/np?ctNode=320&mp=1"
   },
   {
     "id": 1467,
@@ -17122,7 +17224,8 @@
     ],
     "verificationStatus": "已驗證",
     "meetingPageUrl": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/lp_Activity_1.jsp&ctNode=318&CtUnit=96&BaseDSD=7&mp=1",
-    "lastVerified": "2026-03-02T09:52:23.503Z"
+    "lastVerified": "2026-03-02T14:21:12.565Z",
+    "venueListUrl": "https://www.ticc.com.tw/wSite/np?ctNode=320&mp=1"
   },
   {
     "id": 1468,
@@ -17158,7 +17261,8 @@
     ],
     "verificationStatus": "已驗證",
     "meetingPageUrl": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/lp_Activity_1.jsp&ctNode=318&CtUnit=96&BaseDSD=7&mp=1",
-    "lastVerified": "2026-03-02T09:52:23.503Z"
+    "lastVerified": "2026-03-02T14:21:12.565Z",
+    "venueListUrl": "https://www.ticc.com.tw/wSite/np?ctNode=320&mp=1"
   },
   {
     "id": 1469,
@@ -17194,7 +17298,8 @@
     ],
     "verificationStatus": "已驗證",
     "meetingPageUrl": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/lp_Activity_1.jsp&ctNode=318&CtUnit=96&BaseDSD=7&mp=1",
-    "lastVerified": "2026-03-02T09:52:23.503Z"
+    "lastVerified": "2026-03-02T14:21:12.565Z",
+    "venueListUrl": "https://www.ticc.com.tw/wSite/np?ctNode=320&mp=1"
   },
   {
     "id": 1470,
@@ -17230,7 +17335,8 @@
     ],
     "verificationStatus": "已驗證",
     "meetingPageUrl": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/lp_Activity_1.jsp&ctNode=318&CtUnit=96&BaseDSD=7&mp=1",
-    "lastVerified": "2026-03-02T09:52:23.503Z"
+    "lastVerified": "2026-03-02T14:21:12.565Z",
+    "venueListUrl": "https://www.ticc.com.tw/wSite/np?ctNode=320&mp=1"
   },
   {
     "id": 1471,
@@ -17266,7 +17372,8 @@
     ],
     "verificationStatus": "已驗證",
     "meetingPageUrl": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/lp_Activity_1.jsp&ctNode=318&CtUnit=96&BaseDSD=7&mp=1",
-    "lastVerified": "2026-03-02T09:52:23.503Z"
+    "lastVerified": "2026-03-02T14:21:12.565Z",
+    "venueListUrl": "https://www.ticc.com.tw/wSite/np?ctNode=320&mp=1"
   },
   {
     "id": 1472,
@@ -17302,7 +17409,8 @@
     ],
     "verificationStatus": "已驗證",
     "meetingPageUrl": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/lp_Activity_1.jsp&ctNode=318&CtUnit=96&BaseDSD=7&mp=1",
-    "lastVerified": "2026-03-02T09:52:23.503Z"
+    "lastVerified": "2026-03-02T14:21:12.565Z",
+    "venueListUrl": "https://www.ticc.com.tw/wSite/np?ctNode=320&mp=1"
   },
   {
     "id": 1473,
@@ -17338,7 +17446,8 @@
     ],
     "verificationStatus": "已驗證",
     "meetingPageUrl": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/lp_Activity_1.jsp&ctNode=318&CtUnit=96&BaseDSD=7&mp=1",
-    "lastVerified": "2026-03-02T09:52:23.503Z"
+    "lastVerified": "2026-03-02T14:21:12.565Z",
+    "venueListUrl": "https://www.ticc.com.tw/wSite/np?ctNode=320&mp=1"
   },
   {
     "id": 1474,
@@ -17374,7 +17483,8 @@
     ],
     "verificationStatus": "已驗證",
     "meetingPageUrl": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/lp_Activity_1.jsp&ctNode=318&CtUnit=96&BaseDSD=7&mp=1",
-    "lastVerified": "2026-03-02T09:52:23.503Z"
+    "lastVerified": "2026-03-02T14:21:12.565Z",
+    "venueListUrl": "https://www.ticc.com.tw/wSite/np?ctNode=320&mp=1"
   },
   {
     "id": 1475,
@@ -17410,7 +17520,8 @@
     ],
     "verificationStatus": "已驗證",
     "meetingPageUrl": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/lp_Activity_1.jsp&ctNode=318&CtUnit=96&BaseDSD=7&mp=1",
-    "lastVerified": "2026-03-02T09:52:23.503Z"
+    "lastVerified": "2026-03-02T14:21:12.565Z",
+    "venueListUrl": "https://www.ticc.com.tw/wSite/np?ctNode=320&mp=1"
   },
   {
     "id": 1476,
@@ -17446,7 +17557,8 @@
     ],
     "verificationStatus": "已驗證",
     "meetingPageUrl": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/lp_Activity_1.jsp&ctNode=318&CtUnit=96&BaseDSD=7&mp=1",
-    "lastVerified": "2026-03-02T09:52:23.503Z"
+    "lastVerified": "2026-03-02T14:21:12.565Z",
+    "venueListUrl": "https://www.ticc.com.tw/wSite/np?ctNode=320&mp=1"
   },
   {
     "id": 1477,
@@ -17482,7 +17594,8 @@
     ],
     "verificationStatus": "已驗證",
     "meetingPageUrl": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/lp_Activity_1.jsp&ctNode=318&CtUnit=96&BaseDSD=7&mp=1",
-    "lastVerified": "2026-03-02T09:52:23.503Z"
+    "lastVerified": "2026-03-02T14:21:12.565Z",
+    "venueListUrl": "https://www.ticc.com.tw/wSite/np?ctNode=320&mp=1"
   },
   {
     "id": 1478,
@@ -17518,7 +17631,8 @@
     ],
     "verificationStatus": "已驗證",
     "meetingPageUrl": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/lp_Activity_1.jsp&ctNode=318&CtUnit=96&BaseDSD=7&mp=1",
-    "lastVerified": "2026-03-02T09:52:23.503Z"
+    "lastVerified": "2026-03-02T14:21:12.565Z",
+    "venueListUrl": "https://www.ticc.com.tw/wSite/np?ctNode=320&mp=1"
   },
   {
     "id": 1479,
@@ -17554,7 +17668,8 @@
     ],
     "verificationStatus": "已驗證",
     "meetingPageUrl": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/lp_Activity_1.jsp&ctNode=318&CtUnit=96&BaseDSD=7&mp=1",
-    "lastVerified": "2026-03-02T09:52:23.503Z"
+    "lastVerified": "2026-03-02T14:21:12.565Z",
+    "venueListUrl": "https://www.ticc.com.tw/wSite/np?ctNode=320&mp=1"
   },
   {
     "id": 1480,
@@ -17590,7 +17705,8 @@
     ],
     "verificationStatus": "已驗證",
     "meetingPageUrl": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/lp_Activity_1.jsp&ctNode=318&CtUnit=96&BaseDSD=7&mp=1",
-    "lastVerified": "2026-03-02T09:52:23.503Z"
+    "lastVerified": "2026-03-02T14:21:12.565Z",
+    "venueListUrl": "https://www.ticc.com.tw/wSite/np?ctNode=320&mp=1"
   },
   {
     "id": 1481,
@@ -17626,7 +17742,8 @@
     ],
     "verificationStatus": "已驗證",
     "meetingPageUrl": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/lp_Activity_1.jsp&ctNode=318&CtUnit=96&BaseDSD=7&mp=1",
-    "lastVerified": "2026-03-02T09:52:23.503Z"
+    "lastVerified": "2026-03-02T14:21:12.565Z",
+    "venueListUrl": "https://www.ticc.com.tw/wSite/np?ctNode=320&mp=1"
   },
   {
     "id": 1482,
@@ -17662,7 +17779,8 @@
     ],
     "verificationStatus": "已驗證",
     "meetingPageUrl": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/lp_Activity_1.jsp&ctNode=318&CtUnit=96&BaseDSD=7&mp=1",
-    "lastVerified": "2026-03-02T09:52:23.503Z"
+    "lastVerified": "2026-03-02T14:21:12.565Z",
+    "venueListUrl": "https://www.ticc.com.tw/wSite/np?ctNode=320&mp=1"
   },
   {
     "id": 1483,
@@ -17698,7 +17816,8 @@
     ],
     "verificationStatus": "已驗證",
     "meetingPageUrl": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/lp_Activity_1.jsp&ctNode=318&CtUnit=96&BaseDSD=7&mp=1",
-    "lastVerified": "2026-03-02T09:52:23.503Z"
+    "lastVerified": "2026-03-02T14:21:12.565Z",
+    "venueListUrl": "https://www.ticc.com.tw/wSite/np?ctNode=320&mp=1"
   },
   {
     "id": 1484,
@@ -17734,7 +17853,8 @@
     ],
     "verificationStatus": "已驗證",
     "meetingPageUrl": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/lp_Activity_1.jsp&ctNode=318&CtUnit=96&BaseDSD=7&mp=1",
-    "lastVerified": "2026-03-02T09:52:23.503Z"
+    "lastVerified": "2026-03-02T14:21:12.565Z",
+    "venueListUrl": "https://www.ticc.com.tw/wSite/np?ctNode=320&mp=1"
   },
   {
     "id": 1485,
@@ -17770,7 +17890,8 @@
     ],
     "verificationStatus": "已驗證",
     "meetingPageUrl": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/lp_Activity_1.jsp&ctNode=318&CtUnit=96&BaseDSD=7&mp=1",
-    "lastVerified": "2026-03-02T09:52:23.503Z"
+    "lastVerified": "2026-03-02T14:21:12.565Z",
+    "venueListUrl": "https://www.ticc.com.tw/wSite/np?ctNode=320&mp=1"
   },
   {
     "id": 1486,
@@ -17806,7 +17927,8 @@
     ],
     "verificationStatus": "已驗證",
     "meetingPageUrl": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/lp_Activity_1.jsp&ctNode=318&CtUnit=96&BaseDSD=7&mp=1",
-    "lastVerified": "2026-03-02T09:52:23.503Z"
+    "lastVerified": "2026-03-02T14:21:12.565Z",
+    "venueListUrl": "https://www.ticc.com.tw/wSite/np?ctNode=320&mp=1"
   },
   {
     "id": 1487,
@@ -17842,7 +17964,8 @@
     ],
     "verificationStatus": "已驗證",
     "meetingPageUrl": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/lp_Activity_1.jsp&ctNode=318&CtUnit=96&BaseDSD=7&mp=1",
-    "lastVerified": "2026-03-02T09:52:23.503Z"
+    "lastVerified": "2026-03-02T14:21:12.565Z",
+    "venueListUrl": "https://www.ticc.com.tw/wSite/np?ctNode=320&mp=1"
   },
   {
     "id": 1488,
@@ -17878,7 +18001,8 @@
     ],
     "verificationStatus": "已驗證",
     "meetingPageUrl": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/lp_Activity_1.jsp&ctNode=318&CtUnit=96&BaseDSD=7&mp=1",
-    "lastVerified": "2026-03-02T09:52:23.503Z"
+    "lastVerified": "2026-03-02T14:21:12.565Z",
+    "venueListUrl": "https://www.ticc.com.tw/wSite/np?ctNode=320&mp=1"
   },
   {
     "id": 1489,
@@ -17914,7 +18038,8 @@
     ],
     "verificationStatus": "已驗證",
     "meetingPageUrl": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/lp_Activity_1.jsp&ctNode=318&CtUnit=96&BaseDSD=7&mp=1",
-    "lastVerified": "2026-03-02T09:52:23.503Z"
+    "lastVerified": "2026-03-02T14:21:12.565Z",
+    "venueListUrl": "https://www.ticc.com.tw/wSite/np?ctNode=320&mp=1"
   },
   {
     "id": 1490,
@@ -17950,7 +18075,8 @@
     ],
     "verificationStatus": "已驗證",
     "meetingPageUrl": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/lp_Activity_1.jsp&ctNode=318&CtUnit=96&BaseDSD=7&mp=1",
-    "lastVerified": "2026-03-02T09:52:23.503Z"
+    "lastVerified": "2026-03-02T14:21:12.565Z",
+    "venueListUrl": "https://www.ticc.com.tw/wSite/np?ctNode=320&mp=1"
   },
   {
     "id": 1491,
@@ -17986,7 +18112,8 @@
     ],
     "verificationStatus": "已驗證",
     "meetingPageUrl": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/lp_Activity_1.jsp&ctNode=318&CtUnit=96&BaseDSD=7&mp=1",
-    "lastVerified": "2026-03-02T09:52:23.503Z"
+    "lastVerified": "2026-03-02T14:21:12.565Z",
+    "venueListUrl": "https://www.ticc.com.tw/wSite/np?ctNode=320&mp=1"
   },
   {
     "id": 1492,
@@ -18022,7 +18149,8 @@
     ],
     "verificationStatus": "已驗證",
     "meetingPageUrl": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/lp_Activity_1.jsp&ctNode=318&CtUnit=96&BaseDSD=7&mp=1",
-    "lastVerified": "2026-03-02T09:52:23.503Z"
+    "lastVerified": "2026-03-02T14:21:12.565Z",
+    "venueListUrl": "https://www.ticc.com.tw/wSite/np?ctNode=320&mp=1"
   },
   {
     "id": 1493,
@@ -18063,7 +18191,8 @@
     ],
     "verificationStatus": "已驗證",
     "meetingPageUrl": "https://www.sce.ntnu.edu.tw/home/space/",
-    "lastVerified": "2026-03-02T09:52:23.503Z"
+    "lastVerified": "2026-03-02T14:21:16.511Z",
+    "venueListUrl": "https://www.sce.ntnu.edu.tw/home/space/"
   },
   {
     "id": 1494,
@@ -18103,7 +18232,8 @@
     ],
     "verificationStatus": "已驗證",
     "meetingPageUrl": "https://www.sce.ntnu.edu.tw/home/space/",
-    "lastVerified": "2026-03-02T09:52:23.503Z"
+    "lastVerified": "2026-03-02T14:21:16.511Z",
+    "venueListUrl": "https://www.sce.ntnu.edu.tw/home/space/"
   },
   {
     "id": 1495,
@@ -18143,7 +18273,8 @@
     ],
     "verificationStatus": "已驗證",
     "meetingPageUrl": "https://www.sce.ntnu.edu.tw/home/space/",
-    "lastVerified": "2026-03-02T09:52:23.503Z"
+    "lastVerified": "2026-03-02T14:21:16.511Z",
+    "venueListUrl": "https://www.sce.ntnu.edu.tw/home/space/"
   },
   {
     "id": 1496,
@@ -18183,7 +18314,8 @@
     ],
     "verificationStatus": "已驗證",
     "meetingPageUrl": "https://www.sce.ntnu.edu.tw/home/space/",
-    "lastVerified": "2026-03-02T09:52:23.503Z"
+    "lastVerified": "2026-03-02T14:21:16.511Z",
+    "venueListUrl": "https://www.sce.ntnu.edu.tw/home/space/"
   },
   {
     "id": 1497,
@@ -18223,7 +18355,8 @@
     ],
     "verificationStatus": "已驗證",
     "meetingPageUrl": "https://www.sce.ntnu.edu.tw/home/space/",
-    "lastVerified": "2026-03-02T09:52:23.503Z"
+    "lastVerified": "2026-03-02T14:21:16.511Z",
+    "venueListUrl": "https://www.sce.ntnu.edu.tw/home/space/"
   },
   {
     "id": 1498,
@@ -18263,7 +18396,8 @@
     ],
     "verificationStatus": "已驗證",
     "meetingPageUrl": "https://www.sce.ntnu.edu.tw/home/space/",
-    "lastVerified": "2026-03-02T09:52:23.503Z"
+    "lastVerified": "2026-03-02T14:21:16.511Z",
+    "venueListUrl": "https://www.sce.ntnu.edu.tw/home/space/"
   },
   {
     "id": 1499,
@@ -18303,7 +18437,8 @@
     ],
     "verificationStatus": "已驗證",
     "meetingPageUrl": "https://www.sce.ntnu.edu.tw/home/space/",
-    "lastVerified": "2026-03-02T09:52:23.503Z"
+    "lastVerified": "2026-03-02T14:21:16.511Z",
+    "venueListUrl": "https://www.sce.ntnu.edu.tw/home/space/"
   },
   {
     "id": 1500,
@@ -18343,7 +18478,8 @@
     ],
     "verificationStatus": "已驗證",
     "meetingPageUrl": "https://www.sce.ntnu.edu.tw/home/space/",
-    "lastVerified": "2026-03-02T09:52:23.503Z"
+    "lastVerified": "2026-03-02T14:21:16.511Z",
+    "venueListUrl": "https://www.sce.ntnu.edu.tw/home/space/"
   },
   {
     "id": 1501,
@@ -18383,7 +18519,8 @@
     ],
     "verificationStatus": "已驗證",
     "meetingPageUrl": "https://www.sce.ntnu.edu.tw/home/space/",
-    "lastVerified": "2026-03-02T09:52:23.503Z"
+    "lastVerified": "2026-03-02T14:21:16.511Z",
+    "venueListUrl": "https://www.sce.ntnu.edu.tw/home/space/"
   },
   {
     "id": 1502,
@@ -18423,7 +18560,8 @@
     ],
     "verificationStatus": "已驗證",
     "meetingPageUrl": "https://www.sce.ntnu.edu.tw/home/space/",
-    "lastVerified": "2026-03-02T09:52:23.503Z"
+    "lastVerified": "2026-03-02T14:21:16.511Z",
+    "venueListUrl": "https://www.sce.ntnu.edu.tw/home/space/"
   },
   {
     "id": 1503,
@@ -18463,7 +18601,8 @@
     ],
     "verificationStatus": "已驗證",
     "meetingPageUrl": "https://www.sce.ntnu.edu.tw/home/space/",
-    "lastVerified": "2026-03-02T09:52:23.503Z"
+    "lastVerified": "2026-03-02T14:21:16.511Z",
+    "venueListUrl": "https://www.sce.ntnu.edu.tw/home/space/"
   },
   {
     "id": 1504,
@@ -18503,7 +18642,8 @@
     ],
     "verificationStatus": "已驗證",
     "meetingPageUrl": "https://www.sce.ntnu.edu.tw/home/space/",
-    "lastVerified": "2026-03-02T09:52:23.503Z"
+    "lastVerified": "2026-03-02T14:21:16.511Z",
+    "venueListUrl": "https://www.sce.ntnu.edu.tw/home/space/"
   },
   {
     "id": 1505,
@@ -18543,7 +18683,8 @@
     ],
     "verificationStatus": "已驗證",
     "meetingPageUrl": "https://www.sce.ntnu.edu.tw/home/space/",
-    "lastVerified": "2026-03-02T09:52:23.503Z"
+    "lastVerified": "2026-03-02T14:21:16.511Z",
+    "venueListUrl": "https://www.sce.ntnu.edu.tw/home/space/"
   },
   {
     "id": 1506,

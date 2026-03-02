@@ -1,0 +1,248 @@
+[
+  {
+    "url": "https://www.tccc.com.tw/",
+    "name": "TCCC台灣文創訓練中心",
+    "ids": [
+      1037
+    ],
+    "venueListUrl": null,
+    "venueMainImageUrl": null,
+    "rooms": [],
+    "error": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.tccc.com.tw/\nCall log:\n  - navigating to \"https://www.tccc.com.tw/\", waiting until \"networkidle\"\n"
+  },
+  {
+    "url": "https://www.marriott.com/en-us/hotels/tpewh-w-taipei/",
+    "name": "台北W飯店(WTaipei)",
+    "ids": [
+      1047
+    ],
+    "venueListUrl": null,
+    "venueMainImageUrl": null,
+    "rooms": [],
+    "error": "找不到會議室頁面"
+  },
+  {
+    "url": "https://www.palaisdechinehotel.com/",
+    "name": "台北君品酒店(PalaisdeChine)",
+    "ids": [
+      1060
+    ],
+    "venueListUrl": null,
+    "venueMainImageUrl": null,
+    "rooms": [],
+    "error": "page.goto: Timeout 45000ms exceeded.\nCall log:\n  - navigating to \"https://www.palaisdechinehotel.com/\", waiting until \"networkidle\"\n"
+  },
+  {
+    "url": "https://www.hyatt.com/zh-TW/hotel/taiwan/grand-hyatt-taipei/tyoph",
+    "name": "台北君悅酒店(GrandHyattTaipei)",
+    "ids": [
+      1061
+    ],
+    "venueListUrl": null,
+    "venueMainImageUrl": null,
+    "rooms": [],
+    "error": "找不到會議室頁面"
+  },
+  {
+    "url": "http://www.tbc-group.com/",
+    "name": "台北商務會館",
+    "ids": [
+      1066
+    ],
+    "venueListUrl": null,
+    "venueMainImageUrl": null,
+    "rooms": [],
+    "error": "page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.tbc-group.com/\nCall log:\n  - navigating to \"http://www.tbc-group.com/\", waiting until \"networkidle\"\n"
+  },
+  {
+    "url": "https://www.grand-hotel.org/",
+    "name": "台北圓山大飯店",
+    "ids": [
+      1072
+    ],
+    "venueListUrl": null,
+    "venueMainImageUrl": null,
+    "rooms": [],
+    "error": "找不到會議室頁面"
+  },
+  {
+    "url": "https://www.humblehouse.com",
+    "name": "台北寒舍艾麗酒店(HummerHouse)",
+    "ids": [
+      1078
+    ],
+    "venueListUrl": null,
+    "venueMainImageUrl": null,
+    "rooms": [],
+    "error": "找不到會議室頁面"
+  },
+  {
+    "url": "https://www.citizenm.com/hotels/asia/taipei/",
+    "name": "台北意舍酒店(CitizenM)",
+    "ids": [
+      1083
+    ],
+    "venueListUrl": null,
+    "venueMainImageUrl": null,
+    "rooms": [],
+    "error": "page.goto: Timeout 45000ms exceeded.\nCall log:\n  - navigating to \"https://www.citizenm.com/hotels/asia/taipei/\", waiting until \"networkidle\"\n"
+  },
+  {
+    "url": "https://www.mandarinoriental.com/zh-hk/taipei/",
+    "name": "台北文華東方酒店(MOHTaipei)",
+    "ids": [
+      1085
+    ],
+    "venueListUrl": "https://www.mandarinoriental.com/zh-hk/taipei/songshan/events",
+    "venueMainImageUrl": "https://media.ffycdn.net/eu/mandarin-oriental-hotel-group/oy6E3rsLkt5vaNhNAcTM.jpg",
+    "rooms": [],
+    "error": null
+  },
+  {
+    "url": "https://www.regenthotels.com/tw/regent-taipei",
+    "name": "台北晶華酒店(RegentTaipei)",
+    "ids": [
+      1086
+    ],
+    "venueListUrl": null,
+    "venueMainImageUrl": null,
+    "rooms": [],
+    "error": "找不到會議室頁面"
+  },
+  {
+    "url": "https://www.dynasty.com.tw",
+    "name": "台北王朝大酒店",
+    "ids": [
+      1090
+    ],
+    "venueListUrl": "https://www.dynasty.com.tw/news",
+    "venueMainImageUrl": "https://www.dynasty.com.tw/images/banner4.jpg",
+    "rooms": [],
+    "error": null
+  },
+  {
+    "url": "https://www.grandmayfull.com/",
+    "name": "台北美福大飯店",
+    "ids": [
+      1095
+    ],
+    "venueListUrl": "https://www.tablecheck.com/en/grand-mayfull-hotel-taipei-palette-buffet/reserve/landing?require_venue=true",
+    "venueMainImageUrl": null,
+    "rooms": [],
+    "error": null
+  },
+  {
+    "url": "https://www.grandmayfull.com",
+    "name": "台北美福大飯店",
+    "ids": [
+      1096
+    ],
+    "venueListUrl": "https://www.tablecheck.com/en/grand-mayfull-hotel-taipei-palette-buffet/reserve/landing?require_venue=true",
+    "venueMainImageUrl": null,
+    "rooms": [],
+    "error": null
+  },
+  {
+    "url": "https://www.hotelroyal.com.tw/zh-tw/taipei",
+    "name": "台北老爺大酒店(RoyalInnTaipei)",
+    "ids": [
+      1097
+    ],
+    "venueListUrl": "https://www.hotelroyal.com.tw/zh-tw/promotions/meeting",
+    "venueMainImageUrl": "https://imagedelivery.net/a6-OYZSpZSiOriMeuFHR3w/0a658dbf-567c-4584-09aa-c4146693db00/public",
+    "rooms": [],
+    "error": null
+  },
+  {
+    "url": "https://www.marriott.com/en-us/hotels/tpemd-le-meridien-taipei/",
+    "name": "台北艾美酒店",
+    "ids": [
+      1098
+    ],
+    "venueListUrl": null,
+    "venueMainImageUrl": null,
+    "rooms": [],
+    "error": "找不到會議室頁面"
+  },
+  {
+    "url": "https://www.lemeridien.com/taipei",
+    "name": "台北艾美酒店",
+    "ids": [
+      1099,
+      1113
+    ],
+    "venueListUrl": "https://le-meridien.marriott.com/programmes/meetings-and-events/",
+    "venueMainImageUrl": null,
+    "rooms": [],
+    "error": null
+  },
+  {
+    "url": "https://www.taipeigarden.com.tw/",
+    "name": "台北花園大酒店(TGHotel)",
+    "ids": [
+      1100
+    ],
+    "venueListUrl": "https://www.taipeigarden.com.tw/banquets-conferences/meeting-package/",
+    "venueMainImageUrl": "https://www.taipeigarden.com.tw/wp-content/uploads/sites/278/2023/03/10636247_10152352649698616_2574451134329955712_n-removebg-preview-1.png",
+    "rooms": [
+      {
+        "name": "08\n              NT$ 3,045  抵達 離開"
+      },
+      {
+        "name": "15\n              NT$ 3,045  抵達 離開"
+      },
+      {
+        "name": "22\n              NT$ 5,545  抵達 離開"
+      },
+      {
+        "name": "29\n              NT$ 3,045  抵達 離開"
+      },
+      {
+        "name": "05\n              NT$ 3,045  抵達 離開"
+      },
+      {
+        "name": "12\n              NT$ 3,045  抵達 離開"
+      },
+      {
+        "name": "19\n              NT$ 3,045  抵達 離開"
+      },
+      {
+        "name": "26\n              NT$ 3,045  抵達 離開"
+      }
+    ],
+    "error": null
+  },
+  {
+    "url": "https://www.taipeimarriott.com.tw/",
+    "name": "台北萬豪酒店(MarriottTaipei)",
+    "ids": [
+      1103
+    ],
+    "venueListUrl": "https://www.taipeimarriott.com.tw/websev?cat=page&subcat=17",
+    "venueMainImageUrl": "https://www.taipeimarriott.com.tw/files/page_176900685014vqao357_s.jpg",
+    "rooms": [],
+    "error": null
+  },
+  {
+    "url": "https://www.shangri-la.com/taipei",
+    "name": "台北香格里拉遠東國際大飯店",
+    "ids": [
+      1106
+    ],
+    "venueListUrl": null,
+    "venueMainImageUrl": null,
+    "rooms": [],
+    "error": "page.goto: Timeout 45000ms exceeded.\nCall log:\n  - navigating to \"https://www.shangri-la.com/taipei\", waiting until \"networkidle\"\n"
+  },
+  {
+    "url": "https://sports.gov.taipei/",
+    "name": "台北體育館",
+    "ids": [
+      1107
+    ],
+    "venueListUrl": "https://vbs.sports.taipei/venues/?G=3",
+    "venueMainImageUrl": null,
+    "rooms": [],
+    "error": null
+  }
+]
