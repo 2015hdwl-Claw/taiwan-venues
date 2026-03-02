@@ -1,0 +1,47 @@
+[
+  {
+    "ID": 1076,
+    "名稱": "台北寒舍艾美酒店(LeMeridienTaipei)",
+    "venueListUrl": "https://www.lemeridien-taipei.com/websev?lang=zh-tw&ref=pages&cat=43&type=0",
+    "venueMainImageUrl": null,
+    "roomsCount": 0,
+    "狀態": "待修",
+    "備註": "Phase 1,2,5 通過。問題：1) venueListUrl 內容不正確（返回隱私權政策）；2) 缺少 venueMainImageUrl；3) 缺少 rooms 會議室清單；4) 資料一致性問題"
+  },
+  {
+    "ID": 1077,
+    "名稱": "台北寒舍艾麗酒店(HummerHouse)",
+    "venueListUrl": "https://www.humblehousehotels.com/en/websev?cat=page&id=7",
+    "venueMainImageUrl": "https://www.humblehousehotels.com/files/page_161581908711j4rck.jpg",
+    "roomsCount": 0,
+    "狀態": "待修",
+    "備註": "Phase 1,2,4,5,6 通過。問題：1) venueListUrl 內容不正確（返回房間設施）；2) 缺少 rooms 會議室清單"
+  },
+  {
+    "ID": 1078,
+    "名稱": "台北寒舍艾麗酒店(HummerHouse)（重複）",
+    "venueListUrl": null,
+    "venueMainImageUrl": null,
+    "roomsCount": 0,
+    "狀態": "待修",
+    "備註": "Phase 1,5 通過。問題：1) 官網 humblehouse.com 非主要官網；2) 缺少 venueListUrl；3) 缺少 venueMainImageUrl；4) 缺少 rooms 會議室清單。可能為重複記錄，需確認"
+  },
+  {
+    "ID": 1079,
+    "名稱": "台北小巨蛋(TPEArena)",
+    "venueListUrl": null,
+    "venueMainImageUrl": null,
+    "roomsCount": 0,
+    "狀態": "待修",
+    "備註": "Phase 5 通過。嚴重問題：1) 官網已關閉（HTTP 404，域名待售）；2) 缺少 venueListUrl；3) 缺少 venueMainImageUrl；4) 缺少 rooms 會議室清單。建議確認是否已下架"
+  },
+  {
+    "ID": 1081,
+    "名稱": "台北德立莊酒店",
+    "venueListUrl": null,
+    "venueMainImageUrl": null,
+    "roomsCount": 0,
+    "狀態": "待修",
+    "備註": "Phase 5 通過。嚴重問題：1) 官網無法連線（DNS 錯誤，網站可能已關閉）；2) 缺少 venueListUrl；3) 缺少 venueMainImageUrl；4) 缺少 rooms 會議室清單。建議確認是否已下架"
+  }
+]

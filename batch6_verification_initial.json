@@ -1,0 +1,69 @@
+[
+  {
+    "id": 1067,
+    "name": "台北喜來登大飯店(SheratonTaipei)",
+    "url": "https://www.sheratongrandtaipei.com/websev?lang=zh-tw",
+    "venueListUrl": "https://www.sheratongrandtaipei.com/websev?lang=zh-tw&ref=pages&cat=50",
+    "venueMainImageUrl": "https://www.sheratongrandtaipei.com/style/logo_1.png",
+    "images_main": "https://www.sheratongrandtaipei.com/style/logo_1.png",
+    "images_source": "https://www.sheratongrandtaipei.com/websev?lang=zh-tw&ref=pages&cat=50",
+    "status": "上架",
+    "roomsCount": 0,
+    "notes": []
+  },
+  {
+    "id": 1068,
+    "name": "台北喜瑞飯店",
+    "url": "https://www.ambiencehotel.com.tw/",
+    "venueListUrl": "https://www.ambiencehotel.com.tw/tw/rooms-t/",
+    "venueMainImageUrl": "",
+    "images_main": "",
+    "images_source": "",
+    "status": "上架",
+    "roomsCount": 0,
+    "notes": []
+  },
+  {
+    "id": 1069,
+    "name": "台北國賓大飯店(AmbassadorTaipei)",
+    "url": "https://www.ambassador-hotels.com/tc/taipei",
+    "venueListUrl": "",
+    "venueMainImageUrl": "",
+    "images_main": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Ambassador_Hotel_Taipei_20190706.jpg",
+    "images_source": "Wikipedia Commons",
+    "status": "待修",
+    "roomsCount": 0,
+    "notes": [
+      "照片來源為 Wikipedia（需更換為官方來源）",
+      "venueMainImageUrl 與 images.main 不一致",
+      "缺少 venueListUrl"
+    ]
+  },
+  {
+    "id": 1072,
+    "name": "台北圓山大飯店",
+    "url": "https://www.grand-hotel.org/",
+    "venueListUrl": "https://www.grand-hotel.org/TW/official/ballroom.aspx?gh=TP",
+    "venueMainImageUrl": "",
+    "images_main": "https://upload.wikimedia.org/wikipedia/commons/d/de/Grand_Hotel_Taipei_20130902-2.jpg",
+    "images_source": "Wikipedia Commons",
+    "status": "上架",
+    "roomsCount": 0,
+    "notes": [
+      "照片來源為 Wikipedia（需更換為官方來源）",
+      "venueMainImageUrl 與 images.main 不一致"
+    ]
+  },
+  {
+    "id": 1075,
+    "name": "台北寒舍喜來登大飯店",
+    "url": "https://www.sheratongrandtaipei.com",
+    "venueListUrl": "https://www.sheratongrandtaipei.com/websev?lang=zh-tw&ref=pages&cat=50",
+    "venueMainImageUrl": "https://www.sheratongrandtaipei.com/style/logo_1.png",
+    "images_main": "https://www.sheratongrandtaipei.com/style/logo_1.png",
+    "images_source": "https://www.sheratongrandtaipei.com/websev?lang=zh-tw&ref=pages&cat=50",
+    "status": "上架",
+    "roomsCount": 0,
+    "notes": []
+  }
+]

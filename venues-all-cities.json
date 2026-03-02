@@ -1255,7 +1255,8 @@
     "lastUpdated": "2026-03-02T00:16:32.388Z",
     "venueListUrl": "https://www.nuzone.com.tw/2f",
     "verificationStatus": "已驗證",
-    "verificationNote": "會議室清單已補充（1個會議室）"
+    "verificationNote": "會議室清單已補充（1個會議室）",
+    "venueMainImageUrl": "https://static.wixstatic.com/media/bd4101_b060d5db47da4905a037701ac0251b0e~mv2.png/v1/fill/w_1280,h_99,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/bd4101_b060d5db47da4905a037701ac0251b0e~mv2.png"
   },
   {
     "id": 1035,
@@ -1406,10 +1407,10 @@
       "照片"
     ],
     "lastUpdated": "2026-03-02T00:16:32.293Z",
-    "lastVerified": "2026-03-02T10:34:35.881Z",
+    "lastVerified": "2026-03-03T00:58:41.005074",
     "verificationError": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.tccc.com.tw/\nCall log:\n  - navigating to \"https://www.tccc.com.tw/\", waiting until \"domcontentloaded\"\n",
     "verificationStatus": "待修",
-    "verificationNote": "缺少 venueListUrl"
+    "verificationNote": "官網已無法連線（net::ERR_NAME_NOT_RESOLVED），可能已結束營業或網址變更"
   },
   {
     "id": 1038,
@@ -1458,7 +1459,8 @@
     "verificationStatus": "已驗證",
     "meetingPageUrl": "https://www.executivecentre.com/meeting-rooms-conference",
     "lastVerified": "2026-03-02T12:59:04.138Z",
-    "venueListUrl": "https://www.executivecentre.com/meeting-rooms-conference"
+    "venueListUrl": "https://www.executivecentre.com/meeting-rooms-conference",
+    "venueMainImageUrl": "https://www.executivecentre.com/_next/image/?url=https%3A%2F%2Fassets.executivecentre.com%2Fassets%2FBanner-Product-MeetingRoom.jpg&w=3840&q=75"
   },
   {
     "id": 1039,
@@ -4722,7 +4724,7 @@
     "id": 1122,
     "name": "維多麗亞酒店",
     "venueType": "飯店場地",
-    "roomName": "宴會廳",
+    "roomName": "大宴會廳 1F",
     "city": "台北市",
     "address": "台北市中山區北安路595巷20號",
     "contactPerson": "宴會部",
@@ -4762,8 +4764,9 @@
     "lastVerified": "2026-03-02T13:16:23.073Z",
     "verifiedTitle": "維多麗亞酒店 | 官方網站",
     "meetingPageUrl": "https://grandvictoria.com.tw/%e9%a4%90%e9%a3%b2%e6%b4%bb%e5%8b%95/",
-    "venueListUrl": "https://grandvictoria.com.tw/%e9%a4%90%e9%a3%b2%e6%b4%bb%e5%8b%95/",
-    "venueMainImageUrl": "https://grandvictoria.com.tw/wp-content/uploads/sites/237/2023/09/%E6%88%B6%E5%A4%96%E6%B0%9B%E5%9C%8D-16s-1800x700.jpg"
+    "venueListUrl": "https://grandvictoria.com.tw/%e5%a9%9a%e5%ae%b4%e5%ae%b4%e6%9c%83/%e5%a4%a7%e5%ae%b4%e6%9c%83%e5%bb%b3-1f/",
+    "venueMainImageUrl": "https://grandvictoria.com.tw/wp-content/uploads/sites/237/2023/09/%E6%88%B6%E5%A4%96%E6%B0%9B%E5%9C%8D-16s-1800x700.jpg",
+    "roomsCount": 3
   },
   {
     "id": 1123,
@@ -5050,7 +5053,8 @@
     "lastVerified": "2026-03-02T15:23:44.189Z",
     "venueListUrl": "https://www.meeting.com.tw/ntu/index.php",
     "venueMainImageUrl": "https://www.meeting.com.tw/ntu/images/floor-ntu.png",
-    "verificationNote": "官網失效（DNS錯誤）"
+    "verificationNote": "已驗證，venueListUrl 正常",
+    "lastVerifiedAt": "2026-03-02T16:49:43.492Z"
   },
   {
     "id": 1129,
@@ -19394,5 +19398,35 @@
     "status": "上架",
     "source": "meeting.com.tw",
     "createdAt": "2026-03-02T16:36:43.547Z"
+  },
+  {
+    "id": "1545",
+    "name": "維多麗亞酒店",
+    "roomName": "維多麗亞廳 3F",
+    "city": "台北市",
+    "address": "台北市中山區北安路595巷20號",
+    "venueType": "飯店場地",
+    "url": "https://www.grandvictoria.com.tw/",
+    "venueListUrl": "https://grandvictoria.com.tw/%e5%a9%9a%e5%ae%b4%e5%ae%b4%e6%9c%83/%e7%b6%ad%e5%a4%9a%e9%ba%97%e4%ba%9e%e5%bb%b3-3f/",
+    "status": "上架",
+    "contactPhone": "02-2523-2828",
+    "contactEmail": "events@victoria.com.tw",
+    "createdAt": "2026-03-02T17:46:33.188Z",
+    "source": "grandvictoria.com.tw"
+  },
+  {
+    "id": "1546",
+    "name": "維多麗亞酒店",
+    "roomName": "天璽廳 3F",
+    "city": "台北市",
+    "address": "台北市中山區北安路595巷20號",
+    "venueType": "飯店場地",
+    "url": "https://www.grandvictoria.com.tw/",
+    "venueListUrl": "https://grandvictoria.com.tw/%e5%a9%9a%e5%ae%b4%e5%ae%b4%e6%9c%83/%e5%a4%a9%e7%92%bd%e5%bb%b3-3f/",
+    "status": "上架",
+    "contactPhone": "02-2523-2828",
+    "contactEmail": "events@victoria.com.tw",
+    "createdAt": "2026-03-02T17:46:33.188Z",
+    "source": "grandvictoria.com.tw"
   }
 ]

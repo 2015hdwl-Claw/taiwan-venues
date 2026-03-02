@@ -1,0 +1,92 @@
+{
+  "batch": "批次 6",
+  "verification_date": "2026-03-03T01:19:38.749637",
+  "sop_version": "V4.4",
+  "total_venues": 5,
+  "verified_venues": 2,
+  "need_fix_venues": 3,
+  "venues": [
+    {
+      "id": 1067,
+      "name": "台北喜來登大飯店",
+      "venueListUrl": "https://www.sheratongrandtaipei.com/websev?lang=zh-tw&ref=pages&cat=50",
+      "venueMainImageUrl": "https://www.sheratongrandtaipei.com/style/logo_1.png",
+      "roomsCount": "未知（需要實際統計）",
+      "status": "上架",
+      "verification_status": "✅ 已驗證",
+      "notes": [
+        "官網可正常連線",
+        "venueListUrl 正常",
+        "venueMainImageUrl 正常（官方來源）",
+        "照片來源：官方網站",
+        "會議室頁面包含會議專案資訊"
+      ]
+    },
+    {
+      "id": 1068,
+      "name": "台北喜瑞飯店",
+      "venueListUrl": "https://www.ambiencehotel.com.tw/tw/rooms-t/",
+      "venueMainImageUrl": "(缺少)",
+      "roomsCount": "未知",
+      "status": "待修",
+      "verification_status": "⚠️ 需要修正",
+      "notes": [
+        "官網可正常連線",
+        "venueListUrl 指向客房頁面（非會議室頁面）",
+        "缺少 venueMainImageUrl",
+        "建議：搜尋是否有會議室/宴會廳專屬頁面",
+        "建議：從官網抓取場地外觀照片"
+      ]
+    },
+    {
+      "id": 1069,
+      "name": "台北國賓大飯店",
+      "venueListUrl": "(缺少)",
+      "venueMainImageUrl": "(缺少)",
+      "roomsCount": 0,
+      "status": "待修",
+      "verification_status": "❌ 需要修正",
+      "notes": [
+        "官網顯示飯店本館正在改建（2022-2028年）",
+        "餐廳仍在遼寧街177號2樓營運",
+        "照片來源為 Wikipedia（違反 SOP V4.4 規定）",
+        "缺少 venueListUrl",
+        "缺少 venueMainImageUrl",
+        "建議：確認是否仍有會議場地服務",
+        "建議：如有會議服務，需找到官方照片來源"
+      ]
+    },
+    {
+      "id": 1072,
+      "name": "台北圓山大飯店",
+      "venueListUrl": "https://www.grand-hotel.org/TW/official/ballroom.aspx?gh=TP",
+      "venueMainImageUrl": "(缺少)",
+      "roomsCount": "9個會議廳/宴會廳（根據資料庫）",
+      "status": "待修",
+      "verification_status": "⚠️ 需要修正",
+      "notes": [
+        "官網可正常連線",
+        "venueListUrl 正常（宴會廳頁面）",
+        "照片來源為 Wikipedia（違反 SOP V4.4 規定）",
+        "缺少 venueMainImageUrl",
+        "建議：從官網抓取場地外觀照片",
+        "會議室頁面包含大會廳資訊"
+      ]
+    },
+    {
+      "id": 1075,
+      "name": "台北寒舍喜來登大飯店",
+      "venueListUrl": "https://www.sheratongrandtaipei.com/websev?lang=zh-tw&ref=pages&cat=50",
+      "venueMainImageUrl": "https://www.sheratongrandtaipei.com/style/logo_1.png",
+      "roomsCount": "未知（與 ID:1067 重複）",
+      "status": "上架",
+      "verification_status": "✅ 已驗證（重複記錄）",
+      "notes": [
+        "與 ID:1067 台北喜來登大飯店為同一個場地",
+        "所有資料與 ID:1067 相同",
+        "建議：合併或標記為重複記錄",
+        "官網、venueListUrl、venueMainImageUrl 都正常"
+      ]
+    }
+  ]
+}
