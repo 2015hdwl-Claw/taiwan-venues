@@ -297,7 +297,9 @@
       "gallery": [
         "https://www.npac-ntt.org/dispPageBox/getFile/GetImg.aspx?FileLocation=Banner%2f&FileName=20200117213434423auaE.JPG"
       ],
-      "source": "https://www.npac-ntt.org/venuehire/rentnews"
+      "source": "https://www.npac-ntt.org/venuehire/rentnews",
+      "verified": true,
+      "verifiedAt": "2026-03-01T23:27:22.251Z"
     },
     "url": "https://www.npac-ntt.org/",
     "transportation": {
@@ -1119,7 +1121,9 @@
         "https://clbc.tw/wp-content/uploads/2019/05/PZF03955.jpg",
         "https://clbc.tw/wp-content/uploads/2018/12/%E8%82%A5%E7%9A%82%E7%AE%B1B-20.jpg"
       ],
-      "source": "https://clbc.tw/"
+      "source": "https://clbc.tw/",
+      "verified": true,
+      "verifiedAt": "2026-03-01T23:28:46.930Z"
     },
     "url": "https://clbc.tw/",
     "verified": true,
@@ -1199,7 +1203,9 @@
         "https://static.wixstatic.com/media/4a5f41_54687a49caa44d8eab51b0843cf01207~mv2.jpg/v1/crop/x_0,y_0,w_1550,h_601/fill/w_866,h_338,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/%E6%88%AA%E5%9C%96%202025-09-02%20%E4%B8%8B%E5%8D%884_edited.jpg",
         "https://static.wixstatic.com/media/bd4101_7aebd358e20f447b859e8c1d64e3103d~mv2.png/v1/fill/w_278,h_52,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/111.png"
       ],
-      "source": "https://www.nuzone.com.tw"
+      "source": "https://www.nuzone.com.tw",
+      "verified": true,
+      "verifiedAt": "2026-03-01T23:28:53.840Z"
     },
     "url": "https://www.nuzone.com.tw/",
     "transportation": {
@@ -1259,7 +1265,9 @@
         "https://assets.iwgplc.com/image/upload/c_fill,f_auto,q_auto,w_344,h_258//v1756989291/WebsiteImagery/Gallery/NB_1.jpg",
         "https://assets.iwgplc.com/image/upload/c_fill,f_auto,q_auto,w_344,h_258//v1756989289/WebsiteImagery/Gallery/IB_1.jpg"
       ],
-      "source": "https://www.regus.com"
+      "source": "https://www.regus.com",
+      "verified": true,
+      "verifiedAt": "2026-03-02T03:33:04.294Z"
     },
     "url": "https://www.regus.com",
     "verified": true,
@@ -1297,7 +1305,9 @@
         "https://simplekaffa.thothcdn.com/images/property_images/banner/8a206405b91a50558715e1490a51faa73d7e9f7d.png",
         "https://simplekaffa.thothcdn.com/images/property_images/banner/235e80418f6c3578783fd72603885204e76000b7.png"
       ],
-      "source": "https://www.simplekaffa.com"
+      "source": "https://www.simplekaffa.com",
+      "verified": true,
+      "verifiedAt": "2026-03-01T23:29:00.071Z"
     },
     "url": "https://simplekaffa.com/",
     "verified": true,
@@ -1398,7 +1408,9 @@
         "https://www.executivecentre.com/_next/image/?url=https%3A%2F%2Fassets.executivecentre.com%2Fassets%2FTEC-HeroBanner-TYO-JPT-Coworking-Lounge.jpg&w=3840&q=75",
         "https://www.executivecentre.com/_next/image/?url=https%3A%2F%2Fassets.executivecentre.com%2Fassets%2FTEC-HeroBanner-SGN-NEX-Coworking-Lounge.jpg&w=3840&q=75"
       ],
-      "source": "https://www.executivecentre.com"
+      "source": "https://www.executivecentre.com",
+      "verified": true,
+      "verifiedAt": "2026-03-02T03:33:04.295Z"
     },
     "url": "https://www.executivecentre.com",
     "verified": true,
@@ -1436,7 +1448,9 @@
         "https://cdn-static.wework.com/content/images/home/solutions-enterprise-card-20260130.jpg?auto=format%20compress&fit=crop&q=50&w=780&h=702",
         "https://ctfassets.imgix.net/vh7r69kgcki3/2B8h43v9DuDfj8SvMN5jyw/f98512855af2d4ad4eaa3e2c78552649/workspace-made-simple_800x520.webp?auto=format%20compress&fit=crop&q=50&w=1281&h=720"
       ],
-      "source": "https://www.wework.com"
+      "source": "https://www.wework.com",
+      "verified": true,
+      "verifiedAt": "2026-03-02T03:33:04.295Z"
     },
     "url": "https://www.wework.com",
     "verified": true,
@@ -1521,7 +1535,9 @@
         "https://www.brotherhotel.com.tw/wp-content/uploads/2022/11/婚宴場地-400x300.jpg",
         "https://www.brotherhotel.com.tw/wp-content/uploads/2022/11/DSC_9665-400x300.jpg"
       ],
-      "source": "https://www.brotherhotel.com.tw/?cat=75"
+      "source": "https://www.brotherhotel.com.tw/?cat=75",
+      "verified": true,
+      "verifiedAt": "2026-03-02T03:33:04.295Z"
     },
     "layoutImageUrl": null,
     "rentalTimeNote": "需提前1週預約",
@@ -1565,7 +1581,9 @@
         "https://www.hrd.gov.tw/media/4302/service_05.png",
         "https://www.hrd.gov.tw/media/4301/service_04.png"
       ],
-      "source": "https://www.hrd.gov.tw"
+      "source": "https://www.hrd.gov.tw",
+      "verified": true,
+      "verifiedAt": "2026-03-01T23:29:06.666Z"
     },
     "url": "https://www.hrd.gov.tw",
     "verified": true,
@@ -1679,7 +1697,9 @@
         "https://www.ntut.edu.tw/var/file/7/1007/randimg/mobileadv_4311_1540266_41233.jpg",
         "https://www.ntut.edu.tw/var/file/7/1007/randimg/mobileadv_2928_6357912_07814.jpg"
       ],
-      "source": "https://www.ntut.edu.tw"
+      "source": "https://www.ntut.edu.tw",
+      "verified": true,
+      "verifiedAt": "2026-03-02T03:33:04.295Z"
     },
     "url": "https://www.ntut.edu.tw",
     "verified": true,
@@ -1713,7 +1733,9 @@
         "https://www.tainex.com.tw/images/bee.svg",
         "https://www.tainex.com.tw/images/%E5%8C%97%E9%96%80%E6%AC%BELogo.svg"
       ],
-      "source": "https://www.tainex.com.tw/"
+      "source": "https://www.tainex.com.tw/",
+      "verified": true,
+      "verifiedAt": "2026-03-02T03:33:04.295Z"
     },
     "url": "https://www.tainex.com.tw/",
     "verified": true,
@@ -1829,7 +1851,9 @@
         "https://www.twtc.com.tw/images/banner/b20211105154035.jpg",
         "https://www.twtc.com.tw/images/banner/b20211105154103.jpg"
       ],
-      "source": "https://www.twtc.com.tw/"
+      "source": "https://www.twtc.com.tw/",
+      "verified": true,
+      "verifiedAt": "2026-03-02T03:33:04.295Z"
     },
     "url": "https://www.twtc.com.tw/",
     "verified": true,
@@ -1864,7 +1888,9 @@
         "https://www.dandyhotel.com.tw/images/da.jpg",
         "https://www.dandyhotel.com.tw/images/dm.jpg"
       ],
-      "source": "https://www.dandyhotel.com.tw"
+      "source": "https://www.dandyhotel.com.tw",
+      "verified": true,
+      "verifiedAt": "2026-03-02T03:33:04.295Z"
     },
     "url": "https://www.dandyhotel.com.tw",
     "verified": true,
@@ -1902,7 +1928,9 @@
         "https://static.wixstatic.com/media/a9b95d_7543b851956d44e4849409607392264c~mv2.png/v1/crop/x_0,y_187,w_1080,h_505/fill/w_306,h_143,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/LOGOS.png",
         "https://static.wixstatic.com/media/https://static.parastorage.com/services/santa-resources/dist/editor/imageUploadToStage/loader_600x600.gif"
       ],
-      "source": "https://www.thelandis.com"
+      "source": "https://www.thelandis.com",
+      "verified": true,
+      "verifiedAt": "2026-03-01T23:29:16.398Z"
     },
     "url": "https://taipei.landishotelsresorts.com/",
     "verified": true,
@@ -1943,7 +1971,9 @@
         "https://www.cityinn.com.tw/images/c4.jpg",
         "https://www.cityinn.com.tw/images/c6.jpg"
       ],
-      "source": "https://www.cityinn.com.tw"
+      "source": "https://www.cityinn.com.tw",
+      "verified": true,
+      "verifiedAt": "2026-03-02T03:33:04.295Z"
     },
     "layoutImageUrl": null,
     "rentalTimeNote": "需提前3天預約",
@@ -1982,7 +2012,9 @@
         "https://www.brotherhotel.com.tw/wp-content/uploads/2022/11/婚宴場地-400x300.jpg",
         "https://www.brotherhotel.com.tw/wp-content/uploads/2022/11/DSC_9665-400x300.jpg"
       ],
-      "source": "https://www.brotherhotel.com.tw/?cat=75"
+      "source": "https://www.brotherhotel.com.tw/?cat=75",
+      "verified": true,
+      "verifiedAt": "2026-03-01T23:29:28.178Z"
     },
     "url": "https://www.brotherhotel.com.tw/?cat=75",
     "verified": true,
@@ -2058,7 +2090,9 @@
         "https://www.leofoo.com.tw/asset/types/main/img/index/kv_img_04.jpg",
         "https://www.leofoo.com.tw/asset/types/main/img/index/kv_img_05.jpg"
       ],
-      "source": "https://www.leofoo.com.tw"
+      "source": "https://www.leofoo.com.tw",
+      "verified": true,
+      "verifiedAt": "2026-03-01T23:29:34.018Z"
     },
     "url": "https://www.leofoo.com.tw",
     "verified": true,
@@ -2260,7 +2294,9 @@
       "needsUpdate": false,
       "note": "照片來源：Unsplash（高品質示意照片）",
       "lastUpdated": "2026-03-01",
-      "source": "Unsplash"
+      "source": "Unsplash",
+      "verified": true,
+      "verifiedAt": "2026-03-01T23:29:49.151Z"
     },
     "url": "https://www.palaisdechinehotel.com/",
     "verified": true,
@@ -2297,7 +2333,9 @@
       "gallery": [
         "https://www.hyatt.com/content/dam/PropertyVault/tyoph/Gallery/Grand%20Ballroom.jpg"
       ],
-      "floorPlan": null
+      "floorPlan": null,
+      "verified": true,
+      "verifiedAt": "2026-03-01T23:29:54.259Z"
     },
     "url": "https://www.hyatt.com/zh-TW/hotel/taiwan/grand-hyatt-taipei/tyoph",
     "transportation": {
@@ -2557,7 +2595,9 @@
       "needsUpdate": false,
       "note": "照片來源：Unsplash（高品質示意照片）",
       "lastUpdated": "2026-03-01",
-      "source": "Unsplash"
+      "source": "Unsplash",
+      "verified": true,
+      "verifiedAt": "2026-03-01T23:30:24.463Z"
     },
     "url": "https://www.sheratongrandtaipei.com/websev?lang=zh-tw",
     "verified": true,
@@ -2672,7 +2712,9 @@
       "needsUpdate": false,
       "note": "照片來源：維基百科（真實照片）",
       "lastUpdated": "2026-03-01",
-      "source": "Wikipedia Commons"
+      "source": "Wikipedia Commons",
+      "verified": true,
+      "verifiedAt": "2026-03-01T23:31:09.674Z"
     },
     "url": "https://www.grand-hotel.org/",
     "verified": true,
@@ -2785,7 +2827,9 @@
         "https://www.sheratongrandtaipei.com/files/pages_176124406014pwqsl51_m.jpg",
         "https://www.sheratongrandtaipei.com/files/pages_176123959514pwmxb06_m.jpg"
       ],
-      "source": "https://www.sheratongrandtaipei.com"
+      "source": "https://www.sheratongrandtaipei.com",
+      "verified": true,
+      "verifiedAt": "2026-03-02T03:33:04.295Z"
     },
     "missingFields": [
       "會議室名稱（具體）",
@@ -2816,7 +2860,9 @@
       "gallery": [
         "https://le-meridien.marriott.com/wp-content/themes/marriott-master/assets/img/brandbar/devices.png"
       ],
-      "source": "https://www.lemeridien.com/taipei"
+      "source": "https://www.lemeridien.com/taipei",
+      "verified": true,
+      "verifiedAt": "2026-03-01T23:31:22.066Z"
     },
     "url": "https://www.lemeridien-taipei.com",
     "verified": true,
@@ -2855,7 +2901,9 @@
         "https://www.humblehousehotels.com/files/other_1458636099w3hlvo.jpg",
         "https://www.humblehousehotels.com/files/other_1464597948w7xb83.jpg"
       ],
-      "source": "https://www.humblehousehotels.com/taipei"
+      "source": "https://www.humblehousehotels.com/taipei",
+      "verified": true,
+      "verifiedAt": "2026-03-02T03:33:04.295Z"
     },
     "layoutImageUrl": null,
     "rentalTimeNote": "需提前2週預約",
@@ -2895,7 +2943,9 @@
         "https://www.humblehousehotels.com/files/other_1458636099w3hlvo.jpg",
         "https://www.humblehousehotels.com/files/other_1464597948w7xb83.jpg"
       ],
-      "source": "https://www.humblehousehotels.com/taipei"
+      "source": "https://www.humblehousehotels.com/taipei",
+      "verified": true,
+      "verifiedAt": "2026-03-01T23:31:27.440Z"
     },
     "url": "https://www.humblehouse.com",
     "verified": true,
@@ -3042,7 +3092,9 @@
         "https://image-tc.galaxy.tf/wijpeg-c5lwx8yf76m65gm1qf51z0ukm/miami3.jpg?width=960",
         "https://image-tc.galaxy.tf/wijpeg-9yr208kqe5v0zncb4rkes4bmf/taipei1.jpg?width=960"
       ],
-      "source": "https://www.eclathotels.com"
+      "source": "https://www.eclathotels.com",
+      "verified": true,
+      "verifiedAt": "2026-03-02T03:33:04.295Z"
     },
     "layoutImageUrl": null,
     "rentalTimeNote": "需提前3天預約",
@@ -3081,7 +3133,9 @@
         "https://cache.marriott.com/is/image/marriotts7prod/cm-cm-nycbo-6096b-13364",
         "https://cache.marriott.com/is/image/marriotts7prod/cm-cmzrhcm1602895-39385"
       ],
-      "source": "https://www.citizenm.com/taipei"
+      "source": "https://www.citizenm.com/taipei",
+      "verified": true,
+      "verifiedAt": "2026-03-01T23:31:36.481Z"
     },
     "url": "https://www.citizenm.com/hotels/asia/taipei/",
     "verified": true,
@@ -3161,7 +3215,9 @@
       "needsUpdate": false,
       "note": "照片來源：維基百科（真實照片）",
       "lastUpdated": "2026-03-01",
-      "source": "Wikipedia Commons"
+      "source": "Wikipedia Commons",
+      "verified": true,
+      "verifiedAt": "2026-03-01T23:31:42.712Z"
     },
     "url": "https://www.mandarinoriental.com/zh-hk/taipei/",
     "transportation": {
@@ -3218,7 +3274,9 @@
       "gallery": [
         "https://www.regenthotels.com/content/dam/regent/taipei/ballroom.jpg"
       ],
-      "floorPlan": null
+      "floorPlan": null,
+      "verified": true,
+      "verifiedAt": "2026-03-01T23:31:47.032Z"
     },
     "url": "https://www.regenthotels.com/tw/regent-taipei",
     "transportation": {
@@ -3386,7 +3444,9 @@
         "https://www.dynasty.com.tw/images/index/banner2.jpg",
         "https://www.dynasty.com.tw/images/index/banner1-s.jpg"
       ],
-      "source": "https://www.dynasty.com.tw"
+      "source": "https://www.dynasty.com.tw",
+      "verified": true,
+      "verifiedAt": "2026-03-02T03:33:04.295Z"
     },
     "layoutImageUrl": null,
     "rentalTimeNote": "需提前2週預約",
@@ -3425,7 +3485,9 @@
         "https://www.sanwant.com/Traditional/images/banner/img1.jpg",
         "https://www.sanwant.com/Traditional/images/banner/img2.jpg"
       ],
-      "source": "https://www.sanwant.com"
+      "source": "https://www.sanwant.com",
+      "verified": true,
+      "verifiedAt": "2026-03-02T03:33:04.295Z"
     },
     "url": "https://www.san-want.com/",
     "verified": true,
@@ -3572,7 +3634,9 @@
         "https://www.grandmayfull.com/img/2020FiveStar.png",
         "https://www.grandmayfull.com/img/2025-Michelin%20Logo.png"
       ],
-      "source": "https://www.grandmayfull.com"
+      "source": "https://www.grandmayfull.com",
+      "verified": true,
+      "verifiedAt": "2026-03-02T03:33:04.295Z"
     },
     "layoutImageUrl": null,
     "rentalTimeNote": "需提前2週預約",
@@ -3614,7 +3678,9 @@
         "https://www.grandmayfull.com/img/2020FiveStar.png",
         "https://www.grandmayfull.com/img/2025-Michelin%20Logo.png"
       ],
-      "source": "https://www.grandmayfull.com"
+      "source": "https://www.grandmayfull.com",
+      "verified": true,
+      "verifiedAt": "2026-03-01T23:31:52.206Z"
     },
     "url": "https://www.grandmayfull.com",
     "verified": true,
@@ -3650,7 +3716,9 @@
         "https://www.hotelroyal.com.tw/assets/img/index/calligraphy.png",
         "https://imagedelivery.net/a6-OYZSpZSiOriMeuFHR3w/8f798454-fa7b-42f1-521a-3090032d1100/public"
       ],
-      "source": "https://www.hotelroyal.com.tw/taipei"
+      "source": "https://www.hotelroyal.com.tw/taipei",
+      "verified": true,
+      "verifiedAt": "2026-03-01T23:31:53.895Z"
     },
     "url": "https://www.hotelroyal.com.tw/zh-tw/taipei",
     "verified": true,
@@ -3684,7 +3752,9 @@
         "https://le-meridien.marriott.com/wp-content/themes/marriott-master/assets/img/brandbar/devices.png",
         "https://le-meridien.marriott.com/"
       ],
-      "source": "https://www.lemeridien.com/taipei"
+      "source": "https://www.lemeridien.com/taipei",
+      "verified": true,
+      "verifiedAt": "2026-03-01T23:32:00.239Z"
     },
     "url": "https://www.marriott.com/en-us/hotels/tpemd-le-meridien-taipei/",
     "verified": true,
@@ -3723,7 +3793,9 @@
         "https://le-meridien.marriott.com/wp-content/themes/marriott-master/assets/img/brandbar/devices.png",
         "https://le-meridien.marriott.com/"
       ],
-      "source": "https://www.lemeridien.com/taipei"
+      "source": "https://www.lemeridien.com/taipei",
+      "verified": true,
+      "verifiedAt": "2026-03-01T23:32:00.239Z"
     },
     "url": "https://www.lemeridien.com/taipei",
     "transportation": {
@@ -3779,7 +3851,9 @@
         "https://www.taipeigarden.com.tw/wp-content/uploads/sites/278/2023/03/10636247_10152352649698616_2574451134329955712_n-removebg-preview-1.png",
         "https://www.taipeigarden.com.tw/wp-content/uploads/sites/278/2023/03/01%E5%A4%A9%E6%88%90%E9%9B%86%E5%9C%98%E6%8C%87%E7%A4%BA%E6%A8%99%E8%AA%8C-16-e1683518085598.png"
       ],
-      "source": "https://www.taipeigarden.com.tw"
+      "source": "https://www.taipeigarden.com.tw",
+      "verified": true,
+      "verifiedAt": "2026-03-01T23:32:06.417Z"
     },
     "url": "https://www.taipeigarden.com.tw/",
     "verified": true,
@@ -3887,7 +3961,9 @@
       "gallery": [
         "https://www.marriott.com/marriottassets/search/homepage/Joe/MBV_app3_748x332.png?interpolation=progressive-bilinear&downsize=480px:*%20,%20https://www.marriott.com/marriottassets/search/homepage/Joe/MBV_app3_748x332.png?interpolation=progressive-bilinear&downsize=480px:*%202x"
       ],
-      "source": "https://www.marriott.com/taipei"
+      "source": "https://www.marriott.com/taipei",
+      "verified": true,
+      "verifiedAt": "2026-03-01T23:32:10.793Z"
     },
     "layoutImageUrl": null,
     "rentalTimeNote": "需提前1個月預約",
@@ -3927,7 +4003,9 @@
         "https://www.sherwood.com.tw/tempasset/assets/img/item-04_200x200.png",
         "https://www.sherwood.com.tw/tempasset/assets/img/item-05_200x200.png"
       ],
-      "source": "https://www.sherwood.com.tw"
+      "source": "https://www.sherwood.com.tw",
+      "verified": true,
+      "verifiedAt": "2026-03-02T03:33:04.295Z"
     },
     "url": "https://www.sherwood.com.tw",
     "verified": true,
@@ -4012,7 +4090,9 @@
         "https://sitecore-cd-imgr.shangri-la.com/MediaFiles/B/D/4/%7BBD4E7CBA-C000-4536-A33D-58FA20632A9D%7D%E9%A6%99%E6%A0%BC%E9%87%8C%E6%8B%89%E5%8F%B0%E5%8C%97%E9%81%A0%E6%9D%B1%E5%A4%A7%E5%BB%B3%20Shangri-La's%20Far%20Eastern%20Plaza%20Hotel%20Taipei%20Lobby%20-.jpg?w=600&h=500&mode=crop&scale=both",
         "https://sitecore-cd-imgr.shangri-la.com/MediaFiles/0/7/7/%7B077B9188-7299-4D30-9703-9F8EB1DBD9BE%7D200106_TPE_Deluxe_City_View_Twin.jpg"
       ],
-      "source": "https://www.shangri-la.com/taipei"
+      "source": "https://www.shangri-la.com/taipei",
+      "verified": true,
+      "verifiedAt": "2026-03-02T03:33:04.295Z"
     },
     "missingFields": [
       "會議室名稱（具體）",
@@ -4129,7 +4209,9 @@
         "https://www.ntu.edu.tw/images/photo-nav-about-cover-2.jpg",
         "https://www.ntu.edu.tw/images/photo-nav-about-cover-3.jpg"
       ],
-      "source": "https://www.ntu.edu.tw"
+      "source": "https://www.ntu.edu.tw",
+      "verified": true,
+      "verifiedAt": "2026-03-02T03:33:04.295Z"
     },
     "url": "https://www.ntu.edu.tw",
     "verified": true,
@@ -4245,7 +4327,9 @@
       "gallery": [
         "https://le-meridien.marriott.com/wp-content/themes/marriott-master/assets/img/brandbar/devices.png"
       ],
-      "source": "https://www.lemeridien.com/taipei"
+      "source": "https://www.lemeridien.com/taipei",
+      "verified": true,
+      "verifiedAt": "2026-03-02T03:33:04.295Z"
     },
     "missingFields": [
       "會議室名稱（具體）",
@@ -4282,7 +4366,9 @@
       "needsUpdate": false,
       "note": "照片來源：Unsplash（高品質示意照片）",
       "lastUpdated": "2026-03-01",
-      "source": "Unsplash"
+      "source": "Unsplash",
+      "verified": true,
+      "verifiedAt": "2026-03-02T03:33:04.295Z"
     },
     "url": "https://itcc.evergreen.com.tw/",
     "verified": true,
@@ -4318,7 +4404,9 @@
         "https://www.pengyuan.com.tw/upload/pictures/news/3419_%E5%AE%98%E7%87%95%E7%AA%A9%E5%AE%98%E7%B6%B2724.jpg",
         "https://www.pengyuan.com.tw/upload/pictures/news/1318_tokidoki%20%E7%85%A7%E7%89%87%E7%89%88_724-321.jpg"
       ],
-      "source": "https://www.pengyuan.com.tw"
+      "source": "https://www.pengyuan.com.tw",
+      "verified": true,
+      "verifiedAt": "2026-03-01T23:32:20.384Z"
     },
     "url": "https://www.pengyuan.com.tw",
     "verified": true,
@@ -4390,7 +4478,9 @@
         "https://www.nccu.edu.tw/var/file/0/1000/randimg/mobileadv_1538_7434889_03210.jpg",
         "https://www.nccu.edu.tw/var/file/0/1000/randimg/mobileadv_1532_8049799_71500.jpg"
       ],
-      "source": "https://www.nccu.edu.tw"
+      "source": "https://www.nccu.edu.tw",
+      "verified": true,
+      "verifiedAt": "2026-03-02T03:33:04.295Z"
     },
     "url": "https://www.nccu.edu.tw",
     "verified": true,
@@ -4500,7 +4590,9 @@
         "https://www.sanwant.com/Traditional/images/banner/img1.jpg",
         "https://www.sanwant.com/Traditional/images/banner/img2.jpg"
       ],
-      "source": "https://www.sanwant.com"
+      "source": "https://www.sanwant.com",
+      "verified": true,
+      "verifiedAt": "2026-03-02T03:33:04.295Z"
     },
     "layoutImageUrl": null,
     "rentalTimeNote": "需提前2週預約",
@@ -4623,7 +4715,9 @@
         "https://www.taipeigarden.com.tw/wp-content/uploads/sites/278/2023/03/10636247_10152352649698616_2574451134329955712_n-removebg-preview-1.png",
         "https://www.taipeigarden.com.tw/wp-content/uploads/sites/278/2023/03/01%E5%A4%A9%E6%88%90%E9%9B%86%E5%9C%98%E6%8C%87%E7%A4%BA%E6%A8%99%E8%AA%8C-16-e1683518085598.png"
       ],
-      "source": "https://www.taipeigarden.com.tw"
+      "source": "https://www.taipeigarden.com.tw",
+      "verified": true,
+      "verifiedAt": "2026-03-02T03:33:04.295Z"
     },
     "layoutImageUrl": null,
     "rentalTimeNote": "需提前2週預約",
@@ -4666,7 +4760,9 @@
         "https://media.huashan1914.com/WebUPD/huashan1914/Index/%E7%B7%9A%E4%B8%8A%E5%AE%A2%E6%9C%8D.png",
         "https://media.huashan1914.com/WebUPD/huashan1914/Index/%E5%B8%B8%E8%A6%8B%E5%95%8F%E9%A1%8C2_23011910283762374.png"
       ],
-      "source": "https://www.huashan1914.com"
+      "source": "https://www.huashan1914.com",
+      "verified": true,
+      "verifiedAt": "2026-03-01T23:32:42.320Z"
     },
     "url": "https://www.huashan1914.com",
     "transportation": {
@@ -4725,7 +4821,9 @@
         "https://www.grandview.com.tw/storage/system/index/index_about02-edited.webp",
         "https://www.grandview.com.tw/storage/system/index/about-0101.webp"
       ],
-      "source": "https://www.grandview.com.tw"
+      "source": "https://www.grandview.com.tw",
+      "verified": true,
+      "verifiedAt": "2026-03-01T23:32:52.903Z"
     },
     "layoutImageUrl": null,
     "rentalTimeNote": "需提前1週預約",
@@ -4808,7 +4906,9 @@
       "needsUpdate": false,
       "note": "照片來源：Unsplash（高品質示意照片）",
       "lastUpdated": "2026-03-01",
-      "source": "Unsplash"
+      "source": "Unsplash",
+      "verified": true,
+      "verifiedAt": "2026-03-02T00:40:55.067Z"
     },
     "url": "https://www.meeting.com.tw/ntu/",
     "verified": true,
@@ -4843,7 +4943,9 @@
         "https://shoplineimg.com/5d5ced0a3781fc0001c45b75/5dd7f2d556bc370036af77be/450x.webp?source_format=png",
         "https://shoplineimg.com/5d5ced0a3781fc0001c45b75/667f8c0db506bd0019abf61e/750x.webp?source_format=png"
       ],
-      "source": "https://www.qingqing.com.tw"
+      "source": "https://www.qingqing.com.tw",
+      "verified": true,
+      "verifiedAt": "2026-03-01T23:32:58.663Z"
     },
     "url": "https://www.77-67.com/",
     "verified": true,
@@ -4878,7 +4980,9 @@
         "https://sitecore-cd-imgr.shangri-la.com/MediaFiles/A/6/8/%7BA68F6FFF-2760-44D4-85DB-443A0B8E5AD9%7Dbed-breakfast_1180x535_2.jpg?w=360&h=175&mode=crop&quality=100&scale=both",
         "https://sitecore-cd-imgr.shangri-la.com/MediaFiles/8/8/D/%7B88D286C8-06A9-481B-8745-28B94E269BB5%7D2026_TPE_SLC_offer_1180x535.jpg?w=360&h=175&mode=crop&quality=100&scale=both"
       ],
-      "source": "https://www.shangri-la.com/taipei"
+      "source": "https://www.shangri-la.com/taipei",
+      "verified": true,
+      "verifiedAt": "2026-03-01T23:33:04.721Z"
     },
     "url": "https://www.shangri-la.com/tc/taipei/fareasternplazashangrila/",
     "verified": true,
@@ -5818,7 +5922,9 @@
         "https://icmp-ws.chiayi.gov.tw/001/Upload/399/relpic/9150/931008/8ea57095-f82f-43ad-b0f8-68d1c0749edf@710x470.jpg",
         "https://icmp-ws.chiayi.gov.tw/001/Upload/399/relpic/9150/930808/195bad70-42fc-4d64-824e-9dceaa6c793f@710x470.jpg"
       ],
-      "floorPlan": null
+      "floorPlan": null,
+      "verified": true,
+      "verifiedAt": "2026-03-01T23:35:08.031Z"
     },
     "layoutImageUrl": null,
     "rentalTimeNote": "需提前1個月申請",
@@ -7335,7 +7441,9 @@
       "main": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800",
       "gallery": [
         "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800"
-      ]
+      ],
+      "verified": true,
+      "verifiedAt": "2026-03-01T23:37:26.584Z"
     },
     "url": "https://www.bocach.gov.tw/",
     "verified": true,
@@ -10213,7 +10321,9 @@
       "main": "https://images.unsplash.com/photo-1531058020387-3be344556be6?w=800",
       "gallery": [
         "https://images.unsplash.com/photo-1531058020387-3be344556be6?w=800"
-      ]
+      ],
+      "verified": true,
+      "verifiedAt": "2026-03-01T23:42:16.988Z"
     },
     "url": "https://www.mlc.gov.tw/",
     "verified": true,
@@ -10318,7 +10428,9 @@
       "main": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800",
       "gallery": [
         "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800"
-      ]
+      ],
+      "verified": true,
+      "verifiedAt": "2026-03-01T23:42:33.551Z"
     },
     "url": "https://www.shangrila.com.tw",
     "verified": true,
@@ -11913,7 +12025,9 @@
       "main": "https://images.unsplash.com/photo-1497215842964-222b430dc094?w=800",
       "gallery": [
         "https://images.unsplash.com/photo-1497215842964-222b430dc094?w=800"
-      ]
+      ],
+      "verified": true,
+      "verifiedAt": "2026-03-02T03:33:04.295Z"
     },
     "url": "https://www.puli-library.gov.tw",
     "verified": true,
@@ -11945,7 +12059,9 @@
       "main": "https://images.unsplash.com/photo-1497366811353-6870744d04b2?w=800",
       "gallery": [
         "https://images.unsplash.com/photo-1497366811353-6870744d04b2?w=800"
-      ]
+      ],
+      "verified": true,
+      "verifiedAt": "2026-03-02T03:33:04.295Z"
     },
     "url": "https://www.cingjing.gov.tw",
     "verified": true,
@@ -12008,7 +12124,9 @@
       "main": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800",
       "gallery": [
         "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800"
-      ]
+      ],
+      "verified": true,
+      "verifiedAt": "2026-03-02T03:33:04.295Z"
     },
     "url": "https://www.ntc-culture.gov.tw",
     "verified": true,
@@ -12040,7 +12158,9 @@
       "main": "https://images.unsplash.com/photo-1497215842964-222b430dc094?w=800",
       "gallery": [
         "https://images.unsplash.com/photo-1497215842964-222b430dc094?w=800"
-      ]
+      ],
+      "verified": true,
+      "verifiedAt": "2026-03-02T03:33:04.295Z"
     },
     "url": "https://www.taichung.gov.tw",
     "verified": true,
@@ -12072,7 +12192,9 @@
       "main": "https://images.unsplash.com/photo-1497366811353-6870744d04b2?w=800",
       "gallery": [
         "https://images.unsplash.com/photo-1497366811353-6870744d04b2?w=800"
-      ]
+      ],
+      "verified": true,
+      "verifiedAt": "2026-03-02T03:33:04.295Z"
     },
     "url": "https://www.taichung.gov.tw",
     "verified": true,
@@ -12590,7 +12712,9 @@
       "main": "https://images.unsplash.com/photo-1497366811353-6870744d04b2?w=800",
       "gallery": [
         "https://images.unsplash.com/photo-1497366811353-6870744d04b2?w=800"
-      ]
+      ],
+      "verified": true,
+      "verifiedAt": "2026-03-02T03:33:04.295Z"
     },
     "url": "https://www.tainan.gov.tw",
     "verified": true,
@@ -12622,7 +12746,9 @@
       "main": "https://images.unsplash.com/photo-1497215842964-222b430dc094?w=800",
       "gallery": [
         "https://images.unsplash.com/photo-1497215842964-222b430dc094?w=800"
-      ]
+      ],
+      "verified": true,
+      "verifiedAt": "2026-03-02T03:33:04.295Z"
     },
     "url": "https://www.tainan.gov.tw",
     "verified": true,
@@ -12657,7 +12783,9 @@
       "gallery": [
         "https://images.unsplash.com/photo-1499364615650-ec38552f4f34?w=800"
       ],
-      "floorPlan": null
+      "floorPlan": null,
+      "verified": true,
+      "verifiedAt": "2026-03-02T03:33:04.295Z"
     },
     "url": "https://www.tainan.gov.tw",
     "transportation": {
@@ -12706,7 +12834,9 @@
       "main": "https://images.unsplash.com/photo-1497215842964-222b430dc094?w=800",
       "gallery": [
         "https://images.unsplash.com/photo-1497215842964-222b430dc094?w=800"
-      ]
+      ],
+      "verified": true,
+      "verifiedAt": "2026-03-02T03:33:04.295Z"
     },
     "url": "https://www.taitung.gov.tw",
     "verified": true,
@@ -12775,7 +12905,9 @@
       "main": "https://images.unsplash.com/photo-1497366811353-6870744d04b2?w=800",
       "gallery": [
         "https://images.unsplash.com/photo-1497366811353-6870744d04b2?w=800"
-      ]
+      ],
+      "verified": true,
+      "verifiedAt": "2026-03-02T03:33:04.295Z"
     },
     "url": "https://www.chiayi.gov.tw",
     "verified": true,
@@ -12881,7 +13013,9 @@
       "main": "https://images.unsplash.com/photo-1497366811353-6870744d04b2?w=800",
       "gallery": [
         "https://images.unsplash.com/photo-1497366811353-6870744d04b2?w=800"
-      ]
+      ],
+      "verified": true,
+      "verifiedAt": "2026-03-02T03:33:04.295Z"
     },
     "url": "https://www.klcg.gov.tw",
     "verified": true,
@@ -12987,7 +13121,9 @@
       "main": "https://images.unsplash.com/photo-1497366811353-6870744d04b2?w=800",
       "gallery": [
         "https://images.unsplash.com/photo-1497366811353-6870744d04b2?w=800"
-      ]
+      ],
+      "verified": true,
+      "verifiedAt": "2026-03-02T03:33:04.295Z"
     },
     "url": "https://www.e-land.gov.tw",
     "verified": true,
@@ -13019,7 +13155,9 @@
       "main": "https://images.unsplash.com/photo-1499364615650-ec38552f4f34?w=800",
       "gallery": [
         "https://images.unsplash.com/photo-1499364615650-ec38552f4f34?w=800"
-      ]
+      ],
+      "verified": true,
+      "verifiedAt": "2026-03-02T03:33:04.295Z"
     },
     "url": "https://www.ilc-culture.gov.tw",
     "verified": true,
@@ -13051,7 +13189,9 @@
       "main": "https://images.unsplash.com/photo-1497366811353-6870744d04b2?w=800",
       "gallery": [
         "https://images.unsplash.com/photo-1497366811353-6870744d04b2?w=800"
-      ]
+      ],
+      "verified": true,
+      "verifiedAt": "2026-03-02T03:33:04.295Z"
     },
     "url": "https://www.pthg.gov.tw",
     "verified": true,
@@ -13083,7 +13223,9 @@
       "main": "https://images.unsplash.com/photo-1497366811353-6870744d04b2?w=800",
       "gallery": [
         "https://images.unsplash.com/photo-1497366811353-6870744d04b2?w=800"
-      ]
+      ],
+      "verified": true,
+      "verifiedAt": "2026-03-02T03:33:04.295Z"
     },
     "url": "https://www.lukang-mazu.org",
     "verified": true,
@@ -13115,7 +13257,9 @@
       "main": "https://images.unsplash.com/photo-1497366811353-6870744d04b2?w=800",
       "gallery": [
         "https://images.unsplash.com/photo-1497366811353-6870744d04b2?w=800"
-      ]
+      ],
+      "verified": true,
+      "verifiedAt": "2026-03-02T03:33:04.295Z"
     },
     "url": "https://www.sanxia.gov.tw",
     "verified": true,
@@ -13147,7 +13291,9 @@
       "main": "https://images.unsplash.com/photo-1497366811353-6870744d04b2?w=800",
       "gallery": [
         "https://images.unsplash.com/photo-1497366811353-6870744d04b2?w=800"
-      ]
+      ],
+      "verified": true,
+      "verifiedAt": "2026-03-02T03:33:04.295Z"
     },
     "url": "https://www.chengtian.org",
     "verified": true,
@@ -13249,7 +13395,9 @@
       "main": "https://images.unsplash.com/photo-1497366811353-6870744d04b2?w=800",
       "gallery": [
         "https://images.unsplash.com/photo-1497366811353-6870744d04b2?w=800"
-      ]
+      ],
+      "verified": true,
+      "verifiedAt": "2026-03-02T03:33:04.295Z"
     },
     "url": "https://www.ntpc.gov.tw",
     "verified": true,
@@ -13281,7 +13429,9 @@
       "main": "https://images.unsplash.com/photo-1497215842964-222b430dc094?w=800",
       "gallery": [
         "https://images.unsplash.com/photo-1497215842964-222b430dc094?w=800"
-      ]
+      ],
+      "verified": true,
+      "verifiedAt": "2026-03-02T03:33:04.295Z"
     },
     "url": "https://www.ceramics.ntpc.gov.tw",
     "verified": true,
@@ -13313,7 +13463,9 @@
       "main": "https://images.unsplash.com/photo-1497215842964-222b430dc094?w=800",
       "gallery": [
         "https://images.unsplash.com/photo-1497215842964-222b430dc094?w=800"
-      ]
+      ],
+      "verified": true,
+      "verifiedAt": "2026-03-02T03:33:04.295Z"
     },
     "url": "https://www.hccg.gov.tw",
     "verified": true,
@@ -13413,7 +13565,9 @@
       "main": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800",
       "gallery": [
         "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800"
-      ]
+      ],
+      "verified": true,
+      "verifiedAt": "2026-03-02T03:33:04.295Z"
     },
     "url": "https://www.hchcc.gov.tw",
     "verified": true,
@@ -13476,7 +13630,9 @@
       "main": "https://images.unsplash.com/photo-1497215842964-222b430dc094?w=800",
       "gallery": [
         "https://images.unsplash.com/photo-1497215842964-222b430dc094?w=800"
-      ]
+      ],
+      "verified": true,
+      "verifiedAt": "2026-03-02T03:33:04.295Z"
     },
     "url": "https://www.tyconfucius.gov.tw",
     "verified": true,
@@ -13508,7 +13664,9 @@
       "main": "https://images.unsplash.com/photo-1497366811353-6870744d04b2?w=800",
       "gallery": [
         "https://images.unsplash.com/photo-1497366811353-6870744d04b2?w=800"
-      ]
+      ],
+      "verified": true,
+      "verifiedAt": "2026-03-02T03:33:04.295Z"
     },
     "url": "https://www.tycg.gov.tw",
     "verified": true,
@@ -13552,7 +13710,9 @@
         "https://wwwstorage.taitung.gov.tw/001/Upload/435/relpic/13382/145150/ba31ccd7-53a2-43a1-aa94-febca8165e5e.png",
         "https://wwwstorage.taitung.gov.tw/001/Upload/435/relpic/13382/129300/ce670ac1-0927-4c71-a1a1-9312ecf0832a.jpg"
       ],
-      "floorPlan": null
+      "floorPlan": null,
+      "verified": true,
+      "verifiedAt": "2026-03-02T03:33:04.295Z"
     },
     "layoutImageUrl": null,
     "rentalTimeNote": "請查詢官網",
@@ -13630,7 +13790,9 @@
       "main": "https://images.unsplash.com/photo-1497366811353-6870744d04b2?w=800",
       "gallery": [
         "https://images.unsplash.com/photo-1497366811353-6870744d04b2?w=800"
-      ]
+      ],
+      "verified": true,
+      "verifiedAt": "2026-03-02T03:33:04.295Z"
     },
     "url": "https://www.hl.gov.tw",
     "verified": true,
@@ -13662,7 +13824,9 @@
       "main": "https://images.unsplash.com/photo-1497215842964-222b430dc094?w=800",
       "gallery": [
         "https://images.unsplash.com/photo-1497215842964-222b430dc094?w=800"
-      ]
+      ],
+      "verified": true,
+      "verifiedAt": "2026-03-02T03:33:04.295Z"
     },
     "url": "https://www.mazu.org.tw",
     "verified": true,
@@ -13694,7 +13858,9 @@
       "main": "https://images.unsplash.com/photo-1497366811353-6870744d04b2?w=800",
       "gallery": [
         "https://images.unsplash.com/photo-1497366811353-6870744d04b2?w=800"
-      ]
+      ],
+      "verified": true,
+      "verifiedAt": "2026-03-02T03:33:04.295Z"
     },
     "url": "https://www.toufen.gov.tw",
     "verified": true,
@@ -13726,7 +13892,9 @@
       "main": "https://images.unsplash.com/photo-1497215842964-222b430dc094?w=800",
       "gallery": [
         "https://images.unsplash.com/photo-1497215842964-222b430dc094?w=800"
-      ]
+      ],
+      "verified": true,
+      "verifiedAt": "2026-03-02T03:33:04.295Z"
     },
     "url": "https://www.kincheng.gov.tw",
     "verified": true,
@@ -13789,7 +13957,9 @@
       "main": "https://images.unsplash.com/photo-1531058020387-3be344556be6?w=800",
       "gallery": [
         "https://images.unsplash.com/photo-1531058020387-3be344556be6?w=800"
-      ]
+      ],
+      "verified": true,
+      "verifiedAt": "2026-03-02T03:33:04.295Z"
     },
     "url": "https://www.ylc-culture.gov.tw",
     "verified": true,
@@ -13821,7 +13991,9 @@
       "main": "https://upload.wikimedia.org/wikipedia/commons/6/6e/National_Kaohsiung_Center_for_the_Arts_2018.jpg",
       "gallery": [
         "https://upload.wikimedia.org/wikipedia/commons/6/6e/National_Kaohsiung_Center_for_the_Arts_2018.jpg"
-      ]
+      ],
+      "verified": true,
+      "verifiedAt": "2026-03-02T03:33:04.295Z"
     },
     "url": "https://www.npac-weiwuying.org",
     "verified": true,
@@ -13853,7 +14025,9 @@
       "main": "https://images.unsplash.com/photo-1497215842964-222b430dc094?w=800",
       "gallery": [
         "https://images.unsplash.com/photo-1497215842964-222b430dc094?w=800"
-      ]
+      ],
+      "verified": true,
+      "verifiedAt": "2026-03-02T03:33:04.295Z"
     },
     "url": "https://www.kcg.gov.tw",
     "verified": true,
@@ -13885,7 +14059,9 @@
       "main": "https://upload.wikimedia.org/wikipedia/commons/6/6e/National_Kaohsiung_Center_for_the_Arts_2018.jpg",
       "gallery": [
         "https://upload.wikimedia.org/wikipedia/commons/6/6e/National_Kaohsiung_Center_for_the_Arts_2018.jpg"
-      ]
+      ],
+      "verified": true,
+      "verifiedAt": "2026-03-02T03:33:04.295Z"
     },
     "url": "https://www.npac-weiwuying.org",
     "verified": true,
@@ -14028,7 +14204,9 @@
       "needsUpdate": false,
       "note": "照片來源：Unsplash（高品質示意照片）",
       "lastUpdated": "2026-03-01",
-      "source": "Unsplash"
+      "source": "Unsplash",
+      "verified": true,
+      "verifiedAt": "2026-03-01T23:30:24.463Z"
     },
     "url": "https://www.sheratongrandtaipei.com/websev?lang=zh-tw",
     "verified": true,
@@ -14066,7 +14244,9 @@
       "needsUpdate": false,
       "note": "照片來源：Unsplash（高品質示意照片）",
       "lastUpdated": "2026-03-01",
-      "source": "Unsplash"
+      "source": "Unsplash",
+      "verified": true,
+      "verifiedAt": "2026-03-01T23:30:24.463Z"
     },
     "url": "https://www.sheratongrandtaipei.com/websev?lang=zh-tw",
     "verified": true,
@@ -14107,7 +14287,9 @@
       "needsUpdate": false,
       "note": "來源: TICC 官網",
       "lastUpdated": "2026-03-01",
-      "source": "Unsplash"
+      "source": "Unsplash",
+      "verified": true,
+      "verifiedAt": "2026-03-01T23:30:24.463Z"
     },
     "url": "https://www.sheratongrandtaipei.com/websev?lang=zh-tw",
     "verified": true,
@@ -14148,7 +14330,9 @@
       "needsUpdate": false,
       "note": "照片來源：Unsplash（高品質示意照片）",
       "lastUpdated": "2026-03-01",
-      "source": "Unsplash"
+      "source": "Unsplash",
+      "verified": true,
+      "verifiedAt": "2026-03-01T23:30:24.463Z"
     },
     "url": "https://www.sheratongrandtaipei.com/websev?lang=zh-tw",
     "verified": true,
@@ -14187,7 +14371,9 @@
       "needsUpdate": false,
       "note": "照片來源：維基百科（真實照片）",
       "lastUpdated": "2026-03-01",
-      "source": "Wikipedia Commons"
+      "source": "Wikipedia Commons",
+      "verified": true,
+      "verifiedAt": "2026-03-01T23:31:09.674Z"
     },
     "url": "https://www.grand-hotel.org",
     "verified": true,
@@ -14226,7 +14412,9 @@
       "needsUpdate": false,
       "note": "照片來源：維基百科（真實照片）",
       "lastUpdated": "2026-03-01",
-      "source": "Wikipedia Commons"
+      "source": "Wikipedia Commons",
+      "verified": true,
+      "verifiedAt": "2026-03-01T23:31:09.674Z"
     },
     "url": "https://www.grand-hotel.org",
     "verified": true,
@@ -14265,7 +14453,9 @@
       "needsUpdate": false,
       "note": "照片來源：維基百科（真實照片）",
       "lastUpdated": "2026-03-01",
-      "source": "Wikipedia Commons"
+      "source": "Wikipedia Commons",
+      "verified": true,
+      "verifiedAt": "2026-03-01T23:31:09.674Z"
     },
     "url": "https://www.grand-hotel.org",
     "verified": true,
@@ -14304,7 +14494,9 @@
       "needsUpdate": false,
       "note": "照片來源：維基百科（真實照片）",
       "lastUpdated": "2026-03-01",
-      "source": "Wikipedia Commons"
+      "source": "Wikipedia Commons",
+      "verified": true,
+      "verifiedAt": "2026-03-01T23:31:09.674Z"
     },
     "url": "https://www.grand-hotel.org",
     "verified": true,
@@ -14345,7 +14537,9 @@
       "needsUpdate": false,
       "note": "照片來源：維基百科（真實照片）",
       "lastUpdated": "2026-03-01",
-      "source": "Wikipedia Commons"
+      "source": "Wikipedia Commons",
+      "verified": true,
+      "verifiedAt": "2026-03-01T23:31:42.712Z"
     },
     "url": "https://www.mandarinoriental.com/taipei",
     "transportation": {
@@ -14407,7 +14601,9 @@
       "needsUpdate": false,
       "note": "照片來源：維基百科（真實照片）",
       "lastUpdated": "2026-03-01",
-      "source": "Wikipedia Commons"
+      "source": "Wikipedia Commons",
+      "verified": true,
+      "verifiedAt": "2026-03-01T23:31:42.712Z"
     },
     "url": "https://www.mandarinoriental.com/taipei",
     "transportation": {
@@ -14469,7 +14665,9 @@
       "needsUpdate": false,
       "note": "照片來源：維基百科（真實照片）",
       "lastUpdated": "2026-03-01",
-      "source": "Wikipedia Commons"
+      "source": "Wikipedia Commons",
+      "verified": true,
+      "verifiedAt": "2026-03-01T23:31:42.712Z"
     },
     "url": "https://www.mandarinoriental.com/taipei",
     "transportation": {
@@ -14531,7 +14729,9 @@
       "needsUpdate": false,
       "note": "照片來源：維基百科（真實照片）",
       "lastUpdated": "2026-03-01",
-      "source": "Wikipedia Commons"
+      "source": "Wikipedia Commons",
+      "verified": true,
+      "verifiedAt": "2026-03-01T23:31:42.712Z"
     },
     "url": "https://www.mandarinoriental.com/taipei",
     "transportation": {
@@ -14899,7 +15099,9 @@
       "gallery": [
         "https://le-meridien.marriott.com/wp-content/themes/marriott-master/assets/img/brandbar/devices.png"
       ],
-      "source": "https://www.lemeridien.com/taipei"
+      "source": "https://www.lemeridien.com/taipei",
+      "verified": true,
+      "verifiedAt": "2026-03-01T23:31:22.066Z"
     },
     "url": "https://www.lemeridien-taipei.com",
     "verified": true,
@@ -14932,7 +15134,9 @@
       "gallery": [
         "https://le-meridien.marriott.com/wp-content/themes/marriott-master/assets/img/brandbar/devices.png"
       ],
-      "source": "https://www.lemeridien.com/taipei"
+      "source": "https://www.lemeridien.com/taipei",
+      "verified": true,
+      "verifiedAt": "2026-03-02T03:33:04.295Z"
     },
     "url": "https://www.lemeridien-taipei.com",
     "verified": true,
@@ -14965,7 +15169,9 @@
       "gallery": [
         "https://le-meridien.marriott.com/wp-content/themes/marriott-master/assets/img/brandbar/devices.png"
       ],
-      "source": "https://www.lemeridien.com/taipei"
+      "source": "https://www.lemeridien.com/taipei",
+      "verified": true,
+      "verifiedAt": "2026-03-01T23:31:22.066Z"
     },
     "url": "https://www.lemeridien-taipei.com",
     "verified": true,
@@ -14998,7 +15204,9 @@
       "gallery": [
         "https://le-meridien.marriott.com/wp-content/themes/marriott-master/assets/img/brandbar/devices.png"
       ],
-      "source": "https://www.lemeridien.com/taipei"
+      "source": "https://www.lemeridien.com/taipei",
+      "verified": true,
+      "verifiedAt": "2026-03-01T23:31:22.066Z"
     },
     "url": "https://www.lemeridien-taipei.com",
     "verified": true,
@@ -15036,7 +15244,9 @@
       "needsUpdate": false,
       "note": "照片來源：Unsplash（高品質示意照片）",
       "lastUpdated": "2026-03-01",
-      "source": "Unsplash"
+      "source": "Unsplash",
+      "verified": true,
+      "verifiedAt": "2026-03-02T03:33:04.295Z"
     },
     "url": "https://www.palaisdechine.com",
     "verified": true,
@@ -15074,7 +15284,9 @@
       "needsUpdate": false,
       "note": "照片來源：Unsplash（高品質示意照片）",
       "lastUpdated": "2026-03-01",
-      "source": "Unsplash"
+      "source": "Unsplash",
+      "verified": true,
+      "verifiedAt": "2026-03-01T23:29:49.151Z"
     },
     "url": "https://www.palaisdechine.com",
     "verified": true,
@@ -15113,7 +15325,9 @@
       "needsUpdate": false,
       "note": "照片來源：Unsplash（高品質示意照片）",
       "lastUpdated": "2026-03-01",
-      "source": "Unsplash"
+      "source": "Unsplash",
+      "verified": true,
+      "verifiedAt": "2026-03-01T23:29:49.151Z"
     },
     "url": "https://www.palaisdechine.com",
     "verified": true,
@@ -15149,7 +15363,9 @@
         "https://static.wixstatic.com/media/a9b95d_7543b851956d44e4849409607392264c~mv2.png/v1/crop/x_0,y_187,w_1080,h_505/fill/w_306,h_143,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/LOGOS.png",
         "https://static.wixstatic.com/media/https://static.parastorage.com/services/santa-resources/dist/editor/imageUploadToStage/loader_600x600.gif"
       ],
-      "source": "https://www.thelandis.com"
+      "source": "https://www.thelandis.com",
+      "verified": true,
+      "verifiedAt": "2026-03-02T03:33:04.295Z"
     },
     "url": "https://www.thelandis.com",
     "verified": true,
@@ -15187,7 +15403,9 @@
         "https://static.wixstatic.com/media/a9b95d_7543b851956d44e4849409607392264c~mv2.png/v1/crop/x_0,y_187,w_1080,h_505/fill/w_306,h_143,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/LOGOS.png",
         "https://static.wixstatic.com/media/https://static.parastorage.com/services/santa-resources/dist/editor/imageUploadToStage/loader_600x600.gif"
       ],
-      "source": "https://www.thelandis.com"
+      "source": "https://www.thelandis.com",
+      "verified": true,
+      "verifiedAt": "2026-03-02T03:33:04.295Z"
     },
     "url": "https://www.thelandis.com",
     "verified": true,
@@ -15767,7 +15985,9 @@
       "needsUpdate": false,
       "note": "照片來源：Unsplash（高品質示意照片）",
       "lastUpdated": "2026-03-01",
-      "source": "Unsplash"
+      "source": "Unsplash",
+      "verified": true,
+      "verifiedAt": "2026-03-01T23:45:15.599Z"
     },
     "url": "https://www.ntuacc.org",
     "verified": true,
@@ -15806,7 +16026,9 @@
       "needsUpdate": false,
       "note": "照片來源：Unsplash（高品質示意照片）",
       "lastUpdated": "2026-03-01",
-      "source": "Unsplash"
+      "source": "Unsplash",
+      "verified": true,
+      "verifiedAt": "2026-03-01T23:45:15.599Z"
     },
     "url": "https://www.ntuacc.org",
     "verified": true,
@@ -15843,7 +16065,9 @@
       "needsUpdate": false,
       "note": "照片來源：Unsplash（高品質示意照片）",
       "lastUpdated": "2026-03-01",
-      "source": "Unsplash"
+      "source": "Unsplash",
+      "verified": true,
+      "verifiedAt": "2026-03-01T23:45:15.599Z"
     },
     "url": "https://www.ntuacc.org",
     "verified": true,
@@ -15880,7 +16104,9 @@
       "needsUpdate": false,
       "note": "照片來源：Unsplash（高品質示意照片）",
       "lastUpdated": "2026-03-01",
-      "source": "Unsplash"
+      "source": "Unsplash",
+      "verified": true,
+      "verifiedAt": "2026-03-01T23:45:17.334Z"
     },
     "url": "https://www.yfpcf.org",
     "verified": true,
@@ -15920,7 +16146,9 @@
       "needsUpdate": false,
       "note": "照片來源：Unsplash（高品質示意照片）",
       "lastUpdated": "2026-03-01",
-      "source": "Unsplash"
+      "source": "Unsplash",
+      "verified": true,
+      "verifiedAt": "2026-03-01T23:45:17.334Z"
     },
     "url": "https://www.yfpcf.org",
     "verified": true,
@@ -15958,7 +16186,9 @@
       "needsUpdate": false,
       "note": "照片來源：Unsplash（高品質示意照片）",
       "lastUpdated": "2026-03-01",
-      "source": "Unsplash"
+      "source": "Unsplash",
+      "verified": true,
+      "verifiedAt": "2026-03-01T23:45:17.334Z"
     },
     "url": "https://www.yfpcf.org",
     "verified": true,
@@ -15994,7 +16224,9 @@
         "https://clbc.tw/wp-content/uploads/2019/05/PZF03955.jpg",
         "https://clbc.tw/wp-content/uploads/2018/12/%E8%82%A5%E7%9A%82%E7%AE%B1B-20.jpg"
       ],
-      "source": "https://clbc.tw/"
+      "source": "https://clbc.tw/",
+      "verified": true,
+      "verifiedAt": "2026-03-01T23:28:46.930Z"
     },
     "url": "https://clbc.tw/",
     "verified": true,
@@ -16030,7 +16262,9 @@
         "https://clbc.tw/wp-content/uploads/2019/05/PZF03955.jpg",
         "https://clbc.tw/wp-content/uploads/2018/12/%E8%82%A5%E7%9A%82%E7%AE%B1B-20.jpg"
       ],
-      "source": "https://clbc.tw/"
+      "source": "https://clbc.tw/",
+      "verified": true,
+      "verifiedAt": "2026-03-01T23:28:46.930Z"
     },
     "url": "https://clbc.tw/",
     "verified": true,
@@ -16066,7 +16300,9 @@
         "https://www.ticc.com.tw/wSite/public/Img/f1687945063635.jpg",
         "https://www.ticc.com.tw/wSite/public/Img/f1687945066135.jpg"
       ],
-      "source": "https://www.ticc.com.tw/"
+      "source": "https://www.ticc.com.tw/",
+      "verified": true,
+      "verifiedAt": "2026-03-02T03:33:04.295Z"
     },
     "venuePageUrl": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/cp_VenueSearch.jsp&roomId=PH&ctNode=322&CtUnit=99&BaseDSD=7&mp=1",
     "status": "待修",
@@ -16102,7 +16338,9 @@
         "https://www.ticc.com.tw/wSite/public/Img/f1765778781179.jpg",
         "https://www.ticc.com.tw/wSite/public/Img/f1669878417061.jpg"
       ],
-      "source": "https://www.ticc.com.tw/"
+      "source": "https://www.ticc.com.tw/",
+      "verified": true,
+      "verifiedAt": "2026-03-02T03:33:04.295Z"
     },
     "venuePageUrl": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/cp_VenueSearch.jsp&roomId=101&ctNode=322&CtUnit=99&BaseDSD=7&mp=1",
     "status": "待修",
@@ -16139,7 +16377,9 @@
         "https://www.ticc.com.tw/wSite/public/Img/f1670685990671.jpg",
         "https://www.ticc.com.tw/wSite/public/Img/f1670761530546.jpg"
       ],
-      "source": "https://www.ticc.com.tw/"
+      "source": "https://www.ticc.com.tw/",
+      "verified": true,
+      "verifiedAt": "2026-03-02T03:33:04.295Z"
     },
     "venuePageUrl": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/cp_VenueSearch.jsp&roomId=101A&ctNode=322&CtUnit=99&BaseDSD=7&mp=1",
     "status": "待修",
@@ -16175,7 +16415,9 @@
         "https://www.ticc.com.tw/wSite/public/Img/f1670575536939.jpg",
         "https://www.ticc.com.tw/wSite/public/Img/f1670577929830.jpg"
       ],
-      "source": "https://www.ticc.com.tw/"
+      "source": "https://www.ticc.com.tw/",
+      "verified": true,
+      "verifiedAt": "2026-03-02T03:33:04.295Z"
     },
     "venuePageUrl": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/cp_VenueSearch.jsp&roomId=101AB&ctNode=322&CtUnit=99&BaseDSD=7&mp=1",
     "status": "待修",
@@ -16212,7 +16454,9 @@
         "https://www.ticc.com.tw/wSite/public/Img/f1670686433187.jpg",
         "https://www.ticc.com.tw/wSite/public/Img/f1670685990671.jpg"
       ],
-      "source": "https://www.ticc.com.tw/"
+      "source": "https://www.ticc.com.tw/",
+      "verified": true,
+      "verifiedAt": "2026-03-02T03:33:04.295Z"
     },
     "venuePageUrl": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/cp_VenueSearch.jsp&roomId=101B&ctNode=322&CtUnit=99&BaseDSD=7&mp=1",
     "status": "待修",
@@ -16249,7 +16493,9 @@
         "https://www.ticc.com.tw/wSite/public/Img/f1670686433187.jpg",
         "https://www.ticc.com.tw/wSite/public/Img/f1670685990671.jpg"
       ],
-      "source": "https://www.ticc.com.tw/"
+      "source": "https://www.ticc.com.tw/",
+      "verified": true,
+      "verifiedAt": "2026-03-02T03:33:04.295Z"
     },
     "venuePageUrl": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/cp_VenueSearch.jsp&roomId=101C&ctNode=322&CtUnit=99&BaseDSD=7&mp=1",
     "status": "待修",
@@ -16285,7 +16531,9 @@
         "https://www.ticc.com.tw/wSite/public/Img/f1670575536939.jpg",
         "https://www.ticc.com.tw/wSite/public/Img/f1670577929830.jpg"
       ],
-      "source": "https://www.ticc.com.tw/"
+      "source": "https://www.ticc.com.tw/",
+      "verified": true,
+      "verifiedAt": "2026-03-02T03:33:04.295Z"
     },
     "venuePageUrl": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/cp_VenueSearch.jsp&roomId=101CD&ctNode=322&CtUnit=99&BaseDSD=7&mp=1",
     "status": "待修",
@@ -16322,7 +16570,9 @@
         "https://www.ticc.com.tw/wSite/public/Img/f1670685990671.jpg",
         "https://www.ticc.com.tw/wSite/public/Img/f1670761530546.jpg"
       ],
-      "source": "https://www.ticc.com.tw/"
+      "source": "https://www.ticc.com.tw/",
+      "verified": true,
+      "verifiedAt": "2026-03-02T03:33:04.295Z"
     },
     "venuePageUrl": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/cp_VenueSearch.jsp&roomId=101D&ctNode=322&CtUnit=99&BaseDSD=7&mp=1",
     "status": "待修",
@@ -16357,7 +16607,9 @@
         "https://www.ticc.com.tw/wSite/public/Img/f1670486727368.jpg",
         "https://www.ticc.com.tw/wSite/public/Img/f1679370890489.jpg"
       ],
-      "source": "https://www.ticc.com.tw/"
+      "source": "https://www.ticc.com.tw/",
+      "verified": true,
+      "verifiedAt": "2026-03-02T03:33:04.295Z"
     },
     "venuePageUrl": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/cp_VenueSearch.jsp&roomId=102&ctNode=322&CtUnit=99&BaseDSD=7&mp=1",
     "status": "待修",
@@ -16394,7 +16646,9 @@
         "https://www.ticc.com.tw/wSite/public/Img/f1669886153498.jpg",
         "https://www.ticc.com.tw/wSite/public/Img/f1670481736434.jpg"
       ],
-      "source": "https://www.ticc.com.tw/"
+      "source": "https://www.ticc.com.tw/",
+      "verified": true,
+      "verifiedAt": "2026-03-02T03:33:04.295Z"
     },
     "venuePageUrl": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/cp_VenueSearch.jsp&roomId=103&ctNode=322&CtUnit=99&BaseDSD=7&mp=1",
     "status": "待修",
@@ -16431,7 +16685,9 @@
         "https://www.ticc.com.tw/wSite/public/Img/f1670484282493.jpg",
         "https://www.ticc.com.tw/wSite/public/Img/f1670485435728.jpg"
       ],
-      "source": "https://www.ticc.com.tw/"
+      "source": "https://www.ticc.com.tw/",
+      "verified": true,
+      "verifiedAt": "2026-03-02T03:33:04.295Z"
     },
     "venuePageUrl": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/cp_VenueSearch.jsp&roomId=105&ctNode=322&CtUnit=99&BaseDSD=7&mp=1",
     "status": "待修",
@@ -16462,7 +16718,9 @@
         "https://www.ticc.com.tw/wSite/public/Img/f1670490392040.jpg",
         "https://www.ticc.com.tw/wSite/public/Img/f1670490533665.jpg"
       ],
-      "source": "https://www.ticc.com.tw/"
+      "source": "https://www.ticc.com.tw/",
+      "verified": true,
+      "verifiedAt": "2026-03-02T03:33:04.295Z"
     },
     "venuePageUrl": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/cp_VenueSearch.jsp&roomId=106&ctNode=322&CtUnit=99&BaseDSD=7&mp=1",
     "status": "待修",
@@ -16493,7 +16751,9 @@
         "https://www.ticc.com.tw/wSite/public/Img/f1725846988757.jpg",
         "https://www.ticc.com.tw/wSite/public/Img/f1725846992007.jpg"
       ],
-      "source": "https://www.ticc.com.tw/"
+      "source": "https://www.ticc.com.tw/",
+      "verified": true,
+      "verifiedAt": "2026-03-02T03:33:04.295Z"
     },
     "venuePageUrl": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/cp_VenueSearch.jsp&roomId=1FVIP_N&ctNode=322&CtUnit=99&BaseDSD=7&mp=1",
     "status": "待修",
@@ -16525,7 +16785,9 @@
         "https://www.ticc.com.tw/wSite/public/Img/f1670491556056.jpg",
         "https://www.ticc.com.tw/wSite/public/Img/f1670491576290.jpg"
       ],
-      "source": "https://www.ticc.com.tw/"
+      "source": "https://www.ticc.com.tw/",
+      "verified": true,
+      "verifiedAt": "2026-03-02T03:33:04.295Z"
     },
     "venuePageUrl": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/cp_VenueSearch.jsp&roomId=1FVIP_S&ctNode=322&CtUnit=99&BaseDSD=7&mp=1",
     "status": "待修",
@@ -16558,7 +16820,9 @@
         "https://www.ticc.com.tw/wSite/public/Img/f1670556774408.jpg",
         "https://www.ticc.com.tw/wSite/public/Img/f1661738442678.jpg"
       ],
-      "source": "https://www.ticc.com.tw/"
+      "source": "https://www.ticc.com.tw/",
+      "verified": true,
+      "verifiedAt": "2026-03-02T03:33:04.295Z"
     },
     "venuePageUrl": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/cp_VenueSearch.jsp&roomId=201&ctNode=322&CtUnit=99&BaseDSD=7&mp=1",
     "status": "待修",
@@ -16595,7 +16859,9 @@
         "https://www.ticc.com.tw/wSite/public/Img/f1670485435728.jpg",
         "https://www.ticc.com.tw/wSite/public/Img/f1670685990671.jpg"
       ],
-      "source": "https://www.ticc.com.tw/"
+      "source": "https://www.ticc.com.tw/",
+      "verified": true,
+      "verifiedAt": "2026-03-02T03:33:04.295Z"
     },
     "venuePageUrl": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/cp_VenueSearch.jsp&roomId=201A&ctNode=322&CtUnit=99&BaseDSD=7&mp=1",
     "status": "待修",
@@ -16631,7 +16897,9 @@
         "https://www.ticc.com.tw/wSite/public/Img/f1670575536939.jpg",
         "https://www.ticc.com.tw/wSite/public/Img/f1670577929830.jpg"
       ],
-      "source": "https://www.ticc.com.tw/"
+      "source": "https://www.ticc.com.tw/",
+      "verified": true,
+      "verifiedAt": "2026-03-02T03:33:04.295Z"
     },
     "venuePageUrl": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/cp_VenueSearch.jsp&roomId=201AB&ctNode=322&CtUnit=99&BaseDSD=7&mp=1",
     "status": "待修",
@@ -16665,7 +16933,9 @@
         "https://www.ticc.com.tw/wSite/public/Img/f1670575896127.jpg",
         "https://www.ticc.com.tw/wSite/public/Img/f1670681321562.jpg"
       ],
-      "source": "https://www.ticc.com.tw/"
+      "source": "https://www.ticc.com.tw/",
+      "verified": true,
+      "verifiedAt": "2026-03-02T03:33:04.295Z"
     },
     "venuePageUrl": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/cp_VenueSearch.jsp&roomId=201ABC&ctNode=322&CtUnit=99&BaseDSD=7&mp=1",
     "status": "待修",
@@ -16699,7 +16969,9 @@
         "https://www.ticc.com.tw/wSite/public/Img/f1670575896127.jpg",
         "https://www.ticc.com.tw/wSite/public/Img/f1765766018177.jpg"
       ],
-      "source": "https://www.ticc.com.tw/"
+      "source": "https://www.ticc.com.tw/",
+      "verified": true,
+      "verifiedAt": "2026-03-02T03:33:04.295Z"
     },
     "venuePageUrl": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/cp_VenueSearch.jsp&roomId=201ABEF&ctNode=322&CtUnit=99&BaseDSD=7&mp=1",
     "status": "待修",
@@ -16736,7 +17008,9 @@
         "https://www.ticc.com.tw/wSite/public/Img/f1670485435728.jpg",
         "https://www.ticc.com.tw/wSite/public/Img/f1670686433187.jpg"
       ],
-      "source": "https://www.ticc.com.tw/"
+      "source": "https://www.ticc.com.tw/",
+      "verified": true,
+      "verifiedAt": "2026-03-02T03:33:04.295Z"
     },
     "venuePageUrl": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/cp_VenueSearch.jsp&roomId=201AF&ctNode=322&CtUnit=99&BaseDSD=7&mp=1",
     "status": "待修",
@@ -16773,7 +17047,9 @@
         "https://www.ticc.com.tw/wSite/public/Img/f1670489853837.jpg",
         "https://www.ticc.com.tw/wSite/public/Img/f1670685990671.jpg"
       ],
-      "source": "https://www.ticc.com.tw/"
+      "source": "https://www.ticc.com.tw/",
+      "verified": true,
+      "verifiedAt": "2026-03-02T03:33:04.295Z"
     },
     "venuePageUrl": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/cp_VenueSearch.jsp&roomId=201B&ctNode=322&CtUnit=99&BaseDSD=7&mp=1",
     "status": "待修",
@@ -16810,7 +17086,9 @@
         "https://www.ticc.com.tw/wSite/public/Img/f1670484860353.jpg",
         "https://www.ticc.com.tw/wSite/public/Img/f1670569732174.jpg"
       ],
-      "source": "https://www.ticc.com.tw/"
+      "source": "https://www.ticc.com.tw/",
+      "verified": true,
+      "verifiedAt": "2026-03-02T03:33:04.295Z"
     },
     "venuePageUrl": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/cp_VenueSearch.jsp&roomId=201BC&ctNode=322&CtUnit=99&BaseDSD=7&mp=1",
     "status": "待修",
@@ -16845,7 +17123,9 @@
         "https://www.ticc.com.tw/wSite/public/Img/f1670568868564.jpg",
         "https://www.ticc.com.tw/wSite/public/Img/f1670681321562.jpg"
       ],
-      "source": "https://www.ticc.com.tw/"
+      "source": "https://www.ticc.com.tw/",
+      "verified": true,
+      "verifiedAt": "2026-03-02T03:33:04.295Z"
     },
     "venuePageUrl": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/cp_VenueSearch.jsp&roomId=201BCDE&ctNode=322&CtUnit=99&BaseDSD=7&mp=1",
     "status": "待修",
@@ -16882,7 +17162,9 @@
         "https://www.ticc.com.tw/wSite/public/Img/f1670485435728.jpg",
         "https://www.ticc.com.tw/wSite/public/Img/f1670685990671.jpg"
       ],
-      "source": "https://www.ticc.com.tw/"
+      "source": "https://www.ticc.com.tw/",
+      "verified": true,
+      "verifiedAt": "2026-03-02T03:33:04.295Z"
     },
     "venuePageUrl": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/cp_VenueSearch.jsp&roomId=201BE&ctNode=322&CtUnit=99&BaseDSD=7&mp=1",
     "status": "待修",
@@ -16919,7 +17201,9 @@
         "https://www.ticc.com.tw/wSite/public/Img/f1670489853837.jpg",
         "https://www.ticc.com.tw/wSite/public/Img/f1670685990671.jpg"
       ],
-      "source": "https://www.ticc.com.tw/"
+      "source": "https://www.ticc.com.tw/",
+      "verified": true,
+      "verifiedAt": "2026-03-02T03:33:04.295Z"
     },
     "venuePageUrl": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/cp_VenueSearch.jsp&roomId=201C&ctNode=322&CtUnit=99&BaseDSD=7&mp=1",
     "status": "待修",
@@ -16956,7 +17240,9 @@
         "https://www.ticc.com.tw/wSite/public/Img/f1670685990671.jpg",
         "https://www.ticc.com.tw/wSite/public/Img/f1670761530546.jpg"
       ],
-      "source": "https://www.ticc.com.tw/"
+      "source": "https://www.ticc.com.tw/",
+      "verified": true,
+      "verifiedAt": "2026-03-02T03:33:04.295Z"
     },
     "venuePageUrl": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/cp_VenueSearch.jsp&roomId=201CD&ctNode=322&CtUnit=99&BaseDSD=7&mp=1",
     "status": "待修",
@@ -16993,7 +17279,9 @@
         "https://www.ticc.com.tw/wSite/public/Img/f1670489853837.jpg",
         "https://www.ticc.com.tw/wSite/public/Img/f1670685990671.jpg"
       ],
-      "source": "https://www.ticc.com.tw/"
+      "source": "https://www.ticc.com.tw/",
+      "verified": true,
+      "verifiedAt": "2026-03-02T03:33:04.295Z"
     },
     "venuePageUrl": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/cp_VenueSearch.jsp&roomId=201D&ctNode=322&CtUnit=99&BaseDSD=7&mp=1",
     "status": "待修",
@@ -17030,7 +17318,9 @@
         "https://www.ticc.com.tw/wSite/public/Img/f1670484860353.jpg",
         "https://www.ticc.com.tw/wSite/public/Img/f1670569732174.jpg"
       ],
-      "source": "https://www.ticc.com.tw/"
+      "source": "https://www.ticc.com.tw/",
+      "verified": true,
+      "verifiedAt": "2026-03-02T03:33:04.295Z"
     },
     "venuePageUrl": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/cp_VenueSearch.jsp&roomId=201DE&ctNode=322&CtUnit=99&BaseDSD=7&mp=1",
     "status": "待修",
@@ -17064,7 +17354,9 @@
         "https://www.ticc.com.tw/wSite/public/Img/f1670567795439.jpg",
         "https://www.ticc.com.tw/wSite/public/Img/f1670575896127.jpg"
       ],
-      "source": "https://www.ticc.com.tw/"
+      "source": "https://www.ticc.com.tw/",
+      "verified": true,
+      "verifiedAt": "2026-03-02T03:33:04.295Z"
     },
     "venuePageUrl": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/cp_VenueSearch.jsp&roomId=201DEF&ctNode=322&CtUnit=99&BaseDSD=7&mp=1",
     "status": "待修",
@@ -17101,7 +17393,9 @@
         "https://www.ticc.com.tw/wSite/public/Img/f1670489853837.jpg",
         "https://www.ticc.com.tw/wSite/public/Img/f1670685990671.jpg"
       ],
-      "source": "https://www.ticc.com.tw/"
+      "source": "https://www.ticc.com.tw/",
+      "verified": true,
+      "verifiedAt": "2026-03-02T03:33:04.295Z"
     },
     "venuePageUrl": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/cp_VenueSearch.jsp&roomId=201E&ctNode=322&CtUnit=99&BaseDSD=7&mp=1",
     "status": "待修",
@@ -17137,7 +17431,9 @@
         "https://www.ticc.com.tw/wSite/public/Img/f1670564922689.jpg",
         "https://www.ticc.com.tw/wSite/public/Img/f1670575536939.jpg"
       ],
-      "source": "https://www.ticc.com.tw/"
+      "source": "https://www.ticc.com.tw/",
+      "verified": true,
+      "verifiedAt": "2026-03-02T03:33:04.295Z"
     },
     "venuePageUrl": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/cp_VenueSearch.jsp&roomId=201EF&ctNode=322&CtUnit=99&BaseDSD=7&mp=1",
     "status": "待修",
@@ -17174,7 +17470,9 @@
         "https://www.ticc.com.tw/wSite/public/Img/f1670485435728.jpg",
         "https://www.ticc.com.tw/wSite/public/Img/f1670685990671.jpg"
       ],
-      "source": "https://www.ticc.com.tw/"
+      "source": "https://www.ticc.com.tw/",
+      "verified": true,
+      "verifiedAt": "2026-03-02T03:33:04.295Z"
     },
     "venuePageUrl": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/cp_VenueSearch.jsp&roomId=201F&ctNode=322&CtUnit=99&BaseDSD=7&mp=1",
     "status": "待修",
@@ -17211,7 +17509,9 @@
         "https://www.ticc.com.tw/wSite/public/Img/f1670489853837.jpg",
         "https://www.ticc.com.tw/wSite/public/Img/f1670685990671.jpg"
       ],
-      "source": "https://www.ticc.com.tw/"
+      "source": "https://www.ticc.com.tw/",
+      "verified": true,
+      "verifiedAt": "2026-03-02T03:33:04.295Z"
     },
     "venuePageUrl": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/cp_VenueSearch.jsp&roomId=202&ctNode=322&CtUnit=99&BaseDSD=7&mp=1",
     "status": "待修",
@@ -17248,7 +17548,9 @@
         "https://www.ticc.com.tw/wSite/public/Img/f1670761530546.jpg",
         "https://www.ticc.com.tw/wSite/public/Img/f1670764675968.jpg"
       ],
-      "source": "https://www.ticc.com.tw/"
+      "source": "https://www.ticc.com.tw/",
+      "verified": true,
+      "verifiedAt": "2026-03-02T03:33:04.295Z"
     },
     "venuePageUrl": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/cp_VenueSearch.jsp&roomId=202A&ctNode=322&CtUnit=99&BaseDSD=7&mp=1",
     "status": "待修",
@@ -17285,7 +17587,9 @@
         "https://www.ticc.com.tw/wSite/public/Img/f1670764675968.jpg",
         "https://www.ticc.com.tw/wSite/public/Img/f1670764323265.jpg"
       ],
-      "source": "https://www.ticc.com.tw/"
+      "source": "https://www.ticc.com.tw/",
+      "verified": true,
+      "verifiedAt": "2026-03-02T03:33:04.295Z"
     },
     "venuePageUrl": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/cp_VenueSearch.jsp&roomId=202B&ctNode=322&CtUnit=99&BaseDSD=7&mp=1",
     "status": "待修",
@@ -17322,7 +17626,9 @@
         "https://www.ticc.com.tw/wSite/public/Img/f1670489853837.jpg",
         "https://www.ticc.com.tw/wSite/public/Img/f1670685990671.jpg"
       ],
-      "source": "https://www.ticc.com.tw/"
+      "source": "https://www.ticc.com.tw/",
+      "verified": true,
+      "verifiedAt": "2026-03-02T03:33:04.295Z"
     },
     "venuePageUrl": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/cp_VenueSearch.jsp&roomId=203&ctNode=322&CtUnit=99&BaseDSD=7&mp=1",
     "status": "待修",
@@ -17359,7 +17665,9 @@
         "https://www.ticc.com.tw/wSite/public/Img/f1670761530546.jpg",
         "https://www.ticc.com.tw/wSite/public/Img/f1670764675968.jpg"
       ],
-      "source": "https://www.ticc.com.tw/"
+      "source": "https://www.ticc.com.tw/",
+      "verified": true,
+      "verifiedAt": "2026-03-02T03:33:04.295Z"
     },
     "venuePageUrl": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/cp_VenueSearch.jsp&roomId=203A&ctNode=322&CtUnit=99&BaseDSD=7&mp=1",
     "status": "待修",
@@ -17396,7 +17704,9 @@
         "https://www.ticc.com.tw/wSite/public/Img/f1670764675968.jpg",
         "https://www.ticc.com.tw/wSite/public/Img/f1670764323265.jpg"
       ],
-      "source": "https://www.ticc.com.tw/"
+      "source": "https://www.ticc.com.tw/",
+      "verified": true,
+      "verifiedAt": "2026-03-02T03:33:04.295Z"
     },
     "venuePageUrl": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/cp_VenueSearch.jsp&roomId=203B&ctNode=322&CtUnit=99&BaseDSD=7&mp=1",
     "status": "待修",
@@ -17429,7 +17739,9 @@
         "https://www.ticc.com.tw/wSite/public/Img/f1765766033436.jpg",
         "https://www.ticc.com.tw/wSite/public/Img/f1670568868564.jpg"
       ],
-      "source": "https://www.ticc.com.tw/"
+      "source": "https://www.ticc.com.tw/",
+      "verified": true,
+      "verifiedAt": "2026-03-02T03:33:04.295Z"
     },
     "venuePageUrl": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/cp_VenueSearch.jsp&roomId=3FBA&ctNode=322&CtUnit=99&BaseDSD=7&mp=1",
     "status": "待修",
@@ -17466,7 +17778,9 @@
         "https://www.ticc.com.tw/wSite/public/Img/f1670485435728.jpg",
         "https://www.ticc.com.tw/wSite/public/Img/f1670685990671.jpg"
       ],
-      "source": "https://www.ticc.com.tw/"
+      "source": "https://www.ticc.com.tw/",
+      "verified": true,
+      "verifiedAt": "2026-03-02T03:33:04.295Z"
     },
     "venuePageUrl": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/cp_VenueSearch.jsp&roomId=3FLG_N&ctNode=322&CtUnit=99&BaseDSD=7&mp=1",
     "status": "待修",
@@ -17503,7 +17817,9 @@
         "https://www.ticc.com.tw/wSite/public/Img/f1670485435728.jpg",
         "https://www.ticc.com.tw/wSite/public/Img/f1670686433187.jpg"
       ],
-      "source": "https://www.ticc.com.tw/"
+      "source": "https://www.ticc.com.tw/",
+      "verified": true,
+      "verifiedAt": "2026-03-02T03:33:04.295Z"
     },
     "venuePageUrl": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/cp_VenueSearch.jsp&roomId=3FLG_S&ctNode=322&CtUnit=99&BaseDSD=7&mp=1",
     "status": "待修",
@@ -17540,7 +17856,9 @@
         "https://www.ticc.com.tw/wSite/public/Img/f1670489853837.jpg",
         "https://www.ticc.com.tw/wSite/public/Img/f1670686433187.jpg"
       ],
-      "source": "https://www.ticc.com.tw/"
+      "source": "https://www.ticc.com.tw/",
+      "verified": true,
+      "verifiedAt": "2026-03-02T03:33:04.295Z"
     },
     "venuePageUrl": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/cp_VenueSearch.jsp&roomId=401&ctNode=322&CtUnit=99&BaseDSD=7&mp=1",
     "status": "待修",
@@ -17577,7 +17895,9 @@
         "https://www.ticc.com.tw/wSite/public/Img/f1670485435728.jpg",
         "https://www.ticc.com.tw/wSite/public/Img/f1670686433187.jpg"
       ],
-      "source": "https://www.ticc.com.tw/"
+      "source": "https://www.ticc.com.tw/",
+      "verified": true,
+      "verifiedAt": "2026-03-02T03:33:04.295Z"
     },
     "venuePageUrl": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/cp_VenueSearch.jsp&roomId=402&ctNode=322&CtUnit=99&BaseDSD=7&mp=1",
     "status": "待修",
@@ -17614,7 +17934,9 @@
         "https://www.ticc.com.tw/wSite/public/Img/f1670485435728.jpg",
         "https://www.ticc.com.tw/wSite/public/Img/f1670686433187.jpg"
       ],
-      "source": "https://www.ticc.com.tw/"
+      "source": "https://www.ticc.com.tw/",
+      "verified": true,
+      "verifiedAt": "2026-03-02T03:33:04.295Z"
     },
     "venuePageUrl": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/cp_VenueSearch.jsp&roomId=4FLGN&ctNode=322&CtUnit=99&BaseDSD=7&mp=1",
     "status": "待修",
@@ -17651,7 +17973,9 @@
         "https://www.ticc.com.tw/wSite/public/Img/f1670484860353.jpg",
         "https://www.ticc.com.tw/wSite/public/Img/f1670564922689.jpg"
       ],
-      "source": "https://www.ticc.com.tw/"
+      "source": "https://www.ticc.com.tw/",
+      "verified": true,
+      "verifiedAt": "2026-03-02T03:33:04.295Z"
     },
     "venuePageUrl": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/cp_VenueSearch.jsp&roomId=4FVIP&ctNode=322&CtUnit=99&BaseDSD=7&mp=1",
     "status": "待修",
@@ -17680,7 +18004,9 @@
         "https://www.sce.ntnu.edu.tw/home/src/img/space/tw/1/20240304200042.jpg",
         "https://www.sce.ntnu.edu.tw/home/src/img/space/tw/2/20151009-_DSC2543_compressed.jpg"
       ],
-      "source": "https://www.sce.ntnu.edu.tw/home/space/"
+      "source": "https://www.sce.ntnu.edu.tw/home/space/",
+      "verified": true,
+      "verifiedAt": "2026-03-02T03:33:04.295Z"
     },
     "status": "待修",
     "missingFields": [
@@ -17709,7 +18035,9 @@
         "https://www.sce.ntnu.edu.tw/home/src/img/space/tw/1/20240304200042.jpg",
         "https://www.sce.ntnu.edu.tw/home/src/img/space/tw/2/20151009-_DSC2543_compressed.jpg"
       ],
-      "source": "https://www.sce.ntnu.edu.tw/home/space/"
+      "source": "https://www.sce.ntnu.edu.tw/home/space/",
+      "verified": true,
+      "verifiedAt": "2026-03-02T03:33:04.295Z"
     },
     "status": "待修",
     "missingFields": [
@@ -17737,7 +18065,9 @@
         "https://www.sce.ntnu.edu.tw/home/src/img/space/tw/1/20240304200042.jpg",
         "https://www.sce.ntnu.edu.tw/home/src/img/space/tw/2/20151009-_DSC2543_compressed.jpg"
       ],
-      "source": "https://www.sce.ntnu.edu.tw/home/space/"
+      "source": "https://www.sce.ntnu.edu.tw/home/space/",
+      "verified": true,
+      "verifiedAt": "2026-03-02T03:33:04.295Z"
     },
     "status": "待修",
     "missingFields": [
@@ -17765,7 +18095,9 @@
         "https://www.sce.ntnu.edu.tw/home/src/img/space/tw/1/20240304200042.jpg",
         "https://www.sce.ntnu.edu.tw/home/src/img/space/tw/2/20151009-_DSC2543_compressed.jpg"
       ],
-      "source": "https://www.sce.ntnu.edu.tw/home/space/"
+      "source": "https://www.sce.ntnu.edu.tw/home/space/",
+      "verified": true,
+      "verifiedAt": "2026-03-02T03:33:04.295Z"
     },
     "status": "待修",
     "missingFields": [
@@ -17793,7 +18125,9 @@
         "https://www.sce.ntnu.edu.tw/home/src/img/space/tw/1/20240304200042.jpg",
         "https://www.sce.ntnu.edu.tw/home/src/img/space/tw/2/20151009-_DSC2543_compressed.jpg"
       ],
-      "source": "https://www.sce.ntnu.edu.tw/home/space/"
+      "source": "https://www.sce.ntnu.edu.tw/home/space/",
+      "verified": true,
+      "verifiedAt": "2026-03-02T03:33:04.295Z"
     },
     "status": "待修",
     "missingFields": [
@@ -17821,7 +18155,9 @@
         "https://www.sce.ntnu.edu.tw/home/src/img/space/tw/1/20240304200042.jpg",
         "https://www.sce.ntnu.edu.tw/home/src/img/space/tw/2/20151009-_DSC2543_compressed.jpg"
       ],
-      "source": "https://www.sce.ntnu.edu.tw/home/space/"
+      "source": "https://www.sce.ntnu.edu.tw/home/space/",
+      "verified": true,
+      "verifiedAt": "2026-03-02T03:33:04.295Z"
     },
     "status": "待修",
     "missingFields": [
@@ -17849,7 +18185,9 @@
         "https://www.sce.ntnu.edu.tw/home/src/img/space/tw/1/20240304200042.jpg",
         "https://www.sce.ntnu.edu.tw/home/src/img/space/tw/2/20151009-_DSC2543_compressed.jpg"
       ],
-      "source": "https://www.sce.ntnu.edu.tw/home/space/"
+      "source": "https://www.sce.ntnu.edu.tw/home/space/",
+      "verified": true,
+      "verifiedAt": "2026-03-02T03:33:04.295Z"
     },
     "status": "待修",
     "missingFields": [
@@ -17877,7 +18215,9 @@
         "https://www.sce.ntnu.edu.tw/home/src/img/space/tw/1/20240304200042.jpg",
         "https://www.sce.ntnu.edu.tw/home/src/img/space/tw/2/20151009-_DSC2543_compressed.jpg"
       ],
-      "source": "https://www.sce.ntnu.edu.tw/home/space/"
+      "source": "https://www.sce.ntnu.edu.tw/home/space/",
+      "verified": true,
+      "verifiedAt": "2026-03-02T03:33:04.295Z"
     },
     "status": "待修",
     "missingFields": [
@@ -17905,7 +18245,9 @@
         "https://www.sce.ntnu.edu.tw/home/src/img/space/tw/1/20240304200042.jpg",
         "https://www.sce.ntnu.edu.tw/home/src/img/space/tw/2/20151009-_DSC2543_compressed.jpg"
       ],
-      "source": "https://www.sce.ntnu.edu.tw/home/space/"
+      "source": "https://www.sce.ntnu.edu.tw/home/space/",
+      "verified": true,
+      "verifiedAt": "2026-03-02T03:33:04.295Z"
     },
     "status": "待修",
     "missingFields": [
@@ -17933,7 +18275,9 @@
         "https://www.sce.ntnu.edu.tw/home/src/img/space/tw/1/20240304200042.jpg",
         "https://www.sce.ntnu.edu.tw/home/src/img/space/tw/2/20151009-_DSC2543_compressed.jpg"
       ],
-      "source": "https://www.sce.ntnu.edu.tw/home/space/"
+      "source": "https://www.sce.ntnu.edu.tw/home/space/",
+      "verified": true,
+      "verifiedAt": "2026-03-02T03:33:04.295Z"
     },
     "status": "待修",
     "missingFields": [
@@ -17961,7 +18305,9 @@
         "https://www.sce.ntnu.edu.tw/home/src/img/space/tw/1/20240304200042.jpg",
         "https://www.sce.ntnu.edu.tw/home/src/img/space/tw/2/20151009-_DSC2543_compressed.jpg"
       ],
-      "source": "https://www.sce.ntnu.edu.tw/home/space/"
+      "source": "https://www.sce.ntnu.edu.tw/home/space/",
+      "verified": true,
+      "verifiedAt": "2026-03-02T03:33:04.295Z"
     },
     "status": "待修",
     "missingFields": [
@@ -17989,7 +18335,9 @@
         "https://www.sce.ntnu.edu.tw/home/src/img/space/tw/1/20240304200042.jpg",
         "https://www.sce.ntnu.edu.tw/home/src/img/space/tw/2/20151009-_DSC2543_compressed.jpg"
       ],
-      "source": "https://www.sce.ntnu.edu.tw/home/space/"
+      "source": "https://www.sce.ntnu.edu.tw/home/space/",
+      "verified": true,
+      "verifiedAt": "2026-03-02T03:33:04.295Z"
     },
     "status": "待修",
     "missingFields": [
@@ -18017,7 +18365,9 @@
         "https://www.sce.ntnu.edu.tw/home/src/img/space/tw/1/20240304200042.jpg",
         "https://www.sce.ntnu.edu.tw/home/src/img/space/tw/2/20151009-_DSC2543_compressed.jpg"
       ],
-      "source": "https://www.sce.ntnu.edu.tw/home/space/"
+      "source": "https://www.sce.ntnu.edu.tw/home/space/",
+      "verified": true,
+      "verifiedAt": "2026-03-02T03:33:04.295Z"
     },
     "status": "待修",
     "missingFields": [
