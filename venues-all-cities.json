@@ -1070,7 +1070,7 @@
     "url": "https://www.camacafe.com/",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "上架",
+    "status": "不提供會議",
     "roomType": "咖啡廳包場",
     "notes": " [官網無法連線，需手動搜尋確認]",
     "missingFields": [
@@ -1079,7 +1079,8 @@
     "lastUpdated": "2026-03-02T00:16:32.388Z",
     "lastVerified": "2026-03-01T23:28:39.227Z",
     "verifiedTitle": "cama 現烘咖啡專門店",
-    "meetingPageUrl": "https://www.camacafe.com/New/1"
+    "meetingPageUrl": "https://www.camacafe.com/New/1",
+    "note": "咖啡廳，不提供會議室租借"
   },
   {
     "id": 1032,
@@ -1147,7 +1148,7 @@
     "url": "https://goodmans.tw/",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "上架",
+    "status": "不提供會議",
     "roomType": "咖啡廳包場",
     "notes": " [官網無法連線，需手動搜尋確認]",
     "missingFields": [
@@ -1155,7 +1156,8 @@
     ],
     "lastUpdated": "2026-03-02T00:16:32.292Z",
     "lastVerified": "2026-03-01T23:28:48.828Z",
-    "verificationError": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.goodmanscoffee.com/\nCall log:\n  - navigating to \"https://www.goodmanscoffee.com/\", waiting until \"domcontentloaded\"\n"
+    "verificationError": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.goodmanscoffee.com/\nCall log:\n  - navigating to \"https://www.goodmanscoffee.com/\", waiting until \"domcontentloaded\"\n",
+    "note": "咖啡廳，不提供會議室租借"
   },
   {
     "id": 1034,
@@ -1288,11 +1290,12 @@
     "url": "https://simplekaffa.com/",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "上架",
+    "status": "不提供會議",
     "roomType": "咖啡廳包場",
     "lastVerified": "2026-03-01T23:29:00.071Z",
     "verifiedTitle": "興波咖啡 Simple Kaffa | 喝杯世界級的咖啡",
-    "lastUpdated": "2026-03-02T00:16:32.442Z"
+    "lastUpdated": "2026-03-02T00:16:32.442Z",
+    "note": "咖啡廳，不提供會議室租借"
   },
   {
     "id": 1037,
@@ -1352,7 +1355,9 @@
     ],
     "lastUpdated": "2026-03-02T00:16:32.293Z",
     "lastVerified": "2026-03-01T23:29:01.771Z",
-    "verificationError": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.tccc.com.tw/\nCall log:\n  - navigating to \"https://www.tccc.com.tw/\", waiting until \"domcontentloaded\"\n"
+    "verificationError": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.tccc.com.tw/\nCall log:\n  - navigating to \"https://www.tccc.com.tw/\", waiting until \"domcontentloaded\"\n",
+    "verificationStatus": "待確認",
+    "verificationNote": "官網無法連線，需確認營運狀態"
   },
   {
     "id": 1038,
@@ -1558,7 +1563,9 @@
     "notes": "",
     "lastVerified": "2026-03-01T23:29:06.666Z",
     "verifiedTitle": "中文網-行政院人事行政總處公務人力發展學院",
-    "meetingPageUrl": "https://www.hrd.gov.tw/1123/2127/?q=%E5%A0%B4%E5%9C%B0%E6%9F%A5%E8%A9%A2"
+    "meetingPageUrl": "https://www.hrd.gov.tw/1123/2127/?q=%E5%A0%B4%E5%9C%B0%E6%9F%A5%E8%A9%A2",
+    "verificationStatus": "待修正",
+    "verificationNote": "會議室頁面可能不正確"
   },
   {
     "id": 1043,
@@ -1623,7 +1630,7 @@
     "url": "https://artouch.com/",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "上架",
+    "status": "不提供會議",
     "roomType": "咖啡廳包場",
     "notes": " [官網無法連線，需手動搜尋確認]",
     "missingFields": [
@@ -1631,7 +1638,8 @@
     ],
     "lastUpdated": "2026-03-02T00:16:32.293Z",
     "lastVerified": "2026-03-01T23:29:08.357Z",
-    "verificationError": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://cafe.artco.com.tw/\nCall log:\n  - navigating to \"https://cafe.artco.com.tw/\", waiting until \"domcontentloaded\"\n"
+    "verificationError": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://cafe.artco.com.tw/\nCall log:\n  - navigating to \"https://cafe.artco.com.tw/\", waiting until \"domcontentloaded\"\n",
+    "note": "咖啡廳，不提供會議室租借"
   },
   {
     "id": 1045,
@@ -1742,7 +1750,9 @@
     ],
     "lastUpdated": "2026-03-02T00:16:32.388Z",
     "lastVerified": "2026-03-01T23:29:10.203Z",
-    "verifiedTitle": "Access Denied"
+    "verifiedTitle": "Access Denied",
+    "verificationStatus": "待手動驗證",
+    "verificationNote": "國際連鎖酒店，被防護系統阻擋"
   },
   {
     "id": 1048,
@@ -2128,7 +2138,9 @@
     "lastUpdated": "2026-03-02T00:16:32.389Z",
     "lastVerified": "2026-03-01T23:29:38.976Z",
     "verifiedTitle": "典華幸福機構｜婚宴場地｜會議、活動空間租借｜台北及新北品牌",
-    "meetingPageUrl": "https://www.denwell.com/#"
+    "meetingPageUrl": "https://www.denwell.com/#",
+    "verificationStatus": "待修正",
+    "verificationNote": "會議室頁面可能不正確"
   },
   {
     "id": 1058,
@@ -2168,7 +2180,9 @@
     "lastUpdated": "2026-03-02T00:16:32.389Z",
     "lastVerified": "2026-03-01T23:29:44.020Z",
     "verifiedTitle": "捷運北投會館",
-    "meetingPageUrl": "https://btresort.metro.taipei/Content_List.aspx?n=AC6664006DEBC90D"
+    "meetingPageUrl": "https://btresort.metro.taipei/Content_List.aspx?n=AC6664006DEBC90D",
+    "verificationStatus": "待修正",
+    "verificationNote": "會議室頁面可能不正確"
   },
   {
     "id": 1059,
@@ -2243,7 +2257,9 @@
     "roomType": "宴會廳",
     "lastVerified": "2026-03-01T23:29:49.151Z",
     "verifiedTitle": "palaisdechine.com",
-    "lastUpdated": "2026-03-02T00:16:32.389Z"
+    "lastUpdated": "2026-03-02T00:16:32.389Z",
+    "verificationStatus": "待修正",
+    "verificationNote": "會議室頁面可能不正確"
   },
   {
     "id": 1061,
@@ -2299,7 +2315,9 @@
     "roomType": "宴會廳",
     "lastVerified": "2026-03-01T23:29:54.259Z",
     "verifiedTitle": "Hyatt Hotels and Resorts",
-    "lastUpdated": "2026-03-02T00:16:32.389Z"
+    "lastUpdated": "2026-03-02T00:16:32.389Z",
+    "verificationStatus": "待修正",
+    "verificationNote": "找不到會議室頁面"
   },
   {
     "id": 1062,
@@ -2574,7 +2592,9 @@
     ],
     "lastUpdated": "2026-03-02T00:16:32.443Z",
     "lastVerified": "2026-03-01T23:30:43.660Z",
-    "verificationError": "page.goto: Timeout 20000ms exceeded.\nCall log:\n  - navigating to \"https://www.ambiencehotel.com.tw/\", waiting until \"domcontentloaded\"\n"
+    "verificationError": "page.goto: Timeout 20000ms exceeded.\nCall log:\n  - navigating to \"https://www.ambiencehotel.com.tw/\", waiting until \"domcontentloaded\"\n",
+    "verificationStatus": "待修正",
+    "verificationNote": "會議室頁面可能不正確"
   },
   {
     "id": 1069,
@@ -2793,7 +2813,9 @@
     "roomType": "宴會廳",
     "lastVerified": "2026-03-01T23:31:22.066Z",
     "verifiedTitle": "台北寒舍艾美酒店 - Le Méridien Taipei",
-    "meetingPageUrl": "https://www.lemeridien-taipei.com/websev?lang=zh-tw&ref=pages&cat=43&type=0"
+    "meetingPageUrl": "https://www.lemeridien-taipei.com/websev?lang=zh-tw&ref=pages&cat=43&type=0",
+    "verificationStatus": "待修正",
+    "verificationNote": "會議室頁面可能不正確"
   },
   {
     "id": 1077,
@@ -2869,7 +2891,9 @@
     "status": "上架",
     "roomType": "宴會廳",
     "lastVerified": "2026-03-01T23:31:27.440Z",
-    "verifiedTitle": "www.humblehouse.com - Coming Soon"
+    "verifiedTitle": "www.humblehouse.com - Coming Soon",
+    "verificationStatus": "待手動驗證",
+    "verificationNote": "國際連鎖酒店，被防護系統阻擋"
   },
   {
     "id": 1079,
@@ -3054,7 +3078,9 @@
     "roomType": "宴會廳",
     "lastVerified": "2026-03-01T23:31:36.481Z",
     "verifiedTitle": "citizenM - Modern Hotels in Iconic Cities Worldwide",
-    "lastUpdated": "2026-03-02T00:16:32.390Z"
+    "lastUpdated": "2026-03-02T00:16:32.390Z",
+    "verificationStatus": "待手動驗證",
+    "verificationNote": "國際連鎖酒店，被防護系統阻擋"
   },
   {
     "id": 1084,
@@ -3210,7 +3236,9 @@
     "roomType": "宴會廳",
     "lastVerified": "2026-03-01T23:31:47.032Z",
     "verifiedTitle": "Access Denied",
-    "lastUpdated": "2026-03-02T00:16:32.390Z"
+    "lastUpdated": "2026-03-02T00:16:32.390Z",
+    "verificationStatus": "待手動驗證",
+    "verificationNote": "國際連鎖酒店，被防護系統阻擋"
   },
   {
     "id": 1087,
@@ -3546,7 +3574,9 @@
     "missingFields": [
       "會議室名稱（具體）"
     ],
-    "lastUpdated": "2026-03-02T00:16:32.390Z"
+    "lastUpdated": "2026-03-02T00:16:32.390Z",
+    "verificationStatus": "待修正",
+    "verificationNote": "會議室頁面可能不正確"
   },
   {
     "id": 1096,
@@ -3581,7 +3611,9 @@
     "roomType": "宴會廳",
     "lastVerified": "2026-03-01T23:31:52.206Z",
     "verifiedTitle": "Grand Mayfull Hotel Taipei",
-    "meetingPageUrl": "https://www.tablecheck.com/en/grand-mayfull-hotel-taipei-palette-buffet/reserve/landing?require_venue=true"
+    "meetingPageUrl": "https://www.tablecheck.com/en/grand-mayfull-hotel-taipei-palette-buffet/reserve/landing?require_venue=true",
+    "verificationStatus": "待修正",
+    "verificationNote": "會議室頁面可能不正確"
   },
   {
     "id": 1097,
@@ -3650,7 +3682,9 @@
     "lastVerified": "2026-03-01T23:32:00.239Z",
     "verifiedTitle": "Modern Hotels | Le Méridien Hotels & Resorts",
     "meetingPageUrl": "https://le-meridien.marriott.com/programmes/meetings-and-events/",
-    "lastUpdated": "2026-03-02T00:16:32.390Z"
+    "lastUpdated": "2026-03-02T00:16:32.390Z",
+    "verificationStatus": "待手動驗證",
+    "verificationNote": "國際連鎖酒店，被防護系統阻擋"
   },
   {
     "id": 1099,
@@ -4013,7 +4047,9 @@
     ],
     "lastUpdated": "2026-03-02T00:16:32.293Z",
     "lastVerified": "2026-03-01T23:32:12.490Z",
-    "verificationError": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.tms.gov.taipei/\nCall log:\n  - navigating to \"https://www.tms.gov.taipei/\", waiting until \"domcontentloaded\"\n"
+    "verificationError": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.tms.gov.taipei/\nCall log:\n  - navigating to \"https://www.tms.gov.taipei/\", waiting until \"domcontentloaded\"\n",
+    "verificationStatus": "待修正",
+    "verificationNote": "會議室頁面可能不正確"
   },
   {
     "id": 1108,
@@ -4043,7 +4079,7 @@
     "url": "https://www.ntualumni.org.tw/",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "上架",
+    "status": "待確認",
     "roomType": "會議中心",
     "notes": " [官網無法連線或擋爬蟲，需手動確認]",
     "missingFields": [
@@ -4052,7 +4088,10 @@
     ],
     "lastUpdated": "2026-03-02T00:16:32.293Z",
     "lastVerified": "2026-03-01T23:32:14.154Z",
-    "verificationError": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.ntualumni.org.tw/\nCall log:\n  - navigating to \"https://www.ntualumni.org.tw/\", waiting until \"domcontentloaded\"\n"
+    "verificationError": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.ntualumni.org.tw/\nCall log:\n  - navigating to \"https://www.ntualumni.org.tw/\", waiting until \"domcontentloaded\"\n",
+    "verificationStatus": "待確認",
+    "verificationNote": "官網無法連線，需確認營運狀態",
+    "note": "官網無法連線，需確認營運狀態"
   },
   {
     "id": 1109,
@@ -4236,9 +4275,12 @@
     "url": "https://itcc.evergreen.com.tw/",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "上架",
+    "status": "待確認",
     "roomType": "會議中心",
-    "lastUpdated": "2026-03-02T00:16:32.386Z"
+    "lastUpdated": "2026-03-02T00:16:32.386Z",
+    "verificationStatus": "待確認",
+    "verificationNote": "官網無法連線，需確認營運狀態",
+    "note": "官網無法連線，需確認是否仍提供會議服務"
   },
   {
     "id": 1116,
@@ -4761,7 +4803,9 @@
     "verifiedAt": "2026-02-27",
     "status": "上架",
     "roomType": "會議中心",
-    "lastUpdated": "2026-03-02T00:16:32.385Z"
+    "lastUpdated": "2026-03-02T00:16:32.385Z",
+    "verificationStatus": "已驗證",
+    "lastVerified": "2026-03-02T00:40:55.067Z"
   },
   {
     "id": 1129,
@@ -4832,7 +4876,9 @@
     "lastVerified": "2026-03-01T23:33:04.721Z",
     "verifiedTitle": "Luxury 5 Star Hotel in Taipei | Shangri-La Far Eastern, Taipei",
     "meetingPageUrl": "https://www.shangri-la.com/taipei/fareasternplazashangrila/meetings-events/",
-    "lastUpdated": "2026-03-02T00:16:32.390Z"
+    "lastUpdated": "2026-03-02T00:16:32.390Z",
+    "verificationStatus": "待修正",
+    "verificationNote": "會議室頁面可能不正確"
   },
   {
     "id": 1131,
@@ -12096,7 +12142,9 @@
     ],
     "lastUpdated": "2026-03-02T00:16:32.384Z",
     "lastVerified": "2026-03-01T23:45:01.834Z",
-    "verificationError": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://zssc.cyc.org.tw/\nCall log:\n  - navigating to \"https://zssc.cyc.org.tw/\", waiting until \"domcontentloaded\"\n"
+    "verificationError": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://zssc.cyc.org.tw/\nCall log:\n  - navigating to \"https://zssc.cyc.org.tw/\", waiting until \"domcontentloaded\"\n",
+    "verificationStatus": "待修正",
+    "verificationNote": "會議室頁面可能不正確"
   },
   {
     "id": 1335,
@@ -12135,7 +12183,10 @@
     ],
     "lastUpdated": "2026-03-02T00:16:32.384Z",
     "lastVerified": "2026-03-01T23:45:03.477Z",
-    "verificationError": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://xysc.cyc.org.tw/\nCall log:\n  - navigating to \"https://xysc.cyc.org.tw/\", waiting until \"domcontentloaded\"\n"
+    "verificationError": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://xysc.cyc.org.tw/\nCall log:\n  - navigating to \"https://xysc.cyc.org.tw/\", waiting until \"domcontentloaded\"\n",
+    "verificationStatus": "需更新官網",
+    "verificationNote": "官網無法連線，需確認營運狀態",
+    "note": "原官網無法連線，需搜尋新官網"
   },
   {
     "id": 1336,
@@ -12174,7 +12225,9 @@
     "lastUpdated": "2026-03-02T00:16:32.442Z",
     "lastVerified": "2026-03-01T23:45:08.126Z",
     "verifiedTitle": "內湖運動中心",
-    "meetingPageUrl": "https://scr.cyc.org.tw/tp12.aspx"
+    "meetingPageUrl": "https://scr.cyc.org.tw/tp12.aspx",
+    "verificationStatus": "待修正",
+    "verificationNote": "會議室頁面可能不正確"
   },
   {
     "id": 1337,
@@ -12213,7 +12266,9 @@
     "lastUpdated": "2026-03-01T23:07:15.061Z",
     "lastVerified": "2026-03-01T23:45:10.609Z",
     "verifiedTitle": "國立國父紀念館",
-    "meetingPageUrl": "https://www.yatsen.gov.tw/cl.aspx?n=6679"
+    "meetingPageUrl": "https://www.yatsen.gov.tw/cl.aspx?n=6679",
+    "verificationStatus": "待修正",
+    "verificationNote": "會議室頁面可能不正確"
   },
   {
     "id": 1338,
@@ -12286,7 +12341,9 @@
     ],
     "lastUpdated": "2026-03-02T00:16:32.385Z",
     "lastVerified": "2026-03-01T23:45:12.235Z",
-    "verificationError": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://thcf.org.tw/\nCall log:\n  - navigating to \"https://thcf.org.tw/\", waiting until \"domcontentloaded\"\n"
+    "verificationError": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://thcf.org.tw/\nCall log:\n  - navigating to \"https://thcf.org.tw/\", waiting until \"domcontentloaded\"\n",
+    "verificationStatus": "待修正",
+    "verificationNote": "會議室頁面可能不正確"
   },
   {
     "name": "朱崙區民活動中心",
@@ -12330,7 +12387,9 @@
     ],
     "lastUpdated": "2026-03-02T00:16:32.385Z",
     "lastVerified": "2026-03-01T23:45:13.876Z",
-    "verificationError": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://zsdp.gov.taipei/\nCall log:\n  - navigating to \"https://zsdp.gov.taipei/\", waiting until \"domcontentloaded\"\n"
+    "verificationError": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://zsdp.gov.taipei/\nCall log:\n  - navigating to \"https://zsdp.gov.taipei/\", waiting until \"domcontentloaded\"\n",
+    "verificationStatus": "待確認",
+    "verificationNote": "官網無法連線，需確認營運狀態"
   },
   {
     "id": 1340,
@@ -12412,7 +12471,10 @@
     ],
     "lastUpdated": "2026-03-01T23:07:15.061Z",
     "lastVerified": "2026-03-01T23:45:13.876Z",
-    "verificationError": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://zsdp.gov.taipei/\nCall log:\n  - navigating to \"https://zsdp.gov.taipei/\", waiting until \"domcontentloaded\"\n"
+    "verificationError": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://zsdp.gov.taipei/\nCall log:\n  - navigating to \"https://zsdp.gov.taipei/\", waiting until \"domcontentloaded\"\n",
+    "verificationStatus": "需更新官網",
+    "verificationNote": "官網無法連線，需確認營運狀態",
+    "note": "原官網無法連線，需搜尋新官網"
   },
   {
     "name": "林森三區民活動中心",
@@ -14521,7 +14583,9 @@
     "status": "上架",
     "roomType": "宴會廳",
     "lastVerified": "2026-03-01T23:31:05.258Z",
-    "verificationError": "page.goto: Timeout 20000ms exceeded.\nCall log:\n  - navigating to \"https://www.ambassadorhotel.com.tw/taipei\", waiting until \"domcontentloaded\"\n"
+    "verificationError": "page.goto: Timeout 20000ms exceeded.\nCall log:\n  - navigating to \"https://www.ambassadorhotel.com.tw/taipei\", waiting until \"domcontentloaded\"\n",
+    "verificationStatus": "待確認",
+    "verificationNote": "官網無法連線，需確認營運狀態"
   },
   {
     "id": 1397,
@@ -15006,7 +15070,9 @@
     "status": "上架",
     "roomType": "宴會廳",
     "lastVerified": "2026-03-01T23:29:49.151Z",
-    "verifiedTitle": "palaisdechine.com"
+    "verifiedTitle": "palaisdechine.com",
+    "verificationStatus": "待修正",
+    "verificationNote": "找不到會議室頁面"
   },
   {
     "id": 1410,
@@ -15687,7 +15753,9 @@
     "status": "上架",
     "roomType": "會議中心",
     "lastVerified": "2026-03-01T23:45:15.599Z",
-    "verificationError": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.ntuacc.org/\nCall log:\n  - navigating to \"https://www.ntuacc.org/\", waiting until \"domcontentloaded\"\n"
+    "verificationError": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.ntuacc.org/\nCall log:\n  - navigating to \"https://www.ntuacc.org/\", waiting until \"domcontentloaded\"\n",
+    "verificationStatus": "待確認",
+    "verificationNote": "官網無法連線，需確認營運狀態"
   },
   {
     "id": 1434,
@@ -15795,10 +15863,13 @@
     "url": "https://www.yfpcf.org",
     "verified": true,
     "verifiedAt": "2026-03-01",
-    "status": "上架",
+    "status": "待確認",
     "roomType": "會議中心",
     "lastVerified": "2026-03-01T23:45:17.334Z",
-    "verificationError": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.yfpcf.org/\nCall log:\n  - navigating to \"https://www.yfpcf.org/\", waiting until \"domcontentloaded\"\n"
+    "verificationError": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.yfpcf.org/\nCall log:\n  - navigating to \"https://www.yfpcf.org/\", waiting until \"domcontentloaded\"\n",
+    "verificationStatus": "待確認",
+    "verificationNote": "官網無法連線，需確認營運狀態",
+    "note": "官網無法連線，需確認是否仍提供會議服務"
   },
   {
     "id": 1437,
@@ -15832,10 +15903,11 @@
     "url": "https://www.yfpcf.org",
     "verified": true,
     "verifiedAt": "2026-03-01",
-    "status": "上架",
+    "status": "待確認",
     "roomType": "會議中心",
     "lastVerified": "2026-03-01T23:45:17.334Z",
-    "verificationError": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.yfpcf.org/\nCall log:\n  - navigating to \"https://www.yfpcf.org/\", waiting until \"domcontentloaded\"\n"
+    "verificationError": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.yfpcf.org/\nCall log:\n  - navigating to \"https://www.yfpcf.org/\", waiting until \"domcontentloaded\"\n",
+    "note": "官網無法連線，需確認是否仍提供會議服務"
   },
   {
     "id": 1438,
@@ -15869,10 +15941,11 @@
     "url": "https://www.yfpcf.org",
     "verified": true,
     "verifiedAt": "2026-03-01",
-    "status": "上架",
+    "status": "待確認",
     "roomType": "會議中心",
     "lastVerified": "2026-03-01T23:45:17.334Z",
-    "verificationError": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.yfpcf.org/\nCall log:\n  - navigating to \"https://www.yfpcf.org/\", waiting until \"domcontentloaded\"\n"
+    "verificationError": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.yfpcf.org/\nCall log:\n  - navigating to \"https://www.yfpcf.org/\", waiting until \"domcontentloaded\"\n",
+    "note": "官網無法連線，需確認是否仍提供會議服務"
   },
   {
     "id": 1439,
