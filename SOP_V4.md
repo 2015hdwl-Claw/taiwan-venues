@@ -323,6 +323,22 @@ curl -sI --connect-timeout 10 "$url" | head -1
 | DNS 解析失敗 | HTTP 403 | 反爬蟲機制 |
 | DNS 解析失敗 | HTTP 200 | 誤判，應為正常 |
 | DNS 解析失敗 | HTTP 301/302 | 誤判，應為正常 |
+| ID 不存在 | ID 存在 | Sub-agent 誤判，需用 id-query.js 驗證 |
+
+### 8.5.4 ID 查詢驗證
+
+```bash
+# 查詢單一 ID
+node id-query.js query 1433
+
+# 批次查詢
+node id-query.js batch 1433 1436 1439
+
+# 搜尋重複記錄
+node id-query.js duplicates "集思台大會議中心"
+```
+
+**重要**：使用 `==` 進行寬鬆比對，避免類型不匹配問題
 
 ---
 

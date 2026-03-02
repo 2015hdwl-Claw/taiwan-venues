@@ -91,3 +91,45 @@ curl -sI --connect-timeout 10 "$url" | head -1
 2. **必須區分 HTTP 狀態碼**
 3. **HTTP 301/302 應視為正常可訪問**
 4. **執行二次驗證後更新錯誤分類**
+
+---
+
+## ID 查詢注意事項
+
+### 正確的 ID 查詢方式
+
+```javascript
+// ✅ 正確：使用 == 進行寬鬆比對
+const venue = data.find(v => v.id == targetId);
+
+// ❌ 錯誤：使用 === 進行嚴格比對（類型不匹配會失敗）
+const venue = data.find(v => v.id === targetId);
+```
+
+### ID 不存在的判斷標準
+
+1. 使用 `find()` 方法查詢
+2. 確認 `venue` 是否為 `undefined`
+3. **記錄查詢過程和結果**
+4. **使用 id-query.js 腳本驗證**
+
+### ID 查詢腳本
+
+```bash
+# 查詢單一 ID
+node id-query.js query 1433
+
+# 批次查詢
+node id-query.js batch 1433 1436 1439
+
+# 搜尋重複記錄
+node id-query.js duplicates "集思台大會議中心"
+```
+
+### 常見錯誤
+
+| 錯誤 | 說明 | 正確做法 |
+|------|------|----------|
+| ID 不存在 | Sub-agent 誤判 | 使用 id-query.js 驗證 |
+| 類型不匹配 | 數字 vs 字串 | 使用 == 而非 === |
+| 查詢方式錯誤 | 使用錯誤的資料結構 | 使用 find() 方法 |
