@@ -4608,14 +4608,15 @@
     "url": "https://www.nccu.edu.tw",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "上架",
+    "status": "待修",
     "roomType": "會議中心",
     "missingFields": [
       "會議室名稱（具體）"
     ],
-    "verificationStatus": "已驗證",
+    "verificationStatus": "會議室不完整",
     "meetingPageUrl": "https://www.nccu.edu.tw/p/406-1000-21958,r19.php?Lang=zh-tw",
-    "lastVerified": "2026-03-02T09:52:23.503Z"
+    "lastVerified": "2026-03-02T09:52:23.503Z",
+    "verificationNote": "只有 1 筆記錄，需補充完整會議室清單"
   },
   {
     "id": 1119,
