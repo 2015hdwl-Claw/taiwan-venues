@@ -3175,10 +3175,8 @@
     "missingFields": [
       "會議室名稱（具體）"
     ],
-    "verificationStatus": "✅ 驗證通過",
-    "lastVerified": "2026-03-03T01:53:00.000Z",
-    "roomsCount": 1,
-    "verificationNotes": "官網驗證：1 個會議室"
+    "verificationStatus": "待修正",
+    "lastVerified": "2026-03-02T09:52:23.503Z"
   },
   {
     "id": 1083,
@@ -3213,13 +3211,11 @@
     "verifiedAt": "2026-02-27",
     "status": "待修",
     "roomType": "宴會廳",
-    "lastVerified": "2026-03-03T01:53:00.000Z",
+    "lastVerified": "2026-03-01T23:31:36.481Z",
     "verifiedTitle": "citizenM - Modern Hotels in Iconic Cities Worldwide",
     "lastUpdated": "2026-03-02T00:16:32.390Z",
-    "verificationStatus": "✅ 驗證通過",
-    "verificationNote": "缺少 venueListUrl",
-    "roomsCount": 3,
-    "verificationNotes": "官網驗證：3 個會議室（societyM 會議空間、會議室 A、會議室 B）"
+    "verificationStatus": "待修",
+    "verificationNote": "缺少 venueListUrl"
   },
   {
     "id": 1084,
@@ -3318,15 +3314,12 @@
     "verifiedAt": "2026-02-27",
     "status": "上架",
     "roomType": "宴會廳",
-    "lastVerified": "2026-03-03T01:53:00.000Z",
+    "lastVerified": "2026-03-02T13:09:00.717Z",
     "verifiedTitle": "Luxury 5 Star Hotel | Songshan | Mandarin Oriental, Taipei",
     "meetingPageUrl": "https://www.mandarinoriental.com/en/taipei/songshan/events",
     "lastUpdated": "2026-03-02T00:16:32.390Z",
     "venueListUrl": "https://www.mandarinoriental.com/zh-hk/taipei/songshan/events",
-    "venueMainImageUrl": "https://media.ffycdn.net/eu/mandarin-oriental-hotel-group/oy6E3rsLkt5vaNhNAcTM.jpg",
-    "roomsCount": 8,
-    "verificationStatus": "✅ 驗證通過",
-    "verificationNotes": "官網驗證：8 個會議空間（宴會廳和多功能廳）"
+    "venueMainImageUrl": "https://media.ffycdn.net/eu/mandarin-oriental-hotel-group/oy6E3rsLkt5vaNhNAcTM.jpg"
   },
   {
     "id": 1086,
@@ -3382,13 +3375,11 @@
     "verifiedAt": "2026-02-27",
     "status": "待修",
     "roomType": "宴會廳",
-    "lastVerified": "2026-03-03T01:53:00.000Z",
+    "lastVerified": "2026-03-01T23:31:47.032Z",
     "verifiedTitle": "Access Denied",
     "lastUpdated": "2026-03-02T00:16:32.390Z",
-    "verificationStatus": "✅ 驗證通過",
-    "verificationNote": "缺少 venueListUrl",
-    "roomsCount": 7,
-    "verificationNotes": "官網驗證：7 個宴會/會議廳"
+    "verificationStatus": "待修",
+    "verificationNote": "缺少 venueListUrl"
   },
   {
     "id": 1087,
@@ -3462,11 +3453,9 @@
       "照片"
     ],
     "lastUpdated": "2026-03-01T23:07:15.063Z",
-    "verificationStatus": "⚠️ 網站無法訪問",
+    "verificationStatus": "待確認",
     "verificationError": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.songyi-hotel.com/\nCall log:\n  - navigating to \"https://www.songyi-hotel.com/\", waiting until \"domcontentloaded\"\n",
-    "lastVerified": "2026-03-03T01:53:00.000Z",
-    "roomsCount": 2,
-    "verificationNotes": "DNS 解析失敗，無法驗證官網會議室數量。現有數據顯示 2 個會議室。"
+    "lastVerified": "2026-03-02T09:52:23.503Z"
   },
   {
     "id": 1089,
@@ -3504,11 +3493,9 @@
     ],
     "lastSearched": "2026-03-01T22:29:32.171Z",
     "lastUpdated": "2026-03-01T23:07:15.063Z",
-    "verificationStatus": "⚠️ 網站無法訪問",
+    "verificationStatus": "待確認",
     "verificationError": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.chateau-china.com/\nCall log:\n  - navigating to \"https://www.chateau-china.com/\", waiting until \"domcontentloaded\"\n",
-    "lastVerified": "2026-03-03T01:53:00.000Z",
-    "roomsCount": 3,
-    "verificationNotes": "DNS 解析失敗，無法驗證官網會議室數量。現有數據顯示 3 個會議室。"
+    "lastVerified": "2026-03-02T09:52:23.503Z"
   },
   {
     "id": 1090,
@@ -3551,13 +3538,11 @@
     "missingFields": [
       "會議室名稱（具體）"
     ],
-    "verificationStatus": "✅ 驗證通過",
+    "verificationStatus": "已驗證",
     "meetingPageUrl": "https://www.dynasty.com.tw/news",
-    "lastVerified": "2026-03-03T01:53:00.000Z",
+    "lastVerified": "2026-03-02T13:09:17.960Z",
     "venueListUrl": "https://www.dynasty.com.tw/news",
-    "venueMainImageUrl": "https://www.dynasty.com.tw/images/banner4.jpg",
-    "roomsCount": 5,
-    "verificationNotes": "官網驗證：5 個宴會/會議廳"
+    "venueMainImageUrl": "https://www.dynasty.com.tw/images/banner4.jpg"
   },
   {
     "id": 1091,
@@ -3596,11 +3581,9 @@
       "會議室名稱（具體）"
     ],
     "lastUpdated": "2026-03-01T23:07:15.063Z",
-    "verificationStatus": "⚠️ 網站無法訪問",
+    "verificationStatus": "待確認",
     "verificationError": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.san-want.com/\nCall log:\n  - navigating to \"https://www.san-want.com/\", waiting until \"domcontentloaded\"\n",
-    "lastVerified": "2026-03-03T01:53:00.000Z",
-    "roomsCount": 4,
-    "verificationNotes": "DNS 解析失敗，無法驗證官網會議室數量。現有數據顯示 4 個會議室。"
+    "lastVerified": "2026-03-02T09:52:23.503Z"
   },
   {
     "id": 1092,
@@ -3674,11 +3657,9 @@
       "照片"
     ],
     "lastUpdated": "2026-03-01T23:07:15.063Z",
-    "verificationStatus": "⚠️ 網站無法訪問",
+    "verificationStatus": "待確認",
     "verificationError": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.first-hotel.com.tw/\nCall log:\n  - navigating to \"https://www.first-hotel.com.tw/\", waiting until \"domcontentloaded\"\n",
-    "lastVerified": "2026-03-03T01:53:00.000Z",
-    "roomsCount": 2,
-    "verificationNotes": "DNS 解析失敗，無法驗證官網會議室數量。現有數據顯示 2 個會議室。"
+    "lastVerified": "2026-03-02T09:52:23.503Z"
   },
   {
     "id": 1094,
@@ -3715,11 +3696,9 @@
       "照片"
     ],
     "lastUpdated": "2026-03-01T23:07:15.063Z",
-    "verificationStatus": "⚠️ 網站無法訪問",
+    "verificationStatus": "待確認",
     "verificationError": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.tongyi-hotel.com/\nCall log:\n  - navigating to \"https://www.tongyi-hotel.com/\", waiting until \"domcontentloaded\"\n",
-    "lastVerified": "2026-03-03T01:53:00.000Z",
-    "roomsCount": 3,
-    "verificationNotes": "DNS 解析失敗，無法驗證官網會議室數量。現有數據顯示 3 個會議室。"
+    "lastVerified": "2026-03-02T09:52:23.503Z"
   },
   {
     "id": 1095,

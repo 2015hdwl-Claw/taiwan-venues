@@ -1,0 +1,224 @@
+{
+  "verificationDate": "2026-03-03T06:05:00",
+  "verificationVersion": "SOP V4.5 Phase 3",
+  "batchNumber": 6,
+  "totalVenues": 10,
+  "summary": {
+    "上架": 2,
+    "待修": 8
+  },
+  "venues": [
+    {
+      "id": 1099,
+      "name": "台北艾美酒店",
+      "roomsCount": 6,
+      "roomNames": [],
+      "status": "待修",
+      "venueListUrl": "https://le-meridien.marriott.com/programmes/meetings-and-events/",
+      "venueListUrlStatus": "品牌頁面，非專屬頁面",
+      "website": "https://le-meridien.marriott.com/",
+      "notes": [
+        "缺少台北艾美專屬會議頁面",
+        "無法統計具體會議室數量",
+        "需要聯繫飯店或找到官方會議室資訊"
+      ],
+      "actionRequired": [
+        "尋找台北艾美酒店官網（可能在 Marriott 集團網站下）",
+        "聯繫飯店取得會議室清單和數量",
+        "更新 venueListUrl 為台北艾美專屬頁面"
+      ]
+    },
+    {
+      "id": 1100,
+      "name": "台北花園大酒店",
+      "roomsCount": 2,
+      "roomNames": [],
+      "status": "待修",
+      "venueListUrl": "https://www.taipeigarden.com.tw/banquets-conferences/meeting-package/",
+      "venueListUrlStatus": "有會議專案頁面，但未列出會議室名稱",
+      "website": "https://www.taipeigarden.com.tw/",
+      "notes": [
+        "有會議服務但缺少會議室名稱",
+        "需要補充具體會議室數量"
+      ],
+      "actionRequired": [
+        "訪問宴會會議頁面查看是否有會議室清單",
+        "聯繫飯店取得會議室名稱和數量",
+        "更新 roomNames 欄位"
+      ]
+    },
+    {
+      "id": 1101,
+      "name": "台北華國大飯店",
+      "roomsCount": 3,
+      "roomNames": [],
+      "status": "上架",
+      "venueListUrl": null,
+      "venueListUrlStatus": "缺少，需補充",
+      "website": "https://www.imperialhotel.com.tw/",
+      "suggestedVenueListUrl": "https://www.imperialhotel.com.tw/catering/",
+      "notes": [
+        "官網可開啟",
+        "有會議服務頁面",
+        "可補充會議室資訊"
+      ],
+      "actionRequired": [
+        "新增 venueListUrl: https://www.imperialhotel.com.tw/catering/",
+        "聯繫飯店取得會議室名稱和數量",
+        "更新 roomsCount 和 roomNames"
+      ]
+    },
+    {
+      "id": 1102,
+      "name": "台北華泰瑞舍",
+      "roomsCount": null,
+      "roomNames": [],
+      "status": "待修",
+      "venueListUrl": null,
+      "venueListUrlStatus": "缺少",
+      "website": null,
+      "notes": [
+        "缺少 venueListUrl 和 website",
+        "可能為公寓式酒店，會議設施有限"
+      ],
+      "actionRequired": [
+        "尋找台北華泰瑞舍官網",
+        "確認是否提供商業會議服務",
+        "如無會議設施，考慮標記為「僅住宿」"
+      ]
+    },
+    {
+      "id": 1103,
+      "name": "台北萬豪酒店",
+      "roomsCount": 26,
+      "roomNames": [
+        "萬豪廳",
+        "Grand Ballroom",
+        "萬豪一廳",
+        "Grand Ballroom I",
+        "寰宇廳",
+        "Panorama Ballroom",
+        "福祿壽廳",
+        "Fortune•Prosperity•Longevity",
+        "四季廳",
+        "Spring•Summer•Autumn•Winter",
+        "宜華廳",
+        "Junior Ballroom",
+        "博覽廳",
+        "GRAND SPACE",
+        "Garden Villa"
+      ],
+      "status": "上架",
+      "venueListUrl": "https://www.taipeimarriott.com.tw/websev?cat=page&subcat=17",
+      "venueListUrlStatus": "完整",
+      "website": "https://www.taipeimarriott.com.tw/",
+      "notes": [
+        "官網可開啟",
+        "有完整的會議室頁面",
+        "會議室數量明確（26個多功能活動場地）",
+        "會議室名稱完整"
+      ],
+      "actionRequired": []
+    },
+    {
+      "id": 1105,
+      "name": "台北陽明山中國麗緻大飯店",
+      "roomsCount": null,
+      "roomNames": [],
+      "status": "待修",
+      "venueListUrl": null,
+      "venueListUrlStatus": "缺少",
+      "website": null,
+      "notes": [
+        "缺少 venueListUrl 和 website",
+        "需要尋找官網"
+      ],
+      "actionRequired": [
+        "尋找台北陽明山中國麗緻大飯店官網",
+        "確認會議設施和數量",
+        "更新 venueListUrl 和 roomsCount"
+      ]
+    },
+    {
+      "id": 1106,
+      "name": "台北香格里拉遠東國際大飯店",
+      "roomsCount": 10,
+      "roomNames": [],
+      "status": "待修",
+      "venueListUrl": null,
+      "venueListUrlStatus": "缺少，需補充",
+      "website": "https://www.shangri-la.com/taipei",
+      "suggestedVenueListUrl": "https://www.shangri-la.com/taipei/shangrila/events/",
+      "notes": [
+        "官網可開啟",
+        "缺少會議室清單頁面",
+        "需要補充會議室數量和名稱"
+      ],
+      "actionRequired": [
+        "找到香格里拉台北遠東的會議室清單頁面",
+        "更新 venueListUrl",
+        "統計會議室數量"
+      ]
+    },
+    {
+      "id": 1107,
+      "name": "台北體育館",
+      "roomsCount": null,
+      "roomNames": ["運動場館"],
+      "status": "待修",
+      "venueListUrl": "https://vbs.sports.taipei/venues/?G=3",
+      "venueListUrlStatus": "有，但需統計具體場地數量",
+      "website": "https://vbs.sports.taipei/",
+      "notes": [
+        "官網可開啟",
+        "場地數量不明確",
+        "需要統計具體會議/活動空間"
+      ],
+      "actionRequired": [
+        "訪問場地租借系統，統計可用場地數量",
+        "確認哪些場地可用於會議",
+        "更新 roomsCount"
+      ]
+    },
+    {
+      "id": 1108,
+      "name": "台大校友會館",
+      "roomsCount": null,
+      "roomNames": [],
+      "status": "待修",
+      "venueListUrl": null,
+      "venueListUrlStatus": "缺少",
+      "website": "https://www.ntualumni.org.tw/",
+      "websiteStatus": "無法訪問（DNS 解析失敗）",
+      "notes": [
+        "官網無法訪問",
+        "無法驗證會議設施"
+      ],
+      "actionRequired": [
+        "確認台大校友會館是否仍營運",
+        "尋找替代官網或聯繫方式",
+        "如已停止營運，標記為「下架」"
+      ]
+    },
+    {
+      "id": 1109,
+      "name": "台大綜合體育館",
+      "roomsCount": 1,
+      "roomNames": ["綜合體育館"],
+      "status": "待修",
+      "venueListUrl": "https://event.ntu.edu.tw/azalea/2026/",
+      "venueListUrlStatus": "錯誤（活動頁面，非場地頁面）",
+      "website": "https://event.ntu.edu.tw/",
+      "notes": [
+        "venueListUrl 不正確（活動頁面）",
+        "需要找到場地介紹頁面",
+        "需要統計具體會議/活動空間"
+      ],
+      "actionRequired": [
+        "找到台大綜合體育館的場地介紹頁面",
+        "統計可用於會議的場地數量",
+        "更新 venueListUrl"
+      ]
+    }
+  ]
+}

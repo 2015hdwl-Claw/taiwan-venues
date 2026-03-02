@@ -1,0 +1,139 @@
+[
+  {
+    "id": 1099,
+    "name": "台北艾美酒店",
+    "roomsCount": 0,
+    "roomNames": [],
+    "status": "待修",
+    "notes": [
+      "未找到會議室名稱",
+      "無法統計會議室數量"
+    ],
+    "venueListUrl": "https://le-meridien.marriott.com/programmes/meetings-and-events/",
+    "website": null
+  },
+  {
+    "id": 1100,
+    "name": "台北花園大酒店",
+    "roomsCount": 0,
+    "roomNames": [],
+    "status": "待修",
+    "notes": [
+      "未找到會議室名稱",
+      "無法統計會議室數量"
+    ],
+    "venueListUrl": "https://www.taipeigarden.com.tw/banquets-conferences/meeting-package/",
+    "website": null
+  },
+  {
+    "id": 1101,
+    "name": "台北華國大飯店",
+    "roomsCount": 2,
+    "roomNames": [
+      "線上訂房",
+      "123456789"
+    ],
+    "status": "上架",
+    "notes": [],
+    "venueListUrl": null,
+    "website": "https://www.imperialhotel.com.tw"
+  },
+  {
+    "id": 1102,
+    "name": "台北華泰瑞舍",
+    "roomsCount": 0,
+    "roomNames": [],
+    "status": "待修",
+    "notes": [
+      "缺少 venueListUrl 和 website"
+    ],
+    "venueListUrl": null,
+    "website": null
+  },
+  {
+    "id": 1103,
+    "name": "台北萬豪酒店",
+    "roomsCount": 26,
+    "roomNames": [
+      "萬豪廳",
+      "Grand Ballroom",
+      "萬豪一廳",
+      "Grand Ballroom I",
+      "寰宇廳",
+      "Panorama  Ballroom",
+      "福祿壽廳",
+      "四季廳",
+      "宜華廳",
+      "Junior Ballroom"
+    ],
+    "status": "上架",
+    "notes": [],
+    "venueListUrl": "https://www.taipeimarriott.com.tw/websev?cat=page&subcat=17",
+    "website": null
+  },
+  {
+    "id": 1105,
+    "name": "台北陽明山中國麗緻大飯店",
+    "roomsCount": 0,
+    "roomNames": [],
+    "status": "待修",
+    "notes": [
+      "缺少 venueListUrl 和 website"
+    ],
+    "venueListUrl": null,
+    "website": null
+  },
+  {
+    "id": 1106,
+    "name": "台北香格里拉遠東國際大飯店",
+    "roomsCount": 5,
+    "roomNames": [
+      "Rooms",
+      "Suites",
+      "Connecting Rooms",
+      "ROOMS & SUITES OVERVIEW",
+      "DINING OVERVIEW"
+    ],
+    "status": "上架",
+    "notes": [],
+    "venueListUrl": null,
+    "website": "https://www.shangri-la.com/taipei"
+  },
+  {
+    "id": 1107,
+    "name": "台北體育館",
+    "roomsCount": 1,
+    "roomNames": [
+      "運動場館:::"
+    ],
+    "status": "上架",
+    "notes": [],
+    "venueListUrl": "https://vbs.sports.taipei/venues/?G=3",
+    "website": null
+  },
+  {
+    "id": 1108,
+    "name": "台大校友會館",
+    "roomsCount": 0,
+    "roomNames": [],
+    "status": "待修",
+    "notes": [
+      "無法訪問網站 (HTTP None)"
+    ],
+    "venueListUrl": null,
+    "website": "https://www.ntualumni.org.tw"
+  },
+  {
+    "id": 1109,
+    "name": "台大綜合體育館",
+    "roomsCount": 0,
+    "roomNames": [],
+    "status": "待修",
+    "notes": [
+      "未找到會議室名稱",
+      "無法統計會議室數量"
+    ],
+    "venueListUrl": "https://event.ntu.edu.tw/azalea/2026/",
+    "website": null
+  }
+]

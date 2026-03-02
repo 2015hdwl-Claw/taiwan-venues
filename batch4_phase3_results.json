@@ -1,0 +1,113 @@
+[
+  {
+    "id": 1082,
+    "name": "台北怡亨酒店",
+    "url": "https://www.eclathotels.com",
+    "roomsCount": 0,
+    "roomNames": [],
+    "status": "⚠️ 未找到會議室",
+    "notes": "官網上未找到會議室信息"
+  },
+  {
+    "id": 1083,
+    "name": "台北意舍酒店(CitizenM)",
+    "url": "https://www.citizenm.com/hotels/asia/taipei/",
+    "roomsCount": 9,
+    "roomNames": [
+      "Every room",
+      "Hotel room",
+      "eEvery room",
+      "each room",
+      "every room",
+      "group room",
+      "guest room",
+      "living room",
+      "to room"
+    ],
+    "status": "✅ 驗證通過",
+    "notes": "官網顯示 9 個會議室"
+  },
+  {
+    "id": 1085,
+    "name": "台北文華東方酒店(MOHTaipei)",
+    "url": "https://www.mandarinoriental.com/zh-hk/taipei/",
+    "roomsCount": 20,
+    "roomNames": [
+      "Deluxe Room",
+      "Mandarin Room",
+      "Premier Room",
+      "State Room",
+      "Wildflower Hall",
+      "arrival hall",
+      "art room",
+      "different room",
+      "for room",
+      "guest room"
+    ],
+    "status": "✅ 驗證通過",
+    "notes": "官網顯示 20 個會議室"
+  },
+  {
+    "id": 1086,
+    "name": "台北晶華酒店(RegentTaipei)",
+    "url": "https://www.regenthotels.com/tw/regent-taipei",
+    "roomsCount": 0,
+    "roomNames": [],
+    "status": "⚠️ 未找到會議室",
+    "notes": "官網上未找到會議室信息"
+  },
+  {
+    "id": 1088,
+    "name": "台北松意酒店",
+    "url": "https://www.songyi-hotel.com/",
+    "roomsCount": 0,
+    "roomNames": [],
+    "status": "⚠️ 未找到會議室",
+    "notes": "官網上未找到會議室信息"
+  },
+  {
+    "id": 1089,
+    "name": "台北洛碁大飯店",
+    "url": "https://www.chateau-china.com/",
+    "roomsCount": 0,
+    "roomNames": [],
+    "status": "⚠️ 未找到會議室",
+    "notes": "官網上未找到會議室信息"
+  },
+  {
+    "id": 1090,
+    "name": "台北王朝大酒店",
+    "url": "https://www.dynasty.com.tw",
+    "roomsCount": 0,
+    "roomNames": [],
+    "status": "⚠️ 未找到會議室",
+    "notes": "官網上未找到會議室信息"
+  },
+  {
+    "id": 1091,
+    "name": "台北神旺大飯店(SanWantTaipei)",
+    "url": "https://www.san-want.com/",
+    "roomsCount": 0,
+    "roomNames": [],
+    "status": "⚠️ 未找到會議室",
+    "notes": "官網上未找到會議室信息"
+  },
+  {
+    "id": 1093,
+    "name": "台北第一酒店(FirstHotel)",
+    "url": "https://www.first-hotel.com.tw/",
+    "roomsCount": 0,
+    "roomNames": [],
+    "status": "⚠️ 未找到會議室",
+    "notes": "官網上未找到會議室信息"
+  },
+  {
+    "id": 1094,
+    "name": "台北統一大飯店",
+    "url": "https://www.tongyi-hotel.com/",
+    "roomsCount": 0,
+    "roomNames": [],
+    "status": "⚠️ 未找到會議室",
+    "notes": "官網上未找到會議室信息"
+  }
+]
