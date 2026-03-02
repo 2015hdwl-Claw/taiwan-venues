@@ -1,0 +1,3804 @@
+[
+  {
+    "url": "https://www.nine.com.tw",
+    "venues": [
+      {
+        "id": 1001,
+        "name": "南投九族文化村(Formosan)"
+      }
+    ],
+    "status": "有問題",
+    "issues": [
+      "官網標題不匹配"
+    ],
+    "title": "九族文化村",
+    "meetingLinks": [
+      {
+        "text": "主題活動",
+        "href": "https://www.nine.com.tw/page/about/index.aspx?kind=231"
+      },
+      {
+        "text": "部落活動",
+        "href": "https://www.nine.com.tw/page/about/index.aspx?kind=35&lang=TW"
+      },
+      {
+        "text": "活動訊息",
+        "href": "https://www.nine.com.tw/#tabs_3"
+      },
+      {
+        "text": "115年3月餐廳店休公告(享用竹筒飯美食請至石板烤肉)\n                      ",
+        "href": "https://www.nine.com.tw/page/news/show.aspx?num=649"
+      },
+      {
+        "text": "115年3月餐廳店休公告(享用竹筒飯美食請至石板烤肉)\n                      ",
+        "href": "https://www.nine.com.tw/page/news/show.aspx?num=649"
+      }
+    ]
+  },
+  {
+    "url": "https://www.thelalu.com",
+    "venues": [
+      {
+        "id": 1002,
+        "name": "南投涵碧樓大飯店"
+      },
+      {
+        "id": 1427,
+        "name": "南投涵碧樓大飯店"
+      },
+      {
+        "id": 1428,
+        "name": "南投涵碧樓大飯店"
+      }
+    ],
+    "status": "有問題",
+    "issues": [
+      "官網標題不匹配",
+      "找不到會議室頁面"
+    ],
+    "title": "涵碧楼酒店-The Lalu Hotels and Resorts",
+    "meetingLinks": []
+  },
+  {
+    "url": "https://www.yokai-hotel.com",
+    "venues": [
+      {
+        "id": 1003,
+        "name": "南投溪頭妖怪主題飯店"
+      }
+    ],
+    "status": "錯誤",
+    "issues": [
+      "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.yokai-hotel.com/\nCall log:\n  - navigating to \"https://www.yokai-hotel.com/\", waiting until \"domcontentloaded\"\n"
+    ],
+    "title": null,
+    "meetingLinks": [],
+    "error": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.yokai-hotel.com/\nCall log:\n  - navigating to \"https://www.yokai-hotel.com/\", waiting until \"domcontentloaded\"\n"
+  },
+  {
+    "url": "https://www.le-midi.com.tw",
+    "venues": [
+      {
+        "id": 1004,
+        "name": "南投溪頭米堤大飯店"
+      }
+    ],
+    "status": "錯誤",
+    "issues": [
+      "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.le-midi.com.tw/\nCall log:\n  - navigating to \"https://www.le-midi.com.tw/\", waiting until \"domcontentloaded\"\n"
+    ],
+    "title": null,
+    "meetingLinks": [],
+    "error": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.le-midi.com.tw/\nCall log:\n  - navigating to \"https://www.le-midi.com.tw/\", waiting until \"domcontentloaded\"\n"
+  },
+  {
+    "url": "https://www.ntc.edu.tw",
+    "venues": [
+      {
+        "id": 1005,
+        "name": "南投縣(NTCG)立體育場"
+      }
+    ],
+    "status": "有問題",
+    "issues": [
+      "官網標題不匹配"
+    ],
+    "title": "國立臺東專科學校",
+    "meetingLinks": [
+      {
+        "text": "活動快訊",
+        "href": "https://www.ntc.edu.tw/#cmb_1_10"
+      },
+      {
+        "text": "國立高雄科技大學\t經濟部產業發展署「115年AI新秀計畫」南區大專校院說明會，謹訂於115年3月20",
+        "href": "https://ord.ntc.edu.tw/p/404-1004-30391.php?Lang=zh-tw"
+      },
+      {
+        "text": "亞洲大學辦理「2026生成式AI創意設計競賽」活動資訊",
+        "href": "https://ord.ntc.edu.tw/p/404-1004-30355.php?Lang=zh-tw"
+      },
+      {
+        "text": "更多的活動快訊",
+        "href": "https://www.ntc.edu.tw/p/422-1000-1049.php?Lang=zh-tw"
+      },
+      {
+        "text": "更多的活動剪影",
+        "href": "https://www.ntc.edu.tw/p/403-1000-13-1.php?Lang=zh-tw"
+      }
+    ]
+  },
+  {
+    "url": "https://www.zhonggang-hotel.com",
+    "venues": [
+      {
+        "id": 1006,
+        "name": "台中中港大飯店"
+      }
+    ],
+    "status": "錯誤",
+    "issues": [
+      "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.zhonggang-hotel.com/\nCall log:\n  - navigating to \"https://www.zhonggang-hotel.com/\", waiting until \"domcontentloaded\"\n"
+    ],
+    "title": null,
+    "meetingLinks": [],
+    "error": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.zhonggang-hotel.com/\nCall log:\n  - navigating to \"https://www.zhonggang-hotel.com/\", waiting until \"domcontentloaded\"\n"
+  },
+  {
+    "url": "https://www.nationwide-hotel.com.tw",
+    "venues": [
+      {
+        "id": 1007,
+        "name": "台中全国大飯店"
+      }
+    ],
+    "status": "錯誤",
+    "issues": [
+      "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.nationwide-hotel.com.tw/\nCall log:\n  - navigating to \"https://www.nationwide-hotel.com.tw/\", waiting until \"domcontentloaded\"\n"
+    ],
+    "title": null,
+    "meetingLinks": [],
+    "error": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.nationwide-hotel.com.tw/\nCall log:\n  - navigating to \"https://www.nationwide-hotel.com.tw/\", waiting until \"domcontentloaded\"\n"
+  },
+  {
+    "url": "https://www.nationwide-hotel.com",
+    "venues": [
+      {
+        "id": 1008,
+        "name": "台中全國大飯店(National)"
+      }
+    ],
+    "status": "錯誤",
+    "issues": [
+      "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.nationwide-hotel.com/\nCall log:\n  - navigating to \"https://www.nationwide-hotel.com/\", waiting until \"domcontentloaded\"\n"
+    ],
+    "title": null,
+    "meetingLinks": [],
+    "error": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.nationwide-hotel.com/\nCall log:\n  - navigating to \"https://www.nationwide-hotel.com/\", waiting until \"domcontentloaded\"\n"
+  },
+  {
+    "url": "https://www.npac-ntt.org",
+    "venues": [
+      {
+        "id": 1009,
+        "name": "台中國家歌劇院"
+      }
+    ],
+    "status": "有問題",
+    "issues": [
+      "官網標題不匹配"
+    ],
+    "title": "首頁 │ 臺中國家歌劇院 National Taichung Theater",
+    "meetingLinks": [
+      {
+        "text": "節目總覽",
+        "href": "https://www.npac-ntt.org/program/events"
+      },
+      {
+        "text": "節目與活動",
+        "href": "https://www.npac-ntt.org/program/events"
+      },
+      {
+        "text": "",
+        "href": "https://www.npac-ntt.org/program/events/c-WIshob93ZEv"
+      },
+      {
+        "text": "場地租借",
+        "href": "https://www.npac-ntt.org/venuehire/rentnews"
+      },
+      {
+        "text": "租用公告",
+        "href": "https://www.npac-ntt.org/venuehire/rentnews"
+      }
+    ]
+  },
+  {
+    "url": "https://www.wtc.taichung.com",
+    "venues": [
+      {
+        "id": 1010,
+        "name": "台中市(TCCG)世貿中心"
+      }
+    ],
+    "status": "錯誤",
+    "issues": [
+      "page.goto: net::ERR_CERT_COMMON_NAME_INVALID at https://www.wtc.taichung.com/\nCall log:\n  - navigating to \"https://www.wtc.taichung.com/\", waiting until \"domcontentloaded\"\n"
+    ],
+    "title": null,
+    "meetingLinks": [],
+    "error": "page.goto: net::ERR_CERT_COMMON_NAME_INVALID at https://www.wtc.taichung.com/\nCall log:\n  - navigating to \"https://www.wtc.taichung.com/\", waiting until \"domcontentloaded\"\n"
+  },
+  {
+    "url": "https://www.taichung.gov.tw",
+    "venues": [
+      {
+        "id": 1011,
+        "name": "台中市(TCCG)立體育館"
+      }
+    ],
+    "status": "有問題",
+    "issues": [
+      "官網標題不匹配"
+    ],
+    "title": "臺中市政府全球資訊網",
+    "meetingLinks": [
+      {
+        "text": "活動行事曆",
+        "href": "https://www.taichung.gov.tw/12026/calendarList"
+      },
+      {
+        "text": "市政會議紀錄",
+        "href": "https://www.rdec.taichung.gov.tw/12047/12142/12186/"
+      },
+      {
+        "text": "市政會議專案報告簡報",
+        "href": "https://www.rdec.taichung.gov.tw/12047/12142/132336/"
+      },
+      {
+        "text": "活動行事曆",
+        "href": "https://www.taichung.gov.tw/12026/calendarList"
+      },
+      {
+        "text": "市政會議紀錄",
+        "href": "https://www.rdec.taichung.gov.tw/12047/12142/12186/"
+      }
+    ]
+  },
+  {
+    "url": "https://www.yuanman.gov.tw",
+    "venues": [
+      {
+        "id": 1012,
+        "name": "台中文心森林公園圓滿戶外劇場"
+      }
+    ],
+    "status": "錯誤",
+    "issues": [
+      "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.yuanman.gov.tw/\nCall log:\n  - navigating to \"https://www.yuanman.gov.tw/\", waiting until \"domcontentloaded\"\n"
+    ],
+    "title": null,
+    "meetingLinks": [],
+    "error": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.yuanman.gov.tw/\nCall log:\n  - navigating to \"https://www.yuanman.gov.tw/\", waiting until \"domcontentloaded\"\n"
+  },
+  {
+    "url": "https://www.millenniumhotels.com/taichung",
+    "venues": [
+      {
+        "id": 1013,
+        "name": "台中日月千禧酒店(Millennium)"
+      },
+      {
+        "id": 1416,
+        "name": "台中日月千禧酒店(Millennium)"
+      },
+      {
+        "id": 1417,
+        "name": "台中日月千禧酒店(Millennium)"
+      },
+      {
+        "id": 1418,
+        "name": "台中日月千禧酒店(Millennium)"
+      }
+    ],
+    "status": "有問題",
+    "issues": [
+      "官網標題不匹配",
+      "找不到會議室頁面"
+    ],
+    "title": "Attention Required! | Cloudflare",
+    "meetingLinks": []
+  },
+  {
+    "url": "https://www.nikkotaichung.com",
+    "venues": [
+      {
+        "id": 1014,
+        "name": "台中日航酒店"
+      },
+      {
+        "id": 1015,
+        "name": "台中日航酒店"
+      }
+    ],
+    "status": "錯誤",
+    "issues": [
+      "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.nikkotaichung.com/\nCall log:\n  - navigating to \"https://www.nikkotaichung.com/\", waiting until \"domcontentloaded\"\n"
+    ],
+    "title": null,
+    "meetingLinks": [],
+    "error": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.nikkotaichung.com/\nCall log:\n  - navigating to \"https://www.nikkotaichung.com/\", waiting until \"domcontentloaded\"\n"
+  },
+  {
+    "url": "https://www.linhotel.com.tw",
+    "venues": [
+      {
+        "id": 1016,
+        "name": "台中林酒店(TheLin)"
+      },
+      {
+        "id": 1028,
+        "name": "林酒店"
+      },
+      {
+        "id": 1419,
+        "name": "台中林酒店(TheLin)"
+      },
+      {
+        "id": 1420,
+        "name": "台中林酒店(TheLin)"
+      }
+    ],
+    "status": "錯誤",
+    "issues": [
+      "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.linhotel.com.tw/\nCall log:\n  - navigating to \"https://www.linhotel.com.tw/\", waiting until \"domcontentloaded\"\n"
+    ],
+    "title": null,
+    "meetingLinks": [],
+    "error": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.linhotel.com.tw/\nCall log:\n  - navigating to \"https://www.linhotel.com.tw/\", waiting until \"domcontentloaded\"\n"
+  },
+  {
+    "url": "https://www.tempus.com.tw",
+    "venues": [
+      {
+        "id": 1017,
+        "name": "台中永豐棧酒店"
+      }
+    ],
+    "status": "有問題",
+    "issues": [
+      "官網標題不匹配"
+    ],
+    "title": "永豐棧酒店",
+    "meetingLinks": [
+      {
+        "text": "優惠活動",
+        "href": "https://tempus.com.tw/event"
+      },
+      {
+        "text": "查看更多",
+        "href": "https://tempus.com.tw/event"
+      },
+      {
+        "text": "查看更多",
+        "href": "https://tempus.com.tw/event"
+      },
+      {
+        "text": "優惠活動",
+        "href": "https://tempus.com.tw/event"
+      }
+    ]
+  },
+  {
+    "url": "https://www.tcsac.gov.tw",
+    "venues": [
+      {
+        "id": 1018,
+        "name": "台中港區藝術中心"
+      }
+    ],
+    "status": "錯誤",
+    "issues": [
+      "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.tcsac.gov.tw/\nCall log:\n  - navigating to \"https://www.tcsac.gov.tw/\", waiting until \"domcontentloaded\"\n"
+    ],
+    "title": null,
+    "meetingLinks": [],
+    "error": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.tcsac.gov.tw/\nCall log:\n  - navigating to \"https://www.tcsac.gov.tw/\", waiting until \"domcontentloaded\"\n"
+  },
+  {
+    "url": "https://www.howard-hotels.com.tw/taichung",
+    "venues": [
+      {
+        "id": 1019,
+        "name": "台中福華大飯店(HowardTaichung)"
+      },
+      {
+        "id": 1413,
+        "name": "台中福華大飯店(HowardTaichung)"
+      },
+      {
+        "id": 1414,
+        "name": "台中福華大飯店(HowardTaichung)"
+      },
+      {
+        "id": 1415,
+        "name": "台中福華大飯店(HowardTaichung)"
+      }
+    ],
+    "status": "有問題",
+    "issues": [
+      "官網標題不匹配",
+      "找不到會議室頁面"
+    ],
+    "title": "Server error",
+    "meetingLinks": []
+  },
+  {
+    "url": "https://www.windsortaiwan.com",
+    "venues": [
+      {
+        "id": 1020,
+        "name": "台中裕元花園酒店(Windsor)"
+      },
+      {
+        "id": 1421,
+        "name": "台中裕元花園酒店(Windsor)"
+      },
+      {
+        "id": 1422,
+        "name": "台中裕元花園酒店(Windsor)"
+      },
+      {
+        "id": 1423,
+        "name": "台中裕元花園酒店(Windsor)"
+      }
+    ],
+    "status": "有問題",
+    "issues": [
+      "官網標題不匹配"
+    ],
+    "title": "Windsor Hotel Taichung",
+    "meetingLinks": [
+      {
+        "text": "婚宴與會議",
+        "href": "https://www.windsortaiwan.com/tw/place"
+      },
+      {
+        "text": "MEETING & EVENTS\n                    挑高開闊、大器非凡的多功能",
+        "href": "https://www.windsortaiwan.com/tw/space"
+      },
+      {
+        "text": "婚宴與會議",
+        "href": "https://www.windsortaiwan.com/tw/place"
+      }
+    ]
+  },
+  {
+    "url": "https://www.eslite-480.com",
+    "venues": [
+      {
+        "id": 1021,
+        "name": "台中誠品生活480"
+      }
+    ],
+    "status": "錯誤",
+    "issues": [
+      "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.eslite-480.com/\nCall log:\n  - navigating to \"https://www.eslite-480.com/\", waiting until \"domcontentloaded\"\n"
+    ],
+    "title": null,
+    "meetingLinks": [],
+    "error": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.eslite-480.com/\nCall log:\n  - navigating to \"https://www.eslite-480.com/\", waiting until \"domcontentloaded\"\n"
+  },
+  {
+    "url": "https://www.tunghao.com.tw",
+    "venues": [
+      {
+        "id": 1022,
+        "name": "台中通豪大飯店(TongHao)"
+      }
+    ],
+    "status": "錯誤",
+    "issues": [
+      "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.tunghao.com.tw/\nCall log:\n  - navigating to \"https://www.tunghao.com.tw/\", waiting until \"domcontentloaded\"\n"
+    ],
+    "title": null,
+    "meetingLinks": [],
+    "error": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.tunghao.com.tw/\nCall log:\n  - navigating to \"https://www.tunghao.com.tw/\", waiting until \"domcontentloaded\"\n"
+  },
+  {
+    "url": "https://www.splendor-wedding.com",
+    "venues": [
+      {
+        "id": 1023,
+        "name": "台中金典婚宴會館"
+      }
+    ],
+    "status": "錯誤",
+    "issues": [
+      "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.splendor-wedding.com/\nCall log:\n  - navigating to \"https://www.splendor-wedding.com/\", waiting until \"domcontentloaded\"\n"
+    ],
+    "title": null,
+    "meetingLinks": [],
+    "error": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.splendor-wedding.com/\nCall log:\n  - navigating to \"https://www.splendor-wedding.com/\", waiting until \"domcontentloaded\"\n"
+  },
+  {
+    "url": "https://www.splendor-hotel.com",
+    "venues": [
+      {
+        "id": 1024,
+        "name": "台中金典酒店(SplendorTaichung)"
+      }
+    ],
+    "status": "錯誤",
+    "issues": [
+      "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.splendor-hotel.com/\nCall log:\n  - navigating to \"https://www.splendor-hotel.com/\", waiting until \"domcontentloaded\"\n"
+    ],
+    "title": null,
+    "meetingLinks": [],
+    "error": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.splendor-hotel.com/\nCall log:\n  - navigating to \"https://www.splendor-hotel.com/\", waiting until \"domcontentloaded\"\n"
+  },
+  {
+    "url": "https://www.evergreen-hotels.com/taichung",
+    "venues": [
+      {
+        "id": 1025,
+        "name": "台中長榮桂冠酒店(EvergreenLaurel)"
+      },
+      {
+        "id": 1424,
+        "name": "台中長榮桂冠酒店(EvergreenLaurel)"
+      },
+      {
+        "id": 1425,
+        "name": "台中長榮桂冠酒店(EvergreenLaurel)"
+      },
+      {
+        "id": 1426,
+        "name": "台中長榮桂冠酒店(EvergreenLaurel)"
+      }
+    ],
+    "status": "有問題",
+    "issues": [
+      "官網標題不匹配",
+      "找不到會議室頁面"
+    ],
+    "title": "EVERGREEN HOTELS",
+    "meetingLinks": []
+  },
+  {
+    "url": "https://www.kirin-hotel.com",
+    "venues": [
+      {
+        "id": 1026,
+        "name": "台中麒麟大飯店"
+      }
+    ],
+    "status": "錯誤",
+    "issues": [
+      "page.goto: net::ERR_CONNECTION_RESET at https://www.kirin-hotel.com/\nCall log:\n  - navigating to \"https://www.kirin-hotel.com/\", waiting until \"domcontentloaded\"\n"
+    ],
+    "title": null,
+    "meetingLinks": [],
+    "error": "page.goto: net::ERR_CONNECTION_RESET at https://www.kirin-hotel.com/\nCall log:\n  - navigating to \"https://www.kirin-hotel.com/\", waiting until \"domcontentloaded\"\n"
+  },
+  {
+    "url": "https://www.thu.edu.tw",
+    "venues": [
+      {
+        "id": 1027,
+        "name": "東海大學(Tunghai)茂榜廳"
+      }
+    ],
+    "status": "有問題",
+    "issues": [
+      "官網標題不匹配",
+      "找不到會議室頁面"
+    ],
+    "title": "THU Error Page",
+    "meetingLinks": []
+  },
+  {
+    "url": "https://www.guguan-resort.com.tw",
+    "venues": [
+      {
+        "id": 1029,
+        "name": "統一渡假村(UniResort)-谷關"
+      }
+    ],
+    "status": "錯誤",
+    "issues": [
+      "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.guguan-resort.com.tw/\nCall log:\n  - navigating to \"https://www.guguan-resort.com.tw/\", waiting until \"domcontentloaded\"\n"
+    ],
+    "title": null,
+    "meetingLinks": [],
+    "error": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.guguan-resort.com.tw/\nCall log:\n  - navigating to \"https://www.guguan-resort.com.tw/\", waiting until \"domcontentloaded\"\n"
+  },
+  {
+    "url": "https://www.fcu.edu.tw",
+    "venues": [
+      {
+        "id": 1030,
+        "name": "逢甲大學(FCU)中科校區"
+      }
+    ],
+    "status": "OK",
+    "issues": [],
+    "title": "逢甲大學",
+    "meetingLinks": [
+      {
+        "text": "新聞與活動",
+        "href": "https://www.fcu.edu.tw/release/"
+      },
+      {
+        "text": "校園活動",
+        "href": "https://www.fcu.edu.tw/events/"
+      },
+      {
+        "text": "場地借用",
+        "href": "https://www.fcu.edu.tw/venue/"
+      },
+      {
+        "text": "新聞與活動",
+        "href": "https://www.fcu.edu.tw/release/"
+      },
+      {
+        "text": "校園活動",
+        "href": "https://www.fcu.edu.tw/events/"
+      }
+    ]
+  },
+  {
+    "url": "https://www.camacafe.com/",
+    "venues": [
+      {
+        "id": 1031,
+        "name": "CAMA咖啡"
+      }
+    ],
+    "status": "有問題",
+    "issues": [
+      "官網標題不匹配"
+    ],
+    "title": "cama 現烘咖啡專門店",
+    "meetingLinks": [
+      {
+        "text": "最新活動",
+        "href": "https://www.camacafe.com/New/1"
+      },
+      {
+        "text": "2026/02/09  最新活動 CAMA商用咖啡整合方案",
+        "href": "https://www.camacafe.com/NewDetail/384"
+      },
+      {
+        "text": "2025/12/24  最新活動 CAMA CAFE 《咖啡藝生活》新品上市 ❗",
+        "href": "https://www.camacafe.com/NewDetail/381"
+      },
+      {
+        "text": "2026/02/13  最新活動 原豆鮮萃咖啡粒    精裝版全新上市",
+        "href": "https://www.camacafe.com/NewDetail/386"
+      },
+      {
+        "text": "2026/01/24  最新活動 New Open ! 台電古亭店開幕 !",
+        "href": "https://www.camacafe.com/NewDetail/383"
+      }
+    ]
+  },
+  {
+    "url": "https://clbc.tw/",
+    "venues": [
+      {
+        "id": 1032,
+        "name": "CLBC大安商務中心"
+      },
+      {
+        "id": 1439,
+        "name": "CLBC大安商務中心"
+      },
+      {
+        "id": 1440,
+        "name": "CLBC大安商務中心"
+      }
+    ],
+    "status": "有問題",
+    "issues": [
+      "官網標題不匹配"
+    ],
+    "title": "CLBC 共同工作空間與複合式展演活動空間 - CLBC",
+    "meetingLinks": [
+      {
+        "text": "會議室/活動場地",
+        "href": "https://clbc.tw/clbc%E6%B4%BB%E5%8B%95%E5%A0%B4%E5%9C%B0%E7%A9%BA%E9%96%93%E7%A7%9F%E5%80%9F/"
+      },
+      {
+        "text": "港墘站-TCS會議廳",
+        "href": "https://clbc.tw/%e6%b8%af%e5%a2%98%e7%ab%99-tcs%e6%9c%83%e8%ad%b0%e5%bb%b3/"
+      },
+      {
+        "text": "松江南京站-智璽會議中心",
+        "href": "https://clbc.tw/%e6%9d%be%e6%b1%9f%e5%8d%97%e4%ba%ac%e7%ab%99%e6%99%ba%e7%92%bd%e6%9c%83%e8%ad%b0%e4%b8%ad%e5%bf%83/"
+      },
+      {
+        "text": "EN",
+        "href": "https://clbc.tw/clbc-co-working-space-taipei/"
+      },
+      {
+        "text": "Homepage",
+        "href": "https://clbc.tw/clbc-co-working-space-taipei/"
+      }
+    ]
+  },
+  {
+    "url": "https://www.goodmanscoffee.com/",
+    "venues": [
+      {
+        "id": 1033,
+        "name": "Goodmans咖啡廳"
+      }
+    ],
+    "status": "錯誤",
+    "issues": [
+      "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.goodmanscoffee.com/\nCall log:\n  - navigating to \"https://www.goodmanscoffee.com/\", waiting until \"domcontentloaded\"\n"
+    ],
+    "title": null,
+    "meetingLinks": [],
+    "error": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.goodmanscoffee.com/\nCall log:\n  - navigating to \"https://www.goodmanscoffee.com/\", waiting until \"domcontentloaded\"\n"
+  },
+  {
+    "url": "https://www.nuzone.com.tw",
+    "venues": [
+      {
+        "id": 1034,
+        "name": "NUZONE展演空間"
+      }
+    ],
+    "status": "有問題",
+    "issues": [
+      "官網標題不匹配"
+    ],
+    "title": "展演空間 | 藝文演出 | 場地出租 | 記者會場地 | Nuzone | 台北市",
+    "meetingLinks": [
+      {
+        "text": "Gallery 活動照片",
+        "href": "https://www.flickr.com/photos/157822996@N08/albums"
+      },
+      {
+        "text": "Vansdaddy 「都市醉漢」台北特別專場Vansdaddy 「都市醉漢」台北特別專場將於2026",
+        "href": "https://nuzone.kktix.cc/events/vansdaddy"
+      },
+      {
+        "text": "Vansdaddy 「都市醉漢」台北特別專場Vansdaddy 「都市醉漢」台北特別專場將於2026",
+        "href": "https://nuzone.kktix.cc/events/vansdaddy"
+      }
+    ]
+  },
+  {
+    "url": "https://www.simplekaffa.com",
+    "venues": [
+      {
+        "id": 1036,
+        "name": "Simple Kaffa"
+      }
+    ],
+    "status": "無會議室頁面",
+    "issues": [
+      "找不到會議室頁面"
+    ],
+    "title": "興波咖啡 Simple Kaffa | 喝杯世界級的咖啡",
+    "meetingLinks": []
+  },
+  {
+    "url": "https://www.tccc.com.tw/",
+    "venues": [
+      {
+        "id": 1037,
+        "name": "TCCC台灣文創訓練中心"
+      }
+    ],
+    "status": "錯誤",
+    "issues": [
+      "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.tccc.com.tw/\nCall log:\n  - navigating to \"https://www.tccc.com.tw/\", waiting until \"domcontentloaded\"\n"
+    ],
+    "title": null,
+    "meetingLinks": [],
+    "error": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.tccc.com.tw/\nCall log:\n  - navigating to \"https://www.tccc.com.tw/\", waiting until \"domcontentloaded\"\n"
+  },
+  {
+    "url": "https://www.hrd.gov.tw",
+    "venues": [
+      {
+        "id": 1042,
+        "name": "公務人力發展學院"
+      }
+    ],
+    "status": "OK",
+    "issues": [],
+    "title": "中文網-行政院人事行政總處公務人力發展學院",
+    "meetingLinks": [
+      {
+        "text": "場地查詢",
+        "href": "https://www.hrd.gov.tw/1123/2127/?q=%E5%A0%B4%E5%9C%B0%E6%9F%A5%E8%A9%A2"
+      },
+      {
+        "text": "場地設施",
+        "href": "https://www.hrd.gov.tw/1122/2141/Normalnodelist"
+      },
+      {
+        "text": "會議場地",
+        "href": "https://www.hrd.gov.tw/1122/2141/3157/NPmeetingVenue"
+      },
+      {
+        "text": "餐飲服務",
+        "href": "https://www.hrd.gov.tw/1122/2141/3158/NPmeetingVenue"
+      },
+      {
+        "text": "住宿設施",
+        "href": "https://www.hrd.gov.tw/1122/2141/3159/NPmeetingVenue"
+      }
+    ]
+  },
+  {
+    "url": "https://cafe.artco.com.tw/",
+    "venues": [
+      {
+        "id": 1044,
+        "name": "典藏咖啡廳"
+      }
+    ],
+    "status": "錯誤",
+    "issues": [
+      "page.goto: net::ERR_NAME_NOT_RESOLVED at https://cafe.artco.com.tw/\nCall log:\n  - navigating to \"https://cafe.artco.com.tw/\", waiting until \"domcontentloaded\"\n"
+    ],
+    "title": null,
+    "meetingLinks": [],
+    "error": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://cafe.artco.com.tw/\nCall log:\n  - navigating to \"https://cafe.artco.com.tw/\", waiting until \"domcontentloaded\"\n"
+  },
+  {
+    "url": "https://www.marriott.com/tpewh",
+    "venues": [
+      {
+        "id": 1047,
+        "name": "台北W飯店(WTaipei)"
+      }
+    ],
+    "status": "有問題",
+    "issues": [
+      "官網標題不匹配",
+      "找不到會議室頁面"
+    ],
+    "title": "Access Denied",
+    "meetingLinks": []
+  },
+  {
+    "url": "https://www.thelandis.com",
+    "venues": [
+      {
+        "id": 1051,
+        "name": "台北亞都麗緻大飯店(LandisTaipei)"
+      }
+    ],
+    "status": "有問題",
+    "issues": [
+      "官網標題不匹配"
+    ],
+    "title": "Live Music | Live Theater | The Landis | Vineland, New Jersey",
+    "meetingLinks": [
+      {
+        "text": "Events & Tickets",
+        "href": "https://www.thelandistheater.com/shows-events-1"
+      },
+      {
+        "text": "All Shows & Events",
+        "href": "https://www.thelandistheater.com/all-shows-events"
+      },
+      {
+        "text": "Contact",
+        "href": "https://www.thelandistheater.com/venue"
+      },
+      {
+        "text": "All Shows & Events",
+        "href": "https://www.thelandistheater.com/shows-events-1"
+      },
+      {
+        "text": "Buy Tickets",
+        "href": "https://www.thelandistheater.com/shows-events-1"
+      }
+    ]
+  },
+  {
+    "url": "https://www.brotherhotel.com.tw/?cat=75",
+    "venues": [
+      {
+        "id": 1053,
+        "name": "台北兄弟大飯店(BrotherTaipei)"
+      }
+    ],
+    "status": "有問題",
+    "issues": [
+      "官網標題不匹配"
+    ],
+    "title": "婚宴專案 | 兄弟大飯店 - Brother Hotel",
+    "meetingLinks": [
+      {
+        "text": "會議專案",
+        "href": "https://www.brotherhotel.com.tw/?cat=76"
+      },
+      {
+        "text": "菊花廳(日本料理)",
+        "href": "https://www.brotherhotel.com.tw/?us_portfolio=%E8%8F%8A%E8%8A%B1%E5%BB%B3"
+      },
+      {
+        "text": "蝶花廳及酒廊(義式料理.台菜宵夜)",
+        "href": "https://www.brotherhotel.com.tw/?us_portfolio=%E8%9D%B6%E8%8A%B1%E5%BB%B3%E5%8F%8A%E9%85%92%E5%BB%8A"
+      },
+      {
+        "text": "梅花廳(粵菜飲茶)",
+        "href": "https://www.brotherhotel.com.tw/?us_portfolio=%E6%A2%85%E8%8A%B1%E5%BB%B3"
+      },
+      {
+        "text": "蘭花廳(台菜海鮮)",
+        "href": "https://www.brotherhotel.com.tw/?us_portfolio=%E8%98%AD%E8%8A%B1%E5%BB%B3"
+      }
+    ]
+  },
+  {
+    "url": "https://www.leofoo.com.tw",
+    "venues": [
+      {
+        "id": 1055,
+        "name": "台北六福客棧(Leofoo)"
+      }
+    ],
+    "status": "有問題",
+    "issues": [
+      "官網標題不匹配"
+    ],
+    "title": "六福旅遊集團",
+    "meetingLinks": [
+      {
+        "text": "食尚餐廳",
+        "href": "https://www.leofoo.com.tw/business/index/5"
+      },
+      {
+        "text": "食尚餐廳",
+        "href": "https://www.leofoo.com.tw/business/index/5"
+      },
+      {
+        "text": "食尚餐廳\n\t\t\t\t\t\t\t\t\tRestaurants",
+        "href": "https://www.leofoo.com.tw/business/index/5"
+      },
+      {
+        "text": "",
+        "href": "https://eliteconcept.cyberbiz.co/events/%E5%85%AD%E7%A6%8F%E7%AA%96%E8%97%8F"
+      },
+      {
+        "text": "",
+        "href": "https://eliteconcept.cyberbiz.co/events/%E5%85%AD%E7%A6%8F%E7%AA%96%E8%97%8F"
+      }
+    ]
+  },
+  {
+    "url": "https://www.denwell.com/",
+    "venues": [
+      {
+        "id": 1057,
+        "name": "台北典華"
+      }
+    ],
+    "status": "有問題",
+    "issues": [
+      "官網標題不匹配"
+    ],
+    "title": "典華幸福機構｜婚宴場地｜會議、活動空間租借｜台北及新北品牌",
+    "meetingLinks": [
+      {
+        "text": "婚宴場地",
+        "href": "https://www.denwell.com/#"
+      },
+      {
+        "text": "婚宴場地",
+        "href": "https://www.denwell.com/%e5%a4%a7%e7%9b%b4-%e5%a9%9a%e5%ae%b4%e5%a0%b4%e5%9c%b0/"
+      },
+      {
+        "text": "紫境 Venue526",
+        "href": "https://www.denwell.com/wedding-venue526/"
+      },
+      {
+        "text": "婚宴場地",
+        "href": "https://www.denwell.com/%e6%96%b0%e8%8e%8a-%e5%a9%9a%e5%ae%b4%e5%a0%b4%e5%9c%b0/"
+      },
+      {
+        "text": "蔬食宴席專案",
+        "href": "https://www.denwell.com/news-vegetarian-banquet/"
+      }
+    ]
+  },
+  {
+    "url": "https://btresort.metro.taipei/",
+    "venues": [
+      {
+        "id": 1058,
+        "name": "台北北投會館"
+      }
+    ],
+    "status": "有問題",
+    "issues": [
+      "官網標題不匹配"
+    ],
+    "title": "捷運北投會館",
+    "meetingLinks": [
+      {
+        "text": "活動中心",
+        "href": "https://btresort.metro.taipei/Content_List.aspx?n=AC6664006DEBC90D"
+      },
+      {
+        "text": "桂華軒餐廳",
+        "href": "https://btresort.metro.taipei/cp.aspx?n=EEBCC4ACC308C0BB"
+      },
+      {
+        "text": "活動中心",
+        "href": "https://btresort.metro.taipei/Content_List.aspx?n=AC6664006DEBC90D"
+      },
+      {
+        "text": "桂華軒餐廳",
+        "href": "https://btresort.metro.taipei/cp.aspx?n=EEBCC4ACC308C0BB"
+      },
+      {
+        "text": "北投會館餐廳華國飯店桂華軒",
+        "href": "https://btresort.metro.taipei/cp.aspx?n=EEBCC4ACC308C0BB"
+      }
+    ]
+  },
+  {
+    "url": "https://www.palaisdechine.com",
+    "venues": [
+      {
+        "id": 1060,
+        "name": "台北君品酒店(PalaisdeChine)"
+      },
+      {
+        "id": 1409,
+        "name": "台北君品酒店(PalaisdeChine)"
+      },
+      {
+        "id": 1410,
+        "name": "台北君品酒店(PalaisdeChine)"
+      }
+    ],
+    "status": "有問題",
+    "issues": [
+      "官網標題不匹配",
+      "找不到會議室頁面"
+    ],
+    "title": "palaisdechine.com",
+    "meetingLinks": []
+  },
+  {
+    "url": "https://www.hyatt.com/zh-TW/hotel/taiwan/grand-hyatt-taipei/tyoph",
+    "venues": [
+      {
+        "id": 1061,
+        "name": "台北君悅酒店(GrandHyattTaipei)"
+      }
+    ],
+    "status": "有問題",
+    "issues": [
+      "官網標題不匹配",
+      "找不到會議室頁面"
+    ],
+    "title": "Hyatt Hotels and Resorts",
+    "meetingLinks": []
+  },
+  {
+    "url": "https://www.victoriam.com/",
+    "venues": [
+      {
+        "id": 1065,
+        "name": "台北唯客樂文旅"
+      }
+    ],
+    "status": "錯誤",
+    "issues": [
+      "page.goto: Timeout 20000ms exceeded.\nCall log:\n  - navigating to \"https://www.victoriam.com/\", waiting until \"domcontentloaded\"\n"
+    ],
+    "title": null,
+    "meetingLinks": [],
+    "error": "page.goto: Timeout 20000ms exceeded.\nCall log:\n  - navigating to \"https://www.victoriam.com/\", waiting until \"domcontentloaded\"\n"
+  },
+  {
+    "url": "https://www.tbc-group.com/",
+    "venues": [
+      {
+        "id": 1066,
+        "name": "台北商務會館"
+      }
+    ],
+    "status": "錯誤",
+    "issues": [
+      "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.tbc-group.com/\nCall log:\n  - navigating to \"https://www.tbc-group.com/\", waiting until \"domcontentloaded\"\n"
+    ],
+    "title": null,
+    "meetingLinks": [],
+    "error": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.tbc-group.com/\nCall log:\n  - navigating to \"https://www.tbc-group.com/\", waiting until \"domcontentloaded\"\n"
+  },
+  {
+    "url": "https://www.sheratongrandtaipei.com/websev?lang=zh-tw",
+    "venues": [
+      {
+        "id": 1067,
+        "name": "台北喜來登大飯店(SheratonTaipei)"
+      },
+      {
+        "id": 1384,
+        "name": "台北喜來登大飯店(SheratonTaipei)"
+      },
+      {
+        "id": 1385,
+        "name": "台北喜來登大飯店(SheratonTaipei)"
+      },
+      {
+        "id": 1386,
+        "name": "台北喜來登大飯店(SheratonTaipei)"
+      },
+      {
+        "id": 1387,
+        "name": "台北喜來登大飯店(SheratonTaipei)"
+      }
+    ],
+    "status": "OK",
+    "issues": [],
+    "title": "台北喜來登大飯店 Sheraton Grand Taipei Hotel",
+    "meetingLinks": [
+      {
+        "text": "大廳酒吧",
+        "href": "https://www.sheratongrandtaipei.com/websev?lang=zh-tw&ref=pages&cat=2&id=16"
+      },
+      {
+        "text": "安東廳",
+        "href": "https://www.sheratongrandtaipei.com/websev?lang=zh-tw&ref=pages&cat=2&id=22"
+      },
+      {
+        "text": "宴會會議",
+        "href": "https://www.sheratongrandtaipei.com/websev?lang=zh-tw&ref=pages&cat=50"
+      },
+      {
+        "text": "會議專案",
+        "href": "https://www.sheratongrandtaipei.com/websev?lang=zh-tw&ref=pages&cat=50&id=36"
+      },
+      {
+        "text": "行政貴賓廳",
+        "href": "https://www.sheratongrandtaipei.com/websev?lang=zh-tw&ref=pages&cat=3&id=28"
+      }
+    ]
+  },
+  {
+    "url": "https://www.ambiencehotel.com.tw/",
+    "venues": [
+      {
+        "id": 1068,
+        "name": "台北喜瑞飯店"
+      }
+    ],
+    "status": "錯誤",
+    "issues": [
+      "page.goto: Timeout 20000ms exceeded.\nCall log:\n  - navigating to \"https://www.ambiencehotel.com.tw/\", waiting until \"domcontentloaded\"\n"
+    ],
+    "title": null,
+    "meetingLinks": [],
+    "error": "page.goto: Timeout 20000ms exceeded.\nCall log:\n  - navigating to \"https://www.ambiencehotel.com.tw/\", waiting until \"domcontentloaded\"\n"
+  },
+  {
+    "url": "https://www.ambassadorhotel.com.tw/taipei",
+    "venues": [
+      {
+        "id": 1069,
+        "name": "台北國賓大飯店(AmbassadorTaipei)"
+      },
+      {
+        "id": 1396,
+        "name": "台北國賓大飯店(AmbassadorTaipei)"
+      },
+      {
+        "id": 1397,
+        "name": "台北國賓大飯店(AmbassadorTaipei)"
+      },
+      {
+        "id": 1398,
+        "name": "台北國賓大飯店(AmbassadorTaipei)"
+      },
+      {
+        "id": 1399,
+        "name": "台北國賓大飯店(AmbassadorTaipei)"
+      }
+    ],
+    "status": "錯誤",
+    "issues": [
+      "page.goto: Timeout 20000ms exceeded.\nCall log:\n  - navigating to \"https://www.ambassadorhotel.com.tw/taipei\", waiting until \"domcontentloaded\"\n"
+    ],
+    "title": null,
+    "meetingLinks": [],
+    "error": "page.goto: Timeout 20000ms exceeded.\nCall log:\n  - navigating to \"https://www.ambassadorhotel.com.tw/taipei\", waiting until \"domcontentloaded\"\n"
+  },
+  {
+    "url": "https://www.grand-hotel.org",
+    "venues": [
+      {
+        "id": 1072,
+        "name": "台北圓山大飯店"
+      },
+      {
+        "id": 1388,
+        "name": "台北圓山大飯店"
+      },
+      {
+        "id": 1389,
+        "name": "台北圓山大飯店"
+      },
+      {
+        "id": 1390,
+        "name": "台北圓山大飯店"
+      },
+      {
+        "id": 1391,
+        "name": "台北圓山大飯店"
+      }
+    ],
+    "status": "有問題",
+    "issues": [
+      "官網標題不匹配"
+    ],
+    "title": "圓山大飯店",
+    "meetingLinks": [
+      {
+        "text": "12F 崑崙廳 /\n                            大會廳平面圖",
+        "href": "https://www.grand-hotel.org/TW/index.aspx#"
+      }
+    ]
+  },
+  {
+    "url": "https://www.westin.com/taipei",
+    "venues": [
+      {
+        "id": 1074,
+        "name": "台北威斯汀六福皇宮(Westin)"
+      },
+      {
+        "id": 1400,
+        "name": "台北威斯汀六福皇宮(Westin)"
+      },
+      {
+        "id": 1401,
+        "name": "台北威斯汀六福皇宮(Westin)"
+      },
+      {
+        "id": 1402,
+        "name": "台北威斯汀六福皇宮(Westin)"
+      },
+      {
+        "id": 1403,
+        "name": "台北威斯汀六福皇宮(Westin)"
+      }
+    ],
+    "status": "有問題",
+    "issues": [
+      "官網標題不匹配"
+    ],
+    "title": "Premium Luxury Wellness Hotels | Westin Hotels & Resorts",
+    "meetingLinks": [
+      {
+        "text": "Meetings",
+        "href": "https://www.marriott.com/en-us/meeting-event-hotels/group-reservations/westin.mi"
+      }
+    ]
+  },
+  {
+    "url": "https://www.lemeridien-taipei.com",
+    "venues": [
+      {
+        "id": 1076,
+        "name": "台北寒舍艾美酒店(LeMeridienTaipei)"
+      },
+      {
+        "id": 1404,
+        "name": "台北寒舍艾美酒店(LeMeridienTaipei)"
+      },
+      {
+        "id": 1406,
+        "name": "台北寒舍艾美酒店(LeMeridienTaipei)"
+      },
+      {
+        "id": 1407,
+        "name": "台北寒舍艾美酒店(LeMeridienTaipei)"
+      }
+    ],
+    "status": "OK",
+    "issues": [],
+    "title": "台北寒舍艾美酒店 - Le Méridien Taipei",
+    "meetingLinks": [
+      {
+        "text": "宴會專案",
+        "href": "https://www.lemeridien-taipei.com/websev?lang=zh-tw&ref=pages&cat=43&type=0"
+      },
+      {
+        "text": "會議專案",
+        "href": "https://www.lemeridien-taipei.com/websev?lang=zh-tw&ref=pages&cat=36&type=0"
+      },
+      {
+        "text": "宴會廳",
+        "href": "https://www.lemeridien-taipei.com/websev?lang=zh-tw&ref=pages&id=45"
+      },
+      {
+        "text": "多功能宴會廳",
+        "href": "https://www.lemeridien-taipei.com/websev?lang=zh-tw&ref=pages&id=8"
+      },
+      {
+        "text": "會議專案",
+        "href": "https://www.lemeridien-taipei.com/websev?lang=zh-tw&ref=pages&id=10"
+      }
+    ]
+  },
+  {
+    "url": "https://www.humblehouse.com",
+    "venues": [
+      {
+        "id": 1078,
+        "name": "台北寒舍艾麗酒店(HummerHouse)"
+      }
+    ],
+    "status": "有問題",
+    "issues": [
+      "官網標題不匹配",
+      "找不到會議室頁面"
+    ],
+    "title": "www.humblehouse.com - Coming Soon",
+    "meetingLinks": []
+  },
+  {
+    "url": "https://www.citizenm.com/taipei",
+    "venues": [
+      {
+        "id": 1083,
+        "name": "台北意舍酒店(CitizenM)"
+      }
+    ],
+    "status": "有問題",
+    "issues": [
+      "官網標題不匹配",
+      "找不到會議室頁面"
+    ],
+    "title": "citizenM - Modern Hotels in Iconic Cities Worldwide",
+    "meetingLinks": []
+  },
+  {
+    "url": "https://www.mandarinoriental.com/taipei",
+    "venues": [
+      {
+        "id": 1085,
+        "name": "台北文華東方酒店(MOHTaipei)"
+      },
+      {
+        "id": 1392,
+        "name": "台北文華東方酒店(MOHTaipei)"
+      },
+      {
+        "id": 1393,
+        "name": "台北文華東方酒店(MOHTaipei)"
+      },
+      {
+        "id": 1394,
+        "name": "台北文華東方酒店(MOHTaipei)"
+      },
+      {
+        "id": 1395,
+        "name": "台北文華東方酒店(MOHTaipei)"
+      }
+    ],
+    "status": "有問題",
+    "issues": [
+      "官網標題不匹配"
+    ],
+    "title": "Luxury 5 Star Hotel | Songshan | Mandarin Oriental, Taipei",
+    "meetingLinks": [
+      {
+        "text": "Events",
+        "href": "https://www.mandarinoriental.com/en/taipei/songshan/events"
+      },
+      {
+        "text": "Events",
+        "href": "https://www.mandarinoriental.com/en/taipei/songshan/events"
+      },
+      {
+        "text": "See More",
+        "href": "https://www.mandarinoriental.com/en/taipei/songshan/events"
+      }
+    ]
+  },
+  {
+    "url": "https://www.regenthotels.com/taipei",
+    "venues": [
+      {
+        "id": 1086,
+        "name": "台北晶華酒店(RegentTaipei)"
+      }
+    ],
+    "status": "有問題",
+    "issues": [
+      "官網標題不匹配",
+      "找不到會議室頁面"
+    ],
+    "title": "Access Denied",
+    "meetingLinks": []
+  },
+  {
+    "url": "https://www.grandmayfull.com",
+    "venues": [
+      {
+        "id": 1096,
+        "name": "台北美福大飯店"
+      }
+    ],
+    "status": "有問題",
+    "issues": [
+      "官網標題不匹配"
+    ],
+    "title": "Grand Mayfull Hotel Taipei",
+    "meetingLinks": [
+      {
+        "text": "Book A Table",
+        "href": "https://www.tablecheck.com/en/grand-mayfull-hotel-taipei-palette-buffet/reserve/landing?require_venue=true"
+      },
+      {
+        "text": "Events",
+        "href": "https://www.grandmayfull.com/#"
+      },
+      {
+        "text": "Events",
+        "href": "https://www.grandmayfull.com/events"
+      },
+      {
+        "text": "360˚ Virtual Tour Guide",
+        "href": "https://www.grandmayfull.com/events/tour_guide"
+      },
+      {
+        "text": "Wedding Package",
+        "href": "https://www.grandmayfull.com/events/wedding"
+      }
+    ]
+  },
+  {
+    "url": "https://www.royal-nikko-taipei.com.tw/",
+    "venues": [
+      {
+        "id": 1097,
+        "name": "台北老爺大酒店(RoyalInnTaipei)"
+      }
+    ],
+    "status": "錯誤",
+    "issues": [
+      "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.royal-nikko-taipei.com.tw/\nCall log:\n  - navigating to \"https://www.royal-nikko-taipei.com.tw/\", waiting until \"domcontentloaded\"\n"
+    ],
+    "title": null,
+    "meetingLinks": [],
+    "error": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.royal-nikko-taipei.com.tw/\nCall log:\n  - navigating to \"https://www.royal-nikko-taipei.com.tw/\", waiting until \"domcontentloaded\"\n"
+  },
+  {
+    "url": "https://www.lemeridien.com/taipei",
+    "venues": [
+      {
+        "id": 1098,
+        "name": "台北艾美酒店"
+      },
+      {
+        "id": 1099,
+        "name": "台北艾美酒店"
+      }
+    ],
+    "status": "有問題",
+    "issues": [
+      "官網標題不匹配"
+    ],
+    "title": "Modern Hotels | Le Méridien Hotels & Resorts",
+    "meetingLinks": [
+      {
+        "text": "MEETINGS",
+        "href": "https://le-meridien.marriott.com/programmes/meetings-and-events/"
+      },
+      {
+        "text": "EXPLORE MORE",
+        "href": "https://le-meridien.marriott.com/programmes/meetings-and-events/"
+      },
+      {
+        "text": "Meetings",
+        "href": "https://www.marriott.com/meeting-event-hotels/meeting-planning.mi"
+      }
+    ]
+  },
+  {
+    "url": "https://www.taipeigarden.com.tw",
+    "venues": [
+      {
+        "id": 1100,
+        "name": "台北花園大酒店(TGHotel)"
+      }
+    ],
+    "status": "有問題",
+    "issues": [
+      "官網標題不匹配"
+    ],
+    "title": "關於我們",
+    "meetingLinks": [
+      {
+        "text": "最新消息",
+        "href": "https://www.taipeigarden.com.tw/news-events/"
+      },
+      {
+        "text": "促銷活動",
+        "href": "https://www.taipeigarden.com.tw/promotions/"
+      },
+      {
+        "text": "翠庭中餐廳",
+        "href": "https://www.taipeigarden.com.tw/restaurants/jade/"
+      },
+      {
+        "text": "宴會會議",
+        "href": "https://www.taipeigarden.com.tw/banquets-conferences/"
+      },
+      {
+        "text": "婚禮企劃",
+        "href": "https://www.taipeigarden.com.tw/banquets-conferences/wedding-consultation/"
+      }
+    ]
+  },
+  {
+    "url": "https://www.taipeimarriott.com.tw/",
+    "venues": [
+      {
+        "id": 1103,
+        "name": "台北萬豪酒店(MarriottTaipei)"
+      }
+    ],
+    "status": "OK",
+    "issues": [],
+    "title": "Taipei Marriott Hotel 台北萬豪酒店",
+    "meetingLinks": [
+      {
+        "text": "餐廳訂位",
+        "href": "https://www.taipeimarriott.com.tw/websev?cat=page&id=74"
+      },
+      {
+        "text": "餐廳美饌",
+        "href": "https://www.taipeimarriott.com.tw/websev?cat=page&subcat=47"
+      },
+      {
+        "text": "會議&宴會",
+        "href": "https://www.taipeimarriott.com.tw/websev?cat=page&subcat=17"
+      },
+      {
+        "text": "會議 & 宴會",
+        "href": "https://www.taipeimarriott.com.tw/websev?cat=page&id=39"
+      },
+      {
+        "text": "萬豪廳",
+        "href": "https://www.taipeimarriott.com.tw/websev?cat=page&id=96"
+      }
+    ]
+  },
+  {
+    "url": "https://www.tms.gov.taipei/",
+    "venues": [
+      {
+        "id": 1107,
+        "name": "台北體育館"
+      }
+    ],
+    "status": "錯誤",
+    "issues": [
+      "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.tms.gov.taipei/\nCall log:\n  - navigating to \"https://www.tms.gov.taipei/\", waiting until \"domcontentloaded\"\n"
+    ],
+    "title": null,
+    "meetingLinks": [],
+    "error": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.tms.gov.taipei/\nCall log:\n  - navigating to \"https://www.tms.gov.taipei/\", waiting until \"domcontentloaded\"\n"
+  },
+  {
+    "url": "https://www.ntualumni.org.tw/",
+    "venues": [
+      {
+        "id": 1108,
+        "name": "台大校友會館"
+      }
+    ],
+    "status": "錯誤",
+    "issues": [
+      "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.ntualumni.org.tw/\nCall log:\n  - navigating to \"https://www.ntualumni.org.tw/\", waiting until \"domcontentloaded\"\n"
+    ],
+    "title": null,
+    "meetingLinks": [],
+    "error": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.ntualumni.org.tw/\nCall log:\n  - navigating to \"https://www.ntualumni.org.tw/\", waiting until \"domcontentloaded\"\n"
+  },
+  {
+    "url": "https://www.pengyuan.com.tw",
+    "venues": [
+      {
+        "id": 1116,
+        "name": "彭園婚宴會館"
+      }
+    ],
+    "status": "OK",
+    "issues": [],
+    "title": "彭園婚宴會館",
+    "meetingLinks": [
+      {
+        "text": "宴會場地\n                            Wedding",
+        "href": "https://www.pengyuan.com.tw/place"
+      },
+      {
+        "text": "林森店",
+        "href": "https://www.pengyuan.com.tw/conference#0"
+      },
+      {
+        "text": "板橋店",
+        "href": "https://www.pengyuan.com.tw/conference#1"
+      },
+      {
+        "text": "壹品宴",
+        "href": "https://www.pengyuan.com.tw/conference#2"
+      },
+      {
+        "text": "台北館",
+        "href": "https://www.pengyuan.com.tw/conference#3"
+      }
+    ]
+  },
+  {
+    "url": "https://www.grandvictoria.com.tw/",
+    "venues": [
+      {
+        "id": 1122,
+        "name": "維多麗亞酒店"
+      }
+    ],
+    "status": "OK",
+    "issues": [],
+    "title": "維多麗亞酒店 | 官方網站",
+    "meetingLinks": [
+      {
+        "text": "餐飲活動",
+        "href": "https://grandvictoria.com.tw/%e9%a4%90%e9%a3%b2%e6%b4%bb%e5%8b%95/"
+      },
+      {
+        "text": "LA FESTA餐廳",
+        "href": "https://grandvictoria.com.tw/dining/la-festa%e9%a4%90%e5%bb%b3/"
+      },
+      {
+        "text": "雙囍中餐廳",
+        "href": "https://grandvictoria.com.tw/dining/%e9%9b%99%e5%9b%8d%e4%b8%ad%e9%a4%90%e5%bb%b3/"
+      },
+      {
+        "text": "婚宴場地",
+        "href": "https://grandvictoria.com.tw/%e5%a9%9a%e5%ae%b4%e5%ae%b4%e6%9c%83/%e5%a9%9a%e5%ae%b4%e5%a0%b4%e5%9c%b0/"
+      },
+      {
+        "text": "大宴會廳 1F",
+        "href": "https://grandvictoria.com.tw/%e5%a9%9a%e5%ae%b4%e5%ae%b4%e6%9c%83/%e5%a4%a7%e5%ae%b4%e6%9c%83%e5%bb%b3-1f/"
+      }
+    ]
+  },
+  {
+    "url": "https://www.huashan1914.com",
+    "venues": [
+      {
+        "id": 1125,
+        "name": "華山1914文化創意產業園區(Huashan1914)(Huashan1914)"
+      }
+    ],
+    "status": "OK",
+    "issues": [],
+    "title": "首頁 - 華山1914文化創意產業園區",
+    "meetingLinks": [
+      {
+        "text": "找活動",
+        "href": "https://www.huashan1914.com/w/huashan1914/exhibition"
+      },
+      {
+        "text": "場地介紹",
+        "href": "https://www.huashan1914.com/w/huashan1914/AppPlaceList"
+      },
+      {
+        "text": "找活動",
+        "href": "https://www.huashan1914.com/w/huashan1914/exhibition"
+      },
+      {
+        "text": "場地介紹",
+        "href": "https://www.huashan1914.com/w/huashan1914/AppPlaceList"
+      },
+      {
+        "text": "【園區公告】2026春節園區商家營業時間一覽表\n                          ",
+        "href": "https://www.huashan1914.com/w/huashan1914/news_26021116112978241"
+      }
+    ]
+  },
+  {
+    "url": "https://www.riverview.com.tw/",
+    "venues": [
+      {
+        "id": 1126,
+        "name": "豪景大酒店"
+      }
+    ],
+    "status": "OK",
+    "issues": [],
+    "title": "豪景大酒店-本館",
+    "meetingLinks": [
+      {
+        "text": "會議服務",
+        "href": "https://www.riverview.com.tw/%e6%9c%83%e8%ad%b0%e6%9c%8d%e5%8b%99/"
+      },
+      {
+        "text": "會議服務",
+        "href": "https://www.riverview.com.tw/%e6%9c%83%e8%ad%b0%e6%9c%8d%e5%8b%99/"
+      },
+      {
+        "text": "2025大稻埕夏日節頂樓煙火觀賞專案活動",
+        "href": "https://www.riverview.com.tw/2025%e5%a4%a7%e7%a8%bb%e5%9f%95%e5%a4%8f%e6%97%a5%e7%af%80%e9%a0%82%e6%a8%93%e7%85%99%e7%81%ab%e8%a7%80%e8%b3%9e%e5%b0%88%e6%a1%88%e6%b4%bb%e5%8b%95/"
+      },
+      {
+        "text": "會議服務",
+        "href": "https://www.riverview.com.tw/%e6%9c%83%e8%ad%b0%e6%9c%8d%e5%8b%99/"
+      }
+    ]
+  },
+  {
+    "url": "https://www.qingqing.com.tw",
+    "venues": [
+      {
+        "id": 1129,
+        "name": "青青婚宴會館"
+      }
+    ],
+    "status": "有問題",
+    "issues": [
+      "官網標題不匹配",
+      "找不到會議室頁面"
+    ],
+    "title": "青手作皂",
+    "meetingLinks": []
+  },
+  {
+    "url": "https://www.shangri-la.com/taipei",
+    "venues": [
+      {
+        "id": 1130,
+        "name": "香格里拉台北遠東國際大飯店"
+      }
+    ],
+    "status": "有問題",
+    "issues": [
+      "官網標題不匹配"
+    ],
+    "title": "Luxury 5 Star Hotel in Taipei | Shangri-La Far Eastern, Taipei",
+    "meetingLinks": [
+      {
+        "text": "Overview",
+        "href": "https://www.shangri-la.com/taipei/fareasternplazashangrila/meetings-events/"
+      },
+      {
+        "text": "Request For Proposal",
+        "href": "https://www.shangri-la.com/corporate/meetings-events/request-for-proposal/?hotelCode=TPE&hotel=Shangri-La%20Far%20Eastern,%20Taipei"
+      },
+      {
+        "text": "Book Meeting Room Online",
+        "href": "https://www.shangri-la.com/corporate/meetings-events/find-a-venue?hotelCode=TPE&hotel=Shangri-La%20Far%20Eastern,%20Taipei"
+      },
+      {
+        "text": "Event Spaces",
+        "href": "https://www.shangri-la.com/taipei/fareasternplazashangrila/meetings-events/event-spaces/"
+      },
+      {
+        "text": "Event Spaces",
+        "href": "https://www.shangri-la.com/taipei/fareasternplazashangrila/weddings-celebrations/event-spaces/"
+      }
+    ]
+  },
+  {
+    "url": "https://www.cambridge-hotel.com",
+    "venues": [
+      {
+        "id": 1131,
+        "name": "台南劍橋大飯店"
+      }
+    ],
+    "status": "錯誤",
+    "issues": [
+      "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.cambridge-hotel.com/\nCall log:\n  - navigating to \"https://www.cambridge-hotel.com/\", waiting until \"domcontentloaded\"\n"
+    ],
+    "title": null,
+    "meetingLinks": [],
+    "error": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.cambridge-hotel.com/\nCall log:\n  - navigating to \"https://www.cambridge-hotel.com/\", waiting until \"domcontentloaded\"\n"
+  },
+  {
+    "url": "https://www.hotel-cozzi.com/tainan",
+    "venues": [
+      {
+        "id": 1132,
+        "name": "台南和逸飯店"
+      }
+    ],
+    "status": "錯誤",
+    "issues": [
+      "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.hotel-cozzi.com/tainan\nCall log:\n  - navigating to \"https://www.hotel-cozzi.com/tainan\", waiting until \"domcontentloaded\"\n"
+    ],
+    "title": null,
+    "meetingLinks": [],
+    "error": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.hotel-cozzi.com/tainan\nCall log:\n  - navigating to \"https://www.hotel-cozzi.com/tainan\", waiting until \"domcontentloaded\"\n"
+  },
+  {
+    "url": "https://www.tainan-landis.com",
+    "venues": [
+      {
+        "id": 1133,
+        "name": "台南大億麗緻酒店(TainanRegent)"
+      }
+    ],
+    "status": "錯誤",
+    "issues": [
+      "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.tainan-landis.com/\nCall log:\n  - navigating to \"https://www.tainan-landis.com/\", waiting until \"domcontentloaded\"\n"
+    ],
+    "title": null,
+    "meetingLinks": [],
+    "error": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.tainan-landis.com/\nCall log:\n  - navigating to \"https://www.tainan-landis.com/\", waiting until \"domcontentloaded\"\n"
+  },
+  {
+    "url": "https://www.skyline-hotel.com",
+    "venues": [
+      {
+        "id": 1134,
+        "name": "台南天下大飯店"
+      }
+    ],
+    "status": "有問題",
+    "issues": [
+      "官網標題不匹配",
+      "找不到會議室頁面"
+    ],
+    "title": "Skyline Hotel Hannover – Zentrales Stadthotel in der Messestadt Hannover / Niedersachsen",
+    "meetingLinks": []
+  },
+  {
+    "url": "https://www.prince-hotel.com",
+    "venues": [
+      {
+        "id": 1135,
+        "name": "台南太子大飯店"
+      }
+    ],
+    "status": "錯誤",
+    "issues": [
+      "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.prince-hotel.com/\nCall log:\n  - navigating to \"https://www.prince-hotel.com/\", waiting until \"domcontentloaded\"\n"
+    ],
+    "title": null,
+    "meetingLinks": [],
+    "error": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.prince-hotel.com/\nCall log:\n  - navigating to \"https://www.prince-hotel.com/\", waiting until \"domcontentloaded\"\n"
+  },
+  {
+    "url": "https://www.chimeimuseum.org",
+    "venues": [
+      {
+        "id": 1136,
+        "name": "台南奇美博物館"
+      }
+    ],
+    "status": "有問題",
+    "issues": [
+      "官網標題不匹配"
+    ],
+    "title": "奇美博物館｜CHIMEI MUSEUM",
+    "meetingLinks": [
+      {
+        "text": "展覽與活動",
+        "href": "https://www.chimeimuseum.org/exhibition-event"
+      },
+      {
+        "text": "最新動態全覽",
+        "href": "https://www.chimeimuseum.org/exhibition-event"
+      },
+      {
+        "text": "活動與節目",
+        "href": "https://www.chimeimuseum.org/event"
+      },
+      {
+        "text": "場地租借",
+        "href": "https://www.chimeimuseum.org/apply/venue-rental"
+      },
+      {
+        "text": "03 / 02 今日開館",
+        "href": "https://www.chimeimuseum.org/exhibition-event"
+      }
+    ]
+  },
+  {
+    "url": "https://www.tnsc.gov.tw",
+    "venues": [
+      {
+        "id": 1137,
+        "name": "台南市(TCCG)立體育館"
+      }
+    ],
+    "status": "錯誤",
+    "issues": [
+      "page.goto: Timeout 20000ms exceeded.\nCall log:\n  - navigating to \"https://www.tnsc.gov.tw/\", waiting until \"domcontentloaded\"\n"
+    ],
+    "title": null,
+    "meetingLinks": [],
+    "error": "page.goto: Timeout 20000ms exceeded.\nCall log:\n  - navigating to \"https://www.tnsc.gov.tw/\", waiting until \"domcontentloaded\"\n"
+  },
+  {
+    "url": "https://www.ncku.edu.tw",
+    "venues": [
+      {
+        "id": 1138,
+        "name": "台南成大會館"
+      },
+      {
+        "id": 1149,
+        "name": "成大國際會議中心"
+      }
+    ],
+    "status": "有問題",
+    "issues": [
+      "官網標題不匹配"
+    ],
+    "title": "NCKU, 成功大學 National Cheng Kung University - NCKU, 國立成功大學 National Cheng Kung University",
+    "meetingLinks": [
+      {
+        "text": "【影音】成大華語中心體驗活動　外籍生手動感受臺灣春節文化熱鬧與溫馨",
+        "href": "https://web.ncku.edu.tw/p/406-1000-293270,r3989.php?Lang=zh-tw"
+      },
+      {
+        "text": "更多活動",
+        "href": "https://activity.ncku.edu.tw/index.php?c=apply&m=index&lang=zh_tw"
+      }
+    ]
+  },
+  {
+    "url": "https://www.gueidan.com",
+    "venues": [
+      {
+        "id": 1139,
+        "name": "台南桂田酒店(GueiLinTainan)"
+      }
+    ],
+    "status": "錯誤",
+    "issues": [
+      "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.gueidan.com/\nCall log:\n  - navigating to \"https://www.gueidan.com/\", waiting until \"domcontentloaded\"\n"
+    ],
+    "title": null,
+    "meetingLinks": [],
+    "error": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.gueidan.com/\nCall log:\n  - navigating to \"https://www.gueidan.com/\", waiting until \"domcontentloaded\"\n"
+  },
+  {
+    "url": "https://www.weiyue.com.tw",
+    "venues": [
+      {
+        "id": 1140,
+        "name": "台南維悅婚宴會館"
+      }
+    ],
+    "status": "錯誤",
+    "issues": [
+      "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.weiyue.com.tw/\nCall log:\n  - navigating to \"https://www.weiyue.com.tw/\", waiting until \"domcontentloaded\"\n"
+    ],
+    "title": null,
+    "meetingLinks": [],
+    "error": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.weiyue.com.tw/\nCall log:\n  - navigating to \"https://www.weiyue.com.tw/\", waiting until \"domcontentloaded\"\n"
+  },
+  {
+    "url": "https://www.weiyue-hotel.com",
+    "venues": [
+      {
+        "id": 1141,
+        "name": "台南維悅酒店(WeYue)"
+      }
+    ],
+    "status": "錯誤",
+    "issues": [
+      "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.weiyue-hotel.com/\nCall log:\n  - navigating to \"https://www.weiyue-hotel.com/\", waiting until \"domcontentloaded\"\n"
+    ],
+    "title": null,
+    "meetingLinks": [],
+    "error": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.weiyue-hotel.com/\nCall log:\n  - navigating to \"https://www.weiyue-hotel.com/\", waiting until \"domcontentloaded\"\n"
+  },
+  {
+    "url": "https://www.hotelroyal.com.tw/tainan",
+    "venues": [
+      {
+        "id": 1142,
+        "name": "台南老爺行旅(RoyalTainan)"
+      }
+    ],
+    "status": "有問題",
+    "issues": [
+      "官網標題不匹配"
+    ],
+    "title": "創造精彩難忘的故事｜老爺酒店集團",
+    "meetingLinks": [
+      {
+        "text": "宴會會議",
+        "href": "https://www.hotelroyal.com.tw/zh-tw/promotions/meeting"
+      }
+    ]
+  },
+  {
+    "url": "https://www.shangri-la.com/tainan",
+    "venues": [
+      {
+        "id": 1143,
+        "name": "台南遠東香格里拉"
+      },
+      {
+        "id": 1144,
+        "name": "台南香格里拉遠東"
+      },
+      {
+        "id": 1145,
+        "name": "台南香格里拉遠東國際大飯店(ShangriLaTainan)"
+      }
+    ],
+    "status": "有問題",
+    "issues": [
+      "官網標題不匹配"
+    ],
+    "title": "Luxury Hotel in Tainan | Shangri-La Far Eastern, Tainan",
+    "meetingLinks": [
+      {
+        "text": "Overview",
+        "href": "https://www.shangri-la.com/tainan/fareasternplazashangrila/meetings-events/"
+      },
+      {
+        "text": "Experience It",
+        "href": "https://www.shangri-la.com/tainan/fareasternplazashangrila/meetings-events/experience-it/"
+      },
+      {
+        "text": "Unique Destination Events",
+        "href": "https://www.shangri-la.com/tainan/fareasternplazashangrila/meetings-events/themed-events/"
+      },
+      {
+        "text": "Request For Proposal",
+        "href": "https://www.shangri-la.com/corporate/meetings-events/request-for-proposal/?hotelCode=SLTN&hotel=Shangri-La%20Far%20Eastern,%20Tainan"
+      },
+      {
+        "text": "Book Meeting Room Online",
+        "href": "https://www.shangri-la.com/corporate/meetings-events/find-a-venue?hotelCode=SLTN&hotel=Shangri-La%20Far%20Eastern,%20Tainan"
+      }
+    ]
+  },
+  {
+    "url": "https://www.tayih.com.tw",
+    "venues": [
+      {
+        "id": 1146,
+        "name": "大億國際會議中心"
+      }
+    ],
+    "status": "有問題",
+    "issues": [
+      "官網標題不匹配"
+    ],
+    "title": "豐富、便利、便宜～給您最美好的旅遊經驗！ :: 大億國際旅行社",
+    "meetingLinks": [
+      {
+        "text": "熱銷活動",
+        "href": "https://www.tayih.com.tw/hot_catalog.asp"
+      },
+      {
+        "text": "台南《廚房有雞粵菜餐廳》",
+        "href": "https://www.tayih.com.tw/tickets.asp?c=102&n=3644"
+      },
+      {
+        "text": "台南漢來海港自助餐廳",
+        "href": "https://www.tayih.com.tw/search.asp?sQuery=%E5%8F%B0%E5%8D%97%E6%BC%A2%E4%BE%86&oBtnSearch="
+      },
+      {
+        "text": "台南老爺行旅甘粹餐廳",
+        "href": "https://www.tayih.com.tw/search.asp?sQuery=%E8%80%81%E7%88%BA%E8%A1%8C%E6%97%85-%E7%94%98%E7%B2%B9%E9%A4%90%E5%BB%B3&oBtnSearch="
+      },
+      {
+        "text": "台南富信大飯店-富麗廳／...",
+        "href": "https://www.tayih.com.tw/search.asp?sQuery=%E5%AF%8C%E4%BF%A1%E5%A4%A7%E9%A3%AF%E5%BA%97&oBtnSearch="
+      }
+    ]
+  },
+  {
+    "url": "https://www.tayihlandis.com.tw",
+    "venues": [
+      {
+        "id": 1147,
+        "name": "大億麗緻酒店"
+      }
+    ],
+    "status": "錯誤",
+    "issues": [
+      "page.goto: net::ERR_CERT_AUTHORITY_INVALID at https://www.tayihlandis.com.tw/\nCall log:\n  - navigating to \"https://www.tayihlandis.com.tw/\", waiting until \"domcontentloaded\"\n"
+    ],
+    "title": null,
+    "meetingLinks": [],
+    "error": "page.goto: net::ERR_CERT_AUTHORITY_INVALID at https://www.tayihlandis.com.tw/\nCall log:\n  - navigating to \"https://www.tayihlandis.com.tw/\", waiting until \"domcontentloaded\"\n"
+  },
+  {
+    "url": "https://www.tntc.com.tw",
+    "venues": [
+      {
+        "id": 1148,
+        "name": "大台南會展中心"
+      }
+    ],
+    "status": "錯誤",
+    "issues": [
+      "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.tntc.com.tw/\nCall log:\n  - navigating to \"https://www.tntc.com.tw/\", waiting until \"domcontentloaded\"\n"
+    ],
+    "title": null,
+    "meetingLinks": [],
+    "error": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.tntc.com.tw/\nCall log:\n  - navigating to \"https://www.tntc.com.tw/\", waiting until \"domcontentloaded\"\n"
+  },
+  {
+    "url": "https://www.narubay.com",
+    "venues": [
+      {
+        "id": 1150,
+        "name": "台東娜路彎大酒店(Narowan)"
+      }
+    ],
+    "status": "錯誤",
+    "issues": [
+      "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.narubay.com/\nCall log:\n  - navigating to \"https://www.narubay.com/\", waiting until \"domcontentloaded\"\n"
+    ],
+    "title": null,
+    "meetingLinks": [],
+    "error": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.narubay.com/\nCall log:\n  - navigating to \"https://www.narubay.com/\", waiting until \"domcontentloaded\"\n"
+  },
+  {
+    "url": "https://www.zhibenroyal.com",
+    "venues": [
+      {
+        "id": 1151,
+        "name": "台東知本老爺酒店(RoyalChihpen)"
+      }
+    ],
+    "status": "錯誤",
+    "issues": [
+      "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.zhibenroyal.com/\nCall log:\n  - navigating to \"https://www.zhibenroyal.com/\", waiting until \"domcontentloaded\"\n"
+    ],
+    "title": null,
+    "meetingLinks": [],
+    "error": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.zhibenroyal.com/\nCall log:\n  - navigating to \"https://www.zhibenroyal.com/\", waiting until \"domcontentloaded\"\n"
+  },
+  {
+    "url": "https://www.ttc.edu.tw",
+    "venues": [
+      {
+        "id": 1152,
+        "name": "台東縣立體育館"
+      }
+    ],
+    "status": "有問題",
+    "issues": [
+      "官網標題不匹配",
+      "找不到會議室頁面"
+    ],
+    "title": "首頁",
+    "meetingLinks": []
+  },
+  {
+    "url": "https://www.fengtai-hotel.com",
+    "venues": [
+      {
+        "id": 1153,
+        "name": "台東豐泰大飯店"
+      }
+    ],
+    "status": "錯誤",
+    "issues": [
+      "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.fengtai-hotel.com/\nCall log:\n  - navigating to \"https://www.fengtai-hotel.com/\", waiting until \"domcontentloaded\"\n"
+    ],
+    "title": null,
+    "meetingLinks": [],
+    "error": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.fengtai-hotel.com/\nCall log:\n  - navigating to \"https://www.fengtai-hotel.com/\", waiting until \"domcontentloaded\"\n"
+  },
+  {
+    "url": "https://www.greenisland.com.tw",
+    "venues": [
+      {
+        "id": 1154,
+        "name": "綠島朝日溫泉度假村"
+      }
+    ],
+    "status": "錯誤",
+    "issues": [
+      "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.greenisland.com.tw/\nCall log:\n  - navigating to \"https://www.greenisland.com.tw/\", waiting until \"domcontentloaded\"\n"
+    ],
+    "title": null,
+    "meetingLinks": [],
+    "error": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.greenisland.com.tw/\nCall log:\n  - navigating to \"https://www.greenisland.com.tw/\", waiting until \"domcontentloaded\"\n"
+  },
+  {
+    "url": "https://www.lanyu-inn.com",
+    "venues": [
+      {
+        "id": 1155,
+        "name": "蘭嶼別館"
+      }
+    ],
+    "status": "錯誤",
+    "issues": [
+      "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.lanyu-inn.com/\nCall log:\n  - navigating to \"https://www.lanyu-inn.com/\", waiting until \"domcontentloaded\"\n"
+    ],
+    "title": null,
+    "meetingLinks": [],
+    "error": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.lanyu-inn.com/\nCall log:\n  - navigating to \"https://www.lanyu-inn.com/\", waiting until \"domcontentloaded\"\n"
+  },
+  {
+    "url": "https://www.chateaudechine.com/chiayi",
+    "venues": [
+      {
+        "id": 1156,
+        "name": "嘉義兆品酒店"
+      }
+    ],
+    "status": "有問題",
+    "issues": [
+      "官網標題不匹配",
+      "找不到會議室頁面"
+    ],
+    "title": "Chateau de Chine Hotel｜翰品酒店",
+    "meetingLinks": []
+  },
+  {
+    "url": "https://www.chiayi.gov.tw",
+    "venues": [
+      {
+        "id": 1157,
+        "name": "嘉義市文化局"
+      }
+    ],
+    "status": "錯誤",
+    "issues": [
+      "page.goto: Timeout 20000ms exceeded.\nCall log:\n  - navigating to \"https://www.chiayi.gov.tw/\", waiting until \"domcontentloaded\"\n"
+    ],
+    "title": null,
+    "meetingLinks": [],
+    "error": "page.goto: Timeout 20000ms exceeded.\nCall log:\n  - navigating to \"https://www.chiayi.gov.tw/\", waiting until \"domcontentloaded\"\n"
+  },
+  {
+    "url": "https://www.chiayi-museum.gov.tw",
+    "venues": [
+      {
+        "id": 1158,
+        "name": "嘉義市立博物館"
+      }
+    ],
+    "status": "錯誤",
+    "issues": [
+      "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.chiayi-museum.gov.tw/\nCall log:\n  - navigating to \"https://www.chiayi-museum.gov.tw/\", waiting until \"domcontentloaded\"\n"
+    ],
+    "title": null,
+    "meetingLinks": [],
+    "error": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.chiayi-museum.gov.tw/\nCall log:\n  - navigating to \"https://www.chiayi-museum.gov.tw/\", waiting until \"domcontentloaded\"\n"
+  },
+  {
+    "url": "https://www.niceprince.com.tw",
+    "venues": [
+      {
+        "id": 1159,
+        "name": "嘉義耐斯王子大飯店"
+      }
+    ],
+    "status": "OK",
+    "issues": [],
+    "title": "嘉義耐斯王子大飯店│嘉義高級住宿及精緻美饌飯店",
+    "meetingLinks": [
+      {
+        "text": "商務會議",
+        "href": "https://www.niceprince.com.tw/meeting/"
+      },
+      {
+        "text": "尾牙春酒開放預訂 阿里山宴會廳震撼全場~~",
+        "href": "https://www.niceprince.com.tw/news-detail/878"
+      },
+      {
+        "text": "三月份餐廳營業時間公告",
+        "href": "https://www.niceprince.com.tw/news-detail/538"
+      },
+      {
+        "text": "阿里山中餐廳/宴會廳",
+        "href": "https://www.niceprince.com.tw/dining-detail/alishan-ballroom/"
+      },
+      {
+        "text": "萬國百匯餐廳",
+        "href": "https://www.niceprince.com.tw/dining-detail/fusion-restaurant/"
+      }
+    ]
+  },
+  {
+    "url": "https://www.nice-prince.com",
+    "venues": [
+      {
+        "id": 1160,
+        "name": "嘉義耐斯王子大飯店"
+      }
+    ],
+    "status": "錯誤",
+    "issues": [
+      "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.nice-prince.com/\nCall log:\n  - navigating to \"https://www.nice-prince.com/\", waiting until \"domcontentloaded\"\n"
+    ],
+    "title": null,
+    "meetingLinks": [],
+    "error": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.nice-prince.com/\nCall log:\n  - navigating to \"https://www.nice-prince.com/\", waiting until \"domcontentloaded\"\n"
+  },
+  {
+    "url": "https://www.yutong-hotel.com",
+    "venues": [
+      {
+        "id": 1161,
+        "name": "嘉義鈺通大飯店"
+      }
+    ],
+    "status": "有問題",
+    "issues": [
+      "官網標題不匹配",
+      "找不到會議室頁面"
+    ],
+    "title": "Attention Required! | Cloudflare",
+    "meetingLinks": []
+  },
+  {
+    "url": "https://www.ccu.edu.tw",
+    "venues": [
+      {
+        "id": 1162,
+        "name": "嘉義中正大學(CCU)"
+      }
+    ],
+    "status": "有問題",
+    "issues": [
+      "官網標題不匹配"
+    ],
+    "title": "國立中正大學　National Chung Cheng University - 國立中正大學　National Chung Cheng University",
+    "meetingLinks": [
+      {
+        "text": "中正圖書館 2026春夏藝文活動登場　走進校園感受藝術的季節",
+        "href": "https://www.ccu.edu.tw/p/406-1000-85204,r981.php?Lang=zh-tw"
+      },
+      {
+        "text": "學術活動",
+        "href": "https://www.ccu.edu.tw/#cmb_514_0"
+      },
+      {
+        "text": "活動訊息",
+        "href": "https://www.ccu.edu.tw/#cmb_514_2"
+      },
+      {
+        "text": "徵商公告：本校115年第1次場地租賃案即日起至3月10日止接受投件",
+        "href": "https://oga.ccu.edu.tw/p/404-1006-79853.php?Lang=zh-tw"
+      },
+      {
+        "text": "轉知-115年「水域活動研習會」",
+        "href": "https://sport.ccu.edu.tw/p/404-1012-85581.php?Lang=zh-tw"
+      }
+    ]
+  },
+  {
+    "url": "https://www.cyc.edu.tw",
+    "venues": [
+      {
+        "id": 1163,
+        "name": "嘉義縣立體育館"
+      }
+    ],
+    "status": "有問題",
+    "issues": [
+      "官網標題不匹配"
+    ],
+    "title": "嘉義縣教育資訊網 - Educational Web @ Chiayi County",
+    "meetingLinks": [
+      {
+        "text": "活動訊息",
+        "href": "https://www.cyc.edu.tw/modules/tadnews/index.php?ncsn=6"
+      },
+      {
+        "text": "活動訊息",
+        "href": "https://www.cyc.edu.tw/modules/tadnews/index.php?ncsn=6"
+      }
+    ]
+  },
+  {
+    "url": "https://www.evergreen-hotels.com/chiayi",
+    "venues": [
+      {
+        "id": 1164,
+        "name": "嘉義長榮文苑酒店"
+      }
+    ],
+    "status": "有問題",
+    "issues": [
+      "官網標題不匹配",
+      "找不到會議室頁面"
+    ],
+    "title": "EVERGREEN HOTELS",
+    "meetingLinks": []
+  },
+  {
+    "url": "https://www.huakuo.com.tw",
+    "venues": [
+      {
+        "id": 1165,
+        "name": "基隆華國大飯店"
+      }
+    ],
+    "status": "有問題",
+    "issues": [
+      "官網標題不匹配",
+      "找不到會議室頁面"
+    ],
+    "title": "關於華國室內裝潢-輕鋼架防火天花板,輕隔間,防火隔間,企口鋁板,T5燈飾,裝潢工程承包,油漆粉刷,裝潢材料買賣 - 華國裝潢工程有限公司",
+    "meetingLinks": []
+  },
+  {
+    "url": "https://www.evergreen-hotels.com/keelung",
+    "venues": [
+      {
+        "id": 1166,
+        "name": "基隆長榮桂冠酒店"
+      }
+    ],
+    "status": "有問題",
+    "issues": [
+      "官網標題不匹配",
+      "找不到會議室頁面"
+    ],
+    "title": "EVERGREEN HOTELS",
+    "meetingLinks": []
+  },
+  {
+    "url": "https://www.hotelroyal.com.tw/yilan",
+    "venues": [
+      {
+        "id": 1167,
+        "name": "傳藝老爺行旅"
+      }
+    ],
+    "status": "有問題",
+    "issues": [
+      "官網標題不匹配"
+    ],
+    "title": "創造精彩難忘的故事｜老爺酒店集團",
+    "meetingLinks": [
+      {
+        "text": "宴會會議",
+        "href": "https://www.hotelroyal.com.tw/zh-tw/promotions/meeting"
+      }
+    ]
+  },
+  {
+    "url": "https://www.ncfta.gov.tw",
+    "venues": [
+      {
+        "id": 1168,
+        "name": "宜蘭傳藝中心(NCFTAIlan)"
+      }
+    ],
+    "status": "有問題",
+    "issues": [
+      "官網標題不匹配"
+    ],
+    "title": "國立傳統藝術中心",
+    "meetingLinks": [
+      {
+        "text": "展演活動",
+        "href": "https://www.ncfta.gov.tw/News_Actives_photo_ncfta.aspx?n=2802&sms=11892"
+      },
+      {
+        "text": "當期活動",
+        "href": "https://www.ncfta.gov.tw/News_Actives_photo_ncfta.aspx?n=2802&sms=11892"
+      },
+      {
+        "text": "活動回顧",
+        "href": "https://www.ncfta.gov.tw/News_Actives_photo_ncfta.aspx?n=7406&sms=11892"
+      },
+      {
+        "text": "場地租借",
+        "href": "https://www.ncfta.gov.tw/cl.aspx?n=2878"
+      },
+      {
+        "text": "展演活動",
+        "href": "https://www.ncfta.gov.tw/News_Actives_photo_ncfta.aspx?n=2802&sms=11892"
+      }
+    ]
+  },
+  {
+    "url": "https://www.yilanhotelroyal.com",
+    "venues": [
+      {
+        "id": 1169,
+        "name": "宜蘭傳藝老爺行旅"
+      }
+    ],
+    "status": "錯誤",
+    "issues": [
+      "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.yilanhotelroyal.com/\nCall log:\n  - navigating to \"https://www.yilanhotelroyal.com/\", waiting until \"domcontentloaded\"\n"
+    ],
+    "title": null,
+    "meetingLinks": [],
+    "error": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.yilanhotelroyal.com/\nCall log:\n  - navigating to \"https://www.yilanhotelroyal.com/\", waiting until \"domcontentloaded\"\n"
+  },
+  {
+    "url": "https://www.westin.com/yilan",
+    "venues": [
+      {
+        "id": 1170,
+        "name": "宜蘭力麗威斯汀度假酒店"
+      }
+    ],
+    "status": "有問題",
+    "issues": [
+      "官網標題不匹配"
+    ],
+    "title": "Premium Luxury Wellness Hotels | Westin Hotels & Resorts",
+    "meetingLinks": [
+      {
+        "text": "Meetings",
+        "href": "https://www.marriott.com/en-us/meeting-event-hotels/group-reservations/westin.mi"
+      }
+    ]
+  },
+  {
+    "url": "https://www.silksplace.com/yilan",
+    "venues": [
+      {
+        "id": 1171,
+        "name": "宜蘭晶英酒店(SilksPlaceYilan)"
+      },
+      {
+        "id": 1175,
+        "name": "宜蘭蘭城晶英酒店(SilksPlaceYilanCity)"
+      }
+    ],
+    "status": "有問題",
+    "issues": [
+      "官網標題不匹配",
+      "找不到會議室頁面"
+    ],
+    "title": "404 Not Found",
+    "meetingLinks": []
+  },
+  {
+    "url": "https://www.hotelroyal.com.tw/jiaoxi",
+    "venues": [
+      {
+        "id": 1172,
+        "name": "宜蘭礁溪老爺酒店(RoyalJiaoxi)"
+      }
+    ],
+    "status": "有問題",
+    "issues": [
+      "官網標題不匹配"
+    ],
+    "title": "創造精彩難忘的故事｜老爺酒店集團",
+    "meetingLinks": [
+      {
+        "text": "宴會會議",
+        "href": "https://www.hotelroyal.com.tw/zh-tw/promotions/meeting"
+      }
+    ]
+  },
+  {
+    "url": "https://www.jiiaosiroyal.com",
+    "venues": [
+      {
+        "id": 1173,
+        "name": "宜蘭礁溪老爺酒店(RoyalJiaoxi)"
+      }
+    ],
+    "status": "錯誤",
+    "issues": [
+      "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.jiiaosiroyal.com/\nCall log:\n  - navigating to \"https://www.jiiaosiroyal.com/\", waiting until \"domcontentloaded\"\n"
+    ],
+    "title": null,
+    "meetingLinks": [],
+    "error": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.jiiaosiroyal.com/\nCall log:\n  - navigating to \"https://www.jiiaosiroyal.com/\", waiting until \"domcontentloaded\"\n"
+  },
+  {
+    "url": "https://www.ilc.edu.tw",
+    "venues": [
+      {
+        "id": 1174,
+        "name": "宜蘭縣立體育館"
+      }
+    ],
+    "status": "有問題",
+    "issues": [
+      "官網標題不匹配"
+    ],
+    "title": "宜蘭縣政府教育處全球資訊網",
+    "meetingLinks": [
+      {
+        "text": "114學年度宜蘭縣政府所屬學校世界閱讀日活動實施計畫，閱讀達人徵件日期延至115年2月26日(星期四",
+        "href": "https://ilcmain.ilc.edu.tw/search.asp?num=191561"
+      }
+    ]
+  },
+  {
+    "url": "https://www.evergreen-hotels.com/jiaoxi",
+    "venues": [
+      {
+        "id": 1176,
+        "name": "宜蘭長榮鳳凰酒店"
+      }
+    ],
+    "status": "有問題",
+    "issues": [
+      "官網標題不匹配",
+      "找不到會議室頁面"
+    ],
+    "title": "EVERGREEN HOTELS",
+    "meetingLinks": []
+  },
+  {
+    "url": "https://www.caesarpark.com.tw/kenting",
+    "venues": [
+      {
+        "id": 1177,
+        "name": "墾丁凱撒大飯店(CaesarPark)"
+      },
+      {
+        "id": 1178,
+        "name": "墾丁凱撒大飯店(CaesarPark)"
+      },
+      {
+        "id": 1185,
+        "name": "屏東墾丁凱撒大飯店(CaesarPark)"
+      }
+    ],
+    "status": "有問題",
+    "issues": [
+      "官網標題不匹配",
+      "找不到會議室頁面"
+    ],
+    "title": "404 找不到網頁了！ - 凱撒飯店連鎖",
+    "meetingLinks": []
+  },
+  {
+    "url": "https://www.chateaubeach.com",
+    "venues": [
+      {
+        "id": 1179,
+        "name": "墾丁夏都沙灘酒店(ChateauBeach)"
+      }
+    ],
+    "status": "有問題",
+    "issues": [
+      "官網標題不匹配",
+      "找不到會議室頁面"
+    ],
+    "title": "",
+    "meetingLinks": []
+  },
+  {
+    "url": "https://www.chateau.com.tw",
+    "venues": [
+      {
+        "id": 1180,
+        "name": "墾丁夏都沙灘酒店(ChateauBeach)"
+      },
+      {
+        "id": 1186,
+        "name": "屏東墾丁夏都沙灘酒店(ChateauBeach)"
+      }
+    ],
+    "status": "錯誤",
+    "issues": [
+      "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.chateau.com.tw/\nCall log:\n  - navigating to \"https://www.chateau.com.tw/\", waiting until \"domcontentloaded\"\n"
+    ],
+    "title": null,
+    "meetingLinks": [],
+    "error": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.chateau.com.tw/\nCall log:\n  - navigating to \"https://www.chateau.com.tw/\", waiting until \"domcontentloaded\"\n"
+  },
+  {
+    "url": "https://www.yoho.com.tw",
+    "venues": [
+      {
+        "id": 1181,
+        "name": "墾丁悠活渡假村(YoHo)"
+      },
+      {
+        "id": 1187,
+        "name": "屏東墾丁悠活渡假村(YoHo)"
+      }
+    ],
+    "status": "OK",
+    "issues": [],
+    "title": "墾丁悠活渡假村 YOHO Beach Resort - 墾丁飯店推薦-首頁",
+    "meetingLinks": [
+      {
+        "text": "設施活動",
+        "href": "https://www.yoho.com.tw/zh-tw/Activity"
+      },
+      {
+        "text": "美食假期\n                          我們擁有令人垂涎的招牌風味餐及主題餐廳",
+        "href": "https://www.yoho.com.tw/zh-tw/Dining"
+      },
+      {
+        "text": "Chocolate hotel\n                            巧克力旅館\n",
+        "href": "https://www.yoho.com.tw/zh-tw/Hotel/%E5%B7%A7%E5%85%8B%E5%8A%9B%E6%97%85%E9%A4%A8"
+      },
+      {
+        "text": "館內活動",
+        "href": "https://www.yoho.com.tw/zh-tw/Activity/index"
+      },
+      {
+        "text": "臨海餐廳",
+        "href": "https://www.yoho.com.tw/zh-tw/Dining/%E8%87%A8%E6%B5%B7%E9%A4%90%E5%BB%B3"
+      }
+    ]
+  },
+  {
+    "url": "https://www.howard-hotels.com.tw/kenting",
+    "venues": [
+      {
+        "id": 1182,
+        "name": "墾丁福華渡假飯店(HowardKenting)"
+      },
+      {
+        "id": 1188,
+        "name": "屏東墾丁福華渡假飯店(HowardKenting)"
+      }
+    ],
+    "status": "有問題",
+    "issues": [
+      "官網標題不匹配",
+      "找不到會議室頁面"
+    ],
+    "title": "Server error",
+    "meetingLinks": []
+  },
+  {
+    "url": "https://www.smallkenting.com.tw",
+    "venues": [
+      {
+        "id": 1183,
+        "name": "小墾丁渡假村"
+      }
+    ],
+    "status": "錯誤",
+    "issues": [
+      "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.smallkenting.com.tw/\nCall log:\n  - navigating to \"https://www.smallkenting.com.tw/\", waiting until \"domcontentloaded\"\n"
+    ],
+    "title": null,
+    "meetingLinks": [],
+    "error": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.smallkenting.com.tw/\nCall log:\n  - navigating to \"https://www.smallkenting.com.tw/\", waiting until \"domcontentloaded\"\n"
+  },
+  {
+    "url": "https://www.xiaoliuqiu.com",
+    "venues": [
+      {
+        "id": 1184,
+        "name": "小琉球大飯店"
+      }
+    ],
+    "status": "錯誤",
+    "issues": [
+      "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.xiaoliuqiu.com/\nCall log:\n  - navigating to \"https://www.xiaoliuqiu.com/\", waiting until \"domcontentloaded\"\n"
+    ],
+    "title": null,
+    "meetingLinks": [],
+    "error": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.xiaoliuqiu.com/\nCall log:\n  - navigating to \"https://www.xiaoliuqiu.com/\", waiting until \"domcontentloaded\"\n"
+  },
+  {
+    "url": "https://www.ptc.gov.tw",
+    "venues": [
+      {
+        "id": 1189,
+        "name": "屏東縣立體育館"
+      }
+    ],
+    "status": "錯誤",
+    "issues": [
+      "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.ptc.gov.tw/\nCall log:\n  - navigating to \"https://www.ptc.gov.tw/\", waiting until \"domcontentloaded\"\n"
+    ],
+    "title": null,
+    "meetingLinks": [],
+    "error": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.ptc.gov.tw/\nCall log:\n  - navigating to \"https://www.ptc.gov.tw/\", waiting until \"domcontentloaded\"\n"
+  },
+  {
+    "url": "https://www.ptc-sports.gov.tw",
+    "venues": [
+      {
+        "id": 1190,
+        "name": "屏東縣立體育館"
+      }
+    ],
+    "status": "錯誤",
+    "issues": [
+      "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.ptc-sports.gov.tw/\nCall log:\n  - navigating to \"https://www.ptc-sports.gov.tw/\", waiting until \"domcontentloaded\"\n"
+    ],
+    "title": null,
+    "meetingLinks": [],
+    "error": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.ptc-sports.gov.tw/\nCall log:\n  - navigating to \"https://www.ptc-sports.gov.tw/\", waiting until \"domcontentloaded\"\n"
+  },
+  {
+    "url": "https://www.glorymanor.com.tw",
+    "venues": [
+      {
+        "id": 1193,
+        "name": "華泰瑞苑墾丁賓館"
+      }
+    ],
+    "status": "錯誤",
+    "issues": [
+      "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.glorymanor.com.tw/\nCall log:\n  - navigating to \"https://www.glorymanor.com.tw/\", waiting until \"domcontentloaded\"\n"
+    ],
+    "title": null,
+    "meetingLinks": [],
+    "error": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.glorymanor.com.tw/\nCall log:\n  - navigating to \"https://www.glorymanor.com.tw/\", waiting until \"domcontentloaded\"\n"
+  },
+  {
+    "url": "https://www.dyu.edu.tw",
+    "venues": [
+      {
+        "id": 1194,
+        "name": "彰化大葉大學"
+      }
+    ],
+    "status": "有問題",
+    "issues": [
+      "官網標題不匹配"
+    ],
+    "title": "大葉大學首頁",
+    "meetingLinks": [
+      {
+        "text": "校園餐廳",
+        "href": "https://www.dyu.edu.tw/dining.html"
+      },
+      {
+        "text": "業勤宿舍餐廳",
+        "href": "https://www.dyu.edu.tw/dining.html"
+      },
+      {
+        "text": "戶外場地",
+        "href": "https://www.dyu.edu.tw/leisure.html"
+      },
+      {
+        "text": "社團活動",
+        "href": "https://www.dyu.edu.tw/club.html"
+      },
+      {
+        "text": "近期活動",
+        "href": "https://www.dyu.edu.tw/events.html"
+      }
+    ]
+  },
+  {
+    "url": "https://www.ccut.edu.tw",
+    "venues": [
+      {
+        "id": 1195,
+        "name": "彰化建國科技大學"
+      }
+    ],
+    "status": "錯誤",
+    "issues": [
+      "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.ccut.edu.tw/\nCall log:\n  - navigating to \"https://www.ccut.edu.tw/\", waiting until \"domcontentloaded\"\n"
+    ],
+    "title": null,
+    "meetingLinks": [],
+    "error": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.ccut.edu.tw/\nCall log:\n  - navigating to \"https://www.ccut.edu.tw/\", waiting until \"domcontentloaded\"\n"
+  },
+  {
+    "url": "https://www.yuanlin-crown.com",
+    "venues": [
+      {
+        "id": 1196,
+        "name": "彰化桂冠歐悅酒店"
+      }
+    ],
+    "status": "錯誤",
+    "issues": [
+      "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.yuanlin-crown.com/\nCall log:\n  - navigating to \"https://www.yuanlin-crown.com/\", waiting until \"domcontentloaded\"\n"
+    ],
+    "title": null,
+    "meetingLinks": [],
+    "error": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.yuanlin-crown.com/\nCall log:\n  - navigating to \"https://www.yuanlin-crown.com/\", waiting until \"domcontentloaded\"\n"
+  },
+  {
+    "url": "https://www.showchwan.com",
+    "venues": [
+      {
+        "id": 1197,
+        "name": "彰化秀傳紀念醫院"
+      }
+    ],
+    "status": "有問題",
+    "issues": [
+      "官網標題不匹配"
+    ],
+    "title": "秀傳產後護理之家｜彰化首選月子中心",
+    "meetingLinks": [
+      {
+        "text": "14-15坪\n                                           ",
+        "href": "https://www.showchwan.com/album_d.php?lang=tw&tb=2&id=36"
+      },
+      {
+        "text": "22-23坪\n                                           ",
+        "href": "https://www.showchwan.com/album_d.php?lang=tw&tb=2&id=42"
+      }
+    ]
+  },
+  {
+    "url": "https://www.chc-culture.gov.tw",
+    "venues": [
+      {
+        "id": 1198,
+        "name": "彰化縣立文化局"
+      }
+    ],
+    "status": "錯誤",
+    "issues": [
+      "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.chc-culture.gov.tw/\nCall log:\n  - navigating to \"https://www.chc-culture.gov.tw/\", waiting until \"domcontentloaded\"\n"
+    ],
+    "title": null,
+    "meetingLinks": [],
+    "error": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.chc-culture.gov.tw/\nCall log:\n  - navigating to \"https://www.chc-culture.gov.tw/\", waiting until \"domcontentloaded\"\n"
+  },
+  {
+    "url": "https://www.chc.edu.tw",
+    "venues": [
+      {
+        "id": 1199,
+        "name": "彰化縣立體育館"
+      }
+    ],
+    "status": "有問題",
+    "issues": [
+      "官網標題不匹配"
+    ],
+    "title": "縣網中心-新雲端",
+    "meetingLinks": [
+      {
+        "text": "活動成果Splendid Event",
+        "href": "https://newboe.chc.edu.tw/bulletin/3"
+      }
+    ]
+  },
+  {
+    "url": "https://www.motech-hall.com",
+    "venues": [
+      {
+        "id": 1200,
+        "name": "彰化鹿港茂迪太陽能會館"
+      }
+    ],
+    "status": "錯誤",
+    "issues": [
+      "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.motech-hall.com/\nCall log:\n  - navigating to \"https://www.motech-hall.com/\", waiting until \"domcontentloaded\"\n"
+    ],
+    "title": null,
+    "meetingLinks": [],
+    "error": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.motech-hall.com/\nCall log:\n  - navigating to \"https://www.motech-hall.com/\", waiting until \"domcontentloaded\"\n"
+  },
+  {
+    "url": "https://www.dianhua.com.tw",
+    "venues": [
+      {
+        "id": 1201,
+        "name": "典華旗艦店"
+      }
+    ],
+    "status": "錯誤",
+    "issues": [
+      "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.dianhua.com.tw/\nCall log:\n  - navigating to \"https://www.dianhua.com.tw/\", waiting until \"domcontentloaded\"\n"
+    ],
+    "title": null,
+    "meetingLinks": [],
+    "error": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.dianhua.com.tw/\nCall log:\n  - navigating to \"https://www.dianhua.com.tw/\", waiting until \"domcontentloaded\"\n"
+  },
+  {
+    "url": "https://www.goldentulip.com.tw/danshui",
+    "venues": [
+      {
+        "id": 1202,
+        "name": "台北淡水將捷金鬱金香酒店"
+      }
+    ],
+    "status": "有問題",
+    "issues": [
+      "官網標題不匹配",
+      "找不到會議室頁面"
+    ],
+    "title": "404 Page Not Found",
+    "meetingLinks": []
+  },
+  {
+    "url": "https://www.chengyi-hotels.com/danshui",
+    "venues": [
+      {
+        "id": 1203,
+        "name": "台北淡水承億酒店"
+      }
+    ],
+    "status": "錯誤",
+    "issues": [
+      "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.chengyi-hotels.com/danshui\nCall log:\n  - navigating to \"https://www.chengyi-hotels.com/danshui\", waiting until \"domcontentloaded\"\n"
+    ],
+    "title": null,
+    "meetingLinks": [],
+    "error": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.chengyi-hotels.com/danshui\nCall log:\n  - navigating to \"https://www.chengyi-hotels.com/danshui\", waiting until \"domcontentloaded\"\n"
+  },
+  {
+    "url": "https://www.fourpoints.com/sanchong",
+    "venues": [
+      {
+        "id": 1204,
+        "name": "新北三重福朋喜來登酒店"
+      }
+    ],
+    "status": "有問題",
+    "issues": [
+      "官網標題不匹配",
+      "找不到會議室頁面"
+    ],
+    "title": "Business & Leisure Travel Hotels | Four Points by Sheraton",
+    "meetingLinks": []
+  },
+  {
+    "url": "https://www.ssc.ntpc.gov.tw",
+    "venues": [
+      {
+        "id": 1205,
+        "name": "新北三重綜合運動場"
+      }
+    ],
+    "status": "錯誤",
+    "issues": [
+      "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.ssc.ntpc.gov.tw/\nCall log:\n  - navigating to \"https://www.ssc.ntpc.gov.tw/\", waiting until \"domcontentloaded\"\n"
+    ],
+    "title": null,
+    "meetingLinks": [],
+    "error": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.ssc.ntpc.gov.tw/\nCall log:\n  - navigating to \"https://www.ssc.ntpc.gov.tw/\", waiting until \"domcontentloaded\"\n"
+  },
+  {
+    "url": "https://www.jinling-wedding.com",
+    "venues": [
+      {
+        "id": 1206,
+        "name": "新北三重金陵婚宴會館"
+      }
+    ],
+    "status": "錯誤",
+    "issues": [
+      "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.jinling-wedding.com/\nCall log:\n  - navigating to \"https://www.jinling-wedding.com/\", waiting until \"domcontentloaded\"\n"
+    ],
+    "title": null,
+    "meetingLinks": [],
+    "error": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.jinling-wedding.com/\nCall log:\n  - navigating to \"https://www.jinling-wedding.com/\", waiting until \"domcontentloaded\"\n"
+  },
+  {
+    "url": "https://www.fourpoints.com/zhonghe",
+    "venues": [
+      {
+        "id": 1207,
+        "name": "新北中和福朋喜來登"
+      }
+    ],
+    "status": "有問題",
+    "issues": [
+      "官網標題不匹配",
+      "找不到會議室頁面"
+    ],
+    "title": "Business & Leisure Travel Hotels | Four Points by Sheraton",
+    "meetingLinks": []
+  },
+  {
+    "url": "https://www.asegroup.com",
+    "venues": [
+      {
+        "id": 1208,
+        "name": "新北土城日月光國際會議中心"
+      }
+    ],
+    "status": "有問題",
+    "issues": [
+      "官網標題不匹配",
+      "找不到會議室頁面"
+    ],
+    "title": "6850",
+    "meetingLinks": []
+  },
+  {
+    "url": "https://www.ntpc.gov.tw",
+    "venues": [
+      {
+        "id": 1209,
+        "name": "新北市板橋體育館"
+      },
+      {
+        "id": 1224,
+        "name": "淡水漁人舞台"
+      }
+    ],
+    "status": "錯誤",
+    "issues": [
+      "官網標題不匹配",
+      "page.evaluate: TypeError: a.href.toLowerCase is not a function\n    at eval (eval at evaluate (:290:30), <anonymous>:6:31)\n    at Array.filter (<anonymous>)\n    at eval (eval at evaluate (:290:30), <anonymous>:4:10)\n    at UtilityScript.evaluate (<anonymous>:292:16)\n    at UtilityScript.<anonymous> (<anonymous>:1:44)"
+    ],
+    "title": "新北市政府",
+    "meetingLinks": [],
+    "error": "page.evaluate: TypeError: a.href.toLowerCase is not a function\n    at eval (eval at evaluate (:290:30), <anonymous>:6:31)\n    at Array.filter (<anonymous>)\n    at eval (eval at evaluate (:290:30), <anonymous>:4:10)\n    at UtilityScript.evaluate (<anonymous>:292:16)\n    at UtilityScript.<anonymous> (<anonymous>:1:44)"
+  },
+  {
+    "url": "https://www.jinguang.com.tw",
+    "venues": [
+      {
+        "id": 1210,
+        "name": "新北新莊晶冠廣場"
+      }
+    ],
+    "status": "錯誤",
+    "issues": [
+      "page.goto: net::ERR_CERT_AUTHORITY_INVALID at https://www.jinguang.com.tw/\nCall log:\n  - navigating to \"https://www.jinguang.com.tw/\", waiting until \"domcontentloaded\"\n"
+    ],
+    "title": null,
+    "meetingLinks": [],
+    "error": "page.goto: net::ERR_CERT_AUTHORITY_INVALID at https://www.jinguang.com.tw/\nCall log:\n  - navigating to \"https://www.jinguang.com.tw/\", waiting until \"domcontentloaded\"\n"
+  },
+  {
+    "url": "https://www.xinzhuang.ntpc.gov.tw",
+    "venues": [
+      {
+        "id": 1211,
+        "name": "新北新莊體育館"
+      }
+    ],
+    "status": "有問題",
+    "issues": [
+      "官網標題不匹配"
+    ],
+    "title": "新北市新莊區公所",
+    "meetingLinks": [
+      {
+        "text": "鄰里活動",
+        "href": "https://www.xinzhuang.ntpc.gov.tw/home.jsp?id=b4cafbf11e0d8c3b"
+      },
+      {
+        "text": "場地租借資訊",
+        "href": "https://www.xinzhuang.ntpc.gov.tw/home.jsp?id=2838c99ae3b46b5f"
+      },
+      {
+        "text": "行政大樓禮堂租借資訊",
+        "href": "https://www.xinzhuang.ntpc.gov.tw/home.jsp?id=9fc8d54f24b47dc5"
+      },
+      {
+        "text": "市民活動中心租借資訊",
+        "href": "https://www.xinzhuang.ntpc.gov.tw/home.jsp?id=1ee324bfb5e44418"
+      },
+      {
+        "text": "公園租借資訊",
+        "href": "https://www.xinzhuang.ntpc.gov.tw/home.jsp?id=3bd1e5a549243b43"
+      }
+    ]
+  },
+  {
+    "url": "https://www.caesar-park.com/banqiao",
+    "venues": [
+      {
+        "id": 1212,
+        "name": "新北板橋凱撒大飯店(CaesarParkBanqiao)"
+      }
+    ],
+    "status": "有問題",
+    "issues": [
+      "官網標題不匹配",
+      "找不到會議室頁面"
+    ],
+    "title": "caesar-park.com",
+    "meetingLinks": []
+  },
+  {
+    "url": "https://www.caesar-wedding.com",
+    "venues": [
+      {
+        "id": 1213,
+        "name": "新北板橋凱薩帝苑婚宴會館"
+      }
+    ],
+    "status": "錯誤",
+    "issues": [
+      "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.caesar-wedding.com/\nCall log:\n  - navigating to \"https://www.caesar-wedding.com/\", waiting until \"domcontentloaded\"\n"
+    ],
+    "title": null,
+    "meetingLinks": [],
+    "error": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.caesar-wedding.com/\nCall log:\n  - navigating to \"https://www.caesar-wedding.com/\", waiting until \"domcontentloaded\"\n"
+  },
+  {
+    "url": "https://www.chateaudechine.com/banqiao",
+    "venues": [
+      {
+        "id": 1214,
+        "name": "新北板橋瀚品酒店"
+      }
+    ],
+    "status": "有問題",
+    "issues": [
+      "官網標題不匹配",
+      "找不到會議室頁面"
+    ],
+    "title": "Chateau de Chine Hotel｜翰品酒店",
+    "meetingLinks": []
+  },
+  {
+    "url": "https://www.haitiandi.com",
+    "venues": [
+      {
+        "id": 1215,
+        "name": "新北海天地大飯店"
+      }
+    ],
+    "status": "錯誤",
+    "issues": [
+      "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.haitiandi.com/\nCall log:\n  - navigating to \"https://www.haitiandi.com/\", waiting until \"domcontentloaded\"\n"
+    ],
+    "title": null,
+    "meetingLinks": [],
+    "error": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.haitiandi.com/\nCall log:\n  - navigating to \"https://www.haitiandi.com/\", waiting until \"domcontentloaded\"\n"
+  },
+  {
+    "url": "https://www.tamsui-culture.com",
+    "venues": [
+      {
+        "id": 1216,
+        "name": "新北淡水文化園區"
+      }
+    ],
+    "status": "錯誤",
+    "issues": [
+      "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.tamsui-culture.com/\nCall log:\n  - navigating to \"https://www.tamsui-culture.com/\", waiting until \"domcontentloaded\"\n"
+    ],
+    "title": null,
+    "meetingLinks": [],
+    "error": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.tamsui-culture.com/\nCall log:\n  - navigating to \"https://www.tamsui-culture.com/\", waiting until \"domcontentloaded\"\n"
+  },
+  {
+    "url": "https://www.fullon-hotels.com.tw/tamsui",
+    "venues": [
+      {
+        "id": 1217,
+        "name": "新北福容大飯店(Fullon)淡水漁人碼頭"
+      }
+    ],
+    "status": "有問題",
+    "issues": [
+      "官網標題不匹配",
+      "找不到會議室頁面"
+    ],
+    "title": "404 找不到網頁了！ - 福容大飯店官方網站 FULLON HOTELS",
+    "meetingLinks": []
+  },
+  {
+    "url": "https://www.howard-hotels.com.tw/feitsui",
+    "venues": [
+      {
+        "id": 1218,
+        "name": "新北萬里翡翠灣福華渡假飯店"
+      }
+    ],
+    "status": "有問題",
+    "issues": [
+      "官網標題不匹配",
+      "找不到會議室頁面"
+    ],
+    "title": "Server error",
+    "meetingLinks": []
+  },
+  {
+    "url": "https://www.hilton.com/taipei-xinban",
+    "venues": [
+      {
+        "id": 1219,
+        "name": "新板希爾頓酒店"
+      }
+    ],
+    "status": "有問題",
+    "issues": [
+      "官網標題不匹配",
+      "找不到會議室頁面"
+    ],
+    "title": "",
+    "meetingLinks": []
+  },
+  {
+    "url": "https://www.newboard.com.tw",
+    "venues": [
+      {
+        "id": 1220,
+        "name": "新板民生婚宴會館"
+      }
+    ],
+    "status": "錯誤",
+    "issues": [
+      "page.goto: net::ERR_CERT_COMMON_NAME_INVALID at https://www.newboard.com.tw/\nCall log:\n  - navigating to \"https://www.newboard.com.tw/\", waiting until \"domcontentloaded\"\n"
+    ],
+    "title": null,
+    "meetingLinks": [],
+    "error": "page.goto: net::ERR_CERT_COMMON_NAME_INVALID at https://www.newboard.com.tw/\nCall log:\n  - navigating to \"https://www.newboard.com.tw/\", waiting until \"domcontentloaded\"\n"
+  },
+  {
+    "url": "https://www.435artzone.ntpc.gov.tw",
+    "venues": [
+      {
+        "id": 1221,
+        "name": "板橋435藝文特區"
+      }
+    ],
+    "status": "錯誤",
+    "issues": [
+      "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.435artzone.ntpc.gov.tw/\nCall log:\n  - navigating to \"https://www.435artzone.ntpc.gov.tw/\", waiting until \"domcontentloaded\"\n"
+    ],
+    "title": null,
+    "meetingLinks": [],
+    "error": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.435artzone.ntpc.gov.tw/\nCall log:\n  - navigating to \"https://www.435artzone.ntpc.gov.tw/\", waiting until \"domcontentloaded\"\n"
+  },
+  {
+    "url": "https://www.caesarpark.com.tw/banqiao",
+    "venues": [
+      {
+        "id": 1222,
+        "name": "板橋凱撒大飯店(CaesarParkBanqiao)"
+      }
+    ],
+    "status": "有問題",
+    "issues": [
+      "官網標題不匹配",
+      "找不到會議室頁面"
+    ],
+    "title": "404 找不到網頁了！ - 凱撒飯店連鎖",
+    "meetingLinks": []
+  },
+  {
+    "url": "https://www.fullon-hotels.com.tw/linkou",
+    "venues": [
+      {
+        "id": 1223,
+        "name": "林口福容婚宴會館"
+      }
+    ],
+    "status": "有問題",
+    "issues": [
+      "官網標題不匹配",
+      "找不到會議室頁面"
+    ],
+    "title": "404 找不到網頁了！ - 福容大飯店官方網站 FULLON HOTELS",
+    "meetingLinks": []
+  },
+  {
+    "url": "https://www.tshs.ntpc.gov.tw",
+    "venues": [
+      {
+        "id": 1225,
+        "name": "淡水紅毛城古蹟園區"
+      }
+    ],
+    "status": "有問題",
+    "issues": [
+      "官網標題不匹配"
+    ],
+    "title": "首頁 | 新北市立淡水古蹟博物館",
+    "meetingLinks": [
+      {
+        "text": "場地申請",
+        "href": "https://www.tshs.ntpc.gov.tw/xmdoc?xsmsid=0L265508552775247597"
+      },
+      {
+        "text": "活動公告",
+        "href": "https://www.tshs.ntpc.gov.tw/xceventsnews?xsmsid=0G252620780150430418"
+      },
+      {
+        "text": "展覽與活動",
+        "href": "https://www.tshs.ntpc.gov.tw/xmdoc?xsmsid=0L279340990217665891"
+      },
+      {
+        "text": "促銷活動",
+        "href": "https://www.tshs.ntpc.gov.tw/xmdoc?xsmsid=0G245662350585033554"
+      },
+      {
+        "text": "活動回顧",
+        "href": "https://www.tshs.ntpc.gov.tw/xmdoc?xsmsid=0G245661262133216079"
+      }
+    ]
+  },
+  {
+    "url": "https://www.fortune-hotel.com.tw/danshui/",
+    "venues": [
+      {
+        "id": 1226,
+        "name": "福容大飯店(Fullon)-淡水漁人碼頭"
+      },
+      {
+        "id": 1227,
+        "name": "福容大飯店(Fullon)淡水漁人碼頭"
+      }
+    ],
+    "status": "有問題",
+    "issues": [
+      "官網標題不匹配",
+      "找不到會議室頁面"
+    ],
+    "title": "404 Not Found",
+    "meetingLinks": []
+  },
+  {
+    "url": "https://www.nctu.edu.tw",
+    "venues": [
+      {
+        "id": 1228,
+        "name": "交通大學國際會議廳"
+      }
+    ],
+    "status": "錯誤",
+    "issues": [
+      "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.nctu.edu.tw/\nCall log:\n  - navigating to \"https://www.nctu.edu.tw/\", waiting until \"domcontentloaded\"\n"
+    ],
+    "title": null,
+    "meetingLinks": [],
+    "error": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.nctu.edu.tw/\nCall log:\n  - navigating to \"https://www.nctu.edu.tw/\", waiting until \"domcontentloaded\"\n"
+  },
+  {
+    "url": "https://www.sheraton.com/hsinchu",
+    "venues": [
+      {
+        "id": 1229,
+        "name": "新竹喜來登大飯店"
+      },
+      {
+        "id": 1230,
+        "name": "新竹喜來登大飯店"
+      },
+      {
+        "id": 1240,
+        "name": "新竹喜來登飯店"
+      }
+    ],
+    "status": "有問題",
+    "issues": [
+      "官網標題不匹配"
+    ],
+    "title": "International Hotels & Resorts | Sheraton Hotels & Resorts",
+    "meetingLinks": [
+      {
+        "text": "Meetings & Events",
+        "href": "https://sheraton.marriott.com/experience/meetings-and-events/"
+      },
+      {
+        "text": "Visit Hotel\n            \n        \n            New ",
+        "href": "https://www.marriott.com/en-us/hotels/amssi-sheraton-amsterdam-airport-hotel-and-conference-center/overview/"
+      },
+      {
+        "text": "LEARN MORE",
+        "href": "https://sheraton.marriott.com/experience/meetings-and-events/"
+      },
+      {
+        "text": "Meetings",
+        "href": "https://www.marriott.com/meeting-event-hotels/meeting-planning.mi"
+      }
+    ]
+  },
+  {
+    "url": "https://www.ambassadorhotel.com.tw/hsinchu",
+    "venues": [
+      {
+        "id": 1231,
+        "name": "新竹國賓大飯店"
+      },
+      {
+        "id": 1232,
+        "name": "新竹國賓大飯店"
+      }
+    ],
+    "status": "錯誤",
+    "issues": [
+      "page.goto: Timeout 20000ms exceeded.\nCall log:\n  - navigating to \"https://www.ambassadorhotel.com.tw/hsinchu\", waiting until \"domcontentloaded\"\n"
+    ],
+    "title": null,
+    "meetingLinks": [],
+    "error": "page.goto: Timeout 20000ms exceeded.\nCall log:\n  - navigating to \"https://www.ambassadorhotel.com.tw/hsinchu\", waiting until \"domcontentloaded\"\n"
+  },
+  {
+    "url": "https://www.hccb.gov.tw",
+    "venues": [
+      {
+        "id": 1233,
+        "name": "新竹市文化局"
+      }
+    ],
+    "status": "錯誤",
+    "issues": [
+      "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.hccb.gov.tw/\nCall log:\n  - navigating to \"https://www.hccb.gov.tw/\", waiting until \"domcontentloaded\"\n"
+    ],
+    "title": null,
+    "meetingLinks": [],
+    "error": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.hccb.gov.tw/\nCall log:\n  - navigating to \"https://www.hccb.gov.tw/\", waiting until \"domcontentloaded\"\n"
+  },
+  {
+    "url": "https://www.hca.gov.tw",
+    "venues": [
+      {
+        "id": 1234,
+        "name": "新竹市立演藝廳"
+      }
+    ],
+    "status": "有問題",
+    "issues": [
+      "官網標題不匹配",
+      "找不到會議室頁面"
+    ],
+    "title": "恆春機場",
+    "meetingLinks": []
+  },
+  {
+    "url": "https://www.lakeshore.com.tw/hsinchu",
+    "venues": [
+      {
+        "id": 1235,
+        "name": "新竹煙波大飯店"
+      },
+      {
+        "id": 1239,
+        "name": "煙波大飯店新竹湖濱館"
+      }
+    ],
+    "status": "有問題",
+    "issues": [
+      "官網標題不匹配",
+      "找不到會議室頁面"
+    ],
+    "title": "新竹湖濱館 - Lakeshore Groupsite",
+    "meetingLinks": []
+  },
+  {
+    "url": "https://www.hcglass.org",
+    "venues": [
+      {
+        "id": 1236,
+        "name": "新竹玻璃工藝博物館"
+      }
+    ],
+    "status": "錯誤",
+    "issues": [
+      "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.hcglass.org/\nCall log:\n  - navigating to \"https://www.hcglass.org/\", waiting until \"domcontentloaded\"\n"
+    ],
+    "title": null,
+    "meetingLinks": [],
+    "error": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.hcglass.org/\nCall log:\n  - navigating to \"https://www.hcglass.org/\", waiting until \"domcontentloaded\"\n"
+  },
+  {
+    "url": "https://www.hclife.org.tw",
+    "venues": [
+      {
+        "id": 1237,
+        "name": "新竹生活美學館"
+      }
+    ],
+    "status": "錯誤",
+    "issues": [
+      "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.hclife.org.tw/\nCall log:\n  - navigating to \"https://www.hclife.org.tw/\", waiting until \"domcontentloaded\"\n"
+    ],
+    "title": null,
+    "meetingLinks": [],
+    "error": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.hclife.org.tw/\nCall log:\n  - navigating to \"https://www.hclife.org.tw/\", waiting until \"domcontentloaded\"\n"
+  },
+  {
+    "url": "https://www.nthu.edu.tw",
+    "venues": [
+      {
+        "id": 1238,
+        "name": "清華大學(NTHU)國際會議廳"
+      }
+    ],
+    "status": "OK",
+    "issues": [],
+    "title": "國立清華大學",
+    "meetingLinks": [
+      {
+        "text": "清華合勤演藝廳重啟　中秋詠月系列音樂會登場",
+        "href": "https://www.nthu.edu.tw/mediaReport/content/1858"
+      },
+      {
+        "text": "114(下)通識主題座談會「人文社會與AI的協作創新」\n                      ",
+        "href": "https://cge.site.nthu.edu.tw/p/406-1573-301503,r10094.php"
+      },
+      {
+        "text": "公告與活動",
+        "href": "https://bulletin.site.nthu.edu.tw/"
+      }
+    ]
+  },
+  {
+    "url": "https://www.hchc.edu.tw",
+    "venues": [
+      {
+        "id": 1241,
+        "name": "新竹縣體育場"
+      }
+    ],
+    "status": "錯誤",
+    "issues": [
+      "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.hchc.edu.tw/\nCall log:\n  - navigating to \"https://www.hchc.edu.tw/\", waiting until \"domcontentloaded\"\n"
+    ],
+    "title": null,
+    "meetingLinks": [],
+    "error": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.hchc.edu.tw/\nCall log:\n  - navigating to \"https://www.hchc.edu.tw/\", waiting until \"domcontentloaded\"\n"
+  },
+  {
+    "url": "https://www.sheraton.com/hsinchu-fengyi",
+    "venues": [
+      {
+        "id": 1242,
+        "name": "新竹豐邑喜來登大飯店"
+      }
+    ],
+    "status": "有問題",
+    "issues": [
+      "官網標題不匹配"
+    ],
+    "title": "International Hotels & Resorts | Sheraton Hotels & Resorts",
+    "meetingLinks": [
+      {
+        "text": "Meetings & Events",
+        "href": "https://sheraton.marriott.com/experience/meetings-and-events/"
+      },
+      {
+        "text": "Visit Hotel\n            \n        \n            New ",
+        "href": "https://www.marriott.com/en-us/hotels/amssi-sheraton-amsterdam-airport-hotel-and-conference-center/overview/"
+      },
+      {
+        "text": "LEARN MORE",
+        "href": "https://sheraton.marriott.com/experience/meetings-and-events/"
+      },
+      {
+        "text": "Meetings",
+        "href": "https://www.marriott.com/meeting-event-hotels/meeting-planning.mi"
+      }
+    ]
+  },
+  {
+    "url": "https://www.uni-resort.com.tw/mawudu",
+    "venues": [
+      {
+        "id": 1243,
+        "name": "統一渡假村(UniResort)-馬武督"
+      }
+    ],
+    "status": "OK",
+    "issues": [],
+    "title": "404 找不到網頁了！ - 統一渡假村-集團頁",
+    "meetingLinks": [
+      {
+        "text": "統一馬武督渡假會議中心",
+        "href": "https://ma.uni-resort.com.tw/"
+      },
+      {
+        "text": "一日遊",
+        "href": "https://www.uni-resort.com.tw/packages-detail/meeting-package/#%E5%9C%98%E9%AB%94%E4%B8%80%E6%97%A5%E9%81%8A"
+      },
+      {
+        "text": "一日遊",
+        "href": "https://www.uni-resort.com.tw/packages-detail/meeting-package/#%E5%9C%98%E9%AB%94%E4%B8%80%E6%97%A5%E9%81%8A"
+      },
+      {
+        "text": "統一馬武督渡假會議中心",
+        "href": "https://ma.uni-resort.com.tw/"
+      },
+      {
+        "text": "一日遊",
+        "href": "https://www.uni-resort.com.tw/packages-detail/meeting-package/#%E5%9C%98%E9%AB%94%E4%B8%80%E6%97%A5%E9%81%8A"
+      }
+    ]
+  },
+  {
+    "url": "https://www.mabu.com.tw",
+    "venues": [
+      {
+        "id": 1244,
+        "name": "麻布山林"
+      },
+      {
+        "id": 1245,
+        "name": "麻布山林"
+      }
+    ],
+    "status": "錯誤",
+    "issues": [
+      "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.mabu.com.tw/\nCall log:\n  - navigating to \"https://www.mabu.com.tw/\", waiting until \"domcontentloaded\"\n"
+    ],
+    "title": null,
+    "meetingLinks": [],
+    "error": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.mabu.com.tw/\nCall log:\n  - navigating to \"https://www.mabu.com.tw/\", waiting until \"domcontentloaded\"\n"
+  },
+  {
+    "url": "https://www.ncu.edu.tw",
+    "venues": [
+      {
+        "id": 1246,
+        "name": "中央大學文學院"
+      }
+    ],
+    "status": "有問題",
+    "issues": [
+      "官網標題不匹配"
+    ],
+    "title": "國立中央大學 - 國立中央大學",
+    "meetingLinks": [
+      {
+        "text": "餐廳與商店",
+        "href": "https://www.ncu.edu.tw/p/412-1000-116.php?Lang=zh-tw"
+      },
+      {
+        "text": "場地借用",
+        "href": "https://www.ncu.edu.tw/p/412-1000-113.php?Lang=zh-tw"
+      },
+      {
+        "text": "餐廳與商店",
+        "href": "https://www.ncu.edu.tw/p/412-1000-116.php?Lang=zh-tw"
+      },
+      {
+        "text": "場地借用",
+        "href": "https://www.ncu.edu.tw/p/412-1000-113.php?Lang=zh-tw"
+      },
+      {
+        "text": "「2026春季企業說明會及面試活動」正式開始啦！",
+        "href": "https://cis.ncu.edu.tw/iNCU/publicService/activityQuery/1451"
+      }
+    ]
+  },
+  {
+    "url": "https://www.theskyline.com.tw",
+    "venues": [
+      {
+        "id": 1247,
+        "name": "尊爵天際大飯店"
+      }
+    ],
+    "status": "錯誤",
+    "issues": [
+      "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.theskyline.com.tw/\nCall log:\n  - navigating to \"https://www.theskyline.com.tw/\", waiting until \"domcontentloaded\"\n"
+    ],
+    "title": null,
+    "meetingLinks": [],
+    "error": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.theskyline.com.tw/\nCall log:\n  - navigating to \"https://www.theskyline.com.tw/\", waiting until \"domcontentloaded\"\n"
+  },
+  {
+    "url": "https://www.zhongli-arts.com",
+    "venues": [
+      {
+        "id": 1248,
+        "name": "桃園中壢藝術館"
+      }
+    ],
+    "status": "錯誤",
+    "issues": [
+      "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.zhongli-arts.com/\nCall log:\n  - navigating to \"https://www.zhongli-arts.com/\", waiting until \"domcontentloaded\"\n"
+    ],
+    "title": null,
+    "meetingLinks": [],
+    "error": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.zhongli-arts.com/\nCall log:\n  - navigating to \"https://www.zhongli-arts.com/\", waiting until \"domcontentloaded\"\n"
+  },
+  {
+    "url": "https://www.ihg.com/holidayinn/taoyuan",
+    "venues": [
+      {
+        "id": 1249,
+        "name": "桃園假日酒店"
+      }
+    ],
+    "status": "有問題",
+    "issues": [
+      "官網標題不匹配",
+      "找不到會議室頁面"
+    ],
+    "title": "Access Denied",
+    "meetingLinks": []
+  }
+]

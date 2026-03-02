@@ -28,7 +28,10 @@
     "verified": true,
     "verifiedAt": "2026-02-27",
     "status": "上架",
-    "roomType": "會議中心"
+    "roomType": "會議中心",
+    "lastVerified": "2026-03-01T23:26:51.617Z",
+    "verifiedTitle": "九族文化村",
+    "meetingPageUrl": "https://www.nine.com.tw/page/about/index.aspx?kind=231"
   },
   {
     "id": 1002,
@@ -59,7 +62,9 @@
     "verified": true,
     "verifiedAt": "2026-02-27",
     "status": "上架",
-    "roomType": "宴會廳"
+    "roomType": "宴會廳",
+    "lastVerified": "2026-03-01T23:27:02.818Z",
+    "verifiedTitle": "涵碧楼酒店-The Lalu Hotels and Resorts"
   },
   {
     "id": 1003,
@@ -90,7 +95,9 @@
     "verified": true,
     "verifiedAt": "2026-02-27",
     "status": "上架",
-    "roomType": "宴會廳"
+    "roomType": "宴會廳",
+    "lastVerified": "2026-03-01T23:27:04.617Z",
+    "verificationError": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.yokai-hotel.com/\nCall log:\n  - navigating to \"https://www.yokai-hotel.com/\", waiting until \"domcontentloaded\"\n"
   },
   {
     "id": 1004,
@@ -121,7 +128,9 @@
     "verified": true,
     "verifiedAt": "2026-02-27",
     "status": "上架",
-    "roomType": "宴會廳"
+    "roomType": "宴會廳",
+    "lastVerified": "2026-03-01T23:27:06.311Z",
+    "verificationError": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.le-midi.com.tw/\nCall log:\n  - navigating to \"https://www.le-midi.com.tw/\", waiting until \"domcontentloaded\"\n"
   },
   {
     "id": 1005,
@@ -152,7 +161,10 @@
     "verified": true,
     "verifiedAt": "2026-02-27",
     "status": "上架",
-    "roomType": "體育館"
+    "roomType": "體育館",
+    "lastVerified": "2026-03-01T23:27:08.402Z",
+    "verifiedTitle": "國立臺東專科學校",
+    "meetingPageUrl": "https://www.ntc.edu.tw/#cmb_1_10"
   },
   {
     "id": 1006,
@@ -183,7 +195,9 @@
     "verified": true,
     "verifiedAt": "2026-02-27",
     "status": "上架",
-    "roomType": "宴會廳"
+    "roomType": "宴會廳",
+    "lastVerified": "2026-03-01T23:27:10.163Z",
+    "verificationError": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.zhonggang-hotel.com/\nCall log:\n  - navigating to \"https://www.zhonggang-hotel.com/\", waiting until \"domcontentloaded\"\n"
   },
   {
     "id": 1007,
@@ -214,7 +228,9 @@
     "verified": true,
     "verifiedAt": "2026-02-27",
     "status": "上架",
-    "roomType": "宴會廳"
+    "roomType": "宴會廳",
+    "lastVerified": "2026-03-01T23:27:11.924Z",
+    "verificationError": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.nationwide-hotel.com.tw/\nCall log:\n  - navigating to \"https://www.nationwide-hotel.com.tw/\", waiting until \"domcontentloaded\"\n"
   },
   {
     "id": 1008,
@@ -245,7 +261,9 @@
     "verified": true,
     "verifiedAt": "2026-02-27",
     "status": "上架",
-    "roomType": "宴會廳"
+    "roomType": "宴會廳",
+    "lastVerified": "2026-03-01T23:27:13.681Z",
+    "verificationError": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.nationwide-hotel.com/\nCall log:\n  - navigating to \"https://www.nationwide-hotel.com/\", waiting until \"domcontentloaded\"\n"
   },
   {
     "id": 1009,
@@ -298,7 +316,10 @@
     "verified": true,
     "verifiedAt": "2026-02-27",
     "status": "上架",
-    "roomType": "劇院"
+    "roomType": "劇院",
+    "lastVerified": "2026-03-01T23:27:22.251Z",
+    "verifiedTitle": "首頁 │ 臺中國家歌劇院 National Taichung Theater",
+    "meetingPageUrl": "https://www.npac-ntt.org/program/events"
   },
   {
     "id": 1010,
@@ -329,7 +350,9 @@
     "verified": true,
     "verifiedAt": "2026-02-27",
     "status": "上架",
-    "roomType": "展覽館"
+    "roomType": "展覽館",
+    "lastVerified": "2026-03-01T23:27:24.716Z",
+    "verificationError": "page.goto: net::ERR_CERT_COMMON_NAME_INVALID at https://www.wtc.taichung.com/\nCall log:\n  - navigating to \"https://www.wtc.taichung.com/\", waiting until \"domcontentloaded\"\n"
   },
   {
     "id": 1011,
@@ -360,7 +383,10 @@
     "verified": true,
     "verifiedAt": "2026-02-27",
     "status": "上架",
-    "roomType": "體育館"
+    "roomType": "體育館",
+    "lastVerified": "2026-03-01T23:27:29.940Z",
+    "verifiedTitle": "臺中市政府全球資訊網",
+    "meetingPageUrl": "https://www.taichung.gov.tw/12026/calendarList"
   },
   {
     "id": 1012,
@@ -391,7 +417,9 @@
     "verified": true,
     "verifiedAt": "2026-02-27",
     "status": "上架",
-    "roomType": "劇院"
+    "roomType": "劇院",
+    "lastVerified": "2026-03-01T23:27:31.615Z",
+    "verificationError": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.yuanman.gov.tw/\nCall log:\n  - navigating to \"https://www.yuanman.gov.tw/\", waiting until \"domcontentloaded\"\n"
   },
   {
     "id": 1013,
@@ -422,7 +450,9 @@
     "verified": true,
     "verifiedAt": "2026-02-27",
     "status": "上架",
-    "roomType": "宴會廳"
+    "roomType": "宴會廳",
+    "lastVerified": "2026-03-01T23:27:35.526Z",
+    "verifiedTitle": "Attention Required! | Cloudflare"
   },
   {
     "id": 1014,
@@ -453,7 +483,9 @@
     "verified": true,
     "verifiedAt": "2026-02-27",
     "status": "上架",
-    "roomType": "宴會廳"
+    "roomType": "宴會廳",
+    "lastVerified": "2026-03-01T23:27:37.264Z",
+    "verificationError": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.nikkotaichung.com/\nCall log:\n  - navigating to \"https://www.nikkotaichung.com/\", waiting until \"domcontentloaded\"\n"
   },
   {
     "id": 1015,
@@ -484,7 +516,9 @@
     "verified": true,
     "verifiedAt": "2026-02-27",
     "status": "上架",
-    "roomType": "宴會廳"
+    "roomType": "宴會廳",
+    "lastVerified": "2026-03-01T23:27:37.264Z",
+    "verificationError": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.nikkotaichung.com/\nCall log:\n  - navigating to \"https://www.nikkotaichung.com/\", waiting until \"domcontentloaded\"\n"
   },
   {
     "id": 1016,
@@ -515,7 +549,9 @@
     "verified": true,
     "verifiedAt": "2026-02-27",
     "status": "上架",
-    "roomType": "宴會廳"
+    "roomType": "宴會廳",
+    "lastVerified": "2026-03-01T23:27:38.945Z",
+    "verificationError": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.linhotel.com.tw/\nCall log:\n  - navigating to \"https://www.linhotel.com.tw/\", waiting until \"domcontentloaded\"\n"
   },
   {
     "id": 1017,
@@ -546,7 +582,10 @@
     "verified": true,
     "verifiedAt": "2026-02-27",
     "status": "上架",
-    "roomType": "宴會廳"
+    "roomType": "宴會廳",
+    "lastVerified": "2026-03-01T23:27:43.184Z",
+    "verifiedTitle": "永豐棧酒店",
+    "meetingPageUrl": "https://tempus.com.tw/event"
   },
   {
     "id": 1018,
@@ -577,7 +616,9 @@
     "verified": true,
     "verifiedAt": "2026-02-27",
     "status": "上架",
-    "roomType": "演藝廳"
+    "roomType": "演藝廳",
+    "lastVerified": "2026-03-01T23:27:55.684Z",
+    "verificationError": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.tcsac.gov.tw/\nCall log:\n  - navigating to \"https://www.tcsac.gov.tw/\", waiting until \"domcontentloaded\"\n"
   },
   {
     "id": 1019,
@@ -608,7 +649,9 @@
     "verified": true,
     "verifiedAt": "2026-02-27",
     "status": "上架",
-    "roomType": "宴會廳"
+    "roomType": "宴會廳",
+    "lastVerified": "2026-03-01T23:27:59.587Z",
+    "verifiedTitle": "Server error"
   },
   {
     "id": 1020,
@@ -639,7 +682,10 @@
     "verified": true,
     "verifiedAt": "2026-02-27",
     "status": "上架",
-    "roomType": "宴會廳"
+    "roomType": "宴會廳",
+    "lastVerified": "2026-03-01T23:28:07.592Z",
+    "verifiedTitle": "Windsor Hotel Taichung",
+    "meetingPageUrl": "https://www.windsortaiwan.com/tw/place"
   },
   {
     "id": 1021,
@@ -670,7 +716,9 @@
     "verified": true,
     "verifiedAt": "2026-02-27",
     "status": "上架",
-    "roomType": "會議中心"
+    "roomType": "會議中心",
+    "lastVerified": "2026-03-01T23:28:09.488Z",
+    "verificationError": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.eslite-480.com/\nCall log:\n  - navigating to \"https://www.eslite-480.com/\", waiting until \"domcontentloaded\"\n"
   },
   {
     "id": 1022,
@@ -701,7 +749,9 @@
     "verified": true,
     "verifiedAt": "2026-02-27",
     "status": "上架",
-    "roomType": "宴會廳"
+    "roomType": "宴會廳",
+    "lastVerified": "2026-03-01T23:28:08.737Z",
+    "verificationError": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.tunghao.com.tw/\nCall log:\n  - navigating to \"https://www.tunghao.com.tw/\", waiting until \"domcontentloaded\"\n"
   },
   {
     "id": 1023,
@@ -732,7 +782,9 @@
     "verified": true,
     "verifiedAt": "2026-02-27",
     "status": "上架",
-    "roomType": "婚宴會館"
+    "roomType": "婚宴會館",
+    "lastVerified": "2026-03-01T23:28:10.655Z",
+    "verificationError": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.splendor-wedding.com/\nCall log:\n  - navigating to \"https://www.splendor-wedding.com/\", waiting until \"domcontentloaded\"\n"
   },
   {
     "id": 1024,
@@ -763,7 +815,9 @@
     "verified": true,
     "verifiedAt": "2026-02-27",
     "status": "上架",
-    "roomType": "宴會廳"
+    "roomType": "宴會廳",
+    "lastVerified": "2026-03-01T23:28:12.448Z",
+    "verificationError": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.splendor-hotel.com/\nCall log:\n  - navigating to \"https://www.splendor-hotel.com/\", waiting until \"domcontentloaded\"\n"
   },
   {
     "id": 1025,
@@ -794,7 +848,9 @@
     "verified": true,
     "verifiedAt": "2026-02-27",
     "status": "上架",
-    "roomType": "宴會廳"
+    "roomType": "宴會廳",
+    "lastVerified": "2026-03-01T23:28:17.212Z",
+    "verifiedTitle": "EVERGREEN HOTELS"
   },
   {
     "id": 1026,
@@ -825,7 +881,9 @@
     "verified": true,
     "verifiedAt": "2026-02-27",
     "status": "上架",
-    "roomType": "宴會廳"
+    "roomType": "宴會廳",
+    "lastVerified": "2026-03-01T23:28:19.254Z",
+    "verificationError": "page.goto: net::ERR_CONNECTION_RESET at https://www.kirin-hotel.com/\nCall log:\n  - navigating to \"https://www.kirin-hotel.com/\", waiting until \"domcontentloaded\"\n"
   },
   {
     "id": 1027,
@@ -856,7 +914,9 @@
     "verified": true,
     "verifiedAt": "2026-02-27",
     "status": "上架",
-    "roomType": "會議中心"
+    "roomType": "會議中心",
+    "lastVerified": "2026-03-01T23:28:23.441Z",
+    "verifiedTitle": "THU Error Page"
   },
   {
     "name": "林酒店",
@@ -878,7 +938,9 @@
       "needsUpdate": true,
       "note": "待補充真實照片網址",
       "lastUpdated": "2026-03-01"
-    }
+    },
+    "lastVerified": "2026-03-01T23:27:38.945Z",
+    "verificationError": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.linhotel.com.tw/\nCall log:\n  - navigating to \"https://www.linhotel.com.tw/\", waiting until \"domcontentloaded\"\n"
   },
   {
     "id": 1029,
@@ -915,7 +977,9 @@
     "createdAt": "2026-02-26T00:00:00.000Z",
     "status": "上架",
     "roomType": "會議室",
-    "url": "https://www.guguan-resort.com.tw"
+    "url": "https://www.guguan-resort.com.tw",
+    "lastVerified": "2026-03-01T23:28:25.120Z",
+    "verificationError": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.guguan-resort.com.tw/\nCall log:\n  - navigating to \"https://www.guguan-resort.com.tw/\", waiting until \"domcontentloaded\"\n"
   },
   {
     "id": 1030,
@@ -946,7 +1010,10 @@
     "verified": true,
     "verifiedAt": "2026-02-27",
     "status": "上架",
-    "roomType": "會議中心"
+    "roomType": "會議中心",
+    "lastVerified": "2026-03-01T23:28:34.876Z",
+    "verifiedTitle": "逢甲大學",
+    "meetingPageUrl": "https://www.fcu.edu.tw/release/"
   },
   {
     "id": 1031,
@@ -983,7 +1050,10 @@
     "missingFields": [
       "照片"
     ],
-    "lastUpdated": "2026-03-01T23:07:15.057Z"
+    "lastUpdated": "2026-03-01T23:07:15.057Z",
+    "lastVerified": "2026-03-01T23:28:39.227Z",
+    "verifiedTitle": "cama 現烘咖啡專門店",
+    "meetingPageUrl": "https://www.camacafe.com/New/1"
   },
   {
     "id": 1032,
@@ -1016,7 +1086,10 @@
     "verified": true,
     "verifiedAt": "2026-02-27",
     "status": "上架",
-    "roomType": "會議室"
+    "roomType": "會議室",
+    "lastVerified": "2026-03-01T23:28:46.930Z",
+    "verifiedTitle": "CLBC 共同工作空間與複合式展演活動空間 - CLBC",
+    "meetingPageUrl": "https://clbc.tw/clbc%E6%B4%BB%E5%8B%95%E5%A0%B4%E5%9C%B0%E7%A9%BA%E9%96%93%E7%A7%9F%E5%80%9F/"
   },
   {
     "id": 1033,
@@ -1053,7 +1126,9 @@
     "missingFields": [
       "照片"
     ],
-    "lastUpdated": "2026-03-01T23:07:15.058Z"
+    "lastUpdated": "2026-03-01T23:07:15.058Z",
+    "lastVerified": "2026-03-01T23:28:48.828Z",
+    "verificationError": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.goodmanscoffee.com/\nCall log:\n  - navigating to \"https://www.goodmanscoffee.com/\", waiting until \"domcontentloaded\"\n"
   },
   {
     "id": 1034,
@@ -1110,7 +1185,10 @@
     "verified": true,
     "verifiedAt": "2026-02-27",
     "status": "上架",
-    "roomType": "展演空間"
+    "roomType": "展演空間",
+    "lastVerified": "2026-03-01T23:28:53.840Z",
+    "verifiedTitle": "展演空間 | 藝文演出 | 場地出租 | 記者會場地 | Nuzone | 台北市",
+    "meetingPageUrl": "https://www.flickr.com/photos/157822996@N08/albums"
   },
   {
     "id": 1035,
@@ -1183,7 +1261,9 @@
     "verified": true,
     "verifiedAt": "2026-02-27",
     "status": "上架",
-    "roomType": "咖啡廳包場"
+    "roomType": "咖啡廳包場",
+    "lastVerified": "2026-03-01T23:29:00.071Z",
+    "verifiedTitle": "興波咖啡 Simple Kaffa | 喝杯世界級的咖啡"
   },
   {
     "id": 1037,
@@ -1241,7 +1321,9 @@
     "missingFields": [
       "照片"
     ],
-    "lastUpdated": "2026-03-01T23:07:15.058Z"
+    "lastUpdated": "2026-03-01T23:07:15.058Z",
+    "lastVerified": "2026-03-01T23:29:01.771Z",
+    "verificationError": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.tccc.com.tw/\nCall log:\n  - navigating to \"https://www.tccc.com.tw/\", waiting until \"domcontentloaded\"\n"
   },
   {
     "id": 1038,
@@ -1443,7 +1525,10 @@
     "verifiedAt": "2026-02-27",
     "status": "上架",
     "roomType": "會議中心",
-    "notes": ""
+    "notes": "",
+    "lastVerified": "2026-03-01T23:29:06.666Z",
+    "verifiedTitle": "中文網-行政院人事行政總處公務人力發展學院",
+    "meetingPageUrl": "https://www.hrd.gov.tw/1123/2127/?q=%E5%A0%B4%E5%9C%B0%E6%9F%A5%E8%A9%A2"
   },
   {
     "id": 1043,
@@ -1514,7 +1599,9 @@
     "missingFields": [
       "照片"
     ],
-    "lastUpdated": "2026-03-01T23:07:15.062Z"
+    "lastUpdated": "2026-03-01T23:07:15.062Z",
+    "lastVerified": "2026-03-01T23:29:08.357Z",
+    "verificationError": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://cafe.artco.com.tw/\nCall log:\n  - navigating to \"https://cafe.artco.com.tw/\", waiting until \"domcontentloaded\"\n"
   },
   {
     "id": 1045,
@@ -1623,7 +1710,9 @@
     "missingFields": [
       "照片"
     ],
-    "lastUpdated": "2026-03-01T23:07:15.063Z"
+    "lastUpdated": "2026-03-01T23:07:15.063Z",
+    "lastVerified": "2026-03-01T23:29:10.203Z",
+    "verifiedTitle": "Access Denied"
   },
   {
     "id": 1048,
@@ -1768,7 +1857,10 @@
     "verifiedAt": "2026-02-27",
     "status": "上架",
     "roomType": "宴會廳",
-    "notes": ""
+    "notes": "",
+    "lastVerified": "2026-03-01T23:29:16.398Z",
+    "verifiedTitle": "Live Music | Live Theater | The Landis | Vineland, New Jersey",
+    "meetingPageUrl": "https://www.thelandistheater.com/shows-events-1"
   },
   {
     "id": 1052,
@@ -1844,7 +1936,10 @@
     "verifiedAt": "2026-02-27",
     "status": "上架",
     "roomType": "宴會廳",
-    "notes": "僅提供婚宴服務，無會議室"
+    "notes": "僅提供婚宴服務，無會議室",
+    "lastVerified": "2026-03-01T23:29:28.178Z",
+    "verifiedTitle": "婚宴專案 | 兄弟大飯店 - Brother Hotel",
+    "meetingPageUrl": "https://www.brotherhotel.com.tw/?cat=76"
   },
   {
     "id": 1054,
@@ -1917,7 +2012,10 @@
     "verifiedAt": "2026-02-27",
     "status": "上架",
     "roomType": "宴會廳",
-    "notes": ""
+    "notes": "",
+    "lastVerified": "2026-03-01T23:29:34.018Z",
+    "verifiedTitle": "六福旅遊集團",
+    "meetingPageUrl": "https://www.leofoo.com.tw/business/index/5"
   },
   {
     "id": 1056,
@@ -1994,7 +2092,10 @@
     "missingFields": [
       "照片"
     ],
-    "lastUpdated": "2026-03-01T23:07:15.058Z"
+    "lastUpdated": "2026-03-01T23:07:15.058Z",
+    "lastVerified": "2026-03-01T23:29:38.976Z",
+    "verifiedTitle": "典華幸福機構｜婚宴場地｜會議、活動空間租借｜台北及新北品牌",
+    "meetingPageUrl": "https://www.denwell.com/#"
   },
   {
     "id": 1058,
@@ -2031,7 +2132,10 @@
       "會議室名稱（具體）",
       "照片"
     ],
-    "lastUpdated": "2026-03-01T23:07:15.058Z"
+    "lastUpdated": "2026-03-01T23:07:15.058Z",
+    "lastVerified": "2026-03-01T23:29:44.020Z",
+    "verifiedTitle": "捷運北投會館",
+    "meetingPageUrl": "https://btresort.metro.taipei/Content_List.aspx?n=AC6664006DEBC90D"
   },
   {
     "id": 1059,
@@ -2103,7 +2207,9 @@
     "verified": true,
     "verifiedAt": "2026-02-27",
     "status": "上架",
-    "roomType": "宴會廳"
+    "roomType": "宴會廳",
+    "lastVerified": "2026-03-01T23:29:49.151Z",
+    "verifiedTitle": "palaisdechine.com"
   },
   {
     "id": 1061,
@@ -2156,7 +2262,9 @@
     "verifiedAt": "2026-02-27",
     "verified": true,
     "status": "上架",
-    "roomType": "宴會廳"
+    "roomType": "宴會廳",
+    "lastVerified": "2026-03-01T23:29:54.259Z",
+    "verifiedTitle": "Hyatt Hotels and Resorts"
   },
   {
     "id": 1062,
@@ -2312,7 +2420,9 @@
       "會議室名稱（具體）",
       "照片"
     ],
-    "lastUpdated": "2026-03-01T23:07:15.063Z"
+    "lastUpdated": "2026-03-01T23:07:15.063Z",
+    "lastVerified": "2026-03-01T23:30:13.486Z",
+    "verificationError": "page.goto: Timeout 20000ms exceeded.\nCall log:\n  - navigating to \"https://www.victoriam.com/\", waiting until \"domcontentloaded\"\n"
   },
   {
     "id": 1066,
@@ -2349,7 +2459,9 @@
       "會議室名稱（具體）",
       "照片"
     ],
-    "lastUpdated": "2026-03-01T23:07:15.058Z"
+    "lastUpdated": "2026-03-01T23:07:15.058Z",
+    "lastVerified": "2026-03-01T23:30:15.306Z",
+    "verificationError": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.tbc-group.com/\nCall log:\n  - navigating to \"https://www.tbc-group.com/\", waiting until \"domcontentloaded\"\n"
   },
   {
     "id": 1067,
@@ -2384,7 +2496,10 @@
     "verified": true,
     "verifiedAt": "2026-02-27",
     "status": "上架",
-    "roomType": "宴會廳"
+    "roomType": "宴會廳",
+    "lastVerified": "2026-03-01T23:30:24.463Z",
+    "verifiedTitle": "台北喜來登大飯店 Sheraton Grand Taipei Hotel",
+    "meetingPageUrl": "https://www.sheratongrandtaipei.com/websev?lang=zh-tw&ref=pages&cat=2&id=16"
   },
   {
     "id": 1068,
@@ -2420,7 +2535,9 @@
     "missingFields": [
       "照片"
     ],
-    "lastUpdated": "2026-03-01T23:07:15.058Z"
+    "lastUpdated": "2026-03-01T23:07:15.058Z",
+    "lastVerified": "2026-03-01T23:30:43.660Z",
+    "verificationError": "page.goto: Timeout 20000ms exceeded.\nCall log:\n  - navigating to \"https://www.ambiencehotel.com.tw/\", waiting until \"domcontentloaded\"\n"
   },
   {
     "id": 1069,
@@ -2453,7 +2570,9 @@
     "verifiedAt": "2026-02-27",
     "status": "上架",
     "roomType": "宴會廳",
-    "lastUpdated": "2026-03-01T23:07:15.063Z"
+    "lastUpdated": "2026-03-01T23:07:15.063Z",
+    "lastVerified": "2026-03-01T23:31:05.258Z",
+    "verificationError": "page.goto: Timeout 20000ms exceeded.\nCall log:\n  - navigating to \"https://www.ambassadorhotel.com.tw/taipei\", waiting until \"domcontentloaded\"\n"
   },
   {
     "id": 1072,
@@ -2489,7 +2608,10 @@
     "verified": true,
     "verifiedAt": "2026-02-27",
     "status": "上架",
-    "roomType": "宴會廳"
+    "roomType": "宴會廳",
+    "lastVerified": "2026-03-01T23:31:09.674Z",
+    "verifiedTitle": "圓山大飯店",
+    "meetingPageUrl": "https://www.grand-hotel.org/TW/index.aspx#"
   },
   {
     "id": 1073,
@@ -2566,7 +2688,10 @@
     "createdAt": "2026-02-26T00:00:00.000Z",
     "status": "上架",
     "roomType": "宴會廳",
-    "url": "https://www.westin.com/taipei"
+    "url": "https://www.westin.com/taipei",
+    "lastVerified": "2026-03-01T23:31:15.675Z",
+    "verifiedTitle": "Premium Luxury Wellness Hotels | Westin Hotels & Resorts",
+    "meetingPageUrl": "https://www.marriott.com/en-us/meeting-event-hotels/group-reservations/westin.mi"
   },
   {
     "name": "台北寒舍喜來登大飯店",
@@ -2624,7 +2749,10 @@
     "verified": true,
     "verifiedAt": "2026-02-27",
     "status": "上架",
-    "roomType": "宴會廳"
+    "roomType": "宴會廳",
+    "lastVerified": "2026-03-01T23:31:22.066Z",
+    "verifiedTitle": "台北寒舍艾美酒店 - Le Méridien Taipei",
+    "meetingPageUrl": "https://www.lemeridien-taipei.com/websev?lang=zh-tw&ref=pages&cat=43&type=0"
   },
   {
     "id": 1077,
@@ -2697,7 +2825,9 @@
     "verified": true,
     "verifiedAt": "2026-02-27",
     "status": "上架",
-    "roomType": "宴會廳"
+    "roomType": "宴會廳",
+    "lastVerified": "2026-03-01T23:31:27.440Z",
+    "verifiedTitle": "www.humblehouse.com - Coming Soon"
   },
   {
     "id": 1079,
@@ -2879,7 +3009,9 @@
     "verified": true,
     "verifiedAt": "2026-02-27",
     "status": "上架",
-    "roomType": "宴會廳"
+    "roomType": "宴會廳",
+    "lastVerified": "2026-03-01T23:31:36.481Z",
+    "verifiedTitle": "citizenM - Modern Hotels in Iconic Cities Worldwide"
   },
   {
     "id": 1084,
@@ -2975,7 +3107,10 @@
     "verified": true,
     "verifiedAt": "2026-02-27",
     "status": "上架",
-    "roomType": "宴會廳"
+    "roomType": "宴會廳",
+    "lastVerified": "2026-03-01T23:31:42.712Z",
+    "verifiedTitle": "Luxury 5 Star Hotel | Songshan | Mandarin Oriental, Taipei",
+    "meetingPageUrl": "https://www.mandarinoriental.com/en/taipei/songshan/events"
   },
   {
     "id": 1086,
@@ -3028,7 +3163,9 @@
     "verified": true,
     "verifiedAt": "2026-02-27",
     "status": "上架",
-    "roomType": "宴會廳"
+    "roomType": "宴會廳",
+    "lastVerified": "2026-03-01T23:31:47.032Z",
+    "verifiedTitle": "Access Denied"
   },
   {
     "id": 1087,
@@ -3395,7 +3532,10 @@
     "verified": true,
     "verifiedAt": "2026-02-27",
     "status": "上架",
-    "roomType": "宴會廳"
+    "roomType": "宴會廳",
+    "lastVerified": "2026-03-01T23:31:52.206Z",
+    "verifiedTitle": "Grand Mayfull Hotel Taipei",
+    "meetingPageUrl": "https://www.tablecheck.com/en/grand-mayfull-hotel-taipei-palette-buffet/reserve/landing?require_venue=true"
   },
   {
     "id": 1097,
@@ -3427,7 +3567,9 @@
     "verifiedAt": "2026-02-27",
     "status": "上架",
     "roomType": "宴會廳",
-    "lastUpdated": "2026-03-01T23:07:15.060Z"
+    "lastUpdated": "2026-03-01T23:07:15.060Z",
+    "lastVerified": "2026-03-01T23:31:53.895Z",
+    "verificationError": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.royal-nikko-taipei.com.tw/\nCall log:\n  - navigating to \"https://www.royal-nikko-taipei.com.tw/\", waiting until \"domcontentloaded\"\n"
   },
   {
     "id": 1098,
@@ -3458,7 +3600,10 @@
     "verified": true,
     "verifiedAt": "2026-02-27",
     "status": "上架",
-    "roomType": "宴會廳"
+    "roomType": "宴會廳",
+    "lastVerified": "2026-03-01T23:32:00.239Z",
+    "verifiedTitle": "Modern Hotels | Le Méridien Hotels & Resorts",
+    "meetingPageUrl": "https://le-meridien.marriott.com/programmes/meetings-and-events/"
   },
   {
     "id": 1099,
@@ -3512,7 +3657,10 @@
     "verified": true,
     "verifiedAt": "2026-02-27",
     "status": "上架",
-    "roomType": "宴會廳"
+    "roomType": "宴會廳",
+    "lastVerified": "2026-03-01T23:32:00.239Z",
+    "verifiedTitle": "Modern Hotels | Le Méridien Hotels & Resorts",
+    "meetingPageUrl": "https://le-meridien.marriott.com/programmes/meetings-and-events/"
   },
   {
     "id": 1100,
@@ -3544,7 +3692,10 @@
     "verified": true,
     "verifiedAt": "2026-02-27",
     "status": "上架",
-    "roomType": "宴會廳"
+    "roomType": "宴會廳",
+    "lastVerified": "2026-03-01T23:32:06.417Z",
+    "verifiedTitle": "關於我們",
+    "meetingPageUrl": "https://www.taipeigarden.com.tw/news-events/"
   },
   {
     "id": 1101,
@@ -3653,7 +3804,10 @@
     "status": "上架",
     "roomType": "宴會廳",
     "url": "https://www.taipeimarriott.com.tw/",
-    "lastUpdated": "2026-03-01T23:07:15.060Z"
+    "lastUpdated": "2026-03-01T23:07:15.060Z",
+    "lastVerified": "2026-03-01T23:32:10.793Z",
+    "verifiedTitle": "Taipei Marriott Hotel 台北萬豪酒店",
+    "meetingPageUrl": "https://www.taipeimarriott.com.tw/websev?cat=page&id=74"
   },
   {
     "id": 1104,
@@ -3809,7 +3963,9 @@
       "教室式人數",
       "照片"
     ],
-    "lastUpdated": "2026-03-01T23:07:15.063Z"
+    "lastUpdated": "2026-03-01T23:07:15.063Z",
+    "lastVerified": "2026-03-01T23:32:12.490Z",
+    "verificationError": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.tms.gov.taipei/\nCall log:\n  - navigating to \"https://www.tms.gov.taipei/\", waiting until \"domcontentloaded\"\n"
   },
   {
     "id": 1108,
@@ -3846,7 +4002,9 @@
       "會議室名稱（具體）",
       "照片"
     ],
-    "lastUpdated": "2026-03-01T23:07:15.063Z"
+    "lastUpdated": "2026-03-01T23:07:15.063Z",
+    "lastVerified": "2026-03-01T23:32:14.154Z",
+    "verificationError": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.ntualumni.org.tw/\nCall log:\n  - navigating to \"https://www.ntualumni.org.tw/\", waiting until \"domcontentloaded\"\n"
   },
   {
     "id": 1109,
@@ -4064,7 +4222,10 @@
     "verified": true,
     "verifiedAt": "2026-02-27",
     "status": "上架",
-    "roomType": "婚宴會館"
+    "roomType": "婚宴會館",
+    "lastVerified": "2026-03-01T23:32:20.384Z",
+    "verifiedTitle": "彭園婚宴會館",
+    "meetingPageUrl": "https://www.pengyuan.com.tw/place"
   },
   {
     "id": 1117,
@@ -4292,7 +4453,10 @@
       "會議室名稱（具體）",
       "照片"
     ],
-    "lastUpdated": "2026-03-01T23:07:46.450Z"
+    "lastUpdated": "2026-03-01T23:07:46.450Z",
+    "lastVerified": "2026-03-01T23:32:26.310Z",
+    "verifiedTitle": "維多麗亞酒店 | 官方網站",
+    "meetingPageUrl": "https://grandvictoria.com.tw/%e9%a4%90%e9%a3%b2%e6%b4%bb%e5%8b%95/"
   },
   {
     "id": 1123,
@@ -4428,7 +4592,10 @@
     "verifiedAt": "2026-02-27",
     "verified": true,
     "status": "上架",
-    "roomType": "展覽館"
+    "roomType": "展覽館",
+    "lastVerified": "2026-03-01T23:32:42.320Z",
+    "verifiedTitle": "首頁 - 華山1914文化創意產業園區",
+    "meetingPageUrl": "https://www.huashan1914.com/w/huashan1914/exhibition"
   },
   {
     "id": 1126,
@@ -4470,7 +4637,10 @@
     "missingFields": [
       "會議室名稱（具體）"
     ],
-    "lastUpdated": "2026-03-01T23:07:46.486Z"
+    "lastUpdated": "2026-03-01T23:07:46.486Z",
+    "lastVerified": "2026-03-01T23:32:52.903Z",
+    "verifiedTitle": "豪景大酒店-本館",
+    "meetingPageUrl": "https://www.riverview.com.tw/%e6%9c%83%e8%ad%b0%e6%9c%8d%e5%8b%99/"
   },
   {
     "id": 1127,
@@ -4575,7 +4745,9 @@
     "verified": true,
     "verifiedAt": "2026-02-27",
     "status": "上架",
-    "roomType": "婚宴會館"
+    "roomType": "婚宴會館",
+    "lastVerified": "2026-03-01T23:32:58.663Z",
+    "verifiedTitle": "青手作皂"
   },
   {
     "id": 1130,
@@ -4607,7 +4779,10 @@
     "verified": true,
     "verifiedAt": "2026-02-27",
     "status": "上架",
-    "roomType": "宴會廳"
+    "roomType": "宴會廳",
+    "lastVerified": "2026-03-01T23:33:04.721Z",
+    "verifiedTitle": "Luxury 5 Star Hotel in Taipei | Shangri-La Far Eastern, Taipei",
+    "meetingPageUrl": "https://www.shangri-la.com/taipei/fareasternplazashangrila/meetings-events/"
   },
   {
     "id": 1131,
@@ -4638,7 +4813,9 @@
     "verified": true,
     "verifiedAt": "2026-02-27",
     "status": "上架",
-    "roomType": "宴會廳"
+    "roomType": "宴會廳",
+    "lastVerified": "2026-03-01T23:33:07.545Z",
+    "verificationError": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.cambridge-hotel.com/\nCall log:\n  - navigating to \"https://www.cambridge-hotel.com/\", waiting until \"domcontentloaded\"\n"
   },
   {
     "id": 1132,
@@ -4669,7 +4846,9 @@
     "verified": true,
     "verifiedAt": "2026-02-27",
     "status": "上架",
-    "roomType": "宴會廳"
+    "roomType": "宴會廳",
+    "lastVerified": "2026-03-01T23:33:08.001Z",
+    "verificationError": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.hotel-cozzi.com/tainan\nCall log:\n  - navigating to \"https://www.hotel-cozzi.com/tainan\", waiting until \"domcontentloaded\"\n"
   },
   {
     "id": 1133,
@@ -4700,7 +4879,9 @@
     "verified": true,
     "verifiedAt": "2026-02-27",
     "status": "上架",
-    "roomType": "宴會廳"
+    "roomType": "宴會廳",
+    "lastVerified": "2026-03-01T23:33:10.809Z",
+    "verificationError": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.tainan-landis.com/\nCall log:\n  - navigating to \"https://www.tainan-landis.com/\", waiting until \"domcontentloaded\"\n"
   },
   {
     "id": 1134,
@@ -4731,7 +4912,9 @@
     "verified": true,
     "verifiedAt": "2026-02-27",
     "status": "上架",
-    "roomType": "宴會廳"
+    "roomType": "宴會廳",
+    "lastVerified": "2026-03-01T23:33:23.020Z",
+    "verifiedTitle": "Skyline Hotel Hannover – Zentrales Stadthotel in der Messestadt Hannover / Niedersachsen"
   },
   {
     "id": 1135,
@@ -4762,7 +4945,9 @@
     "verified": true,
     "verifiedAt": "2026-02-27",
     "status": "上架",
-    "roomType": "宴會廳"
+    "roomType": "宴會廳",
+    "lastVerified": "2026-03-01T23:33:25.846Z",
+    "verificationError": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.prince-hotel.com/\nCall log:\n  - navigating to \"https://www.prince-hotel.com/\", waiting until \"domcontentloaded\"\n"
   },
   {
     "name": "台南奇美博物館",
@@ -4804,7 +4989,10 @@
       "needsUpdate": true,
       "note": "待補充真實照片網址",
       "lastUpdated": "2026-03-01"
-    }
+    },
+    "lastVerified": "2026-03-01T23:33:32.969Z",
+    "verifiedTitle": "奇美博物館｜CHIMEI MUSEUM",
+    "meetingPageUrl": "https://www.chimeimuseum.org/exhibition-event"
   },
   {
     "id": 1137,
@@ -4835,7 +5023,9 @@
     "verified": true,
     "verifiedAt": "2026-02-27",
     "status": "上架",
-    "roomType": "體育館"
+    "roomType": "體育館",
+    "lastVerified": "2026-03-01T23:33:52.248Z",
+    "verificationError": "page.goto: Timeout 20000ms exceeded.\nCall log:\n  - navigating to \"https://www.tnsc.gov.tw/\", waiting until \"domcontentloaded\"\n"
   },
   {
     "id": 1138,
@@ -4866,7 +5056,10 @@
     "verified": true,
     "verifiedAt": "2026-02-27",
     "status": "上架",
-    "roomType": "會議中心"
+    "roomType": "會議中心",
+    "lastVerified": "2026-03-01T23:33:57.255Z",
+    "verifiedTitle": "NCKU, 成功大學 National Cheng Kung University - NCKU, 國立成功大學 National Cheng Kung University",
+    "meetingPageUrl": "https://web.ncku.edu.tw/p/406-1000-293270,r3989.php?Lang=zh-tw"
   },
   {
     "id": 1139,
@@ -4897,7 +5090,9 @@
     "verified": true,
     "verifiedAt": "2026-02-27",
     "status": "上架",
-    "roomType": "宴會廳"
+    "roomType": "宴會廳",
+    "lastVerified": "2026-03-01T23:34:00.128Z",
+    "verificationError": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.gueidan.com/\nCall log:\n  - navigating to \"https://www.gueidan.com/\", waiting until \"domcontentloaded\"\n"
   },
   {
     "id": 1140,
@@ -4928,7 +5123,9 @@
     "verified": true,
     "verifiedAt": "2026-02-27",
     "status": "上架",
-    "roomType": "婚宴會館"
+    "roomType": "婚宴會館",
+    "lastVerified": "2026-03-01T23:34:01.804Z",
+    "verificationError": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.weiyue.com.tw/\nCall log:\n  - navigating to \"https://www.weiyue.com.tw/\", waiting until \"domcontentloaded\"\n"
   },
   {
     "id": 1141,
@@ -4959,7 +5156,9 @@
     "verified": true,
     "verifiedAt": "2026-02-27",
     "status": "上架",
-    "roomType": "宴會廳"
+    "roomType": "宴會廳",
+    "lastVerified": "2026-03-01T23:34:04.616Z",
+    "verificationError": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.weiyue-hotel.com/\nCall log:\n  - navigating to \"https://www.weiyue-hotel.com/\", waiting until \"domcontentloaded\"\n"
   },
   {
     "id": 1142,
@@ -4990,7 +5189,10 @@
     "verified": true,
     "verifiedAt": "2026-02-27",
     "status": "上架",
-    "roomType": "宴會廳"
+    "roomType": "宴會廳",
+    "lastVerified": "2026-03-01T23:34:10.830Z",
+    "verifiedTitle": "創造精彩難忘的故事｜老爺酒店集團",
+    "meetingPageUrl": "https://www.hotelroyal.com.tw/zh-tw/promotions/meeting"
   },
   {
     "id": 1143,
@@ -5021,7 +5223,10 @@
     "verified": true,
     "verifiedAt": "2026-02-27",
     "status": "上架",
-    "roomType": "宴會廳"
+    "roomType": "宴會廳",
+    "lastVerified": "2026-03-01T23:34:17.476Z",
+    "verifiedTitle": "Luxury Hotel in Tainan | Shangri-La Far Eastern, Tainan",
+    "meetingPageUrl": "https://www.shangri-la.com/tainan/fareasternplazashangrila/meetings-events/"
   },
   {
     "id": 1144,
@@ -5052,7 +5257,10 @@
     "verified": true,
     "verifiedAt": "2026-02-27",
     "status": "上架",
-    "roomType": "宴會廳"
+    "roomType": "宴會廳",
+    "lastVerified": "2026-03-01T23:34:17.476Z",
+    "verifiedTitle": "Luxury Hotel in Tainan | Shangri-La Far Eastern, Tainan",
+    "meetingPageUrl": "https://www.shangri-la.com/tainan/fareasternplazashangrila/meetings-events/"
   },
   {
     "id": 1145,
@@ -5083,7 +5291,10 @@
     "verified": true,
     "verifiedAt": "2026-02-27",
     "status": "上架",
-    "roomType": "宴會廳"
+    "roomType": "宴會廳",
+    "lastVerified": "2026-03-01T23:34:17.476Z",
+    "verifiedTitle": "Luxury Hotel in Tainan | Shangri-La Far Eastern, Tainan",
+    "meetingPageUrl": "https://www.shangri-la.com/tainan/fareasternplazashangrila/meetings-events/"
   },
   {
     "id": 1146,
@@ -5114,7 +5325,10 @@
     "verified": true,
     "verifiedAt": "2026-02-27",
     "status": "上架",
-    "roomType": "會議中心"
+    "roomType": "會議中心",
+    "lastVerified": "2026-03-01T23:34:22.520Z",
+    "verifiedTitle": "豐富、便利、便宜～給您最美好的旅遊經驗！ :: 大億國際旅行社",
+    "meetingPageUrl": "https://www.tayih.com.tw/hot_catalog.asp"
   },
   {
     "name": "大億麗緻酒店",
@@ -5136,7 +5350,9 @@
       "needsUpdate": true,
       "note": "待補充真實照片網址",
       "lastUpdated": "2026-03-01"
-    }
+    },
+    "lastVerified": "2026-03-01T23:34:24.245Z",
+    "verificationError": "page.goto: net::ERR_CERT_AUTHORITY_INVALID at https://www.tayihlandis.com.tw/\nCall log:\n  - navigating to \"https://www.tayihlandis.com.tw/\", waiting until \"domcontentloaded\"\n"
   },
   {
     "id": 1148,
@@ -5167,7 +5383,9 @@
     "verified": true,
     "verifiedAt": "2026-02-27",
     "status": "上架",
-    "roomType": "會議中心"
+    "roomType": "會議中心",
+    "lastVerified": "2026-03-01T23:34:25.956Z",
+    "verificationError": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.tntc.com.tw/\nCall log:\n  - navigating to \"https://www.tntc.com.tw/\", waiting until \"domcontentloaded\"\n"
   },
   {
     "id": 1149,
@@ -5198,7 +5416,10 @@
     "verified": true,
     "verifiedAt": "2026-02-27",
     "status": "上架",
-    "roomType": "會議中心"
+    "roomType": "會議中心",
+    "lastVerified": "2026-03-01T23:33:57.255Z",
+    "verifiedTitle": "NCKU, 成功大學 National Cheng Kung University - NCKU, 國立成功大學 National Cheng Kung University",
+    "meetingPageUrl": "https://web.ncku.edu.tw/p/406-1000-293270,r3989.php?Lang=zh-tw"
   },
   {
     "id": 1150,
@@ -5229,7 +5450,9 @@
     "verified": true,
     "verifiedAt": "2026-02-27",
     "status": "上架",
-    "roomType": "宴會廳"
+    "roomType": "宴會廳",
+    "lastVerified": "2026-03-01T23:34:28.837Z",
+    "verificationError": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.narubay.com/\nCall log:\n  - navigating to \"https://www.narubay.com/\", waiting until \"domcontentloaded\"\n"
   },
   {
     "id": 1151,
@@ -5260,7 +5483,9 @@
     "verified": true,
     "verifiedAt": "2026-02-27",
     "status": "上架",
-    "roomType": "宴會廳"
+    "roomType": "宴會廳",
+    "lastVerified": "2026-03-01T23:34:31.630Z",
+    "verificationError": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.zhibenroyal.com/\nCall log:\n  - navigating to \"https://www.zhibenroyal.com/\", waiting until \"domcontentloaded\"\n"
   },
   {
     "id": 1152,
@@ -5291,7 +5516,9 @@
     "verified": true,
     "verifiedAt": "2026-02-27",
     "status": "上架",
-    "roomType": "體育館"
+    "roomType": "體育館",
+    "lastVerified": "2026-03-01T23:34:37.089Z",
+    "verifiedTitle": "首頁"
   },
   {
     "id": 1153,
@@ -5322,7 +5549,9 @@
     "verified": true,
     "verifiedAt": "2026-02-27",
     "status": "上架",
-    "roomType": "宴會廳"
+    "roomType": "宴會廳",
+    "lastVerified": "2026-03-01T23:34:39.871Z",
+    "verificationError": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.fengtai-hotel.com/\nCall log:\n  - navigating to \"https://www.fengtai-hotel.com/\", waiting until \"domcontentloaded\"\n"
   },
   {
     "id": 1154,
@@ -5353,7 +5582,9 @@
     "verified": true,
     "verifiedAt": "2026-02-27",
     "status": "上架",
-    "roomType": "會議室"
+    "roomType": "會議室",
+    "lastVerified": "2026-03-01T23:34:39.189Z",
+    "verificationError": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.greenisland.com.tw/\nCall log:\n  - navigating to \"https://www.greenisland.com.tw/\", waiting until \"domcontentloaded\"\n"
   },
   {
     "id": 1155,
@@ -5384,7 +5615,9 @@
     "verified": true,
     "verifiedAt": "2026-02-27",
     "status": "上架",
-    "roomType": "會議室"
+    "roomType": "會議室",
+    "lastVerified": "2026-03-01T23:34:41.995Z",
+    "verificationError": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.lanyu-inn.com/\nCall log:\n  - navigating to \"https://www.lanyu-inn.com/\", waiting until \"domcontentloaded\"\n"
   },
   {
     "id": 1156,
@@ -5415,7 +5648,9 @@
     "verified": true,
     "verifiedAt": "2026-02-27",
     "status": "上架",
-    "roomType": "宴會廳"
+    "roomType": "宴會廳",
+    "lastVerified": "2026-03-01T23:34:46.371Z",
+    "verifiedTitle": "Chateau de Chine Hotel｜翰品酒店"
   },
   {
     "id": 1157,
@@ -5494,7 +5729,9 @@
     "needsReview": true,
     "reviewNote": "機關場地申請方式複雜，需要驗證申請流程、價格、可用時間等資訊",
     "status": "上架",
-    "roomType": "展演空間"
+    "roomType": "展演空間",
+    "lastVerified": "2026-03-01T23:35:08.031Z",
+    "verificationError": "page.goto: Timeout 20000ms exceeded.\nCall log:\n  - navigating to \"https://www.chiayi.gov.tw/\", waiting until \"domcontentloaded\"\n"
   },
   {
     "id": 1158,
@@ -5525,7 +5762,9 @@
     "verified": true,
     "verifiedAt": "2026-02-27",
     "status": "上架",
-    "roomType": "演講廳"
+    "roomType": "演講廳",
+    "lastVerified": "2026-03-01T23:35:09.763Z",
+    "verificationError": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.chiayi-museum.gov.tw/\nCall log:\n  - navigating to \"https://www.chiayi-museum.gov.tw/\", waiting until \"domcontentloaded\"\n"
   },
   {
     "id": 1159,
@@ -5575,7 +5814,10 @@
     "verified": true,
     "verifiedAt": "2026-02-27",
     "status": "上架",
-    "roomType": "宴會廳"
+    "roomType": "宴會廳",
+    "lastVerified": "2026-03-01T23:35:20.196Z",
+    "verifiedTitle": "嘉義耐斯王子大飯店│嘉義高級住宿及精緻美饌飯店",
+    "meetingPageUrl": "https://www.niceprince.com.tw/meeting/"
   },
   {
     "id": 1160,
@@ -5606,7 +5848,9 @@
     "verified": true,
     "verifiedAt": "2026-02-27",
     "status": "上架",
-    "roomType": "宴會廳"
+    "roomType": "宴會廳",
+    "lastVerified": "2026-03-01T23:35:21.900Z",
+    "verificationError": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.nice-prince.com/\nCall log:\n  - navigating to \"https://www.nice-prince.com/\", waiting until \"domcontentloaded\"\n"
   },
   {
     "name": "嘉義鈺通大飯店",
@@ -5625,7 +5869,9 @@
       "needsUpdate": true,
       "note": "待補充真實照片網址",
       "lastUpdated": "2026-03-01"
-    }
+    },
+    "lastVerified": "2026-03-01T23:35:25.761Z",
+    "verifiedTitle": "Attention Required! | Cloudflare"
   },
   {
     "id": 1162,
@@ -5656,7 +5902,10 @@
     "verified": true,
     "verifiedAt": "2026-02-27",
     "status": "上架",
-    "roomType": "會議中心"
+    "roomType": "會議中心",
+    "lastVerified": "2026-03-01T23:35:30.238Z",
+    "verifiedTitle": "國立中正大學　National Chung Cheng University - 國立中正大學　National Chung Cheng University",
+    "meetingPageUrl": "https://www.ccu.edu.tw/p/406-1000-85204,r981.php?Lang=zh-tw"
   },
   {
     "id": 1163,
@@ -5687,7 +5936,10 @@
     "verified": true,
     "verifiedAt": "2026-02-27",
     "status": "上架",
-    "roomType": "體育館"
+    "roomType": "體育館",
+    "lastVerified": "2026-03-01T23:35:34.640Z",
+    "verifiedTitle": "嘉義縣教育資訊網 - Educational Web @ Chiayi County",
+    "meetingPageUrl": "https://www.cyc.edu.tw/modules/tadnews/index.php?ncsn=6"
   },
   {
     "id": 1164,
@@ -5724,7 +5976,9 @@
     "createdAt": "2026-02-26T00:00:00.000Z",
     "status": "上架",
     "roomType": "宴會廳",
-    "url": "https://www.evergreen-hotels.com/chiayi"
+    "url": "https://www.evergreen-hotels.com/chiayi",
+    "lastVerified": "2026-03-01T23:35:39.404Z",
+    "verifiedTitle": "EVERGREEN HOTELS"
   },
   {
     "id": 1165,
@@ -5755,7 +6009,9 @@
     "verified": true,
     "verifiedAt": "2026-02-27",
     "status": "上架",
-    "roomType": "宴會廳"
+    "roomType": "宴會廳",
+    "lastVerified": "2026-03-01T23:35:42.135Z",
+    "verifiedTitle": "關於華國室內裝潢-輕鋼架防火天花板,輕隔間,防火隔間,企口鋁板,T5燈飾,裝潢工程承包,油漆粉刷,裝潢材料買賣 - 華國裝潢工程有限公司"
   },
   {
     "id": 1166,
@@ -5792,7 +6048,9 @@
     "createdAt": "2026-02-26T00:00:00.000Z",
     "status": "上架",
     "roomType": "宴會廳",
-    "url": "https://www.evergreen-hotels.com/keelung"
+    "url": "https://www.evergreen-hotels.com/keelung",
+    "lastVerified": "2026-03-01T23:35:47.080Z",
+    "verifiedTitle": "EVERGREEN HOTELS"
   },
   {
     "id": 1167,
@@ -5829,7 +6087,10 @@
     "createdAt": "2026-02-26T00:00:00.000Z",
     "status": "上架",
     "roomType": "會議室",
-    "url": "https://www.hotelroyal.com.tw/yilan"
+    "url": "https://www.hotelroyal.com.tw/yilan",
+    "lastVerified": "2026-03-01T23:35:53.809Z",
+    "verifiedTitle": "創造精彩難忘的故事｜老爺酒店集團",
+    "meetingPageUrl": "https://www.hotelroyal.com.tw/zh-tw/promotions/meeting"
   },
   {
     "id": 1168,
@@ -5860,7 +6121,10 @@
     "verified": true,
     "verifiedAt": "2026-02-27",
     "status": "上架",
-    "roomType": "演藝廳"
+    "roomType": "演藝廳",
+    "lastVerified": "2026-03-01T23:35:59.372Z",
+    "verifiedTitle": "國立傳統藝術中心",
+    "meetingPageUrl": "https://www.ncfta.gov.tw/News_Actives_photo_ncfta.aspx?n=2802&sms=11892"
   },
   {
     "id": 1169,
@@ -5891,7 +6155,9 @@
     "verified": true,
     "verifiedAt": "2026-02-27",
     "status": "上架",
-    "roomType": "宴會廳"
+    "roomType": "宴會廳",
+    "lastVerified": "2026-03-01T23:36:01.106Z",
+    "verificationError": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.yilanhotelroyal.com/\nCall log:\n  - navigating to \"https://www.yilanhotelroyal.com/\", waiting until \"domcontentloaded\"\n"
   },
   {
     "id": 1170,
@@ -5922,7 +6188,10 @@
     "verified": true,
     "verifiedAt": "2026-02-27",
     "status": "上架",
-    "roomType": "宴會廳"
+    "roomType": "宴會廳",
+    "lastVerified": "2026-03-01T23:36:09.510Z",
+    "verifiedTitle": "Premium Luxury Wellness Hotels | Westin Hotels & Resorts",
+    "meetingPageUrl": "https://www.marriott.com/en-us/meeting-event-hotels/group-reservations/westin.mi"
   },
   {
     "id": 1171,
@@ -5953,7 +6222,9 @@
     "verified": true,
     "verifiedAt": "2026-02-27",
     "status": "上架",
-    "roomType": "宴會廳"
+    "roomType": "宴會廳",
+    "lastVerified": "2026-03-01T23:36:11.037Z",
+    "verifiedTitle": "404 Not Found"
   },
   {
     "id": 1172,
@@ -5990,7 +6261,10 @@
     "createdAt": "2026-02-26T00:00:00.000Z",
     "status": "上架",
     "roomType": "宴會廳",
-    "url": "https://www.hotelroyal.com.tw/jiaoxi"
+    "url": "https://www.hotelroyal.com.tw/jiaoxi",
+    "lastVerified": "2026-03-01T23:36:18.187Z",
+    "verifiedTitle": "創造精彩難忘的故事｜老爺酒店集團",
+    "meetingPageUrl": "https://www.hotelroyal.com.tw/zh-tw/promotions/meeting"
   },
   {
     "id": 1173,
@@ -6021,7 +6295,9 @@
     "verified": true,
     "verifiedAt": "2026-02-27",
     "status": "上架",
-    "roomType": "宴會廳"
+    "roomType": "宴會廳",
+    "lastVerified": "2026-03-01T23:36:20.002Z",
+    "verificationError": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.jiiaosiroyal.com/\nCall log:\n  - navigating to \"https://www.jiiaosiroyal.com/\", waiting until \"domcontentloaded\"\n"
   },
   {
     "id": 1174,
@@ -6052,7 +6328,10 @@
     "verified": true,
     "verifiedAt": "2026-02-27",
     "status": "上架",
-    "roomType": "體育館"
+    "roomType": "體育館",
+    "lastVerified": "2026-03-01T23:36:29.212Z",
+    "verifiedTitle": "宜蘭縣政府教育處全球資訊網",
+    "meetingPageUrl": "https://ilcmain.ilc.edu.tw/search.asp?num=191561"
   },
   {
     "id": 1175,
@@ -6089,7 +6368,9 @@
     "createdAt": "2026-02-26T00:00:00.000Z",
     "status": "上架",
     "roomType": "宴會廳",
-    "url": "https://www.silksplace.com/yilan"
+    "url": "https://www.silksplace.com/yilan",
+    "lastVerified": "2026-03-01T23:36:11.037Z",
+    "verifiedTitle": "404 Not Found"
   },
   {
     "id": 1176,
@@ -6120,7 +6401,9 @@
     "verified": true,
     "verifiedAt": "2026-02-27",
     "status": "上架",
-    "roomType": "宴會廳"
+    "roomType": "宴會廳",
+    "lastVerified": "2026-03-01T23:36:33.973Z",
+    "verifiedTitle": "EVERGREEN HOTELS"
   },
   {
     "id": 1177,
@@ -6170,7 +6453,9 @@
     "verified": true,
     "verifiedAt": "2026-02-27",
     "status": "上架",
-    "roomType": "宴會廳"
+    "roomType": "宴會廳",
+    "lastVerified": "2026-03-01T23:36:39.521Z",
+    "verifiedTitle": "404 找不到網頁了！ - 凱撒飯店連鎖"
   },
   {
     "id": 1178,
@@ -6201,7 +6486,9 @@
     "verified": true,
     "verifiedAt": "2026-02-27",
     "status": "上架",
-    "roomType": "宴會廳"
+    "roomType": "宴會廳",
+    "lastVerified": "2026-03-01T23:36:39.521Z",
+    "verifiedTitle": "404 找不到網頁了！ - 凱撒飯店連鎖"
   },
   {
     "id": 1179,
@@ -6238,7 +6525,9 @@
     "createdAt": "2026-02-26T00:00:00.000Z",
     "status": "上架",
     "roomType": "宴會廳",
-    "url": "https://www.chateaubeach.com"
+    "url": "https://www.chateaubeach.com",
+    "lastVerified": "2026-03-01T23:36:41.736Z",
+    "verifiedTitle": ""
   },
   {
     "id": 1180,
@@ -6269,7 +6558,9 @@
     "verified": true,
     "verifiedAt": "2026-02-27",
     "status": "上架",
-    "roomType": "宴會廳"
+    "roomType": "宴會廳",
+    "lastVerified": "2026-03-01T23:36:43.494Z",
+    "verificationError": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.chateau.com.tw/\nCall log:\n  - navigating to \"https://www.chateau.com.tw/\", waiting until \"domcontentloaded\"\n"
   },
   {
     "id": 1181,
@@ -6300,7 +6591,10 @@
     "verified": true,
     "verifiedAt": "2026-02-27",
     "status": "上架",
-    "roomType": "宴會廳"
+    "roomType": "宴會廳",
+    "lastVerified": "2026-03-01T23:36:49.833Z",
+    "verifiedTitle": "墾丁悠活渡假村 YOHO Beach Resort - 墾丁飯店推薦-首頁",
+    "meetingPageUrl": "https://www.yoho.com.tw/zh-tw/Activity"
   },
   {
     "id": 1182,
@@ -6337,7 +6631,9 @@
     "createdAt": "2026-02-26T00:00:00.000Z",
     "status": "上架",
     "roomType": "宴會廳",
-    "url": "https://www.howard-hotels.com.tw/kenting"
+    "url": "https://www.howard-hotels.com.tw/kenting",
+    "lastVerified": "2026-03-01T23:36:53.773Z",
+    "verifiedTitle": "Server error"
   },
   {
     "id": 1183,
@@ -6374,7 +6670,9 @@
     "createdAt": "2026-02-26T00:00:00.000Z",
     "status": "上架",
     "roomType": "會議室",
-    "url": "https://www.smallkenting.com.tw"
+    "url": "https://www.smallkenting.com.tw",
+    "lastVerified": "2026-03-01T23:36:55.546Z",
+    "verificationError": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.smallkenting.com.tw/\nCall log:\n  - navigating to \"https://www.smallkenting.com.tw/\", waiting until \"domcontentloaded\"\n"
   },
   {
     "id": 1184,
@@ -6405,7 +6703,9 @@
     "verified": true,
     "verifiedAt": "2026-02-27",
     "status": "上架",
-    "roomType": "宴會廳"
+    "roomType": "宴會廳",
+    "lastVerified": "2026-03-01T23:36:57.409Z",
+    "verificationError": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.xiaoliuqiu.com/\nCall log:\n  - navigating to \"https://www.xiaoliuqiu.com/\", waiting until \"domcontentloaded\"\n"
   },
   {
     "id": 1185,
@@ -6436,7 +6736,9 @@
     "verified": true,
     "verifiedAt": "2026-02-27",
     "status": "上架",
-    "roomType": "宴會廳"
+    "roomType": "宴會廳",
+    "lastVerified": "2026-03-01T23:36:39.521Z",
+    "verifiedTitle": "404 找不到網頁了！ - 凱撒飯店連鎖"
   },
   {
     "id": 1186,
@@ -6467,7 +6769,9 @@
     "verified": true,
     "verifiedAt": "2026-02-27",
     "status": "上架",
-    "roomType": "宴會廳"
+    "roomType": "宴會廳",
+    "lastVerified": "2026-03-01T23:36:43.495Z",
+    "verificationError": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.chateau.com.tw/\nCall log:\n  - navigating to \"https://www.chateau.com.tw/\", waiting until \"domcontentloaded\"\n"
   },
   {
     "id": 1187,
@@ -6498,7 +6802,10 @@
     "verified": true,
     "verifiedAt": "2026-02-27",
     "status": "上架",
-    "roomType": "宴會廳"
+    "roomType": "宴會廳",
+    "lastVerified": "2026-03-01T23:36:49.833Z",
+    "verifiedTitle": "墾丁悠活渡假村 YOHO Beach Resort - 墾丁飯店推薦-首頁",
+    "meetingPageUrl": "https://www.yoho.com.tw/zh-tw/Activity"
   },
   {
     "id": 1188,
@@ -6529,7 +6836,9 @@
     "verified": true,
     "verifiedAt": "2026-02-27",
     "status": "上架",
-    "roomType": "宴會廳"
+    "roomType": "宴會廳",
+    "lastVerified": "2026-03-01T23:36:53.773Z",
+    "verifiedTitle": "Server error"
   },
   {
     "id": 1189,
@@ -6560,7 +6869,9 @@
     "verified": true,
     "verifiedAt": "2026-02-27",
     "status": "上架",
-    "roomType": "體育館"
+    "roomType": "體育館",
+    "lastVerified": "2026-03-01T23:36:59.115Z",
+    "verificationError": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.ptc.gov.tw/\nCall log:\n  - navigating to \"https://www.ptc.gov.tw/\", waiting until \"domcontentloaded\"\n"
   },
   {
     "id": 1190,
@@ -6591,7 +6902,9 @@
     "verified": true,
     "verifiedAt": "2026-02-27",
     "status": "上架",
-    "roomType": "體育館"
+    "roomType": "體育館",
+    "lastVerified": "2026-03-01T23:37:00.785Z",
+    "verificationError": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.ptc-sports.gov.tw/\nCall log:\n  - navigating to \"https://www.ptc-sports.gov.tw/\", waiting until \"domcontentloaded\"\n"
   },
   {
     "id": 1191,
@@ -6702,7 +7015,9 @@
     "createdAt": "2026-02-26T00:00:00.000Z",
     "status": "上架",
     "roomType": "宴會廳",
-    "url": "https://www.glorymanor.com.tw"
+    "url": "https://www.glorymanor.com.tw",
+    "lastVerified": "2026-03-01T23:37:02.453Z",
+    "verificationError": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.glorymanor.com.tw/\nCall log:\n  - navigating to \"https://www.glorymanor.com.tw/\", waiting until \"domcontentloaded\"\n"
   },
   {
     "id": 1194,
@@ -6733,7 +7048,10 @@
     "verified": true,
     "verifiedAt": "2026-02-27",
     "status": "上架",
-    "roomType": "會議中心"
+    "roomType": "會議中心",
+    "lastVerified": "2026-03-01T23:37:07.173Z",
+    "verifiedTitle": "大葉大學首頁",
+    "meetingPageUrl": "https://www.dyu.edu.tw/dining.html"
   },
   {
     "id": 1195,
@@ -6764,7 +7082,9 @@
     "verified": true,
     "verifiedAt": "2026-02-27",
     "status": "上架",
-    "roomType": "會議中心"
+    "roomType": "會議中心",
+    "lastVerified": "2026-03-01T23:37:17.321Z",
+    "verificationError": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.ccut.edu.tw/\nCall log:\n  - navigating to \"https://www.ccut.edu.tw/\", waiting until \"domcontentloaded\"\n"
   },
   {
     "id": 1196,
@@ -6795,7 +7115,9 @@
     "verified": true,
     "verifiedAt": "2026-02-27",
     "status": "上架",
-    "roomType": "宴會廳"
+    "roomType": "宴會廳",
+    "lastVerified": "2026-03-01T23:37:19.061Z",
+    "verificationError": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.yuanlin-crown.com/\nCall log:\n  - navigating to \"https://www.yuanlin-crown.com/\", waiting until \"domcontentloaded\"\n"
   },
   {
     "id": 1197,
@@ -6826,7 +7148,10 @@
     "verified": true,
     "verifiedAt": "2026-02-27",
     "status": "上架",
-    "roomType": "會議中心"
+    "roomType": "會議中心",
+    "lastVerified": "2026-03-01T23:37:24.960Z",
+    "verifiedTitle": "秀傳產後護理之家｜彰化首選月子中心",
+    "meetingPageUrl": "https://www.showchwan.com/album_d.php?lang=tw&tb=2&id=36"
   },
   {
     "id": 1198,
@@ -6858,7 +7183,9 @@
     "needsReview": true,
     "reviewNote": "機關場地申請方式複雜，需要驗證申請流程、價格、可用時間等資訊",
     "status": "上架",
-    "roomType": "演藝廳"
+    "roomType": "演藝廳",
+    "lastVerified": "2026-03-01T23:37:26.584Z",
+    "verificationError": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.chc-culture.gov.tw/\nCall log:\n  - navigating to \"https://www.chc-culture.gov.tw/\", waiting until \"domcontentloaded\"\n"
   },
   {
     "id": 1199,
@@ -6889,7 +7216,10 @@
     "verified": true,
     "verifiedAt": "2026-02-27",
     "status": "上架",
-    "roomType": "體育館"
+    "roomType": "體育館",
+    "lastVerified": "2026-03-01T23:37:31.313Z",
+    "verifiedTitle": "縣網中心-新雲端",
+    "meetingPageUrl": "https://newboe.chc.edu.tw/bulletin/3"
   },
   {
     "id": 1200,
@@ -6920,7 +7250,9 @@
     "verified": true,
     "verifiedAt": "2026-02-27",
     "status": "上架",
-    "roomType": "會議中心"
+    "roomType": "會議中心",
+    "lastVerified": "2026-03-01T23:37:33.047Z",
+    "verificationError": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.motech-hall.com/\nCall log:\n  - navigating to \"https://www.motech-hall.com/\", waiting until \"domcontentloaded\"\n"
   },
   {
     "name": "典華旗艦店",
@@ -6942,7 +7274,9 @@
       "needsUpdate": true,
       "note": "待補充真實照片網址",
       "lastUpdated": "2026-03-01"
-    }
+    },
+    "lastVerified": "2026-03-01T23:37:34.726Z",
+    "verificationError": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.dianhua.com.tw/\nCall log:\n  - navigating to \"https://www.dianhua.com.tw/\", waiting until \"domcontentloaded\"\n"
   },
   {
     "id": 1202,
@@ -6979,7 +7313,9 @@
     "createdAt": "2026-02-26T00:00:00.000Z",
     "status": "上架",
     "roomType": "宴會廳",
-    "url": "https://www.goldentulip.com.tw/danshui"
+    "url": "https://www.goldentulip.com.tw/danshui",
+    "lastVerified": "2026-03-01T23:37:38.507Z",
+    "verifiedTitle": "404 Page Not Found"
   },
   {
     "id": 1203,
@@ -7016,7 +7352,9 @@
     "createdAt": "2026-02-26T00:00:00.000Z",
     "status": "上架",
     "roomType": "會議室",
-    "url": "https://www.chengyi-hotels.com/danshui"
+    "url": "https://www.chengyi-hotels.com/danshui",
+    "lastVerified": "2026-03-01T23:37:40.207Z",
+    "verificationError": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.chengyi-hotels.com/danshui\nCall log:\n  - navigating to \"https://www.chengyi-hotels.com/danshui\", waiting until \"domcontentloaded\"\n"
   },
   {
     "id": 1204,
@@ -7047,7 +7385,9 @@
     "verified": true,
     "verifiedAt": "2026-02-27",
     "status": "上架",
-    "roomType": "宴會廳"
+    "roomType": "宴會廳",
+    "lastVerified": "2026-03-01T23:37:48.829Z",
+    "verifiedTitle": "Business & Leisure Travel Hotels | Four Points by Sheraton"
   },
   {
     "id": 1205,
@@ -7079,7 +7419,9 @@
     "verified": true,
     "verifiedAt": "2026-02-27",
     "status": "上架",
-    "roomType": "會議室"
+    "roomType": "會議室",
+    "lastVerified": "2026-03-01T23:37:50.455Z",
+    "verificationError": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.ssc.ntpc.gov.tw/\nCall log:\n  - navigating to \"https://www.ssc.ntpc.gov.tw/\", waiting until \"domcontentloaded\"\n"
   },
   {
     "id": 1206,
@@ -7110,7 +7452,9 @@
     "verified": true,
     "verifiedAt": "2026-02-27",
     "status": "上架",
-    "roomType": "婚宴會館"
+    "roomType": "婚宴會館",
+    "lastVerified": "2026-03-01T23:37:52.124Z",
+    "verificationError": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.jinling-wedding.com/\nCall log:\n  - navigating to \"https://www.jinling-wedding.com/\", waiting until \"domcontentloaded\"\n"
   },
   {
     "id": 1207,
@@ -7141,7 +7485,9 @@
     "verified": true,
     "verifiedAt": "2026-02-27",
     "status": "上架",
-    "roomType": "宴會廳"
+    "roomType": "宴會廳",
+    "lastVerified": "2026-03-01T23:38:00.922Z",
+    "verifiedTitle": "Business & Leisure Travel Hotels | Four Points by Sheraton"
   },
   {
     "id": 1208,
@@ -7172,7 +7518,9 @@
     "verified": true,
     "verifiedAt": "2026-02-27",
     "status": "上架",
-    "roomType": "會議中心"
+    "roomType": "會議中心",
+    "lastVerified": "2026-03-01T23:38:08.342Z",
+    "verifiedTitle": "6850"
   },
   {
     "id": 1209,
@@ -7203,7 +7551,9 @@
     "verified": true,
     "verifiedAt": "2026-02-27",
     "status": "上架",
-    "roomType": "體育館"
+    "roomType": "體育館",
+    "lastVerified": "2026-03-01T23:38:12.265Z",
+    "verificationError": "page.evaluate: TypeError: a.href.toLowerCase is not a function\n    at eval (eval at evaluate (:290:30), <anonymous>:6:31)\n    at Array.filter (<anonymous>)\n    at eval (eval at evaluate (:290:30), <anonymous>:4:10)\n    at UtilityScript.evaluate (<anonymous>:292:16)\n    at UtilityScript.<anonymous> (<anonymous>:1:44)"
   },
   {
     "id": 1210,
@@ -7234,7 +7584,9 @@
     "verified": true,
     "verifiedAt": "2026-02-27",
     "status": "上架",
-    "roomType": "會議中心"
+    "roomType": "會議中心",
+    "lastVerified": "2026-03-01T23:38:13.921Z",
+    "verificationError": "page.goto: net::ERR_CERT_AUTHORITY_INVALID at https://www.jinguang.com.tw/\nCall log:\n  - navigating to \"https://www.jinguang.com.tw/\", waiting until \"domcontentloaded\"\n"
   },
   {
     "id": 1211,
@@ -7266,7 +7618,10 @@
     "verified": true,
     "verifiedAt": "2026-02-27",
     "status": "上架",
-    "roomType": "會議室"
+    "roomType": "會議室",
+    "lastVerified": "2026-03-01T23:38:19.728Z",
+    "verifiedTitle": "新北市新莊區公所",
+    "meetingPageUrl": "https://www.xinzhuang.ntpc.gov.tw/home.jsp?id=b4cafbf11e0d8c3b"
   },
   {
     "id": 1212,
@@ -7297,7 +7652,9 @@
     "verified": true,
     "verifiedAt": "2026-02-27",
     "status": "上架",
-    "roomType": "宴會廳"
+    "roomType": "宴會廳",
+    "lastVerified": "2026-03-01T23:38:24.393Z",
+    "verifiedTitle": "caesar-park.com"
   },
   {
     "id": 1213,
@@ -7328,7 +7685,9 @@
     "verified": true,
     "verifiedAt": "2026-02-27",
     "status": "上架",
-    "roomType": "婚宴會館"
+    "roomType": "婚宴會館",
+    "lastVerified": "2026-03-01T23:38:26.128Z",
+    "verificationError": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.caesar-wedding.com/\nCall log:\n  - navigating to \"https://www.caesar-wedding.com/\", waiting until \"domcontentloaded\"\n"
   },
   {
     "id": 1214,
@@ -7359,7 +7718,9 @@
     "verified": true,
     "verifiedAt": "2026-02-27",
     "status": "上架",
-    "roomType": "宴會廳"
+    "roomType": "宴會廳",
+    "lastVerified": "2026-03-01T23:38:30.410Z",
+    "verifiedTitle": "Chateau de Chine Hotel｜翰品酒店"
   },
   {
     "id": 1215,
@@ -7390,7 +7751,9 @@
     "verified": true,
     "verifiedAt": "2026-02-27",
     "status": "上架",
-    "roomType": "宴會廳"
+    "roomType": "宴會廳",
+    "lastVerified": "2026-03-01T23:38:32.752Z",
+    "verificationError": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.haitiandi.com/\nCall log:\n  - navigating to \"https://www.haitiandi.com/\", waiting until \"domcontentloaded\"\n"
   },
   {
     "id": 1216,
@@ -7421,7 +7784,9 @@
     "verified": true,
     "verifiedAt": "2026-02-27",
     "status": "上架",
-    "roomType": "展覽館"
+    "roomType": "展覽館",
+    "lastVerified": "2026-03-01T23:38:34.495Z",
+    "verificationError": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.tamsui-culture.com/\nCall log:\n  - navigating to \"https://www.tamsui-culture.com/\", waiting until \"domcontentloaded\"\n"
   },
   {
     "id": 1217,
@@ -7452,7 +7817,9 @@
     "verified": true,
     "verifiedAt": "2026-02-27",
     "status": "上架",
-    "roomType": "宴會廳"
+    "roomType": "宴會廳",
+    "lastVerified": "2026-03-01T23:38:38.352Z",
+    "verifiedTitle": "404 找不到網頁了！ - 福容大飯店官方網站 FULLON HOTELS"
   },
   {
     "id": 1218,
@@ -7483,7 +7850,9 @@
     "verified": true,
     "verifiedAt": "2026-02-27",
     "status": "上架",
-    "roomType": "宴會廳"
+    "roomType": "宴會廳",
+    "lastVerified": "2026-03-01T23:38:39.795Z",
+    "verifiedTitle": "Server error"
   },
   {
     "name": "新板希爾頓酒店",
@@ -7507,7 +7876,9 @@
       "needsUpdate": true,
       "note": "待補充真實照片網址",
       "lastUpdated": "2026-03-01"
-    }
+    },
+    "lastVerified": "2026-03-01T23:38:54.141Z",
+    "verifiedTitle": ""
   },
   {
     "id": 1220,
@@ -7538,7 +7909,9 @@
     "verified": true,
     "verifiedAt": "2026-02-27",
     "status": "上架",
-    "roomType": "婚宴會館"
+    "roomType": "婚宴會館",
+    "lastVerified": "2026-03-01T23:38:55.796Z",
+    "verificationError": "page.goto: net::ERR_CERT_COMMON_NAME_INVALID at https://www.newboard.com.tw/\nCall log:\n  - navigating to \"https://www.newboard.com.tw/\", waiting until \"domcontentloaded\"\n"
   },
   {
     "id": 1221,
@@ -7569,7 +7942,9 @@
     "verified": true,
     "verifiedAt": "2026-02-27",
     "status": "上架",
-    "roomType": "展覽館"
+    "roomType": "展覽館",
+    "lastVerified": "2026-03-01T23:38:57.452Z",
+    "verificationError": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.435artzone.ntpc.gov.tw/\nCall log:\n  - navigating to \"https://www.435artzone.ntpc.gov.tw/\", waiting until \"domcontentloaded\"\n"
   },
   {
     "id": 1222,
@@ -7623,7 +7998,9 @@
     "verified": true,
     "verifiedAt": "2026-02-27",
     "status": "上架",
-    "roomType": "宴會廳"
+    "roomType": "宴會廳",
+    "lastVerified": "2026-03-01T23:39:02.964Z",
+    "verifiedTitle": "404 找不到網頁了！ - 凱撒飯店連鎖"
   },
   {
     "id": 1223,
@@ -7654,7 +8031,9 @@
     "verified": true,
     "verifiedAt": "2026-02-27",
     "status": "上架",
-    "roomType": "婚宴會館"
+    "roomType": "婚宴會館",
+    "lastVerified": "2026-03-01T23:39:06.819Z",
+    "verifiedTitle": "404 找不到網頁了！ - 福容大飯店官方網站 FULLON HOTELS"
   },
   {
     "id": 1224,
@@ -7691,7 +8070,9 @@
     "createdAt": "2026-02-26T00:00:00.000Z",
     "status": "上架",
     "roomType": "展演空間",
-    "url": "https://www.ntpc.gov.tw"
+    "url": "https://www.ntpc.gov.tw",
+    "lastVerified": "2026-03-01T23:38:12.265Z",
+    "verificationError": "page.evaluate: TypeError: a.href.toLowerCase is not a function\n    at eval (eval at evaluate (:290:30), <anonymous>:6:31)\n    at Array.filter (<anonymous>)\n    at eval (eval at evaluate (:290:30), <anonymous>:4:10)\n    at UtilityScript.evaluate (<anonymous>:292:16)\n    at UtilityScript.<anonymous> (<anonymous>:1:44)"
   },
   {
     "id": 1225,
@@ -7728,7 +8109,10 @@
     "createdAt": "2026-02-26T00:00:00.000Z",
     "status": "上架",
     "roomType": "戶外場地",
-    "url": "https://www.tshs.ntpc.gov.tw"
+    "url": "https://www.tshs.ntpc.gov.tw",
+    "lastVerified": "2026-03-01T23:39:09.585Z",
+    "verifiedTitle": "首頁 | 新北市立淡水古蹟博物館",
+    "meetingPageUrl": "https://www.tshs.ntpc.gov.tw/xmdoc?xsmsid=0L265508552775247597"
   },
   {
     "name": "福容大飯店(Fullon)-淡水漁人碼頭",
@@ -7750,7 +8134,9 @@
       "needsUpdate": true,
       "note": "待補充真實照片網址",
       "lastUpdated": "2026-03-01"
-    }
+    },
+    "lastVerified": "2026-03-01T23:39:13.600Z",
+    "verifiedTitle": "404 Not Found"
   },
   {
     "name": "福容大飯店(Fullon)淡水漁人碼頭",
@@ -7769,7 +8155,9 @@
       "needsUpdate": true,
       "note": "待補充真實照片網址",
       "lastUpdated": "2026-03-01"
-    }
+    },
+    "lastVerified": "2026-03-01T23:39:13.600Z",
+    "verifiedTitle": "404 Not Found"
   },
   {
     "id": 1228,
@@ -7800,7 +8188,9 @@
     "verified": true,
     "verifiedAt": "2026-02-27",
     "status": "上架",
-    "roomType": "會議中心"
+    "roomType": "會議中心",
+    "lastVerified": "2026-03-01T23:39:15.253Z",
+    "verificationError": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.nctu.edu.tw/\nCall log:\n  - navigating to \"https://www.nctu.edu.tw/\", waiting until \"domcontentloaded\"\n"
   },
   {
     "id": 1229,
@@ -7837,7 +8227,10 @@
     "createdAt": "2026-02-26T00:00:00.000Z",
     "status": "上架",
     "roomType": "宴會廳",
-    "url": "https://www.sheraton.com/hsinchu"
+    "url": "https://www.sheraton.com/hsinchu",
+    "lastVerified": "2026-03-01T23:39:21.900Z",
+    "verifiedTitle": "International Hotels & Resorts | Sheraton Hotels & Resorts",
+    "meetingPageUrl": "https://sheraton.marriott.com/experience/meetings-and-events/"
   },
   {
     "id": 1230,
@@ -7874,7 +8267,10 @@
     "createdAt": "2026-02-26T00:00:00.000Z",
     "status": "上架",
     "roomType": "會議室",
-    "url": "https://www.sheraton.com/hsinchu"
+    "url": "https://www.sheraton.com/hsinchu",
+    "lastVerified": "2026-03-01T23:39:21.900Z",
+    "verifiedTitle": "International Hotels & Resorts | Sheraton Hotels & Resorts",
+    "meetingPageUrl": "https://sheraton.marriott.com/experience/meetings-and-events/"
   },
   {
     "id": 1231,
@@ -7911,7 +8307,9 @@
     "createdAt": "2026-02-26T00:00:00.000Z",
     "status": "上架",
     "roomType": "宴會廳",
-    "url": "https://www.ambassadorhotel.com.tw/hsinchu"
+    "url": "https://www.ambassadorhotel.com.tw/hsinchu",
+    "lastVerified": "2026-03-01T23:39:41.055Z",
+    "verificationError": "page.goto: Timeout 20000ms exceeded.\nCall log:\n  - navigating to \"https://www.ambassadorhotel.com.tw/hsinchu\", waiting until \"domcontentloaded\"\n"
   },
   {
     "id": 1232,
@@ -7942,7 +8340,9 @@
     "verified": true,
     "verifiedAt": "2026-02-27",
     "status": "上架",
-    "roomType": "宴會廳"
+    "roomType": "宴會廳",
+    "lastVerified": "2026-03-01T23:39:41.056Z",
+    "verificationError": "page.goto: Timeout 20000ms exceeded.\nCall log:\n  - navigating to \"https://www.ambassadorhotel.com.tw/hsinchu\", waiting until \"domcontentloaded\"\n"
   },
   {
     "id": 1233,
@@ -7979,7 +8379,9 @@
     "createdAt": "2026-02-26T00:00:00.000Z",
     "status": "上架",
     "roomType": "展演空間",
-    "url": "https://www.hccb.gov.tw"
+    "url": "https://www.hccb.gov.tw",
+    "lastVerified": "2026-03-01T23:39:42.686Z",
+    "verificationError": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.hccb.gov.tw/\nCall log:\n  - navigating to \"https://www.hccb.gov.tw/\", waiting until \"domcontentloaded\"\n"
   },
   {
     "id": 1234,
@@ -8010,7 +8412,9 @@
     "verified": true,
     "verifiedAt": "2026-02-27",
     "status": "上架",
-    "roomType": "演藝廳"
+    "roomType": "演藝廳",
+    "lastVerified": "2026-03-01T23:39:47.019Z",
+    "verifiedTitle": "恆春機場"
   },
   {
     "id": 1235,
@@ -8041,7 +8445,9 @@
     "verified": true,
     "verifiedAt": "2026-02-27",
     "status": "上架",
-    "roomType": "宴會廳"
+    "roomType": "宴會廳",
+    "lastVerified": "2026-03-01T23:39:53.004Z",
+    "verifiedTitle": "新竹湖濱館 - Lakeshore Groupsite"
   },
   {
     "id": 1236,
@@ -8072,7 +8478,9 @@
     "verified": true,
     "verifiedAt": "2026-02-27",
     "status": "上架",
-    "roomType": "會議廳"
+    "roomType": "會議廳",
+    "lastVerified": "2026-03-01T23:39:54.732Z",
+    "verificationError": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.hcglass.org/\nCall log:\n  - navigating to \"https://www.hcglass.org/\", waiting until \"domcontentloaded\"\n"
   },
   {
     "id": 1237,
@@ -8103,7 +8511,9 @@
     "verified": true,
     "verifiedAt": "2026-02-27",
     "status": "上架",
-    "roomType": "演藝廳"
+    "roomType": "演藝廳",
+    "lastVerified": "2026-03-01T23:39:56.400Z",
+    "verificationError": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.hclife.org.tw/\nCall log:\n  - navigating to \"https://www.hclife.org.tw/\", waiting until \"domcontentloaded\"\n"
   },
   {
     "id": 1238,
@@ -8134,7 +8544,10 @@
     "verified": true,
     "verifiedAt": "2026-02-27",
     "status": "上架",
-    "roomType": "會議中心"
+    "roomType": "會議中心",
+    "lastVerified": "2026-03-01T23:40:02.390Z",
+    "verifiedTitle": "國立清華大學",
+    "meetingPageUrl": "https://www.nthu.edu.tw/mediaReport/content/1858"
   },
   {
     "id": 1239,
@@ -8171,7 +8584,9 @@
     "createdAt": "2026-02-26T00:00:00.000Z",
     "status": "上架",
     "roomType": "宴會廳",
-    "url": "https://www.lakeshore.com.tw/hsinchu"
+    "url": "https://www.lakeshore.com.tw/hsinchu",
+    "lastVerified": "2026-03-01T23:39:53.004Z",
+    "verifiedTitle": "新竹湖濱館 - Lakeshore Groupsite"
   },
   {
     "id": 1240,
@@ -8202,7 +8617,10 @@
     "verified": true,
     "verifiedAt": "2026-02-27",
     "status": "上架",
-    "roomType": "宴會廳"
+    "roomType": "宴會廳",
+    "lastVerified": "2026-03-01T23:39:21.900Z",
+    "verifiedTitle": "International Hotels & Resorts | Sheraton Hotels & Resorts",
+    "meetingPageUrl": "https://sheraton.marriott.com/experience/meetings-and-events/"
   },
   {
     "id": 1241,
@@ -8233,7 +8651,9 @@
     "verified": true,
     "verifiedAt": "2026-02-27",
     "status": "上架",
-    "roomType": "體育館"
+    "roomType": "體育館",
+    "lastVerified": "2026-03-01T23:40:04.039Z",
+    "verificationError": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.hchc.edu.tw/\nCall log:\n  - navigating to \"https://www.hchc.edu.tw/\", waiting until \"domcontentloaded\"\n"
   },
   {
     "id": 1242,
@@ -8270,7 +8690,10 @@
     "createdAt": "2026-02-26T00:00:00.000Z",
     "status": "上架",
     "roomType": "宴會廳",
-    "url": "https://www.sheraton.com/hsinchu-fengyi"
+    "url": "https://www.sheraton.com/hsinchu-fengyi",
+    "lastVerified": "2026-03-01T23:40:11.238Z",
+    "verifiedTitle": "International Hotels & Resorts | Sheraton Hotels & Resorts",
+    "meetingPageUrl": "https://sheraton.marriott.com/experience/meetings-and-events/"
   },
   {
     "id": 1243,
@@ -8307,7 +8730,10 @@
     "createdAt": "2026-02-26T00:00:00.000Z",
     "status": "上架",
     "roomType": "會議室",
-    "url": "https://www.uni-resort.com.tw/mawudu"
+    "url": "https://www.uni-resort.com.tw/mawudu",
+    "lastVerified": "2026-03-01T23:40:13.375Z",
+    "verifiedTitle": "404 找不到網頁了！ - 統一渡假村-集團頁",
+    "meetingPageUrl": "https://ma.uni-resort.com.tw/"
   },
   {
     "id": 1244,
@@ -8344,7 +8770,9 @@
     "createdAt": "2026-02-26T00:00:00.000Z",
     "status": "上架",
     "roomType": "會議室",
-    "url": "https://www.mabu.com.tw"
+    "url": "https://www.mabu.com.tw",
+    "lastVerified": "2026-03-01T23:40:15.032Z",
+    "verificationError": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.mabu.com.tw/\nCall log:\n  - navigating to \"https://www.mabu.com.tw/\", waiting until \"domcontentloaded\"\n"
   },
   {
     "id": 1245,
@@ -8381,7 +8809,9 @@
     "createdAt": "2026-02-26T00:00:00.000Z",
     "status": "上架",
     "roomType": "戶外場地",
-    "url": "https://www.mabu.com.tw"
+    "url": "https://www.mabu.com.tw",
+    "lastVerified": "2026-03-01T23:40:15.032Z",
+    "verificationError": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.mabu.com.tw/\nCall log:\n  - navigating to \"https://www.mabu.com.tw/\", waiting until \"domcontentloaded\"\n"
   },
   {
     "id": 1246,
@@ -8412,7 +8842,10 @@
     "verified": true,
     "verifiedAt": "2026-02-27",
     "status": "上架",
-    "roomType": "會議中心"
+    "roomType": "會議中心",
+    "lastVerified": "2026-03-01T23:40:20.445Z",
+    "verifiedTitle": "國立中央大學 - 國立中央大學",
+    "meetingPageUrl": "https://www.ncu.edu.tw/p/412-1000-116.php?Lang=zh-tw"
   },
   {
     "name": "尊爵天際大飯店",
@@ -8451,7 +8884,9 @@
       "needsUpdate": true,
       "note": "待補充真實照片網址",
       "lastUpdated": "2026-03-01"
-    }
+    },
+    "lastVerified": "2026-03-01T23:40:22.087Z",
+    "verificationError": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.theskyline.com.tw/\nCall log:\n  - navigating to \"https://www.theskyline.com.tw/\", waiting until \"domcontentloaded\"\n"
   },
   {
     "id": 1248,
@@ -8482,7 +8917,9 @@
     "verified": true,
     "verifiedAt": "2026-02-27",
     "status": "上架",
-    "roomType": "演藝廳"
+    "roomType": "演藝廳",
+    "lastVerified": "2026-03-01T23:40:23.760Z",
+    "verificationError": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.zhongli-arts.com/\nCall log:\n  - navigating to \"https://www.zhongli-arts.com/\", waiting until \"domcontentloaded\"\n"
   },
   {
     "id": 1249,
@@ -8513,7 +8950,9 @@
     "verified": true,
     "verifiedAt": "2026-02-27",
     "status": "上架",
-    "roomType": "宴會廳"
+    "roomType": "宴會廳",
+    "lastVerified": "2026-03-01T23:40:27.560Z",
+    "verifiedTitle": "Access Denied"
   },
   {
     "id": 1250,
@@ -8544,7 +8983,9 @@
     "verified": true,
     "verifiedAt": "2026-02-27",
     "status": "上架",
-    "roomType": "婚宴會館"
+    "roomType": "婚宴會館",
+    "lastVerified": "2026-03-01T23:40:29.195Z",
+    "verificationError": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.chiba-wedding.com.tw/\nCall log:\n  - navigating to \"https://www.chiba-wedding.com.tw/\", waiting until \"domcontentloaded\"\n"
   },
   {
     "id": 1251,
@@ -8575,7 +9016,9 @@
     "verified": true,
     "verifiedAt": "2026-02-27",
     "status": "上架",
-    "roomType": "宴會廳"
+    "roomType": "宴會廳",
+    "lastVerified": "2026-03-01T23:40:33.576Z",
+    "verifiedTitle": ""
   },
   {
     "id": 1252,
@@ -8606,7 +9049,10 @@
     "verified": true,
     "verifiedAt": "2026-02-27",
     "status": "上架",
-    "roomType": "宴會廳"
+    "roomType": "宴會廳",
+    "lastVerified": "2026-03-01T23:40:37.897Z",
+    "verifiedTitle": "Good Way Technology | Global ODM/OEM Manufacturer for Docking, Hubs, GaN & Smart Connectivity Solutions",
+    "meetingPageUrl": "https://www.goodway.com.tw/en/solution/solution-conference.html"
   },
   {
     "id": 1253,
@@ -8637,7 +9083,10 @@
     "verified": true,
     "verifiedAt": "2026-02-27",
     "status": "上架",
-    "roomType": "宴會廳"
+    "roomType": "宴會廳",
+    "lastVerified": "2026-03-01T23:40:37.897Z",
+    "verifiedTitle": "Good Way Technology | Global ODM/OEM Manufacturer for Docking, Hubs, GaN & Smart Connectivity Solutions",
+    "meetingPageUrl": "https://www.goodway.com.tw/en/solution/solution-conference.html"
   },
   {
     "name": "桃園喜來登酒店",
@@ -8673,7 +9122,10 @@
       "needsUpdate": true,
       "note": "待補充真實照片網址",
       "lastUpdated": "2026-03-01"
-    }
+    },
+    "lastVerified": "2026-03-01T23:40:42.981Z",
+    "verifiedTitle": "International Hotels & Resorts | Sheraton Hotels & Resorts",
+    "meetingPageUrl": "https://sheraton.marriott.com/experience/meetings-and-events/"
   },
   {
     "id": 1255,
@@ -8704,7 +9156,9 @@
     "verified": true,
     "verifiedAt": "2026-02-27",
     "status": "上架",
-    "roomType": "會議中心"
+    "roomType": "會議中心",
+    "lastVerified": "2026-03-01T23:40:45.585Z",
+    "verificationError": "page.goto: net::ERR_CERT_COMMON_NAME_INVALID at https://www.tyairport.com/\nCall log:\n  - navigating to \"https://www.tyairport.com/\", waiting until \"domcontentloaded\"\n"
   },
   {
     "id": 1256,
@@ -8735,7 +9189,10 @@
     "verified": true,
     "verifiedAt": "2026-02-27",
     "status": "上架",
-    "roomType": "宴會廳"
+    "roomType": "宴會廳",
+    "lastVerified": "2026-03-01T23:40:52.835Z",
+    "verifiedTitle": "Premium Luxury Wellness Hotels | Westin Hotels & Resorts",
+    "meetingPageUrl": "https://www.marriott.com/en-us/meeting-event-hotels/group-reservations/westin.mi"
   },
   {
     "id": 1257,
@@ -8766,7 +9223,9 @@
     "verified": true,
     "verifiedAt": "2026-02-27",
     "status": "上架",
-    "roomType": "宴會廳"
+    "roomType": "宴會廳",
+    "lastVerified": "2026-03-01T23:40:54.619Z",
+    "verificationError": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.monarch-hotel.com/\nCall log:\n  - navigating to \"https://www.monarch-hotel.com/\", waiting until \"domcontentloaded\"\n"
   },
   {
     "id": 1258,
@@ -8797,7 +9256,9 @@
     "verified": true,
     "verifiedAt": "2026-02-27",
     "status": "上架",
-    "roomType": "宴會廳"
+    "roomType": "宴會廳",
+    "lastVerified": "2026-03-01T23:40:56.301Z",
+    "verificationError": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.sky-monarch.com/\nCall log:\n  - navigating to \"https://www.sky-monarch.com/\", waiting until \"domcontentloaded\"\n"
   },
   {
     "id": 1259,
@@ -8828,7 +9289,9 @@
     "verified": true,
     "verifiedAt": "2026-02-27",
     "status": "上架",
-    "roomType": "會議中心"
+    "roomType": "會議中心",
+    "lastVerified": "2026-03-01T23:40:57.994Z",
+    "verificationError": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.tycec.com/\nCall log:\n  - navigating to \"https://www.tycec.com/\", waiting until \"domcontentloaded\"\n"
   },
   {
     "id": 1260,
@@ -8859,7 +9322,9 @@
     "verified": true,
     "verifiedAt": "2026-02-27",
     "status": "上架",
-    "roomType": "展覽館"
+    "roomType": "展覽館",
+    "lastVerified": "2026-03-01T23:40:59.716Z",
+    "verificationError": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.tyarts.org/\nCall log:\n  - navigating to \"https://www.tyarts.org/\", waiting until \"domcontentloaded\"\n"
   },
   {
     "id": 1261,
@@ -8909,7 +9374,9 @@
     "verified": true,
     "verifiedAt": "2026-02-27",
     "status": "上架",
-    "roomType": "宴會廳"
+    "roomType": "宴會廳",
+    "lastVerified": "2026-03-01T23:41:05.103Z",
+    "verifiedTitle": "Accor - this address is not valid."
   },
   {
     "id": 1262,
@@ -8940,7 +9407,9 @@
     "verified": true,
     "verifiedAt": "2026-02-27",
     "status": "上架",
-    "roomType": "會議室"
+    "roomType": "會議室",
+    "lastVerified": "2026-03-01T23:41:24.342Z",
+    "verificationError": "page.goto: Timeout 20000ms exceeded.\nCall log:\n  - navigating to \"https://www.chengshe.com/\", waiting until \"domcontentloaded\"\n"
   },
   {
     "id": 1263,
@@ -8971,7 +9440,9 @@
     "verified": true,
     "verifiedAt": "2026-02-27",
     "status": "上架",
-    "roomType": "宴會廳"
+    "roomType": "宴會廳",
+    "lastVerified": "2026-03-01T23:41:34.532Z",
+    "verifiedTitle": "Business & Leisure Travel Hotels | Four Points by Sheraton"
   },
   {
     "id": 1264,
@@ -9002,7 +9473,9 @@
     "verified": true,
     "verifiedAt": "2026-02-27",
     "status": "上架",
-    "roomType": "宴會廳"
+    "roomType": "宴會廳",
+    "lastVerified": "2026-03-01T23:41:34.533Z",
+    "verifiedTitle": "Business & Leisure Travel Hotels | Four Points by Sheraton"
   },
   {
     "id": 1265,
@@ -9033,7 +9506,9 @@
     "verified": true,
     "verifiedAt": "2026-02-27",
     "status": "上架",
-    "roomType": "體育館"
+    "roomType": "體育館",
+    "lastVerified": "2026-03-01T23:41:36.174Z",
+    "verificationError": "page.goto: net::ERR_ADDRESS_UNREACHABLE at https://www.phc.edu.tw/\nCall log:\n  - navigating to \"https://www.phc.edu.tw/\", waiting until \"domcontentloaded\"\n"
   },
   {
     "id": 1266,
@@ -9064,7 +9539,10 @@
     "verified": true,
     "verifiedAt": "2026-02-27",
     "status": "上架",
-    "roomType": "宴會廳"
+    "roomType": "宴會廳",
+    "lastVerified": "2026-03-01T23:41:40.811Z",
+    "verifiedTitle": "太魯閣晶英酒店 | 花蓮太魯閣五星級度假酒店 | 官網訂房最低價，加購高鐵車票另享75折起優惠",
+    "meetingPageUrl": "https://taroko.silksplace.com/tw/dining"
   },
   {
     "id": 1267,
@@ -9135,7 +9613,9 @@
     "needsReview": true,
     "reviewNote": "機關場地申請方式複雜，需要驗證申請流程、價格、可用時間等資訊",
     "status": "上架",
-    "roomType": "展演空間"
+    "roomType": "展演空間",
+    "lastVerified": "2026-03-01T23:41:42.144Z",
+    "verifiedTitle": "The URL you requested has been blocked"
   },
   {
     "id": 1268,
@@ -9166,7 +9646,9 @@
     "verified": true,
     "verifiedAt": "2026-02-27",
     "status": "上架",
-    "roomType": "宴會廳"
+    "roomType": "宴會廳",
+    "lastVerified": "2026-03-01T23:41:47.220Z",
+    "verifiedTitle": ""
   },
   {
     "id": 1269,
@@ -9197,7 +9679,9 @@
     "verified": true,
     "verifiedAt": "2026-02-27",
     "status": "上架",
-    "roomType": "宴會廳"
+    "roomType": "宴會廳",
+    "lastVerified": "2026-03-01T23:41:47.220Z",
+    "verifiedTitle": ""
   },
   {
     "id": 1270,
@@ -9228,7 +9712,10 @@
     "verified": true,
     "verifiedAt": "2026-02-27",
     "status": "上架",
-    "roomType": "體育館"
+    "roomType": "體育館",
+    "lastVerified": "2026-03-01T23:41:55.743Z",
+    "verifiedTitle": "花蓮縣教育處全球資訊網",
+    "meetingPageUrl": "https://bulletin.hlc.edu.tw/modules/news/index.php?page=department&id=125399"
   },
   {
     "id": 1271,
@@ -9265,7 +9752,10 @@
     "createdAt": "2026-02-26T00:00:00.000Z",
     "status": "上架",
     "roomType": "宴會廳",
-    "url": "https://www.parkview-hotel.com"
+    "url": "https://www.parkview-hotel.com",
+    "lastVerified": "2026-03-01T23:42:02.776Z",
+    "verifiedTitle": "花蓮美侖大飯店 - 官方網站",
+    "meetingPageUrl": "https://www.parkview-hotel.com/restaurants/the-garden-court-western-restaurant/"
   },
   {
     "id": 1272,
@@ -9296,7 +9786,10 @@
     "verified": true,
     "verifiedAt": "2026-02-27",
     "status": "上架",
-    "roomType": "宴會廳"
+    "roomType": "宴會廳",
+    "lastVerified": "2026-03-01T23:42:02.776Z",
+    "verifiedTitle": "花蓮美侖大飯店 - 官方網站",
+    "meetingPageUrl": "https://www.parkview-hotel.com/restaurants/the-garden-court-western-restaurant/"
   },
   {
     "id": 1273,
@@ -9333,7 +9826,9 @@
     "createdAt": "2026-02-26T00:00:00.000Z",
     "status": "上架",
     "roomType": "宴會廳",
-    "url": "https://www.chateaudechine.com/hualien"
+    "url": "https://www.chateaudechine.com/hualien",
+    "lastVerified": "2026-03-01T23:42:07.220Z",
+    "verifiedTitle": "Chateau de Chine Hotel｜翰品酒店"
   },
   {
     "id": 1274,
@@ -9364,7 +9859,9 @@
     "verified": true,
     "verifiedAt": "2026-02-27",
     "status": "上架",
-    "roomType": "宴會廳"
+    "roomType": "宴會廳",
+    "lastVerified": "2026-03-01T23:42:07.220Z",
+    "verifiedTitle": "Chateau de Chine Hotel｜翰品酒店"
   },
   {
     "id": 1275,
@@ -9401,7 +9898,10 @@
     "createdAt": "2026-02-26T00:00:00.000Z",
     "status": "上架",
     "roomType": "宴會廳",
-    "url": "https://www.farglory-hotel.com.tw"
+    "url": "https://www.farglory-hotel.com.tw",
+    "lastVerified": "2026-03-01T23:42:11.454Z",
+    "verifiedTitle": "花蓮遠雄悅來大飯店|花蓮度假飯店最佳選擇",
+    "meetingPageUrl": "https://www.farglory-hotel.com.tw/news/travels/"
   },
   {
     "id": 1276,
@@ -9432,7 +9932,9 @@
     "verified": true,
     "verifiedAt": "2026-02-27",
     "status": "上架",
-    "roomType": "宴會廳"
+    "roomType": "宴會廳",
+    "lastVerified": "2026-03-01T23:42:13.697Z",
+    "verificationError": "page.goto: net::ERR_CONNECTION_REFUSED at https://www.farglory-hotel.com/\nCall log:\n  - navigating to \"https://www.farglory-hotel.com/\", waiting until \"domcontentloaded\"\n"
   },
   {
     "id": 1277,
@@ -9463,7 +9965,9 @@
     "verified": true,
     "verifiedAt": "2026-02-27",
     "status": "上架",
-    "roomType": "宴會廳"
+    "roomType": "宴會廳",
+    "lastVerified": "2026-03-01T23:42:15.339Z",
+    "verificationError": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.shangshun.com.tw/\nCall log:\n  - navigating to \"https://www.shangshun.com.tw/\", waiting until \"domcontentloaded\"\n"
   },
   {
     "id": 1278,
@@ -9495,7 +9999,9 @@
     "needsReview": true,
     "reviewNote": "機關場地申請方式複雜，需要驗證申請流程、價格、可用時間等資訊",
     "status": "上架",
-    "roomType": "演藝廳"
+    "roomType": "演藝廳",
+    "lastVerified": "2026-03-01T23:42:16.988Z",
+    "verificationError": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.mlc-culture.gov.tw/\nCall log:\n  - navigating to \"https://www.mlc-culture.gov.tw/\", waiting until \"domcontentloaded\"\n"
   },
   {
     "id": 1279,
@@ -9526,7 +10032,10 @@
     "verified": true,
     "verifiedAt": "2026-02-27",
     "status": "上架",
-    "roomType": "體育館"
+    "roomType": "體育館",
+    "lastVerified": "2026-03-01T23:42:22.229Z",
+    "verifiedTitle": "苗栗縣政府文化觀光局",
+    "meetingPageUrl": "https://www.mlc.gov.tw/search/List.aspx?Parser=99,12,78,,,,,,,,,,%e6%bc%94%e8%97%9d%e6%b4%bb%e5%8b%95"
   },
   {
     "id": 1280,
@@ -9557,7 +10066,10 @@
     "verified": true,
     "verifiedAt": "2026-02-27",
     "status": "上架",
-    "roomType": "宴會廳"
+    "roomType": "宴會廳",
+    "lastVerified": "2026-03-01T23:42:28.637Z",
+    "verifiedTitle": "西湖渡假村｜西湖渡假大飯店 安徒生異想世界",
+    "meetingPageUrl": "https://www.westlake.com.tw/dining/index.php?index_m_id=3"
   },
   {
     "id": 1281,
@@ -9589,7 +10101,10 @@
     "needsReview": true,
     "reviewNote": "機關場地申請方式複雜，需要驗證申請流程、價格、可用時間等資訊",
     "status": "上架",
-    "roomType": "活動中心"
+    "roomType": "活動中心",
+    "lastVerified": "2026-03-01T23:42:33.551Z",
+    "verifiedTitle": "香格里拉樂園 | Shangrila",
+    "meetingPageUrl": "https://www.shangrila.com.tw/works/detail/wOqL2QPA"
   },
   {
     "id": 1282,
@@ -9620,7 +10135,10 @@
     "verified": true,
     "verifiedAt": "2026-02-27",
     "status": "上架",
-    "roomType": "體育館"
+    "roomType": "體育館",
+    "lastVerified": "2026-03-01T23:42:39.163Z",
+    "verifiedTitle": "連江縣政府教育處-首頁",
+    "meetingPageUrl": "https://www.matsu.edu.tw/#"
   },
   {
     "id": 1283,
@@ -9651,7 +10169,9 @@
     "verified": true,
     "verifiedAt": "2026-02-27",
     "status": "上架",
-    "roomType": "會議室"
+    "roomType": "會議室",
+    "lastVerified": "2026-03-01T23:42:40.906Z",
+    "verificationError": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.qinbei-village.com/\nCall log:\n  - navigating to \"https://www.qinbei-village.com/\", waiting until \"domcontentloaded\"\n"
   },
   {
     "id": 1284,
@@ -9682,7 +10202,9 @@
     "verified": true,
     "verifiedAt": "2026-02-27",
     "status": "上架",
-    "roomType": "會議室"
+    "roomType": "會議室",
+    "lastVerified": "2026-03-01T23:42:40.225Z",
+    "verificationError": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.fuwo-hotel.com/\nCall log:\n  - navigating to \"https://www.fuwo-hotel.com/\", waiting until \"domcontentloaded\"\n"
   },
   {
     "id": 1285,
@@ -9713,7 +10235,9 @@
     "verified": true,
     "verifiedAt": "2026-02-27",
     "status": "上架",
-    "roomType": "會議室"
+    "roomType": "會議室",
+    "lastVerified": "2026-03-01T23:42:41.964Z",
+    "verificationError": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.matsusun.com/\nCall log:\n  - navigating to \"https://www.matsusun.com/\", waiting until \"domcontentloaded\"\n"
   },
   {
     "id": 1286,
@@ -9744,7 +10268,10 @@
     "verified": true,
     "verifiedAt": "2026-02-27",
     "status": "上架",
-    "roomType": "體育館"
+    "roomType": "體育館",
+    "lastVerified": "2026-03-01T23:42:45.716Z",
+    "verifiedTitle": "金門縣政府教育處",
+    "meetingPageUrl": "https://www.km.edu.tw/home?cid=348"
   },
   {
     "id": 1287,
@@ -9775,7 +10302,9 @@
     "verified": true,
     "verifiedAt": "2026-02-27",
     "status": "上架",
-    "roomType": "宴會廳"
+    "roomType": "宴會廳",
+    "lastVerified": "2026-03-01T23:42:47.453Z",
+    "verificationError": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.kinmenlake.com/\nCall log:\n  - navigating to \"https://www.kinmenlake.com/\", waiting until \"domcontentloaded\"\n"
   },
   {
     "id": 1288,
@@ -9806,7 +10335,9 @@
     "verified": true,
     "verifiedAt": "2026-02-27",
     "status": "上架",
-    "roomType": "宴會廳"
+    "roomType": "宴會廳",
+    "lastVerified": "2026-03-01T23:42:47.453Z",
+    "verificationError": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.kinmenlake.com/\nCall log:\n  - navigating to \"https://www.kinmenlake.com/\", waiting until \"domcontentloaded\"\n"
   },
   {
     "id": 1289,
@@ -9837,7 +10368,9 @@
     "verified": true,
     "verifiedAt": "2026-02-27",
     "status": "上架",
-    "roomType": "宴會廳"
+    "roomType": "宴會廳",
+    "lastVerified": "2026-03-01T23:42:51.197Z",
+    "verifiedTitle": "404 Not Found"
   },
   {
     "id": 1290,
@@ -9868,7 +10401,9 @@
     "verified": true,
     "verifiedAt": "2026-02-27",
     "status": "上架",
-    "roomType": "宴會廳"
+    "roomType": "宴會廳",
+    "lastVerified": "2026-03-01T23:42:51.197Z",
+    "verifiedTitle": "404 Not Found"
   },
   {
     "id": 1291,
@@ -9899,7 +10434,9 @@
     "verified": true,
     "verifiedAt": "2026-02-27",
     "status": "上架",
-    "roomType": "體育館"
+    "roomType": "體育館",
+    "lastVerified": "2026-03-01T23:43:10.438Z",
+    "verificationError": "page.goto: Timeout 20000ms exceeded.\nCall log:\n  - navigating to \"https://www.ylc.edu.tw/\", waiting until \"domcontentloaded\"\n"
   },
   {
     "id": 1292,
@@ -9930,7 +10467,10 @@
     "verified": true,
     "verifiedAt": "2026-02-27",
     "status": "上架",
-    "roomType": "會議中心"
+    "roomType": "會議中心",
+    "lastVerified": "2026-03-01T23:43:16.481Z",
+    "verifiedTitle": "國立虎尾科技大學",
+    "meetingPageUrl": "https://www.nfu.edu.tw/zh_tw/ann/club"
   },
   {
     "id": 1293,
@@ -9961,7 +10501,9 @@
     "verified": true,
     "verifiedAt": "2026-02-27",
     "status": "上架",
-    "roomType": "會議中心"
+    "roomType": "會議中心",
+    "lastVerified": "2026-03-01T23:43:18.112Z",
+    "verificationError": "page.goto: net::ERR_CERT_COMMON_NAME_INVALID at https://www.dream-mall.com.tw/\nCall log:\n  - navigating to \"https://www.dream-mall.com.tw/\", waiting until \"domcontentloaded\"\n"
   },
   {
     "id": 1294,
@@ -9992,7 +10534,9 @@
     "verified": true,
     "verifiedAt": "2026-02-27",
     "status": "上架",
-    "roomType": "演藝廳"
+    "roomType": "演藝廳",
+    "lastVerified": "2026-03-01T23:43:19.729Z",
+    "verificationError": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.dadong.gov.tw/\nCall log:\n  - navigating to \"https://www.dadong.gov.tw/\", waiting until \"domcontentloaded\"\n"
   },
   {
     "id": 1295,
@@ -10023,7 +10567,9 @@
     "verified": true,
     "verifiedAt": "2026-02-27",
     "status": "上架",
-    "roomType": "展覽館"
+    "roomType": "展覽館",
+    "lastVerified": "2026-03-01T23:43:19.730Z",
+    "verificationError": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.dadong.gov.tw/\nCall log:\n  - navigating to \"https://www.dadong.gov.tw/\", waiting until \"domcontentloaded\"\n"
   },
   {
     "id": 1296,
@@ -10054,7 +10600,9 @@
     "verified": true,
     "verifiedAt": "2026-02-27",
     "status": "上架",
-    "roomType": "婚宴會館"
+    "roomType": "婚宴會館",
+    "lastVerified": "2026-03-01T23:43:21.430Z",
+    "verificationError": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.newworld-kaohsiung.com/\nCall log:\n  - navigating to \"https://www.newworld-kaohsiung.com/\", waiting until \"domcontentloaded\"\n"
   },
   {
     "id": 1297,
@@ -10085,7 +10633,9 @@
     "verified": true,
     "verifiedAt": "2026-02-27",
     "status": "上架",
-    "roomType": "宴會廳"
+    "roomType": "宴會廳",
+    "lastVerified": "2026-03-01T23:43:23.275Z",
+    "verificationError": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.edith-sky.com/\nCall log:\n  - navigating to \"https://www.edith-sky.com/\", waiting until \"domcontentloaded\"\n"
   },
   {
     "id": 1298,
@@ -10116,7 +10666,9 @@
     "verified": true,
     "verifiedAt": "2026-02-27",
     "status": "上架",
-    "roomType": "宴會廳"
+    "roomType": "宴會廳",
+    "lastVerified": "2026-03-01T23:43:25.003Z",
+    "verificationError": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.edith-royal.com/\nCall log:\n  - navigating to \"https://www.edith-royal.com/\", waiting until \"domcontentloaded\"\n"
   },
   {
     "id": 1299,
@@ -10147,7 +10699,9 @@
     "verified": true,
     "verifiedAt": "2026-02-27",
     "status": "上架",
-    "roomType": "展覽館"
+    "roomType": "展覽館",
+    "lastVerified": "2026-03-01T23:43:26.635Z",
+    "verificationError": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.pier-2.tw/\nCall log:\n  - navigating to \"https://www.pier-2.tw/\", waiting until \"domcontentloaded\"\n"
   },
   {
     "id": 1300,
@@ -10178,7 +10732,9 @@
     "verified": true,
     "verifiedAt": "2026-02-27",
     "status": "上架",
-    "roomType": "宴會廳"
+    "roomType": "宴會廳",
+    "lastVerified": "2026-03-01T23:43:28.341Z",
+    "verificationError": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.rencheng-hotel.com/\nCall log:\n  - navigating to \"https://www.rencheng-hotel.com/\", waiting until \"domcontentloaded\"\n"
   },
   {
     "id": 1301,
@@ -10215,7 +10771,9 @@
     "createdAt": "2026-02-26T00:00:00.000Z",
     "status": "上架",
     "roomType": "宴會廳",
-    "url": "https://www.ambassadorhotel.com.tw/kaohsiung"
+    "url": "https://www.ambassadorhotel.com.tw/kaohsiung",
+    "lastVerified": "2026-03-01T23:43:47.608Z",
+    "verificationError": "page.goto: Timeout 20000ms exceeded.\nCall log:\n  - navigating to \"https://www.ambassadorhotel.com.tw/kaohsiung\", waiting until \"domcontentloaded\"\n"
   },
   {
     "id": 1302,
@@ -10246,7 +10804,9 @@
     "verified": true,
     "verifiedAt": "2026-02-27",
     "status": "上架",
-    "roomType": "宴會廳"
+    "roomType": "宴會廳",
+    "lastVerified": "2026-03-01T23:43:47.608Z",
+    "verificationError": "page.goto: Timeout 20000ms exceeded.\nCall log:\n  - navigating to \"https://www.ambassadorhotel.com.tw/kaohsiung\", waiting until \"domcontentloaded\"\n"
   },
   {
     "id": 1303,
@@ -10277,7 +10837,9 @@
     "verified": true,
     "verifiedAt": "2026-02-27",
     "status": "上架",
-    "roomType": "宴會廳"
+    "roomType": "宴會廳",
+    "lastVerified": "2026-03-01T23:43:52.082Z",
+    "verifiedTitle": "城市商旅 CitySuites"
   },
   {
     "id": 1304,
@@ -10314,7 +10876,9 @@
     "createdAt": "2026-02-26T00:00:00.000Z",
     "status": "上架",
     "roomType": "宴會廳",
-    "url": "https://www.han-hsien.com.tw"
+    "url": "https://www.han-hsien.com.tw",
+    "lastVerified": "2026-03-01T23:43:54.006Z",
+    "verificationError": "page.goto: net::ERR_CERT_COMMON_NAME_INVALID at https://www.han-hsien.com.tw/\nCall log:\n  - navigating to \"https://www.han-hsien.com.tw/\", waiting until \"domcontentloaded\"\n"
   },
   {
     "id": 1305,
@@ -10345,7 +10909,9 @@
     "verified": true,
     "verifiedAt": "2026-02-27",
     "status": "上架",
-    "roomType": "宴會廳"
+    "roomType": "宴會廳",
+    "lastVerified": "2026-03-01T23:43:55.700Z",
+    "verificationError": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.han-hsien.com/\nCall log:\n  - navigating to \"https://www.han-hsien.com/\", waiting until \"domcontentloaded\"\n"
   },
   {
     "name": "高雄展覽館(KEC)",
@@ -10382,7 +10948,10 @@
       "needsUpdate": true,
       "note": "待補充真實照片網址",
       "lastUpdated": "2026-03-01"
-    }
+    },
+    "lastVerified": "2026-03-01T23:44:01.291Z",
+    "verifiedTitle": "Asia's premier smart venue | Kaohsiung Exhibition Center - Home",
+    "meetingPageUrl": "https://www.kecc.com.tw/rental-venue"
   },
   {
     "id": 1307,
@@ -10413,7 +10982,9 @@
     "verified": true,
     "verifiedAt": "2026-02-27",
     "status": "上架",
-    "roomType": "體育館"
+    "roomType": "體育館",
+    "lastVerified": "2026-03-01T23:44:03.302Z",
+    "verificationError": "page.goto: net::ERR_CERT_COMMON_NAME_INVALID at https://www.k-arena.com/\nCall log:\n  - navigating to \"https://www.k-arena.com/\", waiting until \"domcontentloaded\"\n"
   },
   {
     "id": 1308,
@@ -10444,7 +11015,9 @@
     "verified": true,
     "verifiedAt": "2026-02-27",
     "status": "上架",
-    "roomType": "演藝廳"
+    "roomType": "演藝廳",
+    "lastVerified": "2026-03-01T23:44:04.961Z",
+    "verificationError": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.kmsm.gov.tw/\nCall log:\n  - navigating to \"https://www.kmsm.gov.tw/\", waiting until \"domcontentloaded\"\n"
   },
   {
     "id": 1309,
@@ -10475,7 +11048,9 @@
     "verified": true,
     "verifiedAt": "2026-02-27",
     "status": "上架",
-    "roomType": "演講廳"
+    "roomType": "演講廳",
+    "lastVerified": "2026-03-01T23:44:09.655Z",
+    "verifiedTitle": "高雄市立美術館"
   },
   {
     "id": 1310,
@@ -10506,7 +11081,10 @@
     "verified": true,
     "verifiedAt": "2026-02-27",
     "status": "上架",
-    "roomType": "體育館"
+    "roomType": "體育館",
+    "lastVerified": "2026-03-01T23:44:12.615Z",
+    "verifiedTitle": "高雄市政府全球資訊網",
+    "meetingPageUrl": "https://www.kcg.gov.tw/News.aspx?n=E77E3597EFBD960B&sms=40E530FA5316BE38"
   },
   {
     "id": 1311,
@@ -10537,7 +11115,9 @@
     "verified": true,
     "verifiedAt": "2026-02-27",
     "status": "上架",
-    "roomType": "宴會廳"
+    "roomType": "宴會廳",
+    "lastVerified": "2026-03-01T23:44:14.371Z",
+    "verificationError": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.tayih-kaohsiung.com/\nCall log:\n  - navigating to \"https://www.tayih-kaohsiung.com/\", waiting until \"domcontentloaded\"\n"
   },
   {
     "id": 1312,
@@ -10568,7 +11148,9 @@
     "verified": true,
     "verifiedAt": "2026-02-27",
     "status": "上架",
-    "roomType": "宴會廳"
+    "roomType": "宴會廳",
+    "lastVerified": "2026-03-01T23:44:17.494Z",
+    "verificationError": "page.goto: net::ERR_SSL_PROTOCOL_ERROR at https://www.justsleep.com/kaohsiung\nCall log:\n  - navigating to \"https://www.justsleep.com/kaohsiung\", waiting until \"domcontentloaded\"\n"
   },
   {
     "id": 1313,
@@ -10599,7 +11181,9 @@
     "verified": true,
     "verifiedAt": "2026-02-27",
     "status": "上架",
-    "roomType": "宴會廳"
+    "roomType": "宴會廳",
+    "lastVerified": "2026-03-01T23:44:19.127Z",
+    "verificationError": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.biohotel.com.tw/\nCall log:\n  - navigating to \"https://www.biohotel.com.tw/\", waiting until \"domcontentloaded\"\n"
   },
   {
     "name": "高雄洲際酒店",
@@ -10623,7 +11207,9 @@
       "needsUpdate": true,
       "note": "待補充真實照片網址",
       "lastUpdated": "2026-03-01"
-    }
+    },
+    "lastVerified": "2026-03-01T23:44:22.864Z",
+    "verifiedTitle": "Access Denied"
   },
   {
     "id": 1315,
@@ -10654,7 +11240,10 @@
     "verified": true,
     "verifiedAt": "2026-02-27",
     "status": "上架",
-    "roomType": "宴會廳"
+    "roomType": "宴會廳",
+    "lastVerified": "2026-03-01T23:44:31.341Z",
+    "verifiedTitle": "高雄漢來大飯店 GRAND HILAI KAOHSIUNG｜高雄住宿、國際五星級飯店",
+    "meetingPageUrl": "https://www.grand-hilai.com/meeting/"
   },
   {
     "id": 1316,
@@ -10691,7 +11280,9 @@
     "createdAt": "2026-02-26T00:00:00.000Z",
     "status": "上架",
     "roomType": "宴會廳",
-    "url": "https://www.howard-hotels.com.tw/kaohsiung"
+    "url": "https://www.howard-hotels.com.tw/kaohsiung",
+    "lastVerified": "2026-03-01T23:44:35.177Z",
+    "verifiedTitle": "Server error"
   },
   {
     "id": 1317,
@@ -10722,7 +11313,9 @@
     "verified": true,
     "verifiedAt": "2026-02-27",
     "status": "上架",
-    "roomType": "宴會廳"
+    "roomType": "宴會廳",
+    "lastVerified": "2026-03-01T23:44:35.177Z",
+    "verifiedTitle": "Server error"
   },
   {
     "id": 1318,
@@ -10753,7 +11346,10 @@
     "verified": true,
     "verifiedAt": "2026-02-27",
     "status": "上架",
-    "roomType": "演講廳"
+    "roomType": "演講廳",
+    "lastVerified": "2026-03-01T23:44:39.717Z",
+    "verifiedTitle": "國立科學工藝博物館",
+    "meetingPageUrl": "https://www.nstm.gov.tw/Search.aspx?q=%E6%B4%BB%E5%8B%95%E8%B3%87%E8%A8%8A"
   },
   {
     "id": 1319,
@@ -10784,7 +11380,9 @@
     "verified": true,
     "verifiedAt": "2026-02-27",
     "status": "上架",
-    "roomType": "會議室"
+    "roomType": "會議室",
+    "lastVerified": "2026-03-01T23:44:41.431Z",
+    "verificationError": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.liconhotel.com/\nCall log:\n  - navigating to \"https://www.liconhotel.com/\", waiting until \"domcontentloaded\"\n"
   },
   {
     "id": 1320,
@@ -10815,7 +11413,9 @@
     "verified": true,
     "verifiedAt": "2026-02-27",
     "status": "上架",
-    "roomType": "宴會廳"
+    "roomType": "宴會廳",
+    "lastVerified": "2026-03-01T23:44:43.182Z",
+    "verifiedTitle": "Access Denied"
   },
   {
     "id": 1321,
@@ -10852,7 +11452,9 @@
     "createdAt": "2026-02-26T00:00:00.000Z",
     "status": "上架",
     "roomType": "會議室",
-    "url": "https://www.eda-royal.com"
+    "url": "https://www.eda-royal.com",
+    "lastVerified": "2026-03-01T23:44:44.864Z",
+    "verificationError": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.eda-royal.com/\nCall log:\n  - navigating to \"https://www.eda-royal.com/\", waiting until \"domcontentloaded\"\n"
   },
   {
     "id": 1322,
@@ -10883,7 +11485,9 @@
     "verified": true,
     "verifiedAt": "2026-02-27",
     "status": "上架",
-    "roomType": "宴會廳"
+    "roomType": "宴會廳",
+    "lastVerified": "2026-03-01T23:44:49.094Z",
+    "verifiedTitle": "Chateau de Chine Hotel｜翰品酒店"
   },
   {
     "id": 1323,
@@ -10914,7 +11518,9 @@
     "verified": true,
     "verifiedAt": "2026-02-27",
     "status": "上架",
-    "roomType": "宴會廳"
+    "roomType": "宴會廳",
+    "lastVerified": "2026-03-01T23:44:50.991Z",
+    "verificationError": "page.goto: net::ERR_CONNECTION_REFUSED at https://www.han-huang.com/\nCall log:\n  - navigating to \"https://www.han-huang.com/\", waiting until \"domcontentloaded\"\n"
   },
   {
     "id": 1324,
@@ -10951,7 +11557,9 @@
     "createdAt": "2026-02-26T00:00:00.000Z",
     "status": "上架",
     "roomType": "宴會廳",
-    "url": "https://www.han-yuan.com.tw"
+    "url": "https://www.han-yuan.com.tw",
+    "lastVerified": "2026-03-01T23:44:54.684Z",
+    "verifiedTitle": "漢元技研有限公司"
   },
   {
     "id": 1325,
@@ -10982,7 +11590,9 @@
     "verified": true,
     "verifiedAt": "2026-02-27",
     "status": "上架",
-    "roomType": "宴會廳"
+    "roomType": "宴會廳",
+    "lastVerified": "2026-03-01T23:44:58.411Z",
+    "verifiedTitle": "Access Denied"
   },
   {
     "id": 1326,
@@ -11013,7 +11623,9 @@
     "verified": true,
     "verifiedAt": "2026-02-27",
     "status": "上架",
-    "roomType": "宴會廳"
+    "roomType": "宴會廳",
+    "lastVerified": "2026-03-01T23:45:00.178Z",
+    "verificationError": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.huawang-hotel.com/\nCall log:\n  - navigating to \"https://www.huawang-hotel.com/\", waiting until \"domcontentloaded\"\n"
   },
   {
     "id": 1327,
@@ -11275,7 +11887,9 @@
     "missingFields": [
       "照片"
     ],
-    "lastUpdated": "2026-03-01T23:07:15.061Z"
+    "lastUpdated": "2026-03-01T23:07:15.061Z",
+    "lastVerified": "2026-03-01T23:45:01.834Z",
+    "verificationError": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://zssc.cyc.org.tw/\nCall log:\n  - navigating to \"https://zssc.cyc.org.tw/\", waiting until \"domcontentloaded\"\n"
   },
   {
     "id": 1335,
@@ -11312,7 +11926,9 @@
       "會議室名稱（具體）",
       "照片"
     ],
-    "lastUpdated": "2026-03-01T23:07:15.061Z"
+    "lastUpdated": "2026-03-01T23:07:15.061Z",
+    "lastVerified": "2026-03-01T23:45:03.477Z",
+    "verificationError": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://xysc.cyc.org.tw/\nCall log:\n  - navigating to \"https://xysc.cyc.org.tw/\", waiting until \"domcontentloaded\"\n"
   },
   {
     "id": 1336,
@@ -11348,7 +11964,10 @@
     "missingFields": [
       "照片"
     ],
-    "lastUpdated": "2026-03-01T23:07:15.061Z"
+    "lastUpdated": "2026-03-01T23:07:15.061Z",
+    "lastVerified": "2026-03-01T23:45:08.126Z",
+    "verifiedTitle": "內湖運動中心",
+    "meetingPageUrl": "https://scr.cyc.org.tw/tp12.aspx"
   },
   {
     "id": 1337,
@@ -11384,7 +12003,10 @@
       "教室式人數",
       "照片"
     ],
-    "lastUpdated": "2026-03-01T23:07:15.061Z"
+    "lastUpdated": "2026-03-01T23:07:15.061Z",
+    "lastVerified": "2026-03-01T23:45:10.609Z",
+    "verifiedTitle": "國立國父紀念館",
+    "meetingPageUrl": "https://www.yatsen.gov.tw/cl.aspx?n=6679"
   },
   {
     "id": 1338,
@@ -11455,7 +12077,9 @@
       "教室式人數",
       "照片"
     ],
-    "lastUpdated": "2026-03-01T23:07:15.063Z"
+    "lastUpdated": "2026-03-01T23:07:15.063Z",
+    "lastVerified": "2026-03-01T23:45:12.235Z",
+    "verificationError": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://thcf.org.tw/\nCall log:\n  - navigating to \"https://thcf.org.tw/\", waiting until \"domcontentloaded\"\n"
   },
   {
     "name": "朱崙區民活動中心",
@@ -11497,7 +12121,9 @@
       "照片",
       "聯絡電話"
     ],
-    "lastUpdated": "2026-03-01T23:07:15.061Z"
+    "lastUpdated": "2026-03-01T23:07:15.061Z",
+    "lastVerified": "2026-03-01T23:45:13.876Z",
+    "verificationError": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://zsdp.gov.taipei/\nCall log:\n  - navigating to \"https://zsdp.gov.taipei/\", waiting until \"domcontentloaded\"\n"
   },
   {
     "id": 1340,
@@ -11577,7 +12203,9 @@
       "教室式人數",
       "照片"
     ],
-    "lastUpdated": "2026-03-01T23:07:15.061Z"
+    "lastUpdated": "2026-03-01T23:07:15.061Z",
+    "lastVerified": "2026-03-01T23:45:13.876Z",
+    "verificationError": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://zsdp.gov.taipei/\nCall log:\n  - navigating to \"https://zsdp.gov.taipei/\", waiting until \"domcontentloaded\"\n"
   },
   {
     "name": "林森三區民活動中心",
@@ -11625,7 +12253,9 @@
       "照片",
       "聯絡電話"
     ],
-    "lastUpdated": "2026-03-01T23:07:15.062Z"
+    "lastUpdated": "2026-03-01T23:07:15.062Z",
+    "lastVerified": "2026-03-01T23:45:13.876Z",
+    "verificationError": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://zsdp.gov.taipei/\nCall log:\n  - navigating to \"https://zsdp.gov.taipei/\", waiting until \"domcontentloaded\"\n"
   },
   {
     "id": 1342,
@@ -13123,7 +13753,10 @@
     "verified": true,
     "verifiedAt": "2026-03-01",
     "status": "上架",
-    "roomType": "宴會廳"
+    "roomType": "宴會廳",
+    "lastVerified": "2026-03-01T23:30:24.463Z",
+    "verifiedTitle": "台北喜來登大飯店 Sheraton Grand Taipei Hotel",
+    "meetingPageUrl": "https://www.sheratongrandtaipei.com/websev?lang=zh-tw&ref=pages&cat=2&id=16"
   },
   {
     "id": 1385,
@@ -13158,7 +13791,10 @@
     "verified": true,
     "verifiedAt": "2026-03-01",
     "status": "上架",
-    "roomType": "宴會廳"
+    "roomType": "宴會廳",
+    "lastVerified": "2026-03-01T23:30:24.463Z",
+    "verifiedTitle": "台北喜來登大飯店 Sheraton Grand Taipei Hotel",
+    "meetingPageUrl": "https://www.sheratongrandtaipei.com/websev?lang=zh-tw&ref=pages&cat=2&id=16"
   },
   {
     "id": 1386,
@@ -13199,7 +13835,10 @@
     "roomType": "宴會廳",
     "areaPing": 193,
     "areaSqm": 640,
-    "dimensions": "25.8×25.3×5.6公尺"
+    "dimensions": "25.8×25.3×5.6公尺",
+    "lastVerified": "2026-03-01T23:30:24.463Z",
+    "verifiedTitle": "台北喜來登大飯店 Sheraton Grand Taipei Hotel",
+    "meetingPageUrl": "https://www.sheratongrandtaipei.com/websev?lang=zh-tw&ref=pages&cat=2&id=16"
   },
   {
     "id": 1387,
@@ -13234,7 +13873,10 @@
     "verified": true,
     "verifiedAt": "2026-03-01",
     "status": "上架",
-    "roomType": "宴會廳"
+    "roomType": "宴會廳",
+    "lastVerified": "2026-03-01T23:30:24.463Z",
+    "verifiedTitle": "台北喜來登大飯店 Sheraton Grand Taipei Hotel",
+    "meetingPageUrl": "https://www.sheratongrandtaipei.com/websev?lang=zh-tw&ref=pages&cat=2&id=16"
   },
   {
     "id": 1388,
@@ -13270,7 +13912,10 @@
     "verified": true,
     "verifiedAt": "2026-03-01",
     "status": "上架",
-    "roomType": "宴會廳"
+    "roomType": "宴會廳",
+    "lastVerified": "2026-03-01T23:31:09.674Z",
+    "verifiedTitle": "圓山大飯店",
+    "meetingPageUrl": "https://www.grand-hotel.org/TW/index.aspx#"
   },
   {
     "id": 1389,
@@ -13306,7 +13951,10 @@
     "verified": true,
     "verifiedAt": "2026-03-01",
     "status": "上架",
-    "roomType": "宴會廳"
+    "roomType": "宴會廳",
+    "lastVerified": "2026-03-01T23:31:09.674Z",
+    "verifiedTitle": "圓山大飯店",
+    "meetingPageUrl": "https://www.grand-hotel.org/TW/index.aspx#"
   },
   {
     "id": 1390,
@@ -13342,7 +13990,10 @@
     "verified": true,
     "verifiedAt": "2026-03-01",
     "status": "上架",
-    "roomType": "宴會廳"
+    "roomType": "宴會廳",
+    "lastVerified": "2026-03-01T23:31:09.674Z",
+    "verifiedTitle": "圓山大飯店",
+    "meetingPageUrl": "https://www.grand-hotel.org/TW/index.aspx#"
   },
   {
     "id": 1391,
@@ -13378,7 +14029,10 @@
     "verified": true,
     "verifiedAt": "2026-03-01",
     "status": "上架",
-    "roomType": "宴會廳"
+    "roomType": "宴會廳",
+    "lastVerified": "2026-03-01T23:31:09.674Z",
+    "verifiedTitle": "圓山大飯店",
+    "meetingPageUrl": "https://www.grand-hotel.org/TW/index.aspx#"
   },
   {
     "id": 1392,
@@ -13437,7 +14091,10 @@
     "verified": true,
     "verifiedAt": "2026-03-01",
     "status": "上架",
-    "roomType": "宴會廳"
+    "roomType": "宴會廳",
+    "lastVerified": "2026-03-01T23:31:42.712Z",
+    "verifiedTitle": "Luxury 5 Star Hotel | Songshan | Mandarin Oriental, Taipei",
+    "meetingPageUrl": "https://www.mandarinoriental.com/en/taipei/songshan/events"
   },
   {
     "id": 1393,
@@ -13496,7 +14153,10 @@
     "verified": true,
     "verifiedAt": "2026-03-01",
     "status": "上架",
-    "roomType": "宴會廳"
+    "roomType": "宴會廳",
+    "lastVerified": "2026-03-01T23:31:42.712Z",
+    "verifiedTitle": "Luxury 5 Star Hotel | Songshan | Mandarin Oriental, Taipei",
+    "meetingPageUrl": "https://www.mandarinoriental.com/en/taipei/songshan/events"
   },
   {
     "id": 1394,
@@ -13555,7 +14215,10 @@
     "verified": true,
     "verifiedAt": "2026-03-01",
     "status": "上架",
-    "roomType": "宴會廳"
+    "roomType": "宴會廳",
+    "lastVerified": "2026-03-01T23:31:42.712Z",
+    "verifiedTitle": "Luxury 5 Star Hotel | Songshan | Mandarin Oriental, Taipei",
+    "meetingPageUrl": "https://www.mandarinoriental.com/en/taipei/songshan/events"
   },
   {
     "id": 1395,
@@ -13614,7 +14277,10 @@
     "verified": true,
     "verifiedAt": "2026-03-01",
     "status": "上架",
-    "roomType": "宴會廳"
+    "roomType": "宴會廳",
+    "lastVerified": "2026-03-01T23:31:42.712Z",
+    "verifiedTitle": "Luxury 5 Star Hotel | Songshan | Mandarin Oriental, Taipei",
+    "meetingPageUrl": "https://www.mandarinoriental.com/en/taipei/songshan/events"
   },
   {
     "id": 1396,
@@ -13646,7 +14312,9 @@
     "verified": true,
     "verifiedAt": "2026-03-01",
     "status": "上架",
-    "roomType": "宴會廳"
+    "roomType": "宴會廳",
+    "lastVerified": "2026-03-01T23:31:05.258Z",
+    "verificationError": "page.goto: Timeout 20000ms exceeded.\nCall log:\n  - navigating to \"https://www.ambassadorhotel.com.tw/taipei\", waiting until \"domcontentloaded\"\n"
   },
   {
     "id": 1397,
@@ -13678,7 +14346,9 @@
     "verified": true,
     "verifiedAt": "2026-03-01",
     "status": "上架",
-    "roomType": "宴會廳"
+    "roomType": "宴會廳",
+    "lastVerified": "2026-03-01T23:31:05.258Z",
+    "verificationError": "page.goto: Timeout 20000ms exceeded.\nCall log:\n  - navigating to \"https://www.ambassadorhotel.com.tw/taipei\", waiting until \"domcontentloaded\"\n"
   },
   {
     "id": 1398,
@@ -13710,7 +14380,9 @@
     "verified": true,
     "verifiedAt": "2026-03-01",
     "status": "上架",
-    "roomType": "宴會廳"
+    "roomType": "宴會廳",
+    "lastVerified": "2026-03-01T23:31:05.258Z",
+    "verificationError": "page.goto: Timeout 20000ms exceeded.\nCall log:\n  - navigating to \"https://www.ambassadorhotel.com.tw/taipei\", waiting until \"domcontentloaded\"\n"
   },
   {
     "id": 1399,
@@ -13742,7 +14414,9 @@
     "verified": true,
     "verifiedAt": "2026-03-01",
     "status": "上架",
-    "roomType": "宴會廳"
+    "roomType": "宴會廳",
+    "lastVerified": "2026-03-01T23:31:05.258Z",
+    "verificationError": "page.goto: Timeout 20000ms exceeded.\nCall log:\n  - navigating to \"https://www.ambassadorhotel.com.tw/taipei\", waiting until \"domcontentloaded\"\n"
   },
   {
     "id": 1400,
@@ -13783,7 +14457,10 @@
     "status": "上架",
     "roomType": "宴會廳",
     "url": "https://www.westin.com/taipei",
-    "verifiedAt": "2026-03-01"
+    "verifiedAt": "2026-03-01",
+    "lastVerified": "2026-03-01T23:31:15.675Z",
+    "verifiedTitle": "Premium Luxury Wellness Hotels | Westin Hotels & Resorts",
+    "meetingPageUrl": "https://www.marriott.com/en-us/meeting-event-hotels/group-reservations/westin.mi"
   },
   {
     "id": 1401,
@@ -13824,7 +14501,10 @@
     "status": "上架",
     "roomType": "宴會廳",
     "url": "https://www.westin.com/taipei",
-    "verifiedAt": "2026-03-01"
+    "verifiedAt": "2026-03-01",
+    "lastVerified": "2026-03-01T23:31:15.675Z",
+    "verifiedTitle": "Premium Luxury Wellness Hotels | Westin Hotels & Resorts",
+    "meetingPageUrl": "https://www.marriott.com/en-us/meeting-event-hotels/group-reservations/westin.mi"
   },
   {
     "id": 1402,
@@ -13865,7 +14545,10 @@
     "status": "上架",
     "roomType": "宴會廳",
     "url": "https://www.westin.com/taipei",
-    "verifiedAt": "2026-03-01"
+    "verifiedAt": "2026-03-01",
+    "lastVerified": "2026-03-01T23:31:15.675Z",
+    "verifiedTitle": "Premium Luxury Wellness Hotels | Westin Hotels & Resorts",
+    "meetingPageUrl": "https://www.marriott.com/en-us/meeting-event-hotels/group-reservations/westin.mi"
   },
   {
     "id": 1403,
@@ -13906,7 +14589,10 @@
     "status": "上架",
     "roomType": "宴會廳",
     "url": "https://www.westin.com/taipei",
-    "verifiedAt": "2026-03-01"
+    "verifiedAt": "2026-03-01",
+    "lastVerified": "2026-03-01T23:31:15.675Z",
+    "verifiedTitle": "Premium Luxury Wellness Hotels | Westin Hotels & Resorts",
+    "meetingPageUrl": "https://www.marriott.com/en-us/meeting-event-hotels/group-reservations/westin.mi"
   },
   {
     "id": 1404,
@@ -13936,7 +14622,10 @@
     "verified": true,
     "verifiedAt": "2026-03-01",
     "status": "上架",
-    "roomType": "宴會廳"
+    "roomType": "宴會廳",
+    "lastVerified": "2026-03-01T23:31:22.066Z",
+    "verifiedTitle": "台北寒舍艾美酒店 - Le Méridien Taipei",
+    "meetingPageUrl": "https://www.lemeridien-taipei.com/websev?lang=zh-tw&ref=pages&cat=43&type=0"
   },
   {
     "id": 1405,
@@ -13999,7 +14688,10 @@
     "verified": true,
     "verifiedAt": "2026-03-01",
     "status": "上架",
-    "roomType": "宴會廳"
+    "roomType": "宴會廳",
+    "lastVerified": "2026-03-01T23:31:22.066Z",
+    "verifiedTitle": "台北寒舍艾美酒店 - Le Méridien Taipei",
+    "meetingPageUrl": "https://www.lemeridien-taipei.com/websev?lang=zh-tw&ref=pages&cat=43&type=0"
   },
   {
     "id": 1407,
@@ -14029,7 +14721,10 @@
     "verified": true,
     "verifiedAt": "2026-03-01",
     "status": "上架",
-    "roomType": "宴會廳"
+    "roomType": "宴會廳",
+    "lastVerified": "2026-03-01T23:31:22.066Z",
+    "verifiedTitle": "台北寒舍艾美酒店 - Le Méridien Taipei",
+    "meetingPageUrl": "https://www.lemeridien-taipei.com/websev?lang=zh-tw&ref=pages&cat=43&type=0"
   },
   {
     "id": 1408,
@@ -14102,7 +14797,9 @@
     "verified": true,
     "verifiedAt": "2026-03-01",
     "status": "上架",
-    "roomType": "宴會廳"
+    "roomType": "宴會廳",
+    "lastVerified": "2026-03-01T23:29:49.151Z",
+    "verifiedTitle": "palaisdechine.com"
   },
   {
     "id": 1410,
@@ -14137,7 +14834,9 @@
     "verified": true,
     "verifiedAt": "2026-03-01",
     "status": "上架",
-    "roomType": "宴會廳"
+    "roomType": "宴會廳",
+    "lastVerified": "2026-03-01T23:29:49.151Z",
+    "verifiedTitle": "palaisdechine.com"
   },
   {
     "id": 1411,
@@ -14244,7 +14943,9 @@
     "verified": true,
     "verifiedAt": "2026-03-01",
     "status": "上架",
-    "roomType": "宴會廳"
+    "roomType": "宴會廳",
+    "lastVerified": "2026-03-01T23:27:59.587Z",
+    "verifiedTitle": "Server error"
   },
   {
     "id": 1414,
@@ -14275,7 +14976,9 @@
     "verified": true,
     "verifiedAt": "2026-03-01",
     "status": "上架",
-    "roomType": "宴會廳"
+    "roomType": "宴會廳",
+    "lastVerified": "2026-03-01T23:27:59.587Z",
+    "verifiedTitle": "Server error"
   },
   {
     "id": 1415,
@@ -14306,7 +15009,9 @@
     "verified": true,
     "verifiedAt": "2026-03-01",
     "status": "上架",
-    "roomType": "宴會廳"
+    "roomType": "宴會廳",
+    "lastVerified": "2026-03-01T23:27:59.587Z",
+    "verifiedTitle": "Server error"
   },
   {
     "id": 1416,
@@ -14337,7 +15042,9 @@
     "verified": true,
     "verifiedAt": "2026-03-01",
     "status": "上架",
-    "roomType": "宴會廳"
+    "roomType": "宴會廳",
+    "lastVerified": "2026-03-01T23:27:35.526Z",
+    "verifiedTitle": "Attention Required! | Cloudflare"
   },
   {
     "id": 1417,
@@ -14368,7 +15075,9 @@
     "verified": true,
     "verifiedAt": "2026-03-01",
     "status": "上架",
-    "roomType": "宴會廳"
+    "roomType": "宴會廳",
+    "lastVerified": "2026-03-01T23:27:35.526Z",
+    "verifiedTitle": "Attention Required! | Cloudflare"
   },
   {
     "id": 1418,
@@ -14399,7 +15108,9 @@
     "verified": true,
     "verifiedAt": "2026-03-01",
     "status": "上架",
-    "roomType": "宴會廳"
+    "roomType": "宴會廳",
+    "lastVerified": "2026-03-01T23:27:35.526Z",
+    "verifiedTitle": "Attention Required! | Cloudflare"
   },
   {
     "id": 1419,
@@ -14430,7 +15141,9 @@
     "verified": true,
     "verifiedAt": "2026-03-01",
     "status": "上架",
-    "roomType": "宴會廳"
+    "roomType": "宴會廳",
+    "lastVerified": "2026-03-01T23:27:38.945Z",
+    "verificationError": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.linhotel.com.tw/\nCall log:\n  - navigating to \"https://www.linhotel.com.tw/\", waiting until \"domcontentloaded\"\n"
   },
   {
     "id": 1420,
@@ -14461,7 +15174,9 @@
     "verified": true,
     "verifiedAt": "2026-03-01",
     "status": "上架",
-    "roomType": "宴會廳"
+    "roomType": "宴會廳",
+    "lastVerified": "2026-03-01T23:27:38.945Z",
+    "verificationError": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.linhotel.com.tw/\nCall log:\n  - navigating to \"https://www.linhotel.com.tw/\", waiting until \"domcontentloaded\"\n"
   },
   {
     "id": 1421,
@@ -14492,7 +15207,10 @@
     "verified": true,
     "verifiedAt": "2026-03-01",
     "status": "上架",
-    "roomType": "宴會廳"
+    "roomType": "宴會廳",
+    "lastVerified": "2026-03-01T23:28:07.592Z",
+    "verifiedTitle": "Windsor Hotel Taichung",
+    "meetingPageUrl": "https://www.windsortaiwan.com/tw/place"
   },
   {
     "id": 1422,
@@ -14523,7 +15241,10 @@
     "verified": true,
     "verifiedAt": "2026-03-01",
     "status": "上架",
-    "roomType": "宴會廳"
+    "roomType": "宴會廳",
+    "lastVerified": "2026-03-01T23:28:07.592Z",
+    "verifiedTitle": "Windsor Hotel Taichung",
+    "meetingPageUrl": "https://www.windsortaiwan.com/tw/place"
   },
   {
     "id": 1423,
@@ -14554,7 +15275,10 @@
     "verified": true,
     "verifiedAt": "2026-03-01",
     "status": "上架",
-    "roomType": "宴會廳"
+    "roomType": "宴會廳",
+    "lastVerified": "2026-03-01T23:28:07.592Z",
+    "verifiedTitle": "Windsor Hotel Taichung",
+    "meetingPageUrl": "https://www.windsortaiwan.com/tw/place"
   },
   {
     "id": 1424,
@@ -14585,7 +15309,9 @@
     "verified": true,
     "verifiedAt": "2026-03-01",
     "status": "上架",
-    "roomType": "宴會廳"
+    "roomType": "宴會廳",
+    "lastVerified": "2026-03-01T23:28:17.212Z",
+    "verifiedTitle": "EVERGREEN HOTELS"
   },
   {
     "id": 1425,
@@ -14616,7 +15342,9 @@
     "verified": true,
     "verifiedAt": "2026-03-01",
     "status": "上架",
-    "roomType": "宴會廳"
+    "roomType": "宴會廳",
+    "lastVerified": "2026-03-01T23:28:17.212Z",
+    "verifiedTitle": "EVERGREEN HOTELS"
   },
   {
     "id": 1426,
@@ -14647,7 +15375,9 @@
     "verified": true,
     "verifiedAt": "2026-03-01",
     "status": "上架",
-    "roomType": "宴會廳"
+    "roomType": "宴會廳",
+    "lastVerified": "2026-03-01T23:28:17.212Z",
+    "verifiedTitle": "EVERGREEN HOTELS"
   },
   {
     "id": 1427,
@@ -14678,7 +15408,9 @@
     "verified": true,
     "verifiedAt": "2026-03-01",
     "status": "上架",
-    "roomType": "宴會廳"
+    "roomType": "宴會廳",
+    "lastVerified": "2026-03-01T23:27:02.818Z",
+    "verifiedTitle": "涵碧楼酒店-The Lalu Hotels and Resorts"
   },
   {
     "id": 1428,
@@ -14709,7 +15441,9 @@
     "verified": true,
     "verifiedAt": "2026-03-01",
     "status": "上架",
-    "roomType": "宴會廳"
+    "roomType": "宴會廳",
+    "lastVerified": "2026-03-01T23:27:02.818Z",
+    "verifiedTitle": "涵碧楼酒店-The Lalu Hotels and Resorts"
   },
   {
     "id": 1433,
@@ -14744,7 +15478,9 @@
     "verified": true,
     "verifiedAt": "2026-03-01",
     "status": "上架",
-    "roomType": "會議中心"
+    "roomType": "會議中心",
+    "lastVerified": "2026-03-01T23:45:15.599Z",
+    "verificationError": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.ntuacc.org/\nCall log:\n  - navigating to \"https://www.ntuacc.org/\", waiting until \"domcontentloaded\"\n"
   },
   {
     "id": 1434,
@@ -14779,7 +15515,9 @@
     "verified": true,
     "verifiedAt": "2026-03-01",
     "status": "上架",
-    "roomType": "會議中心"
+    "roomType": "會議中心",
+    "lastVerified": "2026-03-01T23:45:15.599Z",
+    "verificationError": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.ntuacc.org/\nCall log:\n  - navigating to \"https://www.ntuacc.org/\", waiting until \"domcontentloaded\"\n"
   },
   {
     "id": 1435,
@@ -14814,7 +15552,9 @@
     "verified": true,
     "verifiedAt": "2026-03-01",
     "status": "上架",
-    "roomType": "會議中心"
+    "roomType": "會議中心",
+    "lastVerified": "2026-03-01T23:45:15.599Z",
+    "verificationError": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.ntuacc.org/\nCall log:\n  - navigating to \"https://www.ntuacc.org/\", waiting until \"domcontentloaded\"\n"
   },
   {
     "id": 1436,
@@ -14849,7 +15589,9 @@
     "verified": true,
     "verifiedAt": "2026-03-01",
     "status": "上架",
-    "roomType": "會議中心"
+    "roomType": "會議中心",
+    "lastVerified": "2026-03-01T23:45:17.334Z",
+    "verificationError": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.yfpcf.org/\nCall log:\n  - navigating to \"https://www.yfpcf.org/\", waiting until \"domcontentloaded\"\n"
   },
   {
     "id": 1437,
@@ -14884,7 +15626,9 @@
     "verified": true,
     "verifiedAt": "2026-03-01",
     "status": "上架",
-    "roomType": "會議中心"
+    "roomType": "會議中心",
+    "lastVerified": "2026-03-01T23:45:17.334Z",
+    "verificationError": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.yfpcf.org/\nCall log:\n  - navigating to \"https://www.yfpcf.org/\", waiting until \"domcontentloaded\"\n"
   },
   {
     "id": 1438,
@@ -14919,7 +15663,9 @@
     "verified": true,
     "verifiedAt": "2026-03-01",
     "status": "上架",
-    "roomType": "會議中心"
+    "roomType": "會議中心",
+    "lastVerified": "2026-03-01T23:45:17.334Z",
+    "verificationError": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.yfpcf.org/\nCall log:\n  - navigating to \"https://www.yfpcf.org/\", waiting until \"domcontentloaded\"\n"
   },
   {
     "id": 1439,
@@ -14952,7 +15698,10 @@
     "verified": true,
     "verifiedAt": "2026-03-01",
     "status": "上架",
-    "roomType": "會議室"
+    "roomType": "會議室",
+    "lastVerified": "2026-03-01T23:28:46.930Z",
+    "verifiedTitle": "CLBC 共同工作空間與複合式展演活動空間 - CLBC",
+    "meetingPageUrl": "https://clbc.tw/clbc%E6%B4%BB%E5%8B%95%E5%A0%B4%E5%9C%B0%E7%A9%BA%E9%96%93%E7%A7%9F%E5%80%9F/"
   },
   {
     "id": 1440,
@@ -14985,7 +15734,10 @@
     "verified": true,
     "verifiedAt": "2026-03-01",
     "status": "上架",
-    "roomType": "會議室"
+    "roomType": "會議室",
+    "lastVerified": "2026-03-01T23:28:46.930Z",
+    "verifiedTitle": "CLBC 共同工作空間與複合式展演活動空間 - CLBC",
+    "meetingPageUrl": "https://clbc.tw/clbc%E6%B4%BB%E5%8B%95%E5%A0%B4%E5%9C%B0%E7%A9%BA%E9%96%93%E7%A7%9F%E5%80%9F/"
   },
   {
     "id": 1448,
