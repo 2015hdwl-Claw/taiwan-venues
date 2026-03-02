@@ -2606,9 +2606,11 @@
       "照片"
     ],
     "lastUpdated": "2026-03-02T08:24:15.122Z",
-    "lastVerified": "2026-03-02T10:34:35.882Z",
+    "lastVerified": "2026-03-02T15:23:44.184Z",
     "verificationError": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.tbc-group.com/\nCall log:\n  - navigating to \"https://www.tbc-group.com/\", waiting until \"domcontentloaded\"\n",
-    "note": "已歇業"
+    "note": "已歇業",
+    "verificationStatus": "待確認",
+    "verificationNote": "官網失效（DNS錯誤）"
   },
   {
     "id": 1067,
@@ -2767,10 +2769,13 @@
     "verifiedAt": "2026-02-27",
     "status": "上架",
     "roomType": "宴會廳",
-    "lastVerified": "2026-03-01T23:31:09.674Z",
+    "lastVerified": "2026-03-02T15:23:44.183Z",
     "verifiedTitle": "圓山大飯店",
     "meetingPageUrl": "https://www.grand-hotel.org/TW/index.aspx#",
-    "lastUpdated": "2026-03-02T00:16:32.389Z"
+    "lastUpdated": "2026-03-02T00:16:32.389Z",
+    "venueListUrl": "https://www.grand-hotel.org/TW/official/ballroom.aspx?gh=TP",
+    "verificationStatus": "已驗證",
+    "verificationNote": "會議室清單已補充（9個會議廳/宴會廳）"
   },
   {
     "id": 1073,
@@ -5040,10 +5045,11 @@
     "status": "上架",
     "roomType": "會議中心",
     "lastUpdated": "2026-03-02T00:16:32.385Z",
-    "verificationStatus": "已驗證",
-    "lastVerified": "2026-03-02T13:17:17.619Z",
+    "verificationStatus": "待確認",
+    "lastVerified": "2026-03-02T15:23:44.189Z",
     "venueListUrl": "https://www.meeting.com.tw/ntu/index.php",
-    "venueMainImageUrl": "https://www.meeting.com.tw/ntu/images/floor-ntu.png"
+    "venueMainImageUrl": "https://www.meeting.com.tw/ntu/images/floor-ntu.png",
+    "verificationNote": "官網失效（DNS錯誤）"
   },
   {
     "id": 1129,
@@ -14549,9 +14555,12 @@
     "verifiedAt": "2026-03-01",
     "status": "上架",
     "roomType": "宴會廳",
-    "lastVerified": "2026-03-01T23:31:09.674Z",
+    "lastVerified": "2026-03-02T15:23:44.184Z",
     "verifiedTitle": "圓山大飯店",
-    "meetingPageUrl": "https://www.grand-hotel.org/TW/index.aspx#"
+    "meetingPageUrl": "https://www.grand-hotel.org/TW/index.aspx#",
+    "venueListUrl": "https://www.grand-hotel.org/TW/official/ballroom.aspx?gh=TP",
+    "verificationStatus": "已驗證",
+    "verificationNote": "會議室清單已補充（9個會議廳/宴會廳）"
   },
   {
     "id": 1389,
@@ -14590,9 +14599,12 @@
     "verifiedAt": "2026-03-01",
     "status": "上架",
     "roomType": "宴會廳",
-    "lastVerified": "2026-03-01T23:31:09.674Z",
+    "lastVerified": "2026-03-02T15:23:44.184Z",
     "verifiedTitle": "圓山大飯店",
-    "meetingPageUrl": "https://www.grand-hotel.org/TW/index.aspx#"
+    "meetingPageUrl": "https://www.grand-hotel.org/TW/index.aspx#",
+    "venueListUrl": "https://www.grand-hotel.org/TW/official/ballroom.aspx?gh=TP",
+    "verificationStatus": "已驗證",
+    "verificationNote": "會議室清單已補充（9個會議廳/宴會廳）"
   },
   {
     "id": 1390,
@@ -14631,9 +14643,12 @@
     "verifiedAt": "2026-03-01",
     "status": "上架",
     "roomType": "宴會廳",
-    "lastVerified": "2026-03-01T23:31:09.674Z",
+    "lastVerified": "2026-03-02T15:23:44.184Z",
     "verifiedTitle": "圓山大飯店",
-    "meetingPageUrl": "https://www.grand-hotel.org/TW/index.aspx#"
+    "meetingPageUrl": "https://www.grand-hotel.org/TW/index.aspx#",
+    "venueListUrl": "https://www.grand-hotel.org/TW/official/ballroom.aspx?gh=TP",
+    "verificationStatus": "已驗證",
+    "verificationNote": "會議室清單已補充（9個會議廳/宴會廳）"
   },
   {
     "id": 1391,
@@ -14672,9 +14687,12 @@
     "verifiedAt": "2026-03-01",
     "status": "上架",
     "roomType": "宴會廳",
-    "lastVerified": "2026-03-01T23:31:09.674Z",
+    "lastVerified": "2026-03-02T15:23:44.184Z",
     "verifiedTitle": "圓山大飯店",
-    "meetingPageUrl": "https://www.grand-hotel.org/TW/index.aspx#"
+    "meetingPageUrl": "https://www.grand-hotel.org/TW/index.aspx#",
+    "venueListUrl": "https://www.grand-hotel.org/TW/official/ballroom.aspx?gh=TP",
+    "verificationStatus": "已驗證",
+    "verificationNote": "會議室清單已補充（9個會議廳/宴會廳）"
   },
   {
     "id": 1392,
@@ -16241,8 +16259,10 @@
     "verifiedAt": "2026-03-01",
     "status": "上架",
     "roomType": "會議中心",
-    "lastVerified": "2026-03-01T23:45:15.599Z",
-    "verificationError": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.ntuacc.org/\nCall log:\n  - navigating to \"https://www.ntuacc.org/\", waiting until \"domcontentloaded\"\n"
+    "lastVerified": "2026-03-02T15:23:44.189Z",
+    "verificationError": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.ntuacc.org/\nCall log:\n  - navigating to \"https://www.ntuacc.org/\", waiting until \"domcontentloaded\"\n",
+    "verificationStatus": "待確認",
+    "verificationNote": "官網失效（DNS錯誤）"
   },
   {
     "id": 1435,
@@ -16280,8 +16300,10 @@
     "verifiedAt": "2026-03-01",
     "status": "上架",
     "roomType": "會議中心",
-    "lastVerified": "2026-03-01T23:45:15.599Z",
-    "verificationError": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.ntuacc.org/\nCall log:\n  - navigating to \"https://www.ntuacc.org/\", waiting until \"domcontentloaded\"\n"
+    "lastVerified": "2026-03-02T15:23:44.189Z",
+    "verificationError": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.ntuacc.org/\nCall log:\n  - navigating to \"https://www.ntuacc.org/\", waiting until \"domcontentloaded\"\n",
+    "verificationStatus": "待確認",
+    "verificationNote": "官網失效（DNS錯誤）"
   },
   {
     "id": 1436,
@@ -16361,10 +16383,11 @@
     "verifiedAt": "2026-03-01",
     "status": "上架",
     "roomType": "會議中心",
-    "lastVerified": "2026-03-02T10:34:56.880Z",
+    "lastVerified": "2026-03-02T15:23:44.187Z",
     "verificationError": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.yfpcf.org/\nCall log:\n  - navigating to \"https://www.yfpcf.org/\", waiting until \"domcontentloaded\"\n",
     "note": "官網無法連線，需確認是否仍提供會議服務",
-    "verificationStatus": "待確認"
+    "verificationStatus": "待確認",
+    "verificationNote": "官網失效（DNS錯誤）"
   },
   {
     "id": 1438,
@@ -16402,10 +16425,11 @@
     "verifiedAt": "2026-03-01",
     "status": "上架",
     "roomType": "會議中心",
-    "lastVerified": "2026-03-02T10:34:56.880Z",
+    "lastVerified": "2026-03-02T15:23:44.187Z",
     "verificationError": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.yfpcf.org/\nCall log:\n  - navigating to \"https://www.yfpcf.org/\", waiting until \"domcontentloaded\"\n",
     "note": "官網無法連線，需確認是否仍提供會議服務",
-    "verificationStatus": "待確認"
+    "verificationStatus": "待確認",
+    "verificationNote": "官網失效（DNS錯誤）"
   },
   {
     "id": 1439,
