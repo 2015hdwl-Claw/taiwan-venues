@@ -1,0 +1,686 @@
+[
+  {
+    "url": "https://www.camacafe.com/",
+    "venues": [
+      {
+        "id": 1031,
+        "name": "CAMA咖啡"
+      }
+    ],
+    "status": "OK",
+    "issues": [],
+    "title": "cama 現烘咖啡專門店",
+    "meetingLinks": [
+      {
+        "text": "最新活動",
+        "href": "https://www.camacafe.com/New/1"
+      },
+      {
+        "text": "2026/02/09  最新活動 CAMA商用咖啡整合方案",
+        "href": "https://www.camacafe.com/NewDetail/384"
+      },
+      {
+        "text": "2025/12/24  最新活動 CAMA CAFE 《咖啡藝生活》新品上市 ❗",
+        "href": "https://www.camacafe.com/NewDetail/381"
+      },
+      {
+        "text": "2026/03/02  最新活動 【CAMA CAFE x 悠遊付 早餐生活節】限時回饋",
+        "href": "https://www.camacafe.com/NewDetail/387"
+      },
+      {
+        "text": "2026/02/13  最新活動 原豆鮮萃咖啡粒    精裝版全新上市",
+        "href": "https://www.camacafe.com/NewDetail/386"
+      },
+      {
+        "text": "2026/01/24  最新活動 New Open ! 台電古亭店開幕 !",
+        "href": "https://www.camacafe.com/NewDetail/383"
+      }
+    ],
+    "meetingPageUrl": "https://www.camacafe.com/New/1",
+    "photos": [
+      "https://pic.camacafe.com/upload/file1_2026020994537_384_GXFEF.jpg",
+      "https://pic.camacafe.com/upload/file1_20251217161751_381_I3E7U.jpg",
+      "https://pic.camacafe.com/upload/file1_20260226141902_387_LPV27.jpg",
+      "https://pic.camacafe.com/upload/file1_20260213160410_386_MLVUM.jpg",
+      "https://pic.camacafe.com/upload/file1_20260122132920_383_Q14DP.jpg",
+      "https://pic.camacafe.com/upload/file1_20260105164914_382_1VZP9.jpg",
+      "https://pic.camacafe.com/upload/file1_20251217131940_380_0JB2Y.jpg",
+      "https://pic.camacafe.com/upload/file1_2025121294633_378_F5MT0.jpg",
+      "https://pic.camacafe.com/upload/file1_20251127142332_375_H0SDP.jpg",
+      "https://pic.camacafe.com/upload/file1_2025112495622_374_ZBRLD.jpg"
+    ]
+  },
+  {
+    "url": "https://clbc.tw/",
+    "venues": [
+      {
+        "id": 1032,
+        "name": "CLBC大安商務中心"
+      },
+      {
+        "id": 1439,
+        "name": "CLBC大安商務中心"
+      },
+      {
+        "id": 1440,
+        "name": "CLBC大安商務中心"
+      }
+    ],
+    "status": "OK",
+    "issues": [],
+    "title": "CLBC 共同工作空間與複合式展演活動空間 - CLBC",
+    "meetingLinks": [
+      {
+        "text": "會議室/活動場地",
+        "href": "https://clbc.tw/clbc%E6%B4%BB%E5%8B%95%E5%A0%B4%E5%9C%B0%E7%A9%BA%E9%96%93%E7%A7%9F%E5%80%9F/"
+      },
+      {
+        "text": "港墘站-TCS會議廳",
+        "href": "https://clbc.tw/%e6%b8%af%e5%a2%98%e7%ab%99-tcs%e6%9c%83%e8%ad%b0%e5%bb%b3/"
+      },
+      {
+        "text": "松江南京站-智璽會議中心",
+        "href": "https://clbc.tw/%e6%9d%be%e6%b1%9f%e5%8d%97%e4%ba%ac%e7%ab%99%e6%99%ba%e7%92%bd%e6%9c%83%e8%ad%b0%e4%b8%ad%e5%bf%83/"
+      },
+      {
+        "text": "EN",
+        "href": "https://clbc.tw/clbc-co-working-space-taipei/"
+      },
+      {
+        "text": "Homepage",
+        "href": "https://clbc.tw/clbc-co-working-space-taipei/"
+      },
+      {
+        "text": "Office Space",
+        "href": "https://clbc.tw/office-space-for-rent-taipei/"
+      },
+      {
+        "text": "共同/獨立辦公空間",
+        "href": "https://clbc.tw/#"
+      },
+      {
+        "text": "CLBC活動場地空間租借",
+        "href": "https://clbc.tw/clbc%e6%b4%bb%e5%8b%95%e5%a0%b4%e5%9c%b0%e7%a9%ba%e9%96%93%e7%a7%9f%e5%80%9f/"
+      },
+      {
+        "text": "台北松江南京站-智璽會議中心",
+        "href": "https://clbc.tw/%e6%9d%be%e6%b1%9f%e5%8d%97%e4%ba%ac%e7%ab%99%e6%99%ba%e7%92%bd%e6%9c%83%e8%ad%b0%e4%b8%ad%e5%bf%83/"
+      },
+      {
+        "text": "台北南京三民站-獺空間",
+        "href": "https://clbc.tw/%e5%8d%97%e4%ba%ac%e4%b8%89%e6%b0%91%e7%ab%99-%e7%8d%ba%e7%a9%ba%e9%96%93/"
+      }
+    ],
+    "meetingPageUrl": "https://clbc.tw/clbc%E6%B4%BB%E5%8B%95%E5%A0%B4%E5%9C%B0%E7%A9%BA%E9%96%93%E7%A7%9F%E5%80%9F/",
+    "photos": [
+      "https://clbc.tw/wp-content/uploads/elementor/thumbs/timeline_20240403_102626-qogumbj6dk7qi9jm2ot3suaql0w8e33szdhxq0ngsk.jpg",
+      "https://clbc.tw/wp-content/uploads/elementor/thumbs/%E5%A4%A7%E5%AE%89%E6%9C%83%E8%AD%B0%E5%AE%A4-qohavzsyqbyijgtj5clmwjr7f06jgr6wi6ydjq9ltw.jpeg",
+      "https://clbc.tw/wp-content/uploads/elementor/thumbs/MG_5420-q7pdjj676kgje5hb1gfasr7m85ziqj91tzhkn091ok.jpeg",
+      "https://clbc.tw/wp-content/uploads/elementor/thumbs/LINE_ALBUM_230627-1-q9aq15dz6v5es36nzvtucgd9gu71xjx3ru41v0uk04.jpg",
+      "https://clbc.tw/wp-content/uploads/elementor/thumbs/TCS-A1-qr4s0ixnmbxwuglrpn9u4kdmr8kgdln715t04qvmbo.jpg",
+      "https://clbc.tw/wp-content/uploads/elementor/thumbs/433639_0-qpvt6m1d49vdekixsp43sslu5kzjqmd6k9outo4e6c.jpg",
+      "https://clbc.tw/wp-content/uploads/elementor/thumbs/%E7%AB%B9%E5%8C%97B2-r50lhtjdtpsoghdfcrbfi90ef3vr26yn5oxvjithok.jpg",
+      "https://clbc.tw/wp-content/uploads/elementor/thumbs/CBD4-qr4s4ht4h5dhv6u8jd14nkbp1t08vlee8syt2szs1w.jpg"
+    ]
+  },
+  {
+    "url": "https://goodmans.tw/",
+    "venues": [
+      {
+        "id": 1033,
+        "name": "Goodmans咖啡廳"
+      }
+    ],
+    "status": "錯誤",
+    "issues": [
+      "page.goto: net::ERR_NAME_NOT_RESOLVED at https://goodmans.tw/\nCall log:\n  - navigating to \"https://goodmans.tw/\", waiting until \"domcontentloaded\"\n"
+    ],
+    "title": null,
+    "meetingLinks": [],
+    "meetingPageUrl": null,
+    "photos": [],
+    "error": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://goodmans.tw/\nCall log:\n  - navigating to \"https://goodmans.tw/\", waiting until \"domcontentloaded\"\n"
+  },
+  {
+    "url": "https://www.nuzone.com.tw/",
+    "venues": [
+      {
+        "id": 1034,
+        "name": "NUZONE展演空間"
+      }
+    ],
+    "status": "OK",
+    "issues": [],
+    "title": "展演空間 | 藝文演出 | 場地出租 | 記者會場地 | Nuzone | 台北市",
+    "meetingLinks": [
+      {
+        "text": "2F NUZONE 展演空間",
+        "href": "https://www.nuzone.com.tw/2f"
+      },
+      {
+        "text": "1F 開放藝術空間",
+        "href": "https://www.nuzone.com.tw/1f"
+      },
+      {
+        "text": "Gallery 活動照片",
+        "href": "https://www.flickr.com/photos/157822996@N08/albums"
+      },
+      {
+        "text": "Vansdaddy 「都市醉漢」台北特別專場Vansdaddy 「都市醉漢」台北特別專場將於2026",
+        "href": "https://nuzone.kktix.cc/events/vansdaddy"
+      },
+      {
+        "text": "Vansdaddy 「都市醉漢」台北特別專場Vansdaddy 「都市醉漢」台北特別專場將於2026",
+        "href": "https://nuzone.kktix.cc/events/vansdaddy"
+      }
+    ],
+    "meetingPageUrl": "https://www.nuzone.com.tw/2f",
+    "photos": [
+      "https://static.wixstatic.com/media/b8e171_09be48a987db4012afcb18b204169ade~mv2.png/v1/fill/w_912,h_451,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/%E6%88%AA%E5%9C%96%202021-10-04%20%E4%B8%8B%E5%8D%882_06_54.png",
+      "https://static.wixstatic.com/media/b8e171_49efc128e5c04721b01d73a27e262479~mv2.jpg/v1/fill/w_1280,h_488,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/b8e171_49efc128e5c04721b01d73a27e262479~mv2.jpg",
+      "https://static.wixstatic.com/media/b8e171_49efc128e5c04721b01d73a27e262479~mv2.jpg/v1/fill/w_638,h_486,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/b8e171_49efc128e5c04721b01d73a27e262479~mv2.jpg",
+      "https://static.wixstatic.com/media/b8e171_59351594598d4176b49a5e63fb5ab91f~mv2.jpg/v1/fill/w_1280,h_1114,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/b8e171_59351594598d4176b49a5e63fb5ab91f~mv2.jpg",
+      "https://static.wixstatic.com/media/b8e171_59351594598d4176b49a5e63fb5ab91f~mv2.jpg/v1/fill/w_639,h_1112,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/b8e171_59351594598d4176b49a5e63fb5ab91f~mv2.jpg",
+      "https://static.wixstatic.com/media/b8e171_9471b7c68967436983048288f2eea787~mv2.jpg/v1/fit/w_563,h_375,q_90,enc_avif,quality_auto/b8e171_9471b7c68967436983048288f2eea787~mv2.jpg",
+      "https://static.wixstatic.com/media/b8e171_88950edf95da40dfa41b942de430aa6a~mv2.jpg/v1/fit/w_561,h_375,q_90,enc_avif,quality_auto/b8e171_88950edf95da40dfa41b942de430aa6a~mv2.jpg",
+      "https://static.wixstatic.com/media/b8e171_df687fe41bb94d20a7ac0750ef3cf42e~mv2.jpg/v1/fit/w_563,h_375,q_90,enc_avif,quality_auto/b8e171_df687fe41bb94d20a7ac0750ef3cf42e~mv2.jpg",
+      "https://static.wixstatic.com/media/70b627_2c037f8fbe8b4cd68b267f4f07a695d8~mv2.png/v1/fill/w_980,h_814,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/2F%20NUZONE%E5%8D%80%E5%9F%9F%E5%B9%B3%E9%9D%A2%E5%9C%96-2024.png"
+    ]
+  },
+  {
+    "url": "https://simplekaffa.com/",
+    "venues": [
+      {
+        "id": 1036,
+        "name": "Simple Kaffa"
+      }
+    ],
+    "status": "有問題",
+    "issues": [
+      "找不到會議室頁面"
+    ],
+    "title": "興波咖啡 Simple Kaffa | 喝杯世界級的咖啡",
+    "meetingLinks": [],
+    "meetingPageUrl": null,
+    "photos": []
+  },
+  {
+    "url": "https://www.vncc.com.tw/",
+    "venues": [
+      {
+        "id": 1037,
+        "name": "TCCC台灣文創訓練中心"
+      }
+    ],
+    "status": "錯誤",
+    "issues": [
+      "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.vncc.com.tw/\nCall log:\n  - navigating to \"https://www.vncc.com.tw/\", waiting until \"domcontentloaded\"\n"
+    ],
+    "title": null,
+    "meetingLinks": [],
+    "meetingPageUrl": null,
+    "photos": [],
+    "error": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.vncc.com.tw/\nCall log:\n  - navigating to \"https://www.vncc.com.tw/\", waiting until \"domcontentloaded\"\n"
+  },
+  {
+    "url": "https://www.brotherhotel.com.tw/",
+    "venues": [
+      {
+        "id": 1041,
+        "name": "兄弟大飯店"
+      }
+    ],
+    "status": "OK",
+    "issues": [],
+    "title": "兄弟大飯店 - Brother Hotel",
+    "meetingLinks": [
+      {
+        "text": "會議專案",
+        "href": "https://www.brotherhotel.com.tw/?cat=76"
+      },
+      {
+        "text": "菊花廳(日本料理)",
+        "href": "https://www.brotherhotel.com.tw/?us_portfolio=%E8%8F%8A%E8%8A%B1%E5%BB%B3"
+      },
+      {
+        "text": "蝶花廳及酒廊(義式料理.台菜宵夜)",
+        "href": "https://www.brotherhotel.com.tw/?us_portfolio=%E8%9D%B6%E8%8A%B1%E5%BB%B3%E5%8F%8A%E9%85%92%E5%BB%8A"
+      },
+      {
+        "text": "梅花廳(粵菜飲茶)",
+        "href": "https://www.brotherhotel.com.tw/?us_portfolio=%E6%A2%85%E8%8A%B1%E5%BB%B3"
+      },
+      {
+        "text": "蘭花廳(台菜海鮮)",
+        "href": "https://www.brotherhotel.com.tw/?us_portfolio=%E8%98%AD%E8%8A%B1%E5%BB%B3"
+      },
+      {
+        "text": "薔薇廳(中西合璧自助餐)",
+        "href": "https://www.brotherhotel.com.tw/?us_portfolio=%E8%96%94%E8%96%87%E5%BB%B3"
+      },
+      {
+        "text": "花香廳(鐵板燒)",
+        "href": "https://www.brotherhotel.com.tw/?us_portfolio=%E8%8A%B1%E9%A6%99%E5%BB%B3"
+      },
+      {
+        "text": "桂花廳(川菜小吃)",
+        "href": "https://www.brotherhotel.com.tw/?us_portfolio=%E6%A1%82%E8%8A%B1%E5%BB%B3"
+      },
+      {
+        "text": "雅緻客房",
+        "href": "https://www.brotherhotel.com.tw/#room"
+      },
+      {
+        "text": "會議專案",
+        "href": "https://www.brotherhotel.com.tw/?cat=76"
+      }
+    ],
+    "meetingPageUrl": "https://www.brotherhotel.com.tw/?cat=76",
+    "photos": [
+      "https://www.brotherhotel.com.tw/wp-content/uploads/2022/12/%E6%A1%82%E8%8A%B1%E5%BB%B3%E5%A4%96%E5%B8%B6%E8%8F%9C%E5%96%AEfinal-0125-1-853x1280.jpg",
+      "https://www.brotherhotel.com.tw/wp-content/uploads/2022/12/%E6%A1%82%E8%8A%B1%E5%BB%B3%E5%A4%96%E5%B8%B6%E8%8F%9C%E5%96%AEfinal-0125-2-905x1280.jpg",
+      "https://www.brotherhotel.com.tw/wp-content/uploads/2022/12/%E6%A1%82%E8%8A%B1%E5%BB%B3%E5%A4%96%E5%B8%B6%E8%8F%9C%E5%96%AEfinal-0125-3-905x1280.jpg",
+      "https://www.brotherhotel.com.tw/wp-content/uploads/2022/12/%E6%A1%82%E8%8A%B1%E5%BB%B3%E5%A4%96%E5%B8%B6%E8%8F%9C%E5%96%AEfinal-0125-1-400x400.jpg",
+      "https://www.brotherhotel.com.tw/wp-content/uploads/2022/12/%E6%A1%82%E8%8A%B1%E5%BB%B3%E5%A4%96%E5%B8%B6%E8%8F%9C%E5%96%AEfinal-0125-2-400x400.jpg",
+      "https://www.brotherhotel.com.tw/wp-content/uploads/2022/12/%E6%A1%82%E8%8A%B1%E5%BB%B3%E5%A4%96%E5%B8%B6%E8%8F%9C%E5%96%AEfinal-0125-3-400x400.jpg",
+      "https://www.brotherhotel.com.tw/wp-content/uploads/2022/12/%E6%A1%82%E8%8A%B1%E5%BB%B3%E5%A4%96%E5%B8%B6%E8%8F%9C%E5%96%AEfinal-0125-1-853x1280.jpg",
+      "https://www.brotherhotel.com.tw/wp-content/uploads/2022/11/%E9%90%B5%E6%9D%BF%E7%82%92%E7%89%9B%E7%AD%8B-1280x832.jpg",
+      "https://www.brotherhotel.com.tw/wp-content/uploads/2022/11/%E8%84%86%E7%9A%AE%E9%9B%9E%E8%85%BF%E6%8E%92-1280x832.jpg",
+      "https://www.brotherhotel.com.tw/wp-content/uploads/2022/11/%E8%8C%B6%E9%A6%99%E9%8A%85%E9%91%BC%E7%87%92-1280x832.jpg"
+    ]
+  },
+  {
+    "url": "https://www.hrd.gov.tw",
+    "venues": [
+      {
+        "id": 1042,
+        "name": "公務人力發展學院"
+      }
+    ],
+    "status": "部分OK",
+    "issues": [
+      "缺少會議室照片"
+    ],
+    "title": "中文網-行政院人事行政總處公務人力發展學院",
+    "meetingLinks": [
+      {
+        "text": "場地查詢",
+        "href": "https://www.hrd.gov.tw/1123/2127/?q=%E5%A0%B4%E5%9C%B0%E6%9F%A5%E8%A9%A2"
+      },
+      {
+        "text": "場地設施",
+        "href": "https://www.hrd.gov.tw/1122/2141/Normalnodelist"
+      },
+      {
+        "text": "會議場地",
+        "href": "https://www.hrd.gov.tw/1122/2141/3157/NPmeetingVenue"
+      },
+      {
+        "text": "餐飲服務",
+        "href": "https://www.hrd.gov.tw/1122/2141/3158/NPmeetingVenue"
+      },
+      {
+        "text": "住宿設施",
+        "href": "https://www.hrd.gov.tw/1122/2141/3159/NPmeetingVenue"
+      },
+      {
+        "text": "其他服務",
+        "href": "https://www.hrd.gov.tw/1122/2141/3160/NPmeetingVenue"
+      },
+      {
+        "text": "場地查詢及預約",
+        "href": "https://www.hrd.gov.tw/1122/2141/49777/SPHtml"
+      },
+      {
+        "text": "場地查詢及預約",
+        "href": "https://www.hrd.gov.tw/1122/2141/49777/SPHtml"
+      },
+      {
+        "text": "公務人力發展學院福華國際文教會館115年度住房優惠活動總表1150209修訂 (1)",
+        "href": "https://www.hrd.gov.tw/1123/4146/58086/post"
+      },
+      {
+        "text": "更多活動剪影",
+        "href": "https://www.hrd.gov.tw/1123/4162/"
+      }
+    ],
+    "meetingPageUrl": "https://www.hrd.gov.tw/1123/2127/?q=%E5%A0%B4%E5%9C%B0%E6%9F%A5%E8%A9%A2",
+    "photos": []
+  },
+  {
+    "url": "https://artouch.com/",
+    "venues": [
+      {
+        "id": 1044,
+        "name": "典藏咖啡廳"
+      }
+    ],
+    "status": "OK",
+    "issues": [],
+    "title": "藝術新聞與深度評論、藝術市場、線上展廳 | 典藏ARTouch.com",
+    "meetingLinks": [
+      {
+        "text": "2026香港巴塞爾展區亮點預熱：全新「藝聚空間」、數位展區「Zero 10」亞洲首展及「文化之友」",
+        "href": "https://artouch.com/?p=201981"
+      },
+      {
+        "text": "線上展廳",
+        "href": "https://artouch.com/viewing-room/"
+      },
+      {
+        "text": "典藏33觀景餐廳",
+        "href": "https://dining.artouch.com/%E5%85%B8%E8%97%8F33%E8%A7%80%E6%99%AF%E9%A4%90%E5%BB%B3/"
+      },
+      {
+        "text": "典藏駁二餐廳",
+        "href": "https://dining.artouch.com/%E5%85%B8%E8%97%8F%E9%A7%81%E4%BA%8C%E9%A4%90%E5%BB%B3/"
+      },
+      {
+        "text": "創意空間",
+        "href": "https://bookstore.artouch.com/product-category/art-event/"
+      },
+      {
+        "text": "線上展廳",
+        "href": "https://artouch.com/viewing-room/"
+      },
+      {
+        "text": "所有展廳",
+        "href": "https://artouch.com/viewing-room/viewing-rooms-zh"
+      },
+      {
+        "text": "藝博會",
+        "href": "https://artouch.com/viewing-room/art-fair-zh"
+      },
+      {
+        "text": "藝術家",
+        "href": "https://artouch.com/viewing-room/%E8%97%9D%E8%A1%93%E5%AE%B6"
+      },
+      {
+        "text": "典藏33觀景餐廳",
+        "href": "https://dining.artouch.com/artco33/"
+      }
+    ],
+    "meetingPageUrl": "https://artouch.com/?p=201981",
+    "photos": [
+      "https://d1qlj1o6gdgqqt.cloudfront.net/wp-content/uploads/2026/02/image-12-1600x899.jpeg"
+    ]
+  },
+  {
+    "url": "https://www.marriott.com/en-us/hotels/tpewh-w-taipei/",
+    "venues": [
+      {
+        "id": 1047,
+        "name": "台北W飯店(WTaipei)"
+      }
+    ],
+    "status": "有問題",
+    "issues": [
+      "找不到會議室頁面"
+    ],
+    "title": "Access Denied",
+    "meetingLinks": [],
+    "meetingPageUrl": null,
+    "photos": []
+  },
+  {
+    "url": "https://taipei.landishotelsresorts.com/",
+    "venues": [
+      {
+        "id": 1051,
+        "name": "台北亞都麗緻大飯店(LandisTaipei)"
+      }
+    ],
+    "status": "OK",
+    "issues": [],
+    "title": "The Landis Taipei Hotel",
+    "meetingLinks": [
+      {
+        "text": "Meeting",
+        "href": "https://taipei.landishotelsresorts.com/meeting-list.php"
+      },
+      {
+        "text": "ACCOMMODATION\n                                    ",
+        "href": "https://taipei.landishotelsresorts.com/accommodation-list.php"
+      },
+      {
+        "text": "Meeting",
+        "href": "https://taipei.landishotelsresorts.com/meeting-detail.php?id=2"
+      },
+      {
+        "text": "Meeting",
+        "href": "https://taipei.landishotelsresorts.com/meeting-detail.php?id=3"
+      }
+    ],
+    "meetingPageUrl": "https://taipei.landishotelsresorts.com/meeting-list.php",
+    "photos": [
+      "https://taipei.landishotelsresorts.com/manage/upload/roomtype/1758907414_16016.jpg",
+      "https://taipei.landishotelsresorts.com/manage/upload/roomtype/1758905496_85016.jpg",
+      "https://taipei.landishotelsresorts.com/manage/upload/roomtype/1743524095_88722.jpg",
+      "https://taipei.landishotelsresorts.com/manage/upload/roomtype/1758907702_51134.jpg",
+      "https://taipei.landishotelsresorts.com/manage/upload/meetroom/1761043325_42599.jpg",
+      "https://taipei.landishotelsresorts.com/manage/upload/meetroom/1761043331_25315.jpg",
+      "https://taipei.landishotelsresorts.com/manage/upload/meetroom/1761043336_95496.jpg"
+    ]
+  },
+  {
+    "url": "https://www.brotherhotel.com.tw/?cat=75",
+    "venues": [
+      {
+        "id": 1053,
+        "name": "台北兄弟大飯店(BrotherTaipei)"
+      }
+    ],
+    "status": "OK",
+    "issues": [],
+    "title": "婚宴專案 | 兄弟大飯店 - Brother Hotel",
+    "meetingLinks": [
+      {
+        "text": "會議專案",
+        "href": "https://www.brotherhotel.com.tw/?cat=76"
+      },
+      {
+        "text": "菊花廳(日本料理)",
+        "href": "https://www.brotherhotel.com.tw/?us_portfolio=%E8%8F%8A%E8%8A%B1%E5%BB%B3"
+      },
+      {
+        "text": "蝶花廳及酒廊(義式料理.台菜宵夜)",
+        "href": "https://www.brotherhotel.com.tw/?us_portfolio=%E8%9D%B6%E8%8A%B1%E5%BB%B3%E5%8F%8A%E9%85%92%E5%BB%8A"
+      },
+      {
+        "text": "梅花廳(粵菜飲茶)",
+        "href": "https://www.brotherhotel.com.tw/?us_portfolio=%E6%A2%85%E8%8A%B1%E5%BB%B3"
+      },
+      {
+        "text": "蘭花廳(台菜海鮮)",
+        "href": "https://www.brotherhotel.com.tw/?us_portfolio=%E8%98%AD%E8%8A%B1%E5%BB%B3"
+      },
+      {
+        "text": "薔薇廳(中西合璧自助餐)",
+        "href": "https://www.brotherhotel.com.tw/?us_portfolio=%E8%96%94%E8%96%87%E5%BB%B3"
+      },
+      {
+        "text": "花香廳(鐵板燒)",
+        "href": "https://www.brotherhotel.com.tw/?us_portfolio=%E8%8A%B1%E9%A6%99%E5%BB%B3"
+      },
+      {
+        "text": "桂花廳(川菜小吃)",
+        "href": "https://www.brotherhotel.com.tw/?us_portfolio=%E6%A1%82%E8%8A%B1%E5%BB%B3"
+      },
+      {
+        "text": "雅緻客房",
+        "href": "https://www.brotherhotel.com.tw/#room"
+      },
+      {
+        "text": "會議專案",
+        "href": "https://www.brotherhotel.com.tw/?cat=76"
+      }
+    ],
+    "meetingPageUrl": "https://www.brotherhotel.com.tw/?cat=76",
+    "photos": [
+      "https://www.brotherhotel.com.tw/wp-content/uploads/2022/12/%E6%A1%82%E8%8A%B1%E5%BB%B3%E5%A4%96%E5%B8%B6%E8%8F%9C%E5%96%AEfinal-0125-1-853x1280.jpg",
+      "https://www.brotherhotel.com.tw/wp-content/uploads/2022/12/%E6%A1%82%E8%8A%B1%E5%BB%B3%E5%A4%96%E5%B8%B6%E8%8F%9C%E5%96%AEfinal-0125-2-905x1280.jpg",
+      "https://www.brotherhotel.com.tw/wp-content/uploads/2022/12/%E6%A1%82%E8%8A%B1%E5%BB%B3%E5%A4%96%E5%B8%B6%E8%8F%9C%E5%96%AEfinal-0125-3-905x1280.jpg",
+      "https://www.brotherhotel.com.tw/wp-content/uploads/2022/12/%E6%A1%82%E8%8A%B1%E5%BB%B3%E5%A4%96%E5%B8%B6%E8%8F%9C%E5%96%AEfinal-0125-1-400x400.jpg",
+      "https://www.brotherhotel.com.tw/wp-content/uploads/2022/12/%E6%A1%82%E8%8A%B1%E5%BB%B3%E5%A4%96%E5%B8%B6%E8%8F%9C%E5%96%AEfinal-0125-2-400x400.jpg",
+      "https://www.brotherhotel.com.tw/wp-content/uploads/2022/12/%E6%A1%82%E8%8A%B1%E5%BB%B3%E5%A4%96%E5%B8%B6%E8%8F%9C%E5%96%AEfinal-0125-3-400x400.jpg",
+      "https://www.brotherhotel.com.tw/wp-content/uploads/2022/12/%E6%A1%82%E8%8A%B1%E5%BB%B3%E5%A4%96%E5%B8%B6%E8%8F%9C%E5%96%AEfinal-0125-1-853x1280.jpg",
+      "https://www.brotherhotel.com.tw/wp-content/uploads/2022/11/%E9%90%B5%E6%9D%BF%E7%82%92%E7%89%9B%E7%AD%8B-1280x832.jpg",
+      "https://www.brotherhotel.com.tw/wp-content/uploads/2022/11/%E8%84%86%E7%9A%AE%E9%9B%9E%E8%85%BF%E6%8E%92-1280x832.jpg",
+      "https://www.brotherhotel.com.tw/wp-content/uploads/2022/11/%E8%8C%B6%E9%A6%99%E9%8A%85%E9%91%BC%E7%87%92-1280x832.jpg"
+    ]
+  },
+  {
+    "url": "https://www.denwell.com/",
+    "venues": [
+      {
+        "id": 1057,
+        "name": "台北典華"
+      }
+    ],
+    "status": "部分OK",
+    "issues": [
+      "缺少會議室照片"
+    ],
+    "title": "典華幸福機構｜婚宴場地｜會議、活動空間租借｜台北及新北品牌",
+    "meetingLinks": [
+      {
+        "text": "婚宴場地",
+        "href": "https://www.denwell.com/#"
+      },
+      {
+        "text": "婚宴場地",
+        "href": "https://www.denwell.com/%e5%a4%a7%e7%9b%b4-%e5%a9%9a%e5%ae%b4%e5%a0%b4%e5%9c%b0/"
+      },
+      {
+        "text": "紫境 Venue526",
+        "href": "https://www.denwell.com/wedding-venue526/"
+      },
+      {
+        "text": "surReal概念空間",
+        "href": "https://www.denwell.com/%E5%A4%A7%E7%9B%B4-%E5%A9%9A%E5%AE%B4%E5%A0%B4%E5%9C%B0#toproom"
+      },
+      {
+        "text": "婚宴場地",
+        "href": "https://www.denwell.com/%e6%96%b0%e8%8e%8a-%e5%a9%9a%e5%ae%b4%e5%a0%b4%e5%9c%b0/"
+      },
+      {
+        "text": "蔬食宴席專案",
+        "href": "https://www.denwell.com/news-vegetarian-banquet/"
+      },
+      {
+        "text": "商務場地",
+        "href": "https://www.denwell.com/#"
+      },
+      {
+        "text": "大直 會議/聚餐",
+        "href": "https://www.denwell.com/#"
+      },
+      {
+        "text": "空間介紹",
+        "href": "https://www.denwell.com/service-dazhi-venue-introduction/"
+      },
+      {
+        "text": "活動場地",
+        "href": "https://www.denwell.com/service-dazhi-venue-rent/"
+      }
+    ],
+    "meetingPageUrl": "https://www.denwell.com/#",
+    "photos": []
+  },
+  {
+    "url": "https://btresort.metro.taipei/",
+    "venues": [
+      {
+        "id": 1058,
+        "name": "台北北投會館"
+      }
+    ],
+    "status": "部分OK",
+    "issues": [
+      "缺少會議室照片"
+    ],
+    "title": "捷運北投會館",
+    "meetingLinks": [
+      {
+        "text": "活動中心",
+        "href": "https://btresort.metro.taipei/Content_List.aspx?n=AC6664006DEBC90D"
+      },
+      {
+        "text": "桂華軒餐廳",
+        "href": "https://btresort.metro.taipei/cp.aspx?n=EEBCC4ACC308C0BB"
+      },
+      {
+        "text": "活動中心",
+        "href": "https://btresort.metro.taipei/Content_List.aspx?n=AC6664006DEBC90D"
+      },
+      {
+        "text": "桂華軒餐廳",
+        "href": "https://btresort.metro.taipei/cp.aspx?n=EEBCC4ACC308C0BB"
+      },
+      {
+        "text": "北投會館餐廳華國飯店桂華軒",
+        "href": "https://btresort.metro.taipei/cp.aspx?n=EEBCC4ACC308C0BB"
+      },
+      {
+        "text": "115-02-09 115年度2月份北投會館籃、羽球保留場地釋出公告",
+        "href": "https://btresort.metro.taipei/News_Content.aspx?n=5C65768E4ACA02E7&sms=826A6866901684A2&s=38F6FCE26D5378C2"
+      },
+      {
+        "text": "活動中心",
+        "href": "https://btresort.metro.taipei/Content_List.aspx?n=AC6664006DEBC90D"
+      },
+      {
+        "text": "豐富的運動休閒項目，專業明亮的設施與空間，讓身心獲得最佳調劑。",
+        "href": "https://btresort.metro.taipei/Content_List.aspx?n=AC6664006DEBC90D"
+      },
+      {
+        "text": "捷運站內就能享受優質桌球場地，是三五好友休閒運動，或釋放壓力的好去處。",
+        "href": "https://resortbooking.metro.taipei/ShowPanel.aspx"
+      },
+      {
+        "text": "多元化的現代化教室及演講廳，教學配備新穎齊全，是機關企業團體教育訓練的最佳場所。",
+        "href": "https://btresort.metro.taipei/Content_List.aspx?n=2F98BA55EEA464FA"
+      }
+    ],
+    "meetingPageUrl": "https://btresort.metro.taipei/Content_List.aspx?n=AC6664006DEBC90D",
+    "photos": []
+  },
+  {
+    "url": "https://www.palaisdechinehotel.com/",
+    "venues": [
+      {
+        "id": 1060,
+        "name": "台北君品酒店(PalaisdeChine)"
+      }
+    ],
+    "status": "部分OK",
+    "issues": [
+      "缺少會議室照片"
+    ],
+    "title": "君品酒店台北 Palais de Chine｜享加購高鐵車票優惠",
+    "meetingLinks": [
+      {
+        "text": "一般訂房",
+        "href": "https://be.synxis.com/?adult=2&arrive=2025-12-04&chain=10237&child=0&currency=TWD&depart=2025-12-05&hotel=28447&level=hotel&locale=zh-TW&productcurrency=TWD&rooms=1"
+      },
+      {
+        "text": "典藏客房",
+        "href": "https://www.palaisdechinehotel.com/pdc-tw/rooms/25/7"
+      },
+      {
+        "text": "宴會",
+        "href": "https://www.palaisdechinehotel.com/pdc-tw/rooms/27"
+      },
+      {
+        "text": "典藏客房",
+        "href": "https://www.palaisdechinehotel.com/pdc-tw/rooms/25/7"
+      },
+      {
+        "text": "宴會",
+        "href": "https://www.palaisdechinehotel.com/pdc-tw/rooms/27"
+      }
+    ],
+    "meetingPageUrl": "https://be.synxis.com/?adult=2&arrive=2025-12-04&chain=10237&child=0&currency=TWD&depart=2025-12-05&hotel=28447&level=hotel&locale=zh-TW&productcurrency=TWD&rooms=1",
+    "photos": []
+  }
+]

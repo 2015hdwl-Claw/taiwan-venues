@@ -1,0 +1,207 @@
+[
+  {
+    "url": "https://www.camacafe.com/",
+    "venues": [
+      {
+        "id": 1031,
+        "name": "CAMA咖啡"
+      }
+    ],
+    "status": "OK",
+    "issues": [],
+    "title": "cama 現烘咖啡專門店",
+    "meetingLinks": [
+      {
+        "text": "最新活動",
+        "href": "https://www.camacafe.com/New/1"
+      },
+      {
+        "text": "2026/02/09  最新活動 CAMA商用咖啡整合方案",
+        "href": "https://www.camacafe.com/NewDetail/384"
+      },
+      {
+        "text": "2025/12/24  最新活動 CAMA CAFE 《咖啡藝生活》新品上市 ❗",
+        "href": "https://www.camacafe.com/NewDetail/381"
+      },
+      {
+        "text": "2026/03/02  最新活動 【CAMA CAFE x 悠遊付 早餐生活節】限時回饋",
+        "href": "https://www.camacafe.com/NewDetail/387"
+      },
+      {
+        "text": "2026/02/13  最新活動 原豆鮮萃咖啡粒    精裝版全新上市",
+        "href": "https://www.camacafe.com/NewDetail/386"
+      },
+      {
+        "text": "2026/01/24  最新活動 New Open ! 台電古亭店開幕 !",
+        "href": "https://www.camacafe.com/NewDetail/383"
+      }
+    ],
+    "meetingPageUrl": "https://www.camacafe.com/New/1",
+    "photos": [
+      "https://pic.camacafe.com/upload/file1_2026020994537_384_GXFEF.jpg",
+      "https://pic.camacafe.com/upload/file1_20251217161751_381_I3E7U.jpg",
+      "https://pic.camacafe.com/upload/file1_20260226141902_387_LPV27.jpg",
+      "https://pic.camacafe.com/upload/file1_20260213160410_386_MLVUM.jpg",
+      "https://pic.camacafe.com/upload/file1_20260122132920_383_Q14DP.jpg",
+      "https://pic.camacafe.com/upload/file1_20260105164914_382_1VZP9.jpg",
+      "https://pic.camacafe.com/upload/file1_20251217131940_380_0JB2Y.jpg",
+      "https://pic.camacafe.com/upload/file1_2025121294633_378_F5MT0.jpg",
+      "https://pic.camacafe.com/upload/file1_20251127142332_375_H0SDP.jpg",
+      "https://pic.camacafe.com/upload/file1_2025112495622_374_ZBRLD.jpg"
+    ]
+  },
+  {
+    "url": "https://clbc.tw/",
+    "venues": [
+      {
+        "id": 1032,
+        "name": "CLBC大安商務中心"
+      },
+      {
+        "id": 1439,
+        "name": "CLBC大安商務中心"
+      },
+      {
+        "id": 1440,
+        "name": "CLBC大安商務中心"
+      }
+    ],
+    "status": "OK",
+    "issues": [],
+    "title": "CLBC 共同工作空間與複合式展演活動空間 - CLBC",
+    "meetingLinks": [
+      {
+        "text": "會議室/活動場地",
+        "href": "https://clbc.tw/clbc%E6%B4%BB%E5%8B%95%E5%A0%B4%E5%9C%B0%E7%A9%BA%E9%96%93%E7%A7%9F%E5%80%9F/"
+      },
+      {
+        "text": "港墘站-TCS會議廳",
+        "href": "https://clbc.tw/%e6%b8%af%e5%a2%98%e7%ab%99-tcs%e6%9c%83%e8%ad%b0%e5%bb%b3/"
+      },
+      {
+        "text": "松江南京站-智璽會議中心",
+        "href": "https://clbc.tw/%e6%9d%be%e6%b1%9f%e5%8d%97%e4%ba%ac%e7%ab%99%e6%99%ba%e7%92%bd%e6%9c%83%e8%ad%b0%e4%b8%ad%e5%bf%83/"
+      },
+      {
+        "text": "EN",
+        "href": "https://clbc.tw/clbc-co-working-space-taipei/"
+      },
+      {
+        "text": "Homepage",
+        "href": "https://clbc.tw/clbc-co-working-space-taipei/"
+      },
+      {
+        "text": "Office Space",
+        "href": "https://clbc.tw/office-space-for-rent-taipei/"
+      },
+      {
+        "text": "共同/獨立辦公空間",
+        "href": "https://clbc.tw/#"
+      },
+      {
+        "text": "CLBC活動場地空間租借",
+        "href": "https://clbc.tw/clbc%e6%b4%bb%e5%8b%95%e5%a0%b4%e5%9c%b0%e7%a9%ba%e9%96%93%e7%a7%9f%e5%80%9f/"
+      },
+      {
+        "text": "台北松江南京站-智璽會議中心",
+        "href": "https://clbc.tw/%e6%9d%be%e6%b1%9f%e5%8d%97%e4%ba%ac%e7%ab%99%e6%99%ba%e7%92%bd%e6%9c%83%e8%ad%b0%e4%b8%ad%e5%bf%83/"
+      },
+      {
+        "text": "台北南京三民站-獺空間",
+        "href": "https://clbc.tw/%e5%8d%97%e4%ba%ac%e4%b8%89%e6%b0%91%e7%ab%99-%e7%8d%ba%e7%a9%ba%e9%96%93/"
+      }
+    ],
+    "meetingPageUrl": "https://clbc.tw/clbc%E6%B4%BB%E5%8B%95%E5%A0%B4%E5%9C%B0%E7%A9%BA%E9%96%93%E7%A7%9F%E5%80%9F/",
+    "photos": [
+      "https://clbc.tw/wp-content/uploads/elementor/thumbs/timeline_20240403_102626-qogumbj6dk7qi9jm2ot3suaql0w8e33szdhxq0ngsk.jpg",
+      "https://clbc.tw/wp-content/uploads/elementor/thumbs/%E5%A4%A7%E5%AE%89%E6%9C%83%E8%AD%B0%E5%AE%A4-qohavzsyqbyijgtj5clmwjr7f06jgr6wi6ydjq9ltw.jpeg",
+      "https://clbc.tw/wp-content/uploads/elementor/thumbs/MG_5420-q7pdjj676kgje5hb1gfasr7m85ziqj91tzhkn091ok.jpeg",
+      "https://clbc.tw/wp-content/uploads/elementor/thumbs/LINE_ALBUM_230627-1-q9aq15dz6v5es36nzvtucgd9gu71xjx3ru41v0uk04.jpg",
+      "https://clbc.tw/wp-content/uploads/elementor/thumbs/TCS-A1-qr4s0ixnmbxwuglrpn9u4kdmr8kgdln715t04qvmbo.jpg",
+      "https://clbc.tw/wp-content/uploads/elementor/thumbs/433639_0-qpvt6m1d49vdekixsp43sslu5kzjqmd6k9outo4e6c.jpg",
+      "https://clbc.tw/wp-content/uploads/elementor/thumbs/%E7%AB%B9%E5%8C%97B2-r50lhtjdtpsoghdfcrbfi90ef3vr26yn5oxvjithok.jpg",
+      "https://clbc.tw/wp-content/uploads/elementor/thumbs/CBD4-qr4s4ht4h5dhv6u8jd14nkbp1t08vlee8syt2szs1w.jpg"
+    ]
+  },
+  {
+    "url": "https://goodmans.tw/",
+    "venues": [
+      {
+        "id": 1033,
+        "name": "Goodmans咖啡廳"
+      }
+    ],
+    "status": "錯誤",
+    "issues": [
+      "page.goto: net::ERR_NAME_NOT_RESOLVED at https://goodmans.tw/\nCall log:\n  - navigating to \"https://goodmans.tw/\", waiting until \"domcontentloaded\"\n"
+    ],
+    "title": null,
+    "meetingLinks": [],
+    "meetingPageUrl": null,
+    "photos": [],
+    "error": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://goodmans.tw/\nCall log:\n  - navigating to \"https://goodmans.tw/\", waiting until \"domcontentloaded\"\n"
+  },
+  {
+    "url": "https://www.nuzone.com.tw/",
+    "venues": [
+      {
+        "id": 1034,
+        "name": "NUZONE展演空間"
+      }
+    ],
+    "status": "OK",
+    "issues": [],
+    "title": "展演空間 | 藝文演出 | 場地出租 | 記者會場地 | Nuzone | 台北市",
+    "meetingLinks": [
+      {
+        "text": "2F NUZONE 展演空間",
+        "href": "https://www.nuzone.com.tw/2f"
+      },
+      {
+        "text": "1F 開放藝術空間",
+        "href": "https://www.nuzone.com.tw/1f"
+      },
+      {
+        "text": "Gallery 活動照片",
+        "href": "https://www.flickr.com/photos/157822996@N08/albums"
+      },
+      {
+        "text": "Vansdaddy 「都市醉漢」台北特別專場Vansdaddy 「都市醉漢」台北特別專場將於2026",
+        "href": "https://nuzone.kktix.cc/events/vansdaddy"
+      },
+      {
+        "text": "Vansdaddy 「都市醉漢」台北特別專場Vansdaddy 「都市醉漢」台北特別專場將於2026",
+        "href": "https://nuzone.kktix.cc/events/vansdaddy"
+      }
+    ],
+    "meetingPageUrl": "https://www.nuzone.com.tw/2f",
+    "photos": [
+      "https://static.wixstatic.com/media/b8e171_09be48a987db4012afcb18b204169ade~mv2.png/v1/fill/w_912,h_451,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/%E6%88%AA%E5%9C%96%202021-10-04%20%E4%B8%8B%E5%8D%882_06_54.png",
+      "https://static.wixstatic.com/media/b8e171_49efc128e5c04721b01d73a27e262479~mv2.jpg/v1/fill/w_1280,h_488,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/b8e171_49efc128e5c04721b01d73a27e262479~mv2.jpg",
+      "https://static.wixstatic.com/media/b8e171_49efc128e5c04721b01d73a27e262479~mv2.jpg/v1/fill/w_638,h_486,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/b8e171_49efc128e5c04721b01d73a27e262479~mv2.jpg",
+      "https://static.wixstatic.com/media/b8e171_59351594598d4176b49a5e63fb5ab91f~mv2.jpg/v1/fill/w_1280,h_1114,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/b8e171_59351594598d4176b49a5e63fb5ab91f~mv2.jpg",
+      "https://static.wixstatic.com/media/b8e171_59351594598d4176b49a5e63fb5ab91f~mv2.jpg/v1/fill/w_639,h_1112,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/b8e171_59351594598d4176b49a5e63fb5ab91f~mv2.jpg",
+      "https://static.wixstatic.com/media/b8e171_9471b7c68967436983048288f2eea787~mv2.jpg/v1/fit/w_563,h_375,q_90,enc_avif,quality_auto/b8e171_9471b7c68967436983048288f2eea787~mv2.jpg",
+      "https://static.wixstatic.com/media/b8e171_88950edf95da40dfa41b942de430aa6a~mv2.jpg/v1/fit/w_561,h_375,q_90,enc_avif,quality_auto/b8e171_88950edf95da40dfa41b942de430aa6a~mv2.jpg",
+      "https://static.wixstatic.com/media/b8e171_df687fe41bb94d20a7ac0750ef3cf42e~mv2.jpg/v1/fit/w_563,h_375,q_90,enc_avif,quality_auto/b8e171_df687fe41bb94d20a7ac0750ef3cf42e~mv2.jpg",
+      "https://static.wixstatic.com/media/70b627_2c037f8fbe8b4cd68b267f4f07a695d8~mv2.png/v1/fill/w_980,h_814,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/2F%20NUZONE%E5%8D%80%E5%9F%9F%E5%B9%B3%E9%9D%A2%E5%9C%96-2024.png"
+    ]
+  },
+  {
+    "url": "https://simplekaffa.com/",
+    "venues": [
+      {
+        "id": 1036,
+        "name": "Simple Kaffa"
+      }
+    ],
+    "status": "有問題",
+    "issues": [
+      "找不到會議室頁面"
+    ],
+    "title": "興波咖啡 Simple Kaffa | 喝杯世界級的咖啡",
+    "meetingLinks": [],
+    "meetingPageUrl": null,
+    "photos": []
+  }
+]
