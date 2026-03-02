@@ -1,0 +1,862 @@
+[
+  {
+    "url": "https://www.camacafe.com/",
+    "venues": [
+      {
+        "id": 1031,
+        "name": "CAMA咖啡"
+      }
+    ],
+    "status": "OK",
+    "issues": [],
+    "title": "cama 現烘咖啡專門店",
+    "meetingLinks": [
+      {
+        "text": "最新活動",
+        "href": "https://www.camacafe.com/New/1"
+      },
+      {
+        "text": "2026/02/09  最新活動 CAMA商用咖啡整合方案",
+        "href": "https://www.camacafe.com/NewDetail/384"
+      },
+      {
+        "text": "2025/12/24  最新活動 CAMA CAFE 《咖啡藝生活》新品上市 ❗",
+        "href": "https://www.camacafe.com/NewDetail/381"
+      },
+      {
+        "text": "2026/03/02  最新活動 【CAMA CAFE x 悠遊付 早餐生活節】限時回饋",
+        "href": "https://www.camacafe.com/NewDetail/387"
+      },
+      {
+        "text": "2026/02/13  最新活動 原豆鮮萃咖啡粒    精裝版全新上市",
+        "href": "https://www.camacafe.com/NewDetail/386"
+      },
+      {
+        "text": "2026/01/24  最新活動 New Open ! 台電古亭店開幕 !",
+        "href": "https://www.camacafe.com/NewDetail/383"
+      }
+    ],
+    "meetingPageUrl": "https://www.camacafe.com/New/1",
+    "photos": [
+      "https://pic.camacafe.com/upload/file1_2026020994537_384_GXFEF.jpg",
+      "https://pic.camacafe.com/upload/file1_20251217161751_381_I3E7U.jpg",
+      "https://pic.camacafe.com/upload/file1_20260226141902_387_LPV27.jpg",
+      "https://pic.camacafe.com/upload/file1_20260213160410_386_MLVUM.jpg",
+      "https://pic.camacafe.com/upload/file1_20260122132920_383_Q14DP.jpg",
+      "https://pic.camacafe.com/upload/file1_20260105164914_382_1VZP9.jpg",
+      "https://pic.camacafe.com/upload/file1_20251217131940_380_0JB2Y.jpg",
+      "https://pic.camacafe.com/upload/file1_2025121294633_378_F5MT0.jpg",
+      "https://pic.camacafe.com/upload/file1_20251127142332_375_H0SDP.jpg",
+      "https://pic.camacafe.com/upload/file1_2025112495622_374_ZBRLD.jpg"
+    ]
+  },
+  {
+    "url": "https://goodmans.tw/",
+    "venues": [
+      {
+        "id": 1033,
+        "name": "Goodmans咖啡廳"
+      }
+    ],
+    "status": "錯誤",
+    "issues": [
+      "page.goto: net::ERR_NAME_NOT_RESOLVED at https://goodmans.tw/\nCall log:\n  - navigating to \"https://goodmans.tw/\", waiting until \"domcontentloaded\"\n"
+    ],
+    "title": null,
+    "meetingLinks": [],
+    "meetingPageUrl": null,
+    "photos": [],
+    "error": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://goodmans.tw/\nCall log:\n  - navigating to \"https://goodmans.tw/\", waiting until \"domcontentloaded\"\n"
+  },
+  {
+    "url": "https://www.regus.com",
+    "venues": [
+      {
+        "id": 1035,
+        "name": "Regus商務中心"
+      }
+    ],
+    "status": "OK",
+    "issues": [],
+    "title": "Serviced Office Space, Coworking and Meeting Rooms | Regus",
+    "meetingLinks": [
+      {
+        "text": "personIndividual private offices",
+        "href": "https://www.regus.com/en/office-space/offices-for-individuals"
+      },
+      {
+        "text": "todayDay offices",
+        "href": "https://www.regus.com/en/office-space/day-offices"
+      },
+      {
+        "text": "groupsSmall team offices",
+        "href": "https://www.regus.com/en/office-space/small-team-offices"
+      },
+      {
+        "text": "hubLarge team offices",
+        "href": "https://www.regus.com/en/office-space/large-team-offices"
+      },
+      {
+        "text": "handshakeMeeting rooms",
+        "href": "https://www.regus.com/en/meeting-rooms/meeting-rooms"
+      },
+      {
+        "text": "assignment_indOffice access plan",
+        "href": "https://www.regus.com/en/day-workspace-access/office-access"
+      },
+      {
+        "text": "door_frontFull floor offices",
+        "href": "https://www.regus.com/en/office-space/full-floor-offices"
+      },
+      {
+        "text": "chairHourly offices",
+        "href": "https://www.regus.com/en/day-workspace-access/offices-by-the-hour"
+      },
+      {
+        "text": "star_shineSpecialist offices",
+        "href": "https://www.regus.com/en/office-space/specialist-offices"
+      },
+      {
+        "text": "border_colorTraining rooms",
+        "href": "https://www.regus.com/en/meeting-rooms/training-rooms"
+      }
+    ],
+    "meetingPageUrl": "https://www.regus.com/en/office-space/offices-for-individuals",
+    "photos": [
+      "https://assets.iwgplc.com/image/upload/c_fill,f_auto,q_auto,w_768,h_257,g_auto:subject//v1753349162/WebsiteImagery/Gallery/IPO_1.jpg",
+      "https://assets.iwgplc.com/image/upload/c_fill,f_auto,q_auto,w_420,h_315//v1752056550/WebsiteImagery/Gallery/IPO_2.jpg",
+      "https://assets.iwgplc.com/image/upload/c_fill,f_auto,q_auto,w_420,h_315//v1752056544/WebsiteImagery/Gallery/IPO_3.jpg",
+      "https://assets.iwgplc.com/image/upload/c_fill,f_auto,q_auto,w_420,h_315//v1752056549/WebsiteImagery/Gallery/IPO_4.jpg",
+      "https://assets.iwgplc.com/image/upload/c_fill,f_auto,q_auto,w_668,h_447//v1753965356/WebsiteImagery/Gallery/STO_8.jpg",
+      "https://assets.iwgplc.com/image/upload/c_fill,f_auto,q_auto,w_668,h_447//v1753965305/WebsiteImagery/Gallery/STO_6.jpg",
+      "https://assets.iwgplc.com/image/upload/c_fill,f_auto,q_auto,w_768,h_325,g_auto:subject//v1756298340/WebsiteImagery/Gallery/HO_6.jpg",
+      "https://assets.iwgplc.com/image/upload/c_fill,f_auto,q_auto,w_768,h_580,g_faces//v1756291581/WebsiteImagery/Gallery/IPO_7.jpg",
+      "https://assets.iwgplc.com/image/upload/c_fill,f_auto,q_auto,w_768,h_580,g_faces//v1752056547/WebsiteImagery/Gallery/IPO_6.jpg",
+      "https://assets.iwgplc.com/image/upload/c_fill,f_auto,q_auto,w_768,h_580,g_faces//v1756291577/WebsiteImagery/Gallery/IPO_5.jpg"
+    ]
+  },
+  {
+    "url": "https://simplekaffa.com/",
+    "venues": [
+      {
+        "id": 1036,
+        "name": "Simple Kaffa"
+      }
+    ],
+    "status": "有問題",
+    "issues": [
+      "找不到會議室頁面"
+    ],
+    "title": "興波咖啡 Simple Kaffa | 喝杯世界級的咖啡",
+    "meetingLinks": [],
+    "meetingPageUrl": null,
+    "photos": []
+  },
+  {
+    "url": "https://www.executivecentre.com",
+    "venues": [
+      {
+        "id": 1038,
+        "name": "The Executive Centre"
+      }
+    ],
+    "status": "OK",
+    "issues": [],
+    "title": "Premium Office Spaces & Workspace - The Executive Centre",
+    "meetingLinks": [
+      {
+        "text": "Meeting Rooms",
+        "href": "https://www.executivecentre.com/meeting-rooms-conference"
+      },
+      {
+        "text": "Event Spaces",
+        "href": "https://www.executivecentre.com/event-space-venue"
+      },
+      {
+        "text": "Meeting Room Packages",
+        "href": "https://www.executivecentre.com/meeting-room-package"
+      },
+      {
+        "text": "Meeting Rooms",
+        "href": "https://www.executivecentre.com/meeting-rooms-conference/"
+      },
+      {
+        "text": "Event Spaces",
+        "href": "https://www.executivecentre.com/event-space-venue/"
+      },
+      {
+        "text": "Meeting Room Packages",
+        "href": "https://www.executivecentre.com/meeting-room-package/"
+      },
+      {
+        "text": "Meeting RoomsPrivate meeting rooms of all sizes, b",
+        "href": "https://www.executivecentre.com/meeting-rooms-conference/"
+      },
+      {
+        "text": "Event SpacesWide range of indoor & outdoor venue f",
+        "href": "https://www.executivecentre.com/event-space-venue/"
+      },
+      {
+        "text": "KAFD 3.09",
+        "href": "https://www.executivecentre.com/office-space/riyadh-kafd-3-09/"
+      },
+      {
+        "text": "Capital Square",
+        "href": "https://www.executivecentre.com/office-space/singapore-capital-square/"
+      }
+    ],
+    "meetingPageUrl": "https://www.executivecentre.com/meeting-rooms-conference",
+    "photos": [
+      "https://www.executivecentre.com/_next/image/?url=https%3A%2F%2Fassets.executivecentre.com%2Fassets%2FBanner-Product-MeetingRoom.jpg&w=3840&q=75",
+      "https://www.executivecentre.com/_next/image/?url=%2F_next%2Fstatic%2Fmedia%2FplanOverview-mr-meetingRoom.1f2225da.jpg&w=3840&q=75",
+      "https://www.executivecentre.com/_next/image/?url=%2F_next%2Fstatic%2Fmedia%2FplanOverview-mr-boardRoom.fbe5da52.jpg&w=3840&q=75",
+      "https://www.executivecentre.com/_next/image/?url=%2F_next%2Fstatic%2Fmedia%2FplanOverview-mr-functionRoom.a989831d.jpg&w=3840&q=75",
+      "https://www.executivecentre.com/_next/image/?url=https%3A%2F%2Fassets.executivecentre.com%2Fassets%2FMeetingRoom-Rental_SpecialEvents.webp&w=3840&q=75",
+      "https://www.executivecentre.com/_next/image/?url=https%3A%2F%2Fassets.executivecentre.com%2Fassets%2FMeetingRoom-Rental_Hire.webp&w=3840&q=75",
+      "https://www.executivecentre.com/_next/image/?url=https%3A%2F%2Fassets.executivecentre.com%2Fassets%2FMeetingRoom-TailoredforPrivacy_MagicGlass.webp&w=3840&q=75",
+      "https://www.executivecentre.com/_next/image/?url=https%3A%2F%2Fassets.executivecentre.com%2Fassets%2FMeetingRoom-Rental_VideoConference.webp&w=3840&q=75",
+      "https://www.executivecentre.com/_next/image/?url=https%3A%2F%2Fassets.executivecentre.com%2Fassets%2Ftn_hongkong.jpg&w=3840&q=75",
+      "https://www.executivecentre.com/_next/image/?url=https%3A%2F%2Fassets.executivecentre.com%2Fassets%2Ftn_beijing.jpg&w=3840&q=75"
+    ]
+  },
+  {
+    "url": "https://www.wework.com",
+    "venues": [
+      {
+        "id": 1039,
+        "name": "WeWork共享空間"
+      }
+    ],
+    "status": "有問題",
+    "issues": [
+      "找不到會議室頁面"
+    ],
+    "title": "Just a moment...",
+    "meetingLinks": [],
+    "meetingPageUrl": null,
+    "photos": []
+  },
+  {
+    "url": "https://www.marriott.com/hotels/travel/tpegi-w-taipei",
+    "venues": [
+      {
+        "id": 1040,
+        "name": "W飯店台北"
+      }
+    ],
+    "status": "有問題",
+    "issues": [
+      "找不到會議室頁面"
+    ],
+    "title": "Access Denied",
+    "meetingLinks": [],
+    "meetingPageUrl": null,
+    "photos": []
+  },
+  {
+    "url": "https://www.courtyard.com/taipei",
+    "venues": [
+      {
+        "id": 1043,
+        "name": "六福萬怡酒店"
+      }
+    ],
+    "status": "有問題",
+    "issues": [
+      "找不到會議室頁面"
+    ],
+    "title": "",
+    "meetingLinks": [],
+    "meetingPageUrl": null,
+    "photos": []
+  },
+  {
+    "url": "https://artouch.com/",
+    "venues": [
+      {
+        "id": 1044,
+        "name": "典藏咖啡廳"
+      }
+    ],
+    "status": "OK",
+    "issues": [],
+    "title": "藝術新聞與深度評論、藝術市場、線上展廳 | 典藏ARTouch.com",
+    "meetingLinks": [
+      {
+        "text": "2026香港巴塞爾展區亮點預熱：全新「藝聚空間」、數位展區「Zero 10」亞洲首展及「文化之友」",
+        "href": "https://artouch.com/?p=201981"
+      },
+      {
+        "text": "線上展廳",
+        "href": "https://artouch.com/viewing-room/"
+      },
+      {
+        "text": "典藏33觀景餐廳",
+        "href": "https://dining.artouch.com/%E5%85%B8%E8%97%8F33%E8%A7%80%E6%99%AF%E9%A4%90%E5%BB%B3/"
+      },
+      {
+        "text": "典藏駁二餐廳",
+        "href": "https://dining.artouch.com/%E5%85%B8%E8%97%8F%E9%A7%81%E4%BA%8C%E9%A4%90%E5%BB%B3/"
+      },
+      {
+        "text": "創意空間",
+        "href": "https://bookstore.artouch.com/product-category/art-event/"
+      },
+      {
+        "text": "線上展廳",
+        "href": "https://artouch.com/viewing-room/"
+      },
+      {
+        "text": "所有展廳",
+        "href": "https://artouch.com/viewing-room/viewing-rooms-zh"
+      },
+      {
+        "text": "藝博會",
+        "href": "https://artouch.com/viewing-room/art-fair-zh"
+      },
+      {
+        "text": "藝術家",
+        "href": "https://artouch.com/viewing-room/%E8%97%9D%E8%A1%93%E5%AE%B6"
+      },
+      {
+        "text": "典藏33觀景餐廳",
+        "href": "https://dining.artouch.com/artco33/"
+      }
+    ],
+    "meetingPageUrl": "https://artouch.com/?p=201981",
+    "photos": [
+      "https://d1qlj1o6gdgqqt.cloudfront.net/wp-content/uploads/2026/02/image-12-1600x899.jpeg"
+    ]
+  },
+  {
+    "url": "https://www.ntut.edu.tw",
+    "venues": [
+      {
+        "id": 1045,
+        "name": "北科大創新育成中心"
+      }
+    ],
+    "status": "部分OK",
+    "issues": [
+      "缺少會議室照片"
+    ],
+    "title": "國立臺北科技大學 - 國立臺北科技大學",
+    "meetingLinks": [
+      {
+        "text": "場地租借系統",
+        "href": "https://aps-staff.ntut.edu.tw/arearent/ActionServlet"
+      },
+      {
+        "text": "臺北科技大學活動與報名資訊",
+        "href": "https://news.ntut.edu.tw/p/426-1000-3.php"
+      },
+      {
+        "text": "活動資訊：2026 年第 1 次臺灣歐盟論壇",
+        "href": "https://oia.ntut.edu.tw/p/404-1032-151401.php?Lang=zh-tw"
+      },
+      {
+        "text": "教育部辦理「智慧社會跨領域人才培力計畫工作坊－學校、教師與學生為中心驅動的改革三螺旋」活動資訊",
+        "href": "https://chass.ntut.edu.tw/p/404-1019-149931.php?Lang=zh-tw"
+      },
+      {
+        "text": ">> 更多演講會議資訊",
+        "href": "https://news.ntut.edu.tw/p/422-1000-1079.php?Lang=zh-tw"
+      }
+    ],
+    "meetingPageUrl": "https://aps-staff.ntut.edu.tw/arearent/ActionServlet",
+    "photos": []
+  },
+  {
+    "url": "https://www.tainex.com.tw/",
+    "venues": [
+      {
+        "id": 1046,
+        "name": "南港展覽館"
+      }
+    ],
+    "status": "部分OK",
+    "issues": [
+      "缺少會議室照片"
+    ],
+    "title": "南港展覽館",
+    "meetingLinks": [
+      {
+        "text": "展會活動",
+        "href": "https://www.tainex.com.tw/event"
+      },
+      {
+        "text": "展會活動",
+        "href": "https://www.tainex.com.tw/event"
+      },
+      {
+        "text": "租借場地",
+        "href": "https://www.tainex.com.tw/venue/showgrounds/1/1"
+      },
+      {
+        "text": "更多活動",
+        "href": "https://www.tainex.com.tw/event"
+      },
+      {
+        "text": "1館  2026 03/12(四)-15(日) 2026台北國際烘焙暨設備展 地點：一樓展場 四樓展",
+        "href": "https://www.tainex.com.tw/event/673"
+      },
+      {
+        "text": "2館 2026 03/17(二)-20(五) 2026智慧城市展暨2050淨零城市展 地點：一樓展場",
+        "href": "https://www.tainex.com.tw/event/657"
+      },
+      {
+        "text": "1館 2館 2026 03/25(三)-28(六) 台北國際自行車展覽會 地點：",
+        "href": "https://www.tainex.com.tw/event/508"
+      },
+      {
+        "text": "1館  2026 04/08(三)-10(五) 2026 Touch Taiwan系列展 地點：四樓",
+        "href": "https://www.tainex.com.tw/event/675"
+      },
+      {
+        "text": "本館協助宣傳衛生福利部2025年9月3日更新之身心障礙者融合式會議及活動參考指引",
+        "href": "https://www.tainex.com.tw/news/news/137"
+      },
+      {
+        "text": "2026 微醺日記 × 台北國際酒展「2026 微醺日記 × 台北國際酒展」，並未租用南港展覽館二館",
+        "href": "https://www.tainex.com.tw/news/news/134"
+      }
+    ],
+    "meetingPageUrl": "https://www.tainex.com.tw/event",
+    "photos": []
+  },
+  {
+    "url": "https://www.twtc.com.tw/",
+    "venues": [
+      {
+        "id": 1049,
+        "name": "台北世貿中心(TWTCA)展覽大樓"
+      }
+    ],
+    "status": "部分OK",
+    "issues": [
+      "缺少會議室照片"
+    ],
+    "title": "台北世貿中心",
+    "meetingLinks": [
+      {
+        "text": "南港展覽館",
+        "href": "https://www.tainex.com.tw/event"
+      },
+      {
+        "text": "活動場地",
+        "href": "https://www.twtc.com.tw/#"
+      },
+      {
+        "text": "展覽場地租借",
+        "href": "https://www.twtc.com.tw/exh"
+      },
+      {
+        "text": "會議室",
+        "href": "https://www.twtc.com.tw/#"
+      },
+      {
+        "text": "世貿一館會議室介紹及場地佈置",
+        "href": "https://www.twtc.com.tw/#"
+      },
+      {
+        "text": "會議室介紹",
+        "href": "https://www.twtc.com.tw/meeting?p=menu1"
+      },
+      {
+        "text": "第一會議室",
+        "href": "https://www.twtc.com.tw/meeting1"
+      },
+      {
+        "text": "A+會議室",
+        "href": "https://www.twtc.com.tw/meeting11"
+      },
+      {
+        "text": "第二會議室",
+        "href": "https://www.twtc.com.tw/meeting2"
+      },
+      {
+        "text": "第三會議室",
+        "href": "https://www.twtc.com.tw/meeting3"
+      }
+    ],
+    "meetingPageUrl": "https://www.tainex.com.tw/event",
+    "photos": []
+  },
+  {
+    "url": "https://www.dandyhotel.com.tw",
+    "venues": [
+      {
+        "id": 1050,
+        "name": "台北丹迪旅店"
+      }
+    ],
+    "status": "有問題",
+    "issues": [
+      "找不到會議室頁面"
+    ],
+    "title": "Official Website of Dandy Hotel 丹迪旅店官方網站",
+    "meetingLinks": [],
+    "meetingPageUrl": null,
+    "photos": []
+  },
+  {
+    "url": "https://www.cityinn.com.tw",
+    "venues": [
+      {
+        "id": 1052,
+        "name": "台北京站酒店"
+      }
+    ],
+    "status": "有問題",
+    "issues": [
+      "找不到會議室頁面"
+    ],
+    "title": "Official Website of CityInn Hotel 新驛旅店官方網站",
+    "meetingLinks": [],
+    "meetingPageUrl": null,
+    "photos": []
+  },
+  {
+    "url": "https://www.courtyard.com/taipei-six",
+    "venues": [
+      {
+        "id": 1056,
+        "name": "台北六福萬怡酒店"
+      }
+    ],
+    "status": "有問題",
+    "issues": [
+      "找不到會議室頁面"
+    ],
+    "title": "",
+    "meetingLinks": [],
+    "meetingPageUrl": null,
+    "photos": []
+  },
+  {
+    "url": "https://www.hyatt.com/taipei",
+    "venues": [
+      {
+        "id": 1062,
+        "name": "台北君悅酒店(GrandHyattTaipei)"
+      },
+      {
+        "id": 1063,
+        "name": "台北君悅酒店(GrandHyattTaipei)"
+      }
+    ],
+    "status": "有問題",
+    "issues": [
+      "找不到會議室頁面"
+    ],
+    "title": "Hyatt Hotels and Resorts",
+    "meetingLinks": [],
+    "meetingPageUrl": null,
+    "photos": []
+  },
+  {
+    "url": "https://www.grandhyatt.com/taipei",
+    "venues": [
+      {
+        "id": 1064,
+        "name": "台北君悅酒店(GrandHyattTaipei)"
+      }
+    ],
+    "status": "有問題",
+    "issues": [
+      "找不到會議室頁面"
+    ],
+    "title": "Hyatt Hotels and Resorts",
+    "meetingLinks": [],
+    "meetingPageUrl": null,
+    "photos": []
+  },
+  {
+    "url": "https://www.sheratongrandtaipei.com",
+    "venues": [
+      {
+        "id": 1075,
+        "name": "台北寒舍喜來登大飯店"
+      }
+    ],
+    "status": "OK",
+    "issues": [],
+    "title": "台北喜來登大飯店 Sheraton Grand Taipei Hotel",
+    "meetingLinks": [
+      {
+        "text": "大廳酒吧",
+        "href": "https://www.sheratongrandtaipei.com/websev?lang=zh-tw&ref=pages&cat=2&id=16"
+      },
+      {
+        "text": "安東廳",
+        "href": "https://www.sheratongrandtaipei.com/websev?lang=zh-tw&ref=pages&cat=2&id=22"
+      },
+      {
+        "text": "宴會會議",
+        "href": "https://www.sheratongrandtaipei.com/websev?lang=zh-tw&ref=pages&cat=50"
+      },
+      {
+        "text": "會議專案",
+        "href": "https://www.sheratongrandtaipei.com/websev?lang=zh-tw&ref=pages&cat=50&id=36"
+      },
+      {
+        "text": "行政貴賓廳",
+        "href": "https://www.sheratongrandtaipei.com/websev?lang=zh-tw&ref=pages&cat=3&id=28"
+      },
+      {
+        "text": "大廳酒吧",
+        "href": "https://www.sheratongrandtaipei.com/websev?lang=zh-tw&ref=pages&cat=2&id=16"
+      },
+      {
+        "text": "安東廳",
+        "href": "https://www.sheratongrandtaipei.com/websev?lang=zh-tw&ref=pages&cat=2&id=22"
+      },
+      {
+        "text": "會議專案",
+        "href": "https://www.sheratongrandtaipei.com/websev?lang=zh-tw&ref=pages&cat=50&id=36"
+      },
+      {
+        "text": "行政貴賓廳",
+        "href": "https://www.sheratongrandtaipei.com/websev?lang=zh-tw&ref=pages&cat=3&id=28"
+      },
+      {
+        "text": "大廳酒吧",
+        "href": "https://www.sheratongrandtaipei.com/websev?lang=zh-tw&ref=pages&cat=2&id=16"
+      }
+    ],
+    "meetingPageUrl": "https://www.sheratongrandtaipei.com/websev?lang=zh-tw&ref=pages&cat=2&id=16",
+    "photos": [
+      "https://www.sheratongrandtaipei.com/files/pages_174741222614fku8q21_l.jpg",
+      "https://www.sheratongrandtaipei.com/files/pages_174741223414fku9025_l.jpg",
+      "https://www.sheratongrandtaipei.com/files/pages_174741231514fkubd47_l.jpg",
+      "https://www.sheratongrandtaipei.com/files/pages_174741226114fku9r77_l.jpg",
+      "https://www.sheratongrandtaipei.com/files/pages_174741225014fku9g00_l.jpg"
+    ]
+  },
+  {
+    "url": "https://www.taipeiarena.com",
+    "venues": [
+      {
+        "id": 1079,
+        "name": "台北小巨蛋(TPEArena)"
+      }
+    ],
+    "status": "有問題",
+    "issues": [
+      "找不到會議室頁面"
+    ],
+    "title": "TaipeiArena.com is for sale | HugeDomains",
+    "meetingLinks": [],
+    "meetingPageUrl": null,
+    "photos": []
+  },
+  {
+    "url": "https://www.midtownrichard.com/",
+    "venues": [
+      {
+        "id": 1081,
+        "name": "台北德立莊酒店"
+      }
+    ],
+    "status": "錯誤",
+    "issues": [
+      "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.midtownrichard.com/\nCall log:\n  - navigating to \"https://www.midtownrichard.com/\", waiting until \"domcontentloaded\"\n"
+    ],
+    "title": null,
+    "meetingLinks": [],
+    "meetingPageUrl": null,
+    "photos": [],
+    "error": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.midtownrichard.com/\nCall log:\n  - navigating to \"https://www.midtownrichard.com/\", waiting until \"domcontentloaded\"\n"
+  },
+  {
+    "url": "https://www.eclathotels.com",
+    "venues": [
+      {
+        "id": 1082,
+        "name": "台北怡亨酒店"
+      }
+    ],
+    "status": "有問題",
+    "issues": [
+      "找不到會議室頁面"
+    ],
+    "title": "Eclat Hotels | Hotel in Beijing | Hotel in Taipei",
+    "meetingLinks": [],
+    "meetingPageUrl": null,
+    "photos": []
+  },
+  {
+    "url": "https://www.regenthotels.com/taipei",
+    "venues": [
+      {
+        "id": 1087,
+        "name": "台北晶華酒店(RegentTaipei)"
+      }
+    ],
+    "status": "有問題",
+    "issues": [
+      "找不到會議室頁面"
+    ],
+    "title": "Access Denied",
+    "meetingLinks": [],
+    "meetingPageUrl": null,
+    "photos": []
+  },
+  {
+    "url": "https://www.songyi-hotel.com/",
+    "venues": [
+      {
+        "id": 1088,
+        "name": "台北松意酒店"
+      }
+    ],
+    "status": "錯誤",
+    "issues": [
+      "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.songyi-hotel.com/\nCall log:\n  - navigating to \"https://www.songyi-hotel.com/\", waiting until \"domcontentloaded\"\n"
+    ],
+    "title": null,
+    "meetingLinks": [],
+    "meetingPageUrl": null,
+    "photos": [],
+    "error": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.songyi-hotel.com/\nCall log:\n  - navigating to \"https://www.songyi-hotel.com/\", waiting until \"domcontentloaded\"\n"
+  },
+  {
+    "url": "https://www.chateau-china.com/",
+    "venues": [
+      {
+        "id": 1089,
+        "name": "台北洛碁大飯店"
+      }
+    ],
+    "status": "錯誤",
+    "issues": [
+      "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.chateau-china.com/\nCall log:\n  - navigating to \"https://www.chateau-china.com/\", waiting until \"domcontentloaded\"\n"
+    ],
+    "title": null,
+    "meetingLinks": [],
+    "meetingPageUrl": null,
+    "photos": [],
+    "error": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.chateau-china.com/\nCall log:\n  - navigating to \"https://www.chateau-china.com/\", waiting until \"domcontentloaded\"\n"
+  },
+  {
+    "url": "https://www.dynasty.com.tw",
+    "venues": [
+      {
+        "id": 1090,
+        "name": "台北王朝大酒店"
+      }
+    ],
+    "status": "OK",
+    "issues": [],
+    "title": "皇朝食品有限公司(湖口、新豐、竹北、新竹、團膳、便當訂做、飯包)",
+    "meetingLinks": [
+      {
+        "text": "最新活動",
+        "href": "https://www.dynasty.com.tw/news"
+      },
+      {
+        "text": "最新活動",
+        "href": "https://www.dynasty.com.tw/news"
+      },
+      {
+        "text": "最新活動",
+        "href": "https://www.dynasty.com.tw/news"
+      }
+    ],
+    "meetingPageUrl": "https://www.dynasty.com.tw/news",
+    "photos": [
+      "https://www.dynasty.com.tw/images/banner4.jpg",
+      "https://www.dynasty.com.tw/images/banner4-s.jpg"
+    ]
+  },
+  {
+    "url": "https://www.san-want.com/",
+    "venues": [
+      {
+        "id": 1091,
+        "name": "台北神旺大飯店(SanWantTaipei)"
+      }
+    ],
+    "status": "錯誤",
+    "issues": [
+      "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.san-want.com/\nCall log:\n  - navigating to \"https://www.san-want.com/\", waiting until \"domcontentloaded\"\n"
+    ],
+    "title": null,
+    "meetingLinks": [],
+    "meetingPageUrl": null,
+    "photos": [],
+    "error": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.san-want.com/\nCall log:\n  - navigating to \"https://www.san-want.com/\", waiting until \"domcontentloaded\"\n"
+  },
+  {
+    "url": "https://www.first-hotel.com.tw/",
+    "venues": [
+      {
+        "id": 1093,
+        "name": "台北第一酒店(FirstHotel)"
+      }
+    ],
+    "status": "錯誤",
+    "issues": [
+      "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.first-hotel.com.tw/\nCall log:\n  - navigating to \"https://www.first-hotel.com.tw/\", waiting until \"domcontentloaded\"\n"
+    ],
+    "title": null,
+    "meetingLinks": [],
+    "meetingPageUrl": null,
+    "photos": [],
+    "error": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.first-hotel.com.tw/\nCall log:\n  - navigating to \"https://www.first-hotel.com.tw/\", waiting until \"domcontentloaded\"\n"
+  },
+  {
+    "url": "https://www.tongyi-hotel.com/",
+    "venues": [
+      {
+        "id": 1094,
+        "name": "台北統一大飯店"
+      }
+    ],
+    "status": "錯誤",
+    "issues": [
+      "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.tongyi-hotel.com/\nCall log:\n  - navigating to \"https://www.tongyi-hotel.com/\", waiting until \"domcontentloaded\"\n"
+    ],
+    "title": null,
+    "meetingLinks": [],
+    "meetingPageUrl": null,
+    "photos": [],
+    "error": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.tongyi-hotel.com/\nCall log:\n  - navigating to \"https://www.tongyi-hotel.com/\", waiting until \"domcontentloaded\"\n"
+  },
+  {
+    "url": "https://www.imperial-hotel.com.tw/",
+    "venues": [
+      {
+        "id": 1101,
+        "name": "台北華國大飯店(ImperialTaipei)"
+      }
+    ],
+    "status": "錯誤",
+    "issues": [
+      "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.imperial-hotel.com.tw/\nCall log:\n  - navigating to \"https://www.imperial-hotel.com.tw/\", waiting until \"domcontentloaded\"\n"
+    ],
+    "title": null,
+    "meetingLinks": [],
+    "meetingPageUrl": null,
+    "photos": [],
+    "error": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.imperial-hotel.com.tw/\nCall log:\n  - navigating to \"https://www.imperial-hotel.com.tw/\", waiting until \"domcontentloaded\"\n"
+  },
+  {
+    "url": "https://www.gloria-residence.com/",
+    "venues": [
+      {
+        "id": 1102,
+        "name": "台北華泰瑞舍"
+      }
+    ],
+    "status": "錯誤",
+    "issues": [
+      "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.gloria-residence.com/\nCall log:\n  - navigating to \"https://www.gloria-residence.com/\", waiting until \"domcontentloaded\"\n"
+    ],
+    "title": null,
+    "meetingLinks": [],
+    "meetingPageUrl": null,
+    "photos": [],
+    "error": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.gloria-residence.com/\nCall log:\n  - navigating to \"https://www.gloria-residence.com/\", waiting until \"domcontentloaded\"\n"
+  }
+]
