@@ -1,0 +1,1002 @@
+[
+  {
+    "url": "https://www.dream-mall.com.tw/",
+    "venues": [
+      {
+        "id": 1293,
+        "name": "夢時代購物中心"
+      }
+    ],
+    "status": "錯誤",
+    "issues": [
+      "page.goto: net::ERR_CERT_COMMON_NAME_INVALID at https://www.dream-mall.com.tw/\nCall log:\n  - navigating to \"https://www.dream-mall.com.tw/\", waiting until \"domcontentloaded\"\n"
+    ],
+    "title": null,
+    "meetingLinks": [],
+    "meetingPageUrl": null,
+    "photos": [],
+    "error": "page.goto: net::ERR_CERT_COMMON_NAME_INVALID at https://www.dream-mall.com.tw/\nCall log:\n  - navigating to \"https://www.dream-mall.com.tw/\", waiting until \"domcontentloaded\"\n"
+  },
+  {
+    "url": "https://dadongcenter.khcc.gov.tw/",
+    "venues": [
+      {
+        "id": 1294,
+        "name": "大東文化藝術中心"
+      }
+    ],
+    "status": "錯誤",
+    "issues": [
+      "page.goto: net::ERR_NAME_NOT_RESOLVED at https://dadongcenter.khcc.gov.tw/\nCall log:\n  - navigating to \"https://dadongcenter.khcc.gov.tw/\", waiting until \"domcontentloaded\"\n"
+    ],
+    "title": null,
+    "meetingLinks": [],
+    "meetingPageUrl": null,
+    "photos": [],
+    "error": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://dadongcenter.khcc.gov.tw/\nCall log:\n  - navigating to \"https://dadongcenter.khcc.gov.tw/\", waiting until \"domcontentloaded\"\n"
+  },
+  {
+    "url": "https://www.dadong.gov.tw",
+    "venues": [
+      {
+        "id": 1295,
+        "name": "大東文化藝術中心"
+      }
+    ],
+    "status": "錯誤",
+    "issues": [
+      "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.dadong.gov.tw/\nCall log:\n  - navigating to \"https://www.dadong.gov.tw/\", waiting until \"domcontentloaded\"\n"
+    ],
+    "title": null,
+    "meetingLinks": [],
+    "meetingPageUrl": null,
+    "photos": [],
+    "error": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.dadong.gov.tw/\nCall log:\n  - navigating to \"https://www.dadong.gov.tw/\", waiting until \"domcontentloaded\"\n"
+  },
+  {
+    "url": "https://www.newpalace.com.tw/",
+    "venues": [
+      {
+        "id": 1296,
+        "name": "新天地婚宴會館"
+      }
+    ],
+    "status": "OK",
+    "issues": [],
+    "title": "新天地餐飲集團-策劃一場獨一無二的婚宴，選對會館是關鍵！",
+    "meetingLinks": [
+      {
+        "text": "宴會場地",
+        "href": "https://www.newpalace.com.tw/venue"
+      },
+      {
+        "text": "商務宴會",
+        "href": "https://www.newpalace.com.tw/"
+      },
+      {
+        "text": "場地租借",
+        "href": "https://www.newpalace.com.tw/business"
+      },
+      {
+        "text": "宴會大小事",
+        "href": "https://www.newpalace.com.tw/column"
+      },
+      {
+        "text": "03宴會場地",
+        "href": "https://www.newpalace.com.tw/venue"
+      },
+      {
+        "text": "04商務宴會",
+        "href": "https://www.newpalace.com.tw/#"
+      },
+      {
+        "text": "場地租借",
+        "href": "https://www.newpalace.com.tw/business"
+      },
+      {
+        "text": "宴會大小事",
+        "href": "https://www.newpalace.com.tw/column"
+      },
+      {
+        "text": "2025 全新情境婚禮空間登場 ❥ 雅悅旗艦館 ❥ 浪漫啟程\n                詳細介",
+        "href": "https://www.newpalace.com.tw/news_detail/192"
+      },
+      {
+        "text": "2025 全新情境婚禮空間登場 ❥ 雅悅旗艦館 ❥ 浪滿啟程\n                詳細介",
+        "href": "https://www.newpalace.com.tw/news_detail/193"
+      }
+    ],
+    "meetingPageUrl": "https://www.newpalace.com.tw/venue",
+    "photos": [
+      "https://www.newpalace.com.tw/upload/pictures/venue/2400_%E5%93%A5%E5%BE%B7%E5%BB%B31-%E8%BC%AA%E6%92%AD%E5%9C%96.jpg",
+      "https://www.newpalace.com.tw/upload/pictures/venue/2112_2023-9-26%20(247).jpg",
+      "https://www.newpalace.com.tw/upload/pictures/venue/5410_cover_shungtak.jpg",
+      "https://www.newpalace.com.tw/upload/pictures/venue/1106_main_vena.jpg",
+      "https://www.newpalace.com.tw/upload/pictures/venue/1550_main_light.jpg",
+      "https://www.newpalace.com.tw/upload/pictures/venue/5051_750%E4%B8%BB.jpg",
+      "https://www.newpalace.com.tw/upload/pictures/venue/3025_7501630039822-2624458346-g_l.jpg"
+    ]
+  },
+  {
+    "url": "https://www.edaskylark.com.tw/",
+    "venues": [
+      {
+        "id": 1297,
+        "name": "義大天悅飯店"
+      }
+    ],
+    "status": "OK",
+    "issues": [],
+    "title": "義大天悅飯店｜義大天悅飯店座落在義大世界園區內，飯店以英式新古典建築及典雅室內風格呈現。",
+    "meetingLinks": [
+      {
+        "text": "活動資訊",
+        "href": "https://www.edaskylark.com.tw/news/16/"
+      },
+      {
+        "text": "房型介紹",
+        "href": "https://www.edaskylark.com.tw/room/"
+      },
+      {
+        "text": "雙人房",
+        "href": "https://www.edaskylark.com.tw/room/double/"
+      },
+      {
+        "text": "家庭房",
+        "href": "https://www.edaskylark.com.tw/room/family/"
+      },
+      {
+        "text": "主題房",
+        "href": "https://www.edaskylark.com.tw/room/theme/"
+      },
+      {
+        "text": "花園套房",
+        "href": "https://www.edaskylark.com.tw/room/club/"
+      },
+      {
+        "text": "宴會會議",
+        "href": "https://www.edaskylark.com.tw/halls/"
+      },
+      {
+        "text": "菁英雅緻客房",
+        "href": "https://www.edaskylark.com.tw/catalog_room-detail/Eliteelegantroom/"
+      },
+      {
+        "text": "菁英雅緻家庭房",
+        "href": "https://www.edaskylark.com.tw/catalog_room-detail/EliteFamilyRoom/"
+      },
+      {
+        "text": "溫馨家庭房",
+        "href": "https://www.edaskylark.com.tw/catalog_room-detail/skylarksuperiorfamilyroom/"
+      }
+    ],
+    "meetingPageUrl": "https://www.edaskylark.com.tw/news/16/",
+    "photos": [
+      "https://www.edaskylark.com.tw/upload/banner_ins_list/twL_banner_ins_22L20_rlKTkmZNEf.jpg",
+      "https://www.edaskylark.com.tw/upload/news_list_pic/twL_news_24A25_eKjK4hN0nU.jpg",
+      "https://www.edaskylark.com.tw/upload/news_list_pic/twL_news_26B09_KSCSbHBYoY.jpg",
+      "https://www.edaskylark.com.tw/upload/news_list_pic/twL_news_25D15_Koo6hOh2D0.jpg",
+      "https://www.edaskylark.com.tw/upload/news_list_pic/twL_news_25E28_lzFy7Zl2I9.jpg",
+      "https://www.edaskylark.com.tw/upload/news_list_pic/twL_news_25E05_zCBEiF4zRK.jpg",
+      "https://www.edaskylark.com.tw/upload/news_list_pic/twL_news_24L17_AFR62UK2Xl.jpg",
+      "https://www.edaskylark.com.tw/upload/news_list_pic/twL_news_25E15_tGss8gJfJM.jpg",
+      "https://www.edaskylark.com.tw/upload/news_list_pic/twL_news_25L31_GIc0o1eDUg.jpg",
+      "https://www.edaskylark.com.tw/upload/news_list_pic/twL_news_24K29_RqpKm5Rv4A.jpg"
+    ]
+  },
+  {
+    "url": "https://www.edaroyal.com.tw/",
+    "venues": [
+      {
+        "id": 1298,
+        "name": "義大皇家酒店"
+      },
+      {
+        "id": 1320,
+        "name": "高雄義大皇冠假日酒店"
+      }
+    ],
+    "status": "OK",
+    "issues": [],
+    "title": "義大皇家酒店｜結合休閒度假飯店、大型購物商場、主題遊樂園和藝術生態於一體的多元化渡假休閒勝地",
+    "meetingLinks": [
+      {
+        "text": "住房優惠",
+        "href": "https://www.edaroyal.com.tw/news/roompackage/"
+      },
+      {
+        "text": "活動資訊",
+        "href": "https://www.edaroyal.com.tw/news/Activity/"
+      },
+      {
+        "text": "房型介紹",
+        "href": "https://www.edaroyal.com.tw/room/"
+      },
+      {
+        "text": "雙人房",
+        "href": "https://www.edaroyal.com.tw/room/double/"
+      },
+      {
+        "text": "家庭房",
+        "href": "https://www.edaroyal.com.tw/room/family/"
+      },
+      {
+        "text": "主題房",
+        "href": "https://www.edaroyal.com.tw/room/theme/"
+      },
+      {
+        "text": "行政樓層",
+        "href": "https://www.edaroyal.com.tw/room/club/"
+      },
+      {
+        "text": "宴會會議",
+        "href": "https://www.edaroyal.com.tw/halls/"
+      },
+      {
+        "text": "❮皇樓中餐廳❯ 煲仔冬之饌",
+        "href": "https://www.edaroyal.com.tw/news-detail/winter2025/"
+      },
+      {
+        "text": "❮皇樓中餐廳❯ 煲仔冬之饌",
+        "href": "https://www.edaroyal.com.tw/news-detail/winter2025/"
+      }
+    ],
+    "meetingPageUrl": "https://www.edaroyal.com.tw/news/roompackage/",
+    "photos": [
+      "https://www.edaroyal.com.tw/upload/banner_ins_list/twL_banner_ins_22L20_rlKTkmZNEf.jpg",
+      "https://www.edaroyal.com.tw/upload/news_list_pic/twL_news_26A29_uizOaccwfD.jpg",
+      "https://www.edaroyal.com.tw/upload/news_list_pic/twL_news_25K14_zw9bEZwK9Q.jpg",
+      "https://www.edaroyal.com.tw/upload/news_list_pic/twL_news_26B02_vjYhNOpta0.jpg",
+      "https://www.edaroyal.com.tw/upload/news_list_pic/twL_news_26B13_GknAQK0hew.jpg",
+      "https://www.edaroyal.com.tw/upload/news_list_pic/twL_news_25K19_IV8OQVOfwF.jpg",
+      "https://www.edaroyal.com.tw/upload/news_list_pic/twL_news_25K20_7195RgMzuv.jpg",
+      "https://www.edaroyal.com.tw/upload/news_list_pic/twL_news_26A23_AMG1jS2caJ.jpg",
+      "https://www.edaroyal.com.tw/upload/news_list_pic/twL_news_26A19_AgSgTIaaCT.jpg",
+      "https://www.edaroyal.com.tw/upload/news_list_pic/twL_news_26A27_ZtP07jiktu.jpg"
+    ]
+  },
+  {
+    "url": "https://pier2.org/",
+    "venues": [
+      {
+        "id": 1299,
+        "name": "駁二藝術特區"
+      }
+    ],
+    "status": "部分OK",
+    "issues": [
+      "缺少會議室照片"
+    ],
+    "title": "首頁 | 駁二藝術特區",
+    "meetingLinks": [
+      {
+        "text": "活動",
+        "href": "https://pier2.org/activity/"
+      },
+      {
+        "text": "活動",
+        "href": "https://pier2.org/activity/"
+      },
+      {
+        "text": "活動",
+        "href": "https://pier2.org/activity/"
+      }
+    ],
+    "meetingPageUrl": "https://pier2.org/activity/",
+    "photos": []
+  },
+  {
+    "url": "https://www.ambassadorhotel.com.tw/kaohsiung",
+    "venues": [
+      {
+        "id": 1302,
+        "name": "高雄國賓大飯店"
+      }
+    ],
+    "status": "錯誤",
+    "issues": [
+      "page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://www.ambassadorhotel.com.tw/kaohsiung\", waiting until \"domcontentloaded\"\n"
+    ],
+    "title": null,
+    "meetingLinks": [],
+    "meetingPageUrl": null,
+    "photos": [],
+    "error": "page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://www.ambassadorhotel.com.tw/kaohsiung\", waiting until \"domcontentloaded\"\n"
+  },
+  {
+    "url": "https://www.citysuites.com.tw/",
+    "venues": [
+      {
+        "id": 1303,
+        "name": "高雄城市商旅(CityInn)"
+      }
+    ],
+    "status": "有問題",
+    "issues": [
+      "找不到會議室頁面"
+    ],
+    "title": "城市商旅 CitySuites",
+    "meetingLinks": [],
+    "meetingPageUrl": null,
+    "photos": []
+  },
+  {
+    "url": "https://www.han-hsien.com.tw/",
+    "venues": [
+      {
+        "id": 1304,
+        "name": "高雄寒軒國際大飯店(HanHsien)"
+      }
+    ],
+    "status": "錯誤",
+    "issues": [
+      "page.goto: net::ERR_CERT_COMMON_NAME_INVALID at https://www.han-hsien.com.tw/\nCall log:\n  - navigating to \"https://www.han-hsien.com.tw/\", waiting until \"domcontentloaded\"\n"
+    ],
+    "title": null,
+    "meetingLinks": [],
+    "meetingPageUrl": null,
+    "photos": [],
+    "error": "page.goto: net::ERR_CERT_COMMON_NAME_INVALID at https://www.han-hsien.com.tw/\nCall log:\n  - navigating to \"https://www.han-hsien.com.tw/\", waiting until \"domcontentloaded\"\n"
+  },
+  {
+    "url": "https://www.han-hsien.com",
+    "venues": [
+      {
+        "id": 1305,
+        "name": "高雄寒軒國際大飯店(HanHsien)"
+      }
+    ],
+    "status": "錯誤",
+    "issues": [
+      "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.han-hsien.com/\nCall log:\n  - navigating to \"https://www.han-hsien.com/\", waiting until \"domcontentloaded\"\n"
+    ],
+    "title": null,
+    "meetingLinks": [],
+    "meetingPageUrl": null,
+    "photos": [],
+    "error": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.han-hsien.com/\nCall log:\n  - navigating to \"https://www.han-hsien.com/\", waiting until \"domcontentloaded\"\n"
+  },
+  {
+    "url": "https://www.kecc.com.tw/",
+    "venues": [
+      {
+        "id": 1306,
+        "name": "高雄展覽館(KEC)"
+      }
+    ],
+    "status": "OK",
+    "issues": [],
+    "title": "Asia's premier smart venue | Kaohsiung Exhibition Center - Home",
+    "meetingLinks": [
+      {
+        "text": "Plan",
+        "href": "https://www.kecc.com.tw/rental-venue"
+      },
+      {
+        "text": "Innovation Solutions",
+        "href": "https://5gsmartvenue.com.tw/"
+      },
+      {
+        "text": "ORGANISE",
+        "href": "https://www.kecc.com.tw/rental-venue"
+      },
+      {
+        "text": "READ MORE",
+        "href": "https://www.kecc.com.tw/visitors-exhibition/event/424"
+      },
+      {
+        "text": "READ MORE",
+        "href": "https://www.kecc.com.tw/visitors-exhibition/event/423"
+      },
+      {
+        "text": "READ MORE",
+        "href": "https://www.kecc.com.tw/visitors-exhibition/event/405"
+      },
+      {
+        "text": "READ MORE",
+        "href": "https://www.kecc.com.tw/visitors-exhibition/event/407"
+      },
+      {
+        "text": "READ MORE",
+        "href": "https://www.kecc.com.tw/visitors-exhibition/event/440"
+      },
+      {
+        "text": "READ MORE",
+        "href": "https://www.kecc.com.tw/visitors-exhibition/event/426"
+      },
+      {
+        "text": "READ MORE",
+        "href": "https://www.kecc.com.tw/visitors-exhibition/event/436"
+      }
+    ],
+    "meetingPageUrl": "https://www.kecc.com.tw/rental-venue",
+    "photos": [
+      "https://www.kecc.com.tw/img/floorplan_1f.f2b3d468.jpg",
+      "https://www.kecc.com.tw/project/kecc/common/uploads/15/thumbnail/1-3/1-3_ml.jpg",
+      "https://www.kecc.com.tw/project/kecc/common/uploads/15/thumbnail/2-1/2-1_ml.jpg",
+      "https://www.kecc.com.tw/project/kecc/common/uploads/15/thumbnail/%E6%88%B6%E5%A4%96%E5%A0%B4%E5%9F%9F/%E6%88%B6%E5%A4%96%E5%A0%B4%E5%9F%9F_ml.jpg"
+    ]
+  },
+  {
+    "url": "https://www.k-arena.com.tw/",
+    "venues": [
+      {
+        "id": 1307,
+        "name": "高雄巨蛋"
+      }
+    ],
+    "status": "有問題",
+    "issues": [
+      "找不到會議室頁面"
+    ],
+    "title": "k-arena.com.tw",
+    "meetingLinks": [],
+    "meetingPageUrl": null,
+    "photos": []
+  },
+  {
+    "url": "https://www.kmseh.gov.tw/",
+    "venues": [
+      {
+        "id": 1308,
+        "name": "高雄市立社會教育館"
+      }
+    ],
+    "status": "部分OK",
+    "issues": [
+      "缺少會議室照片"
+    ],
+    "title": "高雄市立社會教育館",
+    "meetingLinks": [
+      {
+        "text": "115年3月份體育館因舉辦下列活動暫停開放",
+        "href": "https://www.kmseh.gov.tw/01_news/01_main.php?bull_id=19620"
+      }
+    ],
+    "meetingPageUrl": "https://www.kmseh.gov.tw/01_news/01_main.php?bull_id=19620",
+    "photos": []
+  },
+  {
+    "url": "https://www.kmfa.gov.tw/",
+    "venues": [
+      {
+        "id": 1309,
+        "name": "高雄市立美術館(KMFA)"
+      }
+    ],
+    "status": "有問題",
+    "issues": [
+      "找不到會議室頁面"
+    ],
+    "title": "高雄市立美術館",
+    "meetingLinks": [],
+    "meetingPageUrl": null,
+    "photos": []
+  },
+  {
+    "url": "https://sports.kcg.gov.tw/",
+    "venues": [
+      {
+        "id": 1310,
+        "name": "高雄市立體育館"
+      }
+    ],
+    "status": "部分OK",
+    "issues": [
+      "缺少會議室照片"
+    ],
+    "title": "高雄市政府運動發展局",
+    "meetingLinks": [
+      {
+        "text": "場地申請",
+        "href": "https://sports.kcg.gov.tw/Search.aspx?q=%E5%A0%B4%E5%9C%B0%E7%94%B3%E8%AB%8B"
+      },
+      {
+        "text": "場地位址電話",
+        "href": "https://sports.kcg.gov.tw/AboutUs/Address01.htm"
+      },
+      {
+        "text": "場地相關法令",
+        "href": "https://sports.kcg.gov.tw/ActivitiesListC003300.aspx"
+      },
+      {
+        "text": "高雄國家體育場場地相關法令及收費標準",
+        "href": "https://sports.kcg.gov.tw/FileUploadCategoryListC003630.aspx?appname=FileUploadCategoryListC003630"
+      },
+      {
+        "text": "場地申請使用流程",
+        "href": "https://sports.kcg.gov.tw/ArenaIntroduction/SiteApplicationProcess"
+      },
+      {
+        "text": "場地申請使用流程",
+        "href": "https://sports.kcg.gov.tw/ArenaIntroduction/SiteApplicationProcess/ApplyNormal.htm"
+      },
+      {
+        "text": "場地相關法令",
+        "href": "https://sports.kcg.gov.tw/ActivitiesListC003300.aspx?appname=ActivitiesListC003300"
+      },
+      {
+        "text": "場地收費標準",
+        "href": "https://sports.kcg.gov.tw/FileUploadCategoryListC003400.aspx?appname=FileUploadCategoryListC003400"
+      },
+      {
+        "text": "場地相關法令及收費標準",
+        "href": "https://sports.kcg.gov.tw/FileUploadCategoryListC003630.aspx?appname=FileUploadCategoryListC003630"
+      },
+      {
+        "text": "場地位址電話",
+        "href": "https://sports.kcg.gov.tw/AboutUs/Address01.htm"
+      }
+    ],
+    "meetingPageUrl": "https://sports.kcg.gov.tw/Search.aspx?q=%E5%A0%B4%E5%9C%B0%E7%94%B3%E8%AB%8B",
+    "photos": []
+  },
+  {
+    "url": "https://taiurbanresort.com.tw/",
+    "venues": [
+      {
+        "id": 1311,
+        "name": "高雄承億酒店"
+      }
+    ],
+    "status": "錯誤",
+    "issues": [
+      "page.goto: net::ERR_NAME_NOT_RESOLVED at https://taiurbanresort.com.tw/\nCall log:\n  - navigating to \"https://taiurbanresort.com.tw/\", waiting until \"domcontentloaded\"\n"
+    ],
+    "title": null,
+    "meetingLinks": [],
+    "meetingPageUrl": null,
+    "photos": [],
+    "error": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://taiurbanresort.com.tw/\nCall log:\n  - navigating to \"https://taiurbanresort.com.tw/\", waiting until \"domcontentloaded\"\n"
+  },
+  {
+    "url": "https://www.justsleephotels.com/",
+    "venues": [
+      {
+        "id": 1312,
+        "name": "高雄捷絲旅酒店"
+      }
+    ],
+    "status": "部分OK",
+    "issues": [
+      "缺少會議室照片"
+    ],
+    "title": "官網訂房最低價，加購高鐵車票另享優惠 | 直接在捷絲旅官網訂房",
+    "meetingLinks": [
+      {
+        "text": "",
+        "href": "https://event.silkshotelgroup.com/ContactUs/zh-tw/"
+      },
+      {
+        "text": "",
+        "href": "https://event.silkshotelgroup.com/ContactUs/zh-tw/"
+      }
+    ],
+    "meetingPageUrl": "https://event.silkshotelgroup.com/ContactUs/zh-tw/",
+    "photos": []
+  },
+  {
+    "url": "https://www.briohotel.com/",
+    "venues": [
+      {
+        "id": 1313,
+        "name": "高雄比歐緻飯店"
+      }
+    ],
+    "status": "OK",
+    "issues": [],
+    "title": "高雄設計旅店-比歐緻居｜高雄住宿,高雄住宿推薦,精品飯店,設計旅店",
+    "meetingLinks": [
+      {
+        "text": "餐酒會議",
+        "href": "https://www.briohotel.com/dining/"
+      },
+      {
+        "text": "會議空間",
+        "href": "https://www.briohotel.com/dining/index.php?index_m_id=14"
+      },
+      {
+        "text": "房型介紹",
+        "href": "https://www.briohotel.com/room/"
+      },
+      {
+        "text": "房型一覽",
+        "href": "https://www.briohotel.com/room/"
+      },
+      {
+        "text": "房價表",
+        "href": "https://www.briohotel.com/room/price.php"
+      },
+      {
+        "text": "會議空間",
+        "href": "https://www.briohotel.com/fac/index.php?index_m_id=18"
+      },
+      {
+        "text": "",
+        "href": "https://www.briohotel.com/room/ins.php?index_id=41"
+      },
+      {
+        "text": "BLISS ELITE CITY VIEW DOUB\n\t                \t\t輕語菁英",
+        "href": "https://www.briohotel.com/room/ins.php?index_id=41"
+      },
+      {
+        "text": "View More",
+        "href": "https://www.briohotel.com/room/ins.php?index_id=41"
+      },
+      {
+        "text": "",
+        "href": "https://www.briohotel.com/room/ins.php?index_id=39"
+      }
+    ],
+    "meetingPageUrl": "https://www.briohotel.com/dining/",
+    "photos": [
+      "https://www.briohotel.com/upload/banner_ins_list/9276eb71d6459976b3bc241e3716a91b.jpg",
+      "https://www.briohotel.com/upload/fac_dining_list_pic/e7c1476ff98096345f561dc9af7c4923.jpg",
+      "https://www.briohotel.com/upload/fac_dining_list_pic/e219b1a7c9fa410c25631d18ca9e6e7d.jpg",
+      "https://www.briohotel.com/upload/fac_dining_list_pic/30d61f2016378cfd49b775e6bcaf7f37.jpg",
+      "https://www.briohotel.com/upload/fac_dining_list_pic/86c85123e0205cd65c532feb3b70e203.jpg"
+    ]
+  },
+  {
+    "url": "https://www.ihg.com/intercontinental/hotels/tw/zh/kaohsiung/khhic/hoteldetail",
+    "venues": [
+      {
+        "id": 1314,
+        "name": "高雄洲際酒店"
+      }
+    ],
+    "status": "有問題",
+    "issues": [
+      "找不到會議室頁面"
+    ],
+    "title": "Access Denied",
+    "meetingLinks": [],
+    "meetingPageUrl": null,
+    "photos": []
+  },
+  {
+    "url": "https://www.grand-hilai.com",
+    "venues": [
+      {
+        "id": 1315,
+        "name": "高雄漢來大飯店(GrandHiLaHotel)"
+      }
+    ],
+    "status": "OK",
+    "issues": [],
+    "title": "高雄漢來大飯店 GRAND HILAI KAOHSIUNG｜高雄住宿、國際五星級飯店",
+    "meetingLinks": [
+      {
+        "text": "三麗鷗主題房",
+        "href": "https://www.grand-hilai.com/room/Sanrio/"
+      },
+      {
+        "text": "標準客房",
+        "href": "https://www.grand-hilai.com/room/standard-guestroom/"
+      },
+      {
+        "text": "商務客房",
+        "href": "https://www.grand-hilai.com/room/executive-guestroom/"
+      },
+      {
+        "text": "尊榮套房",
+        "href": "https://www.grand-hilai.com/room/deluxe-suites/"
+      },
+      {
+        "text": "宴會會議",
+        "href": "https://www.grand-hilai.com/meeting/"
+      },
+      {
+        "text": "會議場地",
+        "href": "https://www.grand-hilai.com/space/information/"
+      },
+      {
+        "text": "主題宴會",
+        "href": "https://www.grand-hilai.com/banquet/"
+      },
+      {
+        "text": "中式餐廳",
+        "href": "https://www.grand-hilai.com/restaurant/chinese-restaurants/"
+      },
+      {
+        "text": "西式餐廳",
+        "href": "https://www.grand-hilai.com/restaurant/western-restaurants/"
+      },
+      {
+        "text": "特色餐廳",
+        "href": "https://www.grand-hilai.com/restaurant/japanese-restaurants-and-bakeries/"
+      }
+    ],
+    "meetingPageUrl": "https://www.grand-hilai.com/room/Sanrio/",
+    "photos": [
+      "https://www.grand-hilai.com/room/upload/room_list_pic/twL_room_22J06_xjw9xazrrc.jpg",
+      "https://www.grand-hilai.com/room/upload/room_list_pic/twL_room_22J06_jcvzz2fcuk.jpg",
+      "https://www.grand-hilai.com/room/upload/room_list_pic/twL_room_22J13_763g8c4bym.jpg",
+      "https://www.grand-hilai.com/room/upload/room_list_pic/twL_room_22J13_zg6cb6hpzt.jpg",
+      "https://www.grand-hilai.com/room/upload/room_list_pic/twL_room_23B14_j3kkex8n5z.jpg",
+      "https://www.grand-hilai.com/room/upload/room_list_pic/twL_room_22J13_8ygwmjixpf.jpg",
+      "https://www.grand-hilai.com/room/upload/room_list_pic/twL_room_22J13_vejw7d7rxk.jpg",
+      "https://www.grand-hilai.com/room/upload/room_list_pic/twL_room_22J13_swt6kgnged.jpg",
+      "https://www.grand-hilai.com/room/upload/room_list_pic/twL_room_22J13_6s8gencukb.jpg",
+      "https://www.grand-hilai.com/room/upload/room_list_pic/twL_room_22J13_5e3vi57ff4.jpg"
+    ]
+  },
+  {
+    "url": "https://www.howard-hotels.com.tw/zh_TW/HotelBusiness/114",
+    "venues": [
+      {
+        "id": 1316,
+        "name": "高雄福華大飯店(HowardKaohsiung)"
+      }
+    ],
+    "status": "部分OK",
+    "issues": [
+      "缺少會議室照片"
+    ],
+    "title": "福華大飯店 - Howard Hotels",
+    "meetingLinks": [
+      {
+        "text": "精緻客房",
+        "href": "https://www.howard-hotels.com.tw/zh_TW/HotelBusiness/114/Room"
+      },
+      {
+        "text": "活動專區",
+        "href": "https://www.howard-hotels.com.tw/zh_TW/HotelBusiness/114/Activity"
+      },
+      {
+        "text": "婚宴會議",
+        "href": "https://www.howard-hotels.com.tw/zh_TW/HotelBusiness/114/Wedding"
+      },
+      {
+        "text": "精緻客房",
+        "href": "https://www.howard-hotels.com.tw/zh_TW/HotelBusiness/114/Room"
+      },
+      {
+        "text": "活動專區",
+        "href": "https://www.howard-hotels.com.tw/zh_TW/HotelBusiness/114/Activity"
+      },
+      {
+        "text": "婚宴會議",
+        "href": "https://www.howard-hotels.com.tw/zh_TW/HotelBusiness/114/Wedding"
+      },
+      {
+        "text": "了解更多",
+        "href": "https://www.howard-hotels.com.tw/zh_TW/HotelBusiness/114/Room/64"
+      },
+      {
+        "text": "所有房型",
+        "href": "https://www.howard-hotels.com.tw/zh_TW/HotelBusiness/114/Room"
+      },
+      {
+        "text": "了解更多",
+        "href": "https://www.howard-hotels.com.tw/zh_TW/HotelBusiness/114/Room/66"
+      },
+      {
+        "text": "所有房型",
+        "href": "https://www.howard-hotels.com.tw/zh_TW/HotelBusiness/114/Room"
+      }
+    ],
+    "meetingPageUrl": "https://www.howard-hotels.com.tw/zh_TW/HotelBusiness/114/Room",
+    "photos": []
+  },
+  {
+    "url": "https://www.howard-hotels.com.tw/kaohsiung",
+    "venues": [
+      {
+        "id": 1317,
+        "name": "高雄福華大飯店(HowardKaohsiung)"
+      }
+    ],
+    "status": "有問題",
+    "issues": [
+      "找不到會議室頁面"
+    ],
+    "title": "Server error",
+    "meetingLinks": [],
+    "meetingPageUrl": null,
+    "photos": []
+  },
+  {
+    "url": "https://www.nstm.gov.tw/",
+    "venues": [
+      {
+        "id": 1318,
+        "name": "高雄科學工藝博物館"
+      }
+    ],
+    "status": "部分OK",
+    "issues": [
+      "缺少會議室照片"
+    ],
+    "title": "國立科學工藝博物館",
+    "meetingLinks": [
+      {
+        "text": "活動資訊",
+        "href": "https://www.nstm.gov.tw/Search.aspx?q=%E6%B4%BB%E5%8B%95%E8%B3%87%E8%A8%8A"
+      },
+      {
+        "text": "科教活動",
+        "href": "https://www.nstm.gov.tw/Search.aspx?q=%E7%A7%91%E6%95%99%E6%B4%BB%E5%8B%95"
+      },
+      {
+        "text": "科教活動",
+        "href": "https://www.nstm.gov.tw/ActivitiesListC001110.aspx?CategoryID=84a91519-08e7-475c-ab58-c2877ef7096c"
+      },
+      {
+        "text": "學術及研討會活動",
+        "href": "https://www.nstm.gov.tw/ActivitiesListC001110.aspx?CategoryID=3066ab19-550c-4b95-87e3-2549037275f1"
+      },
+      {
+        "text": "科學小樹苗公益活動",
+        "href": "https://www.nstm.gov.tw/News/CooperationCare/lovelighting.htm"
+      },
+      {
+        "text": "推廣教育活動報名",
+        "href": "https://serv.nstm.gov.tw/"
+      },
+      {
+        "text": "場地租借",
+        "href": "https://www.nstm.gov.tw/Reference/SingleWindowService/SiteHire"
+      },
+      {
+        "text": "即時活動查詢平台",
+        "href": "https://websrv.nstm.gov.tw/OtherInfo/AllActive"
+      },
+      {
+        "text": "活動報名",
+        "href": "https://serv.nstm.gov.tw/"
+      },
+      {
+        "text": "原創客工場各工作室空間設備",
+        "href": "https://www.nstm.gov.tw/Resources/TrueDreamland/TrueDreamlandField.htm"
+      }
+    ],
+    "meetingPageUrl": "https://www.nstm.gov.tw/Search.aspx?q=%E6%B4%BB%E5%8B%95%E8%B3%87%E8%A8%8A",
+    "photos": []
+  },
+  {
+    "url": "https://www.legendhotel.com.tw/",
+    "venues": [
+      {
+        "id": 1319,
+        "name": "高雄秝芯旅館"
+      }
+    ],
+    "status": "有問題",
+    "issues": [
+      "找不到會議室頁面"
+    ],
+    "title": "秝芯旅店駁二館六合館 | 官網房價優惠線上訂房系統、 高雄設計旅店、高雄親子飯店、高雄住宿|飯店|旅館|酒店推薦、Legend Hotel Liuhe Pier2 Kaohsiung",
+    "meetingLinks": [],
+    "meetingPageUrl": null,
+    "photos": []
+  },
+  {
+    "url": "https://www.eda-royal.com",
+    "venues": [
+      {
+        "id": 1321,
+        "name": "高雄義大皇家酒店(EdaRoyal)"
+      }
+    ],
+    "status": "錯誤",
+    "issues": [
+      "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.eda-royal.com/\nCall log:\n  - navigating to \"https://www.eda-royal.com/\", waiting until \"domcontentloaded\"\n"
+    ],
+    "title": null,
+    "meetingLinks": [],
+    "meetingPageUrl": null,
+    "photos": [],
+    "error": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.eda-royal.com/\nCall log:\n  - navigating to \"https://www.eda-royal.com/\", waiting until \"domcontentloaded\"\n"
+  },
+  {
+    "url": "https://kaohsiung.chateaudechine.com/",
+    "venues": [
+      {
+        "id": 1322,
+        "name": "高雄翰品酒店(ChamChamKaohsiung)"
+      }
+    ],
+    "status": "OK",
+    "issues": [],
+    "title": "CHATEAU de CHINE 翰品酒店 - 高雄 | 加購高鐵車票享78折起優惠",
+    "meetingLinks": [
+      {
+        "text": "客房",
+        "href": "https://kaohsiung.chateaudechine.com/tw/rooms"
+      },
+      {
+        "text": "美饌宴會",
+        "href": "https://kaohsiung.chateaudechine.com/tw/restaurants"
+      },
+      {
+        "text": "客房",
+        "href": "https://kaohsiung.chateaudechine.com/tw/rooms/1"
+      },
+      {
+        "text": "套房",
+        "href": "https://kaohsiung.chateaudechine.com/tw/rooms/2"
+      },
+      {
+        "text": "客房",
+        "href": "https://kaohsiung.chateaudechine.com/tw/rooms#room-superior"
+      },
+      {
+        "text": "套房",
+        "href": "https://kaohsiung.chateaudechine.com/tw/rooms#room-suit"
+      },
+      {
+        "text": "房型一覽表",
+        "href": "https://kaohsiung.chateaudechine.com/tw/rooms#room-type-table"
+      },
+      {
+        "text": "浩瀚廳",
+        "href": "https://kaohsiung.chateaudechine.com/tw/restaurants/9"
+      },
+      {
+        "text": "翰品廳",
+        "href": "https://kaohsiung.chateaudechine.com/tw/restaurants/10"
+      },
+      {
+        "text": "住房優惠",
+        "href": "https://kaohsiung.chateaudechine.com/tw/promotions#room"
+      }
+    ],
+    "meetingPageUrl": "https://kaohsiung.chateaudechine.com/tw/rooms",
+    "photos": [
+      "https://www.chateaudechine.com/assets/3aebbac420e1d.jpg"
+    ]
+  },
+  {
+    "url": "https://www.han-huang.com",
+    "venues": [
+      {
+        "id": 1323,
+        "name": "高雄翰皇酒店"
+      }
+    ],
+    "status": "錯誤",
+    "issues": [
+      "page.goto: net::ERR_CONNECTION_REFUSED at https://www.han-huang.com/\nCall log:\n  - navigating to \"https://www.han-huang.com/\", waiting until \"domcontentloaded\"\n"
+    ],
+    "title": null,
+    "meetingLinks": [],
+    "meetingPageUrl": null,
+    "photos": [],
+    "error": "page.goto: net::ERR_CONNECTION_REFUSED at https://www.han-huang.com/\nCall log:\n  - navigating to \"https://www.han-huang.com/\", waiting until \"domcontentloaded\"\n"
+  },
+  {
+    "url": "https://www.han-yuan.com.tw",
+    "venues": [
+      {
+        "id": 1324,
+        "name": "高雄翰苑酒店"
+      }
+    ],
+    "status": "有問題",
+    "issues": [
+      "找不到會議室頁面"
+    ],
+    "title": "漢元技研有限公司",
+    "meetingLinks": [],
+    "meetingPageUrl": null,
+    "photos": []
+  },
+  {
+    "url": "https://www.ihg.com/hotelindigo/hotels/tw/zh/kaohsiung/khhin/hoteldetail",
+    "venues": [
+      {
+        "id": 1325,
+        "name": "高雄英迪格酒店"
+      }
+    ],
+    "status": "有問題",
+    "issues": [
+      "找不到會議室頁面"
+    ],
+    "title": "Access Denied",
+    "meetingLinks": [],
+    "meetingPageUrl": null,
+    "photos": []
+  }
+]
