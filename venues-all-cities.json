@@ -19331,5 +19331,68 @@
     "verificationStatus": "已驗證",
     "verificationNote": "會議室清單已補充",
     "lastVerified": "2026-03-02T12:46:56.290Z"
+  },
+  {
+    "id": "1540",
+    "name": "集思北科大會議中心",
+    "city": "台北市",
+    "url": "https://www.meeting.com.tw/",
+    "venueListUrl": "https://www.meeting.com.tw/ntut/index.php",
+    "address": "台北市大安區忠孝東路三段1號 (億光大樓2~3樓)",
+    "phone": "(02) 2741-7655",
+    "email": "gistaipeitechcc@gisgroup.com",
+    "status": "上架",
+    "source": "meeting.com.tw",
+    "createdAt": "2026-03-02T16:36:43.546Z"
+  },
+  {
+    "id": "1541",
+    "name": "集思交通部會議中心",
+    "city": "台北市",
+    "url": "https://www.meeting.com.tw/",
+    "venueListUrl": "https://www.meeting.com.tw/motc/index.php",
+    "address": "台北市杭州南路一段24號",
+    "phone": "(02) 2321-4946",
+    "email": "motc@gisgroup.com",
+    "status": "上架",
+    "source": "meeting.com.tw",
+    "createdAt": "2026-03-02T16:36:43.547Z"
+  },
+  {
+    "id": "1542",
+    "name": "集思台中文心會議中心",
+    "city": "台中市",
+    "url": "https://www.meeting.com.tw/",
+    "venueListUrl": "https://www.meeting.com.tw/wenxin/index.php",
+    "address": "台中市西屯區文心路二段107號(富邦文心大樓4樓)",
+    "phone": "04-22529797",
+    "email": "giswxcc@gisgroup.com",
+    "status": "上架",
+    "source": "meeting.com.tw",
+    "createdAt": "2026-03-02T16:36:43.547Z"
+  },
+  {
+    "id": "1543",
+    "name": "集思台中新烏日會議中心",
+    "city": "台中市",
+    "url": "https://www.meeting.com.tw/",
+    "venueListUrl": "https://www.meeting.com.tw/xinwuri/index.php",
+    "address": "台中市烏日區（位於台鐵新烏日車站內，三鐵共構）",
+    "phone": "",
+    "status": "上架",
+    "source": "meeting.com.tw",
+    "createdAt": "2026-03-02T16:36:43.547Z"
+  },
+  {
+    "id": "1544",
+    "name": "集思竹科會議中心",
+    "city": "新竹市",
+    "url": "https://www.meeting.com.tw/",
+    "venueListUrl": "https://www.meeting.com.tw/hsp/index.php",
+    "address": "新竹科學園區工業東二路1號（科技生活館）",
+    "phone": "03-5779191#313",
+    "status": "上架",
+    "source": "meeting.com.tw",
+    "createdAt": "2026-03-02T16:36:43.547Z"
   }
 ]
