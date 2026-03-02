@@ -1757,49 +1757,6 @@
     "lastVerified": "2026-03-02T09:52:23.503Z"
   },
   {
-    "id": 1046,
-    "name": "南港展覽館",
-    "roomName": "展會活動",
-    "venueType": "展覽中心",
-    "city": "台北市",
-    "address": "台北市南港區經貿二路 1 號",
-    "contactPerson": "展覽部",
-    "contactPhone": "02-2725-5200",
-    "contactEmail": "tainex1@taitra.org.tw",
-    "priceHalfDay": 120000,
-    "priceFullDay": 220000,
-    "maxCapacityTheater": 3000,
-    "maxCapacityClassroom": null,
-    "availableTimeWeekday": "09:00-18:00",
-    "availableTimeWeekend": "09:00-18:00",
-    "equipment": "專業展覽設備",
-    "images": {
-      "main": "https://www.tainex.com.tw/images/bee.svg",
-      "gallery": [
-        "https://www.tainex.com.tw/images/bee.svg",
-        "https://www.tainex.com.tw/images/%E5%8C%97%E9%96%80%E6%AC%BELogo.svg"
-      ],
-      "source": "https://www.tainex.com.tw/",
-      "verified": true,
-      "verifiedAt": "2026-03-02T03:33:04.295Z"
-    },
-    "url": "https://www.tainex.com.tw/",
-    "verified": true,
-    "verifiedAt": "2026-02-27",
-    "status": "上架",
-    "roomType": "展覽館",
-    "venuePageUrl": "https://www.tainex.com.tw/venue/meetingroom",
-    "notes": "以展覽為主，會議室為附屬設施。1館/2館皆有會議室可租借。",
-    "missingFields": [
-      "教室式人數"
-    ],
-    "verificationStatus": "已驗證",
-    "meetingPageUrl": "https://www.tainex.com.tw/event",
-    "lastVerified": "2026-03-02T12:22:12.011Z",
-    "venueListUrl": "https://www.tainex.com.tw/event",
-    "verificationNote": "會議室清單已補充（4個會議室）"
-  },
-  {
     "id": 1047,
     "name": "台北W飯店(WTaipei)",
     "roomName": "WOW廳",
@@ -18845,60 +18802,6 @@
     "equipment": "投影設備、音響"
   },
   {
-    "id": 1518,
-    "name": "南港展覽館",
-    "roomName": "站內搜尋",
-    "venueType": "展覽中心",
-    "city": "台北市",
-    "address": "台北市南港區經貿二路 1 號",
-    "contactPerson": "展覽部",
-    "contactPhone": "02-2725-5200",
-    "contactEmail": "tainex1@taitra.org.tw",
-    "url": "https://www.tainex.com.tw/",
-    "venueListUrl": "https://www.tainex.com.tw/event",
-    "maxCapacityTheater": null,
-    "status": "上架",
-    "verificationStatus": "已驗證",
-    "verificationNote": "會議室清單已補充",
-    "lastVerified": "2026-03-02T12:22:12.011Z"
-  },
-  {
-    "id": 1519,
-    "name": "南港展覽館",
-    "roomName": "與我聯繫",
-    "venueType": "展覽中心",
-    "city": "台北市",
-    "address": "台北市南港區經貿二路 1 號",
-    "contactPerson": "展覽部",
-    "contactPhone": "02-2725-5200",
-    "contactEmail": "tainex1@taitra.org.tw",
-    "url": "https://www.tainex.com.tw/",
-    "venueListUrl": "https://www.tainex.com.tw/event",
-    "maxCapacityTheater": null,
-    "status": "上架",
-    "verificationStatus": "已驗證",
-    "verificationNote": "會議室清單已補充",
-    "lastVerified": "2026-03-02T12:22:12.011Z"
-  },
-  {
-    "id": 1520,
-    "name": "南港展覽館",
-    "roomName": "360°環景圖",
-    "venueType": "展覽中心",
-    "city": "台北市",
-    "address": "台北市南港區經貿二路 1 號",
-    "contactPerson": "展覽部",
-    "contactPhone": "02-2725-5200",
-    "contactEmail": "tainex1@taitra.org.tw",
-    "url": "https://www.tainex.com.tw/",
-    "venueListUrl": "https://www.tainex.com.tw/event",
-    "maxCapacityTheater": null,
-    "status": "上架",
-    "verificationStatus": "已驗證",
-    "verificationNote": "會議室清單已補充",
-    "lastVerified": "2026-03-02T12:22:12.011Z"
-  },
-  {
     "id": 1521,
     "name": "彭園婚宴會館",
     "roomName": "彭園壹品宴位於台北市中心，四通八達交通便利。全廳包場25桌即可，可依需求調整廳房大小。宴會廳最大坪數為30坪，可容納人數為200人",
@@ -19149,5 +19052,30 @@
     "verificationStatus": "已驗證",
     "verificationNote": "會議室清單已補充",
     "lastVerified": "2026-03-02T12:22:12.011Z"
+  },
+  {
+    "id": 1535,
+    "name": "南港展覽館",
+    "roomName": "展覽場地",
+    "venueType": "展覽中心",
+    "city": "台北市",
+    "address": "台北市南港區經貿二路1號",
+    "contactPerson": "場地租借",
+    "contactPhone": "02-2725-5200",
+    "contactEmail": "tainex1@taitra.org.tw",
+    "url": "https://www.tainex.com.tw/",
+    "venueListUrl": "https://www.tainex.com.tw/venue/showgrounds/1/1",
+    "meetingPageUrl": "https://www.tainex.com.tw/venue/conference/1/1",
+    "maxCapacityTheater": 3000,
+    "status": "上架",
+    "verificationStatus": "已驗證",
+    "verificationNote": "展覽場地，有多個會議室可租借（需洽詢）",
+    "lastVerified": "2026-03-02T12:36:53.819Z",
+    "images": {
+      "main": "",
+      "gallery": [],
+      "source": "https://www.tainex.com.tw/",
+      "needsUpdate": true
+    }
   }
 ]
