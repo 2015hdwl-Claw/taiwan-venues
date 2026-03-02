@@ -1400,7 +1400,7 @@
     "source": "官方網站",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "上架",
+    "status": "待修",
     "roomType": "會議室",
     "missingFields": [
       "照片"
@@ -1408,8 +1408,8 @@
     "lastUpdated": "2026-03-02T00:16:32.293Z",
     "lastVerified": "2026-03-02T10:34:35.881Z",
     "verificationError": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.tccc.com.tw/\nCall log:\n  - navigating to \"https://www.tccc.com.tw/\", waiting until \"domcontentloaded\"\n",
-    "verificationStatus": "待確認",
-    "verificationNote": "官網無法連線，需確認營運狀態"
+    "verificationStatus": "待修",
+    "verificationNote": "缺少 venueListUrl"
   },
   {
     "id": 1038,
@@ -1794,7 +1794,7 @@
     "url": "https://www.marriott.com/en-us/hotels/tpewh-w-taipei/",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "上架",
+    "status": "待修",
     "roomType": "宴會廳",
     "notes": " [官網無法連線或擋爬蟲，需手動確認]",
     "missingFields": [
@@ -1803,8 +1803,8 @@
     "lastUpdated": "2026-03-02T00:16:32.388Z",
     "lastVerified": "2026-03-01T23:29:10.203Z",
     "verifiedTitle": "Access Denied",
-    "verificationStatus": "待手動驗證",
-    "verificationNote": "國際連鎖酒店，被防護系統阻擋"
+    "verificationStatus": "待修",
+    "verificationNote": "缺少 venueListUrl"
   },
   {
     "id": 1048,
@@ -2336,13 +2336,13 @@
     "url": "https://www.palaisdechinehotel.com/",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "上架",
+    "status": "待修",
     "roomType": "宴會廳",
     "lastVerified": "2026-03-01T23:29:49.151Z",
     "verifiedTitle": "palaisdechine.com",
     "lastUpdated": "2026-03-02T00:16:32.389Z",
-    "verificationStatus": "待修正",
-    "verificationNote": "會議室頁面可能不正確"
+    "verificationStatus": "待修",
+    "verificationNote": "缺少 venueListUrl"
   },
   {
     "id": 1061,
@@ -2396,13 +2396,13 @@
     "source": "官方網站",
     "verifiedAt": "2026-02-27",
     "verified": true,
-    "status": "上架",
+    "status": "待修",
     "roomType": "宴會廳",
     "lastVerified": "2026-03-01T23:29:54.259Z",
     "verifiedTitle": "Hyatt Hotels and Resorts",
     "lastUpdated": "2026-03-02T00:16:32.389Z",
-    "verificationStatus": "待修正",
-    "verificationNote": "找不到會議室頁面"
+    "verificationStatus": "待修",
+    "verificationNote": "缺少 venueListUrl"
   },
   {
     "id": 1062,
@@ -3010,12 +3010,12 @@
     "url": "https://www.humblehouse.com",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "上架",
+    "status": "待修",
     "roomType": "宴會廳",
     "lastVerified": "2026-03-01T23:31:27.440Z",
     "verifiedTitle": "www.humblehouse.com - Coming Soon",
-    "verificationStatus": "待手動驗證",
-    "verificationNote": "國際連鎖酒店，被防護系統阻擋"
+    "verificationStatus": "待修",
+    "verificationNote": "缺少 venueListUrl"
   },
   {
     "id": 1079,
@@ -3207,13 +3207,13 @@
     "url": "https://www.citizenm.com/hotels/asia/taipei/",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "上架",
+    "status": "待修",
     "roomType": "宴會廳",
     "lastVerified": "2026-03-01T23:31:36.481Z",
     "verifiedTitle": "citizenM - Modern Hotels in Iconic Cities Worldwide",
     "lastUpdated": "2026-03-02T00:16:32.390Z",
-    "verificationStatus": "待手動驗證",
-    "verificationNote": "國際連鎖酒店，被防護系統阻擋"
+    "verificationStatus": "待修",
+    "verificationNote": "缺少 venueListUrl"
   },
   {
     "id": 1084,
@@ -3371,13 +3371,13 @@
     "source": "官方網站",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "上架",
+    "status": "待修",
     "roomType": "宴會廳",
     "lastVerified": "2026-03-01T23:31:47.032Z",
     "verifiedTitle": "Access Denied",
     "lastUpdated": "2026-03-02T00:16:32.390Z",
-    "verificationStatus": "待手動驗證",
-    "verificationNote": "國際連鎖酒店，被防護系統阻擋"
+    "verificationStatus": "待修",
+    "verificationNote": "缺少 venueListUrl"
   },
   {
     "id": 1087,
@@ -3854,14 +3854,14 @@
     "url": "https://www.marriott.com/en-us/hotels/tpemd-le-meridien-taipei/",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "上架",
+    "status": "待修",
     "roomType": "宴會廳",
     "lastVerified": "2026-03-01T23:32:00.239Z",
     "verifiedTitle": "Modern Hotels | Le Méridien Hotels & Resorts",
     "meetingPageUrl": "https://le-meridien.marriott.com/programmes/meetings-and-events/",
     "lastUpdated": "2026-03-02T00:16:32.390Z",
-    "verificationStatus": "待手動驗證",
-    "verificationNote": "國際連鎖酒店，被防護系統阻擋"
+    "verificationStatus": "待修",
+    "verificationNote": "缺少 venueListUrl"
   },
   {
     "id": 1099,
@@ -4181,7 +4181,7 @@
         }
       }
     ],
-    "status": "上架",
+    "status": "待修",
     "address": "台北市大安區敦化南路二段201號",
     "contact": {
       "phone": "02-2378-8888"
@@ -4210,9 +4210,10 @@
       "教室式人數",
       "聯絡電話"
     ],
-    "verificationStatus": "已驗證",
+    "verificationStatus": "待修",
     "meetingPageUrl": "https://www.shangri-la.com/taipei/fareasternplazashangrila/rooms-suites/rooms/superior-room/",
-    "lastVerified": "2026-03-02T09:52:23.503Z"
+    "lastVerified": "2026-03-02T09:52:23.503Z",
+    "verificationNote": "缺少 venueListUrl"
   },
   {
     "id": 1107,
@@ -4284,7 +4285,7 @@
     "url": "http://www.ntualumni.org.tw/",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "上架",
+    "status": "待修",
     "roomType": "會議中心",
     "notes": " [官網無法連線或擋爬蟲，需手動確認]",
     "missingFields": [
@@ -4294,8 +4295,8 @@
     "lastUpdated": "2026-03-02T00:16:32.293Z",
     "lastVerified": "2026-03-02T10:34:35.882Z",
     "verificationError": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.ntualumni.org.tw/\nCall log:\n  - navigating to \"https://www.ntualumni.org.tw/\", waiting until \"domcontentloaded\"\n",
-    "verificationStatus": "待確認",
-    "verificationNote": "官網無法連線，需確認營運狀態",
+    "verificationStatus": "待修",
+    "verificationNote": "缺少 venueListUrl",
     "note": "官網無法連線，需確認營運狀態"
   },
   {
@@ -4502,11 +4503,11 @@
     "url": "https://itcc.yff.org.tw/",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "上架",
+    "status": "待修",
     "roomType": "會議中心",
     "lastUpdated": "2026-03-02T00:16:32.386Z",
-    "verificationStatus": "待確認",
-    "verificationNote": "官網無法連線，需確認營運狀態",
+    "verificationStatus": "待修",
+    "verificationNote": "缺少 venueListUrl",
     "note": "官網無法連線，需確認是否仍提供會議服務",
     "verificationError": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://itcc.evergreen.com.tw/\nCall log:\n  - navigating to \"https://itcc.evergreen.com.tw/\", waiting until \"domcontentloaded\"\n",
     "lastVerified": "2026-03-02T10:34:56.880Z"
@@ -5121,14 +5122,14 @@
     "url": "https://www.shangri-la.com/tc/taipei/fareasternplazashangrila/",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "上架",
+    "status": "待修",
     "roomType": "宴會廳",
     "lastVerified": "2026-03-01T23:33:04.721Z",
     "verifiedTitle": "Luxury 5 Star Hotel in Taipei | Shangri-La Far Eastern, Taipei",
     "meetingPageUrl": "https://www.shangri-la.com/taipei/fareasternplazashangrila/meetings-events/",
     "lastUpdated": "2026-03-02T00:16:32.390Z",
-    "verificationStatus": "待修正",
-    "verificationNote": "會議室頁面可能不正確"
+    "verificationStatus": "待修",
+    "verificationNote": "缺少 venueListUrl"
   },
   {
     "id": 1131,
@@ -12465,7 +12466,7 @@
     "url": "https://xysc.cyc.org.tw/",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "上架",
+    "status": "待修",
     "roomType": "會議室",
     "missingFields": [
       "會議室名稱（具體）",
@@ -12474,8 +12475,8 @@
     "lastUpdated": "2026-03-02T00:16:32.384Z",
     "lastVerified": "2026-03-02T10:34:35.905Z",
     "verificationError": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://xysc.cyc.org.tw/\nCall log:\n  - navigating to \"https://xysc.cyc.org.tw/\", waiting until \"domcontentloaded\"\n",
-    "verificationStatus": "需更新官網",
-    "verificationNote": "官網無法連線，需確認營運狀態",
+    "verificationStatus": "待修",
+    "verificationNote": "缺少 venueListUrl",
     "note": "原官網無法連線，需搜尋新官網"
   },
   {
@@ -12623,7 +12624,7 @@
     "category": "機關場地",
     "needsReview": true,
     "reviewNote": "機關場地申請方式複雜，需要驗證申請流程、價格、可用時間等資訊",
-    "status": "上架",
+    "status": "待修",
     "roomType": "會議室",
     "missingFields": [
       "價格",
@@ -12634,8 +12635,8 @@
     "lastUpdated": "2026-03-02T00:16:32.385Z",
     "lastVerified": "2026-03-02T10:34:35.905Z",
     "verificationError": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://thcf.org.tw/\nCall log:\n  - navigating to \"https://thcf.org.tw/\", waiting until \"domcontentloaded\"\n",
-    "verificationStatus": "待修正",
-    "verificationNote": "會議室頁面可能不正確"
+    "verificationStatus": "待修",
+    "verificationNote": "缺少 venueListUrl"
   },
   {
     "name": "朱崙區民活動中心",
@@ -12652,7 +12653,7 @@
         "equipment": []
       }
     ],
-    "status": "上架",
+    "status": "待修",
     "address": "台北市中山區龍江路15號3樓",
     "contact": {
       "phone": "02-25031369轉506"
@@ -12680,8 +12681,8 @@
     "lastUpdated": "2026-03-02T00:16:32.385Z",
     "lastVerified": "2026-03-02T10:34:35.906Z",
     "verificationError": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://zsdp.gov.taipei/\nCall log:\n  - navigating to \"https://zsdp.gov.taipei/\", waiting until \"domcontentloaded\"\n",
-    "verificationStatus": "待確認",
-    "verificationNote": "官網無法連線，需確認營運狀態"
+    "verificationStatus": "待修",
+    "verificationNote": "缺少 venueListUrl"
   },
   {
     "id": 1340,
@@ -12753,7 +12754,7 @@
     "category": "機關場地",
     "needsReview": true,
     "reviewNote": "機關場地申請方式複雜，需要驗證申請流程、價格、可用時間等資訊",
-    "status": "上架",
+    "status": "待修",
     "roomType": "活動中心",
     "missingFields": [
       "價格",
@@ -12764,8 +12765,8 @@
     "lastUpdated": "2026-03-01T23:07:15.061Z",
     "lastVerified": "2026-03-02T10:34:35.906Z",
     "verificationError": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://zsdp.gov.taipei/\nCall log:\n  - navigating to \"https://zsdp.gov.taipei/\", waiting until \"domcontentloaded\"\n",
-    "verificationStatus": "需更新官網",
-    "verificationNote": "官網無法連線，需確認營運狀態",
+    "verificationStatus": "待修",
+    "verificationNote": "缺少 venueListUrl",
     "note": "原官網無法連線，需搜尋新官網"
   },
   {
@@ -12789,7 +12790,7 @@
         }
       }
     ],
-    "status": "上架",
+    "status": "待修",
     "address": "台北市林森北路67巷7號3樓",
     "contact": {
       "phone": "02-25031369轉506"
@@ -12816,7 +12817,9 @@
     ],
     "lastUpdated": "2026-03-01T23:07:15.062Z",
     "lastVerified": "2026-03-02T10:34:35.907Z",
-    "verificationError": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://zsdp.gov.taipei/\nCall log:\n  - navigating to \"https://zsdp.gov.taipei/\", waiting until \"domcontentloaded\"\n"
+    "verificationError": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://zsdp.gov.taipei/\nCall log:\n  - navigating to \"https://zsdp.gov.taipei/\", waiting until \"domcontentloaded\"\n",
+    "verificationStatus": "待修",
+    "verificationNote": "缺少 venueListUrl"
   },
   {
     "id": 1342,
@@ -15511,12 +15514,12 @@
     "url": "https://www.palaisdechine.com",
     "verified": true,
     "verifiedAt": "2026-03-01",
-    "status": "上架",
+    "status": "待修",
     "roomType": "宴會廳",
     "lastVerified": "2026-03-01T23:29:49.151Z",
     "verifiedTitle": "palaisdechine.com",
-    "verificationStatus": "待修正",
-    "verificationNote": "找不到會議室頁面"
+    "verificationStatus": "待修",
+    "verificationNote": "缺少 venueListUrl"
   },
   {
     "id": 1410,
@@ -15552,10 +15555,12 @@
     "url": "https://www.palaisdechine.com",
     "verified": true,
     "verifiedAt": "2026-03-01",
-    "status": "上架",
+    "status": "待修",
     "roomType": "宴會廳",
     "lastVerified": "2026-03-01T23:29:49.151Z",
-    "verifiedTitle": "palaisdechine.com"
+    "verifiedTitle": "palaisdechine.com",
+    "verificationStatus": "待修",
+    "verificationNote": "缺少 venueListUrl"
   },
   {
     "id": 1411,
@@ -16216,12 +16221,12 @@
     "url": "https://www.ntuacc.org",
     "verified": true,
     "verifiedAt": "2026-03-01",
-    "status": "上架",
+    "status": "待修",
     "roomType": "會議中心",
     "lastVerified": "2026-03-01T23:45:15.599Z",
     "verificationError": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.ntuacc.org/\nCall log:\n  - navigating to \"https://www.ntuacc.org/\", waiting until \"domcontentloaded\"\n",
-    "verificationStatus": "待確認",
-    "verificationNote": "官網無法連線，需確認營運狀態"
+    "verificationStatus": "待修",
+    "verificationNote": "缺少 venueListUrl"
   },
   {
     "id": 1434,
@@ -16339,12 +16344,12 @@
     "url": "https://itcc.yff.org.tw/",
     "verified": true,
     "verifiedAt": "2026-03-01",
-    "status": "上架",
+    "status": "待修",
     "roomType": "會議中心",
     "lastVerified": "2026-03-02T10:34:56.880Z",
     "verificationError": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.yfpcf.org/\nCall log:\n  - navigating to \"https://www.yfpcf.org/\", waiting until \"domcontentloaded\"\n",
-    "verificationStatus": "待確認",
-    "verificationNote": "官網無法連線，需確認營運狀態",
+    "verificationStatus": "待修",
+    "verificationNote": "缺少 venueListUrl",
     "note": "官網無法連線，需確認是否仍提供會議服務"
   },
   {
