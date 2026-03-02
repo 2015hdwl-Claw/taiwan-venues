@@ -203,7 +203,7 @@
     "lastVerified": "2026-03-01T23:27:10.163Z",
     "verificationError": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.zhonggang-hotel.com/\nCall log:\n  - navigating to \"https://www.zhonggang-hotel.com/\", waiting until \"domcontentloaded\"\n",
     "note": "已歇業",
-    "lastUpdated": "2026-03-02T00:16:32.281Z"
+    "lastUpdated": "2026-03-02T08:24:15.122Z"
   },
   {
     "id": 1007,
@@ -783,7 +783,7 @@
     "lastVerified": "2026-03-01T23:28:08.737Z",
     "verificationError": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.tunghao.com.tw/\nCall log:\n  - navigating to \"https://www.tunghao.com.tw/\", waiting until \"domcontentloaded\"\n",
     "note": "已歇業",
-    "lastUpdated": "2026-03-02T00:16:32.292Z"
+    "lastUpdated": "2026-03-02T08:24:15.122Z"
   },
   {
     "id": 1023,
@@ -920,7 +920,7 @@
     "lastVerified": "2026-03-01T23:28:19.254Z",
     "verificationError": "page.goto: net::ERR_CONNECTION_RESET at https://www.kirin-hotel.com/\nCall log:\n  - navigating to \"https://www.kirin-hotel.com/\", waiting until \"domcontentloaded\"\n",
     "note": "已歇業",
-    "lastUpdated": "2026-03-02T00:16:32.459Z"
+    "lastUpdated": "2026-03-02T08:24:15.124Z"
   },
   {
     "id": 1027,
@@ -2104,7 +2104,7 @@
     "verifiedTitle": "六福旅遊集團",
     "meetingPageUrl": "https://www.leofoo.com.tw/business/index/5",
     "note": "已歇業",
-    "lastUpdated": "2026-03-02T00:16:32.388Z"
+    "lastUpdated": "2026-03-02T08:24:15.123Z"
   },
   {
     "id": 1056,
@@ -2175,18 +2175,19 @@
     "url": "https://www.denwell.com/",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "上架",
+    "status": "下架",
     "roomType": "婚宴會館",
     "notes": " [官網無法連線，需手動搜尋確認]",
     "missingFields": [
       "照片"
     ],
-    "lastUpdated": "2026-03-02T00:16:32.389Z",
+    "lastUpdated": "2026-03-02T08:24:15.125Z",
     "lastVerified": "2026-03-01T23:29:38.976Z",
     "verifiedTitle": "典華幸福機構｜婚宴場地｜會議、活動空間租借｜台北及新北品牌",
     "meetingPageUrl": "https://www.denwell.com/#",
     "verificationStatus": "待修正",
-    "verificationNote": "會議室頁面可能不正確"
+    "verificationNote": "會議室頁面可能不正確",
+    "note": "已歇業"
   },
   {
     "id": 1058,
@@ -2523,7 +2524,7 @@
       "會議室名稱（具體）",
       "照片"
     ],
-    "lastUpdated": "2026-03-02T00:16:32.443Z",
+    "lastUpdated": "2026-03-02T08:24:15.125Z",
     "lastVerified": "2026-03-01T23:30:13.486Z",
     "verificationError": "page.goto: Timeout 20000ms exceeded.\nCall log:\n  - navigating to \"https://www.victoriam.com/\", waiting until \"domcontentloaded\"\n",
     "note": "已歇業"
@@ -2563,7 +2564,7 @@
       "會議室名稱（具體）",
       "照片"
     ],
-    "lastUpdated": "2026-03-02T00:16:32.293Z",
+    "lastUpdated": "2026-03-02T08:24:15.122Z",
     "lastVerified": "2026-03-01T23:30:15.306Z",
     "verificationError": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.tbc-group.com/\nCall log:\n  - navigating to \"https://www.tbc-group.com/\", waiting until \"domcontentloaded\"\n",
     "note": "已歇業"
@@ -2679,7 +2680,7 @@
     "verifiedAt": "2026-02-27",
     "status": "下架",
     "roomType": "宴會廳",
-    "lastUpdated": "2026-03-02T00:16:32.443Z",
+    "lastUpdated": "2026-03-02T08:24:15.123Z",
     "lastVerified": "2026-03-01T23:31:05.258Z",
     "verificationError": "page.goto: Timeout 20000ms exceeded.\nCall log:\n  - navigating to \"https://www.ambassadorhotel.com.tw/taipei\", waiting until \"domcontentloaded\"\n",
     "note": "已歇業"
@@ -2806,7 +2807,7 @@
     "verifiedTitle": "Premium Luxury Wellness Hotels | Westin Hotels & Resorts",
     "meetingPageUrl": "https://www.marriott.com/en-us/meeting-event-hotels/group-reservations/westin.mi",
     "note": "已歇業",
-    "lastUpdated": "2026-03-02T00:16:32.389Z"
+    "lastUpdated": "2026-03-02T08:24:15.123Z"
   },
   {
     "name": "台北寒舍喜來登大飯店",
@@ -5097,7 +5098,7 @@
     "lastVerified": "2026-03-01T23:33:10.809Z",
     "verificationError": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.tainan-landis.com/\nCall log:\n  - navigating to \"https://www.tainan-landis.com/\", waiting until \"domcontentloaded\"\n",
     "note": "已歇業",
-    "lastUpdated": "2026-03-02T00:16:32.457Z"
+    "lastUpdated": "2026-03-02T08:24:15.123Z"
   },
   {
     "id": 1134,
@@ -5166,7 +5167,7 @@
     "lastVerified": "2026-03-01T23:33:25.846Z",
     "verificationError": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.prince-hotel.com/\nCall log:\n  - navigating to \"https://www.prince-hotel.com/\", waiting until \"domcontentloaded\"\n",
     "note": "已歇業",
-    "lastUpdated": "2026-03-02T00:16:32.294Z"
+    "lastUpdated": "2026-03-02T08:24:15.123Z"
   },
   {
     "name": "台南奇美博物館",
@@ -5564,7 +5565,7 @@
     "city": "台南市",
     "originalUrl": "https://www.landis-tainan.com",
     "rooms": [],
-    "status": "上架",
+    "status": "下架",
     "error": "net::ERR_NAME_NOT_RESOLVED at https://www.landis-tainan.com",
     "id": 1147,
     "roomName": "綜合",
@@ -5580,7 +5581,9 @@
       "lastUpdated": "2026-03-01"
     },
     "lastVerified": "2026-03-01T23:34:24.245Z",
-    "verificationError": "page.goto: net::ERR_CERT_AUTHORITY_INVALID at https://www.tayihlandis.com.tw/\nCall log:\n  - navigating to \"https://www.tayihlandis.com.tw/\", waiting until \"domcontentloaded\"\n"
+    "verificationError": "page.goto: net::ERR_CERT_AUTHORITY_INVALID at https://www.tayihlandis.com.tw/\nCall log:\n  - navigating to \"https://www.tayihlandis.com.tw/\", waiting until \"domcontentloaded\"\n",
+    "note": "已歇業",
+    "lastUpdated": "2026-03-02T08:24:15.123Z"
   },
   {
     "id": 1148,
@@ -5785,7 +5788,7 @@
     "lastVerified": "2026-03-01T23:34:39.871Z",
     "verificationError": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.fengtai-hotel.com/\nCall log:\n  - navigating to \"https://www.fengtai-hotel.com/\", waiting until \"domcontentloaded\"\n",
     "note": "已歇業",
-    "lastUpdated": "2026-03-02T00:16:32.296Z"
+    "lastUpdated": "2026-03-02T08:24:15.125Z"
   },
   {
     "id": 1154,
@@ -6340,7 +6343,7 @@
     "verifiedTitle": "創造精彩難忘的故事｜老爺酒店集團",
     "meetingPageUrl": "https://www.hotelroyal.com.tw/zh-tw/promotions/meeting",
     "note": "已歇業",
-    "lastUpdated": "2026-03-02T00:16:32.404Z"
+    "lastUpdated": "2026-03-02T08:24:15.124Z"
   },
   {
     "id": 1168,
@@ -6405,10 +6408,12 @@
     "url": "https://www.yilanhotelroyal.com",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "上架",
+    "status": "下架",
     "roomType": "宴會廳",
     "lastVerified": "2026-03-01T23:36:01.106Z",
-    "verificationError": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.yilanhotelroyal.com/\nCall log:\n  - navigating to \"https://www.yilanhotelroyal.com/\", waiting until \"domcontentloaded\"\n"
+    "verificationError": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.yilanhotelroyal.com/\nCall log:\n  - navigating to \"https://www.yilanhotelroyal.com/\", waiting until \"domcontentloaded\"\n",
+    "note": "已歇業",
+    "lastUpdated": "2026-03-02T08:24:15.124Z"
   },
   {
     "id": 1170,
@@ -7383,7 +7388,7 @@
     "lastVerified": "2026-03-01T23:37:19.061Z",
     "verificationError": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.yuanlin-crown.com/\nCall log:\n  - navigating to \"https://www.yuanlin-crown.com/\", waiting until \"domcontentloaded\"\n",
     "note": "已歇業",
-    "lastUpdated": "2026-03-02T00:16:32.325Z"
+    "lastUpdated": "2026-03-02T08:24:15.123Z"
   },
   {
     "id": 1197,
@@ -7525,7 +7530,7 @@
     "lastVerified": "2026-03-01T23:37:33.047Z",
     "verificationError": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.motech-hall.com/\nCall log:\n  - navigating to \"https://www.motech-hall.com/\", waiting until \"domcontentloaded\"\n",
     "note": "已歇業",
-    "lastUpdated": "2026-03-02T00:16:32.326Z"
+    "lastUpdated": "2026-03-02T08:24:15.124Z"
   },
   {
     "name": "典華旗艦店",
@@ -7732,7 +7737,7 @@
     "lastVerified": "2026-03-01T23:37:52.124Z",
     "verificationError": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.jinling-wedding.com/\nCall log:\n  - navigating to \"https://www.jinling-wedding.com/\", waiting until \"domcontentloaded\"\n",
     "note": "已歇業",
-    "lastUpdated": "2026-03-02T00:16:32.327Z"
+    "lastUpdated": "2026-03-02T08:24:15.124Z"
   },
   {
     "id": 1207,
@@ -8040,7 +8045,7 @@
     "lastVerified": "2026-03-01T23:38:32.752Z",
     "verificationError": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.haitiandi.com/\nCall log:\n  - navigating to \"https://www.haitiandi.com/\", waiting until \"domcontentloaded\"\n",
     "note": "已歇業",
-    "lastUpdated": "2026-03-02T00:16:32.328Z"
+    "lastUpdated": "2026-03-02T08:24:15.124Z"
   },
   {
     "id": 1216,
@@ -8142,7 +8147,7 @@
     "lastVerified": "2026-03-01T23:38:39.795Z",
     "verifiedTitle": "Server error",
     "note": "已歇業",
-    "lastUpdated": "2026-03-02T00:16:32.416Z"
+    "lastUpdated": "2026-03-02T08:24:15.124Z"
   },
   {
     "name": "新板希爾頓酒店",
@@ -8204,7 +8209,7 @@
     "lastVerified": "2026-03-01T23:38:55.796Z",
     "verificationError": "page.goto: net::ERR_CERT_COMMON_NAME_INVALID at https://www.newboard.com.tw/\nCall log:\n  - navigating to \"https://www.newboard.com.tw/\", waiting until \"domcontentloaded\"\n",
     "note": "已歇業",
-    "lastUpdated": "2026-03-02T00:16:32.457Z"
+    "lastUpdated": "2026-03-02T08:24:15.124Z"
   },
   {
     "id": 1221,
@@ -9298,7 +9303,7 @@
     "lastVerified": "2026-03-01T23:40:29.195Z",
     "verificationError": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.chiba-wedding.com.tw/\nCall log:\n  - navigating to \"https://www.chiba-wedding.com.tw/\", waiting until \"domcontentloaded\"\n",
     "note": "已歇業",
-    "lastUpdated": "2026-03-02T00:16:32.331Z"
+    "lastUpdated": "2026-03-02T08:24:15.124Z"
   },
   {
     "id": 1251,
@@ -11090,7 +11095,7 @@
     "lastVerified": "2026-03-01T23:43:28.341Z",
     "verificationError": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.rencheng-hotel.com/\nCall log:\n  - navigating to \"https://www.rencheng-hotel.com/\", waiting until \"domcontentloaded\"\n",
     "note": "已歇業",
-    "lastUpdated": "2026-03-02T00:16:32.374Z"
+    "lastUpdated": "2026-03-02T08:24:15.124Z"
   },
   {
     "id": 1301,
@@ -11131,7 +11136,7 @@
     "lastVerified": "2026-03-01T23:43:47.608Z",
     "verificationError": "page.goto: Timeout 20000ms exceeded.\nCall log:\n  - navigating to \"https://www.ambassadorhotel.com.tw/kaohsiung\", waiting until \"domcontentloaded\"\n",
     "note": "已歇業",
-    "lastUpdated": "2026-03-02T00:16:32.445Z"
+    "lastUpdated": "2026-03-02T08:24:15.125Z"
   },
   {
     "id": 1302,
@@ -11161,10 +11166,12 @@
     "url": "https://www.ambassadorhotel.com.tw/kaohsiung",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "上架",
+    "status": "下架",
     "roomType": "宴會廳",
     "lastVerified": "2026-03-01T23:43:47.608Z",
-    "verificationError": "page.goto: Timeout 20000ms exceeded.\nCall log:\n  - navigating to \"https://www.ambassadorhotel.com.tw/kaohsiung\", waiting until \"domcontentloaded\"\n"
+    "verificationError": "page.goto: Timeout 20000ms exceeded.\nCall log:\n  - navigating to \"https://www.ambassadorhotel.com.tw/kaohsiung\", waiting until \"domcontentloaded\"\n",
+    "note": "已歇業",
+    "lastUpdated": "2026-03-02T08:24:15.125Z"
   },
   {
     "id": 1303,
@@ -11891,10 +11898,12 @@
     "url": "https://www.han-huang.com",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "上架",
+    "status": "下架",
     "roomType": "宴會廳",
     "lastVerified": "2026-03-01T23:44:50.991Z",
-    "verificationError": "page.goto: net::ERR_CONNECTION_REFUSED at https://www.han-huang.com/\nCall log:\n  - navigating to \"https://www.han-huang.com/\", waiting until \"domcontentloaded\"\n"
+    "verificationError": "page.goto: net::ERR_CONNECTION_REFUSED at https://www.han-huang.com/\nCall log:\n  - navigating to \"https://www.han-huang.com/\", waiting until \"domcontentloaded\"\n",
+    "note": "已歇業",
+    "lastUpdated": "2026-03-02T08:24:15.124Z"
   },
   {
     "id": 1324,
@@ -12002,7 +12011,7 @@
     "lastVerified": "2026-03-01T23:45:00.178Z",
     "verificationError": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.huawang-hotel.com/\nCall log:\n  - navigating to \"https://www.huawang-hotel.com/\", waiting until \"domcontentloaded\"\n",
     "note": "已歇業",
-    "lastUpdated": "2026-03-02T00:16:32.384Z"
+    "lastUpdated": "2026-03-02T08:24:15.124Z"
   },
   {
     "id": 1327,
@@ -14792,12 +14801,14 @@
     "url": "https://www.ambassadorhotel.com.tw/taipei",
     "verified": true,
     "verifiedAt": "2026-03-01",
-    "status": "上架",
+    "status": "下架",
     "roomType": "宴會廳",
     "lastVerified": "2026-03-01T23:31:05.258Z",
     "verificationError": "page.goto: Timeout 20000ms exceeded.\nCall log:\n  - navigating to \"https://www.ambassadorhotel.com.tw/taipei\", waiting until \"domcontentloaded\"\n",
     "verificationStatus": "待確認",
-    "verificationNote": "官網無法連線，需確認營運狀態"
+    "verificationNote": "官網無法連線，需確認營運狀態",
+    "note": "已歇業",
+    "lastUpdated": "2026-03-02T08:24:15.123Z"
   },
   {
     "id": 1397,
@@ -14828,10 +14839,12 @@
     "url": "https://www.ambassadorhotel.com.tw/taipei",
     "verified": true,
     "verifiedAt": "2026-03-01",
-    "status": "上架",
+    "status": "下架",
     "roomType": "宴會廳",
     "lastVerified": "2026-03-01T23:31:05.258Z",
-    "verificationError": "page.goto: Timeout 20000ms exceeded.\nCall log:\n  - navigating to \"https://www.ambassadorhotel.com.tw/taipei\", waiting until \"domcontentloaded\"\n"
+    "verificationError": "page.goto: Timeout 20000ms exceeded.\nCall log:\n  - navigating to \"https://www.ambassadorhotel.com.tw/taipei\", waiting until \"domcontentloaded\"\n",
+    "note": "已歇業",
+    "lastUpdated": "2026-03-02T08:24:15.123Z"
   },
   {
     "id": 1398,
@@ -14862,10 +14875,12 @@
     "url": "https://www.ambassadorhotel.com.tw/taipei",
     "verified": true,
     "verifiedAt": "2026-03-01",
-    "status": "上架",
+    "status": "下架",
     "roomType": "宴會廳",
     "lastVerified": "2026-03-01T23:31:05.258Z",
-    "verificationError": "page.goto: Timeout 20000ms exceeded.\nCall log:\n  - navigating to \"https://www.ambassadorhotel.com.tw/taipei\", waiting until \"domcontentloaded\"\n"
+    "verificationError": "page.goto: Timeout 20000ms exceeded.\nCall log:\n  - navigating to \"https://www.ambassadorhotel.com.tw/taipei\", waiting until \"domcontentloaded\"\n",
+    "note": "已歇業",
+    "lastUpdated": "2026-03-02T08:24:15.123Z"
   },
   {
     "id": 1399,
@@ -14896,10 +14911,12 @@
     "url": "https://www.ambassadorhotel.com.tw/taipei",
     "verified": true,
     "verifiedAt": "2026-03-01",
-    "status": "上架",
+    "status": "下架",
     "roomType": "宴會廳",
     "lastVerified": "2026-03-01T23:31:05.258Z",
-    "verificationError": "page.goto: Timeout 20000ms exceeded.\nCall log:\n  - navigating to \"https://www.ambassadorhotel.com.tw/taipei\", waiting until \"domcontentloaded\"\n"
+    "verificationError": "page.goto: Timeout 20000ms exceeded.\nCall log:\n  - navigating to \"https://www.ambassadorhotel.com.tw/taipei\", waiting until \"domcontentloaded\"\n",
+    "note": "已歇業",
+    "lastUpdated": "2026-03-02T08:24:15.123Z"
   },
   {
     "id": 1400,
@@ -14937,13 +14954,15 @@
     "hasOnlineBooking": false,
     "bookingUrl": null,
     "createdAt": "2026-02-26T00:00:00.000Z",
-    "status": "上架",
+    "status": "下架",
     "roomType": "宴會廳",
     "url": "https://www.westin.com/taipei",
     "verifiedAt": "2026-03-01",
     "lastVerified": "2026-03-01T23:31:15.675Z",
     "verifiedTitle": "Premium Luxury Wellness Hotels | Westin Hotels & Resorts",
-    "meetingPageUrl": "https://www.marriott.com/en-us/meeting-event-hotels/group-reservations/westin.mi"
+    "meetingPageUrl": "https://www.marriott.com/en-us/meeting-event-hotels/group-reservations/westin.mi",
+    "note": "已歇業",
+    "lastUpdated": "2026-03-02T08:24:15.123Z"
   },
   {
     "id": 1401,
@@ -14981,13 +15000,15 @@
     "hasOnlineBooking": false,
     "bookingUrl": null,
     "createdAt": "2026-02-26T00:00:00.000Z",
-    "status": "上架",
+    "status": "下架",
     "roomType": "宴會廳",
     "url": "https://www.westin.com/taipei",
     "verifiedAt": "2026-03-01",
     "lastVerified": "2026-03-01T23:31:15.675Z",
     "verifiedTitle": "Premium Luxury Wellness Hotels | Westin Hotels & Resorts",
-    "meetingPageUrl": "https://www.marriott.com/en-us/meeting-event-hotels/group-reservations/westin.mi"
+    "meetingPageUrl": "https://www.marriott.com/en-us/meeting-event-hotels/group-reservations/westin.mi",
+    "note": "已歇業",
+    "lastUpdated": "2026-03-02T08:24:15.123Z"
   },
   {
     "id": 1402,
@@ -15025,13 +15046,15 @@
     "hasOnlineBooking": false,
     "bookingUrl": null,
     "createdAt": "2026-02-26T00:00:00.000Z",
-    "status": "上架",
+    "status": "下架",
     "roomType": "宴會廳",
     "url": "https://www.westin.com/taipei",
     "verifiedAt": "2026-03-01",
     "lastVerified": "2026-03-01T23:31:15.675Z",
     "verifiedTitle": "Premium Luxury Wellness Hotels | Westin Hotels & Resorts",
-    "meetingPageUrl": "https://www.marriott.com/en-us/meeting-event-hotels/group-reservations/westin.mi"
+    "meetingPageUrl": "https://www.marriott.com/en-us/meeting-event-hotels/group-reservations/westin.mi",
+    "note": "已歇業",
+    "lastUpdated": "2026-03-02T08:24:15.123Z"
   },
   {
     "id": 1403,
@@ -15069,13 +15092,15 @@
     "hasOnlineBooking": false,
     "bookingUrl": null,
     "createdAt": "2026-02-26T00:00:00.000Z",
-    "status": "上架",
+    "status": "下架",
     "roomType": "宴會廳",
     "url": "https://www.westin.com/taipei",
     "verifiedAt": "2026-03-01",
     "lastVerified": "2026-03-01T23:31:15.675Z",
     "verifiedTitle": "Premium Luxury Wellness Hotels | Westin Hotels & Resorts",
-    "meetingPageUrl": "https://www.marriott.com/en-us/meeting-event-hotels/group-reservations/westin.mi"
+    "meetingPageUrl": "https://www.marriott.com/en-us/meeting-event-hotels/group-reservations/westin.mi",
+    "note": "已歇業",
+    "lastUpdated": "2026-03-02T08:24:15.123Z"
   },
   {
     "id": 1404,
