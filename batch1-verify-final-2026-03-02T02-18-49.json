@@ -1,0 +1,866 @@
+[
+  {
+    "url": "https://www.cambridge-hotel.com.tw/",
+    "venues": [
+      {
+        "id": 1131,
+        "name": "台南劍橋大飯店"
+      }
+    ],
+    "status": "錯誤",
+    "issues": [
+      "page.goto: net::ERR_CERT_COMMON_NAME_INVALID at https://www.cambridge-hotel.com.tw/\nCall log:\n  - navigating to \"https://www.cambridge-hotel.com.tw/\", waiting until \"domcontentloaded\"\n"
+    ],
+    "title": null,
+    "meetingPageUrl": null,
+    "photos": [],
+    "error": "page.goto: net::ERR_CERT_COMMON_NAME_INVALID at https://www.cambridge-hotel.com.tw/\nCall log:\n  - navigating to \"https://www.cambridge-hotel.com.tw/\", waiting until \"domcontentloaded\"\n"
+  },
+  {
+    "url": "https://hotelcozzi.com/tainan/",
+    "venues": [
+      {
+        "id": 1132,
+        "name": "台南和逸飯店"
+      }
+    ],
+    "status": "有問題",
+    "issues": [
+      "找不到會議室頁面"
+    ],
+    "title": "404 - 和逸飯店",
+    "meetingPageUrl": null,
+    "photos": []
+  },
+  {
+    "url": "https://www.laplaza.com.tw/",
+    "venues": [
+      {
+        "id": 1134,
+        "name": "台南天下大飯店"
+      }
+    ],
+    "status": "有問題",
+    "issues": [
+      "找不到會議室頁面"
+    ],
+    "title": "laplaza.com.tw",
+    "meetingPageUrl": null,
+    "photos": []
+  },
+  {
+    "url": "https://www.chimeimuseum.org/",
+    "venues": [
+      {
+        "id": 1136,
+        "name": "台南奇美博物館"
+      }
+    ],
+    "status": "OK",
+    "issues": [],
+    "title": "奇美博物館｜CHIMEI MUSEUM",
+    "meetingPageUrl": "https://www.chimeimuseum.org/exhibition-event",
+    "photos": [
+      "https://www.chimeimuseum.org/uploads/temporaryexhibitions/5fd33973b14f3.jpg",
+      "https://www.chimeimuseum.org/uploads/temporaryexhibitions/5fd33a9ea8763.jpg",
+      "https://www.chimeimuseum.org/uploads/temporaryexhibitions/604f0523c6079.jpg",
+      "https://www.chimeimuseum.org/uploads/temporaryexhibitions/6229ad0b7101e.jpg",
+      "https://www.chimeimuseum.org/uploads/temporaryexhibitions/5fd33973b14f3.jpg",
+      "https://www.chimeimuseum.org/uploads/temporaryexhibitions/5fd33a9ea8763.jpg",
+      "https://www.chimeimuseum.org/uploads/temporaryexhibitions/604f0523c6079.jpg",
+      "https://www.chimeimuseum.org/uploads/temporaryexhibitions/6229ad0b7101e.jpg",
+      "https://www.chimeimuseum.org/uploads/temporaryexhibitions/5fd33973b14f3.jpg",
+      "https://www.chimeimuseum.org/uploads/temporaryexhibitions/5fd33a9ea8763.jpg"
+    ]
+  },
+  {
+    "url": "https://www.tnsc.gov.tw",
+    "venues": [
+      {
+        "id": 1137,
+        "name": "台南市(TCCG)立體育館"
+      }
+    ],
+    "status": "錯誤",
+    "issues": [
+      "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.tnsc.gov.tw/\nCall log:\n  - navigating to \"https://www.tnsc.gov.tw/\", waiting until \"domcontentloaded\"\n"
+    ],
+    "title": null,
+    "meetingPageUrl": null,
+    "photos": [],
+    "error": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.tnsc.gov.tw/\nCall log:\n  - navigating to \"https://www.tnsc.gov.tw/\", waiting until \"domcontentloaded\"\n"
+  },
+  {
+    "url": "https://www.zendasuites.com.tw/",
+    "venues": [
+      {
+        "id": 1138,
+        "name": "台南成大會館"
+      }
+    ],
+    "status": "錯誤",
+    "issues": [
+      "page.goto: net::ERR_CERT_COMMON_NAME_INVALID at https://www.zendasuites.com.tw/\nCall log:\n  - navigating to \"https://www.zendasuites.com.tw/\", waiting until \"domcontentloaded\"\n"
+    ],
+    "title": null,
+    "meetingPageUrl": null,
+    "photos": [],
+    "error": "page.goto: net::ERR_CERT_COMMON_NAME_INVALID at https://www.zendasuites.com.tw/\nCall log:\n  - navigating to \"https://www.zendasuites.com.tw/\", waiting until \"domcontentloaded\"\n"
+  },
+  {
+    "url": "https://www.queenaplaza.com/tainan/",
+    "venues": [
+      {
+        "id": 1139,
+        "name": "台南桂田酒店(GueiLinTainan)"
+      }
+    ],
+    "status": "OK",
+    "issues": [],
+    "title": "交通位置-台南桂田酒店",
+    "meetingPageUrl": "https://www.tainan.queenaplaza.com/room/",
+    "photos": [
+      "https://www.tainan.queenaplaza.com/upload/banner_ins_list/twL_banner_ins_22F07_h1aDAQCuuD.jpg",
+      "https://www.tainan.queenaplaza.com/upload/room_list_pic/twL_room_23K10_0hLqqXsbVo.jpg",
+      "https://www.tainan.queenaplaza.com/upload/room_list_pic/twL_room_23K14_GPceIYDk4C.jpg",
+      "https://www.tainan.queenaplaza.com/upload/room_list_pic/twL_room_23K14_iAqlXDynZI.jpg",
+      "https://www.tainan.queenaplaza.com/upload/room_list_pic/twL_room_23K14_x40K5IAGHr.jpg",
+      "https://www.tainan.queenaplaza.com/upload/room_list_pic/twL_room_23K14_5tIWnUr2yk.jpg",
+      "https://www.tainan.queenaplaza.com/upload/room_list_pic/twL_room_23K14_pshWmFiG4Y.jpg",
+      "https://www.tainan.queenaplaza.com/upload/room_list_pic/twL_room_23K10_nG0lcJ3nr1.jpg",
+      "https://www.tainan.queenaplaza.com/upload/room_list_pic/twL_room_23K13_ZCxtRKqJ6P.jpg",
+      "https://www.tainan.queenaplaza.com/upload/room_list_pic/twL_room_23K13_guDlOO0bEV.jpg"
+    ]
+  },
+  {
+    "url": "https://www.weiyat.com.tw/",
+    "venues": [
+      {
+        "id": 1140,
+        "name": "台南維悅婚宴會館"
+      },
+      {
+        "id": 1141,
+        "name": "台南維悅酒店(WeYue)"
+      }
+    ],
+    "status": "錯誤",
+    "issues": [
+      "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.weiyat.com.tw/\nCall log:\n  - navigating to \"https://www.weiyat.com.tw/\", waiting until \"domcontentloaded\"\n"
+    ],
+    "title": null,
+    "meetingPageUrl": null,
+    "photos": [],
+    "error": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.weiyat.com.tw/\nCall log:\n  - navigating to \"https://www.weiyat.com.tw/\", waiting until \"domcontentloaded\"\n"
+  },
+  {
+    "url": "https://www.hotelroyal.com.tw/zh-tw/tainan",
+    "venues": [
+      {
+        "id": 1142,
+        "name": "台南老爺行旅(RoyalTainan)"
+      }
+    ],
+    "status": "OK",
+    "issues": [],
+    "title": "風格設計旅宿體驗｜台南老爺行旅",
+    "meetingPageUrl": "https://www.hotelroyal.com.tw/zh-tw/tainan/rooms",
+    "photos": [
+      "https://imagedelivery.net/a6-OYZSpZSiOriMeuFHR3w/7d8ee47c-39ca-45fc-92ba-3245e6172b00/public",
+      "https://imagedelivery.net/a6-OYZSpZSiOriMeuFHR3w/54aad352-b339-4789-56df-34b13cda5b00/public",
+      "https://imagedelivery.net/a6-OYZSpZSiOriMeuFHR3w/cac226a8-034d-406a-e242-79f16c133100/public",
+      "https://www.hotelroyal.com.tw/assets/img/contentPlaceholder-8A68A9FF.gif",
+      "https://www.hotelroyal.com.tw/assets/img/contentPlaceholder-8A68A9FF.gif",
+      "https://www.hotelroyal.com.tw/assets/img/contentPlaceholder-8A68A9FF.gif",
+      "https://www.hotelroyal.com.tw/assets/img/contentPlaceholder-8A68A9FF.gif",
+      "https://www.hotelroyal.com.tw/assets/img/contentPlaceholder-8A68A9FF.gif"
+    ]
+  },
+  {
+    "url": "https://www.shangri-la.com/tc/tainan/fareasternplazashangrila/",
+    "venues": [
+      {
+        "id": 1143,
+        "name": "台南遠東香格里拉"
+      }
+    ],
+    "status": "部分OK",
+    "issues": [
+      "缺少會議室照片"
+    ],
+    "title": "台南遠東香格里拉",
+    "meetingPageUrl": "https://www.shangri-la.com/tc/tainan/fareasternplazashangrila/rooms-suites/rooms/superior-room/",
+    "photos": []
+  },
+  {
+    "url": "https://www.shangri-la.com/tainan",
+    "venues": [
+      {
+        "id": 1144,
+        "name": "台南香格里拉遠東"
+      },
+      {
+        "id": 1145,
+        "name": "台南香格里拉遠東國際大飯店(ShangriLaTainan)"
+      }
+    ],
+    "status": "部分OK",
+    "issues": [
+      "缺少會議室照片"
+    ],
+    "title": "Luxury Hotel in Tainan | Shangri-La Far Eastern, Tainan",
+    "meetingPageUrl": "https://www.shangri-la.com/tainan/fareasternplazashangrila/rooms-suites/rooms/superior-room/",
+    "photos": []
+  },
+  {
+    "url": "https://www.tayihlandis.com.tw",
+    "venues": [
+      {
+        "id": 1147,
+        "name": "大億麗緻酒店"
+      }
+    ],
+    "status": "錯誤",
+    "issues": [
+      "page.goto: net::ERR_CERT_AUTHORITY_INVALID at https://www.tayihlandis.com.tw/\nCall log:\n  - navigating to \"https://www.tayihlandis.com.tw/\", waiting until \"domcontentloaded\"\n"
+    ],
+    "title": null,
+    "meetingPageUrl": null,
+    "photos": [],
+    "error": "page.goto: net::ERR_CERT_AUTHORITY_INVALID at https://www.tayihlandis.com.tw/\nCall log:\n  - navigating to \"https://www.tayihlandis.com.tw/\", waiting until \"domcontentloaded\"\n"
+  },
+  {
+    "url": "https://www.icctainan.com/",
+    "venues": [
+      {
+        "id": 1148,
+        "name": "大台南會展中心"
+      }
+    ],
+    "status": "OK",
+    "issues": [],
+    "title": "大臺南會展中心｜專業展覽、會議場地租借首選，臺南高鐵站旁",
+    "meetingPageUrl": "https://icctainan.com/ju-ban-huo-dong/",
+    "photos": [
+      "https://icctainan.com/wp-content/uploads/2024/09/organizers-img-1.png",
+      "https://icctainan.com/wp-content/uploads/2024/09/organizers-img-2.png"
+    ]
+  },
+  {
+    "url": "https://www.ncku.edu.tw",
+    "venues": [
+      {
+        "id": 1149,
+        "name": "成大國際會議中心"
+      }
+    ],
+    "status": "OK",
+    "issues": [],
+    "title": "NCKU, 成功大學 National Cheng Kung University - NCKU, 國立成功大學 National Cheng Kung University",
+    "meetingPageUrl": "https://web.ncku.edu.tw/p/406-1000-293270,r3989.php?Lang=zh-tw",
+    "photos": [
+      "https://web.ncku.edu.tw/var/file/0/1000/img/152560559.jpg",
+      "https://web.ncku.edu.tw/var/file/0/1000/img/757244390.jpg",
+      "https://web.ncku.edu.tw/var/file/0/1000/img/542336119.jpg",
+      "https://web.ncku.edu.tw/var/file/0/1000/img/868196205.jpg",
+      "https://web.ncku.edu.tw/var/file/0/1000/img/298845319.jpg",
+      "https://web.ncku.edu.tw/var/file/0/1000/img/203858934.jpg"
+    ]
+  },
+  {
+    "url": "https://www.denwell.com/",
+    "venues": [
+      {
+        "id": 1201,
+        "name": "典華旗艦店"
+      }
+    ],
+    "status": "部分OK",
+    "issues": [
+      "缺少會議室照片"
+    ],
+    "title": "典華幸福機構｜婚宴場地｜會議、活動空間租借｜台北及新北品牌",
+    "meetingPageUrl": "https://www.denwell.com/#",
+    "photos": []
+  },
+  {
+    "url": "https://www.goldentulip-fabhotel.com.tw/",
+    "venues": [
+      {
+        "id": 1202,
+        "name": "台北淡水將捷金鬱金香酒店"
+      }
+    ],
+    "status": "OK",
+    "issues": [],
+    "title": "將捷金鬱金香酒店｜永續綠色旅遊｜加購高鐵車票享78折起優惠",
+    "meetingPageUrl": "https://www.goldentulip-fabhotel.com.tw/room/",
+    "photos": [
+      "https://www.goldentulip-fabhotel.com.tw/upload/banner_ins_list/twL_banner_ins_19C15_j2n94xs36i.jpg",
+      "https://www.goldentulip-fabhotel.com.tw/upload/room_list_pic/twL_room_26A30_tajrhk3zwq.jpg",
+      "https://www.goldentulip-fabhotel.com.tw/upload/room_list_pic/twL_room_26A30_jbh6wffcj3.jpg",
+      "https://www.goldentulip-fabhotel.com.tw/upload/room_list_pic/twL_room_26A30_dzunddxdus.jpg",
+      "https://www.goldentulip-fabhotel.com.tw/upload/room_list_pic/twL_room_26A30_qp7sci8b6y.jpg",
+      "https://www.goldentulip-fabhotel.com.tw/upload/room_list_pic/twL_room_26A30_rndksdvad3.jpg",
+      "https://www.goldentulip-fabhotel.com.tw/upload/room_list_pic/twL_room_26A30_n8b8yxewrh.jpg",
+      "https://www.goldentulip-fabhotel.com.tw/upload/room_list_pic/twL_room_26A30_dazj7x34sd.jpg",
+      "https://www.goldentulip-fabhotel.com.tw/upload/marqueepic_list/twL_marqueepic_19C08_q8sghx7vwn.jpg",
+      "https://www.goldentulip-fabhotel.com.tw/upload/marqueepic_list/twL_marqueepic_19C08_yvkkaxys6j.jpg"
+    ]
+  },
+  {
+    "url": "https://www.chengyi-hotels.com/danshui",
+    "venues": [
+      {
+        "id": 1203,
+        "name": "台北淡水承億酒店"
+      }
+    ],
+    "status": "錯誤",
+    "issues": [
+      "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.chengyi-hotels.com/danshui\nCall log:\n  - navigating to \"https://www.chengyi-hotels.com/danshui\", waiting until \"domcontentloaded\"\n"
+    ],
+    "title": null,
+    "meetingPageUrl": null,
+    "photos": [],
+    "error": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.chengyi-hotels.com/danshui\nCall log:\n  - navigating to \"https://www.chengyi-hotels.com/danshui\", waiting until \"domcontentloaded\"\n"
+  },
+  {
+    "url": "https://www.fourpoints.com/sanchong",
+    "venues": [
+      {
+        "id": 1204,
+        "name": "新北三重福朋喜來登酒店"
+      }
+    ],
+    "status": "有問題",
+    "issues": [
+      "找不到會議室頁面"
+    ],
+    "title": "Business & Leisure Travel Hotels | Four Points by Sheraton",
+    "meetingPageUrl": null,
+    "photos": []
+  },
+  {
+    "url": "https://www.sports.ntpc.gov.tw/",
+    "venues": [
+      {
+        "id": 1205,
+        "name": "新北三重綜合運動場"
+      },
+      {
+        "id": 1209,
+        "name": "新北市板橋體育館"
+      },
+      {
+        "id": 1211,
+        "name": "新北新莊體育館"
+      }
+    ],
+    "status": "錯誤",
+    "issues": [
+      "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.sports.ntpc.gov.tw/\nCall log:\n  - navigating to \"https://www.sports.ntpc.gov.tw/\", waiting until \"domcontentloaded\"\n"
+    ],
+    "title": null,
+    "meetingPageUrl": null,
+    "photos": [],
+    "error": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.sports.ntpc.gov.tw/\nCall log:\n  - navigating to \"https://www.sports.ntpc.gov.tw/\", waiting until \"domcontentloaded\"\n"
+  },
+  {
+    "url": "https://www.珑山林台北中和飯店.com.tw/",
+    "venues": [
+      {
+        "id": 1207,
+        "name": "新北中和福朋喜來登"
+      }
+    ],
+    "status": "錯誤",
+    "issues": [
+      "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.xn--fiqq3jusa6sv92aohdxtvn7wtl0f.com.tw/\nCall log:\n  - navigating to \"https://www.xn--fiqq3jusa6sv92aohdxtvn7wtl0f.com.tw/\", waiting until \"domcontentloaded\"\n"
+    ],
+    "title": null,
+    "meetingPageUrl": null,
+    "photos": [],
+    "error": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.xn--fiqq3jusa6sv92aohdxtvn7wtl0f.com.tw/\nCall log:\n  - navigating to \"https://www.xn--fiqq3jusa6sv92aohdxtvn7wtl0f.com.tw/\", waiting until \"domcontentloaded\"\n"
+  },
+  {
+    "url": "https://www.asegroup.com/",
+    "venues": [
+      {
+        "id": 1208,
+        "name": "新北土城日月光國際會議中心"
+      }
+    ],
+    "status": "有問題",
+    "issues": [
+      "找不到會議室頁面"
+    ],
+    "title": "6850",
+    "meetingPageUrl": null,
+    "photos": []
+  },
+  {
+    "url": "https://www.honhui.com.tw/",
+    "venues": [
+      {
+        "id": 1210,
+        "name": "新北新莊晶冠廣場"
+      }
+    ],
+    "status": "部分OK",
+    "issues": [
+      "缺少會議室照片"
+    ],
+    "title": "宏匯廣場 HONHUI PLAZA",
+    "meetingPageUrl": "https://www.honhui.com.tw/marketingCampaign",
+    "photos": []
+  },
+  {
+    "url": "https://banqiao.caesarpark.com.tw/",
+    "venues": [
+      {
+        "id": 1212,
+        "name": "新北板橋凱撒大飯店(CaesarParkBanqiao)"
+      },
+      {
+        "id": 1213,
+        "name": "新北板橋凱薩帝苑婚宴會館"
+      }
+    ],
+    "status": "OK",
+    "issues": [],
+    "title": "板橋凱撒大飯店 | 新北頂級住宿首選",
+    "meetingPageUrl": "https://banqiao.caesarpark.com.tw/room/",
+    "photos": [
+      "https://banqiao.caesarpark.com.tw/upload/banner_ins_list/roomImg_bn__25A14wQF2e.jpg",
+      "https://banqiao.caesarpark.com.tw/upload/room_list/roomImg_2__25A14sQbvy.jpg",
+      "https://banqiao.caesarpark.com.tw/upload/room_list/twL_room_25B08_kdqlOKFaix.jpg",
+      "https://banqiao.caesarpark.com.tw/upload/room_list/twL_room_25B08_jpkgHw7cgi.jpg",
+      "https://banqiao.caesarpark.com.tw/upload/room_list/twL_room_25B08_bqpiPiQx8m.jpg",
+      "https://banqiao.caesarpark.com.tw/upload/room_list/twL_room_25B08_EBsPZl8EpZ.jpg",
+      "https://banqiao.caesarpark.com.tw/upload/room_list/twL_room_25B08_rRv0yFvccI.jpg",
+      "https://banqiao.caesarpark.com.tw/upload/room_list/twL_room_25B08_3wFfsOhJ1W.jpg",
+      "https://banqiao.caesarpark.com.tw/upload/room_list/twL_room_25B08_3OZWFEBYYa.jpg",
+      "https://banqiao.caesarpark.com.tw/upload/room_list/twL_room_25B08_3lGXwfQO1e.jpg"
+    ]
+  },
+  {
+    "url": "https://www.chateaudechine.com/banqiao",
+    "venues": [
+      {
+        "id": 1214,
+        "name": "新北板橋瀚品酒店"
+      }
+    ],
+    "status": "有問題",
+    "issues": [
+      "找不到會議室頁面"
+    ],
+    "title": "Chateau de Chine Hotel｜翰品酒店",
+    "meetingPageUrl": null,
+    "photos": []
+  },
+  {
+    "url": "https://www.tamsui.org.tw/",
+    "venues": [
+      {
+        "id": 1216,
+        "name": "新北淡水文化園區"
+      }
+    ],
+    "status": "錯誤",
+    "issues": [
+      "page.goto: net::ERR_CERT_AUTHORITY_INVALID at https://www.tamsui.org.tw/\nCall log:\n  - navigating to \"https://www.tamsui.org.tw/\", waiting until \"domcontentloaded\"\n"
+    ],
+    "title": null,
+    "meetingPageUrl": null,
+    "photos": [],
+    "error": "page.goto: net::ERR_CERT_AUTHORITY_INVALID at https://www.tamsui.org.tw/\nCall log:\n  - navigating to \"https://www.tamsui.org.tw/\", waiting until \"domcontentloaded\"\n"
+  },
+  {
+    "url": "https://www.fullon-hotels.com.tw/tamsui",
+    "venues": [
+      {
+        "id": 1217,
+        "name": "新北福容大飯店(Fullon)淡水漁人碼頭"
+      }
+    ],
+    "status": "有問題",
+    "issues": [
+      "找不到會議室頁面"
+    ],
+    "title": "404 找不到網頁了！ - 福容大飯店官方網站 FULLON HOTELS",
+    "meetingPageUrl": null,
+    "photos": []
+  },
+  {
+    "url": "https://www.hilton.com/en/hotels/tsacici-hilton-taipei-sinban/",
+    "venues": [
+      {
+        "id": 1219,
+        "name": "新板希爾頓酒店"
+      }
+    ],
+    "status": "部分OK",
+    "issues": [
+      "缺少會議室照片"
+    ],
+    "title": "Hilton Page Reference Code",
+    "meetingPageUrl": "http://www.roomkey.com/",
+    "photos": []
+  },
+  {
+    "url": "https://www.435.culture.ntpc.gov.tw/",
+    "venues": [
+      {
+        "id": 1221,
+        "name": "板橋435藝文特區"
+      }
+    ],
+    "status": "OK",
+    "issues": [],
+    "title": "首頁 | 板橋435藝文特區",
+    "meetingPageUrl": "https://www.435.culture.ntpc.gov.tw/xceventsnews?xsmsid=0G256372130014020867",
+    "photos": [
+      "https://www.435.culture.ntpc.gov.tw/files/file_pool/1/0i191541541189927646/435-01.png",
+      "https://www.435.culture.ntpc.gov.tw/files/file_pool/4/0q041355846387960269/%e7%b7%9a%e4%b8%8a%e5%ae%a3%e5%82%b3%e5%b0%ba%e5%af%b80205-03.png",
+      "https://www.435.culture.ntpc.gov.tw/files/file_pool/4/0q035429553462801602/%e6%96%bd%e5%b7%a5%e5%ae%98%e7%b6%b2%e5%85%ac%e5%91%8a1150204-02-02.png",
+      "https://www.435.culture.ntpc.gov.tw/files/file_pool/4/0p309582687267822514/%e7%b7%9a%e4%b8%8a%e5%ae%a3%e5%82%b3%e5%b0%ba%e5%af%b80205-08.png",
+      "https://www.435.culture.ntpc.gov.tw/files/file_pool/4/0p322346746428540053/%e7%b7%9a%e4%b8%8a%e5%ae%a3%e5%82%b3%e5%b0%ba%e5%af%b80205-07.png",
+      "https://www.435.culture.ntpc.gov.tw/files/file_pool/4/0p107537845934800145/114%e4%b8%8b%e5%8d%8a%e5%b9%b4%e5%b1%95%e9%96%93%e6%aa%94%e6%9c%9f%e9%96%8b%e6%94%be%20%281%29.png",
+      "https://www.435.culture.ntpc.gov.tw/files/file_pool/4/0m126599890587592982/435-01.png",
+      "https://www.435.culture.ntpc.gov.tw/files/file_pool/1/0i191541541189927646/435-01.png"
+    ]
+  },
+  {
+    "url": "https://www.caesarpark.com.tw/banqiao",
+    "venues": [
+      {
+        "id": 1222,
+        "name": "板橋凱撒大飯店(CaesarParkBanqiao)"
+      }
+    ],
+    "status": "部分OK",
+    "issues": [
+      "缺少會議室照片"
+    ],
+    "title": "404 找不到網頁了！ - 凱撒飯店連鎖",
+    "meetingPageUrl": "https://www.hilton.com/zh-hant/book/reservation/rooms/?ctyhocn=TSATCHI&arrivalDate=2024-10-02&departureDate=2024-10-03&room1NumAdults=1&_gl=1*oguosf*_gcl_au*MTI2NDYzODY2NS4xNzI3NDUwMDU1",
+    "photos": []
+  },
+  {
+    "url": "https://www.fullon-hotels.com.tw/lk/",
+    "venues": [
+      {
+        "id": 1223,
+        "name": "林口福容婚宴會館"
+      }
+    ],
+    "status": "有問題",
+    "issues": [
+      "找不到會議室頁面"
+    ],
+    "title": "404 找不到網頁了！",
+    "meetingPageUrl": null,
+    "photos": []
+  },
+  {
+    "url": "https://www.ntpc.gov.tw",
+    "venues": [
+      {
+        "id": 1224,
+        "name": "淡水漁人舞台"
+      }
+    ],
+    "status": "OK",
+    "issues": [],
+    "title": "新北市政府",
+    "meetingPageUrl": "https://www.ntpc.gov.tw/ch/home.jsp?id=bb5b82db003abf4d",
+    "photos": [
+      "https://www.ntpc.gov.tw/uploaddowndoc?file=bannnernew/202602240957370.jpg&filedisplay=bn800.jpg&flag=pic",
+      "https://www.ntpc.gov.tw/uploaddowndoc?file=bannnernew/202602101342040.jpg&filedisplay=2026%E8%8C%B6%E5%B1%B1%E7%B9%9A%E7%99%82-%E6%96%B0%E5%8C%97%E5%B8%82%E6%94%BF%E5%BA%9C%E5%AE%98%E7%B6%B2%E9%A6%96%E9%A0%81%E8%BC%AA%E6%92%AD.jpg&flag=pic",
+      "https://www.ntpc.gov.tw/uploaddowndoc?file=bannnernew/202601281135140.jpg&filedisplay=%E6%96%B0%E5%B8%82%E5%BA%9CBanner%E7%94%B3%E8%AB%8B800%E5%8F%8A450.jpg&flag=pic",
+      "https://www.ntpc.gov.tw/uploaddowndoc?file=bannnernew/202601301053260.jpg&filedisplay=%E5%BA%9C%E7%B6%B2-800x450_0.jpg&flag=pic",
+      "https://www.ntpc.gov.tw/uploaddowndoc?file=bannnernew/202601080946230.jpg&filedisplay=%E6%96%B0%E5%8C%97%E4%BC%81%E6%A5%AD%E7%B2%BE%E5%85%B8%E7%8D%8E%20%20Banner%20resize_260103_AI_%E5%BA%9C%E7%B6%B2%E7%B6%B2%E9%A0%81BN.jpg&flag=pic",
+      "https://www.ntpc.gov.tw/uploaddowndoc?file=bannnernew/202511261006000.jpg&filedisplay=%E5%B8%82%E5%BA%9C%E5%AE%98%E7%B6%B2%E7%B6%B2%E8%B7%AF%E7%89%88800x450%20PX.jpg&flag=pic",
+      "https://www.ntpc.gov.tw/uploaddowndoc?file=bannnernew/202510281605410.jpg&filedisplay=%E4%B8%AD%E6%96%87%E7%89%88800x450(%E8%B3%87%E4%B8%AD%E6%A0%BC%E5%BC%8F).jpg&flag=pic",
+      "https://www.ntpc.gov.tw/uploaddowndoc?file=bannnernew/202507160930240.jpg&filedisplay=2026%E5%85%A8%E9%9A%9C%E9%81%8B_%E5%B8%82%E5%BA%9C%E7%B6%B2%E7%AB%99.jpg&flag=pic",
+      "https://www.ntpc.gov.tw/uploaddowndoc?file=bannnernew/202303291059020.png&filedisplay=ICF%E8%AA%8D%E8%AD%89800x450.png&flag=pic",
+      "https://www.ntpc.gov.tw/ch/images/index/travel_queen.png"
+    ]
+  },
+  {
+    "url": "https://www.tshs.ntpc.gov.tw/",
+    "venues": [
+      {
+        "id": 1225,
+        "name": "淡水紅毛城古蹟園區"
+      }
+    ],
+    "status": "OK",
+    "issues": [],
+    "title": "首頁 | 新北市立淡水古蹟博物館",
+    "meetingPageUrl": "https://www.tshs.ntpc.gov.tw/xmdoc?xsmsid=0L265508552775247597",
+    "photos": [
+      "https://www.tshs.ntpc.gov.tw/files/file_pool/1/0p188405067997984413/ci-05b.png"
+    ]
+  },
+  {
+    "url": "https://www.fortune-hotel.com.tw/danshui/",
+    "venues": [
+      {
+        "id": 1226,
+        "name": "福容大飯店(Fullon)-淡水漁人碼頭"
+      },
+      {
+        "id": 1227,
+        "name": "福容大飯店(Fullon)淡水漁人碼頭"
+      }
+    ],
+    "status": "有問題",
+    "issues": [
+      "找不到會議室頁面"
+    ],
+    "title": "404 Not Found",
+    "meetingPageUrl": null,
+    "photos": []
+  },
+  {
+    "url": "https://www.ncu.edu.tw/",
+    "venues": [
+      {
+        "id": 1246,
+        "name": "中央大學文學院"
+      }
+    ],
+    "status": "部分OK",
+    "issues": [
+      "缺少會議室照片"
+    ],
+    "title": "國立中央大學 - 國立中央大學",
+    "meetingPageUrl": "https://www.ncu.edu.tw/p/412-1000-116.php?Lang=zh-tw",
+    "photos": []
+  },
+  {
+    "url": "https://www.skyline-hotel.com.tw/",
+    "venues": [
+      {
+        "id": 1247,
+        "name": "尊爵天際大飯店"
+      }
+    ],
+    "status": "錯誤",
+    "issues": [
+      "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.skyline-hotel.com.tw/\nCall log:\n  - navigating to \"https://www.skyline-hotel.com.tw/\", waiting until \"domcontentloaded\"\n"
+    ],
+    "title": null,
+    "meetingPageUrl": null,
+    "photos": [],
+    "error": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.skyline-hotel.com.tw/\nCall log:\n  - navigating to \"https://www.skyline-hotel.com.tw/\", waiting until \"domcontentloaded\"\n"
+  },
+  {
+    "url": "https://afmc.tycg.gov.tw/",
+    "venues": [
+      {
+        "id": 1248,
+        "name": "桃園中壢藝術館"
+      },
+      {
+        "id": 1260,
+        "name": "桃園藝文廣場"
+      }
+    ],
+    "status": "錯誤",
+    "issues": [
+      "page.goto: net::ERR_NAME_NOT_RESOLVED at https://afmc.tycg.gov.tw/\nCall log:\n  - navigating to \"https://afmc.tycg.gov.tw/\", waiting until \"domcontentloaded\"\n"
+    ],
+    "title": null,
+    "meetingPageUrl": null,
+    "photos": [],
+    "error": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://afmc.tycg.gov.tw/\nCall log:\n  - navigating to \"https://afmc.tycg.gov.tw/\", waiting until \"domcontentloaded\"\n"
+  },
+  {
+    "url": "https://www.ihg.com/holidayinn/hotels/tw/zh/taoyuan/tyntw/hoteldetail",
+    "venues": [
+      {
+        "id": 1249,
+        "name": "桃園假日酒店"
+      }
+    ],
+    "status": "有問題",
+    "issues": [
+      "找不到會議室頁面"
+    ],
+    "title": "Access Denied",
+    "meetingPageUrl": null,
+    "photos": []
+  },
+  {
+    "url": "https://www.southgarden.com.tw/",
+    "venues": [
+      {
+        "id": 1251,
+        "name": "桃園南方莊園度假飯店"
+      }
+    ],
+    "status": "OK",
+    "issues": [],
+    "title": "南方莊園渡假飯店 | 桃園親子溫泉飯店首選",
+    "meetingPageUrl": "https://www.southgarden.com.tw/zh_TW/news/rooms",
+    "photos": [
+      "https://www.southgarden.com.tw/website/var/tmp/image-thumbnails/0/2385/thumb__stdImage/2026-Mi%20Ni%20Hai%20Dao%20Da%20Mou%20Xian%20_Heng%20Guan%20Suo%20.jpeg",
+      "https://www.southgarden.com.tw/website/var/tmp/image-thumbnails/0/2401/thumb__stdImage/2026-Zhou%20Nian%20Qing%20-Heng%20Guan%20Suo%20_s_0.jpeg",
+      "https://www.southgarden.com.tw/website/var/tmp/image-thumbnails/0/2240/thumb__stdImage/2025-Nan%20Fang%20Zhuang%20Yuan%20-Bu%20Ti%20Gong%20~Ci%20Xing%20Bei%20Pin%20_Heng%20Guan%20Suo%20.jpeg",
+      "https://www.southgarden.com.tw/website/var/tmp/image-thumbnails/0/2402/thumb__stdImage/2026-Zhou%20Nian%20Qing%20_Zhu%20Ti%20Fang%20Xiao%20Shou%20Zhuan%20An%20-Heng%20Guan%20Suo%20%20_s_0.jpeg",
+      "https://www.southgarden.com.tw/website/var/tmp/image-thumbnails/0/1411/thumb__stdImage/2021San%20Tian%20Er%20Ye%20-Guan%20Wang%20Suo%20Tu%20_Gong%20Zuo%20Qu%20Yu%20%201.jpeg",
+      "https://www.southgarden.com.tw/website/var/tmp/image-thumbnails/0/2335/thumb__stdImage/2025_Ma%20Shang%20You%20Fu%20_Chun%20Jiu%20Wei%20Ya%20Zhu%20Su%20_Heng%20Guan%20Suo%20.jpeg"
+    ]
+  },
+  {
+    "url": "https://www.kuva-chateau.com.tw/",
+    "venues": [
+      {
+        "id": 1252,
+        "name": "桃園古華花園飯店"
+      }
+    ],
+    "status": "OK",
+    "issues": [],
+    "title": "Home | Hotel Kuva Chateau",
+    "meetingPageUrl": "https://www.kuva-chateau.com.tw/rooms.html",
+    "photos": [
+      "https://webbox.imgix.net/images/vcokrjiqcbvfgodl/9bbd4de8-680d-45e7-81eb-ed6b1313afba.png"
+    ]
+  },
+  {
+    "url": "https://www.goodway.com.tw",
+    "venues": [
+      {
+        "id": 1253,
+        "name": "桃園古華花園飯店"
+      }
+    ],
+    "status": "OK",
+    "issues": [],
+    "title": "Good Way Technology | Global ODM/OEM Manufacturer for Docking, Hubs, GaN & Smart Connectivity Solutions",
+    "meetingPageUrl": "https://www.goodway.com.tw/en/solution/solution-conference.html",
+    "photos": [
+      "https://cdn.ready-market.com.tw/e3c92208/Templates/pic/Highlights_Solution_List_Conference.jpg?v=dfb176a9"
+    ]
+  },
+  {
+    "url": "https://www.marriott.com/en-us/hotels/tpept-sheraton-taoyuan-hotel/",
+    "venues": [
+      {
+        "id": 1254,
+        "name": "桃園喜來登酒店"
+      }
+    ],
+    "status": "有問題",
+    "issues": [
+      "找不到會議室頁面"
+    ],
+    "title": "Access Denied",
+    "meetingPageUrl": null,
+    "photos": []
+  },
+  {
+    "url": "https://www.tyairport.com",
+    "venues": [
+      {
+        "id": 1255,
+        "name": "桃園大園國際會議中心"
+      }
+    ],
+    "status": "錯誤",
+    "issues": [
+      "page.goto: net::ERR_CERT_COMMON_NAME_INVALID at https://www.tyairport.com/\nCall log:\n  - navigating to \"https://www.tyairport.com/\", waiting until \"domcontentloaded\"\n"
+    ],
+    "title": null,
+    "meetingPageUrl": null,
+    "photos": [],
+    "error": "page.goto: net::ERR_CERT_COMMON_NAME_INVALID at https://www.tyairport.com/\nCall log:\n  - navigating to \"https://www.tyairport.com/\", waiting until \"domcontentloaded\"\n"
+  },
+  {
+    "url": "https://www.marriott.com/en-us/hotels/tpetw-the-westin-tashee-resort-taoyuan/",
+    "venues": [
+      {
+        "id": 1256,
+        "name": "桃園大溪威斯汀度假酒店"
+      }
+    ],
+    "status": "有問題",
+    "issues": [
+      "找不到會議室頁面"
+    ],
+    "title": "Access Denied",
+    "meetingPageUrl": null,
+    "photos": []
+  },
+  {
+    "url": "https://www.monarch-plaza.com.tw/",
+    "venues": [
+      {
+        "id": 1257,
+        "name": "桃園尊爵大飯店"
+      }
+    ],
+    "status": "錯誤",
+    "issues": [
+      "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.monarch-plaza.com.tw/\nCall log:\n  - navigating to \"https://www.monarch-plaza.com.tw/\", waiting until \"domcontentloaded\"\n"
+    ],
+    "title": null,
+    "meetingPageUrl": null,
+    "photos": [],
+    "error": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.monarch-plaza.com.tw/\nCall log:\n  - navigating to \"https://www.monarch-plaza.com.tw/\", waiting until \"domcontentloaded\"\n"
+  },
+  {
+    "url": "https://www.sky-monarch.com",
+    "venues": [
+      {
+        "id": 1258,
+        "name": "桃園尊爵天際大飯店"
+      }
+    ],
+    "status": "錯誤",
+    "issues": [
+      "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.sky-monarch.com/\nCall log:\n  - navigating to \"https://www.sky-monarch.com/\", waiting until \"domcontentloaded\"\n"
+    ],
+    "title": null,
+    "meetingPageUrl": null,
+    "photos": [],
+    "error": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.sky-monarch.com/\nCall log:\n  - navigating to \"https://www.sky-monarch.com/\", waiting until \"domcontentloaded\"\n"
+  },
+  {
+    "url": "https://www.tccc.gov.tw/",
+    "venues": [
+      {
+        "id": 1259,
+        "name": "桃園會展中心"
+      }
+    ],
+    "status": "部分OK",
+    "issues": [
+      "缺少會議室照片"
+    ],
+    "title": "臺中市議會",
+    "meetingPageUrl": "https://www.tccc.gov.tw/main.asp?uno=58",
+    "photos": []
+  },
+  {
+    "url": "https://www.novoteltaipeiairport.com/",
+    "venues": [
+      {
+        "id": 1261,
+        "name": "桃園諾富特華航酒店"
+      }
+    ],
+    "status": "有問題",
+    "issues": [
+      "找不到會議室頁面"
+    ],
+    "title": "Taiwan Taoyuan Uluslararası Havalimanı - Resmi Site",
+    "meetingPageUrl": null,
+    "photos": []
+  }
+]
