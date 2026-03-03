@@ -74,7 +74,9 @@
       "中會議室",
       "小會議室"
     ],
-    "notes": "頂級度假飯店，適合高階決策會議或私人研討會。"
+    "notes": "頂級度假飯店，適合高階決策會議或私人研討會。",
+    "updateReason": "SOP V4.7 資料結構更新",
+    "updateSource": "手動驗證"
   },
   {
     "id": 1003,
@@ -255,7 +257,9 @@
       "冬悅廳",
       "草悟廳"
     ],
-    "notes": "提供大型婚宴及商務會議場地，場地可依需求彈性調整。"
+    "notes": "提供大型婚宴及商務會議場地，場地可依需求彈性調整。",
+    "updateReason": "SOP V4.7 資料結構更新",
+    "updateSource": "手動驗證"
   },
   {
     "id": 1008,
@@ -499,7 +503,9 @@
       "Vee 3",
       "Vee 4"
     ],
-    "notes": "五星級商務飯店，設有專用會議樓層。"
+    "notes": "五星級商務飯店，設有專用會議樓層。",
+    "updateReason": "SOP V4.7 資料結構更新",
+    "updateSource": "手動驗證"
   },
   {
     "id": 1014,
@@ -619,7 +625,9 @@
       "台灣廳",
       "林酒店宴會廳"
     ],
-    "notes": "擁有極高挑高的宴會廳及多間中小型會議室。"
+    "notes": "擁有極高挑高的宴會廳及多間中小型會議室。",
+    "updateReason": "SOP V4.7 資料結構更新",
+    "updateSource": "手動驗證"
   },
   {
     "id": 1017,
@@ -735,7 +743,9 @@
       "CR2",
       "CR3"
     ],
-    "notes": "設有多功能宴會廳及獨立會議室空間。"
+    "notes": "設有多功能宴會廳及獨立會議室空間。",
+    "updateReason": "SOP V4.7 資料結構更新",
+    "updateSource": "手動驗證"
   },
   {
     "id": 1020,
@@ -781,7 +791,9 @@
       "商務會議室 III",
       "裕元宴會廳"
     ],
-    "notes": "提供專業視聽設備的國際演講廳，適合學術研討會。"
+    "notes": "提供專業視聽設備的國際演講廳，適合學術研討會。",
+    "updateReason": "SOP V4.7 資料結構更新",
+    "updateSource": "手動驗證"
   },
   {
     "id": 1021,
@@ -1763,7 +1775,9 @@
       "大宴會廳 C"
     ],
     "lastUpdated": "2026-03-03T05:02:12.607Z",
-    "notes": "位於南港車站上方，擁有大型宴會廳及多功能會議室。"
+    "notes": "位於南港車站上方，擁有大型宴會廳及多功能會議室。",
+    "updateReason": "SOP V4.7 資料結構更新",
+    "updateSource": "手動驗證"
   },
   {
     "id": 1044,
@@ -2745,7 +2759,9 @@
       "牡丹廳",
       "蘭花廳",
       "菊花廳"
-    ]
+    ],
+    "updateReason": "SOP V4.7 資料結構更新",
+    "updateSource": "手動驗證"
   },
   {
     "id": 1068,
@@ -2993,7 +3009,9 @@
       "牡丹廳",
       "蘭花廳",
       "菊花廳"
-    ]
+    ],
+    "updateReason": "SOP V4.7 資料結構更新",
+    "updateSource": "手動驗證"
   },
   {
     "id": 1076,
@@ -3285,7 +3303,9 @@
       "多功能會議室 3"
     ],
     "verified": true,
-    "lastUpdated": "2026-03-03T04:50:31.568Z"
+    "lastUpdated": "2026-03-03T04:50:31.568Z",
+    "updateReason": "SOP V4.7 資料結構更新",
+    "updateSource": "手動驗證"
   },
   {
     "id": 1083,
@@ -3332,7 +3352,9 @@
       "societyM 會議室 1",
       "societyM 會議室 2"
     ],
-    "notes": "原名稱「台北意舍酒店」已更正。會議室品牌名為 societyM，共有 2 間。"
+    "notes": "原名稱「台北意舍酒店」已更正。會議室品牌名為 societyM，共有 2 間。",
+    "updateReason": "SOP V4.7 資料結構更新",
+    "updateSource": "手動驗證"
   },
   {
     "id": 1084,
@@ -3439,7 +3461,9 @@
     "venueMainImageUrl": "https://media.ffycdn.net/eu/mandarin-oriental-hotel-group/oy6E3rsLkt5vaNhNAcTM.jpg",
     "roomsCount": 8,
     "verificationStatus": "✅ 驗證通過",
-    "verificationNotes": "官網驗證：8 個會議空間（宴會廳和多功能廳）"
+    "verificationNotes": "官網驗證：8 個會議空間（宴會廳和多功能廳）",
+    "updateReason": "SOP V4.7 資料結構更新",
+    "updateSource": "手動驗證"
   },
   {
     "id": 1086,
@@ -3467,7 +3491,8 @@
       ],
       "floorPlan": null,
       "verified": true,
-      "verifiedAt": "2026-03-01T23:31:47.032Z"
+      "verifiedAt": "2026-03-01T23:31:47.032Z",
+      "source": "https://www.regenttaiwan.com"
     },
     "url": "https://www.regenttaiwan.com",
     "transportation": {
@@ -3520,7 +3545,9 @@
       "貴賓廳 9",
       "貴賓廳 10",
       "貴賓廳 11"
-    ]
+    ],
+    "updateReason": "SOP V4.7 資料結構更新",
+    "updateSource": "手動驗證"
   },
   {
     "id": 1087,
@@ -3708,7 +3735,9 @@
       "貴賓軒 7"
     ],
     "verified": true,
-    "lastUpdated": "2026-03-03T04:50:31.571Z"
+    "lastUpdated": "2026-03-03T04:50:31.571Z",
+    "updateReason": "SOP V4.7 資料結構更新",
+    "updateSource": "手動驗證"
   },
   {
     "id": 1091,
@@ -4945,7 +4974,9 @@
     "meetingPageUrl": "https://grandvictoria.com.tw/%e9%a4%90%e9%a3%b2%e6%b4%bb%e5%8b%95/",
     "venueListUrl": "https://grandvictoria.com.tw/%e5%a9%9a%e5%ae%b4%e5%ae%b4%e6%9c%83/%e5%a4%a7%e5%ae%b4%e6%9c%83%e5%bb%b3-1f/",
     "venueMainImageUrl": "https://grandvictoria.com.tw/wp-content/uploads/sites/237/2023/09/%E6%88%B6%E5%A4%96%E6%B0%9B%E5%9C%8D-16s-1800x700.jpg",
-    "roomsCount": 3
+    "roomsCount": 3,
+    "updateReason": "SOP V4.7 資料結構更新",
+    "updateSource": "手動驗證"
   },
   {
     "id": 1123,
@@ -6014,7 +6045,9 @@
       "雅美廳",
       "娜路彎宴會廳"
     ],
-    "notes": "台東大型度假飯店，設有大型國際會議中心設施。"
+    "notes": "台東大型度假飯店，設有大型國際會議中心設施。",
+    "updateReason": "SOP V4.7 資料結構更新",
+    "updateSource": "手動驗證"
   },
   {
     "id": 1151,
@@ -6404,7 +6437,9 @@
       "貴賓廳 3",
       "貴賓廳 5",
       "貴賓廳 6"
-    ]
+    ],
+    "updateReason": "SOP V4.7 資料結構更新",
+    "updateSource": "手動驗證"
   },
   {
     "id": 1160,
@@ -6581,7 +6616,9 @@
       "太保廳",
       "貴賓廳"
     ],
-    "verified": true
+    "verified": true,
+    "updateReason": "SOP V4.7 資料結構更新",
+    "updateSource": "手動驗證"
   },
   {
     "id": 1165,
@@ -6666,7 +6703,9 @@
       "亞特蘭提斯廳",
       "太平洋廳"
     ],
-    "verified": true
+    "verified": true,
+    "updateReason": "SOP V4.7 資料結構更新",
+    "updateSource": "手動驗證"
   },
   {
     "id": 1167,
@@ -7972,7 +8011,9 @@
       "會議室 A",
       "會議室 B"
     ],
-    "verified": true
+    "verified": true,
+    "updateReason": "SOP V4.7 資料結構更新",
+    "updateSource": "手動驗證"
   },
   {
     "id": 1203,
@@ -9393,7 +9434,9 @@
       "喜來登廳",
       "多功能廳 A-H"
     ],
-    "verified": true
+    "verified": true,
+    "updateReason": "SOP V4.7 資料結構更新",
+    "updateSource": "手動驗證"
   },
   {
     "id": 1243,
@@ -9737,7 +9780,9 @@
       "馬賽廳",
       "多功能會議室 A-F"
     ],
-    "notes": "主打 MICE 獎勵旅遊會議，具備大型室內外活動空間。"
+    "notes": "主打 MICE 獎勵旅遊會議，具備大型室內外活動空間。",
+    "updateReason": "SOP V4.7 資料結構更新",
+    "updateSource": "手動驗證"
   },
   {
     "id": 1252,
@@ -10180,7 +10225,9 @@
       "多功能會議室 3",
       "多功能會議室 4"
     ],
-    "notes": "澎湖唯一五星級飯店，適合海島度假型會議。"
+    "notes": "澎湖唯一五星級飯店，適合海島度假型會議。",
+    "updateReason": "SOP V4.7 資料結構更新",
+    "updateSource": "手動驗證"
   },
   {
     "id": 1264,
@@ -14669,7 +14716,9 @@
       "牡丹廳",
       "蘭花廳",
       "菊花廳"
-    ]
+    ],
+    "updateReason": "SOP V4.7 資料結構更新",
+    "updateSource": "手動驗證"
   },
   {
     "id": 1385,
@@ -14719,7 +14768,9 @@
       "牡丹廳",
       "蘭花廳",
       "菊花廳"
-    ]
+    ],
+    "updateReason": "SOP V4.7 資料結構更新",
+    "updateSource": "手動驗證"
   },
   {
     "id": 1386,
@@ -14775,7 +14826,9 @@
       "牡丹廳",
       "蘭花廳",
       "菊花廳"
-    ]
+    ],
+    "updateReason": "SOP V4.7 資料結構更新",
+    "updateSource": "手動驗證"
   },
   {
     "id": 1387,
@@ -14825,7 +14878,9 @@
       "牡丹廳",
       "蘭花廳",
       "菊花廳"
-    ]
+    ],
+    "updateReason": "SOP V4.7 資料結構更新",
+    "updateSource": "手動驗證"
   },
   {
     "id": 1388,
@@ -16910,7 +16965,9 @@
       "4樓悅軒",
       "4樓雅軒",
       "4樓鳳凰廳"
-    ]
+    ],
+    "updateReason": "SOP V4.7 資料結構更新",
+    "updateSource": "手動驗證"
   },
   {
     "id": 1449,
@@ -17000,7 +17057,9 @@
       "4樓悅軒",
       "4樓雅軒",
       "4樓鳳凰廳"
-    ]
+    ],
+    "updateReason": "SOP V4.7 資料結構更新",
+    "updateSource": "手動驗證"
   },
   {
     "id": 1450,
@@ -17090,7 +17149,9 @@
       "4樓悅軒",
       "4樓雅軒",
       "4樓鳳凰廳"
-    ]
+    ],
+    "updateReason": "SOP V4.7 資料結構更新",
+    "updateSource": "手動驗證"
   },
   {
     "id": 1451,
@@ -17180,7 +17241,9 @@
       "4樓悅軒",
       "4樓雅軒",
       "4樓鳳凰廳"
-    ]
+    ],
+    "updateReason": "SOP V4.7 資料結構更新",
+    "updateSource": "手動驗證"
   },
   {
     "id": 1452,
@@ -17270,7 +17333,9 @@
       "4樓悅軒",
       "4樓雅軒",
       "4樓鳳凰廳"
-    ]
+    ],
+    "updateReason": "SOP V4.7 資料結構更新",
+    "updateSource": "手動驗證"
   },
   {
     "id": 1453,
@@ -17360,7 +17425,9 @@
       "4樓悅軒",
       "4樓雅軒",
       "4樓鳳凰廳"
-    ]
+    ],
+    "updateReason": "SOP V4.7 資料結構更新",
+    "updateSource": "手動驗證"
   },
   {
     "id": 1454,
@@ -17450,7 +17517,9 @@
       "4樓悅軒",
       "4樓雅軒",
       "4樓鳳凰廳"
-    ]
+    ],
+    "updateReason": "SOP V4.7 資料結構更新",
+    "updateSource": "手動驗證"
   },
   {
     "id": 1455,
@@ -17540,7 +17609,9 @@
       "4樓悅軒",
       "4樓雅軒",
       "4樓鳳凰廳"
-    ]
+    ],
+    "updateReason": "SOP V4.7 資料結構更新",
+    "updateSource": "手動驗證"
   },
   {
     "id": 1456,
@@ -17630,7 +17701,9 @@
       "4樓悅軒",
       "4樓雅軒",
       "4樓鳳凰廳"
-    ]
+    ],
+    "updateReason": "SOP V4.7 資料結構更新",
+    "updateSource": "手動驗證"
   },
   {
     "id": 1457,
@@ -17720,7 +17793,9 @@
       "4樓悅軒",
       "4樓雅軒",
       "4樓鳳凰廳"
-    ]
+    ],
+    "updateReason": "SOP V4.7 資料結構更新",
+    "updateSource": "手動驗證"
   },
   {
     "id": 1458,
@@ -17810,7 +17885,9 @@
       "4樓悅軒",
       "4樓雅軒",
       "4樓鳳凰廳"
-    ]
+    ],
+    "updateReason": "SOP V4.7 資料結構更新",
+    "updateSource": "手動驗證"
   },
   {
     "id": 1459,
@@ -17900,7 +17977,9 @@
       "4樓悅軒",
       "4樓雅軒",
       "4樓鳳凰廳"
-    ]
+    ],
+    "updateReason": "SOP V4.7 資料結構更新",
+    "updateSource": "手動驗證"
   },
   {
     "id": 1460,
@@ -17990,7 +18069,9 @@
       "4樓悅軒",
       "4樓雅軒",
       "4樓鳳凰廳"
-    ]
+    ],
+    "updateReason": "SOP V4.7 資料結構更新",
+    "updateSource": "手動驗證"
   },
   {
     "id": 1461,
@@ -18080,7 +18161,9 @@
       "4樓悅軒",
       "4樓雅軒",
       "4樓鳳凰廳"
-    ]
+    ],
+    "updateReason": "SOP V4.7 資料結構更新",
+    "updateSource": "手動驗證"
   },
   {
     "id": 1462,
@@ -18170,7 +18253,9 @@
       "4樓悅軒",
       "4樓雅軒",
       "4樓鳳凰廳"
-    ]
+    ],
+    "updateReason": "SOP V4.7 資料結構更新",
+    "updateSource": "手動驗證"
   },
   {
     "id": 1463,
@@ -18260,7 +18345,9 @@
       "4樓悅軒",
       "4樓雅軒",
       "4樓鳳凰廳"
-    ]
+    ],
+    "updateReason": "SOP V4.7 資料結構更新",
+    "updateSource": "手動驗證"
   },
   {
     "id": 1464,
@@ -18350,7 +18437,9 @@
       "4樓悅軒",
       "4樓雅軒",
       "4樓鳳凰廳"
-    ]
+    ],
+    "updateReason": "SOP V4.7 資料結構更新",
+    "updateSource": "手動驗證"
   },
   {
     "id": 1465,
@@ -18440,7 +18529,9 @@
       "4樓悅軒",
       "4樓雅軒",
       "4樓鳳凰廳"
-    ]
+    ],
+    "updateReason": "SOP V4.7 資料結構更新",
+    "updateSource": "手動驗證"
   },
   {
     "id": 1466,
@@ -18530,7 +18621,9 @@
       "4樓悅軒",
       "4樓雅軒",
       "4樓鳳凰廳"
-    ]
+    ],
+    "updateReason": "SOP V4.7 資料結構更新",
+    "updateSource": "手動驗證"
   },
   {
     "id": 1467,
@@ -18620,7 +18713,9 @@
       "4樓悅軒",
       "4樓雅軒",
       "4樓鳳凰廳"
-    ]
+    ],
+    "updateReason": "SOP V4.7 資料結構更新",
+    "updateSource": "手動驗證"
   },
   {
     "id": 1468,
@@ -18710,7 +18805,9 @@
       "4樓悅軒",
       "4樓雅軒",
       "4樓鳳凰廳"
-    ]
+    ],
+    "updateReason": "SOP V4.7 資料結構更新",
+    "updateSource": "手動驗證"
   },
   {
     "id": 1469,
@@ -18800,7 +18897,9 @@
       "4樓悅軒",
       "4樓雅軒",
       "4樓鳳凰廳"
-    ]
+    ],
+    "updateReason": "SOP V4.7 資料結構更新",
+    "updateSource": "手動驗證"
   },
   {
     "id": 1470,
@@ -18890,7 +18989,9 @@
       "4樓悅軒",
       "4樓雅軒",
       "4樓鳳凰廳"
-    ]
+    ],
+    "updateReason": "SOP V4.7 資料結構更新",
+    "updateSource": "手動驗證"
   },
   {
     "id": 1471,
@@ -18980,7 +19081,9 @@
       "4樓悅軒",
       "4樓雅軒",
       "4樓鳳凰廳"
-    ]
+    ],
+    "updateReason": "SOP V4.7 資料結構更新",
+    "updateSource": "手動驗證"
   },
   {
     "id": 1472,
@@ -19070,7 +19173,9 @@
       "4樓悅軒",
       "4樓雅軒",
       "4樓鳳凰廳"
-    ]
+    ],
+    "updateReason": "SOP V4.7 資料結構更新",
+    "updateSource": "手動驗證"
   },
   {
     "id": 1473,
@@ -19160,7 +19265,9 @@
       "4樓悅軒",
       "4樓雅軒",
       "4樓鳳凰廳"
-    ]
+    ],
+    "updateReason": "SOP V4.7 資料結構更新",
+    "updateSource": "手動驗證"
   },
   {
     "id": 1474,
@@ -19250,7 +19357,9 @@
       "4樓悅軒",
       "4樓雅軒",
       "4樓鳳凰廳"
-    ]
+    ],
+    "updateReason": "SOP V4.7 資料結構更新",
+    "updateSource": "手動驗證"
   },
   {
     "id": 1475,
@@ -19340,7 +19449,9 @@
       "4樓悅軒",
       "4樓雅軒",
       "4樓鳳凰廳"
-    ]
+    ],
+    "updateReason": "SOP V4.7 資料結構更新",
+    "updateSource": "手動驗證"
   },
   {
     "id": 1476,
@@ -19430,7 +19541,9 @@
       "4樓悅軒",
       "4樓雅軒",
       "4樓鳳凰廳"
-    ]
+    ],
+    "updateReason": "SOP V4.7 資料結構更新",
+    "updateSource": "手動驗證"
   },
   {
     "id": 1477,
@@ -19520,7 +19633,9 @@
       "4樓悅軒",
       "4樓雅軒",
       "4樓鳳凰廳"
-    ]
+    ],
+    "updateReason": "SOP V4.7 資料結構更新",
+    "updateSource": "手動驗證"
   },
   {
     "id": 1478,
@@ -19610,7 +19725,9 @@
       "4樓悅軒",
       "4樓雅軒",
       "4樓鳳凰廳"
-    ]
+    ],
+    "updateReason": "SOP V4.7 資料結構更新",
+    "updateSource": "手動驗證"
   },
   {
     "id": 1479,
@@ -19700,7 +19817,9 @@
       "4樓悅軒",
       "4樓雅軒",
       "4樓鳳凰廳"
-    ]
+    ],
+    "updateReason": "SOP V4.7 資料結構更新",
+    "updateSource": "手動驗證"
   },
   {
     "id": 1480,
@@ -19790,7 +19909,9 @@
       "4樓悅軒",
       "4樓雅軒",
       "4樓鳳凰廳"
-    ]
+    ],
+    "updateReason": "SOP V4.7 資料結構更新",
+    "updateSource": "手動驗證"
   },
   {
     "id": 1481,
@@ -19880,7 +20001,9 @@
       "4樓悅軒",
       "4樓雅軒",
       "4樓鳳凰廳"
-    ]
+    ],
+    "updateReason": "SOP V4.7 資料結構更新",
+    "updateSource": "手動驗證"
   },
   {
     "id": 1482,
@@ -19970,7 +20093,9 @@
       "4樓悅軒",
       "4樓雅軒",
       "4樓鳳凰廳"
-    ]
+    ],
+    "updateReason": "SOP V4.7 資料結構更新",
+    "updateSource": "手動驗證"
   },
   {
     "id": 1483,
@@ -20060,7 +20185,9 @@
       "4樓悅軒",
       "4樓雅軒",
       "4樓鳳凰廳"
-    ]
+    ],
+    "updateReason": "SOP V4.7 資料結構更新",
+    "updateSource": "手動驗證"
   },
   {
     "id": 1484,
@@ -20150,7 +20277,9 @@
       "4樓悅軒",
       "4樓雅軒",
       "4樓鳳凰廳"
-    ]
+    ],
+    "updateReason": "SOP V4.7 資料結構更新",
+    "updateSource": "手動驗證"
   },
   {
     "id": 1485,
@@ -20240,7 +20369,9 @@
       "4樓悅軒",
       "4樓雅軒",
       "4樓鳳凰廳"
-    ]
+    ],
+    "updateReason": "SOP V4.7 資料結構更新",
+    "updateSource": "手動驗證"
   },
   {
     "id": 1486,
@@ -20330,7 +20461,9 @@
       "4樓悅軒",
       "4樓雅軒",
       "4樓鳳凰廳"
-    ]
+    ],
+    "updateReason": "SOP V4.7 資料結構更新",
+    "updateSource": "手動驗證"
   },
   {
     "id": 1487,
@@ -20420,7 +20553,9 @@
       "4樓悅軒",
       "4樓雅軒",
       "4樓鳳凰廳"
-    ]
+    ],
+    "updateReason": "SOP V4.7 資料結構更新",
+    "updateSource": "手動驗證"
   },
   {
     "id": 1488,
@@ -20510,7 +20645,9 @@
       "4樓悅軒",
       "4樓雅軒",
       "4樓鳳凰廳"
-    ]
+    ],
+    "updateReason": "SOP V4.7 資料結構更新",
+    "updateSource": "手動驗證"
   },
   {
     "id": 1489,
@@ -20600,7 +20737,9 @@
       "4樓悅軒",
       "4樓雅軒",
       "4樓鳳凰廳"
-    ]
+    ],
+    "updateReason": "SOP V4.7 資料結構更新",
+    "updateSource": "手動驗證"
   },
   {
     "id": 1490,
@@ -20690,7 +20829,9 @@
       "4樓悅軒",
       "4樓雅軒",
       "4樓鳳凰廳"
-    ]
+    ],
+    "updateReason": "SOP V4.7 資料結構更新",
+    "updateSource": "手動驗證"
   },
   {
     "id": 1491,
@@ -20780,7 +20921,9 @@
       "4樓悅軒",
       "4樓雅軒",
       "4樓鳳凰廳"
-    ]
+    ],
+    "updateReason": "SOP V4.7 資料結構更新",
+    "updateSource": "手動驗證"
   },
   {
     "id": 1492,
@@ -20870,7 +21013,9 @@
       "4樓悅軒",
       "4樓雅軒",
       "4樓鳳凰廳"
-    ]
+    ],
+    "updateReason": "SOP V4.7 資料結構更新",
+    "updateSource": "手動驗證"
   },
   {
     "id": 1493,
@@ -21532,7 +21677,9 @@
       "會議室C",
       "會議室D",
       "電腦教室"
-    ]
+    ],
+    "updateReason": "SOP V4.7 資料結構更新",
+    "updateSource": "手動驗證"
   },
   {
     "id": 1512,
@@ -21565,7 +21712,9 @@
       "會議室C",
       "會議室D",
       "電腦教室"
-    ]
+    ],
+    "updateReason": "SOP V4.7 資料結構更新",
+    "updateSource": "手動驗證"
   },
   {
     "id": 1513,
@@ -21598,7 +21747,9 @@
       "會議室C",
       "會議室D",
       "電腦教室"
-    ]
+    ],
+    "updateReason": "SOP V4.7 資料結構更新",
+    "updateSource": "手動驗證"
   },
   {
     "id": 1514,
@@ -21631,7 +21782,9 @@
       "會議室C",
       "會議室D",
       "電腦教室"
-    ]
+    ],
+    "updateReason": "SOP V4.7 資料結構更新",
+    "updateSource": "手動驗證"
   },
   {
     "id": 1515,
@@ -21664,7 +21817,9 @@
       "會議室C",
       "會議室D",
       "電腦教室"
-    ]
+    ],
+    "updateReason": "SOP V4.7 資料結構更新",
+    "updateSource": "手動驗證"
   },
   {
     "id": 1516,
@@ -21697,7 +21852,9 @@
       "會議室C",
       "會議室D",
       "電腦教室"
-    ]
+    ],
+    "updateReason": "SOP V4.7 資料結構更新",
+    "updateSource": "手動驗證"
   },
   {
     "id": 1517,
@@ -21730,7 +21887,9 @@
       "會議室C",
       "會議室D",
       "電腦教室"
-    ]
+    ],
+    "updateReason": "SOP V4.7 資料結構更新",
+    "updateSource": "手動驗證"
   },
   {
     "id": 1521,
@@ -22018,7 +22177,9 @@
       "會議室3",
       "會議室4",
       "會議室5"
-    ]
+    ],
+    "updateReason": "SOP V4.7 資料結構更新",
+    "updateSource": "手動驗證"
   },
   {
     "id": 1536,
@@ -22047,7 +22208,9 @@
       "會議室3",
       "會議室4",
       "會議室5"
-    ]
+    ],
+    "updateReason": "SOP V4.7 資料結構更新",
+    "updateSource": "手動驗證"
   },
   {
     "id": 1537,
@@ -22075,7 +22238,9 @@
       "會議室3",
       "會議室4",
       "會議室5"
-    ]
+    ],
+    "updateReason": "SOP V4.7 資料結構更新",
+    "updateSource": "手動驗證"
   },
   {
     "id": 1538,
@@ -22104,7 +22269,9 @@
       "會議室3",
       "會議室4",
       "會議室5"
-    ]
+    ],
+    "updateReason": "SOP V4.7 資料結構更新",
+    "updateSource": "手動驗證"
   },
   {
     "id": 1539,
@@ -22131,7 +22298,9 @@
       "會議室3",
       "會議室4",
       "會議室5"
-    ]
+    ],
+    "updateReason": "SOP V4.7 資料結構更新",
+    "updateSource": "手動驗證"
   },
   {
     "id": "1540",
