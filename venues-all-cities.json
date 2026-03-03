@@ -1525,7 +1525,7 @@
         }
       }
     ],
-    "status": "待修",
+    "status": "下架",
     "address": "台北市信義區忠孝東路五段10號",
     "contact": {
       "phone": "02-7708-8888"
@@ -1552,7 +1552,9 @@
       "聯絡電話"
     ],
     "verificationStatus": "待修正",
-    "lastVerified": "2026-03-02T09:52:23.503Z"
+    "lastVerified": "2026-03-02T09:52:23.503Z",
+    "statusNote": "無會議室記錄，自動下架",
+    "lastUpdated": "2026-03-03T00:25:55.101Z"
   },
   {
     "id": 1041,
@@ -4204,7 +4206,7 @@
         }
       }
     ],
-    "status": "待修",
+    "status": "下架",
     "address": "台北市大安區敦化南路二段201號",
     "contact": {
       "phone": "02-2378-8888"
@@ -4236,7 +4238,9 @@
     "verificationStatus": "待修",
     "meetingPageUrl": "https://www.shangri-la.com/taipei/fareasternplazashangrila/rooms-suites/rooms/superior-room/",
     "lastVerified": "2026-03-02T09:52:23.503Z",
-    "verificationNote": "缺少 venueListUrl"
+    "verificationNote": "缺少 venueListUrl",
+    "statusNote": "無會議室記錄，自動下架",
+    "lastUpdated": "2026-03-03T00:25:55.103Z"
   },
   {
     "id": 1107,
@@ -4462,7 +4466,7 @@
         }
       }
     ],
-    "status": "上架",
+    "status": "下架",
     "address": "台北市信義區松高路18號",
     "contact": {
       "phone": "02-6618-8000"
@@ -4490,7 +4494,9 @@
     "verificationStatus": "已驗證",
     "meetingPageUrl": "https://le-meridien.marriott.com/programmes/meetings-and-events/",
     "lastVerified": "2026-03-02T13:10:33.187Z",
-    "venueListUrl": "https://le-meridien.marriott.com/programmes/meetings-and-events/"
+    "venueListUrl": "https://le-meridien.marriott.com/programmes/meetings-and-events/",
+    "statusNote": "無會議室記錄，自動下架",
+    "lastUpdated": "2026-03-03T00:25:55.103Z"
   },
   {
     "id": 1115,
@@ -5353,7 +5359,7 @@
         "equipment": []
       }
     ],
-    "status": "上架",
+    "status": "下架",
     "address": "台南市仁德區文華路二段66號",
     "contact": {
       "phone": "06-266-0808"
@@ -5373,7 +5379,8 @@
     "lastVerified": "2026-03-01T23:33:32.969Z",
     "verifiedTitle": "奇美博物館｜CHIMEI MUSEUM",
     "meetingPageUrl": "https://www.chimeimuseum.org/exhibition-event",
-    "lastUpdated": "2026-03-02T00:16:32.391Z"
+    "lastUpdated": "2026-03-03T00:25:55.103Z",
+    "statusNote": "無會議室記錄，自動下架"
   },
   {
     "id": 1137,
@@ -9346,7 +9353,7 @@
         }
       }
     ],
-    "status": "上架",
+    "status": "下架",
     "address": "桃園市蘆竹區南崁路一段358號",
     "contact": {
       "phone": "03-212-1001"
@@ -9365,7 +9372,8 @@
     },
     "lastVerified": "2026-03-02T10:34:35.896Z",
     "verificationError": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.theskyline.com.tw/\nCall log:\n  - navigating to \"https://www.theskyline.com.tw/\", waiting until \"domcontentloaded\"\n",
-    "lastUpdated": "2026-03-02T00:16:32.343Z"
+    "lastUpdated": "2026-03-03T00:25:55.103Z",
+    "statusNote": "無會議室記錄，自動下架"
   },
   {
     "id": 1248,
@@ -9591,7 +9599,7 @@
         }
       }
     ],
-    "status": "上架",
+    "status": "下架",
     "address": "桃園市大園區領航北路1-1號",
     "contact": {
       "phone": "03-381-1800"
@@ -9611,7 +9619,8 @@
     "lastVerified": "2026-03-01T23:40:42.981Z",
     "verifiedTitle": "International Hotels & Resorts | Sheraton Hotels & Resorts",
     "meetingPageUrl": "https://sheraton.marriott.com/experience/meetings-and-events/",
-    "lastUpdated": "2026-03-02T00:16:32.424Z"
+    "lastUpdated": "2026-03-03T00:25:55.103Z",
+    "statusNote": "無會議室記錄，自動下架"
   },
   {
     "id": 1255,
@@ -11465,7 +11474,7 @@
         }
       }
     ],
-    "status": "上架",
+    "status": "下架",
     "address": "高雄市前鎮區成功二路39號",
     "contact": {
       "phone": "07-213-1188"
@@ -11485,7 +11494,8 @@
     "lastVerified": "2026-03-01T23:44:01.291Z",
     "verifiedTitle": "Asia's premier smart venue | Kaohsiung Exhibition Center - Home",
     "meetingPageUrl": "https://www.kecc.com.tw/rental-venue",
-    "lastUpdated": "2026-03-02T00:16:32.436Z"
+    "lastUpdated": "2026-03-03T00:25:55.103Z",
+    "statusNote": "無會議室記錄，自動下架"
   },
   {
     "id": 1307,
@@ -12678,7 +12688,7 @@
         "equipment": []
       }
     ],
-    "status": "待修",
+    "status": "下架",
     "address": "台北市中山區龍江路15號3樓",
     "contact": {
       "phone": "02-25031369轉506"
@@ -12703,11 +12713,12 @@
       "照片",
       "聯絡電話"
     ],
-    "lastUpdated": "2026-03-02T00:16:32.385Z",
+    "lastUpdated": "2026-03-03T00:25:55.103Z",
     "lastVerified": "2026-03-02T10:34:35.906Z",
     "verificationError": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://zsdp.gov.taipei/\nCall log:\n  - navigating to \"https://zsdp.gov.taipei/\", waiting until \"domcontentloaded\"\n",
     "verificationStatus": "待修",
-    "verificationNote": "缺少 venueListUrl"
+    "verificationNote": "缺少 venueListUrl",
+    "statusNote": "無會議室記錄，自動下架"
   },
   {
     "id": 1340,
@@ -12815,7 +12826,7 @@
         }
       }
     ],
-    "status": "待修",
+    "status": "下架",
     "address": "台北市林森北路67巷7號3樓",
     "contact": {
       "phone": "02-25031369轉506"
@@ -12840,11 +12851,12 @@
       "照片",
       "聯絡電話"
     ],
-    "lastUpdated": "2026-03-01T23:07:15.062Z",
+    "lastUpdated": "2026-03-03T00:25:55.103Z",
     "lastVerified": "2026-03-02T10:34:35.907Z",
     "verificationError": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://zsdp.gov.taipei/\nCall log:\n  - navigating to \"https://zsdp.gov.taipei/\", waiting until \"domcontentloaded\"\n",
     "verificationStatus": "待修",
-    "verificationNote": "缺少 venueListUrl"
+    "verificationNote": "缺少 venueListUrl",
+    "statusNote": "無會議室記錄，自動下架"
   },
   {
     "id": 1342,
