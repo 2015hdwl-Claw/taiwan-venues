@@ -94,26 +94,69 @@ curl -sI --connect-timeout 10 "$url" | head -1
 
 ---
 
-## ID 查詢注意事項
+## ⚠️ ID 查詢注意事項 - 絕對不可誤判
 
-### 正確的 ID 查詢方式
+### 🚨 強制規定：ID 查詢必須精確
+
+**誤判案例（V4.5）**：
+- Sub-agent 報告「ID 不存在」
+- 實際情況：ID 存在，是重複記錄
+- 原因：查詢方式錯誤或類型不匹配
+
+### ✅ 正確的 ID 查詢方式
 
 ```javascript
-// ✅ 正確：使用 == 進行寬鬆比對
+// ✅ 正確：使用 == 進行寬鬆比對（支援數字和字串）
 const venue = data.find(v => v.id == targetId);
 
 // ❌ 錯誤：使用 === 進行嚴格比對（類型不匹配會失敗）
 const venue = data.find(v => v.id === targetId);
 ```
 
-### ID 不存在的判斷標準
+### 🔒 ID 查詢強制流程
 
-1. 使用 `find()` 方法查詢
-2. 確認 `venue` 是否為 `undefined`
-3. **記錄查詢過程和結果**
-4. **使用 id-query.js 腳本驗證**
+**步驟 1**：使用 `find()` 方法查詢
+```javascript
+const venue = data.find(v => v.id == targetId);
+```
 
-### ID 查詢腳本
+**步驟 2**：檢查結果
+```javascript
+if (venue === undefined) {
+  // 可能真的不存在，但必須進一步驗證
+}
+```
+
+**步驟 3**：使用 id-query.js 驗證（強制）
+```bash
+node id-query.js query <id>
+```
+
+**步驟 4**：記錄查詢結果
+- 記錄查詢方式
+- 記錄返回結果
+- 記錄驗證結果
+
+### 🚫 禁止行為
+
+| 禁止 | 原因 |
+|------|------|
+| 直接判斷「ID 不存在」 | 必須使用 id-query.js 驗證 |
+| 使用 `===` 嚴格比對 | 類型不匹配會失敗 |
+| 統一歸類為「ID 不存在」 | 必須精確區分原因 |
+
+### 📋 輸出格式（強制）
+
+```json
+{
+  "id": "1433",
+  "exists": true,
+  "queryMethod": "find() + id-query.js",
+  "verificationTime": "2026-03-03T08:00:00Z"
+}
+```
+
+### 🔧 ID 查詢腳本
 
 ```bash
 # 查詢單一 ID
@@ -125,11 +168,3 @@ node id-query.js batch 1433 1436 1439
 # 搜尋重複記錄
 node id-query.js duplicates "集思台大會議中心"
 ```
-
-### 常見錯誤
-
-| 錯誤 | 說明 | 正確做法 |
-|------|------|----------|
-| ID 不存在 | Sub-agent 誤判 | 使用 id-query.js 驗證 |
-| 類型不匹配 | 數字 vs 字串 | 使用 == 而非 === |
-| 查詢方式錯誤 | 使用錯誤的資料結構 | 使用 find() 方法 |
