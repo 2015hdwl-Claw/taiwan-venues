@@ -3137,7 +3137,7 @@
   },
   {
     "id": 1082,
-    "name": "台北怡亨酒店",
+    "name": "台北怡亨酒店 Hotel Éclat Taipei",
     "venueType": "飯店場地",
     "roomName": "會議室",
     "city": "台北市",
@@ -3167,24 +3167,32 @@
     },
     "layoutImageUrl": null,
     "rentalTimeNote": "需提前3天預約",
-    "notes": "精品商務飯店，適合中小型會議",
+    "notes": "官網網址已更新。會議空間主要位於 B2，由 3 個多功能廳組成。",
     "capacityCategory": "small",
     "targetAudience": "企業",
     "createdAt": "2026-02-26T00:00:00.000Z",
-    "status": "待修",
+    "status": "上架",
     "roomType": "會議室",
-    "url": "https://www.eclathotels.com",
+    "url": "https://www.eclathotels.com/zt/taipei",
     "missingFields": [
       "會議室名稱（具體）"
     ],
     "verificationStatus": "✅ 驗證通過",
     "lastVerified": "2026-03-03T01:53:00.000Z",
-    "roomsCount": 1,
-    "verificationNotes": "官網驗證：1 個會議室"
+    "roomsCount": 3,
+    "verificationNotes": "官網驗證：1 個會議室",
+    "venueListUrl": "https://www.eclathotels.com/zt/taipei/meetings-events",
+    "roomNames": [
+      "多功能會議室 1",
+      "多功能會議室 2",
+      "多功能會議室 3"
+    ],
+    "verified": true,
+    "lastUpdated": "2026-03-03T04:50:31.568Z"
   },
   {
     "id": 1083,
-    "name": "台北意舍酒店(CitizenM)",
+    "name": "台北北門世民酒店 citizenM Taipei North Gate",
     "roomName": "意舍廳",
     "venueType": "飯店場地",
     "city": "台北市",
@@ -3210,18 +3218,24 @@
       "verified": true,
       "verifiedAt": "2026-03-01T23:31:36.481Z"
     },
-    "url": "https://www.citizenm.com/hotels/asia/taipei/",
+    "url": "https://www.citizenm.com/hotels/asia/taipei/taipei-north-gate",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "待修",
+    "status": "上架",
     "roomType": "宴會廳",
     "lastVerified": "2026-03-03T01:53:00.000Z",
     "verifiedTitle": "citizenM - Modern Hotels in Iconic Cities Worldwide",
-    "lastUpdated": "2026-03-02T00:16:32.390Z",
+    "lastUpdated": "2026-03-03T04:50:31.571Z",
     "verificationStatus": "✅ 驗證通過",
     "verificationNote": "缺少 venueListUrl",
-    "roomsCount": 3,
-    "verificationNotes": "官網驗證：3 個會議室（societyM 會議空間、會議室 A、會議室 B）"
+    "roomsCount": 2,
+    "verificationNotes": "官網驗證：3 個會議室（societyM 會議空間、會議室 A、會議室 B）",
+    "venueListUrl": "https://www.marriott.com/zh-hk/hotels/tpecm-citizenm-taipei-north-gate/overview/",
+    "roomNames": [
+      "societyM 會議室 1",
+      "societyM 會議室 2"
+    ],
+    "notes": "原名稱「台北意舍酒店」已更正。會議室品牌名為 societyM，共有 2 間。"
   },
   {
     "id": 1084,
@@ -3332,7 +3346,7 @@
   },
   {
     "id": 1086,
-    "name": "台北晶華酒店(RegentTaipei)",
+    "name": "台北晶華酒店 Regent Taipei",
     "roomName": "大宴會廳",
     "venueType": "飯店場地",
     "city": "台北市",
@@ -3358,7 +3372,7 @@
       "verified": true,
       "verifiedAt": "2026-03-01T23:31:47.032Z"
     },
-    "url": "https://www.regenthotels.com/tw/regent-taipei",
+    "url": "https://www.regenttaiwan.com",
     "transportation": {
       "mrt": {
         "station": "中山站",
@@ -3378,19 +3392,38 @@
       "width": 13,
       "height": 5
     },
-    "notes": "五星級飯店，適合婚宴、尾牙、企業活動 [官網無法連線或擋爬蟲，需手動確認]",
+    "notes": "官網已更新。共有 16 間多功能宴會廳與貴賓廳。",
     "source": "官方網站",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "待修",
+    "status": "上架",
     "roomType": "宴會廳",
     "lastVerified": "2026-03-03T01:53:00.000Z",
     "verifiedTitle": "Access Denied",
-    "lastUpdated": "2026-03-02T00:16:32.390Z",
+    "lastUpdated": "2026-03-03T04:50:31.571Z",
     "verificationStatus": "✅ 驗證通過",
     "verificationNote": "缺少 venueListUrl",
-    "roomsCount": 7,
-    "verificationNotes": "官網驗證：7 個宴會/會議廳"
+    "roomsCount": 16,
+    "verificationNotes": "官網驗證：7 個宴會/會議廳",
+    "venueListUrl": "https://www.regenttaiwan.com/occasions/event-venues",
+    "roomNames": [
+      "晶英會",
+      "晶華會",
+      "宴會廳",
+      "萬象廳",
+      "寰宇廳",
+      "貴賓廳 1",
+      "貴賓廳 2",
+      "貴賓廳 3",
+      "貴賓廳 4",
+      "貴賓廳 5",
+      "貴賓廳 6",
+      "貴賓廳 7",
+      "貴賓廳 8",
+      "貴賓廳 9",
+      "貴賓廳 10",
+      "貴賓廳 11"
+    ]
   },
   {
     "id": 1087,
@@ -3516,7 +3549,7 @@
   },
   {
     "id": 1090,
-    "name": "台北王朝大酒店",
+    "name": "茹曦酒店 ILLUME TAIPEI",
     "venueType": "飯店場地",
     "roomName": "宴會廳",
     "city": "台北市",
@@ -3545,23 +3578,40 @@
     },
     "layoutImageUrl": null,
     "rentalTimeNote": "需提前2週預約",
-    "notes": "小巨蛋旁，適合企業活動、演唱會",
+    "notes": "原「台北王朝大酒店」已更名為「茹曦酒店」。全館共有 13 間會議及宴會空間。",
     "capacityCategory": "medium-large",
     "targetAudience": "企業",
     "createdAt": "2026-02-26T00:00:00.000Z",
     "status": "上架",
     "roomType": "宴會廳",
-    "url": "https://www.dynasty.com.tw",
+    "url": "https://www.theillumehotel.com/zh/",
     "missingFields": [
       "會議室名稱（具體）"
     ],
     "verificationStatus": "✅ 驗證通過",
     "meetingPageUrl": "https://www.dynasty.com.tw/news",
     "lastVerified": "2026-03-03T01:53:00.000Z",
-    "venueListUrl": "https://www.dynasty.com.tw/news",
+    "venueListUrl": "https://www.theillumehotel.com/zh/meetings-events/",
     "venueMainImageUrl": "https://www.dynasty.com.tw/images/banner4.jpg",
-    "roomsCount": 5,
-    "verificationNotes": "官網驗證：5 個宴會/會議廳"
+    "roomsCount": 13,
+    "verificationNotes": "官網驗證：5 個宴會/會議廳",
+    "roomNames": [
+      "茹曦廳 (Illume Hall)",
+      "斯賓諾莎宴會廳 (Spinoza Ballroom)",
+      "狄德羅廳 (Diderot)",
+      "康德廳 (Kant)",
+      "孔狄亞克廳 (Condillac)",
+      "霍布斯廳 (Hobbes)",
+      "孟德斯鳩廳 (Montesquieu)",
+      "貴賓軒 1",
+      "貴賓軒 2",
+      "貴賓軒 3",
+      "貴賓軒 5",
+      "貴賓軒 6",
+      "貴賓軒 7"
+    ],
+    "verified": true,
+    "lastUpdated": "2026-03-03T04:50:31.571Z"
   },
   {
     "id": 1091,
