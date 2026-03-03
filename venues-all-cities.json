@@ -2980,7 +2980,7 @@
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "頂級音響燈光、LED螢幕",
     "images": {
-      "main": "https://upload.wikimedia.org/wikipedia/commons/d/de/Grand_Hotel_Taipei_20130902-2.jpg",
+      "main": "https://www.grand-hotel.org/images/index/banquet.jpg",
       "gallery": [
         "https://upload.wikimedia.org/wikipedia/commons/c/c0/Interior_of_Grand_Hotel_Taipei_20130903.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/a/a9/Taipeh_Taipei_Grand_Hotel_Innen_Lobby_1.jpg",
@@ -2990,9 +2990,9 @@
       "needsUpdate": false,
       "note": "照片來源：維基百科（真實照片）",
       "lastUpdated": "2026-03-01",
-      "source": "Wikipedia Commons",
+      "source": "https://www.grand-hotel.org/tw/Banquet",
       "verified": true,
-      "verifiedAt": "2026-03-01T23:31:09.674Z"
+      "verifiedAt": "2026-03-03T07:43:52.196Z"
     },
     "url": "https://www.grand-hotel.org/",
     "verified": true,
@@ -3002,13 +3002,13 @@
     "lastVerified": "2026-03-02T15:23:44.183Z",
     "verifiedTitle": "圓山大飯店",
     "meetingPageUrl": "https://www.grand-hotel.org/TW/index.aspx#",
-    "lastUpdated": "2026-03-03T07:29:39.002Z",
+    "lastUpdated": "2026-03-03T07:43:52.196Z",
     "venueListUrl": "https://www.grand-hotel.org/TW/official/ballroom.aspx?gh=TP",
     "verificationStatus": "已驗證",
     "verificationNote": "會議室清單已補充（9個會議廳/宴會廳）",
     "roomsCount": 5,
-    "updateReason": "SOP V4.7 修復：設定 roomsCount",
-    "updateSource": "本地腳本自動修復"
+    "updateReason": "SOP V4.7: 更新照片來源為官網",
+    "updateSource": "手動更新"
   },
   {
     "id": 1073,
@@ -3052,7 +3052,7 @@
   },
   {
     "id": 1074,
-    "name": "台北威斯汀六福皇宮(Westin)",
+    "name": "JR東日本大飯店台北",
     "venueType": "飯店場地",
     "roomName": "大宴會廳",
     "city": "台北市",
@@ -3070,13 +3070,14 @@
     "availableTimeWeekend": "09:00-22:00",
     "equipment": "專業影音、同步翻譯、視訊會議",
     "images": {
-      "main": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Hotel_metropolitan_premier_taipei_20210829_facade_02.jpg",
+      "main": null,
       "gallery": [],
       "floorPlan": "",
       "needsUpdate": false,
       "note": "照片來源：維基百科（真實照片）",
       "lastUpdated": "2026-03-01",
-      "source": "Wikipedia Commons"
+      "source": null,
+      "verified": false
     },
     "layoutImageUrl": null,
     "rentalTimeNote": "需提前2週預約",
@@ -3088,15 +3089,15 @@
     "createdAt": "2026-02-26T00:00:00.000Z",
     "status": "下架",
     "roomType": "宴會廳",
-    "url": "https://www.westin.com/taipei",
+    "url": "https://taipei.metropolitan.tw/",
     "lastVerified": "2026-03-01T23:31:15.675Z",
     "verifiedTitle": "Premium Luxury Wellness Hotels | Westin Hotels & Resorts",
     "meetingPageUrl": "https://www.marriott.com/en-us/meeting-event-hotels/group-reservations/westin.mi",
     "note": "已歇業",
-    "lastUpdated": "2026-03-03T07:29:39.003Z",
+    "lastUpdated": "2026-03-03T07:43:05.013Z",
     "roomsCount": 5,
-    "updateReason": "SOP V4.7 修復：設定 roomsCount",
-    "updateSource": "本地腳本自動修復"
+    "updateReason": "品牌變更：威斯汀六福皇宮 → JR東日本大飯店台北",
+    "updateSource": "用戶提供"
   },
   {
     "name": "台北寒舍喜來登大飯店",
@@ -7117,7 +7118,9 @@
     "lastVerified": "2026-03-01T23:36:09.510Z",
     "verifiedTitle": "Premium Luxury Wellness Hotels | Westin Hotels & Resorts",
     "meetingPageUrl": "https://www.marriott.com/en-us/meeting-event-hotels/group-reservations/westin.mi",
-    "lastUpdated": "2026-03-02T00:16:32.404Z"
+    "lastUpdated": "2026-03-03T07:43:28.112Z",
+    "updateReason": "恢復：這是宜蘭的威斯汀，不是台北",
+    "updateSource": "用戶提供"
   },
   {
     "id": 1171,
@@ -10224,7 +10227,9 @@
     "lastVerified": "2026-03-01T23:40:52.835Z",
     "verifiedTitle": "Premium Luxury Wellness Hotels | Westin Hotels & Resorts",
     "meetingPageUrl": "https://www.marriott.com/en-us/meeting-event-hotels/group-reservations/westin.mi",
-    "lastUpdated": "2026-03-02T00:16:32.424Z"
+    "lastUpdated": "2026-03-03T07:43:28.113Z",
+    "updateReason": "恢復：這是桃園的威斯汀，不是台北",
+    "updateSource": "用戶提供"
   },
   {
     "id": 1257,
@@ -15204,7 +15209,7 @@
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "頂級音響燈光、LED螢幕",
     "images": {
-      "main": "https://upload.wikimedia.org/wikipedia/commons/d/de/Grand_Hotel_Taipei_20130902-2.jpg",
+      "main": "https://www.grand-hotel.org/images/index/banquet.jpg",
       "gallery": [
         "https://upload.wikimedia.org/wikipedia/commons/c/c0/Interior_of_Grand_Hotel_Taipei_20130903.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/a/a9/Taipeh_Taipei_Grand_Hotel_Innen_Lobby_1.jpg",
@@ -15214,9 +15219,9 @@
       "needsUpdate": false,
       "note": "照片來源：維基百科（真實照片）",
       "lastUpdated": "2026-03-01",
-      "source": "Wikipedia Commons",
+      "source": "https://www.grand-hotel.org/tw/Banquet",
       "verified": true,
-      "verifiedAt": "2026-03-01T23:31:09.674Z"
+      "verifiedAt": "2026-03-03T07:43:52.197Z"
     },
     "url": "https://www.grand-hotel.org",
     "verified": true,
@@ -15230,9 +15235,9 @@
     "verificationStatus": "已驗證",
     "verificationNote": "會議室清單已補充（9個會議廳/宴會廳）",
     "roomsCount": 5,
-    "updateReason": "SOP V4.7 修復：設定 roomsCount",
-    "updateSource": "本地腳本自動修復",
-    "lastUpdated": "2026-03-03T07:29:39.003Z"
+    "updateReason": "SOP V4.7: 更新照片來源為官網",
+    "updateSource": "手動更新",
+    "lastUpdated": "2026-03-03T07:43:52.197Z"
   },
   {
     "id": 1389,
@@ -15252,7 +15257,7 @@
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "頂級音響燈光、LED螢幕",
     "images": {
-      "main": "https://upload.wikimedia.org/wikipedia/commons/d/de/Grand_Hotel_Taipei_20130902-2.jpg",
+      "main": "https://www.grand-hotel.org/images/index/banquet.jpg",
       "gallery": [
         "https://upload.wikimedia.org/wikipedia/commons/c/c0/Interior_of_Grand_Hotel_Taipei_20130903.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/a/a9/Taipeh_Taipei_Grand_Hotel_Innen_Lobby_1.jpg",
@@ -15262,9 +15267,9 @@
       "needsUpdate": false,
       "note": "照片來源：維基百科（真實照片）",
       "lastUpdated": "2026-03-01",
-      "source": "Wikipedia Commons",
+      "source": "https://www.grand-hotel.org/tw/Banquet",
       "verified": true,
-      "verifiedAt": "2026-03-01T23:31:09.674Z"
+      "verifiedAt": "2026-03-03T07:43:52.198Z"
     },
     "url": "https://www.grand-hotel.org",
     "verified": true,
@@ -15278,9 +15283,9 @@
     "verificationStatus": "已驗證",
     "verificationNote": "會議室清單已補充（9個會議廳/宴會廳）",
     "roomsCount": 5,
-    "updateReason": "SOP V4.7 修復：設定 roomsCount",
-    "updateSource": "本地腳本自動修復",
-    "lastUpdated": "2026-03-03T07:29:39.003Z"
+    "updateReason": "SOP V4.7: 更新照片來源為官網",
+    "updateSource": "手動更新",
+    "lastUpdated": "2026-03-03T07:43:52.198Z"
   },
   {
     "id": 1390,
@@ -15300,7 +15305,7 @@
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "頂級音響燈光、LED螢幕",
     "images": {
-      "main": "https://upload.wikimedia.org/wikipedia/commons/d/de/Grand_Hotel_Taipei_20130902-2.jpg",
+      "main": "https://www.grand-hotel.org/images/index/banquet.jpg",
       "gallery": [
         "https://upload.wikimedia.org/wikipedia/commons/c/c0/Interior_of_Grand_Hotel_Taipei_20130903.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/a/a9/Taipeh_Taipei_Grand_Hotel_Innen_Lobby_1.jpg",
@@ -15310,9 +15315,9 @@
       "needsUpdate": false,
       "note": "照片來源：維基百科（真實照片）",
       "lastUpdated": "2026-03-01",
-      "source": "Wikipedia Commons",
+      "source": "https://www.grand-hotel.org/tw/Banquet",
       "verified": true,
-      "verifiedAt": "2026-03-01T23:31:09.674Z"
+      "verifiedAt": "2026-03-03T07:43:52.199Z"
     },
     "url": "https://www.grand-hotel.org",
     "verified": true,
@@ -15326,9 +15331,9 @@
     "verificationStatus": "已驗證",
     "verificationNote": "會議室清單已補充（9個會議廳/宴會廳）",
     "roomsCount": 5,
-    "updateReason": "SOP V4.7 修復：設定 roomsCount",
-    "updateSource": "本地腳本自動修復",
-    "lastUpdated": "2026-03-03T07:29:39.003Z"
+    "updateReason": "SOP V4.7: 更新照片來源為官網",
+    "updateSource": "手動更新",
+    "lastUpdated": "2026-03-03T07:43:52.199Z"
   },
   {
     "id": 1391,
@@ -15348,7 +15353,7 @@
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "頂級音響燈光、LED螢幕",
     "images": {
-      "main": "https://upload.wikimedia.org/wikipedia/commons/d/de/Grand_Hotel_Taipei_20130902-2.jpg",
+      "main": "https://www.grand-hotel.org/images/index/banquet.jpg",
       "gallery": [
         "https://upload.wikimedia.org/wikipedia/commons/c/c0/Interior_of_Grand_Hotel_Taipei_20130903.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/a/a9/Taipeh_Taipei_Grand_Hotel_Innen_Lobby_1.jpg",
@@ -15358,9 +15363,9 @@
       "needsUpdate": false,
       "note": "照片來源：維基百科（真實照片）",
       "lastUpdated": "2026-03-01",
-      "source": "Wikipedia Commons",
+      "source": "https://www.grand-hotel.org/tw/Banquet",
       "verified": true,
-      "verifiedAt": "2026-03-01T23:31:09.674Z"
+      "verifiedAt": "2026-03-03T07:43:52.200Z"
     },
     "url": "https://www.grand-hotel.org",
     "verified": true,
@@ -15374,9 +15379,9 @@
     "verificationStatus": "已驗證",
     "verificationNote": "會議室清單已補充（9個會議廳/宴會廳）",
     "roomsCount": 5,
-    "updateReason": "SOP V4.7 修復：設定 roomsCount",
-    "updateSource": "本地腳本自動修復",
-    "lastUpdated": "2026-03-03T07:29:39.003Z"
+    "updateReason": "SOP V4.7: 更新照片來源為官網",
+    "updateSource": "手動更新",
+    "lastUpdated": "2026-03-03T07:43:52.200Z"
   },
   {
     "id": 1392,
@@ -15818,7 +15823,7 @@
   },
   {
     "id": 1400,
-    "name": "台北威斯汀六福皇宮(Westin)",
+    "name": "JR東日本大飯店台北",
     "venueType": "飯店場地",
     "roomName": "皇宮廳",
     "city": "台北市",
@@ -15836,13 +15841,14 @@
     "availableTimeWeekend": "09:00-22:00",
     "equipment": "專業影音、同步翻譯、視訊會議",
     "images": {
-      "main": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Hotel_metropolitan_premier_taipei_20210829_facade_02.jpg",
+      "main": null,
       "gallery": [],
       "floorPlan": "",
       "needsUpdate": false,
       "note": "照片來源：維基百科（真實照片）",
       "lastUpdated": "2026-03-01",
-      "source": "Wikipedia Commons"
+      "source": null,
+      "verified": false
     },
     "layoutImageUrl": null,
     "rentalTimeNote": "需提前2週預約",
@@ -15854,20 +15860,20 @@
     "createdAt": "2026-02-26T00:00:00.000Z",
     "status": "下架",
     "roomType": "宴會廳",
-    "url": "https://www.westin.com/taipei",
+    "url": "https://taipei.metropolitan.tw/",
     "verifiedAt": "2026-03-01",
     "lastVerified": "2026-03-01T23:31:15.675Z",
     "verifiedTitle": "Premium Luxury Wellness Hotels | Westin Hotels & Resorts",
     "meetingPageUrl": "https://www.marriott.com/en-us/meeting-event-hotels/group-reservations/westin.mi",
     "note": "已歇業",
-    "lastUpdated": "2026-03-03T07:29:39.003Z",
+    "lastUpdated": "2026-03-03T07:43:05.013Z",
     "roomsCount": 5,
-    "updateReason": "SOP V4.7 修復：設定 roomsCount",
-    "updateSource": "本地腳本自動修復"
+    "updateReason": "品牌變更：威斯汀六福皇宮 → JR東日本大飯店台北",
+    "updateSource": "用戶提供"
   },
   {
     "id": 1401,
-    "name": "台北威斯汀六福皇宮(Westin)",
+    "name": "JR東日本大飯店台北",
     "venueType": "飯店場地",
     "roomName": "威斯汀廳",
     "city": "台北市",
@@ -15885,13 +15891,14 @@
     "availableTimeWeekend": "09:00-22:00",
     "equipment": "專業影音、同步翻譯、視訊會議",
     "images": {
-      "main": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Hotel_metropolitan_premier_taipei_20210829_facade_02.jpg",
+      "main": null,
       "gallery": [],
       "floorPlan": "",
       "needsUpdate": false,
       "note": "照片來源：維基百科（真實照片）",
       "lastUpdated": "2026-03-01",
-      "source": "Wikipedia Commons"
+      "source": null,
+      "verified": false
     },
     "layoutImageUrl": null,
     "rentalTimeNote": "需提前2週預約",
@@ -15903,20 +15910,20 @@
     "createdAt": "2026-02-26T00:00:00.000Z",
     "status": "下架",
     "roomType": "宴會廳",
-    "url": "https://www.westin.com/taipei",
+    "url": "https://taipei.metropolitan.tw/",
     "verifiedAt": "2026-03-01",
     "lastVerified": "2026-03-01T23:31:15.675Z",
     "verifiedTitle": "Premium Luxury Wellness Hotels | Westin Hotels & Resorts",
     "meetingPageUrl": "https://www.marriott.com/en-us/meeting-event-hotels/group-reservations/westin.mi",
     "note": "已歇業",
-    "lastUpdated": "2026-03-03T07:29:39.003Z",
+    "lastUpdated": "2026-03-03T07:43:05.013Z",
     "roomsCount": 5,
-    "updateReason": "SOP V4.7 修復：設定 roomsCount",
-    "updateSource": "本地腳本自動修復"
+    "updateReason": "品牌變更：威斯汀六福皇宮 → JR東日本大飯店台北",
+    "updateSource": "用戶提供"
   },
   {
     "id": 1402,
-    "name": "台北威斯汀六福皇宮(Westin)",
+    "name": "JR東日本大飯店台北",
     "venueType": "飯店場地",
     "roomName": "會議室A",
     "city": "台北市",
@@ -15934,13 +15941,14 @@
     "availableTimeWeekend": "09:00-22:00",
     "equipment": "專業影音、同步翻譯、視訊會議",
     "images": {
-      "main": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Hotel_metropolitan_premier_taipei_20210829_facade_02.jpg",
+      "main": null,
       "gallery": [],
       "floorPlan": "",
       "needsUpdate": false,
       "note": "照片來源：維基百科（真實照片）",
       "lastUpdated": "2026-03-01",
-      "source": "Wikipedia Commons"
+      "source": null,
+      "verified": false
     },
     "layoutImageUrl": null,
     "rentalTimeNote": "需提前2週預約",
@@ -15952,20 +15960,20 @@
     "createdAt": "2026-02-26T00:00:00.000Z",
     "status": "下架",
     "roomType": "宴會廳",
-    "url": "https://www.westin.com/taipei",
+    "url": "https://taipei.metropolitan.tw/",
     "verifiedAt": "2026-03-01",
     "lastVerified": "2026-03-01T23:31:15.675Z",
     "verifiedTitle": "Premium Luxury Wellness Hotels | Westin Hotels & Resorts",
     "meetingPageUrl": "https://www.marriott.com/en-us/meeting-event-hotels/group-reservations/westin.mi",
     "note": "已歇業",
-    "lastUpdated": "2026-03-03T07:29:39.004Z",
+    "lastUpdated": "2026-03-03T07:43:05.013Z",
     "roomsCount": 5,
-    "updateReason": "SOP V4.7 修復：設定 roomsCount",
-    "updateSource": "本地腳本自動修復"
+    "updateReason": "品牌變更：威斯汀六福皇宮 → JR東日本大飯店台北",
+    "updateSource": "用戶提供"
   },
   {
     "id": 1403,
-    "name": "台北威斯汀六福皇宮(Westin)",
+    "name": "JR東日本大飯店台北",
     "venueType": "飯店場地",
     "roomName": "會議室B",
     "city": "台北市",
@@ -15983,13 +15991,14 @@
     "availableTimeWeekend": "09:00-22:00",
     "equipment": "專業影音、同步翻譯、視訊會議",
     "images": {
-      "main": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Hotel_metropolitan_premier_taipei_20210829_facade_02.jpg",
+      "main": null,
       "gallery": [],
       "floorPlan": "",
       "needsUpdate": false,
       "note": "照片來源：維基百科（真實照片）",
       "lastUpdated": "2026-03-01",
-      "source": "Wikipedia Commons"
+      "source": null,
+      "verified": false
     },
     "layoutImageUrl": null,
     "rentalTimeNote": "需提前2週預約",
@@ -16001,16 +16010,16 @@
     "createdAt": "2026-02-26T00:00:00.000Z",
     "status": "下架",
     "roomType": "宴會廳",
-    "url": "https://www.westin.com/taipei",
+    "url": "https://taipei.metropolitan.tw/",
     "verifiedAt": "2026-03-01",
     "lastVerified": "2026-03-01T23:31:15.675Z",
     "verifiedTitle": "Premium Luxury Wellness Hotels | Westin Hotels & Resorts",
     "meetingPageUrl": "https://www.marriott.com/en-us/meeting-event-hotels/group-reservations/westin.mi",
     "note": "已歇業",
-    "lastUpdated": "2026-03-03T07:29:39.004Z",
+    "lastUpdated": "2026-03-03T07:43:05.013Z",
     "roomsCount": 5,
-    "updateReason": "SOP V4.7 修復：設定 roomsCount",
-    "updateSource": "本地腳本自動修復"
+    "updateReason": "品牌變更：威斯汀六福皇宮 → JR東日本大飯店台北",
+    "updateSource": "用戶提供"
   },
   {
     "id": 1404,
