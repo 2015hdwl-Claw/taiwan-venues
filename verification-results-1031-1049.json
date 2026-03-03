@@ -1,0 +1,263 @@
+{
+  "verificationDate": "2026-03-03",
+  "batch": "1/6",
+  "venues": [
+    {
+      "id": "1031",
+      "name": "CAMA咖啡",
+      "status": "下架",
+      "issues": [
+        "url（官網）存在：https://www.camacafe.com/",
+        "images.main 存在：https://pic.camacafe.com/upload/file1_2026020994537_384_GXFEF.jpg",
+        "venueListUrl 缺失：無會議室頁面",
+        "roomsCount undefined：預期為 undefined（實際為 null）",
+        "venueType 為咖啡廳，非會議場地"
+      ],
+      "recommendation": "已註記為非會議場地，不提供會議室租借，維持下架狀態"
+    },
+    {
+      "id": "1032",
+      "name": "CLBC大安商務中心",
+      "status": "下架",
+      "issues": [
+        "url（官網）存在：https://clbc.tw/",
+        "images.main 存在：https://clbc.tw/wp-content/uploads/2018/12/clbc-logo.svg",
+        "venueListUrl 存在：https://clbc.tw/clbc%E6%B4%BB%E5%8B%95%E5%A0%B4%E5%9C%B0%E7%A9%BA%E9%96%93%E7%A7%9F%E5%80%9F/",
+        "roomsCount: 1（存在，但標記為下架）",
+        "照片來源：CLBC 官網 (clbc.tw)",
+        "狀態判定：下架（已無有效會議室）"
+      ],
+      "recommendation": "資料完整但場地已停業/下架，維持下架狀態"
+    },
+    {
+      "id": "1033",
+      "name": "Goodmans咖啡廳",
+      "status": "下架",
+      "issues": [
+        "url（官網）存在：https://www.goodmans-coffee.com/",
+        "images.main 缺失：主照片為空",
+        "venueListUrl 缺失：無會議室頁面",
+        "roomsCount undefined：缺失",
+        "venueType 為咖啡廳，非會議場地"
+      ],
+      "recommendation": "已註記為非會議場地，缺少照片需補充，維持下架狀態"
+    },
+    {
+      "id": "1034",
+      "name": "NUZONE展演空間",
+      "status": "下架",
+      "issues": [
+        "url（官網）存在：https://www.nuzone.com.tw/",
+        "images.main 存在：https://static.wixstatic.com/media/bd4101_b060d5db47da4905a037701ac0251b0e~mv2.png",
+        "venueListUrl 存在：https://www.nuzone.com.tw/2f",
+        "roomsCount: 1（存在於 venueListUrl）",
+        "照片來源：NUZONE 官網 (nuzone.com.tw) - Wix",
+        "狀態判定：下架（標記為展演空間，但 venueType 為展演場地）"
+      ],
+      "recommendation": "資料完整，展演場地但標記為下架，維持下架狀態"
+    },
+    {
+      "id": "1035",
+      "name": "Regus商務中心",
+      "status": "下架",
+      "issues": [
+        "url（官網）存在：https://www.regus.com",
+        "images.main 存在：https://assets.iwgplc.com/image/upload/c_fill,f_auto,q_auto,w_768,h_257,g_auto:subject//v1754490241/WebsiteImagery/Gallery/MR_1.jpg",
+        "venueListUrl 存在：https://www.regus.com/en/meeting-rooms/meeting-rooms",
+        "roomsCount: 未補充具體數量",
+        "照片來源：Regus 官網 (regus.com)",
+        "missingFields: [會議室名稱（具體）]"
+      ],
+      "recommendation": "三大網址完整，需補充具體會議室名稱與 roomsCount → 可上架"
+    },
+    {
+      "id": "1036",
+      "name": "Simple Kaffa",
+      "status": "下架",
+      "issues": [
+        "url（官網）存在：https://simplekaffa.com/",
+        "images.main 存在：https://simplekaffa.thothcdn.com/images/property_images/banner/6db5ce15de306aed207117be4199ee267ec3798a.png",
+        "venueListUrl 缺失：無會議室頁面",
+        "roomsCount undefined：缺失",
+        "venueType 為咖啡廳，非會議場地"
+      ],
+      "recommendation": "已註記為非會議場地，缺少會議室資訊，維持下架狀態"
+    },
+    {
+      "id": "1037",
+      "name": "TCCC台灣文創訓練中心",
+      "status": "下架",
+      "issues": [
+        "url（官網）存在：https://www.tccc.com.tw/",
+        "images.main 缺失：主照片為空",
+        "venueListUrl 缺失：無會議室頁面",
+        "roomsCount undefined：缺失",
+        "verificationStatus: 待修（官網無法連線，可能已結束營業）"
+      ],
+      "recommendation": "官網無法連線且缺照片 → 待修或下架"
+    },
+    {
+      "id": "1038",
+      "name": "The Executive Centre",
+      "status": "下架",
+      "issues": [
+        "url（官網）存在：https://www.executivecentre.com",
+        "images.main 存在：https://www.executivecentre.com/_next/image/?url=https%3A%2F%2Fassets.executivecentre.com%2Fassets%2FBanner-Product-MeetingRoom.jpg&w=3840&q=75",
+        "venueListUrl 存在：https://www.executivecentre.com/meeting-rooms-conference",
+        "roomsCount: 未補充具體數量",
+        "照片來源：The Executive Centre 官網 (executivecentre.com)",
+        "missingFields: [會議室名稱（具體）]"
+      ],
+      "recommendation": "三大網址完整，需補充具體會議室名稱與 roomsCount → 可上架"
+    },
+    {
+      "id": "1039",
+      "name": "WeWork共享空間",
+      "status": "下架",
+      "issues": [
+        "url（官網）存在：https://www.wework.com",
+        "images.main 存在：https://ctfassets.imgix.net/vh7r69kgcki3/1KAGba0IzZeeojWdOGkYIM/51b3928058014abcde9e7c83e7f79a47/Private_Office.jpg?auto=format%20compress&fit=crop&q=80&w=882&h=495",
+        "venueListUrl 缺失：無會議室頁面",
+        "roomsCount undefined：缺失",
+        "照片來源：WeWork 官網 (wework.com) - 使用 Unsplash 來源"
+      ],
+      "recommendation": "缺少 venueListUrl 且 roomsCount undefined → 待修"
+    },
+    {
+      "id": "1040",
+      "name": "W飯店台北",
+      "status": "下架",
+      "issues": [
+        "url（官網）存在：https://www.marriott.com/hotels/travel/tpegi-w-taipei",
+        "images.main 缺失：主照片為空",
+        "venueListUrl 缺失：無會議室頁面",
+        "rooms undefined：rooms 欄位無值",
+        "roomsCount undefined：缺失",
+        "照片來源：缺失",
+        "statusNote: 無會議室記錄，自動下架"
+      ],
+      "recommendation": "無會議室記錄 → 下架"
+    },
+    {
+      "id": "1041",
+      "name": "兄弟大飯店",
+      "status": "下架",
+      "issues": [
+        "url（官網）存在：https://www.brotherhotel.com.tw/",
+        "images.main 存在：https://www.brotherhotel.com.tw/wp-content/uploads/2022/12/%E6%A1%82%E8%8A%B1%E5%BB%B3%E5%A4%96%E5%B8%B6%E8%8F%9C%E5%96%AEfinal-0125-1-853x1280.jpg",
+        "venueListUrl 存在：https://www.brotherhotel.com.tw/?cat=76",
+        "roomsCount: 未補充具體數量",
+        "照片來源：兄弟大飯店官網 (brotherhotel.com.tw)",
+        "missingFields: [會議室名稱（具體）]",
+        "note: 僅提供婚宴服務，無會議室"
+      ],
+      "recommendation": "三大網址完整，僅提供婚宴服務，無會議室 → 下架"
+    },
+    {
+      "id": "1042",
+      "name": "公務人力發展學院",
+      "status": "下架",
+      "issues": [
+        "url（官網）存在：https://www.hrd.gov.tw",
+        "images.main 存在：https://www.hrd.gov.tw/media/4298/service_01.png",
+        "venueListUrl 存在：https://www.hrd.gov.tw/1123/2127/?q=%E5%A0%B4%E5%9C%B0%E6%9F%A5%E8%A9%A2",
+        "roomsCount undefined：缺失",
+        "照片來源：公務人力發展學院官網 (hrd.gov.tw)",
+        "verificationStatus: 待修正（會議室頁面可能不正確）"
+      ],
+      "recommendation": "三大網址完整，缺 roomsCount → 待修"
+    },
+    {
+      "id": "1043",
+      "name": "台北六福萬怡酒店",
+      "status": "上架",
+      "issues": [
+        "url（官網）存在：https://www.courtyardtaipei.com.tw/zh-TW/",
+        "images.main 缺失：主照片為空",
+        "venueListUrl 存在：https://www.courtyardtaipei.com.tw/zh-TW/?Psn=112",
+        "roomsCount: 8（存在）",
+        "roomsNames: [鳳凰廳, 百合廳, 玫瑰廳, 蕙蘭廳, 海棠廳, 大宴會廳 A, 大宴會廳 B, 大宴會廳 C]",
+        "missingFields: [照片]",
+        "status: 上架"
+      ],
+      "recommendation": "三大網址完整 + roomsCount > 0 → 上架（缺照片需補充）"
+    },
+    {
+      "id": "1044",
+      "name": "典藏咖啡廳",
+      "status": "下架",
+      "issues": [
+        "url（官網）存在：https://artouch.com/food/",
+        "images.main 存在：https://d1qlj1o6gdgqqt.cloudfront.net/wp-content/uploads/2026/02/image-12-1600x899.jpeg",
+        "venueListUrl 缺失：無會議室頁面",
+        "roomsCount undefined：缺失",
+        "venueType 為咖啡廳，非會議場地",
+        "verificationStatus: 非會議場地"
+      ],
+      "recommendation": "已註記為非會議場地，維持下架狀態"
+    },
+    {
+      "id": "1045",
+      "name": "北科大創新育成中心",
+      "status": "下架",
+      "issues": [
+        "url（官網）存在：https://www.ntut.edu.tw",
+        "images.main 存在：https://www.ntut.edu.tw/var/file/7/1007/randimg/mobileadv_3973_5062299_87901.jpg",
+        "venueListUrl 存在：https://aps-staff.ntut.edu.tw/arearent/ActionServlet",
+        "roomsCount undefined：缺失",
+        "照片來源：國立臺北科技大學官網 (ntut.edu.tw)",
+        "missingFields: [會議室名稱（具體）]"
+      ],
+      "recommendation": "三大網址完整，缺 roomsCount → 待修"
+    },
+    {
+      "id": "1047",
+      "name": "台北W飯店",
+      "status": "下架",
+      "issues": [
+        "url（官網）存在：https://www.marriott.com/en-us/hotels/tpewh-w-taipei/",
+        "images.main 缺失：主照片為空",
+        "venueListUrl 缺失：缺少 venueListUrl",
+        "roomsCount undefined：缺失",
+        "missingFields: [照片]",
+        "verificationStatus: 待修（缺少 venueListUrl）"
+      ],
+      "recommendation": "缺少 venueListUrl → 待修"
+    },
+    {
+      "id": "1048",
+      "name": "台北一樂園大飯店",
+      "status": "下架",
+      "issues": [
+        "url（官網）存在：https://www.ile-hotel.com",
+        "images.main 缺失：主照片為空",
+        "venueListUrl 缺失：無會議室頁面",
+        "roomsCount undefined：缺失",
+        "note: 已拆除改建",
+        "statusNote: 已拆除改建，無會議室"
+      ],
+      "recommendation": "已拆除改建，無會議室 → 下架"
+    },
+    {
+      "id": "1049",
+      "name": "台北世貿中心展覽大樓",
+      "status": "下架",
+      "issues": [
+        "url（官網）存在：https://www.twtc.com.tw/",
+        "images.main 存在：https://www.twtc.com.tw/images/banner/b20211105154308.jpg",
+        "venueListUrl 存在：https://www.twtc.com.tw/page/room/",
+        "roomsCount: 未明確定義",
+        "missingFields: [教室式人數]",
+        "verificationStatus: 已驗證（會議室清單已補充）"
+      ],
+      "recommendation": "三大網址完整，維持下架狀態（標記為展覽館）"
+    }
+  ],
+  "summary": {
+    "totalVenues": 18,
+    "status_shangjia": 1,
+    "status_xialia": 16,
+    "status_xiuxiu": 1,
+    "notes": "本批次驗證結果：1 個上架（1043 台北六福萬怡酒店），16 個下架，1 個待修（1035 Regus商務中心）"
+  }
+}
