@@ -222,11 +222,72 @@ function updateCityFilter(filteredVenues) {
         cities.map(city => `<option value="${city}">${city}</option>`).join('');
 }
 
+// ===== 快速篩選 =====
+let currentQuickFilter = 'all';
+
+function quickFilter(region) {
+    currentQuickFilter = region;
+    
+    // 更新按鈕狀態
+    document.querySelectorAll('.quick-filter-btn').forEach(btn => {
+        btn.classList.remove('active');
+    });
+    event.currentTarget.classList.add('active');
+    
+    // 更新縣市篩選器
+    const cityFilter = document.getElementById('cityFilter');
+    
+    if (region === 'north') {
+        // 北北基：只顯示符合的縣市
+        const northCities = ['台北市', '台北', '新北市', '新北', '基隆市', '基隆'];
+        const options = cityFilter.querySelectorAll('option');
+        options.forEach(opt => {
+            if (opt.value === '' || northCities.some(c => opt.value.includes(c.replace('市', '')))) {
+                opt.style.display = '';
+            } else {
+                opt.style.display = 'none';
+            }
+        });
+        cityFilter.value = '';
+    } else {
+        // 全台灣：顯示所有縣市
+        const options = cityFilter.querySelectorAll('option');
+        options.forEach(opt => {
+            opt.style.display = '';
+        });
+        cityFilter.value = '';
+    }
+    
+    filterVenues();
+}
+
 function filterVenues() {
     const type = activityTypes[currentTypeIndex];
-    const city = document.getElementById('cityFilter').value;
+    let city = document.getElementById('cityFilter').value;
     const capacity = document.getElementById('capacityFilter').value;
     const sort = document.getElementById('sortFilter').value;
+    
+    // 快速篩選：北北基
+    if (currentQuickFilter === 'north' && !city) {
+        const northCities = ['台北市', '台北', '新北市', '新北', '基隆市', '基隆'];
+        let filtered = venues.filter(v => 
+            type.filter(v) && northCities.some(c => v.city === c || v.city.includes(c.replace('市', '')))
+        );
+        
+        if (capacity) {
+            const capacityRanges = {
+                'small': v => (v.maxCapacityTheater || 0) <= 50,
+                'medium': v => (v.maxCapacityTheater || 0) > 50 && (v.maxCapacityTheater || 0) <= 200,
+                'large': v => (v.maxCapacityTheater || 0) > 200 && (v.maxCapacityTheater || 0) <= 500,
+                'xlarge': v => (v.maxCapacityTheater || 0) > 500
+            };
+            filtered = filtered.filter(capacityRanges[capacity]);
+        }
+        
+        filtered = sortVenues(filtered, sort);
+        renderVenues(filtered);
+        return;
+    }
     
     let filtered = venues.filter(type.filter);
     

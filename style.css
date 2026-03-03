@@ -302,6 +302,34 @@ body {
     font-size: 14px;
 }
 
+/* ===== 快速篩選按鈕 ===== */
+.quick-filters {
+    display: flex;
+    gap: var(--spacing-sm);
+}
+
+.quick-filter-btn {
+    background: var(--color-background-secondary);
+    border: none;
+    padding: var(--spacing-sm) var(--spacing-md);
+    border-radius: var(--radius-md);
+    font-size: 14px;
+    font-family: inherit;
+    cursor: pointer;
+    transition: all 0.2s ease;
+    color: var(--color-text);
+}
+
+.quick-filter-btn:hover {
+    background: var(--color-accent);
+    color: white;
+}
+
+.quick-filter-btn.active {
+    background: var(--color-accent);
+    color: white;
+}
+
 /* ===== 場地網格 ===== */
 .venues-grid {
     display: grid;
