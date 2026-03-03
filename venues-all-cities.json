@@ -3457,18 +3457,19 @@
     "url": "https://www.songyi-hotel.com/",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "待修",
+    "status": "下架",
     "roomType": "宴會廳",
     "notes": " [官網無法連線，需手動搜尋確認]",
     "missingFields": [
       "照片"
     ],
-    "lastUpdated": "2026-03-01T23:07:15.063Z",
+    "lastUpdated": "2026-03-03T01:32:16.488Z",
     "verificationStatus": "⚠️ 網站無法訪問",
     "verificationError": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.songyi-hotel.com/\nCall log:\n  - navigating to \"https://www.songyi-hotel.com/\", waiting until \"domcontentloaded\"\n",
     "lastVerified": "2026-03-03T01:53:00.000Z",
     "roomsCount": 2,
-    "verificationNotes": "DNS 解析失敗，無法驗證官網會議室數量。現有數據顯示 2 個會議室。"
+    "verificationNotes": "DNS 解析失敗，無法驗證官網會議室數量。現有數據顯示 2 個會議室。",
+    "statusNote": "DNS 解析失敗，官網已失效"
   },
   {
     "id": 1089,
@@ -3498,19 +3499,20 @@
     "url": "https://www.chateau-china.com/",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "待修",
+    "status": "下架",
     "roomType": "宴會廳",
     "notes": " [官網無法連線，需手動搜尋確認]",
     "missingFields": [
       "照片"
     ],
     "lastSearched": "2026-03-01T22:29:32.171Z",
-    "lastUpdated": "2026-03-01T23:07:15.063Z",
+    "lastUpdated": "2026-03-03T01:32:16.499Z",
     "verificationStatus": "⚠️ 網站無法訪問",
     "verificationError": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.chateau-china.com/\nCall log:\n  - navigating to \"https://www.chateau-china.com/\", waiting until \"domcontentloaded\"\n",
     "lastVerified": "2026-03-03T01:53:00.000Z",
     "roomsCount": 3,
-    "verificationNotes": "DNS 解析失敗，無法驗證官網會議室數量。現有數據顯示 3 個會議室。"
+    "verificationNotes": "DNS 解析失敗，無法驗證官網會議室數量。現有數據顯示 3 個會議室。",
+    "statusNote": "DNS 解析失敗，官網已失效"
   },
   {
     "id": 1090,
@@ -3592,17 +3594,18 @@
     "url": "https://www.san-want.com/",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "待修",
+    "status": "下架",
     "roomType": "宴會廳",
     "missingFields": [
       "會議室名稱（具體）"
     ],
-    "lastUpdated": "2026-03-01T23:07:15.063Z",
+    "lastUpdated": "2026-03-03T01:32:16.500Z",
     "verificationStatus": "⚠️ 網站無法訪問",
     "verificationError": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.san-want.com/\nCall log:\n  - navigating to \"https://www.san-want.com/\", waiting until \"domcontentloaded\"\n",
     "lastVerified": "2026-03-03T01:53:00.000Z",
     "roomsCount": 4,
-    "verificationNotes": "DNS 解析失敗，無法驗證官網會議室數量。現有數據顯示 4 個會議室。"
+    "verificationNotes": "DNS 解析失敗，無法驗證官網會議室數量。現有數據顯示 4 個會議室。",
+    "statusNote": "DNS 解析失敗，官網已失效"
   },
   {
     "id": 1092,
@@ -3669,18 +3672,19 @@
     "url": "https://www.first-hotel.com.tw/",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "待修",
+    "status": "下架",
     "roomType": "宴會廳",
     "notes": " [官網無法連線，需手動搜尋確認]",
     "missingFields": [
       "照片"
     ],
-    "lastUpdated": "2026-03-01T23:07:15.063Z",
+    "lastUpdated": "2026-03-03T01:32:16.500Z",
     "verificationStatus": "⚠️ 網站無法訪問",
     "verificationError": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.first-hotel.com.tw/\nCall log:\n  - navigating to \"https://www.first-hotel.com.tw/\", waiting until \"domcontentloaded\"\n",
     "lastVerified": "2026-03-03T01:53:00.000Z",
     "roomsCount": 2,
-    "verificationNotes": "DNS 解析失敗，無法驗證官網會議室數量。現有數據顯示 2 個會議室。"
+    "verificationNotes": "DNS 解析失敗，無法驗證官網會議室數量。現有數據顯示 2 個會議室。",
+    "statusNote": "DNS 解析失敗，官網已失效"
   },
   {
     "id": 1094,
@@ -3710,18 +3714,19 @@
     "url": "https://www.tongyi-hotel.com/",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "待修",
+    "status": "下架",
     "roomType": "宴會廳",
     "notes": " [官網無法連線，需手動搜尋確認]",
     "missingFields": [
       "照片"
     ],
-    "lastUpdated": "2026-03-01T23:07:15.063Z",
+    "lastUpdated": "2026-03-03T01:32:16.500Z",
     "verificationStatus": "⚠️ 網站無法訪問",
     "verificationError": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.tongyi-hotel.com/\nCall log:\n  - navigating to \"https://www.tongyi-hotel.com/\", waiting until \"domcontentloaded\"\n",
     "lastVerified": "2026-03-03T01:53:00.000Z",
     "roomsCount": 3,
-    "verificationNotes": "DNS 解析失敗，無法驗證官網會議室數量。現有數據顯示 3 個會議室。"
+    "verificationNotes": "DNS 解析失敗，無法驗證官網會議室數量。現有數據顯示 3 個會議室。",
+    "statusNote": "DNS 解析失敗，官網已失效"
   },
   {
     "id": 1095,
