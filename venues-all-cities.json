@@ -1268,7 +1268,7 @@
     "url": "https://www.goodmans-coffee.com/",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "下架",
+    "status": "待修",
     "roomType": "咖啡廳包場",
     "notes": " [官網無法連線，需手動搜尋確認]",
     "missingFields": [
@@ -1281,7 +1281,9 @@
     "verificationStatus": "非會議場地",
     "roomsCount": 1,
     "updateReason": "SOP V4.7 修復：設定 roomsCount",
-    "updateSource": "本地腳本自動修復"
+    "updateSource": "本地腳本自動修復",
+    "statusChangedAt": "2026-03-03T10:24:23.088Z",
+    "statusChangeReason": "SOP V4.7 完整驗證"
   },
   {
     "id": 1034,
@@ -1445,7 +1447,7 @@
     "url": "https://simplekaffa.com/",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "下架",
+    "status": "待修",
     "roomType": "咖啡廳包場",
     "lastVerified": "2026-03-02T09:52:23.503Z",
     "verifiedTitle": "興波咖啡 Simple Kaffa | 喝杯世界級的咖啡",
@@ -1454,7 +1456,9 @@
     "verificationStatus": "非會議場地",
     "roomsCount": 1,
     "updateReason": "SOP V4.7 修復：設定 roomsCount",
-    "updateSource": "本地腳本自動修復"
+    "updateSource": "本地腳本自動修復",
+    "statusChangedAt": "2026-03-03T10:24:23.089Z",
+    "statusChangeReason": "SOP V4.7 完整驗證"
   },
   {
     "id": 1037,
@@ -1507,7 +1511,7 @@
     "source": "官方網站",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "下架",
+    "status": "待修",
     "roomType": "會議室",
     "missingFields": [
       "照片"
@@ -1519,7 +1523,9 @@
     "verificationNote": "官網已無法連線（net::ERR_NAME_NOT_RESOLVED），可能已結束營業或網址變更",
     "roomsCount": 1,
     "updateReason": "SOP V4.7 修復：設定 roomsCount",
-    "updateSource": "本地腳本自動修復"
+    "updateSource": "本地腳本自動修復",
+    "statusChangedAt": "2026-03-03T10:24:23.089Z",
+    "statusChangeReason": "SOP V4.7 完整驗證"
   },
   {
     "id": 1038,
@@ -1611,7 +1617,7 @@
     "url": "https://www.wework.com",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "下架",
+    "status": "待修",
     "roomType": "共享空間",
     "missingFields": [
       "會議室名稱（具體）"
@@ -1621,7 +1627,9 @@
     "roomsCount": 1,
     "updateReason": "SOP V4.7 修復：設定 roomsCount",
     "updateSource": "本地腳本自動修復",
-    "lastUpdated": "2026-03-03T07:28:48.284Z"
+    "lastUpdated": "2026-03-03T07:28:48.284Z",
+    "statusChangedAt": "2026-03-03T10:24:23.089Z",
+    "statusChangeReason": "SOP V4.7 完整驗證"
   },
   {
     "name": "W飯店台北",
@@ -1644,7 +1652,7 @@
         }
       }
     ],
-    "status": "下架",
+    "status": "待修",
     "address": "台北市信義區忠孝東路五段10號",
     "contact": {
       "phone": "02-7708-8888"
@@ -1676,7 +1684,9 @@
     "lastUpdated": "2026-03-03T07:28:48.284Z",
     "roomsCount": 1,
     "updateReason": "SOP V4.7 修復：設定 roomsCount",
-    "updateSource": "本地腳本自動修復"
+    "updateSource": "本地腳本自動修復",
+    "statusChangedAt": "2026-03-03T10:24:23.089Z",
+    "statusChangeReason": "SOP V4.7 完整驗證"
   },
   {
     "id": 1041,
@@ -1809,7 +1819,7 @@
     "url": "https://www.courtyardtaipei.com.tw/zh-TW/",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "上架",
+    "status": "待修",
     "roomType": "宴會廳",
     "missingFields": [
       "照片"
@@ -1831,7 +1841,9 @@
     "lastUpdated": "2026-03-03T05:02:12.607Z",
     "notes": "位於南港車站上方，擁有大型宴會廳及多功能會議室。",
     "updateReason": "SOP V4.7 資料結構更新",
-    "updateSource": "手動驗證"
+    "updateSource": "手動驗證",
+    "statusChangedAt": "2026-03-03T10:24:23.089Z",
+    "statusChangeReason": "SOP V4.7 完整驗證"
   },
   {
     "id": 1044,
@@ -1958,7 +1970,7 @@
     "url": "https://www.marriott.com/en-us/hotels/tpewh-w-taipei/",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "下架",
+    "status": "待修",
     "roomType": "宴會廳",
     "notes": " [官網無法連線或擋爬蟲，需手動確認]",
     "missingFields": [
@@ -1971,7 +1983,9 @@
     "verificationNote": "缺少 venueListUrl",
     "roomsCount": 4,
     "updateReason": "SOP V4.7 修復：設定 roomsCount",
-    "updateSource": "本地腳本自動修復"
+    "updateSource": "本地腳本自動修復",
+    "statusChangedAt": "2026-03-03T10:24:23.089Z",
+    "statusChangeReason": "SOP V4.7 完整驗證"
   },
   {
     "id": 1048,
@@ -2001,7 +2015,7 @@
     "url": "https://www.ile-hotel.com",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "下架",
+    "status": "待修",
     "roomType": "宴會廳",
     "notes": " [官網無法連線，需手動搜尋確認]",
     "missingFields": [
@@ -2011,7 +2025,9 @@
     "lastUpdated": "2026-03-03T07:28:48.287Z",
     "roomsCount": 1,
     "updateReason": "SOP V4.7 修復：設定 roomsCount",
-    "updateSource": "本地腳本自動修復"
+    "updateSource": "本地腳本自動修復",
+    "statusChangedAt": "2026-03-03T10:24:23.089Z",
+    "statusChangeReason": "SOP V4.7 完整驗證"
   },
   {
     "id": 1049,
@@ -2094,7 +2110,7 @@
     "url": "https://www.dandyhotel.com.tw",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "下架",
+    "status": "待修",
     "roomType": "會議室",
     "notes": "",
     "missingFields": [
@@ -2105,7 +2121,9 @@
     "roomsCount": 1,
     "updateReason": "SOP V4.7 修復：設定 roomsCount",
     "updateSource": "本地腳本自動修復",
-    "lastUpdated": "2026-03-03T07:28:48.287Z"
+    "lastUpdated": "2026-03-03T07:28:48.287Z",
+    "statusChangedAt": "2026-03-03T10:24:23.089Z",
+    "statusChangeReason": "SOP V4.7 完整驗證"
   },
   {
     "id": 1051,
@@ -2193,7 +2211,7 @@
     "capacityCategory": "small",
     "targetAudience": "企業",
     "createdAt": "2026-02-26T00:00:00.000Z",
-    "status": "下架",
+    "status": "待修",
     "roomType": "會議室",
     "url": "https://www.cityinn.com.tw",
     "missingFields": [
@@ -2204,7 +2222,9 @@
     "roomsCount": 1,
     "updateReason": "SOP V4.7 修復：設定 roomsCount",
     "updateSource": "本地腳本自動修復",
-    "lastUpdated": "2026-03-03T07:28:48.287Z"
+    "lastUpdated": "2026-03-03T07:28:48.287Z",
+    "statusChangedAt": "2026-03-03T10:24:23.089Z",
+    "statusChangeReason": "SOP V4.7 完整驗證"
   },
   {
     "id": 1053,
@@ -2280,7 +2300,7 @@
     "url": "https://www.hotelbf.com",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "下架",
+    "status": "待修",
     "roomType": "會議室",
     "notes": " [官網無法連線，需手動搜尋確認]",
     "missingFields": [
@@ -2291,7 +2311,9 @@
     "lastUpdated": "2026-03-03T07:28:48.287Z",
     "roomsCount": 1,
     "updateReason": "SOP V4.7 修復：設定 roomsCount",
-    "updateSource": "本地腳本自動修復"
+    "updateSource": "本地腳本自動修復",
+    "statusChangedAt": "2026-03-03T10:24:23.089Z",
+    "statusChangeReason": "SOP V4.7 完整驗證"
   },
   {
     "id": 1055,
@@ -2373,7 +2395,7 @@
     "capacityCategory": "small",
     "targetAudience": "企業",
     "createdAt": "2026-02-26T00:00:00.000Z",
-    "status": "下架",
+    "status": "待修",
     "roomType": "會議室",
     "url": "https://www.courtyard.com/taipei-six",
     "missingFields": [
@@ -2385,7 +2407,9 @@
     "roomsCount": 1,
     "updateReason": "SOP V4.7 修復：設定 roomsCount",
     "updateSource": "本地腳本自動修復",
-    "lastUpdated": "2026-03-03T07:28:48.287Z"
+    "lastUpdated": "2026-03-03T07:28:48.287Z",
+    "statusChangedAt": "2026-03-03T10:24:23.089Z",
+    "statusChangeReason": "SOP V4.7 完整驗證"
   },
   {
     "id": 1057,
@@ -2415,7 +2439,7 @@
     "url": "https://www.denwell.com/",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "上架",
+    "status": "待修",
     "roomType": "婚宴會館",
     "notes": " [官網無法連線，需手動搜尋確認]",
     "missingFields": [
@@ -2431,8 +2455,8 @@
     "roomsCount": 1,
     "updateReason": "SOP V4.7 修復：設定 roomsCount",
     "updateSource": "本地腳本自動修復",
-    "statusChangedAt": "2026-03-03T09:09:29.362Z",
-    "statusChangeReason": "SOP V4.7 驗證：資料完整"
+    "statusChangedAt": "2026-03-03T10:24:23.089Z",
+    "statusChangeReason": "SOP V4.7 完整驗證"
   },
   {
     "id": 1058,
@@ -2462,7 +2486,7 @@
     "url": "https://btresort.metro.taipei/",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "上架",
+    "status": "待修",
     "roomType": "會議中心",
     "notes": " [官網無法連線，需手動搜尋確認]",
     "missingFields": [
@@ -2479,8 +2503,8 @@
     "roomsCount": 1,
     "updateReason": "SOP V4.7 修復：設定 roomsCount",
     "updateSource": "本地腳本自動修復",
-    "statusChangedAt": "2026-03-03T09:09:29.362Z",
-    "statusChangeReason": "SOP V4.7 驗證：資料完整"
+    "statusChangedAt": "2026-03-03T10:24:23.089Z",
+    "statusChangeReason": "SOP V4.7 完整驗證"
   },
   {
     "id": 1059,
@@ -2510,7 +2534,7 @@
     "url": "https://www.youchun-hotel.com",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "下架",
+    "status": "待修",
     "roomType": "宴會廳",
     "notes": " [官網無法連線，需手動搜尋確認]",
     "missingFields": [
@@ -2520,7 +2544,9 @@
     "lastUpdated": "2026-03-03T07:28:48.287Z",
     "roomsCount": 1,
     "updateReason": "SOP V4.7 修復：設定 roomsCount",
-    "updateSource": "本地腳本自動修復"
+    "updateSource": "本地腳本自動修復",
+    "statusChangedAt": "2026-03-03T10:24:23.089Z",
+    "statusChangeReason": "SOP V4.7 完整驗證"
   },
   {
     "id": 1060,
@@ -2556,7 +2582,7 @@
     "url": "https://www.palaisdechinehotel.com/",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "下架",
+    "status": "待修",
     "roomType": "宴會廳",
     "lastVerified": "2026-03-01T23:29:49.151Z",
     "verifiedTitle": "palaisdechine.com",
@@ -2565,7 +2591,9 @@
     "verificationNote": "缺少 venueListUrl",
     "roomsCount": 4,
     "updateReason": "SOP V4.7 修復：設定 roomsCount",
-    "updateSource": "本地腳本自動修復"
+    "updateSource": "本地腳本自動修復",
+    "statusChangedAt": "2026-03-03T10:24:23.089Z",
+    "statusChangeReason": "SOP V4.7 完整驗證"
   },
   {
     "id": 1061,
@@ -2619,7 +2647,7 @@
     "source": "官方網站",
     "verifiedAt": "2026-02-27",
     "verified": true,
-    "status": "下架",
+    "status": "待修",
     "roomType": "宴會廳",
     "lastVerified": "2026-03-01T23:29:54.259Z",
     "verifiedTitle": "Hyatt Hotels and Resorts",
@@ -2628,7 +2656,9 @@
     "verificationNote": "缺少 venueListUrl",
     "roomsCount": 4,
     "updateReason": "SOP V4.7 修復：設定 roomsCount",
-    "updateSource": "本地腳本自動修復"
+    "updateSource": "本地腳本自動修復",
+    "statusChangedAt": "2026-03-03T10:24:23.089Z",
+    "statusChangeReason": "SOP V4.7 完整驗證"
   },
   {
     "id": 1062,
@@ -2665,7 +2695,7 @@
     "hasOnlineBooking": false,
     "bookingUrl": null,
     "createdAt": "2026-02-26T00:00:00.000Z",
-    "status": "下架",
+    "status": "待修",
     "roomType": "會議室",
     "url": "https://www.hyatt.com/taipei",
     "missingFields": [
@@ -2676,7 +2706,9 @@
     "roomsCount": 4,
     "updateReason": "SOP V4.7 修復：設定 roomsCount",
     "updateSource": "本地腳本自動修復",
-    "lastUpdated": "2026-03-03T07:28:48.287Z"
+    "lastUpdated": "2026-03-03T07:28:48.287Z",
+    "statusChangedAt": "2026-03-03T10:24:23.089Z",
+    "statusChangeReason": "SOP V4.7 完整驗證"
   },
   {
     "id": 1063,
@@ -2713,7 +2745,7 @@
     "hasOnlineBooking": false,
     "bookingUrl": null,
     "createdAt": "2026-02-26T00:00:00.000Z",
-    "status": "下架",
+    "status": "待修",
     "roomType": "會議室",
     "url": "https://www.hyatt.com/taipei",
     "missingFields": [
@@ -2724,7 +2756,9 @@
     "roomsCount": 4,
     "updateReason": "SOP V4.7 修復：設定 roomsCount",
     "updateSource": "本地腳本自動修復",
-    "lastUpdated": "2026-03-03T07:28:48.287Z"
+    "lastUpdated": "2026-03-03T07:28:48.287Z",
+    "statusChangedAt": "2026-03-03T10:24:23.089Z",
+    "statusChangeReason": "SOP V4.7 完整驗證"
   },
   {
     "id": 1064,
@@ -2754,7 +2788,7 @@
     "url": "https://www.grandhyatt.com/taipei",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "下架",
+    "status": "待修",
     "roomType": "宴會廳",
     "notes": " [官網無法連線或擋爬蟲，需手動確認]",
     "missingFields": [
@@ -2765,7 +2799,9 @@
     "roomsCount": 4,
     "updateReason": "SOP V4.7 修復：設定 roomsCount",
     "updateSource": "本地腳本自動修復",
-    "lastUpdated": "2026-03-03T07:28:48.287Z"
+    "lastUpdated": "2026-03-03T07:28:48.287Z",
+    "statusChangedAt": "2026-03-03T10:24:23.089Z",
+    "statusChangeReason": "SOP V4.7 完整驗證"
   },
   {
     "id": 1065,
@@ -2795,7 +2831,7 @@
     "url": "https://www.victoriam.com/",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "下架",
+    "status": "待修",
     "roomType": "會議中心",
     "notes": " [官網無法連線或擋爬蟲，需手動確認]",
     "missingFields": [
@@ -2809,7 +2845,9 @@
     "verificationNote": "已更名或歇業",
     "roomsCount": 1,
     "updateReason": "SOP V4.7 修復：設定 roomsCount",
-    "updateSource": "本地腳本自動修復"
+    "updateSource": "本地腳本自動修復",
+    "statusChangedAt": "2026-03-03T10:24:23.089Z",
+    "statusChangeReason": "SOP V4.7 完整驗證"
   },
   {
     "id": 1066,
@@ -2839,7 +2877,7 @@
     "url": "http://www.tbc-group.com/",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "下架",
+    "status": "待修",
     "roomType": "會議中心",
     "notes": " [官網無法連線，需手動搜尋確認]",
     "missingFields": [
@@ -2854,7 +2892,9 @@
     "verificationNote": "官網失效（DNS錯誤）",
     "roomsCount": 1,
     "updateReason": "SOP V4.7 修復：設定 roomsCount",
-    "updateSource": "本地腳本自動修復"
+    "updateSource": "本地腳本自動修復",
+    "statusChangedAt": "2026-03-03T10:24:23.089Z",
+    "statusChangeReason": "SOP V4.7 完整驗證"
   },
   {
     "id": 1067,
@@ -2936,7 +2976,7 @@
     "url": "https://www.ambiencehotel.com.tw/",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "上架",
+    "status": "待修",
     "roomType": "宴會廳",
     "notes": " [官網無法連線，需手動搜尋確認]",
     "missingFields": [
@@ -2951,8 +2991,8 @@
     "roomsCount": 1,
     "updateReason": "SOP V4.7 修復：設定 roomsCount",
     "updateSource": "本地腳本自動修復",
-    "statusChangedAt": "2026-03-03T09:09:29.362Z",
-    "statusChangeReason": "SOP V4.7 驗證：資料完整"
+    "statusChangedAt": "2026-03-03T10:24:23.089Z",
+    "statusChangeReason": "SOP V4.7 完整驗證"
   },
   {
     "id": 1069,
@@ -2983,7 +3023,7 @@
     "url": "https://www.ambassador-hotels.com/tc/taipei",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "下架",
+    "status": "待修",
     "roomType": "宴會廳",
     "lastUpdated": "2026-03-03T07:28:48.287Z",
     "lastVerified": "2026-03-02T10:34:35.908Z",
@@ -2992,7 +3032,9 @@
     "verificationNote": "本館改建中",
     "roomsCount": 5,
     "updateReason": "SOP V4.7 修復：設定 roomsCount",
-    "updateSource": "本地腳本自動修復"
+    "updateSource": "本地腳本自動修復",
+    "statusChangedAt": "2026-03-03T10:24:23.089Z",
+    "statusChangeReason": "SOP V4.7 完整驗證"
   },
   {
     "id": 1072,
@@ -3072,7 +3114,7 @@
     "url": "https://www.zibei-hotel.com",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "下架",
+    "status": "待修",
     "roomType": "宴會廳",
     "notes": " [官網無法連線，需手動搜尋確認]",
     "missingFields": [
@@ -3082,7 +3124,9 @@
     "lastUpdated": "2026-03-03T07:28:48.287Z",
     "roomsCount": 1,
     "updateReason": "SOP V4.7 修復：設定 roomsCount",
-    "updateSource": "本地腳本自動修復"
+    "updateSource": "本地腳本自動修復",
+    "statusChangedAt": "2026-03-03T10:24:23.089Z",
+    "statusChangeReason": "SOP V4.7 完整驗證"
   },
   {
     "id": 1074,
@@ -3121,7 +3165,7 @@
     "hasOnlineBooking": false,
     "bookingUrl": null,
     "createdAt": "2026-02-26T00:00:00.000Z",
-    "status": "上架",
+    "status": "待修",
     "roomType": "宴會廳",
     "url": "https://taipei.metropolitan.tw/",
     "lastVerified": "2026-03-01T23:31:15.675Z",
@@ -3132,8 +3176,8 @@
     "roomsCount": 5,
     "updateReason": "品牌變更：威斯汀六福皇宮 → JR東日本大飯店台北",
     "updateSource": "用戶提供",
-    "statusChangedAt": "2026-03-03T09:09:29.362Z",
-    "statusChangeReason": "SOP V4.7 驗證：資料完整"
+    "statusChangedAt": "2026-03-03T10:24:23.089Z",
+    "statusChangeReason": "SOP V4.7 完整驗證"
   },
   {
     "name": "台北寒舍喜來登大飯店",
@@ -3307,7 +3351,7 @@
     "url": "https://www.humblehouse.com",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "下架",
+    "status": "待修",
     "roomType": "宴會廳",
     "lastVerified": "2026-03-01T23:31:27.440Z",
     "verifiedTitle": "www.humblehouse.com - Coming Soon",
@@ -3316,7 +3360,9 @@
     "roomsCount": 1,
     "updateReason": "SOP V4.7 修復：設定 roomsCount",
     "updateSource": "本地腳本自動修復",
-    "lastUpdated": "2026-03-03T07:28:48.287Z"
+    "lastUpdated": "2026-03-03T07:28:48.287Z",
+    "statusChangedAt": "2026-03-03T10:24:23.089Z",
+    "statusChangeReason": "SOP V4.7 完整驗證"
   },
   {
     "id": 1079,
@@ -3346,7 +3392,7 @@
     "url": "https://www.taipeiarena.com",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "下架",
+    "status": "待修",
     "roomType": "體育館",
     "notes": " [官網無法連線或擋爬蟲，需手動確認]",
     "missingFields": [
@@ -3358,7 +3404,9 @@
     "roomsCount": 1,
     "updateReason": "SOP V4.7 修復：設定 roomsCount",
     "updateSource": "本地腳本自動修復",
-    "lastUpdated": "2026-03-03T07:28:48.287Z"
+    "lastUpdated": "2026-03-03T07:28:48.287Z",
+    "statusChangedAt": "2026-03-03T10:24:23.089Z",
+    "statusChangeReason": "SOP V4.7 完整驗證"
   },
   {
     "id": 1080,
@@ -3388,7 +3436,7 @@
     "url": "https://www.kanghua-hotel.com",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "下架",
+    "status": "待修",
     "roomType": "宴會廳",
     "notes": " [官網無法連線，需手動搜尋確認]",
     "missingFields": [
@@ -3398,7 +3446,9 @@
     "lastUpdated": "2026-03-03T07:28:48.288Z",
     "roomsCount": 1,
     "updateReason": "SOP V4.7 修復：設定 roomsCount",
-    "updateSource": "本地腳本自動修復"
+    "updateSource": "本地腳本自動修復",
+    "statusChangedAt": "2026-03-03T10:24:23.089Z",
+    "statusChangeReason": "SOP V4.7 完整驗證"
   },
   {
     "id": 1081,
@@ -3428,7 +3478,7 @@
     "url": "https://www.midtownrichard.com/",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "下架",
+    "status": "待修",
     "roomType": "宴會廳",
     "notes": " [官網無法連線，需手動搜尋確認]",
     "missingFields": [
@@ -3440,7 +3490,9 @@
     "lastVerified": "2026-03-02T09:52:23.503Z",
     "roomsCount": 1,
     "updateReason": "SOP V4.7 修復：設定 roomsCount",
-    "updateSource": "本地腳本自動修復"
+    "updateSource": "本地腳本自動修復",
+    "statusChangedAt": "2026-03-03T10:24:23.089Z",
+    "statusChangeReason": "SOP V4.7 完整驗證"
   },
   {
     "id": 1082,
@@ -3576,7 +3628,7 @@
     "url": "https://www.ching-tai.com",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "下架",
+    "status": "待修",
     "roomType": "宴會廳",
     "notes": " [官網無法連線或擋爬蟲，需手動確認]",
     "missingFields": [
@@ -3586,7 +3638,9 @@
     "lastUpdated": "2026-03-03T07:28:48.288Z",
     "roomsCount": 1,
     "updateReason": "SOP V4.7 修復：設定 roomsCount",
-    "updateSource": "本地腳本自動修復"
+    "updateSource": "本地腳本自動修復",
+    "statusChangedAt": "2026-03-03T10:24:23.089Z",
+    "statusChangeReason": "SOP V4.7 完整驗證"
   },
   {
     "id": 1085,
@@ -3772,7 +3826,7 @@
     "url": "https://www.regenthotels.com/taipei",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "下架",
+    "status": "待修",
     "roomType": "宴會廳",
     "notes": " [官網無法連線或擋爬蟲，需手動確認]",
     "missingFields": [
@@ -3783,7 +3837,9 @@
     "roomsCount": 1,
     "updateReason": "SOP V4.7 修復：設定 roomsCount",
     "updateSource": "本地腳本自動修復",
-    "lastUpdated": "2026-03-03T07:28:48.288Z"
+    "lastUpdated": "2026-03-03T07:28:48.288Z",
+    "statusChangedAt": "2026-03-03T10:24:23.089Z",
+    "statusChangeReason": "SOP V4.7 完整驗證"
   },
   {
     "id": 1088,
@@ -3813,7 +3869,7 @@
     "url": "https://www.songyi-hotel.com/",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "下架",
+    "status": "待修",
     "roomType": "宴會廳",
     "notes": " [官網無法連線，需手動搜尋確認]",
     "missingFields": [
@@ -3825,7 +3881,9 @@
     "lastVerified": "2026-03-03T01:53:00.000Z",
     "roomsCount": 2,
     "verificationNotes": "DNS 解析失敗，無法驗證官網會議室數量。現有數據顯示 2 個會議室。",
-    "statusNote": "DNS 解析失敗，官網已失效"
+    "statusNote": "DNS 解析失敗，官網已失效",
+    "statusChangedAt": "2026-03-03T10:24:23.089Z",
+    "statusChangeReason": "SOP V4.7 完整驗證"
   },
   {
     "id": 1089,
@@ -3855,7 +3913,7 @@
     "url": "https://www.chateau-china.com/",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "下架",
+    "status": "待修",
     "roomType": "宴會廳",
     "notes": " [官網無法連線，需手動搜尋確認]",
     "missingFields": [
@@ -3868,7 +3926,9 @@
     "lastVerified": "2026-03-03T01:53:00.000Z",
     "roomsCount": 3,
     "verificationNotes": "DNS 解析失敗，無法驗證官網會議室數量。現有數據顯示 3 個會議室。",
-    "statusNote": "DNS 解析失敗，官網已失效"
+    "statusNote": "DNS 解析失敗，官網已失效",
+    "statusChangedAt": "2026-03-03T10:24:23.089Z",
+    "statusChangeReason": "SOP V4.7 完整驗證"
   },
   {
     "id": 1090,
@@ -3969,7 +4029,7 @@
     "url": "https://www.san-want.com/",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "下架",
+    "status": "待修",
     "roomType": "宴會廳",
     "missingFields": [
       "會議室名稱（具體）"
@@ -3980,7 +4040,9 @@
     "lastVerified": "2026-03-03T01:53:00.000Z",
     "roomsCount": 4,
     "verificationNotes": "DNS 解析失敗，無法驗證官網會議室數量。現有數據顯示 4 個會議室。",
-    "statusNote": "DNS 解析失敗，官網已失效"
+    "statusNote": "DNS 解析失敗，官網已失效",
+    "statusChangedAt": "2026-03-03T10:24:23.089Z",
+    "statusChangeReason": "SOP V4.7 完整驗證"
   },
   {
     "id": 1092,
@@ -4010,7 +4072,7 @@
     "url": "https://www.firsthotel.com",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "下架",
+    "status": "待修",
     "roomType": "宴會廳",
     "notes": " [官網無法連線或擋爬蟲，需手動確認]",
     "missingFields": [
@@ -4020,7 +4082,9 @@
     "lastUpdated": "2026-03-03T07:28:48.288Z",
     "roomsCount": 1,
     "updateReason": "SOP V4.7 修復：設定 roomsCount",
-    "updateSource": "本地腳本自動修復"
+    "updateSource": "本地腳本自動修復",
+    "statusChangedAt": "2026-03-03T10:24:23.089Z",
+    "statusChangeReason": "SOP V4.7 完整驗證"
   },
   {
     "id": 1093,
@@ -4050,7 +4114,7 @@
     "url": "https://www.first-hotel.com.tw/",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "下架",
+    "status": "待修",
     "roomType": "宴會廳",
     "notes": " [官網無法連線，需手動搜尋確認]",
     "missingFields": [
@@ -4062,7 +4126,9 @@
     "lastVerified": "2026-03-03T01:53:00.000Z",
     "roomsCount": 2,
     "verificationNotes": "DNS 解析失敗，無法驗證官網會議室數量。現有數據顯示 2 個會議室。",
-    "statusNote": "DNS 解析失敗，官網已失效"
+    "statusNote": "DNS 解析失敗，官網已失效",
+    "statusChangedAt": "2026-03-03T10:24:23.089Z",
+    "statusChangeReason": "SOP V4.7 完整驗證"
   },
   {
     "id": 1094,
@@ -4092,7 +4158,7 @@
     "url": "https://www.tongyi-hotel.com/",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "下架",
+    "status": "待修",
     "roomType": "宴會廳",
     "notes": " [官網無法連線，需手動搜尋確認]",
     "missingFields": [
@@ -4104,7 +4170,9 @@
     "lastVerified": "2026-03-03T01:53:00.000Z",
     "roomsCount": 3,
     "verificationNotes": "DNS 解析失敗，無法驗證官網會議室數量。現有數據顯示 3 個會議室。",
-    "statusNote": "DNS 解析失敗，官網已失效"
+    "statusNote": "DNS 解析失敗，官網已失效",
+    "statusChangedAt": "2026-03-03T10:24:23.089Z",
+    "statusChangeReason": "SOP V4.7 完整驗證"
   },
   {
     "id": 1095,
@@ -4190,7 +4258,7 @@
     "url": "https://www.grandmayfull.com",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "下架",
+    "status": "上架",
     "roomType": "宴會廳",
     "lastVerified": "2026-03-02T13:09:51.937Z",
     "verifiedTitle": "Grand Mayfull Hotel Taipei",
@@ -4201,7 +4269,9 @@
     "roomsCount": 2,
     "updateReason": "SOP V4.7 修復：設定 roomsCount",
     "updateSource": "本地腳本自動修復",
-    "lastUpdated": "2026-03-03T07:25:54.260Z"
+    "lastUpdated": "2026-03-03T07:25:54.260Z",
+    "statusChangedAt": "2026-03-03T10:24:23.089Z",
+    "statusChangeReason": "SOP V4.7 完整驗證"
   },
   {
     "id": 1097,
@@ -4343,7 +4413,7 @@
     "source": "官方網站",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "下架",
+    "status": "上架",
     "roomType": "宴會廳",
     "lastVerified": "2026-03-02T13:10:33.187Z",
     "verifiedTitle": "Modern Hotels | Le Méridien Hotels & Resorts",
@@ -4352,7 +4422,9 @@
     "roomsCount": 2,
     "updateReason": "SOP V4.7 修復：設定 roomsCount",
     "updateSource": "本地腳本自動修復",
-    "lastUpdated": "2026-03-03T07:25:54.260Z"
+    "lastUpdated": "2026-03-03T07:25:54.260Z",
+    "statusChangedAt": "2026-03-03T10:24:23.089Z",
+    "statusChangeReason": "SOP V4.7 完整驗證"
   },
   {
     "id": 1100,
@@ -4427,7 +4499,7 @@
     "url": "https://www.imperial-hotel.com.tw/",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "下架",
+    "status": "待修",
     "roomType": "宴會廳",
     "notes": " [官網無法連線，需手動搜尋確認]",
     "missingFields": [
@@ -4439,7 +4511,9 @@
     "lastVerified": "2026-03-02T09:52:23.503Z",
     "roomsCount": 1,
     "updateReason": "SOP V4.7 修復：設定 roomsCount",
-    "updateSource": "本地腳本自動修復"
+    "updateSource": "本地腳本自動修復",
+    "statusChangedAt": "2026-03-03T10:24:23.089Z",
+    "statusChangeReason": "SOP V4.7 完整驗證"
   },
   {
     "id": 1102,
@@ -4469,7 +4543,7 @@
     "url": "https://www.gloria-residence.com/",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "下架",
+    "status": "待修",
     "roomType": "宴會廳",
     "notes": " [官網無法連線，需手動搜尋確認]",
     "missingFields": [
@@ -4481,7 +4555,9 @@
     "lastVerified": "2026-03-02T09:52:23.503Z",
     "roomsCount": 1,
     "updateReason": "SOP V4.7 修復：設定 roomsCount",
-    "updateSource": "本地腳本自動修復"
+    "updateSource": "本地腳本自動修復",
+    "statusChangedAt": "2026-03-03T10:24:23.089Z",
+    "statusChangeReason": "SOP V4.7 完整驗證"
   },
   {
     "id": 1103,
@@ -4563,13 +4639,15 @@
     "url": "https://www.sherwood.com.tw",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "下架",
+    "status": "待修",
     "roomType": "宴會廳",
     "note": "2022年2月結束營業",
     "lastUpdated": "2026-03-03T07:28:48.288Z",
     "roomsCount": 1,
     "updateReason": "SOP V4.7 修復：設定 roomsCount",
-    "updateSource": "本地腳本自動修復"
+    "updateSource": "本地腳本自動修復",
+    "statusChangedAt": "2026-03-03T10:24:23.089Z",
+    "statusChangeReason": "SOP V4.7 完整驗證"
   },
   {
     "id": 1105,
@@ -4599,7 +4677,7 @@
     "url": "https://www.landisresort.com/",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "下架",
+    "status": "待修",
     "roomType": "宴會廳",
     "notes": " [官網無法連線，需手動搜尋確認]",
     "missingFields": [
@@ -4611,7 +4689,9 @@
     "lastVerified": "2026-03-02T09:52:23.503Z",
     "roomsCount": 1,
     "updateReason": "SOP V4.7 修復：設定 roomsCount",
-    "updateSource": "本地腳本自動修復"
+    "updateSource": "本地腳本自動修復",
+    "statusChangedAt": "2026-03-03T10:24:23.089Z",
+    "statusChangeReason": "SOP V4.7 完整驗證"
   },
   {
     "name": "台北香格里拉遠東國際大飯店",
@@ -4703,7 +4783,7 @@
     "url": "https://sports.gov.taipei/",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "上架",
+    "status": "待修",
     "roomType": "體育館",
     "notes": " [官網無法連線或擋爬蟲，需手動確認]",
     "missingFields": [
@@ -4719,8 +4799,8 @@
     "roomsCount": 1,
     "updateReason": "SOP V4.7 修復：設定 roomsCount",
     "updateSource": "本地腳本自動修復",
-    "statusChangedAt": "2026-03-03T09:09:29.362Z",
-    "statusChangeReason": "SOP V4.7 驗證：資料完整"
+    "statusChangedAt": "2026-03-03T10:24:23.089Z",
+    "statusChangeReason": "SOP V4.7 完整驗證"
   },
   {
     "id": 1108,
@@ -4750,7 +4830,7 @@
     "url": "http://www.ntualumni.org.tw/",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "下架",
+    "status": "待修",
     "roomType": "會議中心",
     "notes": " [官網無法連線或擋爬蟲，需手動確認]",
     "missingFields": [
@@ -4765,7 +4845,9 @@
     "note": "官網無法連線，需確認營運狀態",
     "roomsCount": 1,
     "updateReason": "SOP V4.7 修復：設定 roomsCount",
-    "updateSource": "本地腳本自動修復"
+    "updateSource": "本地腳本自動修復",
+    "statusChangedAt": "2026-03-03T10:24:23.089Z",
+    "statusChangeReason": "SOP V4.7 完整驗證"
   },
   {
     "id": 1109,
@@ -4844,7 +4926,7 @@
     "url": "https://www.taipeiexpopark.tw/",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "下架",
+    "status": "待修",
     "roomType": "展覽館",
     "notes": " [官網無法連線，需手動搜尋確認]",
     "missingFields": [
@@ -4857,7 +4939,9 @@
     "lastVerified": "2026-03-02T09:52:23.503Z",
     "roomsCount": 1,
     "updateReason": "SOP V4.7 修復：設定 roomsCount",
-    "updateSource": "本地腳本自動修復"
+    "updateSource": "本地腳本自動修復",
+    "statusChangedAt": "2026-03-03T10:24:23.089Z",
+    "statusChangeReason": "SOP V4.7 完整驗證"
   },
   {
     "id": 1112,
@@ -4887,7 +4971,7 @@
     "url": "https://www.tms.gov.taipei/",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "下架",
+    "status": "待修",
     "roomType": "體育館",
     "notes": " [官網無法連線，需手動搜尋確認]",
     "missingFields": [
@@ -4900,7 +4984,9 @@
     "lastVerified": "2026-03-02T09:52:23.503Z",
     "roomsCount": 1,
     "updateReason": "SOP V4.7 修復：設定 roomsCount",
-    "updateSource": "本地腳本自動修復"
+    "updateSource": "本地腳本自動修復",
+    "statusChangedAt": "2026-03-03T10:24:23.089Z",
+    "statusChangeReason": "SOP V4.7 完整驗證"
   },
   {
     "name": "寒舍艾美酒店",
@@ -4990,7 +5076,7 @@
     "url": "https://itcc.yff.org.tw/",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "下架",
+    "status": "待修",
     "roomType": "會議中心",
     "lastUpdated": "2026-03-03T07:28:48.288Z",
     "verificationStatus": "待修",
@@ -5000,7 +5086,9 @@
     "lastVerified": "2026-03-02T10:34:56.880Z",
     "roomsCount": 4,
     "updateReason": "SOP V4.7 修復：設定 roomsCount",
-    "updateSource": "本地腳本自動修復"
+    "updateSource": "本地腳本自動修復",
+    "statusChangedAt": "2026-03-03T10:24:23.089Z",
+    "statusChangeReason": "SOP V4.7 完整驗證"
   },
   {
     "id": 1116,
@@ -5077,7 +5165,7 @@
     "url": "https://www.fuxing.space/",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "下架",
+    "status": "待修",
     "roomType": "共享空間",
     "notes": " [官網無法連線，需手動搜尋確認]",
     "missingFields": [
@@ -5089,7 +5177,9 @@
     "lastVerified": "2026-03-02T09:52:23.503Z",
     "roomsCount": 1,
     "updateReason": "SOP V4.7 修復：設定 roomsCount",
-    "updateSource": "本地腳本自動修復"
+    "updateSource": "本地腳本自動修復",
+    "statusChangedAt": "2026-03-03T10:24:23.089Z",
+    "statusChangeReason": "SOP V4.7 完整驗證"
   },
   {
     "id": 1119,
@@ -5119,7 +5209,7 @@
     "url": "https://www.mandarin-wedding.com/",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "下架",
+    "status": "待修",
     "roomType": "婚宴會館",
     "notes": " [官網無法連線，需手動搜尋確認]",
     "missingFields": [
@@ -5131,7 +5221,9 @@
     "lastVerified": "2026-03-02T09:52:23.503Z",
     "roomsCount": 1,
     "updateReason": "SOP V4.7 修復：設定 roomsCount",
-    "updateSource": "本地腳本自動修復"
+    "updateSource": "本地腳本自動修復",
+    "statusChangedAt": "2026-03-03T10:24:23.089Z",
+    "statusChangeReason": "SOP V4.7 完整驗證"
   },
   {
     "id": 1120,
@@ -5162,7 +5254,7 @@
     "url": "https://www.siihub.org/",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "下架",
+    "status": "待修",
     "roomType": "共享空間",
     "notes": " [官網無法連線，需手動搜尋確認]",
     "missingFields": [
@@ -5174,7 +5266,9 @@
     "lastVerified": "2026-03-02T09:52:23.503Z",
     "roomsCount": 1,
     "updateReason": "SOP V4.7 修復：設定 roomsCount",
-    "updateSource": "本地腳本自動修復"
+    "updateSource": "本地腳本自動修復",
+    "statusChangedAt": "2026-03-03T10:24:23.089Z",
+    "statusChangeReason": "SOP V4.7 完整驗證"
   },
   {
     "id": 1121,
@@ -5307,7 +5401,7 @@
     "url": "https://www.taipeiexpopark.tw/",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "下架",
+    "status": "待修",
     "roomType": "展覽館",
     "notes": " [官網無法連線，需手動搜尋確認]",
     "missingFields": [
@@ -5320,7 +5414,9 @@
     "lastVerified": "2026-03-02T09:52:23.503Z",
     "roomsCount": 1,
     "updateReason": "SOP V4.7 修復：設定 roomsCount",
-    "updateSource": "本地腳本自動修復"
+    "updateSource": "本地腳本自動修復",
+    "statusChangedAt": "2026-03-03T10:24:23.089Z",
+    "statusChangeReason": "SOP V4.7 完整驗證"
   },
   {
     "id": 1124,
@@ -5532,7 +5628,7 @@
     "url": "https://www.secondfloor.com.tw/",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "下架",
+    "status": "待修",
     "roomType": "餐廳包場",
     "notes": " [官網無法連線，需手動搜尋確認]",
     "missingFields": [
@@ -5544,7 +5640,9 @@
     "lastVerified": "2026-03-02T09:52:23.503Z",
     "roomsCount": 1,
     "updateReason": "SOP V4.7 修復：設定 roomsCount",
-    "updateSource": "本地腳本自動修復"
+    "updateSource": "本地腳本自動修復",
+    "statusChangedAt": "2026-03-03T10:24:23.089Z",
+    "statusChangeReason": "SOP V4.7 完整驗證"
   },
   {
     "id": 1128,
@@ -13047,7 +13145,7 @@
     "url": "https://www.cksmh.gov.tw",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "上架",
+    "status": "待修",
     "roomType": "演藝廳",
     "missingFields": [
       "教室式人數",
@@ -13061,8 +13159,8 @@
     "updateReason": "SOP V4.7 修復：設定 roomsCount",
     "updateSource": "本地腳本自動修復",
     "lastUpdated": "2026-03-03T07:28:48.289Z",
-    "statusChangedAt": "2026-03-03T09:09:29.362Z",
-    "statusChangeReason": "SOP V4.7 驗證：資料完整"
+    "statusChangedAt": "2026-03-03T10:24:23.089Z",
+    "statusChangeReason": "SOP V4.7 完整驗證"
   },
   {
     "id": 1334,
@@ -13093,7 +13191,7 @@
     "url": "https://cssc.cyc.org.tw/",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "上架",
+    "status": "待修",
     "roomType": "活動中心",
     "missingFields": [
       "照片"
@@ -13107,8 +13205,8 @@
     "roomsCount": 1,
     "updateReason": "SOP V4.7 修復：設定 roomsCount",
     "updateSource": "本地腳本自動修復",
-    "statusChangedAt": "2026-03-03T09:09:29.362Z",
-    "statusChangeReason": "SOP V4.7 驗證：資料完整"
+    "statusChangedAt": "2026-03-03T10:24:23.089Z",
+    "statusChangeReason": "SOP V4.7 完整驗證"
   },
   {
     "id": 1335,
@@ -13139,7 +13237,7 @@
     "url": "https://xysc.cyc.org.tw/",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "下架",
+    "status": "待修",
     "roomType": "會議室",
     "missingFields": [
       "會議室名稱（具體）",
@@ -13153,7 +13251,9 @@
     "note": "原官網無法連線，需搜尋新官網",
     "roomsCount": 1,
     "updateReason": "SOP V4.7 修復：設定 roomsCount",
-    "updateSource": "本地腳本自動修復"
+    "updateSource": "本地腳本自動修復",
+    "statusChangedAt": "2026-03-03T10:24:23.089Z",
+    "statusChangeReason": "SOP V4.7 完整驗證"
   },
   {
     "id": 1336,
@@ -13184,7 +13284,7 @@
     "url": "https://nhsc.cyc.org.tw/",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "上架",
+    "status": "待修",
     "roomType": "活動中心",
     "missingFields": [
       "照片"
@@ -13199,8 +13299,8 @@
     "roomsCount": 1,
     "updateReason": "SOP V4.7 修復：設定 roomsCount",
     "updateSource": "本地腳本自動修復",
-    "statusChangedAt": "2026-03-03T09:09:29.362Z",
-    "statusChangeReason": "SOP V4.7 驗證：資料完整"
+    "statusChangedAt": "2026-03-03T10:24:23.089Z",
+    "statusChangeReason": "SOP V4.7 完整驗證"
   },
   {
     "id": 1337,
@@ -13230,7 +13330,7 @@
     "url": "https://www.yatsen.gov.tw/",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "上架",
+    "status": "待修",
     "roomType": "演藝廳",
     "missingFields": [
       "教室式人數",
@@ -13246,8 +13346,8 @@
     "roomsCount": 1,
     "updateReason": "SOP V4.7 修復：設定 roomsCount",
     "updateSource": "本地腳本自動修復",
-    "statusChangedAt": "2026-03-03T09:09:29.362Z",
-    "statusChangeReason": "SOP V4.7 驗證：資料完整"
+    "statusChangedAt": "2026-03-03T10:24:23.089Z",
+    "statusChangeReason": "SOP V4.7 完整驗證"
   },
   {
     "id": 1338,
@@ -13310,7 +13410,7 @@
     "category": "機關場地",
     "needsReview": true,
     "reviewNote": "機關場地申請方式複雜，需要驗證申請流程、價格、可用時間等資訊",
-    "status": "下架",
+    "status": "待修",
     "roomType": "會議室",
     "missingFields": [
       "價格",
@@ -13325,7 +13425,9 @@
     "verificationNote": "缺少 venueListUrl",
     "roomsCount": 1,
     "updateReason": "SOP V4.7 修復：設定 roomsCount",
-    "updateSource": "本地腳本自動修復"
+    "updateSource": "本地腳本自動修復",
+    "statusChangedAt": "2026-03-03T10:24:23.089Z",
+    "statusChangeReason": "SOP V4.7 完整驗證"
   },
   {
     "name": "朱崙區民活動中心",
@@ -13342,7 +13444,7 @@
         "equipment": []
       }
     ],
-    "status": "下架",
+    "status": "待修",
     "address": "台北市中山區龍江路15號3樓",
     "contact": {
       "phone": "02-25031369轉506"
@@ -13375,7 +13477,9 @@
     "statusNote": "無會議室記錄，自動下架",
     "roomsCount": 1,
     "updateReason": "SOP V4.7 修復：設定 roomsCount",
-    "updateSource": "本地腳本自動修復"
+    "updateSource": "本地腳本自動修復",
+    "statusChangedAt": "2026-03-03T10:24:23.089Z",
+    "statusChangeReason": "SOP V4.7 完整驗證"
   },
   {
     "id": 1340,
@@ -13447,7 +13551,7 @@
     "category": "機關場地",
     "needsReview": true,
     "reviewNote": "機關場地申請方式複雜，需要驗證申請流程、價格、可用時間等資訊",
-    "status": "下架",
+    "status": "待修",
     "roomType": "活動中心",
     "missingFields": [
       "價格",
@@ -13463,7 +13567,9 @@
     "note": "原官網無法連線，需搜尋新官網",
     "roomsCount": 1,
     "updateReason": "SOP V4.7 修復：設定 roomsCount",
-    "updateSource": "本地腳本自動修復"
+    "updateSource": "本地腳本自動修復",
+    "statusChangedAt": "2026-03-03T10:24:23.089Z",
+    "statusChangeReason": "SOP V4.7 完整驗證"
   },
   {
     "name": "林森三區民活動中心",
@@ -13486,7 +13592,7 @@
         }
       }
     ],
-    "status": "下架",
+    "status": "待修",
     "address": "台北市林森北路67巷7號3樓",
     "contact": {
       "phone": "02-25031369轉506"
@@ -13519,7 +13625,9 @@
     "statusNote": "無會議室記錄，自動下架",
     "roomsCount": 1,
     "updateReason": "SOP V4.7 修復：設定 roomsCount",
-    "updateSource": "本地腳本自動修復"
+    "updateSource": "本地腳本自動修復",
+    "statusChangedAt": "2026-03-03T10:24:23.089Z",
+    "statusChangeReason": "SOP V4.7 完整驗證"
   },
   {
     "id": 1342,
@@ -14961,7 +15069,7 @@
     "url": "https://www.wtaipei.com",
     "verified": true,
     "verifiedAt": "2026-03-01",
-    "status": "下架",
+    "status": "待修",
     "roomType": "宴會廳",
     "notes": " [官網無法連線或擋爬蟲，需手動確認]",
     "missingFields": [
@@ -14973,7 +15081,9 @@
     "roomsCount": 4,
     "updateReason": "SOP V4.7 修復：設定 roomsCount",
     "updateSource": "本地腳本自動修復",
-    "lastUpdated": "2026-03-03T07:28:48.284Z"
+    "lastUpdated": "2026-03-03T07:28:48.284Z",
+    "statusChangedAt": "2026-03-03T10:24:23.089Z",
+    "statusChangeReason": "SOP V4.7 完整驗證"
   },
   {
     "id": 1382,
@@ -15003,7 +15113,7 @@
     "url": "https://www.wtaipei.com",
     "verified": true,
     "verifiedAt": "2026-03-01",
-    "status": "下架",
+    "status": "待修",
     "roomType": "宴會廳",
     "notes": " [官網無法連線或擋爬蟲，需手動確認]",
     "missingFields": [
@@ -15015,7 +15125,9 @@
     "roomsCount": 4,
     "updateReason": "SOP V4.7 修復：設定 roomsCount",
     "updateSource": "本地腳本自動修復",
-    "lastUpdated": "2026-03-03T07:28:48.284Z"
+    "lastUpdated": "2026-03-03T07:28:48.284Z",
+    "statusChangedAt": "2026-03-03T10:24:23.089Z",
+    "statusChangeReason": "SOP V4.7 完整驗證"
   },
   {
     "id": 1383,
@@ -15045,7 +15157,7 @@
     "url": "https://www.wtaipei.com",
     "verified": true,
     "verifiedAt": "2026-03-01",
-    "status": "下架",
+    "status": "待修",
     "roomType": "宴會廳",
     "notes": " [官網無法連線或擋爬蟲，需手動確認]",
     "missingFields": [
@@ -15057,7 +15169,9 @@
     "roomsCount": 4,
     "updateReason": "SOP V4.7 修復：設定 roomsCount",
     "updateSource": "本地腳本自動修復",
-    "lastUpdated": "2026-03-03T07:28:48.284Z"
+    "lastUpdated": "2026-03-03T07:28:48.284Z",
+    "statusChangedAt": "2026-03-03T10:24:23.089Z",
+    "statusChangeReason": "SOP V4.7 完整驗證"
   },
   {
     "id": 1384,
@@ -15308,7 +15422,7 @@
     "url": "https://www.grand-hotel.org",
     "verified": true,
     "verifiedAt": "2026-03-01",
-    "status": "下架",
+    "status": "上架",
     "roomType": "宴會廳",
     "lastVerified": "2026-03-02T15:23:44.184Z",
     "verifiedTitle": "圓山大飯店",
@@ -15319,7 +15433,9 @@
     "roomsCount": 5,
     "updateReason": "SOP V4.7: 更新照片來源為官網",
     "updateSource": "手動更新",
-    "lastUpdated": "2026-03-03T07:43:52.197Z"
+    "lastUpdated": "2026-03-03T07:43:52.197Z",
+    "statusChangedAt": "2026-03-03T10:24:23.089Z",
+    "statusChangeReason": "SOP V4.7 完整驗證"
   },
   {
     "id": 1389,
@@ -15356,7 +15472,7 @@
     "url": "https://www.grand-hotel.org",
     "verified": true,
     "verifiedAt": "2026-03-01",
-    "status": "下架",
+    "status": "上架",
     "roomType": "宴會廳",
     "lastVerified": "2026-03-02T15:23:44.184Z",
     "verifiedTitle": "圓山大飯店",
@@ -15367,7 +15483,9 @@
     "roomsCount": 5,
     "updateReason": "SOP V4.7: 更新照片來源為官網",
     "updateSource": "手動更新",
-    "lastUpdated": "2026-03-03T07:43:52.198Z"
+    "lastUpdated": "2026-03-03T07:43:52.198Z",
+    "statusChangedAt": "2026-03-03T10:24:23.089Z",
+    "statusChangeReason": "SOP V4.7 完整驗證"
   },
   {
     "id": 1390,
@@ -15404,7 +15522,7 @@
     "url": "https://www.grand-hotel.org",
     "verified": true,
     "verifiedAt": "2026-03-01",
-    "status": "下架",
+    "status": "上架",
     "roomType": "宴會廳",
     "lastVerified": "2026-03-02T15:23:44.184Z",
     "verifiedTitle": "圓山大飯店",
@@ -15415,7 +15533,9 @@
     "roomsCount": 5,
     "updateReason": "SOP V4.7: 更新照片來源為官網",
     "updateSource": "手動更新",
-    "lastUpdated": "2026-03-03T07:43:52.199Z"
+    "lastUpdated": "2026-03-03T07:43:52.199Z",
+    "statusChangedAt": "2026-03-03T10:24:23.089Z",
+    "statusChangeReason": "SOP V4.7 完整驗證"
   },
   {
     "id": 1391,
@@ -15452,7 +15572,7 @@
     "url": "https://www.grand-hotel.org",
     "verified": true,
     "verifiedAt": "2026-03-01",
-    "status": "下架",
+    "status": "上架",
     "roomType": "宴會廳",
     "lastVerified": "2026-03-02T15:23:44.184Z",
     "verifiedTitle": "圓山大飯店",
@@ -15463,7 +15583,9 @@
     "roomsCount": 5,
     "updateReason": "SOP V4.7: 更新照片來源為官網",
     "updateSource": "手動更新",
-    "lastUpdated": "2026-03-03T07:43:52.200Z"
+    "lastUpdated": "2026-03-03T07:43:52.200Z",
+    "statusChangedAt": "2026-03-03T10:24:23.089Z",
+    "statusChangeReason": "SOP V4.7 完整驗證"
   },
   {
     "id": 1392,
@@ -15595,7 +15717,7 @@
     "source": "官方網站",
     "verified": true,
     "verifiedAt": "2026-03-01",
-    "status": "下架",
+    "status": "上架",
     "roomType": "宴會廳",
     "lastVerified": "2026-03-02T13:44:40.938Z",
     "verifiedTitle": "Luxury 5 Star Hotel | Songshan | Mandarin Oriental, Taipei",
@@ -15605,7 +15727,9 @@
     "roomsCount": 4,
     "updateReason": "SOP V4.7 修復：設定 roomsCount",
     "updateSource": "本地腳本自動修復",
-    "lastUpdated": "2026-03-03T07:25:54.260Z"
+    "lastUpdated": "2026-03-03T07:25:54.260Z",
+    "statusChangedAt": "2026-03-03T10:24:23.089Z",
+    "statusChangeReason": "SOP V4.7 完整驗證"
   },
   {
     "id": 1394,
@@ -15665,7 +15789,7 @@
     "source": "官方網站",
     "verified": true,
     "verifiedAt": "2026-03-01",
-    "status": "下架",
+    "status": "上架",
     "roomType": "宴會廳",
     "lastVerified": "2026-03-02T13:44:40.938Z",
     "verifiedTitle": "Luxury 5 Star Hotel | Songshan | Mandarin Oriental, Taipei",
@@ -15675,7 +15799,9 @@
     "roomsCount": 4,
     "updateReason": "SOP V4.7 修復：設定 roomsCount",
     "updateSource": "本地腳本自動修復",
-    "lastUpdated": "2026-03-03T07:25:54.260Z"
+    "lastUpdated": "2026-03-03T07:25:54.260Z",
+    "statusChangedAt": "2026-03-03T10:24:23.089Z",
+    "statusChangeReason": "SOP V4.7 完整驗證"
   },
   {
     "id": 1395,
@@ -15735,7 +15861,7 @@
     "source": "官方網站",
     "verified": true,
     "verifiedAt": "2026-03-01",
-    "status": "下架",
+    "status": "上架",
     "roomType": "宴會廳",
     "lastVerified": "2026-03-02T13:44:40.938Z",
     "verifiedTitle": "Luxury 5 Star Hotel | Songshan | Mandarin Oriental, Taipei",
@@ -15745,7 +15871,9 @@
     "roomsCount": 4,
     "updateReason": "SOP V4.7 修復：設定 roomsCount",
     "updateSource": "本地腳本自動修復",
-    "lastUpdated": "2026-03-03T07:25:54.260Z"
+    "lastUpdated": "2026-03-03T07:25:54.260Z",
+    "statusChangedAt": "2026-03-03T10:24:23.089Z",
+    "statusChangeReason": "SOP V4.7 完整驗證"
   },
   {
     "id": 1396,
@@ -15776,7 +15904,7 @@
     "url": "https://www.ambassadorhotel.com.tw/taipei",
     "verified": true,
     "verifiedAt": "2026-03-01",
-    "status": "下架",
+    "status": "待修",
     "roomType": "宴會廳",
     "lastVerified": "2026-03-01T23:31:05.258Z",
     "verificationError": "page.goto: Timeout 20000ms exceeded.\nCall log:\n  - navigating to \"https://www.ambassadorhotel.com.tw/taipei\", waiting until \"domcontentloaded\"\n",
@@ -15786,7 +15914,9 @@
     "lastUpdated": "2026-03-03T07:28:48.287Z",
     "roomsCount": 5,
     "updateReason": "SOP V4.7 修復：設定 roomsCount",
-    "updateSource": "本地腳本自動修復"
+    "updateSource": "本地腳本自動修復",
+    "statusChangedAt": "2026-03-03T10:24:23.089Z",
+    "statusChangeReason": "SOP V4.7 完整驗證"
   },
   {
     "id": 1397,
@@ -15817,7 +15947,7 @@
     "url": "https://www.ambassadorhotel.com.tw/taipei",
     "verified": true,
     "verifiedAt": "2026-03-01",
-    "status": "下架",
+    "status": "待修",
     "roomType": "宴會廳",
     "lastVerified": "2026-03-01T23:31:05.258Z",
     "verificationError": "page.goto: Timeout 20000ms exceeded.\nCall log:\n  - navigating to \"https://www.ambassadorhotel.com.tw/taipei\", waiting until \"domcontentloaded\"\n",
@@ -15825,7 +15955,9 @@
     "lastUpdated": "2026-03-03T07:28:48.287Z",
     "roomsCount": 5,
     "updateReason": "SOP V4.7 修復：設定 roomsCount",
-    "updateSource": "本地腳本自動修復"
+    "updateSource": "本地腳本自動修復",
+    "statusChangedAt": "2026-03-03T10:24:23.089Z",
+    "statusChangeReason": "SOP V4.7 完整驗證"
   },
   {
     "id": 1398,
@@ -15856,7 +15988,7 @@
     "url": "https://www.ambassadorhotel.com.tw/taipei",
     "verified": true,
     "verifiedAt": "2026-03-01",
-    "status": "下架",
+    "status": "待修",
     "roomType": "宴會廳",
     "lastVerified": "2026-03-01T23:31:05.258Z",
     "verificationError": "page.goto: Timeout 20000ms exceeded.\nCall log:\n  - navigating to \"https://www.ambassadorhotel.com.tw/taipei\", waiting until \"domcontentloaded\"\n",
@@ -15864,7 +15996,9 @@
     "lastUpdated": "2026-03-03T07:28:48.287Z",
     "roomsCount": 5,
     "updateReason": "SOP V4.7 修復：設定 roomsCount",
-    "updateSource": "本地腳本自動修復"
+    "updateSource": "本地腳本自動修復",
+    "statusChangedAt": "2026-03-03T10:24:23.089Z",
+    "statusChangeReason": "SOP V4.7 完整驗證"
   },
   {
     "id": 1399,
@@ -15895,7 +16029,7 @@
     "url": "https://www.ambassadorhotel.com.tw/taipei",
     "verified": true,
     "verifiedAt": "2026-03-01",
-    "status": "下架",
+    "status": "待修",
     "roomType": "宴會廳",
     "lastVerified": "2026-03-01T23:31:05.258Z",
     "verificationError": "page.goto: Timeout 20000ms exceeded.\nCall log:\n  - navigating to \"https://www.ambassadorhotel.com.tw/taipei\", waiting until \"domcontentloaded\"\n",
@@ -15903,7 +16037,9 @@
     "lastUpdated": "2026-03-03T07:28:48.287Z",
     "roomsCount": 5,
     "updateReason": "SOP V4.7 修復：設定 roomsCount",
-    "updateSource": "本地腳本自動修復"
+    "updateSource": "本地腳本自動修復",
+    "statusChangedAt": "2026-03-03T10:24:23.089Z",
+    "statusChangeReason": "SOP V4.7 完整驗證"
   },
   {
     "id": 1400,
@@ -15942,7 +16078,7 @@
     "hasOnlineBooking": false,
     "bookingUrl": null,
     "createdAt": "2026-02-26T00:00:00.000Z",
-    "status": "下架",
+    "status": "待修",
     "roomType": "宴會廳",
     "url": "https://taipei.metropolitan.tw/",
     "verifiedAt": "2026-03-01",
@@ -15953,7 +16089,9 @@
     "lastUpdated": "2026-03-03T07:43:05.013Z",
     "roomsCount": 5,
     "updateReason": "品牌變更：威斯汀六福皇宮 → JR東日本大飯店台北",
-    "updateSource": "用戶提供"
+    "updateSource": "用戶提供",
+    "statusChangedAt": "2026-03-03T10:24:23.089Z",
+    "statusChangeReason": "SOP V4.7 完整驗證"
   },
   {
     "id": 1401,
@@ -15992,7 +16130,7 @@
     "hasOnlineBooking": false,
     "bookingUrl": null,
     "createdAt": "2026-02-26T00:00:00.000Z",
-    "status": "下架",
+    "status": "待修",
     "roomType": "宴會廳",
     "url": "https://taipei.metropolitan.tw/",
     "verifiedAt": "2026-03-01",
@@ -16003,7 +16141,9 @@
     "lastUpdated": "2026-03-03T07:43:05.013Z",
     "roomsCount": 5,
     "updateReason": "品牌變更：威斯汀六福皇宮 → JR東日本大飯店台北",
-    "updateSource": "用戶提供"
+    "updateSource": "用戶提供",
+    "statusChangedAt": "2026-03-03T10:24:23.089Z",
+    "statusChangeReason": "SOP V4.7 完整驗證"
   },
   {
     "id": 1402,
@@ -16042,7 +16182,7 @@
     "hasOnlineBooking": false,
     "bookingUrl": null,
     "createdAt": "2026-02-26T00:00:00.000Z",
-    "status": "下架",
+    "status": "待修",
     "roomType": "宴會廳",
     "url": "https://taipei.metropolitan.tw/",
     "verifiedAt": "2026-03-01",
@@ -16053,7 +16193,9 @@
     "lastUpdated": "2026-03-03T07:43:05.013Z",
     "roomsCount": 5,
     "updateReason": "品牌變更：威斯汀六福皇宮 → JR東日本大飯店台北",
-    "updateSource": "用戶提供"
+    "updateSource": "用戶提供",
+    "statusChangedAt": "2026-03-03T10:24:23.089Z",
+    "statusChangeReason": "SOP V4.7 完整驗證"
   },
   {
     "id": 1403,
@@ -16092,7 +16234,7 @@
     "hasOnlineBooking": false,
     "bookingUrl": null,
     "createdAt": "2026-02-26T00:00:00.000Z",
-    "status": "下架",
+    "status": "待修",
     "roomType": "宴會廳",
     "url": "https://taipei.metropolitan.tw/",
     "verifiedAt": "2026-03-01",
@@ -16103,7 +16245,9 @@
     "lastUpdated": "2026-03-03T07:43:05.013Z",
     "roomsCount": 5,
     "updateReason": "品牌變更：威斯汀六福皇宮 → JR東日本大飯店台北",
-    "updateSource": "用戶提供"
+    "updateSource": "用戶提供",
+    "statusChangedAt": "2026-03-03T10:24:23.089Z",
+    "statusChangeReason": "SOP V4.7 完整驗證"
   },
   {
     "id": 1404,
@@ -16134,7 +16278,7 @@
     "url": "https://www.lemeridien-taipei.com",
     "verified": true,
     "verifiedAt": "2026-03-01",
-    "status": "下架",
+    "status": "上架",
     "roomType": "宴會廳",
     "lastVerified": "2026-03-02T13:03:25.489Z",
     "verifiedTitle": "台北寒舍艾美酒店 - Le Méridien Taipei",
@@ -16143,7 +16287,9 @@
     "roomsCount": 5,
     "updateReason": "SOP V4.7 修復：設定 roomsCount",
     "updateSource": "本地腳本自動修復",
-    "lastUpdated": "2026-03-03T07:25:54.260Z"
+    "lastUpdated": "2026-03-03T07:25:54.260Z",
+    "statusChangedAt": "2026-03-03T10:24:23.089Z",
+    "statusChangeReason": "SOP V4.7 完整驗證"
   },
   {
     "id": 1405,
@@ -16174,7 +16320,7 @@
     "url": "https://www.lemeridien-taipei.com",
     "verified": true,
     "verifiedAt": "2026-03-01",
-    "status": "下架",
+    "status": "上架",
     "roomType": "宴會廳",
     "missingFields": [
       "會議室名稱（具體）"
@@ -16186,7 +16332,9 @@
     "roomsCount": 5,
     "updateReason": "SOP V4.7 修復：設定 roomsCount",
     "updateSource": "本地腳本自動修復",
-    "lastUpdated": "2026-03-03T07:25:54.260Z"
+    "lastUpdated": "2026-03-03T07:25:54.260Z",
+    "statusChangedAt": "2026-03-03T10:24:23.089Z",
+    "statusChangeReason": "SOP V4.7 完整驗證"
   },
   {
     "id": 1406,
@@ -16217,7 +16365,7 @@
     "url": "https://www.lemeridien-taipei.com",
     "verified": true,
     "verifiedAt": "2026-03-01",
-    "status": "下架",
+    "status": "上架",
     "roomType": "宴會廳",
     "lastVerified": "2026-03-02T13:03:25.492Z",
     "verifiedTitle": "台北寒舍艾美酒店 - Le Méridien Taipei",
@@ -16226,7 +16374,9 @@
     "roomsCount": 5,
     "updateReason": "SOP V4.7 修復：設定 roomsCount",
     "updateSource": "本地腳本自動修復",
-    "lastUpdated": "2026-03-03T07:25:54.260Z"
+    "lastUpdated": "2026-03-03T07:25:54.260Z",
+    "statusChangedAt": "2026-03-03T10:24:23.089Z",
+    "statusChangeReason": "SOP V4.7 完整驗證"
   },
   {
     "id": 1407,
@@ -16257,7 +16407,7 @@
     "url": "https://www.lemeridien-taipei.com",
     "verified": true,
     "verifiedAt": "2026-03-01",
-    "status": "下架",
+    "status": "上架",
     "roomType": "宴會廳",
     "lastVerified": "2026-03-02T13:03:25.492Z",
     "verifiedTitle": "台北寒舍艾美酒店 - Le Méridien Taipei",
@@ -16266,7 +16416,9 @@
     "roomsCount": 5,
     "updateReason": "SOP V4.7 修復：設定 roomsCount",
     "updateSource": "本地腳本自動修復",
-    "lastUpdated": "2026-03-03T07:25:54.260Z"
+    "lastUpdated": "2026-03-03T07:25:54.260Z",
+    "statusChangedAt": "2026-03-03T10:24:23.089Z",
+    "statusChangeReason": "SOP V4.7 完整驗證"
   },
   {
     "id": 1408,
@@ -16302,7 +16454,7 @@
     "url": "https://www.palaisdechine.com",
     "verified": true,
     "verifiedAt": "2026-03-01",
-    "status": "下架",
+    "status": "待修",
     "roomType": "宴會廳",
     "missingFields": [
       "會議室名稱（具體）"
@@ -16312,7 +16464,9 @@
     "roomsCount": 4,
     "updateReason": "SOP V4.7 修復：設定 roomsCount",
     "updateSource": "本地腳本自動修復",
-    "lastUpdated": "2026-03-03T07:28:48.287Z"
+    "lastUpdated": "2026-03-03T07:28:48.287Z",
+    "statusChangedAt": "2026-03-03T10:24:23.089Z",
+    "statusChangeReason": "SOP V4.7 完整驗證"
   },
   {
     "id": 1409,
@@ -16348,7 +16502,7 @@
     "url": "https://www.palaisdechine.com",
     "verified": true,
     "verifiedAt": "2026-03-01",
-    "status": "下架",
+    "status": "待修",
     "roomType": "宴會廳",
     "lastVerified": "2026-03-01T23:29:49.151Z",
     "verifiedTitle": "palaisdechine.com",
@@ -16357,7 +16511,9 @@
     "roomsCount": 4,
     "updateReason": "SOP V4.7 修復：設定 roomsCount",
     "updateSource": "本地腳本自動修復",
-    "lastUpdated": "2026-03-03T07:28:48.287Z"
+    "lastUpdated": "2026-03-03T07:28:48.287Z",
+    "statusChangedAt": "2026-03-03T10:24:23.089Z",
+    "statusChangeReason": "SOP V4.7 完整驗證"
   },
   {
     "id": 1410,
@@ -16393,7 +16549,7 @@
     "url": "https://www.palaisdechine.com",
     "verified": true,
     "verifiedAt": "2026-03-01",
-    "status": "下架",
+    "status": "待修",
     "roomType": "宴會廳",
     "lastVerified": "2026-03-01T23:29:49.151Z",
     "verifiedTitle": "palaisdechine.com",
@@ -16402,7 +16558,9 @@
     "roomsCount": 4,
     "updateReason": "SOP V4.7 修復：設定 roomsCount",
     "updateSource": "本地腳本自動修復",
-    "lastUpdated": "2026-03-03T07:28:48.287Z"
+    "lastUpdated": "2026-03-03T07:28:48.287Z",
+    "statusChangedAt": "2026-03-03T10:24:23.089Z",
+    "statusChangeReason": "SOP V4.7 完整驗證"
   },
   {
     "id": 1411,
@@ -16435,7 +16593,7 @@
     "url": "https://www.thelandis.com",
     "verified": true,
     "verifiedAt": "2026-03-01",
-    "status": "下架",
+    "status": "上架",
     "roomType": "宴會廳",
     "notes": "",
     "missingFields": [
@@ -16448,7 +16606,9 @@
     "roomsCount": 3,
     "updateReason": "SOP V4.7 修復：設定 roomsCount",
     "updateSource": "本地腳本自動修復",
-    "lastUpdated": "2026-03-03T07:25:54.260Z"
+    "lastUpdated": "2026-03-03T07:25:54.260Z",
+    "statusChangedAt": "2026-03-03T10:24:23.089Z",
+    "statusChangeReason": "SOP V4.7 完整驗證"
   },
   {
     "id": 1412,
@@ -16481,7 +16641,7 @@
     "url": "https://www.thelandis.com",
     "verified": true,
     "verifiedAt": "2026-03-01",
-    "status": "下架",
+    "status": "上架",
     "roomType": "宴會廳",
     "notes": "",
     "missingFields": [
@@ -16494,7 +16654,9 @@
     "roomsCount": 3,
     "updateReason": "SOP V4.7 修復：設定 roomsCount",
     "updateSource": "本地腳本自動修復",
-    "lastUpdated": "2026-03-03T07:25:54.260Z"
+    "lastUpdated": "2026-03-03T07:25:54.260Z",
+    "statusChangedAt": "2026-03-03T10:24:23.089Z",
+    "statusChangeReason": "SOP V4.7 完整驗證"
   },
   {
     "id": 1413,
@@ -17071,7 +17233,7 @@
     "url": "https://www.ntuacc.org",
     "verified": true,
     "verifiedAt": "2026-03-01",
-    "status": "下架",
+    "status": "待修",
     "roomType": "會議中心",
     "lastVerified": "2026-03-01T23:45:15.599Z",
     "verificationError": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.ntuacc.org/\nCall log:\n  - navigating to \"https://www.ntuacc.org/\", waiting until \"domcontentloaded\"\n",
@@ -17080,7 +17242,9 @@
     "roomsCount": 3,
     "updateReason": "SOP V4.7 修復：設定 roomsCount",
     "updateSource": "本地腳本自動修復",
-    "lastUpdated": "2026-03-03T07:28:48.298Z"
+    "lastUpdated": "2026-03-03T07:28:48.298Z",
+    "statusChangedAt": "2026-03-03T10:24:23.089Z",
+    "statusChangeReason": "SOP V4.7 完整驗證"
   },
   {
     "id": 1434,
@@ -17116,7 +17280,7 @@
     "url": "https://www.ntuacc.org",
     "verified": true,
     "verifiedAt": "2026-03-01",
-    "status": "下架",
+    "status": "待修",
     "roomType": "會議中心",
     "lastVerified": "2026-03-02T15:23:44.189Z",
     "verificationError": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.ntuacc.org/\nCall log:\n  - navigating to \"https://www.ntuacc.org/\", waiting until \"domcontentloaded\"\n",
@@ -17125,7 +17289,9 @@
     "roomsCount": 3,
     "updateReason": "SOP V4.7 修復：設定 roomsCount",
     "updateSource": "本地腳本自動修復",
-    "lastUpdated": "2026-03-03T07:28:48.298Z"
+    "lastUpdated": "2026-03-03T07:28:48.298Z",
+    "statusChangedAt": "2026-03-03T10:24:23.089Z",
+    "statusChangeReason": "SOP V4.7 完整驗證"
   },
   {
     "id": 1435,
@@ -17161,7 +17327,7 @@
     "url": "https://www.ntuacc.org",
     "verified": true,
     "verifiedAt": "2026-03-01",
-    "status": "下架",
+    "status": "待修",
     "roomType": "會議中心",
     "lastVerified": "2026-03-02T15:23:44.189Z",
     "verificationError": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.ntuacc.org/\nCall log:\n  - navigating to \"https://www.ntuacc.org/\", waiting until \"domcontentloaded\"\n",
@@ -17170,7 +17336,9 @@
     "roomsCount": 3,
     "updateReason": "SOP V4.7 修復：設定 roomsCount",
     "updateSource": "本地腳本自動修復",
-    "lastUpdated": "2026-03-03T07:28:48.298Z"
+    "lastUpdated": "2026-03-03T07:28:48.298Z",
+    "statusChangedAt": "2026-03-03T10:24:23.089Z",
+    "statusChangeReason": "SOP V4.7 完整驗證"
   },
   {
     "id": 1436,
@@ -17206,7 +17374,7 @@
     "url": "https://itcc.yff.org.tw/",
     "verified": true,
     "verifiedAt": "2026-03-01",
-    "status": "下架",
+    "status": "待修",
     "roomType": "會議中心",
     "lastVerified": "2026-03-02T10:34:56.880Z",
     "verificationError": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.yfpcf.org/\nCall log:\n  - navigating to \"https://www.yfpcf.org/\", waiting until \"domcontentloaded\"\n",
@@ -17216,7 +17384,9 @@
     "roomsCount": 4,
     "updateReason": "SOP V4.7 修復：設定 roomsCount",
     "updateSource": "本地腳本自動修復",
-    "lastUpdated": "2026-03-03T07:28:48.288Z"
+    "lastUpdated": "2026-03-03T07:28:48.288Z",
+    "statusChangedAt": "2026-03-03T10:24:23.089Z",
+    "statusChangeReason": "SOP V4.7 完整驗證"
   },
   {
     "id": 1437,
@@ -17252,7 +17422,7 @@
     "url": "https://itcc.yff.org.tw/",
     "verified": true,
     "verifiedAt": "2026-03-01",
-    "status": "下架",
+    "status": "待修",
     "roomType": "會議中心",
     "lastVerified": "2026-03-02T15:23:44.187Z",
     "verificationError": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.yfpcf.org/\nCall log:\n  - navigating to \"https://www.yfpcf.org/\", waiting until \"domcontentloaded\"\n",
@@ -17262,7 +17432,9 @@
     "roomsCount": 4,
     "updateReason": "SOP V4.7 修復：設定 roomsCount",
     "updateSource": "本地腳本自動修復",
-    "lastUpdated": "2026-03-03T07:28:48.288Z"
+    "lastUpdated": "2026-03-03T07:28:48.288Z",
+    "statusChangedAt": "2026-03-03T10:24:23.089Z",
+    "statusChangeReason": "SOP V4.7 完整驗證"
   },
   {
     "id": 1438,
@@ -17298,7 +17470,7 @@
     "url": "https://itcc.yff.org.tw/",
     "verified": true,
     "verifiedAt": "2026-03-01",
-    "status": "下架",
+    "status": "待修",
     "roomType": "會議中心",
     "lastVerified": "2026-03-02T15:23:44.187Z",
     "verificationError": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.yfpcf.org/\nCall log:\n  - navigating to \"https://www.yfpcf.org/\", waiting until \"domcontentloaded\"\n",
@@ -17308,7 +17480,9 @@
     "roomsCount": 4,
     "updateReason": "SOP V4.7 修復：設定 roomsCount",
     "updateSource": "本地腳本自動修復",
-    "lastUpdated": "2026-03-03T07:28:48.288Z"
+    "lastUpdated": "2026-03-03T07:28:48.288Z",
+    "statusChangedAt": "2026-03-03T10:24:23.089Z",
+    "statusChangeReason": "SOP V4.7 完整驗證"
   },
   {
     "id": 1439,
@@ -17342,7 +17516,7 @@
     "url": "https://clbc.tw/",
     "verified": true,
     "verifiedAt": "2026-03-01",
-    "status": "下架",
+    "status": "上架",
     "roomType": "會議室",
     "lastVerified": "2026-03-02T12:58:02.848Z",
     "verifiedTitle": "CLBC 共同工作空間與複合式展演活動空間 - CLBC",
@@ -17352,7 +17526,9 @@
     "roomsCount": 3,
     "updateReason": "SOP V4.7 修復：設定 roomsCount",
     "updateSource": "本地腳本自動修復",
-    "lastUpdated": "2026-03-03T07:25:54.258Z"
+    "lastUpdated": "2026-03-03T07:25:54.258Z",
+    "statusChangedAt": "2026-03-03T10:24:23.089Z",
+    "statusChangeReason": "SOP V4.7 完整驗證"
   },
   {
     "id": 1440,
@@ -17386,7 +17562,7 @@
     "url": "https://clbc.tw/",
     "verified": true,
     "verifiedAt": "2026-03-01",
-    "status": "下架",
+    "status": "上架",
     "roomType": "會議室",
     "lastVerified": "2026-03-02T12:58:02.848Z",
     "verifiedTitle": "CLBC 共同工作空間與複合式展演活動空間 - CLBC",
@@ -17396,7 +17572,9 @@
     "roomsCount": 3,
     "updateReason": "SOP V4.7 修復：設定 roomsCount",
     "updateSource": "本地腳本自動修復",
-    "lastUpdated": "2026-03-03T07:25:54.258Z"
+    "lastUpdated": "2026-03-03T07:25:54.258Z",
+    "statusChangedAt": "2026-03-03T10:24:23.089Z",
+    "statusChangeReason": "SOP V4.7 完整驗證"
   },
   {
     "id": 1448,
@@ -21617,7 +21795,7 @@
       "verified": true,
       "verifiedAt": "2026-03-02T09:52:23.503Z"
     },
-    "status": "下架",
+    "status": "上架",
     "missingFields": [
       "價格",
       "教室式人數"
@@ -21629,7 +21807,9 @@
     "roomsCount": 13,
     "updateReason": "SOP V4.7 修復：設定 roomsCount",
     "updateSource": "本地腳本自動修復",
-    "lastUpdated": "2026-03-03T07:25:54.260Z"
+    "lastUpdated": "2026-03-03T07:25:54.260Z",
+    "statusChangedAt": "2026-03-03T10:24:23.089Z",
+    "statusChangeReason": "SOP V4.7 完整驗證"
   },
   {
     "id": 1495,
@@ -21662,7 +21842,7 @@
       "verified": true,
       "verifiedAt": "2026-03-02T09:52:23.503Z"
     },
-    "status": "下架",
+    "status": "上架",
     "missingFields": [
       "價格",
       "教室式人數"
@@ -21674,7 +21854,9 @@
     "roomsCount": 13,
     "updateReason": "SOP V4.7 修復：設定 roomsCount",
     "updateSource": "本地腳本自動修復",
-    "lastUpdated": "2026-03-03T07:25:54.260Z"
+    "lastUpdated": "2026-03-03T07:25:54.260Z",
+    "statusChangedAt": "2026-03-03T10:24:23.089Z",
+    "statusChangeReason": "SOP V4.7 完整驗證"
   },
   {
     "id": 1496,
@@ -21707,7 +21889,7 @@
       "verified": true,
       "verifiedAt": "2026-03-02T09:52:23.503Z"
     },
-    "status": "下架",
+    "status": "上架",
     "missingFields": [
       "價格",
       "教室式人數"
@@ -21719,7 +21901,9 @@
     "roomsCount": 13,
     "updateReason": "SOP V4.7 修復：設定 roomsCount",
     "updateSource": "本地腳本自動修復",
-    "lastUpdated": "2026-03-03T07:25:54.260Z"
+    "lastUpdated": "2026-03-03T07:25:54.260Z",
+    "statusChangedAt": "2026-03-03T10:24:23.089Z",
+    "statusChangeReason": "SOP V4.7 完整驗證"
   },
   {
     "id": 1497,
@@ -21752,7 +21936,7 @@
       "verified": true,
       "verifiedAt": "2026-03-02T09:52:23.503Z"
     },
-    "status": "下架",
+    "status": "上架",
     "missingFields": [
       "價格",
       "教室式人數"
@@ -21764,7 +21948,9 @@
     "roomsCount": 13,
     "updateReason": "SOP V4.7 修復：設定 roomsCount",
     "updateSource": "本地腳本自動修復",
-    "lastUpdated": "2026-03-03T07:25:54.260Z"
+    "lastUpdated": "2026-03-03T07:25:54.260Z",
+    "statusChangedAt": "2026-03-03T10:24:23.089Z",
+    "statusChangeReason": "SOP V4.7 完整驗證"
   },
   {
     "id": 1498,
@@ -21797,7 +21983,7 @@
       "verified": true,
       "verifiedAt": "2026-03-02T09:52:23.503Z"
     },
-    "status": "下架",
+    "status": "上架",
     "missingFields": [
       "價格",
       "教室式人數"
@@ -21809,7 +21995,9 @@
     "roomsCount": 13,
     "updateReason": "SOP V4.7 修復：設定 roomsCount",
     "updateSource": "本地腳本自動修復",
-    "lastUpdated": "2026-03-03T07:25:54.260Z"
+    "lastUpdated": "2026-03-03T07:25:54.260Z",
+    "statusChangedAt": "2026-03-03T10:24:23.089Z",
+    "statusChangeReason": "SOP V4.7 完整驗證"
   },
   {
     "id": 1499,
@@ -21842,7 +22030,7 @@
       "verified": true,
       "verifiedAt": "2026-03-02T09:52:23.503Z"
     },
-    "status": "下架",
+    "status": "上架",
     "missingFields": [
       "價格",
       "教室式人數"
@@ -21854,7 +22042,9 @@
     "roomsCount": 13,
     "updateReason": "SOP V4.7 修復：設定 roomsCount",
     "updateSource": "本地腳本自動修復",
-    "lastUpdated": "2026-03-03T07:25:54.260Z"
+    "lastUpdated": "2026-03-03T07:25:54.260Z",
+    "statusChangedAt": "2026-03-03T10:24:23.089Z",
+    "statusChangeReason": "SOP V4.7 完整驗證"
   },
   {
     "id": 1500,
@@ -21887,7 +22077,7 @@
       "verified": true,
       "verifiedAt": "2026-03-02T09:52:23.503Z"
     },
-    "status": "下架",
+    "status": "上架",
     "missingFields": [
       "價格",
       "教室式人數"
@@ -21899,7 +22089,9 @@
     "roomsCount": 13,
     "updateReason": "SOP V4.7 修復：設定 roomsCount",
     "updateSource": "本地腳本自動修復",
-    "lastUpdated": "2026-03-03T07:25:54.260Z"
+    "lastUpdated": "2026-03-03T07:25:54.260Z",
+    "statusChangedAt": "2026-03-03T10:24:23.089Z",
+    "statusChangeReason": "SOP V4.7 完整驗證"
   },
   {
     "id": 1501,
@@ -21932,7 +22124,7 @@
       "verified": true,
       "verifiedAt": "2026-03-02T09:52:23.503Z"
     },
-    "status": "下架",
+    "status": "上架",
     "missingFields": [
       "價格",
       "教室式人數"
@@ -21944,7 +22136,9 @@
     "roomsCount": 13,
     "updateReason": "SOP V4.7 修復：設定 roomsCount",
     "updateSource": "本地腳本自動修復",
-    "lastUpdated": "2026-03-03T07:25:54.260Z"
+    "lastUpdated": "2026-03-03T07:25:54.260Z",
+    "statusChangedAt": "2026-03-03T10:24:23.089Z",
+    "statusChangeReason": "SOP V4.7 完整驗證"
   },
   {
     "id": 1502,
@@ -21977,7 +22171,7 @@
       "verified": true,
       "verifiedAt": "2026-03-02T09:52:23.503Z"
     },
-    "status": "下架",
+    "status": "上架",
     "missingFields": [
       "價格",
       "教室式人數"
@@ -21989,7 +22183,9 @@
     "roomsCount": 13,
     "updateReason": "SOP V4.7 修復：設定 roomsCount",
     "updateSource": "本地腳本自動修復",
-    "lastUpdated": "2026-03-03T07:25:54.260Z"
+    "lastUpdated": "2026-03-03T07:25:54.260Z",
+    "statusChangedAt": "2026-03-03T10:24:23.089Z",
+    "statusChangeReason": "SOP V4.7 完整驗證"
   },
   {
     "id": 1503,
@@ -22022,7 +22218,7 @@
       "verified": true,
       "verifiedAt": "2026-03-02T09:52:23.503Z"
     },
-    "status": "下架",
+    "status": "上架",
     "missingFields": [
       "價格",
       "教室式人數"
@@ -22034,7 +22230,9 @@
     "roomsCount": 13,
     "updateReason": "SOP V4.7 修復：設定 roomsCount",
     "updateSource": "本地腳本自動修復",
-    "lastUpdated": "2026-03-03T07:25:54.260Z"
+    "lastUpdated": "2026-03-03T07:25:54.260Z",
+    "statusChangedAt": "2026-03-03T10:24:23.089Z",
+    "statusChangeReason": "SOP V4.7 完整驗證"
   },
   {
     "id": 1504,
@@ -22067,7 +22265,7 @@
       "verified": true,
       "verifiedAt": "2026-03-02T09:52:23.503Z"
     },
-    "status": "下架",
+    "status": "上架",
     "missingFields": [
       "價格",
       "教室式人數"
@@ -22079,7 +22277,9 @@
     "roomsCount": 13,
     "updateReason": "SOP V4.7 修復：設定 roomsCount",
     "updateSource": "本地腳本自動修復",
-    "lastUpdated": "2026-03-03T07:25:54.260Z"
+    "lastUpdated": "2026-03-03T07:25:54.260Z",
+    "statusChangedAt": "2026-03-03T10:24:23.089Z",
+    "statusChangeReason": "SOP V4.7 完整驗證"
   },
   {
     "id": 1505,
@@ -22112,7 +22312,7 @@
       "verified": true,
       "verifiedAt": "2026-03-02T09:52:23.503Z"
     },
-    "status": "下架",
+    "status": "上架",
     "missingFields": [
       "價格",
       "教室式人數"
@@ -22124,7 +22324,9 @@
     "roomsCount": 13,
     "updateReason": "SOP V4.7 修復：設定 roomsCount",
     "updateSource": "本地腳本自動修復",
-    "lastUpdated": "2026-03-03T07:25:54.260Z"
+    "lastUpdated": "2026-03-03T07:25:54.260Z",
+    "statusChangedAt": "2026-03-03T10:24:23.089Z",
+    "statusChangeReason": "SOP V4.7 完整驗證"
   },
   {
     "id": 1506,
@@ -22140,14 +22342,16 @@
     "venueListUrl": "https://www.twtc.com.tw/page/room/",
     "meetingPageUrl": "https://www.tainex.com.tw/event",
     "maxCapacityTheater": 80,
-    "status": "下架",
+    "status": "待修",
     "verificationStatus": "已驗證",
     "verificationNote": "會議室清單已補充",
     "lastVerified": "2026-03-02T12:02:19.515Z",
     "roomsCount": 5,
     "updateReason": "SOP V4.7 修復：設定 roomsCount",
     "updateSource": "本地腳本自動修復",
-    "lastUpdated": "2026-03-03T07:28:48.298Z"
+    "lastUpdated": "2026-03-03T07:28:48.298Z",
+    "statusChangedAt": "2026-03-03T10:24:23.089Z",
+    "statusChangeReason": "SOP V4.7 完整驗證"
   },
   {
     "id": 1507,
@@ -22163,14 +22367,16 @@
     "venueListUrl": "https://www.twtc.com.tw/page/room/",
     "meetingPageUrl": "https://www.tainex.com.tw/event",
     "maxCapacityTheater": 60,
-    "status": "下架",
+    "status": "待修",
     "verificationStatus": "已驗證",
     "verificationNote": "會議室清單已補充",
     "lastVerified": "2026-03-02T12:02:19.515Z",
     "roomsCount": 5,
     "updateReason": "SOP V4.7 修復：設定 roomsCount",
     "updateSource": "本地腳本自動修復",
-    "lastUpdated": "2026-03-03T07:28:48.298Z"
+    "lastUpdated": "2026-03-03T07:28:48.298Z",
+    "statusChangedAt": "2026-03-03T10:24:23.089Z",
+    "statusChangeReason": "SOP V4.7 完整驗證"
   },
   {
     "id": 1508,
@@ -22186,14 +22392,16 @@
     "venueListUrl": "https://www.twtc.com.tw/page/room/",
     "meetingPageUrl": "https://www.tainex.com.tw/event",
     "maxCapacityTheater": 60,
-    "status": "下架",
+    "status": "待修",
     "verificationStatus": "已驗證",
     "verificationNote": "會議室清單已補充",
     "lastVerified": "2026-03-02T12:02:19.515Z",
     "roomsCount": 5,
     "updateReason": "SOP V4.7 修復：設定 roomsCount",
     "updateSource": "本地腳本自動修復",
-    "lastUpdated": "2026-03-03T07:28:48.298Z"
+    "lastUpdated": "2026-03-03T07:28:48.298Z",
+    "statusChangedAt": "2026-03-03T10:24:23.089Z",
+    "statusChangeReason": "SOP V4.7 完整驗證"
   },
   {
     "id": 1509,
@@ -22209,14 +22417,16 @@
     "venueListUrl": "https://www.twtc.com.tw/page/room/",
     "meetingPageUrl": "https://www.tainex.com.tw/event",
     "maxCapacityTheater": 40,
-    "status": "下架",
+    "status": "待修",
     "verificationStatus": "已驗證",
     "verificationNote": "會議室清單已補充",
     "lastVerified": "2026-03-02T12:02:19.515Z",
     "roomsCount": 5,
     "updateReason": "SOP V4.7 修復：設定 roomsCount",
     "updateSource": "本地腳本自動修復",
-    "lastUpdated": "2026-03-03T07:28:48.298Z"
+    "lastUpdated": "2026-03-03T07:28:48.298Z",
+    "statusChangedAt": "2026-03-03T10:24:23.089Z",
+    "statusChangeReason": "SOP V4.7 完整驗證"
   },
   {
     "id": 1510,
@@ -22232,14 +22442,16 @@
     "venueListUrl": "https://www.twtc.com.tw/page/room/",
     "meetingPageUrl": "https://www.tainex.com.tw/event",
     "maxCapacityTheater": 40,
-    "status": "下架",
+    "status": "待修",
     "verificationStatus": "已驗證",
     "verificationNote": "會議室清單已補充",
     "lastVerified": "2026-03-02T12:02:19.515Z",
     "roomsCount": 5,
     "updateReason": "SOP V4.7 修復：設定 roomsCount",
     "updateSource": "本地腳本自動修復",
-    "lastUpdated": "2026-03-03T07:28:48.298Z"
+    "lastUpdated": "2026-03-03T07:28:48.298Z",
+    "statusChangedAt": "2026-03-03T10:24:23.089Z",
+    "statusChangeReason": "SOP V4.7 完整驗證"
   },
   {
     "id": 1511,
@@ -22253,7 +22465,7 @@
     "url": "https://cpbae.nccu.edu.tw",
     "venueListUrl": "https://cpbae.nccu.edu.tw/cpbae/space/search",
     "meetingPageUrl": "https://cpbae.nccu.edu.tw/cpbae/space/introduction",
-    "status": "上架",
+    "status": "待修",
     "verificationStatus": "已驗證",
     "verificationNote": "會議室清單已補充（7個會議室）",
     "lastVerified": "2026-03-02T12:09:22.142Z",
@@ -22274,7 +22486,9 @@
       "電腦教室"
     ],
     "updateReason": "SOP V4.7 資料結構更新",
-    "updateSource": "手動驗證"
+    "updateSource": "手動驗證",
+    "statusChangedAt": "2026-03-03T10:24:23.089Z",
+    "statusChangeReason": "SOP V4.7 完整驗證"
   },
   {
     "id": 1512,
@@ -22288,7 +22502,7 @@
     "url": "https://cpbae.nccu.edu.tw",
     "venueListUrl": "https://cpbae.nccu.edu.tw/cpbae/space/search",
     "meetingPageUrl": "https://cpbae.nccu.edu.tw/cpbae/space/introduction",
-    "status": "上架",
+    "status": "待修",
     "verificationStatus": "已驗證",
     "verificationNote": "會議室清單已補充（7個會議室）",
     "lastVerified": "2026-03-02T12:09:22.142Z",
@@ -22309,7 +22523,9 @@
       "電腦教室"
     ],
     "updateReason": "SOP V4.7 資料結構更新",
-    "updateSource": "手動驗證"
+    "updateSource": "手動驗證",
+    "statusChangedAt": "2026-03-03T10:24:23.089Z",
+    "statusChangeReason": "SOP V4.7 完整驗證"
   },
   {
     "id": 1513,
@@ -22323,7 +22539,7 @@
     "url": "https://cpbae.nccu.edu.tw",
     "venueListUrl": "https://cpbae.nccu.edu.tw/cpbae/space/search",
     "meetingPageUrl": "https://cpbae.nccu.edu.tw/cpbae/space/introduction",
-    "status": "上架",
+    "status": "待修",
     "verificationStatus": "已驗證",
     "verificationNote": "會議室清單已補充（7個會議室）",
     "lastVerified": "2026-03-02T12:09:22.142Z",
@@ -22344,7 +22560,9 @@
       "電腦教室"
     ],
     "updateReason": "SOP V4.7 資料結構更新",
-    "updateSource": "手動驗證"
+    "updateSource": "手動驗證",
+    "statusChangedAt": "2026-03-03T10:24:23.089Z",
+    "statusChangeReason": "SOP V4.7 完整驗證"
   },
   {
     "id": 1514,
@@ -22358,7 +22576,7 @@
     "url": "https://cpbae.nccu.edu.tw",
     "venueListUrl": "https://cpbae.nccu.edu.tw/cpbae/space/search",
     "meetingPageUrl": "https://cpbae.nccu.edu.tw/cpbae/space/introduction",
-    "status": "上架",
+    "status": "待修",
     "verificationStatus": "已驗證",
     "verificationNote": "會議室清單已補充（7個會議室）",
     "lastVerified": "2026-03-02T12:09:22.142Z",
@@ -22379,7 +22597,9 @@
       "電腦教室"
     ],
     "updateReason": "SOP V4.7 資料結構更新",
-    "updateSource": "手動驗證"
+    "updateSource": "手動驗證",
+    "statusChangedAt": "2026-03-03T10:24:23.089Z",
+    "statusChangeReason": "SOP V4.7 完整驗證"
   },
   {
     "id": 1515,
@@ -22393,7 +22613,7 @@
     "url": "https://cpbae.nccu.edu.tw",
     "venueListUrl": "https://cpbae.nccu.edu.tw/cpbae/space/search",
     "meetingPageUrl": "https://cpbae.nccu.edu.tw/cpbae/space/introduction",
-    "status": "上架",
+    "status": "待修",
     "verificationStatus": "已驗證",
     "verificationNote": "會議室清單已補充（7個會議室）",
     "lastVerified": "2026-03-02T12:09:22.142Z",
@@ -22414,7 +22634,9 @@
       "電腦教室"
     ],
     "updateReason": "SOP V4.7 資料結構更新",
-    "updateSource": "手動驗證"
+    "updateSource": "手動驗證",
+    "statusChangedAt": "2026-03-03T10:24:23.089Z",
+    "statusChangeReason": "SOP V4.7 完整驗證"
   },
   {
     "id": 1516,
@@ -22428,7 +22650,7 @@
     "url": "https://cpbae.nccu.edu.tw",
     "venueListUrl": "https://cpbae.nccu.edu.tw/cpbae/space/search",
     "meetingPageUrl": "https://cpbae.nccu.edu.tw/cpbae/space/introduction",
-    "status": "上架",
+    "status": "待修",
     "verificationStatus": "已驗證",
     "verificationNote": "會議室清單已補充（7個會議室）",
     "lastVerified": "2026-03-02T12:09:22.142Z",
@@ -22449,7 +22671,9 @@
       "電腦教室"
     ],
     "updateReason": "SOP V4.7 資料結構更新",
-    "updateSource": "手動驗證"
+    "updateSource": "手動驗證",
+    "statusChangedAt": "2026-03-03T10:24:23.089Z",
+    "statusChangeReason": "SOP V4.7 完整驗證"
   },
   {
     "id": 1517,
@@ -22463,7 +22687,7 @@
     "url": "https://cpbae.nccu.edu.tw",
     "venueListUrl": "https://cpbae.nccu.edu.tw/cpbae/space/search",
     "meetingPageUrl": "https://cpbae.nccu.edu.tw/cpbae/space/introduction",
-    "status": "上架",
+    "status": "待修",
     "verificationStatus": "已驗證",
     "verificationNote": "會議室清單已補充（7個會議室）",
     "lastVerified": "2026-03-02T12:09:22.142Z",
@@ -22484,7 +22708,9 @@
       "電腦教室"
     ],
     "updateReason": "SOP V4.7 資料結構更新",
-    "updateSource": "手動驗證"
+    "updateSource": "手動驗證",
+    "statusChangedAt": "2026-03-03T10:24:23.089Z",
+    "statusChangeReason": "SOP V4.7 完整驗證"
   },
   {
     "id": 1521,
@@ -22499,14 +22725,16 @@
     "url": "https://www.pengyuan.com.tw",
     "venueListUrl": "https://www.pengyuan.com.tw/conference#0",
     "maxCapacityTheater": 200,
-    "status": "下架",
+    "status": "待修",
     "verificationStatus": "已驗證",
     "verificationNote": "會議室清單已補充",
     "lastVerified": "2026-03-02T12:22:12.011Z",
     "roomsCount": 5,
     "updateReason": "SOP V4.7 修復：設定 roomsCount",
     "updateSource": "本地腳本自動修復",
-    "lastUpdated": "2026-03-03T07:28:48.298Z"
+    "lastUpdated": "2026-03-03T07:28:48.298Z",
+    "statusChangedAt": "2026-03-03T10:24:23.089Z",
+    "statusChangeReason": "SOP V4.7 完整驗證"
   },
   {
     "id": 1522,
@@ -22521,14 +22749,16 @@
     "url": "https://www.pengyuan.com.tw",
     "venueListUrl": "https://www.pengyuan.com.tw/conference#0",
     "maxCapacityTheater": 200,
-    "status": "下架",
+    "status": "待修",
     "verificationStatus": "已驗證",
     "verificationNote": "會議室清單已補充",
     "lastVerified": "2026-03-02T12:22:12.011Z",
     "roomsCount": 5,
     "updateReason": "SOP V4.7 修復：設定 roomsCount",
     "updateSource": "本地腳本自動修復",
-    "lastUpdated": "2026-03-03T07:28:48.298Z"
+    "lastUpdated": "2026-03-03T07:28:48.298Z",
+    "statusChangedAt": "2026-03-03T10:24:23.089Z",
+    "statusChangeReason": "SOP V4.7 完整驗證"
   },
   {
     "id": 1523,
@@ -22543,14 +22773,16 @@
     "url": "https://www.pengyuan.com.tw",
     "venueListUrl": "https://www.pengyuan.com.tw/conference#0",
     "maxCapacityTheater": 800,
-    "status": "下架",
+    "status": "待修",
     "verificationStatus": "已驗證",
     "verificationNote": "會議室清單已補充",
     "lastVerified": "2026-03-02T12:22:12.011Z",
     "roomsCount": 5,
     "updateReason": "SOP V4.7 修復：設定 roomsCount",
     "updateSource": "本地腳本自動修復",
-    "lastUpdated": "2026-03-03T07:28:48.298Z"
+    "lastUpdated": "2026-03-03T07:28:48.298Z",
+    "statusChangedAt": "2026-03-03T10:24:23.089Z",
+    "statusChangeReason": "SOP V4.7 完整驗證"
   },
   {
     "id": 1524,
@@ -22565,14 +22797,16 @@
     "url": "https://www.pengyuan.com.tw",
     "venueListUrl": "https://www.pengyuan.com.tw/conference#0",
     "maxCapacityTheater": 230,
-    "status": "下架",
+    "status": "待修",
     "verificationStatus": "已驗證",
     "verificationNote": "會議室清單已補充",
     "lastVerified": "2026-03-02T12:22:12.011Z",
     "roomsCount": 5,
     "updateReason": "SOP V4.7 修復：設定 roomsCount",
     "updateSource": "本地腳本自動修復",
-    "lastUpdated": "2026-03-03T07:28:48.298Z"
+    "lastUpdated": "2026-03-03T07:28:48.298Z",
+    "statusChangedAt": "2026-03-03T10:24:23.089Z",
+    "statusChangeReason": "SOP V4.7 完整驗證"
   },
   {
     "id": 1525,
@@ -22587,14 +22821,16 @@
     "url": "https://www.pengyuan.com.tw",
     "venueListUrl": "https://www.pengyuan.com.tw/conference#0",
     "maxCapacityTheater": 240,
-    "status": "下架",
+    "status": "待修",
     "verificationStatus": "已驗證",
     "verificationNote": "會議室清單已補充",
     "lastVerified": "2026-03-02T12:22:12.011Z",
     "roomsCount": 5,
     "updateReason": "SOP V4.7 修復：設定 roomsCount",
     "updateSource": "本地腳本自動修復",
-    "lastUpdated": "2026-03-03T07:28:48.298Z"
+    "lastUpdated": "2026-03-03T07:28:48.298Z",
+    "statusChangedAt": "2026-03-03T10:24:23.089Z",
+    "statusChangeReason": "SOP V4.7 完整驗證"
   },
   {
     "id": 1526,
@@ -22609,14 +22845,16 @@
     "url": "https://www.huashan1914.com",
     "venueListUrl": "https://www.huashan1914.com/w/huashan1914/AppPlaceList",
     "maxCapacityTheater": 250,
-    "status": "下架",
+    "status": "待修",
     "verificationStatus": "已驗證",
     "verificationNote": "會議室清單已補充",
     "lastVerified": "2026-03-02T12:22:12.011Z",
     "roomsCount": 9,
     "updateReason": "SOP V4.7 修復：設定 roomsCount",
     "updateSource": "本地腳本自動修復",
-    "lastUpdated": "2026-03-03T07:28:48.298Z"
+    "lastUpdated": "2026-03-03T07:28:48.298Z",
+    "statusChangedAt": "2026-03-03T10:24:23.089Z",
+    "statusChangeReason": "SOP V4.7 完整驗證"
   },
   {
     "id": 1527,
@@ -22631,14 +22869,16 @@
     "url": "https://www.huashan1914.com",
     "venueListUrl": "https://www.huashan1914.com/w/huashan1914/AppPlaceList",
     "maxCapacityTheater": 250,
-    "status": "下架",
+    "status": "待修",
     "verificationStatus": "已驗證",
     "verificationNote": "會議室清單已補充",
     "lastVerified": "2026-03-02T12:22:12.011Z",
     "roomsCount": 9,
     "updateReason": "SOP V4.7 修復：設定 roomsCount",
     "updateSource": "本地腳本自動修復",
-    "lastUpdated": "2026-03-03T07:28:48.298Z"
+    "lastUpdated": "2026-03-03T07:28:48.298Z",
+    "statusChangedAt": "2026-03-03T10:24:23.089Z",
+    "statusChangeReason": "SOP V4.7 完整驗證"
   },
   {
     "id": 1528,
@@ -22653,14 +22893,16 @@
     "url": "https://www.huashan1914.com",
     "venueListUrl": "https://www.huashan1914.com/w/huashan1914/AppPlaceList",
     "maxCapacityTheater": 80,
-    "status": "下架",
+    "status": "待修",
     "verificationStatus": "已驗證",
     "verificationNote": "會議室清單已補充",
     "lastVerified": "2026-03-02T12:22:12.011Z",
     "roomsCount": 9,
     "updateReason": "SOP V4.7 修復：設定 roomsCount",
     "updateSource": "本地腳本自動修復",
-    "lastUpdated": "2026-03-03T07:28:48.298Z"
+    "lastUpdated": "2026-03-03T07:28:48.298Z",
+    "statusChangedAt": "2026-03-03T10:24:23.089Z",
+    "statusChangeReason": "SOP V4.7 完整驗證"
   },
   {
     "id": 1529,
@@ -22675,14 +22917,16 @@
     "url": "https://www.huashan1914.com",
     "venueListUrl": "https://www.huashan1914.com/w/huashan1914/AppPlaceList",
     "maxCapacityTheater": 120,
-    "status": "下架",
+    "status": "待修",
     "verificationStatus": "已驗證",
     "verificationNote": "會議室清單已補充",
     "lastVerified": "2026-03-02T12:22:12.011Z",
     "roomsCount": 9,
     "updateReason": "SOP V4.7 修復：設定 roomsCount",
     "updateSource": "本地腳本自動修復",
-    "lastUpdated": "2026-03-03T07:28:48.298Z"
+    "lastUpdated": "2026-03-03T07:28:48.298Z",
+    "statusChangedAt": "2026-03-03T10:24:23.089Z",
+    "statusChangeReason": "SOP V4.7 完整驗證"
   },
   {
     "id": 1530,
@@ -22697,14 +22941,16 @@
     "url": "https://www.huashan1914.com",
     "venueListUrl": "https://www.huashan1914.com/w/huashan1914/AppPlaceList",
     "maxCapacityTheater": 120,
-    "status": "下架",
+    "status": "待修",
     "verificationStatus": "已驗證",
     "verificationNote": "會議室清單已補充",
     "lastVerified": "2026-03-02T12:22:12.011Z",
     "roomsCount": 9,
     "updateReason": "SOP V4.7 修復：設定 roomsCount",
     "updateSource": "本地腳本自動修復",
-    "lastUpdated": "2026-03-03T07:28:48.298Z"
+    "lastUpdated": "2026-03-03T07:28:48.298Z",
+    "statusChangedAt": "2026-03-03T10:24:23.089Z",
+    "statusChangeReason": "SOP V4.7 完整驗證"
   },
   {
     "id": 1531,
@@ -22719,14 +22965,16 @@
     "url": "https://www.huashan1914.com",
     "venueListUrl": "https://www.huashan1914.com/w/huashan1914/AppPlaceList",
     "maxCapacityTheater": 180,
-    "status": "下架",
+    "status": "待修",
     "verificationStatus": "已驗證",
     "verificationNote": "會議室清單已補充",
     "lastVerified": "2026-03-02T12:22:12.011Z",
     "roomsCount": 9,
     "updateReason": "SOP V4.7 修復：設定 roomsCount",
     "updateSource": "本地腳本自動修復",
-    "lastUpdated": "2026-03-03T07:28:48.298Z"
+    "lastUpdated": "2026-03-03T07:28:48.298Z",
+    "statusChangedAt": "2026-03-03T10:24:23.089Z",
+    "statusChangeReason": "SOP V4.7 完整驗證"
   },
   {
     "id": 1532,
@@ -22741,14 +22989,16 @@
     "url": "https://www.huashan1914.com",
     "venueListUrl": "https://www.huashan1914.com/w/huashan1914/AppPlaceList",
     "maxCapacityTheater": 1200,
-    "status": "下架",
+    "status": "待修",
     "verificationStatus": "已驗證",
     "verificationNote": "會議室清單已補充",
     "lastVerified": "2026-03-02T12:22:12.011Z",
     "roomsCount": 9,
     "updateReason": "SOP V4.7 修復：設定 roomsCount",
     "updateSource": "本地腳本自動修復",
-    "lastUpdated": "2026-03-03T07:28:48.298Z"
+    "lastUpdated": "2026-03-03T07:28:48.298Z",
+    "statusChangedAt": "2026-03-03T10:24:23.089Z",
+    "statusChangeReason": "SOP V4.7 完整驗證"
   },
   {
     "id": 1533,
@@ -22763,14 +23013,16 @@
     "url": "https://www.huashan1914.com",
     "venueListUrl": "https://www.huashan1914.com/w/huashan1914/AppPlaceList",
     "maxCapacityTheater": 80,
-    "status": "下架",
+    "status": "待修",
     "verificationStatus": "已驗證",
     "verificationNote": "會議室清單已補充",
     "lastVerified": "2026-03-02T12:22:12.011Z",
     "roomsCount": 9,
     "updateReason": "SOP V4.7 修復：設定 roomsCount",
     "updateSource": "本地腳本自動修復",
-    "lastUpdated": "2026-03-03T07:28:48.298Z"
+    "lastUpdated": "2026-03-03T07:28:48.298Z",
+    "statusChangedAt": "2026-03-03T10:24:23.089Z",
+    "statusChangeReason": "SOP V4.7 完整驗證"
   },
   {
     "id": 1534,
@@ -22785,14 +23037,16 @@
     "url": "https://www.huashan1914.com",
     "venueListUrl": "https://www.huashan1914.com/w/huashan1914/AppPlaceList",
     "maxCapacityTheater": 120,
-    "status": "下架",
+    "status": "待修",
     "verificationStatus": "已驗證",
     "verificationNote": "會議室清單已補充",
     "lastVerified": "2026-03-02T12:22:12.011Z",
     "roomsCount": 9,
     "updateReason": "SOP V4.7 修復：設定 roomsCount",
     "updateSource": "本地腳本自動修復",
-    "lastUpdated": "2026-03-03T07:28:48.298Z"
+    "lastUpdated": "2026-03-03T07:28:48.298Z",
+    "statusChangedAt": "2026-03-03T10:24:23.089Z",
+    "statusChangeReason": "SOP V4.7 完整驗證"
   },
   {
     "id": 1535,
@@ -22808,7 +23062,7 @@
     "venueListUrl": "https://www.tainex.com.tw/venue/room-info/1/3",
     "meetingPageUrl": "https://www.tainex.com.tw/venue/conference/1/1",
     "maxCapacityTheater": 60,
-    "status": "上架",
+    "status": "待修",
     "verificationStatus": "已驗證",
     "verificationNote": "會議室清單已補充（5個會議空間）",
     "lastVerified": "2026-03-02T12:36:53.819Z",
@@ -22830,7 +23084,9 @@
       "會議室5"
     ],
     "updateReason": "SOP V4.7 資料結構更新",
-    "updateSource": "手動驗證"
+    "updateSource": "手動驗證",
+    "statusChangedAt": "2026-03-03T10:24:23.089Z",
+    "statusChangeReason": "SOP V4.7 完整驗證"
   },
   {
     "id": 1536,
@@ -22848,7 +23104,7 @@
     "meetingPageUrl": "https://www.tainex.com.tw/venue/app-room/1",
     "maxCapacityTheater": 372,
     "maxCapacityClassroom": 160,
-    "status": "上架",
+    "status": "待修",
     "verificationStatus": "已驗證",
     "verificationNote": "會議室清單已補充",
     "lastVerified": "2026-03-02T12:46:56.289Z",
@@ -22861,7 +23117,9 @@
       "會議室5"
     ],
     "updateReason": "SOP V4.7 資料結構更新",
-    "updateSource": "手動驗證"
+    "updateSource": "手動驗證",
+    "statusChangedAt": "2026-03-03T10:24:23.089Z",
+    "statusChangeReason": "SOP V4.7 完整驗證"
   },
   {
     "id": 1537,
@@ -22878,7 +23136,7 @@
     "venueListUrl": "https://www.tainex.com.tw/venue/room-info/1/3",
     "meetingPageUrl": "https://www.tainex.com.tw/venue/app-room/1",
     "maxCapacityClassroom": 56,
-    "status": "上架",
+    "status": "待修",
     "verificationStatus": "已驗證",
     "verificationNote": "會議室清單已補充",
     "lastVerified": "2026-03-02T12:46:56.290Z",
@@ -22891,7 +23149,9 @@
       "會議室5"
     ],
     "updateReason": "SOP V4.7 資料結構更新",
-    "updateSource": "手動驗證"
+    "updateSource": "手動驗證",
+    "statusChangedAt": "2026-03-03T10:24:23.089Z",
+    "statusChangeReason": "SOP V4.7 完整驗證"
   },
   {
     "id": 1538,
@@ -22909,7 +23169,7 @@
     "meetingPageUrl": "https://www.tainex.com.tw/venue/app-room/1",
     "maxCapacityTheater": 192,
     "maxCapacityClassroom": 88,
-    "status": "上架",
+    "status": "待修",
     "verificationStatus": "已驗證",
     "verificationNote": "會議室清單已補充",
     "lastVerified": "2026-03-02T12:46:56.290Z",
@@ -22922,7 +23182,9 @@
       "會議室5"
     ],
     "updateReason": "SOP V4.7 資料結構更新",
-    "updateSource": "手動驗證"
+    "updateSource": "手動驗證",
+    "statusChangedAt": "2026-03-03T10:24:23.089Z",
+    "statusChangeReason": "SOP V4.7 完整驗證"
   },
   {
     "id": 1539,
@@ -22938,7 +23200,7 @@
     "url": "https://www.tainex.com.tw/",
     "venueListUrl": "https://www.tainex.com.tw/venue/room-info/1/3",
     "meetingPageUrl": "https://www.tainex.com.tw/venue/app-room/1",
-    "status": "上架",
+    "status": "待修",
     "verificationStatus": "已驗證",
     "verificationNote": "會議室清單已補充",
     "lastVerified": "2026-03-02T12:46:56.290Z",
@@ -22951,7 +23213,9 @@
       "會議室5"
     ],
     "updateReason": "SOP V4.7 資料結構更新",
-    "updateSource": "手動驗證"
+    "updateSource": "手動驗證",
+    "statusChangedAt": "2026-03-03T10:24:23.089Z",
+    "statusChangeReason": "SOP V4.7 完整驗證"
   },
   {
     "id": "1540",
@@ -22962,15 +23226,15 @@
     "address": "台北市大安區忠孝東路三段1號 (億光大樓2~3樓)",
     "phone": "(02) 2741-7655",
     "email": "gistaipeitechcc@gisgroup.com",
-    "status": "上架",
+    "status": "待修",
     "source": "meeting.com.tw",
     "createdAt": "2026-03-02T16:36:43.546Z",
     "roomsCount": 1,
     "updateReason": "SOP V4.7 修復：設定 roomsCount",
     "updateSource": "本地腳本自動修復",
     "lastUpdated": "2026-03-03T07:28:48.298Z",
-    "statusChangedAt": "2026-03-03T09:09:29.362Z",
-    "statusChangeReason": "SOP V4.7 驗證：資料完整"
+    "statusChangedAt": "2026-03-03T10:24:23.089Z",
+    "statusChangeReason": "SOP V4.7 完整驗證"
   },
   {
     "id": "1541",
@@ -22981,15 +23245,15 @@
     "address": "台北市杭州南路一段24號",
     "phone": "(02) 2321-4946",
     "email": "motc@gisgroup.com",
-    "status": "上架",
+    "status": "待修",
     "source": "meeting.com.tw",
     "createdAt": "2026-03-02T16:36:43.547Z",
     "roomsCount": 1,
     "updateReason": "SOP V4.7 修復：設定 roomsCount",
     "updateSource": "本地腳本自動修復",
     "lastUpdated": "2026-03-03T07:28:48.298Z",
-    "statusChangedAt": "2026-03-03T09:09:29.362Z",
-    "statusChangeReason": "SOP V4.7 驗證：資料完整"
+    "statusChangedAt": "2026-03-03T10:24:23.089Z",
+    "statusChangeReason": "SOP V4.7 完整驗證"
   },
   {
     "id": "1542",
@@ -23037,7 +23301,7 @@
     "venueType": "飯店場地",
     "url": "https://www.grandvictoria.com.tw/",
     "venueListUrl": "https://grandvictoria.com.tw/%e5%a9%9a%e5%ae%b4%e5%ae%b4%e6%9c%83/%e7%b6%ad%e5%a4%9a%e9%ba%97%e4%ba%9e%e5%bb%b3-3f/",
-    "status": "下架",
+    "status": "待修",
     "contactPhone": "02-2523-2828",
     "contactEmail": "events@victoria.com.tw",
     "createdAt": "2026-03-02T17:46:33.188Z",
@@ -23045,7 +23309,9 @@
     "roomsCount": 2,
     "updateReason": "SOP V4.7 修復：設定 roomsCount",
     "updateSource": "本地腳本自動修復",
-    "lastUpdated": "2026-03-03T07:28:48.298Z"
+    "lastUpdated": "2026-03-03T07:28:48.298Z",
+    "statusChangedAt": "2026-03-03T10:24:23.089Z",
+    "statusChangeReason": "SOP V4.7 完整驗證"
   },
   {
     "id": "1546",
@@ -23056,7 +23322,7 @@
     "venueType": "飯店場地",
     "url": "https://www.grandvictoria.com.tw/",
     "venueListUrl": "https://grandvictoria.com.tw/%e5%a9%9a%e5%ae%b4%e5%ae%b4%e6%9c%83/%e5%a4%a9%e7%92%bd%e5%bb%b3-3f/",
-    "status": "下架",
+    "status": "待修",
     "contactPhone": "02-2523-2828",
     "contactEmail": "events@victoria.com.tw",
     "createdAt": "2026-03-02T17:46:33.188Z",
@@ -23064,6 +23330,8 @@
     "roomsCount": 2,
     "updateReason": "SOP V4.7 修復：設定 roomsCount",
     "updateSource": "本地腳本自動修復",
-    "lastUpdated": "2026-03-03T07:28:48.298Z"
+    "lastUpdated": "2026-03-03T07:28:48.298Z",
+    "statusChangedAt": "2026-03-03T10:24:23.089Z",
+    "statusChangeReason": "SOP V4.7 完整驗證"
   }
 ]
