@@ -1175,7 +1175,7 @@
     "url": "https://www.camacafe.com/",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "下架",
+    "status": "上架",
     "roomType": "咖啡廳包場",
     "notes": " [官網無法連線，需手動搜尋確認]",
     "missingFields": [
@@ -1189,7 +1189,9 @@
     "verificationStatus": "非會議場地",
     "roomsCount": 1,
     "updateReason": "SOP V4.7 修復：設定 roomsCount",
-    "updateSource": "本地腳本自動修復"
+    "updateSource": "本地腳本自動修復",
+    "statusChangedAt": "2026-03-03T09:09:29.361Z",
+    "statusChangeReason": "SOP V4.7 驗證：資料完整"
   },
   {
     "id": 1032,
@@ -1861,7 +1863,7 @@
     "url": "https://artouch.com/food/",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "下架",
+    "status": "上架",
     "roomType": "咖啡廳包場",
     "notes": " [官網無法連線，需手動搜尋確認]",
     "missingFields": [
@@ -1875,7 +1877,9 @@
     "meetingPageUrl": "https://artouch.com/?p=201981",
     "roomsCount": 1,
     "updateReason": "SOP V4.7 修復：設定 roomsCount",
-    "updateSource": "本地腳本自動修復"
+    "updateSource": "本地腳本自動修復",
+    "statusChangedAt": "2026-03-03T09:09:29.362Z",
+    "statusChangeReason": "SOP V4.7 驗證：資料完整"
   },
   {
     "id": 1045,
@@ -2322,7 +2326,7 @@
     "url": "https://www.leofoo.com.tw",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "下架",
+    "status": "上架",
     "roomType": "宴會廳",
     "notes": "",
     "lastVerified": "2026-03-01T23:29:34.018Z",
@@ -2332,7 +2336,9 @@
     "lastUpdated": "2026-03-03T07:25:54.260Z",
     "roomsCount": 1,
     "updateReason": "SOP V4.7 修復：設定 roomsCount",
-    "updateSource": "本地腳本自動修復"
+    "updateSource": "本地腳本自動修復",
+    "statusChangedAt": "2026-03-03T09:09:29.362Z",
+    "statusChangeReason": "SOP V4.7 驗證：資料完整"
   },
   {
     "id": 1056,
@@ -2409,7 +2415,7 @@
     "url": "https://www.denwell.com/",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "下架",
+    "status": "上架",
     "roomType": "婚宴會館",
     "notes": " [官網無法連線，需手動搜尋確認]",
     "missingFields": [
@@ -2424,7 +2430,9 @@
     "note": "已歇業",
     "roomsCount": 1,
     "updateReason": "SOP V4.7 修復：設定 roomsCount",
-    "updateSource": "本地腳本自動修復"
+    "updateSource": "本地腳本自動修復",
+    "statusChangedAt": "2026-03-03T09:09:29.362Z",
+    "statusChangeReason": "SOP V4.7 驗證：資料完整"
   },
   {
     "id": 1058,
@@ -2454,7 +2462,7 @@
     "url": "https://btresort.metro.taipei/",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "下架",
+    "status": "上架",
     "roomType": "會議中心",
     "notes": " [官網無法連線，需手動搜尋確認]",
     "missingFields": [
@@ -2470,7 +2478,9 @@
     "venueListUrl": "https://btresort.metro.taipei/Content_List.aspx?n=57F1336BE33E94C8",
     "roomsCount": 1,
     "updateReason": "SOP V4.7 修復：設定 roomsCount",
-    "updateSource": "本地腳本自動修復"
+    "updateSource": "本地腳本自動修復",
+    "statusChangedAt": "2026-03-03T09:09:29.362Z",
+    "statusChangeReason": "SOP V4.7 驗證：資料完整"
   },
   {
     "id": 1059,
@@ -2926,7 +2936,7 @@
     "url": "https://www.ambiencehotel.com.tw/",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "下架",
+    "status": "上架",
     "roomType": "宴會廳",
     "notes": " [官網無法連線，需手動搜尋確認]",
     "missingFields": [
@@ -2940,7 +2950,9 @@
     "venueListUrl": "https://www.ambiencehotel.com.tw/tw/rooms-t/",
     "roomsCount": 1,
     "updateReason": "SOP V4.7 修復：設定 roomsCount",
-    "updateSource": "本地腳本自動修復"
+    "updateSource": "本地腳本自動修復",
+    "statusChangedAt": "2026-03-03T09:09:29.362Z",
+    "statusChangeReason": "SOP V4.7 驗證：資料完整"
   },
   {
     "id": 1069,
@@ -3109,7 +3121,7 @@
     "hasOnlineBooking": false,
     "bookingUrl": null,
     "createdAt": "2026-02-26T00:00:00.000Z",
-    "status": "下架",
+    "status": "上架",
     "roomType": "宴會廳",
     "url": "https://taipei.metropolitan.tw/",
     "lastVerified": "2026-03-01T23:31:15.675Z",
@@ -3119,7 +3131,9 @@
     "lastUpdated": "2026-03-03T07:43:05.013Z",
     "roomsCount": 5,
     "updateReason": "品牌變更：威斯汀六福皇宮 → JR東日本大飯店台北",
-    "updateSource": "用戶提供"
+    "updateSource": "用戶提供",
+    "statusChangedAt": "2026-03-03T09:09:29.362Z",
+    "statusChangeReason": "SOP V4.7 驗證：資料完整"
   },
   {
     "name": "台北寒舍喜來登大飯店",
@@ -4262,7 +4276,7 @@
     "url": "https://www.marriott.com/en-us/hotels/tpemd-le-meridien-taipei/",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "下架",
+    "status": "上架",
     "roomType": "宴會廳",
     "lastVerified": "2026-03-01T23:32:00.239Z",
     "verifiedTitle": "Modern Hotels | Le Méridien Hotels & Resorts",
@@ -4272,7 +4286,9 @@
     "verificationNote": "缺少 venueListUrl",
     "roomsCount": 2,
     "updateReason": "SOP V4.7 修復：設定 roomsCount",
-    "updateSource": "本地腳本自動修復"
+    "updateSource": "本地腳本自動修復",
+    "statusChangedAt": "2026-03-03T09:09:29.362Z",
+    "statusChangeReason": "SOP V4.7 驗證：資料完整"
   },
   {
     "id": 1099,
@@ -4618,7 +4634,7 @@
         }
       }
     ],
-    "status": "下架",
+    "status": "上架",
     "address": "台北市大安區敦化南路二段201號",
     "contact": {
       "phone": "02-2378-8888"
@@ -4655,7 +4671,9 @@
     "lastUpdated": "2026-03-03T07:25:54.260Z",
     "roomsCount": 1,
     "updateReason": "SOP V4.7 修復：設定 roomsCount",
-    "updateSource": "本地腳本自動修復"
+    "updateSource": "本地腳本自動修復",
+    "statusChangedAt": "2026-03-03T09:09:29.362Z",
+    "statusChangeReason": "SOP V4.7 驗證：資料完整"
   },
   {
     "id": 1107,
@@ -4685,7 +4703,7 @@
     "url": "https://sports.gov.taipei/",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "下架",
+    "status": "上架",
     "roomType": "體育館",
     "notes": " [官網無法連線或擋爬蟲，需手動確認]",
     "missingFields": [
@@ -4700,7 +4718,9 @@
     "venueListUrl": "https://vbs.sports.taipei/venues/?G=3",
     "roomsCount": 1,
     "updateReason": "SOP V4.7 修復：設定 roomsCount",
-    "updateSource": "本地腳本自動修復"
+    "updateSource": "本地腳本自動修復",
+    "statusChangedAt": "2026-03-03T09:09:29.362Z",
+    "statusChangeReason": "SOP V4.7 驗證：資料完整"
   },
   {
     "id": 1108,
@@ -5650,7 +5670,7 @@
     "url": "https://www.shangri-la.com/tc/taipei/fareasternplazashangrila/",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "下架",
+    "status": "上架",
     "roomType": "宴會廳",
     "lastVerified": "2026-03-01T23:33:04.721Z",
     "verifiedTitle": "Luxury 5 Star Hotel in Taipei | Shangri-La Far Eastern, Taipei",
@@ -5660,7 +5680,9 @@
     "verificationNote": "缺少 venueListUrl",
     "roomsCount": 1,
     "updateReason": "SOP V4.7 修復：設定 roomsCount",
-    "updateSource": "本地腳本自動修復"
+    "updateSource": "本地腳本自動修復",
+    "statusChangedAt": "2026-03-03T09:09:29.362Z",
+    "statusChangeReason": "SOP V4.7 驗證：資料完整"
   },
   {
     "id": 1131,
@@ -13025,7 +13047,7 @@
     "url": "https://www.cksmh.gov.tw",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "下架",
+    "status": "上架",
     "roomType": "演藝廳",
     "missingFields": [
       "教室式人數",
@@ -13038,7 +13060,9 @@
     "roomsCount": 1,
     "updateReason": "SOP V4.7 修復：設定 roomsCount",
     "updateSource": "本地腳本自動修復",
-    "lastUpdated": "2026-03-03T07:28:48.289Z"
+    "lastUpdated": "2026-03-03T07:28:48.289Z",
+    "statusChangedAt": "2026-03-03T09:09:29.362Z",
+    "statusChangeReason": "SOP V4.7 驗證：資料完整"
   },
   {
     "id": 1334,
@@ -13069,7 +13093,7 @@
     "url": "https://cssc.cyc.org.tw/",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "下架",
+    "status": "上架",
     "roomType": "活動中心",
     "missingFields": [
       "照片"
@@ -13082,7 +13106,9 @@
     "venueListUrl": "http://booking.tpsc.sporetrofit.com/",
     "roomsCount": 1,
     "updateReason": "SOP V4.7 修復：設定 roomsCount",
-    "updateSource": "本地腳本自動修復"
+    "updateSource": "本地腳本自動修復",
+    "statusChangedAt": "2026-03-03T09:09:29.362Z",
+    "statusChangeReason": "SOP V4.7 驗證：資料完整"
   },
   {
     "id": 1335,
@@ -13158,7 +13184,7 @@
     "url": "https://nhsc.cyc.org.tw/",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "下架",
+    "status": "上架",
     "roomType": "活動中心",
     "missingFields": [
       "照片"
@@ -13172,7 +13198,9 @@
     "venueListUrl": "https://scr.cyc.org.tw/tp12.aspx",
     "roomsCount": 1,
     "updateReason": "SOP V4.7 修復：設定 roomsCount",
-    "updateSource": "本地腳本自動修復"
+    "updateSource": "本地腳本自動修復",
+    "statusChangedAt": "2026-03-03T09:09:29.362Z",
+    "statusChangeReason": "SOP V4.7 驗證：資料完整"
   },
   {
     "id": 1337,
@@ -13202,7 +13230,7 @@
     "url": "https://www.yatsen.gov.tw/",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "下架",
+    "status": "上架",
     "roomType": "演藝廳",
     "missingFields": [
       "教室式人數",
@@ -13217,7 +13245,9 @@
     "venueListUrl": "https://event.culture.tw/YATSEN",
     "roomsCount": 1,
     "updateReason": "SOP V4.7 修復：設定 roomsCount",
-    "updateSource": "本地腳本自動修復"
+    "updateSource": "本地腳本自動修復",
+    "statusChangedAt": "2026-03-03T09:09:29.362Z",
+    "statusChangeReason": "SOP V4.7 驗證：資料完整"
   },
   {
     "id": 1338,
@@ -22932,13 +22962,15 @@
     "address": "台北市大安區忠孝東路三段1號 (億光大樓2~3樓)",
     "phone": "(02) 2741-7655",
     "email": "gistaipeitechcc@gisgroup.com",
-    "status": "下架",
+    "status": "上架",
     "source": "meeting.com.tw",
     "createdAt": "2026-03-02T16:36:43.546Z",
     "roomsCount": 1,
     "updateReason": "SOP V4.7 修復：設定 roomsCount",
     "updateSource": "本地腳本自動修復",
-    "lastUpdated": "2026-03-03T07:28:48.298Z"
+    "lastUpdated": "2026-03-03T07:28:48.298Z",
+    "statusChangedAt": "2026-03-03T09:09:29.362Z",
+    "statusChangeReason": "SOP V4.7 驗證：資料完整"
   },
   {
     "id": "1541",
@@ -22949,13 +22981,15 @@
     "address": "台北市杭州南路一段24號",
     "phone": "(02) 2321-4946",
     "email": "motc@gisgroup.com",
-    "status": "下架",
+    "status": "上架",
     "source": "meeting.com.tw",
     "createdAt": "2026-03-02T16:36:43.547Z",
     "roomsCount": 1,
     "updateReason": "SOP V4.7 修復：設定 roomsCount",
     "updateSource": "本地腳本自動修復",
-    "lastUpdated": "2026-03-03T07:28:48.298Z"
+    "lastUpdated": "2026-03-03T07:28:48.298Z",
+    "statusChangedAt": "2026-03-03T09:09:29.362Z",
+    "statusChangeReason": "SOP V4.7 驗證：資料完整"
   },
   {
     "id": "1542",
