@@ -1258,11 +1258,11 @@
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "投影機、音響",
     "images": {
-      "main": "https://images.unsplash.com/photo-1554118811-1e0d58224f24?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
       "needsUpdate": true,
-      "note": "待補充會議室照片",
+      "note": "待補充真實照片（聯絡：02-2775-3366）",
       "lastUpdated": "2026-03-05"
     },
     "url": "https://www.goodmans-coffee.com/",
@@ -1480,11 +1480,11 @@
     "availableTimeWeekend": "09:00-18:00",
     "equipment": "投影機、白板、WiFi",
     "images": {
-      "main": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
       "needsUpdate": true,
-      "note": "待補充會議室照片",
+      "note": "待補充真實照片（聯絡：02-8101-8288）",
       "lastUpdated": "2026-03-05"
     },
     "url": "https://www.tccc.com.tw/",
@@ -1686,7 +1686,8 @@
     "updateReason": "SOP V4.7 修復：設定 roomsCount",
     "updateSource": "本地腳本自動修復",
     "statusChangedAt": "2026-03-03T10:24:23.089Z",
-    "statusChangeReason": "SOP V4.7 完整驗證"
+    "statusChangeReason": "SOP V4.7 完整驗證",
+    "priceNote": "需電詢 "
   },
   {
     "id": 1041,
@@ -2005,11 +2006,11 @@
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "基本音響、投影設備",
     "images": {
-      "main": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
       "needsUpdate": true,
-      "note": "待補充會議室照片",
+      "note": "待補充真實照片（聯絡：02-23081111）",
       "lastUpdated": "2026-03-05"
     },
     "url": "https://www.ile-hotel.com",
@@ -2290,11 +2291,11 @@
     "availableTimeWeekend": "休館",
     "equipment": "投影機、音響",
     "images": {
-      "main": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
       "needsUpdate": true,
-      "note": "待補充會議室照片",
+      "note": "待補充真實照片（聯絡：02-23561111）",
       "lastUpdated": "2026-03-05"
     },
     "url": "https://www.hotelbf.com",
@@ -2429,11 +2430,11 @@
     "availableTimeWeekend": "11:00-22:00",
     "equipment": "專業音響燈光、LED螢幕",
     "images": {
-      "main": "https://images.unsplash.com/photo-1519167758481-83f550bb49b3?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
       "needsUpdate": true,
-      "note": "待補充會議室照片",
+      "note": "待補充真實照片（聯絡：02-2592-5555）",
       "lastUpdated": "2026-03-05"
     },
     "url": "https://www.denwell.com/",
@@ -2476,11 +2477,11 @@
     "availableTimeWeekend": "休館",
     "equipment": "投影設備、音響",
     "images": {
-      "main": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
       "needsUpdate": true,
-      "note": "待補充會議室照片",
+      "note": "待補充真實照片（聯絡：02-28979988）",
       "lastUpdated": "2026-03-05"
     },
     "url": "https://btresort.metro.taipei/",
@@ -2524,11 +2525,11 @@
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "基本音響、投影設備",
     "images": {
-      "main": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
       "needsUpdate": true,
-      "note": "待補充會議室照片",
+      "note": "待補充真實照片（聯絡：02-25423234）",
       "lastUpdated": "2026-03-05"
     },
     "url": "https://www.youchun-hotel.com",
@@ -2566,15 +2567,15 @@
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "專業音響燈光、投影設備",
     "images": {
-      "main": "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?w=800",
+      "main": "",
       "gallery": [
         "https://images.unsplash.com/photo-1505236858219-8359eb29e329?w=800",
         "https://images.unsplash.com/photo-1484154218962-a197022b5858?w=800"
       ],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "照片來源：Unsplash（高品質示意照片）",
-      "lastUpdated": "2026-03-01",
+      "needsUpdate": true,
+      "note": "待補充真實照片（聯絡：02-21819988）",
+      "lastUpdated": "2026-03-05",
       "source": "Unsplash",
       "verified": true,
       "verifiedAt": "2026-03-01T23:29:49.151Z"
@@ -2821,11 +2822,11 @@
     "availableTimeWeekend": "休館",
     "equipment": "投影設備、音響",
     "images": {
-      "main": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
       "needsUpdate": true,
-      "note": "待補充會議室照片",
+      "note": "待補充真實照片（聯絡：02-25218888）",
       "lastUpdated": "2026-03-05"
     },
     "url": "https://www.victoriam.com/",
@@ -2867,11 +2868,11 @@
     "availableTimeWeekend": "休館",
     "equipment": "投影設備、音響",
     "images": {
-      "main": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
       "needsUpdate": true,
-      "note": "待補充會議室照片",
+      "note": "待補充真實照片（聯絡：02-27055678）",
       "lastUpdated": "2026-03-05"
     },
     "url": "http://www.tbc-group.com/",
@@ -3104,11 +3105,11 @@
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "基本音響、投影設備",
     "images": {
-      "main": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
       "needsUpdate": true,
-      "note": "待補充會議室照片",
+      "note": "待補充真實照片（聯絡：02-25671111）",
       "lastUpdated": "2026-03-05"
     },
     "url": "https://www.zibei-hotel.com",
@@ -3222,7 +3223,8 @@
       "菊花廳"
     ],
     "updateReason": "SOP V4.7 資料結構更新",
-    "updateSource": "手動驗證"
+    "updateSource": "手動驗證",
+    "priceNote": "需電詢 02-2321-5511"
   },
   {
     "id": 1076,
@@ -3426,11 +3428,11 @@
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "基本音響、投影設備",
     "images": {
-      "main": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
       "needsUpdate": true,
-      "note": "待補充會議室照片",
+      "note": "待補充真實照片（聯絡：02-25213211）",
       "lastUpdated": "2026-03-05"
     },
     "url": "https://www.kanghua-hotel.com",
@@ -3468,11 +3470,11 @@
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "專業音響、投影設備",
     "images": {
-      "main": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
       "needsUpdate": true,
-      "note": "待補充會議室照片",
+      "note": "待補充真實照片（聯絡：02-23885888）",
       "lastUpdated": "2026-03-05"
     },
     "url": "https://www.midtownrichard.com/",
@@ -3618,11 +3620,11 @@
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "專業音響、投影設備",
     "images": {
-      "main": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
       "needsUpdate": true,
-      "note": "待補充會議室照片",
+      "note": "待補充真實照片（聯絡：02-25415555）",
       "lastUpdated": "2026-03-05"
     },
     "url": "https://www.ching-tai.com",
@@ -3859,11 +3861,11 @@
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "專業音響、投影設備",
     "images": {
-      "main": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
       "needsUpdate": true,
-      "note": "待補充會議室照片",
+      "note": "待補充真實照片（聯絡：02-23456789）",
       "lastUpdated": "2026-03-05"
     },
     "url": "https://www.songyi-hotel.com/",
@@ -3903,11 +3905,11 @@
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "基本音響、投影設備",
     "images": {
-      "main": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
       "needsUpdate": true,
-      "note": "待補充會議室照片",
+      "note": "待補充真實照片（聯絡：02-25221111）",
       "lastUpdated": "2026-03-05"
     },
     "url": "https://www.chateau-china.com/",
@@ -4062,11 +4064,11 @@
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "基本音響、投影設備",
     "images": {
-      "main": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
       "needsUpdate": true,
-      "note": "待補充會議室照片",
+      "note": "待補充真實照片（聯絡：02-25567890）",
       "lastUpdated": "2026-03-05"
     },
     "url": "https://www.firsthotel.com",
@@ -4104,11 +4106,11 @@
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "專業音響、投影設備",
     "images": {
-      "main": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
       "needsUpdate": true,
-      "note": "待補充會議室照片",
+      "note": "待補充真實照片（聯絡：02-25603666）",
       "lastUpdated": "2026-03-05"
     },
     "url": "https://www.first-hotel.com.tw/",
@@ -4148,11 +4150,11 @@
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "基本音響、投影設備",
     "images": {
-      "main": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
       "needsUpdate": true,
-      "note": "待補充會議室照片",
+      "note": "待補充真實照片（聯絡：02-23815151）",
       "lastUpdated": "2026-03-05"
     },
     "url": "https://www.tongyi-hotel.com/",
@@ -4489,11 +4491,11 @@
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "專業音響、投影設備",
     "images": {
-      "main": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
       "needsUpdate": true,
-      "note": "待補充會議室照片",
+      "note": "待補充真實照片（聯絡：02-25915111）",
       "lastUpdated": "2026-03-05"
     },
     "url": "https://www.imperial-hotel.com.tw/",
@@ -4533,11 +4535,11 @@
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "專業音響、投影設備",
     "images": {
-      "main": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
       "needsUpdate": true,
-      "note": "待補充會議室照片",
+      "note": "待補充真實照片（聯絡：02-23568000）",
       "lastUpdated": "2026-03-05"
     },
     "url": "https://www.gloria-residence.com/",
@@ -4667,11 +4669,11 @@
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "專業音響、投影設備",
     "images": {
-      "main": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
       "needsUpdate": true,
-      "note": "待補充會議室照片",
+      "note": "待補充真實照片（聯絡：02-28616661）",
       "lastUpdated": "2026-03-05"
     },
     "url": "https://www.landisresort.com/",
@@ -4753,7 +4755,8 @@
     "updateReason": "SOP V4.7 修復：設定 roomsCount",
     "updateSource": "本地腳本自動修復",
     "statusChangedAt": "2026-03-03T09:09:29.362Z",
-    "statusChangeReason": "SOP V4.7 驗證：資料完整"
+    "statusChangeReason": "SOP V4.7 驗證：資料完整",
+    "priceNote": "需電詢 "
   },
   {
     "id": 1107,
@@ -4773,11 +4776,11 @@
     "availableTimeWeekend": "09:00-18:00",
     "equipment": "專業音響、燈光",
     "images": {
-      "main": "https://images.unsplash.com/photo-1571902943202-507ec2618e8f?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
       "needsUpdate": true,
-      "note": "待補充會議室照片",
+      "note": "待補充真實照片（聯絡：02-2570-2330）",
       "lastUpdated": "2026-03-05"
     },
     "url": "https://sports.gov.taipei/",
@@ -4820,11 +4823,11 @@
     "availableTimeWeekend": "08:00-17:00",
     "equipment": "投影設備、音響",
     "images": {
-      "main": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
       "needsUpdate": true,
-      "note": "待補充會議室照片",
+      "note": "待補充真實照片（聯絡：02-2321-8415）",
       "lastUpdated": "2026-03-05"
     },
     "url": "http://www.ntualumni.org.tw/",
@@ -4961,11 +4964,11 @@
     "availableTimeWeekend": "09:00-18:00",
     "equipment": "專業音響、燈光",
     "images": {
-      "main": "https://images.unsplash.com/photo-1571902943202-507ec2618e8f?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
       "needsUpdate": true,
-      "note": "待補充會議室照片",
+      "note": "待補充真實照片（聯絡：02-2873-6528）",
       "lastUpdated": "2026-03-05"
     },
     "url": "https://www.tms.gov.taipei/",
@@ -5040,7 +5043,8 @@
     "updateReason": "SOP V4.7 修復：設定 roomsCount",
     "updateSource": "本地腳本自動修復",
     "statusChangedAt": "2026-03-03T08:13:12.669Z",
-    "statusChangeReason": "SOP V4.7: 資料完整，恢復上架"
+    "statusChangeReason": "SOP V4.7: 資料完整，恢復上架",
+    "priceNote": "需電詢 "
   },
   {
     "id": 1115,
@@ -5060,15 +5064,15 @@
     "availableTimeWeekend": "休館",
     "equipment": "專業投影設備、音響",
     "images": {
-      "main": "https://images.unsplash.com/photo-1559223607-a43c990c692c?w=800",
+      "main": "",
       "gallery": [
         "https://images.unsplash.com/photo-1515187029135-18ee286d815b?w=800",
         "https://images.unsplash.com/photo-1505373877841-8d25f7d46678?w=800"
       ],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "照片來源：Unsplash（高品質示意照片）",
-      "lastUpdated": "2026-03-01",
+      "needsUpdate": true,
+      "note": "待補充真實照片（聯絡：02-2351-1111）",
+      "lastUpdated": "2026-03-05",
       "source": "Unsplash",
       "verified": true,
       "verifiedAt": "2026-03-02T03:33:04.295Z"
@@ -5155,11 +5159,11 @@
     "availableTimeWeekend": "09:00-18:00",
     "equipment": "投影機、白板、WiFi",
     "images": {
-      "main": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
       "needsUpdate": true,
-      "note": "待補充會議室照片",
+      "note": "待補充真實照片（聯絡：02-2546-5566）",
       "lastUpdated": "2026-03-05"
     },
     "url": "https://www.fuxing.space/",
@@ -5199,11 +5203,11 @@
     "availableTimeWeekend": "11:00-22:00",
     "equipment": "頂級音響燈光、LED螢幕",
     "images": {
-      "main": "https://images.unsplash.com/photo-1519167758481-83f550bb49b3?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
       "needsUpdate": true,
-      "note": "待補充會議室照片",
+      "note": "待補充真實照片（聯絡：02-2567-8900）",
       "lastUpdated": "2026-03-05"
     },
     "url": "https://www.mandarin-wedding.com/",
@@ -5244,11 +5248,11 @@
     "availableTimeWeekend": "休館",
     "equipment": "投影機、白板、WiFi",
     "images": {
-      "main": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
       "needsUpdate": true,
-      "note": "待補充會議室照片",
+      "note": "待補充真實照片（聯絡：02-2351-5667）",
       "lastUpdated": "2026-03-05"
     },
     "url": "https://www.siihub.org/",
@@ -5618,11 +5622,11 @@
     "availableTimeWeekend": "09:00-22:00",
     "equipment": "投影機、音響",
     "images": {
-      "main": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
       "needsUpdate": true,
-      "note": "待補充會議室照片",
+      "note": "待補充真實照片（聯絡：02-2700-3366）",
       "lastUpdated": "2026-03-05"
     },
     "url": "https://www.secondfloor.com.tw/",
@@ -13181,11 +13185,11 @@
     "availableTimeWeekend": "06:00-22:00",
     "equipment": "音響、空調",
     "images": {
-      "main": "https://images.unsplash.com/photo-1571902943202-507ec2618e8f?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
       "needsUpdate": true,
-      "note": "待補充會議室照片",
+      "note": "待補充真實照片（聯絡：02-25811060）",
       "lastUpdated": "2026-03-05"
     },
     "url": "https://cssc.cyc.org.tw/",
@@ -13227,11 +13231,11 @@
     "availableTimeWeekend": "06:00-22:00",
     "equipment": "投影機、音響",
     "images": {
-      "main": "https://images.unsplash.com/photo-1571902943202-507ec2618e8f?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
       "needsUpdate": true,
-      "note": "待補充會議室照片",
+      "note": "待補充真實照片（聯絡：02-87802688）",
       "lastUpdated": "2026-03-05"
     },
     "url": "https://xysc.cyc.org.tw/",
@@ -13274,11 +13278,11 @@
     "availableTimeWeekend": "06:00-22:00",
     "equipment": "音響、空調",
     "images": {
-      "main": "https://images.unsplash.com/photo-1571902943202-507ec2618e8f?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
       "needsUpdate": true,
-      "note": "待補充會議室照片",
+      "note": "待補充真實照片（聯絡：02-26561669）",
       "lastUpdated": "2026-03-05"
     },
     "url": "https://nhsc.cyc.org.tw/",
@@ -13369,11 +13373,11 @@
     "availableTimeWeekend": "依申請",
     "equipment": "投影機/麥克風/白板",
     "images": {
-      "main": "https://images.unsplash.com/photo-1497366811353-6870744d04b2?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
       "needsUpdate": true,
-      "note": "待補充會議室照片",
+      "note": "待補充真實照片（聯絡：02-27026141分機211）",
       "lastUpdated": "2026-03-05"
     },
     "layoutImageUrl": null,
@@ -13427,7 +13431,8 @@
     "updateReason": "SOP V4.7 修復：設定 roomsCount",
     "updateSource": "本地腳本自動修復",
     "statusChangedAt": "2026-03-03T10:24:23.089Z",
-    "statusChangeReason": "SOP V4.7 完整驗證"
+    "statusChangeReason": "SOP V4.7 完整驗證",
+    "priceNote": "需電詢 02-27026141分機211"
   },
   {
     "name": "朱崙區民活動中心",
@@ -13454,11 +13459,11 @@
     "contactEmail": "civil@taipei.gov.tw",
     "url": "https://zsdp.gov.taipei/",
     "images": {
-      "main": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
       "needsUpdate": true,
-      "note": "待補充會議室照片",
+      "note": "待補充真實照片（聯絡：待查詢）",
       "lastUpdated": "2026-03-05"
     },
     "missingFields": [
@@ -13479,7 +13484,8 @@
     "updateReason": "SOP V4.7 修復：設定 roomsCount",
     "updateSource": "本地腳本自動修復",
     "statusChangedAt": "2026-03-03T10:24:23.089Z",
-    "statusChangeReason": "SOP V4.7 完整驗證"
+    "statusChangeReason": "SOP V4.7 完整驗證",
+    "priceNote": "需電詢 "
   },
   {
     "id": 1340,
@@ -13501,11 +13507,11 @@
     "availableTimeWeekend": "依申請",
     "equipment": "桌椅/投影",
     "images": {
-      "main": "https://images.unsplash.com/photo-1497366811353-6870744d04b2?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
       "needsUpdate": true,
-      "note": "待補充會議室照片",
+      "note": "待補充真實照片（聯絡：02-25031369轉506）",
       "lastUpdated": "2026-03-05"
     },
     "layoutImageUrl": null,
@@ -13569,7 +13575,8 @@
     "updateReason": "SOP V4.7 修復：設定 roomsCount",
     "updateSource": "本地腳本自動修復",
     "statusChangedAt": "2026-03-03T10:24:23.089Z",
-    "statusChangeReason": "SOP V4.7 完整驗證"
+    "statusChangeReason": "SOP V4.7 完整驗證",
+    "priceNote": "需電詢 02-25031369轉506"
   },
   {
     "name": "林森三區民活動中心",
@@ -13602,11 +13609,11 @@
     "contactEmail": "civil@taipei.gov.tw",
     "url": "https://zsdp.gov.taipei/",
     "images": {
-      "main": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
       "needsUpdate": true,
-      "note": "待補充會議室照片",
+      "note": "待補充真實照片（聯絡：待查詢）",
       "lastUpdated": "2026-03-05"
     },
     "missingFields": [
@@ -13627,7 +13634,8 @@
     "updateReason": "SOP V4.7 修復：設定 roomsCount",
     "updateSource": "本地腳本自動修復",
     "statusChangedAt": "2026-03-03T10:24:23.089Z",
-    "statusChangeReason": "SOP V4.7 完整驗證"
+    "statusChangeReason": "SOP V4.7 完整驗證",
+    "priceNote": "需電詢 "
   },
   {
     "id": 1342,
@@ -15059,11 +15067,11 @@
     "availableTimeWeekend": "08:00-24:00",
     "equipment": "頂級音響燈光、LED螢幕",
     "images": {
-      "main": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
       "needsUpdate": true,
-      "note": "待補充會議室照片",
+      "note": "待補充真實照片（聯絡：02-77088888）",
       "lastUpdated": "2026-03-05"
     },
     "url": "https://www.wtaipei.com",
@@ -15103,11 +15111,11 @@
     "availableTimeWeekend": "08:00-24:00",
     "equipment": "頂級音響燈光、LED螢幕",
     "images": {
-      "main": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
       "needsUpdate": true,
-      "note": "待補充會議室照片",
+      "note": "待補充真實照片（聯絡：02-77088888）",
       "lastUpdated": "2026-03-05"
     },
     "url": "https://www.wtaipei.com",
@@ -15147,11 +15155,11 @@
     "availableTimeWeekend": "08:00-24:00",
     "equipment": "頂級音響燈光、LED螢幕",
     "images": {
-      "main": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
       "needsUpdate": true,
-      "note": "待補充會議室照片",
+      "note": "待補充真實照片（聯絡：02-77088888）",
       "lastUpdated": "2026-03-05"
     },
     "url": "https://www.wtaipei.com",
@@ -16061,11 +16069,11 @@
     "availableTimeWeekend": "09:00-22:00",
     "equipment": "專業影音、同步翻譯、視訊會議",
     "images": {
-      "main": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
       "needsUpdate": true,
-      "note": "待補充會議室照片",
+      "note": "待補充真實照片（聯絡：02-8770-6565）",
       "lastUpdated": "2026-03-05",
       "source": null,
       "verified": false
@@ -16113,11 +16121,11 @@
     "availableTimeWeekend": "09:00-22:00",
     "equipment": "專業影音、同步翻譯、視訊會議",
     "images": {
-      "main": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
       "needsUpdate": true,
-      "note": "待補充會議室照片",
+      "note": "待補充真實照片（聯絡：02-8770-6565）",
       "lastUpdated": "2026-03-05",
       "source": null,
       "verified": false
@@ -16165,11 +16173,11 @@
     "availableTimeWeekend": "09:00-22:00",
     "equipment": "專業影音、同步翻譯、視訊會議",
     "images": {
-      "main": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
       "needsUpdate": true,
-      "note": "待補充會議室照片",
+      "note": "待補充真實照片（聯絡：02-8770-6565）",
       "lastUpdated": "2026-03-05",
       "source": null,
       "verified": false
@@ -16217,11 +16225,11 @@
     "availableTimeWeekend": "09:00-22:00",
     "equipment": "專業影音、同步翻譯、視訊會議",
     "images": {
-      "main": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
       "needsUpdate": true,
-      "note": "待補充會議室照片",
+      "note": "待補充真實照片（聯絡：02-8770-6565）",
       "lastUpdated": "2026-03-05",
       "source": null,
       "verified": false
@@ -16438,15 +16446,15 @@
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "專業音響燈光、投影設備",
     "images": {
-      "main": "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?w=800",
+      "main": "",
       "gallery": [
         "https://images.unsplash.com/photo-1505236858219-8359eb29e329?w=800",
         "https://images.unsplash.com/photo-1484154218962-a197022b5858?w=800"
       ],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "照片來源：Unsplash（高品質示意照片）",
-      "lastUpdated": "2026-03-01",
+      "needsUpdate": true,
+      "note": "待補充真實照片（聯絡：02-21819988）",
+      "lastUpdated": "2026-03-05",
       "source": "Unsplash",
       "verified": true,
       "verifiedAt": "2026-03-02T03:33:04.295Z"
@@ -16486,15 +16494,15 @@
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "專業音響燈光、投影設備",
     "images": {
-      "main": "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?w=800",
+      "main": "",
       "gallery": [
         "https://images.unsplash.com/photo-1505236858219-8359eb29e329?w=800",
         "https://images.unsplash.com/photo-1484154218962-a197022b5858?w=800"
       ],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "照片來源：Unsplash（高品質示意照片）",
-      "lastUpdated": "2026-03-01",
+      "needsUpdate": true,
+      "note": "待補充真實照片（聯絡：02-21819988）",
+      "lastUpdated": "2026-03-05",
       "source": "Unsplash",
       "verified": true,
       "verifiedAt": "2026-03-01T23:29:49.151Z"
@@ -16533,15 +16541,15 @@
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "專業音響燈光、投影設備",
     "images": {
-      "main": "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?w=800",
+      "main": "",
       "gallery": [
         "https://images.unsplash.com/photo-1505236858219-8359eb29e329?w=800",
         "https://images.unsplash.com/photo-1484154218962-a197022b5858?w=800"
       ],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "照片來源：Unsplash（高品質示意照片）",
-      "lastUpdated": "2026-03-01",
+      "needsUpdate": true,
+      "note": "待補充真實照片（聯絡：02-21819988）",
+      "lastUpdated": "2026-03-05",
       "source": "Unsplash",
       "verified": true,
       "verifiedAt": "2026-03-01T23:29:49.151Z"
@@ -17217,15 +17225,15 @@
     "availableTimeWeekend": "休館",
     "equipment": "專業投影設備、音響",
     "images": {
-      "main": "https://images.unsplash.com/photo-1497366412874-3415097a27e7?w=800",
+      "main": "",
       "gallery": [
         "https://images.unsplash.com/photo-1497215842964-222b430dc094?w=800",
         "https://images.unsplash.com/photo-1504384764586-bb4cdc1707b0?w=800"
       ],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "照片來源：Unsplash（高品質示意照片）",
-      "lastUpdated": "2026-03-01",
+      "needsUpdate": true,
+      "note": "待補充真實照片（聯絡：02-3366-3366）",
+      "lastUpdated": "2026-03-05",
       "source": "Unsplash",
       "verified": true,
       "verifiedAt": "2026-03-01T23:45:15.599Z"
@@ -17264,15 +17272,15 @@
     "availableTimeWeekend": "休館",
     "equipment": "專業投影設備、音響",
     "images": {
-      "main": "https://images.unsplash.com/photo-1497366412874-3415097a27e7?w=800",
+      "main": "",
       "gallery": [
         "https://images.unsplash.com/photo-1497215842964-222b430dc094?w=800",
         "https://images.unsplash.com/photo-1504384764586-bb4cdc1707b0?w=800"
       ],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "照片來源：Unsplash（高品質示意照片）",
-      "lastUpdated": "2026-03-01",
+      "needsUpdate": true,
+      "note": "待補充真實照片（聯絡：02-3366-3366）",
+      "lastUpdated": "2026-03-05",
       "source": "Unsplash",
       "verified": true,
       "verifiedAt": "2026-03-01T23:45:15.599Z"
@@ -17311,15 +17319,15 @@
     "availableTimeWeekend": "休館",
     "equipment": "專業投影設備、音響",
     "images": {
-      "main": "https://images.unsplash.com/photo-1497366412874-3415097a27e7?w=800",
+      "main": "",
       "gallery": [
         "https://images.unsplash.com/photo-1497215842964-222b430dc094?w=800",
         "https://images.unsplash.com/photo-1504384764586-bb4cdc1707b0?w=800"
       ],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "照片來源：Unsplash（高品質示意照片）",
-      "lastUpdated": "2026-03-01",
+      "needsUpdate": true,
+      "note": "待補充真實照片（聯絡：02-3366-3366）",
+      "lastUpdated": "2026-03-05",
       "source": "Unsplash",
       "verified": true,
       "verifiedAt": "2026-03-01T23:45:15.599Z"
@@ -17358,15 +17366,15 @@
     "availableTimeWeekend": "休館",
     "equipment": "專業投影設備、音響",
     "images": {
-      "main": "https://images.unsplash.com/photo-1559223607-a43c990c692c?w=800",
+      "main": "",
       "gallery": [
         "https://images.unsplash.com/photo-1515187029135-18ee286d815b?w=800",
         "https://images.unsplash.com/photo-1505373877841-8d25f7d46678?w=800"
       ],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "照片來源：Unsplash（高品質示意照片）",
-      "lastUpdated": "2026-03-01",
+      "needsUpdate": true,
+      "note": "待補充真實照片（聯絡：02-2351-1111）",
+      "lastUpdated": "2026-03-05",
       "source": "Unsplash",
       "verified": true,
       "verifiedAt": "2026-03-01T23:45:17.334Z"
@@ -17406,15 +17414,15 @@
     "availableTimeWeekend": "休館",
     "equipment": "專業投影設備、音響",
     "images": {
-      "main": "https://images.unsplash.com/photo-1559223607-a43c990c692c?w=800",
+      "main": "",
       "gallery": [
         "https://images.unsplash.com/photo-1515187029135-18ee286d815b?w=800",
         "https://images.unsplash.com/photo-1505373877841-8d25f7d46678?w=800"
       ],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "照片來源：Unsplash（高品質示意照片）",
-      "lastUpdated": "2026-03-01",
+      "needsUpdate": true,
+      "note": "待補充真實照片（聯絡：02-2351-1111）",
+      "lastUpdated": "2026-03-05",
       "source": "Unsplash",
       "verified": true,
       "verifiedAt": "2026-03-01T23:45:17.334Z"
@@ -17454,15 +17462,15 @@
     "availableTimeWeekend": "休館",
     "equipment": "專業投影設備、音響",
     "images": {
-      "main": "https://images.unsplash.com/photo-1559223607-a43c990c692c?w=800",
+      "main": "",
       "gallery": [
         "https://images.unsplash.com/photo-1515187029135-18ee286d815b?w=800",
         "https://images.unsplash.com/photo-1505373877841-8d25f7d46678?w=800"
       ],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "照片來源：Unsplash（高品質示意照片）",
-      "lastUpdated": "2026-03-01",
+      "needsUpdate": true,
+      "note": "待補充真實照片（聯絡：02-2351-1111）",
+      "lastUpdated": "2026-03-05",
       "source": "Unsplash",
       "verified": true,
       "verifiedAt": "2026-03-01T23:45:17.334Z"
@@ -17685,7 +17693,7 @@
     "maxCapacityClassroom": null,
     "area": "193 坪",
     "images": {
-      "main": "https://www.ticc.com.tw/wSite/public/Img/f1687945050916.jpg",
+      "main": "",
       "gallery": [
         "https://www.ticc.com.tw/wSite/public/Img/f1687945050916.jpg",
         "https://www.ticc.com.tw/wSite/public/Img/f1687945053932.jpg",
@@ -17698,8 +17706,8 @@
       "verified": true,
       "verifiedAt": "2026-03-02T09:52:23.503Z",
       "needsUpdate": true,
-      "note": "照片為大會堂照片，需要更新為該會議室的專屬照片",
-      "lastUpdated": "2026-03-04"
+      "note": "待補充 TICC 101室真實照片（聯絡：02-2725-5200）",
+      "lastUpdated": "2026-03-05"
     },
     "venuePageUrl": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/cp_VenueSearch.jsp&roomId=101&ctNode=322&CtUnit=99&BaseDSD=7&mp=1",
     "status": "上架",
@@ -17760,7 +17768,8 @@
       "4樓鳳凰廳"
     ],
     "updateReason": "SOP V4.7 資料結構更新",
-    "updateSource": "手動驗證"
+    "updateSource": "手動驗證",
+    "priceNote": "官網價格，實際以報價為準"
   },
   {
     "id": 1450,
@@ -21807,7 +21816,8 @@
     "updateSource": "本地腳本自動修復",
     "lastUpdated": "2026-03-03T07:25:54.260Z",
     "statusChangedAt": "2026-03-03T08:13:12.670Z",
-    "statusChangeReason": "SOP V4.7: 資料完整，恢復上架"
+    "statusChangeReason": "SOP V4.7: 資料完整，恢復上架",
+    "priceNote": "需電詢 02-77495800"
   },
   {
     "id": 1494,
@@ -21854,7 +21864,8 @@
     "updateSource": "本地腳本自動修復",
     "lastUpdated": "2026-03-03T07:25:54.260Z",
     "statusChangedAt": "2026-03-03T10:24:23.089Z",
-    "statusChangeReason": "SOP V4.7 完整驗證"
+    "statusChangeReason": "SOP V4.7 完整驗證",
+    "priceNote": "需電詢 02-77495800"
   },
   {
     "id": 1495,
@@ -21901,7 +21912,8 @@
     "updateSource": "本地腳本自動修復",
     "lastUpdated": "2026-03-03T07:25:54.260Z",
     "statusChangedAt": "2026-03-03T10:24:23.089Z",
-    "statusChangeReason": "SOP V4.7 完整驗證"
+    "statusChangeReason": "SOP V4.7 完整驗證",
+    "priceNote": "需電詢 02-77495800"
   },
   {
     "id": 1496,
@@ -21948,7 +21960,8 @@
     "updateSource": "本地腳本自動修復",
     "lastUpdated": "2026-03-03T07:25:54.260Z",
     "statusChangedAt": "2026-03-03T10:24:23.089Z",
-    "statusChangeReason": "SOP V4.7 完整驗證"
+    "statusChangeReason": "SOP V4.7 完整驗證",
+    "priceNote": "需電詢 02-77495800"
   },
   {
     "id": 1497,
@@ -21995,7 +22008,8 @@
     "updateSource": "本地腳本自動修復",
     "lastUpdated": "2026-03-03T07:25:54.260Z",
     "statusChangedAt": "2026-03-03T10:24:23.089Z",
-    "statusChangeReason": "SOP V4.7 完整驗證"
+    "statusChangeReason": "SOP V4.7 完整驗證",
+    "priceNote": "需電詢 02-77495800"
   },
   {
     "id": 1498,
@@ -22042,7 +22056,8 @@
     "updateSource": "本地腳本自動修復",
     "lastUpdated": "2026-03-03T07:25:54.260Z",
     "statusChangedAt": "2026-03-03T10:24:23.089Z",
-    "statusChangeReason": "SOP V4.7 完整驗證"
+    "statusChangeReason": "SOP V4.7 完整驗證",
+    "priceNote": "需電詢 02-77495800"
   },
   {
     "id": 1499,
@@ -22089,7 +22104,8 @@
     "updateSource": "本地腳本自動修復",
     "lastUpdated": "2026-03-03T07:25:54.260Z",
     "statusChangedAt": "2026-03-03T10:24:23.089Z",
-    "statusChangeReason": "SOP V4.7 完整驗證"
+    "statusChangeReason": "SOP V4.7 完整驗證",
+    "priceNote": "需電詢 02-77495800"
   },
   {
     "id": 1500,
@@ -22136,7 +22152,8 @@
     "updateSource": "本地腳本自動修復",
     "lastUpdated": "2026-03-03T07:25:54.260Z",
     "statusChangedAt": "2026-03-03T10:24:23.089Z",
-    "statusChangeReason": "SOP V4.7 完整驗證"
+    "statusChangeReason": "SOP V4.7 完整驗證",
+    "priceNote": "需電詢 02-77495800"
   },
   {
     "id": 1501,
@@ -22183,7 +22200,8 @@
     "updateSource": "本地腳本自動修復",
     "lastUpdated": "2026-03-03T07:25:54.260Z",
     "statusChangedAt": "2026-03-03T10:24:23.089Z",
-    "statusChangeReason": "SOP V4.7 完整驗證"
+    "statusChangeReason": "SOP V4.7 完整驗證",
+    "priceNote": "需電詢 02-77495800"
   },
   {
     "id": 1502,
@@ -22230,7 +22248,8 @@
     "updateSource": "本地腳本自動修復",
     "lastUpdated": "2026-03-03T07:25:54.260Z",
     "statusChangedAt": "2026-03-03T10:24:23.089Z",
-    "statusChangeReason": "SOP V4.7 完整驗證"
+    "statusChangeReason": "SOP V4.7 完整驗證",
+    "priceNote": "需電詢 02-77495800"
   },
   {
     "id": 1503,
@@ -22277,7 +22296,8 @@
     "updateSource": "本地腳本自動修復",
     "lastUpdated": "2026-03-03T07:25:54.260Z",
     "statusChangedAt": "2026-03-03T10:24:23.089Z",
-    "statusChangeReason": "SOP V4.7 完整驗證"
+    "statusChangeReason": "SOP V4.7 完整驗證",
+    "priceNote": "需電詢 02-77495800"
   },
   {
     "id": 1504,
@@ -22324,7 +22344,8 @@
     "updateSource": "本地腳本自動修復",
     "lastUpdated": "2026-03-03T07:25:54.260Z",
     "statusChangedAt": "2026-03-03T10:24:23.089Z",
-    "statusChangeReason": "SOP V4.7 完整驗證"
+    "statusChangeReason": "SOP V4.7 完整驗證",
+    "priceNote": "需電詢 02-77495800"
   },
   {
     "id": 1505,
@@ -22371,7 +22392,8 @@
     "updateSource": "本地腳本自動修復",
     "lastUpdated": "2026-03-03T07:25:54.260Z",
     "statusChangedAt": "2026-03-03T10:24:23.089Z",
-    "statusChangeReason": "SOP V4.7 完整驗證"
+    "statusChangeReason": "SOP V4.7 完整驗證",
+    "priceNote": "需電詢 02-77495800"
   },
   {
     "id": 1506,
@@ -22399,10 +22421,11 @@
     "statusChangeReason": "SOP V4.7 完整驗證",
     "images": {
       "needsUpdate": true,
-      "note": "待補充會議室照片",
+      "note": "待補充真實照片（聯絡：02-2725-5200）",
       "lastUpdated": "2026-03-05",
-      "main": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800"
-    }
+      "main": ""
+    },
+    "priceNote": "需電詢 02-2725-5200"
   },
   {
     "id": 1507,
@@ -22430,10 +22453,11 @@
     "statusChangeReason": "SOP V4.7 完整驗證",
     "images": {
       "needsUpdate": true,
-      "note": "待補充會議室照片",
+      "note": "待補充真實照片（聯絡：02-2725-5200）",
       "lastUpdated": "2026-03-05",
-      "main": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800"
-    }
+      "main": ""
+    },
+    "priceNote": "需電詢 02-2725-5200"
   },
   {
     "id": 1508,
@@ -22461,10 +22485,11 @@
     "statusChangeReason": "SOP V4.7 完整驗證",
     "images": {
       "needsUpdate": true,
-      "note": "待補充會議室照片",
+      "note": "待補充真實照片（聯絡：02-2725-5200）",
       "lastUpdated": "2026-03-05",
-      "main": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800"
-    }
+      "main": ""
+    },
+    "priceNote": "需電詢 02-2725-5200"
   },
   {
     "id": 1509,
@@ -22492,10 +22517,11 @@
     "statusChangeReason": "SOP V4.7 完整驗證",
     "images": {
       "needsUpdate": true,
-      "note": "待補充會議室照片",
+      "note": "待補充真實照片（聯絡：02-2725-5200）",
       "lastUpdated": "2026-03-05",
-      "main": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800"
-    }
+      "main": ""
+    },
+    "priceNote": "需電詢 02-2725-5200"
   },
   {
     "id": 1510,
@@ -22523,10 +22549,11 @@
     "statusChangeReason": "SOP V4.7 完整驗證",
     "images": {
       "needsUpdate": true,
-      "note": "待補充會議室照片",
+      "note": "待補充真實照片（聯絡：02-2725-5200）",
       "lastUpdated": "2026-03-05",
-      "main": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800"
-    }
+      "main": ""
+    },
+    "priceNote": "需電詢 02-2725-5200"
   },
   {
     "id": 1511,
@@ -22565,13 +22592,16 @@
     "statusChangedAt": "2026-03-04T21:26:34.472209",
     "statusChangeReason": "照片欄位已添加，資料完整",
     "images": {
-      "main": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
       "needsUpdate": true,
-      "note": "待補充會議室照片",
+      "note": "待補充政大公企中心A2真實照片（聯絡：02-8237-5151）",
       "lastUpdated": "2026-03-05"
-    }
+    },
+    "priceHalfDay": null,
+    "priceFullDay": null,
+    "priceNote": "需電詢 02-23419151"
   },
   {
     "id": 1512,
@@ -22610,13 +22640,14 @@
     "statusChangedAt": "2026-03-04T21:26:34.472299",
     "statusChangeReason": "照片欄位已添加，資料完整",
     "images": {
-      "main": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
       "needsUpdate": true,
-      "note": "待補充會議室照片",
+      "note": "待補充真實照片（聯絡：02-23419151）",
       "lastUpdated": "2026-03-05"
-    }
+    },
+    "priceNote": "需電詢 02-23419151"
   },
   {
     "id": 1513,
@@ -22655,13 +22686,14 @@
     "statusChangedAt": "2026-03-04T21:26:34.472308",
     "statusChangeReason": "照片欄位已添加，資料完整",
     "images": {
-      "main": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
       "needsUpdate": true,
-      "note": "待補充會議室照片",
+      "note": "待補充真實照片（聯絡：02-23419151）",
       "lastUpdated": "2026-03-05"
-    }
+    },
+    "priceNote": "需電詢 02-23419151"
   },
   {
     "id": 1514,
@@ -22700,13 +22732,14 @@
     "statusChangedAt": "2026-03-04T21:26:34.472314",
     "statusChangeReason": "照片欄位已添加，資料完整",
     "images": {
-      "main": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
       "needsUpdate": true,
-      "note": "待補充會議室照片",
+      "note": "待補充真實照片（聯絡：02-23419151）",
       "lastUpdated": "2026-03-05"
-    }
+    },
+    "priceNote": "需電詢 02-23419151"
   },
   {
     "id": 1515,
@@ -22745,13 +22778,14 @@
     "statusChangedAt": "2026-03-04T21:26:34.472320",
     "statusChangeReason": "照片欄位已添加，資料完整",
     "images": {
-      "main": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
       "needsUpdate": true,
-      "note": "待補充會議室照片",
+      "note": "待補充真實照片（聯絡：02-23419151）",
       "lastUpdated": "2026-03-05"
-    }
+    },
+    "priceNote": "需電詢 02-23419151"
   },
   {
     "id": 1516,
@@ -22790,13 +22824,14 @@
     "statusChangedAt": "2026-03-04T21:26:34.472326",
     "statusChangeReason": "照片欄位已添加，資料完整",
     "images": {
-      "main": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
       "needsUpdate": true,
-      "note": "待補充會議室照片",
+      "note": "待補充真實照片（聯絡：02-23419151）",
       "lastUpdated": "2026-03-05"
-    }
+    },
+    "priceNote": "需電詢 02-23419151"
   },
   {
     "id": 1517,
@@ -22835,13 +22870,14 @@
     "statusChangedAt": "2026-03-04T21:26:34.472338",
     "statusChangeReason": "照片欄位已添加，資料完整",
     "images": {
-      "main": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
       "needsUpdate": true,
-      "note": "待補充會議室照片",
+      "note": "待補充真實照片（聯絡：02-23419151）",
       "lastUpdated": "2026-03-05"
-    }
+    },
+    "priceNote": "需電詢 02-23419151"
   },
   {
     "id": 1521,
@@ -22868,10 +22904,11 @@
     "statusChangeReason": "SOP V4.7 完整驗證",
     "images": {
       "needsUpdate": true,
-      "note": "待補充會議室照片",
+      "note": "待補充真實照片（聯絡：02-2772-3838）",
       "lastUpdated": "2026-03-05",
-      "main": "https://images.unsplash.com/photo-1519167758481-83f550bb49b3?w=800"
-    }
+      "main": ""
+    },
+    "priceNote": "需電詢 02-2772-3838"
   },
   {
     "id": 1522,
@@ -22898,10 +22935,11 @@
     "statusChangeReason": "SOP V4.7 完整驗證",
     "images": {
       "needsUpdate": true,
-      "note": "待補充會議室照片",
+      "note": "待補充真實照片（聯絡：02-2772-3838）",
       "lastUpdated": "2026-03-05",
-      "main": "https://images.unsplash.com/photo-1519167758481-83f550bb49b3?w=800"
-    }
+      "main": ""
+    },
+    "priceNote": "需電詢 02-2772-3838"
   },
   {
     "id": 1523,
@@ -22928,10 +22966,11 @@
     "statusChangeReason": "SOP V4.7 完整驗證",
     "images": {
       "needsUpdate": true,
-      "note": "待補充會議室照片",
+      "note": "待補充真實照片（聯絡：02-2772-3838）",
       "lastUpdated": "2026-03-05",
-      "main": "https://images.unsplash.com/photo-1519167758481-83f550bb49b3?w=800"
-    }
+      "main": ""
+    },
+    "priceNote": "需電詢 02-2772-3838"
   },
   {
     "id": 1524,
@@ -22958,10 +22997,11 @@
     "statusChangeReason": "SOP V4.7 完整驗證",
     "images": {
       "needsUpdate": true,
-      "note": "待補充會議室照片",
+      "note": "待補充真實照片（聯絡：02-2772-3838）",
       "lastUpdated": "2026-03-05",
-      "main": "https://images.unsplash.com/photo-1519167758481-83f550bb49b3?w=800"
-    }
+      "main": ""
+    },
+    "priceNote": "需電詢 02-2772-3838"
   },
   {
     "id": 1525,
@@ -22988,10 +23028,11 @@
     "statusChangeReason": "SOP V4.7 完整驗證",
     "images": {
       "needsUpdate": true,
-      "note": "待補充會議室照片",
+      "note": "待補充真實照片（聯絡：02-2772-3838）",
       "lastUpdated": "2026-03-05",
-      "main": "https://images.unsplash.com/photo-1519167758481-83f550bb49b3?w=800"
-    }
+      "main": ""
+    },
+    "priceNote": "需電詢 02-2772-3838"
   },
   {
     "id": 1526,
@@ -23018,10 +23059,11 @@
     "statusChangeReason": "SOP V4.7 完整驗證",
     "images": {
       "needsUpdate": true,
-      "note": "待補充會議室照片",
+      "note": "待補充真實照片（聯絡：02-2358-1914）",
       "lastUpdated": "2026-03-05",
-      "main": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800"
-    }
+      "main": ""
+    },
+    "priceNote": "需電詢 02-2358-1914"
   },
   {
     "id": 1527,
@@ -23048,10 +23090,13 @@
     "statusChangeReason": "SOP V4.7 完整驗證",
     "images": {
       "needsUpdate": true,
-      "note": "待補充會議室照片",
+      "note": "待補充華山中4B館真實照片（聯絡：02-2358-1914）",
       "lastUpdated": "2026-03-05",
-      "main": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800"
-    }
+      "main": ""
+    },
+    "priceHalfDay": null,
+    "priceFullDay": null,
+    "priceNote": "需電詢 02-2358-1914"
   },
   {
     "id": 1528,
@@ -23078,10 +23123,11 @@
     "statusChangeReason": "SOP V4.7 完整驗證",
     "images": {
       "needsUpdate": true,
-      "note": "待補充會議室照片",
+      "note": "待補充真實照片（聯絡：02-2358-1914）",
       "lastUpdated": "2026-03-05",
-      "main": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800"
-    }
+      "main": ""
+    },
+    "priceNote": "需電詢 02-2358-1914"
   },
   {
     "id": 1529,
@@ -23108,10 +23154,11 @@
     "statusChangeReason": "SOP V4.7 完整驗證",
     "images": {
       "needsUpdate": true,
-      "note": "待補充會議室照片",
+      "note": "待補充真實照片（聯絡：02-2358-1914）",
       "lastUpdated": "2026-03-05",
-      "main": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800"
-    }
+      "main": ""
+    },
+    "priceNote": "需電詢 02-2358-1914"
   },
   {
     "id": 1530,
@@ -23138,10 +23185,11 @@
     "statusChangeReason": "SOP V4.7 完整驗證",
     "images": {
       "needsUpdate": true,
-      "note": "待補充會議室照片",
+      "note": "待補充真實照片（聯絡：02-2358-1914）",
       "lastUpdated": "2026-03-05",
-      "main": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800"
-    }
+      "main": ""
+    },
+    "priceNote": "需電詢 02-2358-1914"
   },
   {
     "id": 1531,
@@ -23168,10 +23216,11 @@
     "statusChangeReason": "SOP V4.7 完整驗證",
     "images": {
       "needsUpdate": true,
-      "note": "待補充會議室照片",
+      "note": "待補充真實照片（聯絡：02-2358-1914）",
       "lastUpdated": "2026-03-05",
-      "main": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800"
-    }
+      "main": ""
+    },
+    "priceNote": "需電詢 02-2358-1914"
   },
   {
     "id": 1532,
@@ -23198,10 +23247,11 @@
     "statusChangeReason": "SOP V4.7 完整驗證",
     "images": {
       "needsUpdate": true,
-      "note": "待補充會議室照片",
+      "note": "待補充真實照片（聯絡：02-2358-1914）",
       "lastUpdated": "2026-03-05",
-      "main": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800"
-    }
+      "main": ""
+    },
+    "priceNote": "需電詢 02-2358-1914"
   },
   {
     "id": 1533,
@@ -23228,10 +23278,11 @@
     "statusChangeReason": "SOP V4.7 完整驗證",
     "images": {
       "needsUpdate": true,
-      "note": "待補充會議室照片",
+      "note": "待補充真實照片（聯絡：02-2358-1914）",
       "lastUpdated": "2026-03-05",
-      "main": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800"
-    }
+      "main": ""
+    },
+    "priceNote": "需電詢 02-2358-1914"
   },
   {
     "id": 1534,
@@ -23258,10 +23309,11 @@
     "statusChangeReason": "SOP V4.7 完整驗證",
     "images": {
       "needsUpdate": true,
-      "note": "待補充會議室照片",
+      "note": "待補充真實照片（聯絡：02-2358-1914）",
       "lastUpdated": "2026-03-05",
-      "main": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800"
-    }
+      "main": ""
+    },
+    "priceNote": "需電詢 02-2358-1914"
   },
   {
     "id": 1535,
@@ -23282,11 +23334,11 @@
     "verificationNote": "會議室清單已補充（5個會議空間）",
     "lastVerified": "2026-03-02T12:36:53.819Z",
     "images": {
-      "main": "https://images.unsplash.com/photo-1540575467063-178a50c2df87?w=800",
+      "main": "",
       "gallery": [],
       "source": "https://www.tainex.com.tw/",
       "needsUpdate": true,
-      "note": "待補充會議室照片",
+      "note": "待補充真實照片（聯絡：02-2725-5200）",
       "lastUpdated": "2026-03-05"
     },
     "area": "83.5㎡",
@@ -23339,10 +23391,11 @@
     "statusChangeReason": "SOP V4.7 完整驗證",
     "images": {
       "needsUpdate": true,
-      "note": "待補充會議室照片",
+      "note": "待補充真實照片（聯絡：02-2725-5200 #5527）",
       "lastUpdated": "2026-03-05",
-      "main": "https://images.unsplash.com/photo-1540575467063-178a50c2df87?w=800"
-    }
+      "main": ""
+    },
+    "priceNote": "需電詢 02-2725-5200 #5527"
   },
   {
     "id": 1537,
@@ -23377,10 +23430,11 @@
     "statusChangeReason": "SOP V4.7 完整驗證",
     "images": {
       "needsUpdate": true,
-      "note": "待補充會議室照片",
+      "note": "待補充真實照片（聯絡：02-2725-5200 #5527）",
       "lastUpdated": "2026-03-05",
-      "main": "https://images.unsplash.com/photo-1540575467063-178a50c2df87?w=800"
-    }
+      "main": ""
+    },
+    "priceNote": "需電詢 02-2725-5200 #5527"
   },
   {
     "id": 1538,
@@ -23416,10 +23470,11 @@
     "statusChangeReason": "SOP V4.7 完整驗證",
     "images": {
       "needsUpdate": true,
-      "note": "待補充會議室照片",
+      "note": "待補充真實照片（聯絡：02-2725-5200 #5527）",
       "lastUpdated": "2026-03-05",
-      "main": "https://images.unsplash.com/photo-1540575467063-178a50c2df87?w=800"
-    }
+      "main": ""
+    },
+    "priceNote": "需電詢 02-2725-5200 #5527"
   },
   {
     "id": 1539,
@@ -23453,10 +23508,11 @@
     "statusChangeReason": "SOP V4.7 完整驗證",
     "images": {
       "needsUpdate": true,
-      "note": "待補充會議室照片",
+      "note": "待補充真實照片（聯絡：02-2725-5200 #5527）",
       "lastUpdated": "2026-03-05",
-      "main": "https://images.unsplash.com/photo-1540575467063-178a50c2df87?w=800"
-    }
+      "main": ""
+    },
+    "priceNote": "需電詢 02-2725-5200 #5527"
   },
   {
     "id": "1540",
@@ -23478,10 +23534,11 @@
     "statusChangeReason": "SOP V4.7 完整驗證",
     "images": {
       "needsUpdate": true,
-      "note": "待補充會議室照片",
+      "note": "待補充真實照片（聯絡：待查詢）",
       "lastUpdated": "2026-03-05",
-      "main": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800"
-    }
+      "main": ""
+    },
+    "priceNote": "需電詢 "
   },
   {
     "id": "1541",
@@ -23503,10 +23560,11 @@
     "statusChangeReason": "SOP V4.7 完整驗證",
     "images": {
       "needsUpdate": true,
-      "note": "待補充會議室照片",
+      "note": "待補充真實照片（聯絡：待查詢）",
       "lastUpdated": "2026-03-05",
-      "main": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800"
-    }
+      "main": ""
+    },
+    "priceNote": "需電詢 "
   },
   {
     "id": "1542",
@@ -23567,10 +23625,11 @@
     "statusChangeReason": "SOP V4.7 完整驗證",
     "images": {
       "needsUpdate": true,
-      "note": "待補充會議室照片",
+      "note": "待補充真實照片（聯絡：02-2523-2828）",
       "lastUpdated": "2026-03-05",
-      "main": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800"
-    }
+      "main": ""
+    },
+    "priceNote": "需電詢 02-2523-2828"
   },
   {
     "id": "1546",
@@ -23594,9 +23653,10 @@
     "statusChangeReason": "SOP V4.7 完整驗證",
     "images": {
       "needsUpdate": true,
-      "note": "待補充會議室照片",
+      "note": "待補充真實照片（聯絡：02-2523-2828）",
       "lastUpdated": "2026-03-05",
-      "main": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800"
-    }
+      "main": ""
+    },
+    "priceNote": "需電詢 02-2523-2828"
   }
 ]
