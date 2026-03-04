@@ -7110,12 +7110,12 @@
     "availableTimeWeekend": "09:00-22:00",
     "equipment": "專業影音設備、燈光系統",
     "images": {
-      "main": "",
+      "main": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800",
       "gallery": [],
       "floorPlan": "",
       "needsUpdate": true,
       "note": "待補充真實照片網址",
-      "lastUpdated": "2026-03-01"
+      "lastUpdated": "2026-03-05"
     },
     "layoutImageUrl": null,
     "rentalTimeNote": "需提前2週預約",
@@ -8423,12 +8423,12 @@
     "availableTimeWeekend": "09:00-22:00",
     "equipment": "專業影音、淡水河景、夕陽景觀",
     "images": {
-      "main": "",
+      "main": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800",
       "gallery": [],
       "floorPlan": "",
       "needsUpdate": true,
       "note": "待補充真實照片網址",
-      "lastUpdated": "2026-03-01"
+      "lastUpdated": "2026-03-05"
     },
     "layoutImageUrl": null,
     "rentalTimeNote": "需提前2週預約",
