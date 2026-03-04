@@ -1262,13 +1262,13 @@
       "gallery": [],
       "floorPlan": "",
       "needsUpdate": true,
-      "note": "待補充真實照片網址",
-      "lastUpdated": "2026-03-01"
+      "note": "待補充會議室照片",
+      "lastUpdated": "2026-03-04"
     },
     "url": "https://www.goodmans-coffee.com/",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "待修",
+    "status": "上架",
     "roomType": "咖啡廳包場",
     "notes": " [官網無法連線，需手動搜尋確認]",
     "missingFields": [
@@ -1447,7 +1447,7 @@
     "url": "https://simplekaffa.com/",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "待修",
+    "status": "上架",
     "roomType": "咖啡廳包場",
     "lastVerified": "2026-03-02T09:52:23.503Z",
     "verifiedTitle": "興波咖啡 Simple Kaffa | 喝杯世界級的咖啡",
@@ -1484,8 +1484,8 @@
       "gallery": [],
       "floorPlan": "",
       "needsUpdate": true,
-      "note": "待補充真實照片網址",
-      "lastUpdated": "2026-03-01"
+      "note": "待補充會議室照片",
+      "lastUpdated": "2026-03-04"
     },
     "url": "https://www.tccc.com.tw/",
     "transportation": {
@@ -1511,7 +1511,7 @@
     "source": "官方網站",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "待修",
+    "status": "上架",
     "roomType": "會議室",
     "missingFields": [
       "照片"
@@ -1617,7 +1617,7 @@
     "url": "https://www.wework.com",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "待修",
+    "status": "上架",
     "roomType": "共享空間",
     "missingFields": [
       "會議室名稱（具體）"
@@ -1652,7 +1652,7 @@
         }
       }
     ],
-    "status": "待修",
+    "status": "上架",
     "address": "台北市信義區忠孝東路五段10號",
     "contact": {
       "phone": "02-7708-8888"
@@ -1666,8 +1666,8 @@
       "gallery": [],
       "floorPlan": "",
       "needsUpdate": true,
-      "note": "待補充真實照片網址",
-      "lastUpdated": "2026-03-01"
+      "note": "待補充會議室照片",
+      "lastUpdated": "2026-03-04"
     },
     "notes": " [官網無法連線或擋爬蟲，需手動確認]",
     "missingFields": [
@@ -1813,13 +1813,13 @@
       "gallery": [],
       "floorPlan": "",
       "needsUpdate": true,
-      "note": "待補充真實照片網址",
-      "lastUpdated": "2026-03-01"
+      "note": "待補充會議室照片",
+      "lastUpdated": "2026-03-04"
     },
     "url": "https://www.courtyardtaipei.com.tw/zh-TW/",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "待修",
+    "status": "上架",
     "roomType": "宴會廳",
     "missingFields": [
       "照片"
@@ -1964,13 +1964,13 @@
       "gallery": [],
       "floorPlan": "",
       "needsUpdate": true,
-      "note": "待補充真實照片網址",
-      "lastUpdated": "2026-03-01"
+      "note": "待補充會議室照片",
+      "lastUpdated": "2026-03-04"
     },
     "url": "https://www.marriott.com/en-us/hotels/tpewh-w-taipei/",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "待修",
+    "status": "上架",
     "roomType": "宴會廳",
     "notes": " [官網無法連線或擋爬蟲，需手動確認]",
     "missingFields": [
@@ -2009,13 +2009,13 @@
       "gallery": [],
       "floorPlan": "",
       "needsUpdate": true,
-      "note": "待補充真實照片網址",
-      "lastUpdated": "2026-03-01"
+      "note": "待補充會議室照片",
+      "lastUpdated": "2026-03-04"
     },
     "url": "https://www.ile-hotel.com",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "待修",
+    "status": "上架",
     "roomType": "宴會廳",
     "notes": " [官網無法連線，需手動搜尋確認]",
     "missingFields": [
@@ -2110,7 +2110,7 @@
     "url": "https://www.dandyhotel.com.tw",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "待修",
+    "status": "上架",
     "roomType": "會議室",
     "notes": "",
     "missingFields": [
@@ -2211,7 +2211,7 @@
     "capacityCategory": "small",
     "targetAudience": "企業",
     "createdAt": "2026-02-26T00:00:00.000Z",
-    "status": "待修",
+    "status": "上架",
     "roomType": "會議室",
     "url": "https://www.cityinn.com.tw",
     "missingFields": [
@@ -2294,13 +2294,13 @@
       "gallery": [],
       "floorPlan": "",
       "needsUpdate": true,
-      "note": "待補充真實照片網址",
-      "lastUpdated": "2026-03-01"
+      "note": "待補充會議室照片",
+      "lastUpdated": "2026-03-04"
     },
     "url": "https://www.hotelbf.com",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "待修",
+    "status": "上架",
     "roomType": "會議室",
     "notes": " [官網無法連線，需手動搜尋確認]",
     "missingFields": [
@@ -2386,8 +2386,8 @@
       "gallery": [],
       "floorPlan": "",
       "needsUpdate": true,
-      "note": "待補充真實照片網址",
-      "lastUpdated": "2026-03-01"
+      "note": "待補充會議室照片",
+      "lastUpdated": "2026-03-04"
     },
     "layoutImageUrl": null,
     "rentalTimeNote": "需提前1週預約",
@@ -2395,7 +2395,7 @@
     "capacityCategory": "small",
     "targetAudience": "企業",
     "createdAt": "2026-02-26T00:00:00.000Z",
-    "status": "待修",
+    "status": "上架",
     "roomType": "會議室",
     "url": "https://www.courtyard.com/taipei-six",
     "missingFields": [
@@ -2433,13 +2433,13 @@
       "gallery": [],
       "floorPlan": "",
       "needsUpdate": true,
-      "note": "待補充真實照片網址",
-      "lastUpdated": "2026-03-01"
+      "note": "待補充會議室照片",
+      "lastUpdated": "2026-03-04"
     },
     "url": "https://www.denwell.com/",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "待修",
+    "status": "上架",
     "roomType": "婚宴會館",
     "notes": " [官網無法連線，需手動搜尋確認]",
     "missingFields": [
@@ -2480,13 +2480,13 @@
       "gallery": [],
       "floorPlan": "",
       "needsUpdate": true,
-      "note": "待補充真實照片網址",
-      "lastUpdated": "2026-03-01"
+      "note": "待補充會議室照片",
+      "lastUpdated": "2026-03-04"
     },
     "url": "https://btresort.metro.taipei/",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "待修",
+    "status": "上架",
     "roomType": "會議中心",
     "notes": " [官網無法連線，需手動搜尋確認]",
     "missingFields": [
@@ -2528,13 +2528,13 @@
       "gallery": [],
       "floorPlan": "",
       "needsUpdate": true,
-      "note": "待補充真實照片網址",
-      "lastUpdated": "2026-03-01"
+      "note": "待補充會議室照片",
+      "lastUpdated": "2026-03-04"
     },
     "url": "https://www.youchun-hotel.com",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "待修",
+    "status": "上架",
     "roomType": "宴會廳",
     "notes": " [官網無法連線，需手動搜尋確認]",
     "missingFields": [
@@ -2582,7 +2582,7 @@
     "url": "https://www.palaisdechinehotel.com/",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "待修",
+    "status": "上架",
     "roomType": "宴會廳",
     "lastVerified": "2026-03-01T23:29:49.151Z",
     "verifiedTitle": "palaisdechine.com",
@@ -2647,7 +2647,7 @@
     "source": "官方網站",
     "verifiedAt": "2026-02-27",
     "verified": true,
-    "status": "待修",
+    "status": "上架",
     "roomType": "宴會廳",
     "lastVerified": "2026-03-01T23:29:54.259Z",
     "verifiedTitle": "Hyatt Hotels and Resorts",
@@ -2684,8 +2684,8 @@
       "gallery": [],
       "floorPlan": "",
       "needsUpdate": true,
-      "note": "待補充真實照片網址",
-      "lastUpdated": "2026-03-01"
+      "note": "待補充會議室照片",
+      "lastUpdated": "2026-03-04"
     },
     "layoutImageUrl": null,
     "rentalTimeNote": "需提前1週預約",
@@ -2695,7 +2695,7 @@
     "hasOnlineBooking": false,
     "bookingUrl": null,
     "createdAt": "2026-02-26T00:00:00.000Z",
-    "status": "待修",
+    "status": "上架",
     "roomType": "會議室",
     "url": "https://www.hyatt.com/taipei",
     "missingFields": [
@@ -2734,8 +2734,8 @@
       "gallery": [],
       "floorPlan": "",
       "needsUpdate": true,
-      "note": "待補充真實照片網址",
-      "lastUpdated": "2026-03-01"
+      "note": "待補充會議室照片",
+      "lastUpdated": "2026-03-04"
     },
     "layoutImageUrl": null,
     "rentalTimeNote": "需提前3天預約",
@@ -2745,7 +2745,7 @@
     "hasOnlineBooking": false,
     "bookingUrl": null,
     "createdAt": "2026-02-26T00:00:00.000Z",
-    "status": "待修",
+    "status": "上架",
     "roomType": "會議室",
     "url": "https://www.hyatt.com/taipei",
     "missingFields": [
@@ -2782,13 +2782,13 @@
       "gallery": [],
       "floorPlan": "",
       "needsUpdate": true,
-      "note": "待補充真實照片網址",
-      "lastUpdated": "2026-03-01"
+      "note": "待補充會議室照片",
+      "lastUpdated": "2026-03-04"
     },
     "url": "https://www.grandhyatt.com/taipei",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "待修",
+    "status": "上架",
     "roomType": "宴會廳",
     "notes": " [官網無法連線或擋爬蟲，需手動確認]",
     "missingFields": [
@@ -2825,13 +2825,13 @@
       "gallery": [],
       "floorPlan": "",
       "needsUpdate": true,
-      "note": "待補充真實照片網址",
-      "lastUpdated": "2026-03-01"
+      "note": "待補充會議室照片",
+      "lastUpdated": "2026-03-04"
     },
     "url": "https://www.victoriam.com/",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "待修",
+    "status": "上架",
     "roomType": "會議中心",
     "notes": " [官網無法連線或擋爬蟲，需手動確認]",
     "missingFields": [
@@ -2871,13 +2871,13 @@
       "gallery": [],
       "floorPlan": "",
       "needsUpdate": true,
-      "note": "待補充真實照片網址",
-      "lastUpdated": "2026-03-01"
+      "note": "待補充會議室照片",
+      "lastUpdated": "2026-03-04"
     },
     "url": "http://www.tbc-group.com/",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "待修",
+    "status": "上架",
     "roomType": "會議中心",
     "notes": " [官網無法連線，需手動搜尋確認]",
     "missingFields": [
@@ -2970,13 +2970,13 @@
       "gallery": [],
       "floorPlan": "",
       "needsUpdate": true,
-      "note": "待補充真實照片網址",
-      "lastUpdated": "2026-03-01"
+      "note": "待補充會議室照片",
+      "lastUpdated": "2026-03-04"
     },
     "url": "https://www.ambiencehotel.com.tw/",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "待修",
+    "status": "上架",
     "roomType": "宴會廳",
     "notes": " [官網無法連線，需手動搜尋確認]",
     "missingFields": [
@@ -3015,15 +3015,15 @@
       "main": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Ambassador_Hotel_Taipei_20190706.jpg",
       "gallery": [],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "照片來源：維基百科（真實照片）",
-      "lastUpdated": "2026-03-01",
+      "needsUpdate": true,
+      "note": "待補充會議室照片",
+      "lastUpdated": "2026-03-04",
       "source": "Wikipedia Commons"
     },
     "url": "https://www.ambassador-hotels.com/tc/taipei",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "待修",
+    "status": "上架",
     "roomType": "宴會廳",
     "lastUpdated": "2026-03-03T07:28:48.287Z",
     "lastVerified": "2026-03-02T10:34:35.908Z",
@@ -3108,13 +3108,13 @@
       "gallery": [],
       "floorPlan": "",
       "needsUpdate": true,
-      "note": "待補充真實照片網址",
-      "lastUpdated": "2026-03-01"
+      "note": "待補充會議室照片",
+      "lastUpdated": "2026-03-04"
     },
     "url": "https://www.zibei-hotel.com",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "待修",
+    "status": "上架",
     "roomType": "宴會廳",
     "notes": " [官網無法連線，需手動搜尋確認]",
     "missingFields": [
@@ -3151,9 +3151,9 @@
       "main": null,
       "gallery": [],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "照片來源：維基百科（真實照片）",
-      "lastUpdated": "2026-03-01",
+      "needsUpdate": true,
+      "note": "待補充會議室照片",
+      "lastUpdated": "2026-03-04",
       "source": null,
       "verified": false
     },
@@ -3165,7 +3165,7 @@
     "hasOnlineBooking": false,
     "bookingUrl": null,
     "createdAt": "2026-02-26T00:00:00.000Z",
-    "status": "待修",
+    "status": "上架",
     "roomType": "宴會廳",
     "url": "https://taipei.metropolitan.tw/",
     "lastVerified": "2026-03-01T23:31:15.675Z",
@@ -3351,7 +3351,7 @@
     "url": "https://www.humblehouse.com",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "待修",
+    "status": "上架",
     "roomType": "宴會廳",
     "lastVerified": "2026-03-01T23:31:27.440Z",
     "verifiedTitle": "www.humblehouse.com - Coming Soon",
@@ -3386,13 +3386,13 @@
       "gallery": [],
       "floorPlan": "",
       "needsUpdate": true,
-      "note": "待補充真實照片網址",
-      "lastUpdated": "2026-03-01"
+      "note": "待補充會議室照片",
+      "lastUpdated": "2026-03-04"
     },
     "url": "https://www.taipeiarena.com",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "待修",
+    "status": "上架",
     "roomType": "體育館",
     "notes": " [官網無法連線或擋爬蟲，需手動確認]",
     "missingFields": [
@@ -3430,13 +3430,13 @@
       "gallery": [],
       "floorPlan": "",
       "needsUpdate": true,
-      "note": "待補充真實照片網址",
-      "lastUpdated": "2026-03-01"
+      "note": "待補充會議室照片",
+      "lastUpdated": "2026-03-04"
     },
     "url": "https://www.kanghua-hotel.com",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "待修",
+    "status": "上架",
     "roomType": "宴會廳",
     "notes": " [官網無法連線，需手動搜尋確認]",
     "missingFields": [
@@ -3472,13 +3472,13 @@
       "gallery": [],
       "floorPlan": "",
       "needsUpdate": true,
-      "note": "待補充真實照片網址",
-      "lastUpdated": "2026-03-01"
+      "note": "待補充會議室照片",
+      "lastUpdated": "2026-03-04"
     },
     "url": "https://www.midtownrichard.com/",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "待修",
+    "status": "上架",
     "roomType": "宴會廳",
     "notes": " [官網無法連線，需手動搜尋確認]",
     "missingFields": [
@@ -3622,13 +3622,13 @@
       "gallery": [],
       "floorPlan": "",
       "needsUpdate": true,
-      "note": "待補充真實照片網址",
-      "lastUpdated": "2026-03-01"
+      "note": "待補充會議室照片",
+      "lastUpdated": "2026-03-04"
     },
     "url": "https://www.ching-tai.com",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "待修",
+    "status": "上架",
     "roomType": "宴會廳",
     "notes": " [官網無法連線或擋爬蟲，需手動確認]",
     "missingFields": [
@@ -3820,13 +3820,13 @@
       "gallery": [],
       "floorPlan": "",
       "needsUpdate": true,
-      "note": "待補充真實照片網址",
-      "lastUpdated": "2026-03-01"
+      "note": "待補充會議室照片",
+      "lastUpdated": "2026-03-04"
     },
     "url": "https://www.regenthotels.com/taipei",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "待修",
+    "status": "上架",
     "roomType": "宴會廳",
     "notes": " [官網無法連線或擋爬蟲，需手動確認]",
     "missingFields": [
@@ -3863,13 +3863,13 @@
       "gallery": [],
       "floorPlan": "",
       "needsUpdate": true,
-      "note": "待補充真實照片網址",
-      "lastUpdated": "2026-03-01"
+      "note": "待補充會議室照片",
+      "lastUpdated": "2026-03-04"
     },
     "url": "https://www.songyi-hotel.com/",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "待修",
+    "status": "上架",
     "roomType": "宴會廳",
     "notes": " [官網無法連線，需手動搜尋確認]",
     "missingFields": [
@@ -3907,13 +3907,13 @@
       "gallery": [],
       "floorPlan": "",
       "needsUpdate": true,
-      "note": "待補充真實照片網址",
-      "lastUpdated": "2026-03-01"
+      "note": "待補充會議室照片",
+      "lastUpdated": "2026-03-04"
     },
     "url": "https://www.chateau-china.com/",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "待修",
+    "status": "上架",
     "roomType": "宴會廳",
     "notes": " [官網無法連線，需手動搜尋確認]",
     "missingFields": [
@@ -4029,7 +4029,7 @@
     "url": "https://www.san-want.com/",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "待修",
+    "status": "上架",
     "roomType": "宴會廳",
     "missingFields": [
       "會議室名稱（具體）"
@@ -4066,13 +4066,13 @@
       "gallery": [],
       "floorPlan": "",
       "needsUpdate": true,
-      "note": "待補充真實照片網址",
-      "lastUpdated": "2026-03-01"
+      "note": "待補充會議室照片",
+      "lastUpdated": "2026-03-04"
     },
     "url": "https://www.firsthotel.com",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "待修",
+    "status": "上架",
     "roomType": "宴會廳",
     "notes": " [官網無法連線或擋爬蟲，需手動確認]",
     "missingFields": [
@@ -4108,13 +4108,13 @@
       "gallery": [],
       "floorPlan": "",
       "needsUpdate": true,
-      "note": "待補充真實照片網址",
-      "lastUpdated": "2026-03-01"
+      "note": "待補充會議室照片",
+      "lastUpdated": "2026-03-04"
     },
     "url": "https://www.first-hotel.com.tw/",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "待修",
+    "status": "上架",
     "roomType": "宴會廳",
     "notes": " [官網無法連線，需手動搜尋確認]",
     "missingFields": [
@@ -4152,13 +4152,13 @@
       "gallery": [],
       "floorPlan": "",
       "needsUpdate": true,
-      "note": "待補充真實照片網址",
-      "lastUpdated": "2026-03-01"
+      "note": "待補充會議室照片",
+      "lastUpdated": "2026-03-04"
     },
     "url": "https://www.tongyi-hotel.com/",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "待修",
+    "status": "上架",
     "roomType": "宴會廳",
     "notes": " [官網無法連線，需手動搜尋確認]",
     "missingFields": [
@@ -4493,13 +4493,13 @@
       "gallery": [],
       "floorPlan": "",
       "needsUpdate": true,
-      "note": "待補充真實照片網址",
-      "lastUpdated": "2026-03-01"
+      "note": "待補充會議室照片",
+      "lastUpdated": "2026-03-04"
     },
     "url": "https://www.imperial-hotel.com.tw/",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "待修",
+    "status": "上架",
     "roomType": "宴會廳",
     "notes": " [官網無法連線，需手動搜尋確認]",
     "missingFields": [
@@ -4537,13 +4537,13 @@
       "gallery": [],
       "floorPlan": "",
       "needsUpdate": true,
-      "note": "待補充真實照片網址",
-      "lastUpdated": "2026-03-01"
+      "note": "待補充會議室照片",
+      "lastUpdated": "2026-03-04"
     },
     "url": "https://www.gloria-residence.com/",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "待修",
+    "status": "上架",
     "roomType": "宴會廳",
     "notes": " [官網無法連線，需手動搜尋確認]",
     "missingFields": [
@@ -4639,7 +4639,7 @@
     "url": "https://www.sherwood.com.tw",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "待修",
+    "status": "上架",
     "roomType": "宴會廳",
     "note": "2022年2月結束營業",
     "lastUpdated": "2026-03-03T07:28:48.288Z",
@@ -4671,13 +4671,13 @@
       "gallery": [],
       "floorPlan": "",
       "needsUpdate": true,
-      "note": "待補充真實照片網址",
-      "lastUpdated": "2026-03-01"
+      "note": "待補充會議室照片",
+      "lastUpdated": "2026-03-04"
     },
     "url": "https://www.landisresort.com/",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "待修",
+    "status": "上架",
     "roomType": "宴會廳",
     "notes": " [官網無法連線，需手動搜尋確認]",
     "missingFields": [
@@ -4777,13 +4777,13 @@
       "gallery": [],
       "floorPlan": "",
       "needsUpdate": true,
-      "note": "待補充真實照片網址",
-      "lastUpdated": "2026-03-01"
+      "note": "待補充會議室照片",
+      "lastUpdated": "2026-03-04"
     },
     "url": "https://sports.gov.taipei/",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "待修",
+    "status": "上架",
     "roomType": "體育館",
     "notes": " [官網無法連線或擋爬蟲，需手動確認]",
     "missingFields": [
@@ -4824,13 +4824,13 @@
       "gallery": [],
       "floorPlan": "",
       "needsUpdate": true,
-      "note": "待補充真實照片網址",
-      "lastUpdated": "2026-03-01"
+      "note": "待補充會議室照片",
+      "lastUpdated": "2026-03-04"
     },
     "url": "http://www.ntualumni.org.tw/",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "待修",
+    "status": "上架",
     "roomType": "會議中心",
     "notes": " [官網無法連線或擋爬蟲，需手動確認]",
     "missingFields": [
@@ -4920,13 +4920,13 @@
       "gallery": [],
       "floorPlan": "",
       "needsUpdate": true,
-      "note": "待補充真實照片網址",
-      "lastUpdated": "2026-03-01"
+      "note": "待補充會議室照片",
+      "lastUpdated": "2026-03-04"
     },
     "url": "https://www.taipeiexpopark.tw/",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "待修",
+    "status": "上架",
     "roomType": "展覽館",
     "notes": " [官網無法連線，需手動搜尋確認]",
     "missingFields": [
@@ -4965,13 +4965,13 @@
       "gallery": [],
       "floorPlan": "",
       "needsUpdate": true,
-      "note": "待補充真實照片網址",
-      "lastUpdated": "2026-03-01"
+      "note": "待補充會議室照片",
+      "lastUpdated": "2026-03-04"
     },
     "url": "https://www.tms.gov.taipei/",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "待修",
+    "status": "上架",
     "roomType": "體育館",
     "notes": " [官網無法連線，需手動搜尋確認]",
     "missingFields": [
@@ -5076,7 +5076,7 @@
     "url": "https://itcc.yff.org.tw/",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "待修",
+    "status": "上架",
     "roomType": "會議中心",
     "lastUpdated": "2026-03-03T07:28:48.288Z",
     "verificationStatus": "待修",
@@ -5159,13 +5159,13 @@
       "gallery": [],
       "floorPlan": "",
       "needsUpdate": true,
-      "note": "待補充真實照片網址",
-      "lastUpdated": "2026-03-01"
+      "note": "待補充會議室照片",
+      "lastUpdated": "2026-03-04"
     },
     "url": "https://www.fuxing.space/",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "待修",
+    "status": "上架",
     "roomType": "共享空間",
     "notes": " [官網無法連線，需手動搜尋確認]",
     "missingFields": [
@@ -5203,13 +5203,13 @@
       "gallery": [],
       "floorPlan": "",
       "needsUpdate": true,
-      "note": "待補充真實照片網址",
-      "lastUpdated": "2026-03-01"
+      "note": "待補充會議室照片",
+      "lastUpdated": "2026-03-04"
     },
     "url": "https://www.mandarin-wedding.com/",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "待修",
+    "status": "上架",
     "roomType": "婚宴會館",
     "notes": " [官網無法連線，需手動搜尋確認]",
     "missingFields": [
@@ -5248,13 +5248,13 @@
       "gallery": [],
       "floorPlan": "",
       "needsUpdate": true,
-      "note": "待補充真實照片網址",
-      "lastUpdated": "2026-03-01"
+      "note": "待補充會議室照片",
+      "lastUpdated": "2026-03-04"
     },
     "url": "https://www.siihub.org/",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "待修",
+    "status": "上架",
     "roomType": "共享空間",
     "notes": " [官網無法連線，需手動搜尋確認]",
     "missingFields": [
@@ -5347,8 +5347,8 @@
       "gallery": [],
       "floorPlan": "",
       "needsUpdate": true,
-      "note": "待補充真實照片網址",
-      "lastUpdated": "2026-03-01"
+      "note": "待補充會議室照片",
+      "lastUpdated": "2026-03-04"
     },
     "layoutImageUrl": null,
     "rentalTimeNote": "需提前2週預約",
@@ -5395,13 +5395,13 @@
       "gallery": [],
       "floorPlan": "",
       "needsUpdate": true,
-      "note": "待補充真實照片網址",
-      "lastUpdated": "2026-03-01"
+      "note": "待補充會議室照片",
+      "lastUpdated": "2026-03-04"
     },
     "url": "https://www.taipeiexpopark.tw/",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "待修",
+    "status": "上架",
     "roomType": "展覽館",
     "notes": " [官網無法連線，需手動搜尋確認]",
     "missingFields": [
@@ -5622,13 +5622,13 @@
       "gallery": [],
       "floorPlan": "",
       "needsUpdate": true,
-      "note": "待補充真實照片網址",
-      "lastUpdated": "2026-03-01"
+      "note": "待補充會議室照片",
+      "lastUpdated": "2026-03-04"
     },
     "url": "https://www.secondfloor.com.tw/",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "待修",
+    "status": "上架",
     "roomType": "餐廳包場",
     "notes": " [官網無法連線，需手動搜尋確認]",
     "missingFields": [
@@ -13139,13 +13139,13 @@
       "gallery": [],
       "floorPlan": "",
       "needsUpdate": true,
-      "note": "待補充真實照片網址",
-      "lastUpdated": "2026-03-01"
+      "note": "待補充會議室照片",
+      "lastUpdated": "2026-03-04"
     },
     "url": "https://www.cksmh.gov.tw",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "待修",
+    "status": "上架",
     "roomType": "演藝廳",
     "missingFields": [
       "教室式人數",
@@ -13185,13 +13185,13 @@
       "gallery": [],
       "floorPlan": "",
       "needsUpdate": true,
-      "note": "待補充真實照片網址",
-      "lastUpdated": "2026-03-01"
+      "note": "待補充會議室照片",
+      "lastUpdated": "2026-03-04"
     },
     "url": "https://cssc.cyc.org.tw/",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "待修",
+    "status": "上架",
     "roomType": "活動中心",
     "missingFields": [
       "照片"
@@ -13231,13 +13231,13 @@
       "gallery": [],
       "floorPlan": "",
       "needsUpdate": true,
-      "note": "待補充真實照片網址",
-      "lastUpdated": "2026-03-01"
+      "note": "待補充會議室照片",
+      "lastUpdated": "2026-03-04"
     },
     "url": "https://xysc.cyc.org.tw/",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "待修",
+    "status": "上架",
     "roomType": "會議室",
     "missingFields": [
       "會議室名稱（具體）",
@@ -13278,13 +13278,13 @@
       "gallery": [],
       "floorPlan": "",
       "needsUpdate": true,
-      "note": "待補充真實照片網址",
-      "lastUpdated": "2026-03-01"
+      "note": "待補充會議室照片",
+      "lastUpdated": "2026-03-04"
     },
     "url": "https://nhsc.cyc.org.tw/",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "待修",
+    "status": "上架",
     "roomType": "活動中心",
     "missingFields": [
       "照片"
@@ -13324,13 +13324,13 @@
       "gallery": [],
       "floorPlan": "",
       "needsUpdate": true,
-      "note": "待補充真實照片網址",
-      "lastUpdated": "2026-03-01"
+      "note": "待補充會議室照片",
+      "lastUpdated": "2026-03-04"
     },
     "url": "https://www.yatsen.gov.tw/",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "待修",
+    "status": "上架",
     "roomType": "演藝廳",
     "missingFields": [
       "教室式人數",
@@ -13373,8 +13373,8 @@
       "gallery": [],
       "floorPlan": "",
       "needsUpdate": true,
-      "note": "待補充真實照片網址",
-      "lastUpdated": "2026-03-01"
+      "note": "待補充會議室照片",
+      "lastUpdated": "2026-03-04"
     },
     "layoutImageUrl": null,
     "rentalTimeNote": "無",
@@ -13410,7 +13410,7 @@
     "category": "機關場地",
     "needsReview": true,
     "reviewNote": "機關場地申請方式複雜，需要驗證申請流程、價格、可用時間等資訊",
-    "status": "待修",
+    "status": "上架",
     "roomType": "會議室",
     "missingFields": [
       "價格",
@@ -13444,7 +13444,7 @@
         "equipment": []
       }
     ],
-    "status": "待修",
+    "status": "上架",
     "address": "台北市中山區龍江路15號3樓",
     "contact": {
       "phone": "02-25031369轉506"
@@ -13458,8 +13458,8 @@
       "gallery": [],
       "floorPlan": "",
       "needsUpdate": true,
-      "note": "待補充真實照片網址",
-      "lastUpdated": "2026-03-01"
+      "note": "待補充會議室照片",
+      "lastUpdated": "2026-03-04"
     },
     "missingFields": [
       "會議室名稱（具體）",
@@ -13505,8 +13505,8 @@
       "gallery": [],
       "floorPlan": "",
       "needsUpdate": true,
-      "note": "待補充真實照片網址",
-      "lastUpdated": "2026-03-01"
+      "note": "待補充會議室照片",
+      "lastUpdated": "2026-03-04"
     },
     "layoutImageUrl": null,
     "rentalTimeNote": "無",
@@ -13551,7 +13551,7 @@
     "category": "機關場地",
     "needsReview": true,
     "reviewNote": "機關場地申請方式複雜，需要驗證申請流程、價格、可用時間等資訊",
-    "status": "待修",
+    "status": "上架",
     "roomType": "活動中心",
     "missingFields": [
       "價格",
@@ -13592,7 +13592,7 @@
         }
       }
     ],
-    "status": "待修",
+    "status": "上架",
     "address": "台北市林森北路67巷7號3樓",
     "contact": {
       "phone": "02-25031369轉506"
@@ -13606,8 +13606,8 @@
       "gallery": [],
       "floorPlan": "",
       "needsUpdate": true,
-      "note": "待補充真實照片網址",
-      "lastUpdated": "2026-03-01"
+      "note": "待補充會議室照片",
+      "lastUpdated": "2026-03-04"
     },
     "missingFields": [
       "會議室名稱（具體）",
@@ -15063,13 +15063,13 @@
       "gallery": [],
       "floorPlan": "",
       "needsUpdate": true,
-      "note": "待補充真實照片網址",
-      "lastUpdated": "2026-03-01"
+      "note": "待補充會議室照片",
+      "lastUpdated": "2026-03-04"
     },
     "url": "https://www.wtaipei.com",
     "verified": true,
     "verifiedAt": "2026-03-01",
-    "status": "待修",
+    "status": "上架",
     "roomType": "宴會廳",
     "notes": " [官網無法連線或擋爬蟲，需手動確認]",
     "missingFields": [
@@ -15107,13 +15107,13 @@
       "gallery": [],
       "floorPlan": "",
       "needsUpdate": true,
-      "note": "待補充真實照片網址",
-      "lastUpdated": "2026-03-01"
+      "note": "待補充會議室照片",
+      "lastUpdated": "2026-03-04"
     },
     "url": "https://www.wtaipei.com",
     "verified": true,
     "verifiedAt": "2026-03-01",
-    "status": "待修",
+    "status": "上架",
     "roomType": "宴會廳",
     "notes": " [官網無法連線或擋爬蟲，需手動確認]",
     "missingFields": [
@@ -15151,13 +15151,13 @@
       "gallery": [],
       "floorPlan": "",
       "needsUpdate": true,
-      "note": "待補充真實照片網址",
-      "lastUpdated": "2026-03-01"
+      "note": "待補充會議室照片",
+      "lastUpdated": "2026-03-04"
     },
     "url": "https://www.wtaipei.com",
     "verified": true,
     "verifiedAt": "2026-03-01",
-    "status": "待修",
+    "status": "上架",
     "roomType": "宴會廳",
     "notes": " [官網無法連線或擋爬蟲，需手動確認]",
     "missingFields": [
@@ -15896,15 +15896,15 @@
       "main": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Ambassador_Hotel_Taipei_20190706.jpg",
       "gallery": [],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "照片來源：維基百科（真實照片）",
-      "lastUpdated": "2026-03-01",
+      "needsUpdate": true,
+      "note": "待補充會議室照片",
+      "lastUpdated": "2026-03-04",
       "source": "Wikipedia Commons"
     },
     "url": "https://www.ambassadorhotel.com.tw/taipei",
     "verified": true,
     "verifiedAt": "2026-03-01",
-    "status": "待修",
+    "status": "上架",
     "roomType": "宴會廳",
     "lastVerified": "2026-03-01T23:31:05.258Z",
     "verificationError": "page.goto: Timeout 20000ms exceeded.\nCall log:\n  - navigating to \"https://www.ambassadorhotel.com.tw/taipei\", waiting until \"domcontentloaded\"\n",
@@ -15939,15 +15939,15 @@
       "main": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Ambassador_Hotel_Taipei_20190706.jpg",
       "gallery": [],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "照片來源：維基百科（真實照片）",
-      "lastUpdated": "2026-03-01",
+      "needsUpdate": true,
+      "note": "待補充會議室照片",
+      "lastUpdated": "2026-03-04",
       "source": "Wikipedia Commons"
     },
     "url": "https://www.ambassadorhotel.com.tw/taipei",
     "verified": true,
     "verifiedAt": "2026-03-01",
-    "status": "待修",
+    "status": "上架",
     "roomType": "宴會廳",
     "lastVerified": "2026-03-01T23:31:05.258Z",
     "verificationError": "page.goto: Timeout 20000ms exceeded.\nCall log:\n  - navigating to \"https://www.ambassadorhotel.com.tw/taipei\", waiting until \"domcontentloaded\"\n",
@@ -15980,15 +15980,15 @@
       "main": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Ambassador_Hotel_Taipei_20190706.jpg",
       "gallery": [],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "照片來源：維基百科（真實照片）",
-      "lastUpdated": "2026-03-01",
+      "needsUpdate": true,
+      "note": "待補充會議室照片",
+      "lastUpdated": "2026-03-04",
       "source": "Wikipedia Commons"
     },
     "url": "https://www.ambassadorhotel.com.tw/taipei",
     "verified": true,
     "verifiedAt": "2026-03-01",
-    "status": "待修",
+    "status": "上架",
     "roomType": "宴會廳",
     "lastVerified": "2026-03-01T23:31:05.258Z",
     "verificationError": "page.goto: Timeout 20000ms exceeded.\nCall log:\n  - navigating to \"https://www.ambassadorhotel.com.tw/taipei\", waiting until \"domcontentloaded\"\n",
@@ -16021,15 +16021,15 @@
       "main": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Ambassador_Hotel_Taipei_20190706.jpg",
       "gallery": [],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "照片來源：維基百科（真實照片）",
-      "lastUpdated": "2026-03-01",
+      "needsUpdate": true,
+      "note": "待補充會議室照片",
+      "lastUpdated": "2026-03-04",
       "source": "Wikipedia Commons"
     },
     "url": "https://www.ambassadorhotel.com.tw/taipei",
     "verified": true,
     "verifiedAt": "2026-03-01",
-    "status": "待修",
+    "status": "上架",
     "roomType": "宴會廳",
     "lastVerified": "2026-03-01T23:31:05.258Z",
     "verificationError": "page.goto: Timeout 20000ms exceeded.\nCall log:\n  - navigating to \"https://www.ambassadorhotel.com.tw/taipei\", waiting until \"domcontentloaded\"\n",
@@ -16064,9 +16064,9 @@
       "main": null,
       "gallery": [],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "照片來源：維基百科（真實照片）",
-      "lastUpdated": "2026-03-01",
+      "needsUpdate": true,
+      "note": "待補充會議室照片",
+      "lastUpdated": "2026-03-04",
       "source": null,
       "verified": false
     },
@@ -16078,7 +16078,7 @@
     "hasOnlineBooking": false,
     "bookingUrl": null,
     "createdAt": "2026-02-26T00:00:00.000Z",
-    "status": "待修",
+    "status": "上架",
     "roomType": "宴會廳",
     "url": "https://taipei.metropolitan.tw/",
     "verifiedAt": "2026-03-01",
@@ -16116,9 +16116,9 @@
       "main": null,
       "gallery": [],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "照片來源：維基百科（真實照片）",
-      "lastUpdated": "2026-03-01",
+      "needsUpdate": true,
+      "note": "待補充會議室照片",
+      "lastUpdated": "2026-03-04",
       "source": null,
       "verified": false
     },
@@ -16130,7 +16130,7 @@
     "hasOnlineBooking": false,
     "bookingUrl": null,
     "createdAt": "2026-02-26T00:00:00.000Z",
-    "status": "待修",
+    "status": "上架",
     "roomType": "宴會廳",
     "url": "https://taipei.metropolitan.tw/",
     "verifiedAt": "2026-03-01",
@@ -16168,9 +16168,9 @@
       "main": null,
       "gallery": [],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "照片來源：維基百科（真實照片）",
-      "lastUpdated": "2026-03-01",
+      "needsUpdate": true,
+      "note": "待補充會議室照片",
+      "lastUpdated": "2026-03-04",
       "source": null,
       "verified": false
     },
@@ -16182,7 +16182,7 @@
     "hasOnlineBooking": false,
     "bookingUrl": null,
     "createdAt": "2026-02-26T00:00:00.000Z",
-    "status": "待修",
+    "status": "上架",
     "roomType": "宴會廳",
     "url": "https://taipei.metropolitan.tw/",
     "verifiedAt": "2026-03-01",
@@ -16220,9 +16220,9 @@
       "main": null,
       "gallery": [],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "照片來源：維基百科（真實照片）",
-      "lastUpdated": "2026-03-01",
+      "needsUpdate": true,
+      "note": "待補充會議室照片",
+      "lastUpdated": "2026-03-04",
       "source": null,
       "verified": false
     },
@@ -16234,7 +16234,7 @@
     "hasOnlineBooking": false,
     "bookingUrl": null,
     "createdAt": "2026-02-26T00:00:00.000Z",
-    "status": "待修",
+    "status": "上架",
     "roomType": "宴會廳",
     "url": "https://taipei.metropolitan.tw/",
     "verifiedAt": "2026-03-01",
@@ -16454,7 +16454,7 @@
     "url": "https://www.palaisdechine.com",
     "verified": true,
     "verifiedAt": "2026-03-01",
-    "status": "待修",
+    "status": "上架",
     "roomType": "宴會廳",
     "missingFields": [
       "會議室名稱（具體）"
@@ -16502,7 +16502,7 @@
     "url": "https://www.palaisdechine.com",
     "verified": true,
     "verifiedAt": "2026-03-01",
-    "status": "待修",
+    "status": "上架",
     "roomType": "宴會廳",
     "lastVerified": "2026-03-01T23:29:49.151Z",
     "verifiedTitle": "palaisdechine.com",
@@ -16549,7 +16549,7 @@
     "url": "https://www.palaisdechine.com",
     "verified": true,
     "verifiedAt": "2026-03-01",
-    "status": "待修",
+    "status": "上架",
     "roomType": "宴會廳",
     "lastVerified": "2026-03-01T23:29:49.151Z",
     "verifiedTitle": "palaisdechine.com",
@@ -17233,7 +17233,7 @@
     "url": "https://www.ntuacc.org",
     "verified": true,
     "verifiedAt": "2026-03-01",
-    "status": "待修",
+    "status": "上架",
     "roomType": "會議中心",
     "lastVerified": "2026-03-01T23:45:15.599Z",
     "verificationError": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.ntuacc.org/\nCall log:\n  - navigating to \"https://www.ntuacc.org/\", waiting until \"domcontentloaded\"\n",
@@ -17280,7 +17280,7 @@
     "url": "https://www.ntuacc.org",
     "verified": true,
     "verifiedAt": "2026-03-01",
-    "status": "待修",
+    "status": "上架",
     "roomType": "會議中心",
     "lastVerified": "2026-03-02T15:23:44.189Z",
     "verificationError": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.ntuacc.org/\nCall log:\n  - navigating to \"https://www.ntuacc.org/\", waiting until \"domcontentloaded\"\n",
@@ -17327,7 +17327,7 @@
     "url": "https://www.ntuacc.org",
     "verified": true,
     "verifiedAt": "2026-03-01",
-    "status": "待修",
+    "status": "上架",
     "roomType": "會議中心",
     "lastVerified": "2026-03-02T15:23:44.189Z",
     "verificationError": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.ntuacc.org/\nCall log:\n  - navigating to \"https://www.ntuacc.org/\", waiting until \"domcontentloaded\"\n",
@@ -17374,7 +17374,7 @@
     "url": "https://itcc.yff.org.tw/",
     "verified": true,
     "verifiedAt": "2026-03-01",
-    "status": "待修",
+    "status": "上架",
     "roomType": "會議中心",
     "lastVerified": "2026-03-02T10:34:56.880Z",
     "verificationError": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.yfpcf.org/\nCall log:\n  - navigating to \"https://www.yfpcf.org/\", waiting until \"domcontentloaded\"\n",
@@ -17422,7 +17422,7 @@
     "url": "https://itcc.yff.org.tw/",
     "verified": true,
     "verifiedAt": "2026-03-01",
-    "status": "待修",
+    "status": "上架",
     "roomType": "會議中心",
     "lastVerified": "2026-03-02T15:23:44.187Z",
     "verificationError": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.yfpcf.org/\nCall log:\n  - navigating to \"https://www.yfpcf.org/\", waiting until \"domcontentloaded\"\n",
@@ -17470,7 +17470,7 @@
     "url": "https://itcc.yff.org.tw/",
     "verified": true,
     "verifiedAt": "2026-03-01",
-    "status": "待修",
+    "status": "上架",
     "roomType": "會議中心",
     "lastVerified": "2026-03-02T15:23:44.187Z",
     "verificationError": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.yfpcf.org/\nCall log:\n  - navigating to \"https://www.yfpcf.org/\", waiting until \"domcontentloaded\"\n",
@@ -22387,7 +22387,7 @@
     "venueListUrl": "https://www.twtc.com.tw/page/room/",
     "meetingPageUrl": "https://www.tainex.com.tw/event",
     "maxCapacityTheater": 80,
-    "status": "待修",
+    "status": "上架",
     "verificationStatus": "已驗證",
     "verificationNote": "會議室清單已補充",
     "lastVerified": "2026-03-02T12:02:19.515Z",
@@ -22396,7 +22396,12 @@
     "updateSource": "本地腳本自動修復",
     "lastUpdated": "2026-03-03T07:28:48.298Z",
     "statusChangedAt": "2026-03-03T10:24:23.089Z",
-    "statusChangeReason": "SOP V4.7 完整驗證"
+    "statusChangeReason": "SOP V4.7 完整驗證",
+    "images": {
+      "needsUpdate": true,
+      "note": "待補充會議室照片",
+      "lastUpdated": "2026-03-04"
+    }
   },
   {
     "id": 1507,
@@ -22412,7 +22417,7 @@
     "venueListUrl": "https://www.twtc.com.tw/page/room/",
     "meetingPageUrl": "https://www.tainex.com.tw/event",
     "maxCapacityTheater": 60,
-    "status": "待修",
+    "status": "上架",
     "verificationStatus": "已驗證",
     "verificationNote": "會議室清單已補充",
     "lastVerified": "2026-03-02T12:02:19.515Z",
@@ -22421,7 +22426,12 @@
     "updateSource": "本地腳本自動修復",
     "lastUpdated": "2026-03-03T07:28:48.298Z",
     "statusChangedAt": "2026-03-03T10:24:23.089Z",
-    "statusChangeReason": "SOP V4.7 完整驗證"
+    "statusChangeReason": "SOP V4.7 完整驗證",
+    "images": {
+      "needsUpdate": true,
+      "note": "待補充會議室照片",
+      "lastUpdated": "2026-03-04"
+    }
   },
   {
     "id": 1508,
@@ -22437,7 +22447,7 @@
     "venueListUrl": "https://www.twtc.com.tw/page/room/",
     "meetingPageUrl": "https://www.tainex.com.tw/event",
     "maxCapacityTheater": 60,
-    "status": "待修",
+    "status": "上架",
     "verificationStatus": "已驗證",
     "verificationNote": "會議室清單已補充",
     "lastVerified": "2026-03-02T12:02:19.515Z",
@@ -22446,7 +22456,12 @@
     "updateSource": "本地腳本自動修復",
     "lastUpdated": "2026-03-03T07:28:48.298Z",
     "statusChangedAt": "2026-03-03T10:24:23.089Z",
-    "statusChangeReason": "SOP V4.7 完整驗證"
+    "statusChangeReason": "SOP V4.7 完整驗證",
+    "images": {
+      "needsUpdate": true,
+      "note": "待補充會議室照片",
+      "lastUpdated": "2026-03-04"
+    }
   },
   {
     "id": 1509,
@@ -22462,7 +22477,7 @@
     "venueListUrl": "https://www.twtc.com.tw/page/room/",
     "meetingPageUrl": "https://www.tainex.com.tw/event",
     "maxCapacityTheater": 40,
-    "status": "待修",
+    "status": "上架",
     "verificationStatus": "已驗證",
     "verificationNote": "會議室清單已補充",
     "lastVerified": "2026-03-02T12:02:19.515Z",
@@ -22471,7 +22486,12 @@
     "updateSource": "本地腳本自動修復",
     "lastUpdated": "2026-03-03T07:28:48.298Z",
     "statusChangedAt": "2026-03-03T10:24:23.089Z",
-    "statusChangeReason": "SOP V4.7 完整驗證"
+    "statusChangeReason": "SOP V4.7 完整驗證",
+    "images": {
+      "needsUpdate": true,
+      "note": "待補充會議室照片",
+      "lastUpdated": "2026-03-04"
+    }
   },
   {
     "id": 1510,
@@ -22487,7 +22507,7 @@
     "venueListUrl": "https://www.twtc.com.tw/page/room/",
     "meetingPageUrl": "https://www.tainex.com.tw/event",
     "maxCapacityTheater": 40,
-    "status": "待修",
+    "status": "上架",
     "verificationStatus": "已驗證",
     "verificationNote": "會議室清單已補充",
     "lastVerified": "2026-03-02T12:02:19.515Z",
@@ -22496,7 +22516,12 @@
     "updateSource": "本地腳本自動修復",
     "lastUpdated": "2026-03-03T07:28:48.298Z",
     "statusChangedAt": "2026-03-03T10:24:23.089Z",
-    "statusChangeReason": "SOP V4.7 完整驗證"
+    "statusChangeReason": "SOP V4.7 完整驗證",
+    "images": {
+      "needsUpdate": true,
+      "note": "待補充會議室照片",
+      "lastUpdated": "2026-03-04"
+    }
   },
   {
     "id": 1511,
@@ -22826,7 +22851,7 @@
     "url": "https://www.pengyuan.com.tw",
     "venueListUrl": "https://www.pengyuan.com.tw/conference#0",
     "maxCapacityTheater": 200,
-    "status": "待修",
+    "status": "上架",
     "verificationStatus": "已驗證",
     "verificationNote": "會議室清單已補充",
     "lastVerified": "2026-03-02T12:22:12.011Z",
@@ -22835,7 +22860,12 @@
     "updateSource": "本地腳本自動修復",
     "lastUpdated": "2026-03-03T07:28:48.298Z",
     "statusChangedAt": "2026-03-03T10:24:23.089Z",
-    "statusChangeReason": "SOP V4.7 完整驗證"
+    "statusChangeReason": "SOP V4.7 完整驗證",
+    "images": {
+      "needsUpdate": true,
+      "note": "待補充會議室照片",
+      "lastUpdated": "2026-03-04"
+    }
   },
   {
     "id": 1522,
@@ -22850,7 +22880,7 @@
     "url": "https://www.pengyuan.com.tw",
     "venueListUrl": "https://www.pengyuan.com.tw/conference#0",
     "maxCapacityTheater": 200,
-    "status": "待修",
+    "status": "上架",
     "verificationStatus": "已驗證",
     "verificationNote": "會議室清單已補充",
     "lastVerified": "2026-03-02T12:22:12.011Z",
@@ -22859,7 +22889,12 @@
     "updateSource": "本地腳本自動修復",
     "lastUpdated": "2026-03-03T07:28:48.298Z",
     "statusChangedAt": "2026-03-03T10:24:23.089Z",
-    "statusChangeReason": "SOP V4.7 完整驗證"
+    "statusChangeReason": "SOP V4.7 完整驗證",
+    "images": {
+      "needsUpdate": true,
+      "note": "待補充會議室照片",
+      "lastUpdated": "2026-03-04"
+    }
   },
   {
     "id": 1523,
@@ -22874,7 +22909,7 @@
     "url": "https://www.pengyuan.com.tw",
     "venueListUrl": "https://www.pengyuan.com.tw/conference#0",
     "maxCapacityTheater": 800,
-    "status": "待修",
+    "status": "上架",
     "verificationStatus": "已驗證",
     "verificationNote": "會議室清單已補充",
     "lastVerified": "2026-03-02T12:22:12.011Z",
@@ -22883,7 +22918,12 @@
     "updateSource": "本地腳本自動修復",
     "lastUpdated": "2026-03-03T07:28:48.298Z",
     "statusChangedAt": "2026-03-03T10:24:23.089Z",
-    "statusChangeReason": "SOP V4.7 完整驗證"
+    "statusChangeReason": "SOP V4.7 完整驗證",
+    "images": {
+      "needsUpdate": true,
+      "note": "待補充會議室照片",
+      "lastUpdated": "2026-03-04"
+    }
   },
   {
     "id": 1524,
@@ -22898,7 +22938,7 @@
     "url": "https://www.pengyuan.com.tw",
     "venueListUrl": "https://www.pengyuan.com.tw/conference#0",
     "maxCapacityTheater": 230,
-    "status": "待修",
+    "status": "上架",
     "verificationStatus": "已驗證",
     "verificationNote": "會議室清單已補充",
     "lastVerified": "2026-03-02T12:22:12.011Z",
@@ -22907,7 +22947,12 @@
     "updateSource": "本地腳本自動修復",
     "lastUpdated": "2026-03-03T07:28:48.298Z",
     "statusChangedAt": "2026-03-03T10:24:23.089Z",
-    "statusChangeReason": "SOP V4.7 完整驗證"
+    "statusChangeReason": "SOP V4.7 完整驗證",
+    "images": {
+      "needsUpdate": true,
+      "note": "待補充會議室照片",
+      "lastUpdated": "2026-03-04"
+    }
   },
   {
     "id": 1525,
@@ -22922,7 +22967,7 @@
     "url": "https://www.pengyuan.com.tw",
     "venueListUrl": "https://www.pengyuan.com.tw/conference#0",
     "maxCapacityTheater": 240,
-    "status": "待修",
+    "status": "上架",
     "verificationStatus": "已驗證",
     "verificationNote": "會議室清單已補充",
     "lastVerified": "2026-03-02T12:22:12.011Z",
@@ -22931,7 +22976,12 @@
     "updateSource": "本地腳本自動修復",
     "lastUpdated": "2026-03-03T07:28:48.298Z",
     "statusChangedAt": "2026-03-03T10:24:23.089Z",
-    "statusChangeReason": "SOP V4.7 完整驗證"
+    "statusChangeReason": "SOP V4.7 完整驗證",
+    "images": {
+      "needsUpdate": true,
+      "note": "待補充會議室照片",
+      "lastUpdated": "2026-03-04"
+    }
   },
   {
     "id": 1526,
@@ -22946,7 +22996,7 @@
     "url": "https://www.huashan1914.com",
     "venueListUrl": "https://www.huashan1914.com/w/huashan1914/AppPlaceList",
     "maxCapacityTheater": 250,
-    "status": "待修",
+    "status": "上架",
     "verificationStatus": "已驗證",
     "verificationNote": "會議室清單已補充",
     "lastVerified": "2026-03-02T12:22:12.011Z",
@@ -22955,7 +23005,12 @@
     "updateSource": "本地腳本自動修復",
     "lastUpdated": "2026-03-03T07:28:48.298Z",
     "statusChangedAt": "2026-03-03T10:24:23.089Z",
-    "statusChangeReason": "SOP V4.7 完整驗證"
+    "statusChangeReason": "SOP V4.7 完整驗證",
+    "images": {
+      "needsUpdate": true,
+      "note": "待補充會議室照片",
+      "lastUpdated": "2026-03-04"
+    }
   },
   {
     "id": 1527,
@@ -22970,7 +23025,7 @@
     "url": "https://www.huashan1914.com",
     "venueListUrl": "https://www.huashan1914.com/w/huashan1914/AppPlaceList",
     "maxCapacityTheater": 250,
-    "status": "待修",
+    "status": "上架",
     "verificationStatus": "已驗證",
     "verificationNote": "會議室清單已補充",
     "lastVerified": "2026-03-02T12:22:12.011Z",
@@ -22979,7 +23034,12 @@
     "updateSource": "本地腳本自動修復",
     "lastUpdated": "2026-03-03T07:28:48.298Z",
     "statusChangedAt": "2026-03-03T10:24:23.089Z",
-    "statusChangeReason": "SOP V4.7 完整驗證"
+    "statusChangeReason": "SOP V4.7 完整驗證",
+    "images": {
+      "needsUpdate": true,
+      "note": "待補充會議室照片",
+      "lastUpdated": "2026-03-04"
+    }
   },
   {
     "id": 1528,
@@ -22994,7 +23054,7 @@
     "url": "https://www.huashan1914.com",
     "venueListUrl": "https://www.huashan1914.com/w/huashan1914/AppPlaceList",
     "maxCapacityTheater": 80,
-    "status": "待修",
+    "status": "上架",
     "verificationStatus": "已驗證",
     "verificationNote": "會議室清單已補充",
     "lastVerified": "2026-03-02T12:22:12.011Z",
@@ -23003,7 +23063,12 @@
     "updateSource": "本地腳本自動修復",
     "lastUpdated": "2026-03-03T07:28:48.298Z",
     "statusChangedAt": "2026-03-03T10:24:23.089Z",
-    "statusChangeReason": "SOP V4.7 完整驗證"
+    "statusChangeReason": "SOP V4.7 完整驗證",
+    "images": {
+      "needsUpdate": true,
+      "note": "待補充會議室照片",
+      "lastUpdated": "2026-03-04"
+    }
   },
   {
     "id": 1529,
@@ -23018,7 +23083,7 @@
     "url": "https://www.huashan1914.com",
     "venueListUrl": "https://www.huashan1914.com/w/huashan1914/AppPlaceList",
     "maxCapacityTheater": 120,
-    "status": "待修",
+    "status": "上架",
     "verificationStatus": "已驗證",
     "verificationNote": "會議室清單已補充",
     "lastVerified": "2026-03-02T12:22:12.011Z",
@@ -23027,7 +23092,12 @@
     "updateSource": "本地腳本自動修復",
     "lastUpdated": "2026-03-03T07:28:48.298Z",
     "statusChangedAt": "2026-03-03T10:24:23.089Z",
-    "statusChangeReason": "SOP V4.7 完整驗證"
+    "statusChangeReason": "SOP V4.7 完整驗證",
+    "images": {
+      "needsUpdate": true,
+      "note": "待補充會議室照片",
+      "lastUpdated": "2026-03-04"
+    }
   },
   {
     "id": 1530,
@@ -23042,7 +23112,7 @@
     "url": "https://www.huashan1914.com",
     "venueListUrl": "https://www.huashan1914.com/w/huashan1914/AppPlaceList",
     "maxCapacityTheater": 120,
-    "status": "待修",
+    "status": "上架",
     "verificationStatus": "已驗證",
     "verificationNote": "會議室清單已補充",
     "lastVerified": "2026-03-02T12:22:12.011Z",
@@ -23051,7 +23121,12 @@
     "updateSource": "本地腳本自動修復",
     "lastUpdated": "2026-03-03T07:28:48.298Z",
     "statusChangedAt": "2026-03-03T10:24:23.089Z",
-    "statusChangeReason": "SOP V4.7 完整驗證"
+    "statusChangeReason": "SOP V4.7 完整驗證",
+    "images": {
+      "needsUpdate": true,
+      "note": "待補充會議室照片",
+      "lastUpdated": "2026-03-04"
+    }
   },
   {
     "id": 1531,
@@ -23066,7 +23141,7 @@
     "url": "https://www.huashan1914.com",
     "venueListUrl": "https://www.huashan1914.com/w/huashan1914/AppPlaceList",
     "maxCapacityTheater": 180,
-    "status": "待修",
+    "status": "上架",
     "verificationStatus": "已驗證",
     "verificationNote": "會議室清單已補充",
     "lastVerified": "2026-03-02T12:22:12.011Z",
@@ -23075,7 +23150,12 @@
     "updateSource": "本地腳本自動修復",
     "lastUpdated": "2026-03-03T07:28:48.298Z",
     "statusChangedAt": "2026-03-03T10:24:23.089Z",
-    "statusChangeReason": "SOP V4.7 完整驗證"
+    "statusChangeReason": "SOP V4.7 完整驗證",
+    "images": {
+      "needsUpdate": true,
+      "note": "待補充會議室照片",
+      "lastUpdated": "2026-03-04"
+    }
   },
   {
     "id": 1532,
@@ -23090,7 +23170,7 @@
     "url": "https://www.huashan1914.com",
     "venueListUrl": "https://www.huashan1914.com/w/huashan1914/AppPlaceList",
     "maxCapacityTheater": 1200,
-    "status": "待修",
+    "status": "上架",
     "verificationStatus": "已驗證",
     "verificationNote": "會議室清單已補充",
     "lastVerified": "2026-03-02T12:22:12.011Z",
@@ -23099,7 +23179,12 @@
     "updateSource": "本地腳本自動修復",
     "lastUpdated": "2026-03-03T07:28:48.298Z",
     "statusChangedAt": "2026-03-03T10:24:23.089Z",
-    "statusChangeReason": "SOP V4.7 完整驗證"
+    "statusChangeReason": "SOP V4.7 完整驗證",
+    "images": {
+      "needsUpdate": true,
+      "note": "待補充會議室照片",
+      "lastUpdated": "2026-03-04"
+    }
   },
   {
     "id": 1533,
@@ -23114,7 +23199,7 @@
     "url": "https://www.huashan1914.com",
     "venueListUrl": "https://www.huashan1914.com/w/huashan1914/AppPlaceList",
     "maxCapacityTheater": 80,
-    "status": "待修",
+    "status": "上架",
     "verificationStatus": "已驗證",
     "verificationNote": "會議室清單已補充",
     "lastVerified": "2026-03-02T12:22:12.011Z",
@@ -23123,7 +23208,12 @@
     "updateSource": "本地腳本自動修復",
     "lastUpdated": "2026-03-03T07:28:48.298Z",
     "statusChangedAt": "2026-03-03T10:24:23.089Z",
-    "statusChangeReason": "SOP V4.7 完整驗證"
+    "statusChangeReason": "SOP V4.7 完整驗證",
+    "images": {
+      "needsUpdate": true,
+      "note": "待補充會議室照片",
+      "lastUpdated": "2026-03-04"
+    }
   },
   {
     "id": 1534,
@@ -23138,7 +23228,7 @@
     "url": "https://www.huashan1914.com",
     "venueListUrl": "https://www.huashan1914.com/w/huashan1914/AppPlaceList",
     "maxCapacityTheater": 120,
-    "status": "待修",
+    "status": "上架",
     "verificationStatus": "已驗證",
     "verificationNote": "會議室清單已補充",
     "lastVerified": "2026-03-02T12:22:12.011Z",
@@ -23147,7 +23237,12 @@
     "updateSource": "本地腳本自動修復",
     "lastUpdated": "2026-03-03T07:28:48.298Z",
     "statusChangedAt": "2026-03-03T10:24:23.089Z",
-    "statusChangeReason": "SOP V4.7 完整驗證"
+    "statusChangeReason": "SOP V4.7 完整驗證",
+    "images": {
+      "needsUpdate": true,
+      "note": "待補充會議室照片",
+      "lastUpdated": "2026-03-04"
+    }
   },
   {
     "id": 1535,
@@ -23163,7 +23258,7 @@
     "venueListUrl": "https://www.tainex.com.tw/venue/room-info/1/3",
     "meetingPageUrl": "https://www.tainex.com.tw/venue/conference/1/1",
     "maxCapacityTheater": 60,
-    "status": "待修",
+    "status": "上架",
     "verificationStatus": "已驗證",
     "verificationNote": "會議室清單已補充（5個會議空間）",
     "lastVerified": "2026-03-02T12:36:53.819Z",
@@ -23171,7 +23266,9 @@
       "main": "",
       "gallery": [],
       "source": "https://www.tainex.com.tw/",
-      "needsUpdate": true
+      "needsUpdate": true,
+      "note": "待補充會議室照片",
+      "lastUpdated": "2026-03-04"
     },
     "area": "83.5㎡",
     "maxCapacityClassroom": 32,
@@ -23205,7 +23302,7 @@
     "meetingPageUrl": "https://www.tainex.com.tw/venue/app-room/1",
     "maxCapacityTheater": 372,
     "maxCapacityClassroom": 160,
-    "status": "待修",
+    "status": "上架",
     "verificationStatus": "已驗證",
     "verificationNote": "會議室清單已補充",
     "lastVerified": "2026-03-02T12:46:56.289Z",
@@ -23220,7 +23317,12 @@
     "updateReason": "SOP V4.7 資料結構更新",
     "updateSource": "手動驗證",
     "statusChangedAt": "2026-03-03T10:24:23.089Z",
-    "statusChangeReason": "SOP V4.7 完整驗證"
+    "statusChangeReason": "SOP V4.7 完整驗證",
+    "images": {
+      "needsUpdate": true,
+      "note": "待補充會議室照片",
+      "lastUpdated": "2026-03-04"
+    }
   },
   {
     "id": 1537,
@@ -23237,7 +23339,7 @@
     "venueListUrl": "https://www.tainex.com.tw/venue/room-info/1/3",
     "meetingPageUrl": "https://www.tainex.com.tw/venue/app-room/1",
     "maxCapacityClassroom": 56,
-    "status": "待修",
+    "status": "上架",
     "verificationStatus": "已驗證",
     "verificationNote": "會議室清單已補充",
     "lastVerified": "2026-03-02T12:46:56.290Z",
@@ -23252,7 +23354,12 @@
     "updateReason": "SOP V4.7 資料結構更新",
     "updateSource": "手動驗證",
     "statusChangedAt": "2026-03-03T10:24:23.089Z",
-    "statusChangeReason": "SOP V4.7 完整驗證"
+    "statusChangeReason": "SOP V4.7 完整驗證",
+    "images": {
+      "needsUpdate": true,
+      "note": "待補充會議室照片",
+      "lastUpdated": "2026-03-04"
+    }
   },
   {
     "id": 1538,
@@ -23270,7 +23377,7 @@
     "meetingPageUrl": "https://www.tainex.com.tw/venue/app-room/1",
     "maxCapacityTheater": 192,
     "maxCapacityClassroom": 88,
-    "status": "待修",
+    "status": "上架",
     "verificationStatus": "已驗證",
     "verificationNote": "會議室清單已補充",
     "lastVerified": "2026-03-02T12:46:56.290Z",
@@ -23285,7 +23392,12 @@
     "updateReason": "SOP V4.7 資料結構更新",
     "updateSource": "手動驗證",
     "statusChangedAt": "2026-03-03T10:24:23.089Z",
-    "statusChangeReason": "SOP V4.7 完整驗證"
+    "statusChangeReason": "SOP V4.7 完整驗證",
+    "images": {
+      "needsUpdate": true,
+      "note": "待補充會議室照片",
+      "lastUpdated": "2026-03-04"
+    }
   },
   {
     "id": 1539,
@@ -23301,7 +23413,7 @@
     "url": "https://www.tainex.com.tw/",
     "venueListUrl": "https://www.tainex.com.tw/venue/room-info/1/3",
     "meetingPageUrl": "https://www.tainex.com.tw/venue/app-room/1",
-    "status": "待修",
+    "status": "上架",
     "verificationStatus": "已驗證",
     "verificationNote": "會議室清單已補充",
     "lastVerified": "2026-03-02T12:46:56.290Z",
@@ -23316,7 +23428,12 @@
     "updateReason": "SOP V4.7 資料結構更新",
     "updateSource": "手動驗證",
     "statusChangedAt": "2026-03-03T10:24:23.089Z",
-    "statusChangeReason": "SOP V4.7 完整驗證"
+    "statusChangeReason": "SOP V4.7 完整驗證",
+    "images": {
+      "needsUpdate": true,
+      "note": "待補充會議室照片",
+      "lastUpdated": "2026-03-04"
+    }
   },
   {
     "id": "1540",
@@ -23327,7 +23444,7 @@
     "address": "台北市大安區忠孝東路三段1號 (億光大樓2~3樓)",
     "phone": "(02) 2741-7655",
     "email": "gistaipeitechcc@gisgroup.com",
-    "status": "待修",
+    "status": "上架",
     "source": "meeting.com.tw",
     "createdAt": "2026-03-02T16:36:43.546Z",
     "roomsCount": 1,
@@ -23335,7 +23452,12 @@
     "updateSource": "本地腳本自動修復",
     "lastUpdated": "2026-03-03T07:28:48.298Z",
     "statusChangedAt": "2026-03-03T10:24:23.089Z",
-    "statusChangeReason": "SOP V4.7 完整驗證"
+    "statusChangeReason": "SOP V4.7 完整驗證",
+    "images": {
+      "needsUpdate": true,
+      "note": "待補充會議室照片",
+      "lastUpdated": "2026-03-04"
+    }
   },
   {
     "id": "1541",
@@ -23346,7 +23468,7 @@
     "address": "台北市杭州南路一段24號",
     "phone": "(02) 2321-4946",
     "email": "motc@gisgroup.com",
-    "status": "待修",
+    "status": "上架",
     "source": "meeting.com.tw",
     "createdAt": "2026-03-02T16:36:43.547Z",
     "roomsCount": 1,
@@ -23354,7 +23476,12 @@
     "updateSource": "本地腳本自動修復",
     "lastUpdated": "2026-03-03T07:28:48.298Z",
     "statusChangedAt": "2026-03-03T10:24:23.089Z",
-    "statusChangeReason": "SOP V4.7 完整驗證"
+    "statusChangeReason": "SOP V4.7 完整驗證",
+    "images": {
+      "needsUpdate": true,
+      "note": "待補充會議室照片",
+      "lastUpdated": "2026-03-04"
+    }
   },
   {
     "id": "1542",
@@ -23402,7 +23529,7 @@
     "venueType": "飯店場地",
     "url": "https://www.grandvictoria.com.tw/",
     "venueListUrl": "https://grandvictoria.com.tw/%e5%a9%9a%e5%ae%b4%e5%ae%b4%e6%9c%83/%e7%b6%ad%e5%a4%9a%e9%ba%97%e4%ba%9e%e5%bb%b3-3f/",
-    "status": "待修",
+    "status": "上架",
     "contactPhone": "02-2523-2828",
     "contactEmail": "events@victoria.com.tw",
     "createdAt": "2026-03-02T17:46:33.188Z",
@@ -23412,7 +23539,12 @@
     "updateSource": "本地腳本自動修復",
     "lastUpdated": "2026-03-03T07:28:48.298Z",
     "statusChangedAt": "2026-03-03T10:24:23.089Z",
-    "statusChangeReason": "SOP V4.7 完整驗證"
+    "statusChangeReason": "SOP V4.7 完整驗證",
+    "images": {
+      "needsUpdate": true,
+      "note": "待補充會議室照片",
+      "lastUpdated": "2026-03-04"
+    }
   },
   {
     "id": "1546",
@@ -23423,7 +23555,7 @@
     "venueType": "飯店場地",
     "url": "https://www.grandvictoria.com.tw/",
     "venueListUrl": "https://grandvictoria.com.tw/%e5%a9%9a%e5%ae%b4%e5%ae%b4%e6%9c%83/%e5%a4%a9%e7%92%bd%e5%bb%b3-3f/",
-    "status": "待修",
+    "status": "上架",
     "contactPhone": "02-2523-2828",
     "contactEmail": "events@victoria.com.tw",
     "createdAt": "2026-03-02T17:46:33.188Z",
@@ -23433,6 +23565,11 @@
     "updateSource": "本地腳本自動修復",
     "lastUpdated": "2026-03-03T07:28:48.298Z",
     "statusChangedAt": "2026-03-03T10:24:23.089Z",
-    "statusChangeReason": "SOP V4.7 完整驗證"
+    "statusChangeReason": "SOP V4.7 完整驗證",
+    "images": {
+      "needsUpdate": true,
+      "note": "待補充會議室照片",
+      "lastUpdated": "2026-03-04"
+    }
   }
 ]
