@@ -1258,12 +1258,12 @@
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "投影機、音響",
     "images": {
-      "main": "",
+      "main": "https://images.unsplash.com/photo-1554118811-1e0d58224f24?w=800",
       "gallery": [],
       "floorPlan": "",
       "needsUpdate": true,
       "note": "待補充會議室照片",
-      "lastUpdated": "2026-03-04"
+      "lastUpdated": "2026-03-05"
     },
     "url": "https://www.goodmans-coffee.com/",
     "verified": true,
@@ -1480,12 +1480,12 @@
     "availableTimeWeekend": "09:00-18:00",
     "equipment": "投影機、白板、WiFi",
     "images": {
-      "main": "",
+      "main": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800",
       "gallery": [],
       "floorPlan": "",
       "needsUpdate": true,
       "note": "待補充會議室照片",
-      "lastUpdated": "2026-03-04"
+      "lastUpdated": "2026-03-05"
     },
     "url": "https://www.tccc.com.tw/",
     "transportation": {
@@ -1662,12 +1662,12 @@
     "contactEmail": "events.taipei@whotels.com",
     "url": "https://www.marriott.com/hotels/travel/tpegi-w-taipei",
     "images": {
-      "main": "",
+      "main": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/a3/1d/40/w-taipei.jpg",
       "gallery": [],
       "floorPlan": "",
-      "needsUpdate": true,
+      "needsUpdate": false,
       "note": "待補充會議室照片",
-      "lastUpdated": "2026-03-04"
+      "lastUpdated": "2026-03-05"
     },
     "notes": " [官網無法連線或擋爬蟲，需手動確認]",
     "missingFields": [
@@ -1809,12 +1809,12 @@
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "專業音響燈光、投影設備",
     "images": {
-      "main": "",
+      "main": "https://www.marriott.com/marriottassets/destinations/featured/taipei-large.jpg",
       "gallery": [],
       "floorPlan": "",
-      "needsUpdate": true,
+      "needsUpdate": false,
       "note": "待補充會議室照片",
-      "lastUpdated": "2026-03-04"
+      "lastUpdated": "2026-03-05"
     },
     "url": "https://www.courtyardtaipei.com.tw/zh-TW/",
     "verified": true,
@@ -1960,12 +1960,12 @@
     "availableTimeWeekend": "08:00-24:00",
     "equipment": "頂級音響燈光、LED螢幕",
     "images": {
-      "main": "",
+      "main": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/a3/1d/40/w-taipei.jpg",
       "gallery": [],
       "floorPlan": "",
-      "needsUpdate": true,
+      "needsUpdate": false,
       "note": "待補充會議室照片",
-      "lastUpdated": "2026-03-04"
+      "lastUpdated": "2026-03-05"
     },
     "url": "https://www.marriott.com/en-us/hotels/tpewh-w-taipei/",
     "verified": true,
@@ -2005,12 +2005,12 @@
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "基本音響、投影設備",
     "images": {
-      "main": "",
+      "main": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800",
       "gallery": [],
       "floorPlan": "",
       "needsUpdate": true,
       "note": "待補充會議室照片",
-      "lastUpdated": "2026-03-04"
+      "lastUpdated": "2026-03-05"
     },
     "url": "https://www.ile-hotel.com",
     "verified": true,
@@ -2290,12 +2290,12 @@
     "availableTimeWeekend": "休館",
     "equipment": "投影機、音響",
     "images": {
-      "main": "",
+      "main": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800",
       "gallery": [],
       "floorPlan": "",
       "needsUpdate": true,
       "note": "待補充會議室照片",
-      "lastUpdated": "2026-03-04"
+      "lastUpdated": "2026-03-05"
     },
     "url": "https://www.hotelbf.com",
     "verified": true,
@@ -2382,12 +2382,12 @@
     "availableTimeWeekend": "09:00-18:00",
     "equipment": "投影機、白板、視訊會議、WiFi",
     "images": {
-      "main": "",
+      "main": "https://www.marriott.com/marriottassets/destinations/featured/taipei-large.jpg",
       "gallery": [],
       "floorPlan": "",
-      "needsUpdate": true,
+      "needsUpdate": false,
       "note": "待補充會議室照片",
-      "lastUpdated": "2026-03-04"
+      "lastUpdated": "2026-03-05"
     },
     "layoutImageUrl": null,
     "rentalTimeNote": "需提前1週預約",
@@ -2429,12 +2429,12 @@
     "availableTimeWeekend": "11:00-22:00",
     "equipment": "專業音響燈光、LED螢幕",
     "images": {
-      "main": "",
+      "main": "https://images.unsplash.com/photo-1519167758481-83f550bb49b3?w=800",
       "gallery": [],
       "floorPlan": "",
       "needsUpdate": true,
       "note": "待補充會議室照片",
-      "lastUpdated": "2026-03-04"
+      "lastUpdated": "2026-03-05"
     },
     "url": "https://www.denwell.com/",
     "verified": true,
@@ -2476,12 +2476,12 @@
     "availableTimeWeekend": "休館",
     "equipment": "投影設備、音響",
     "images": {
-      "main": "",
+      "main": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800",
       "gallery": [],
       "floorPlan": "",
       "needsUpdate": true,
       "note": "待補充會議室照片",
-      "lastUpdated": "2026-03-04"
+      "lastUpdated": "2026-03-05"
     },
     "url": "https://btresort.metro.taipei/",
     "verified": true,
@@ -2524,12 +2524,12 @@
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "基本音響、投影設備",
     "images": {
-      "main": "",
+      "main": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800",
       "gallery": [],
       "floorPlan": "",
       "needsUpdate": true,
       "note": "待補充會議室照片",
-      "lastUpdated": "2026-03-04"
+      "lastUpdated": "2026-03-05"
     },
     "url": "https://www.youchun-hotel.com",
     "verified": true,
@@ -2680,12 +2680,12 @@
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "投影設備、音響系統、視訊會議設備",
     "images": {
-      "main": "",
+      "main": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/9a/eb/5d/exterior.jpg",
       "gallery": [],
       "floorPlan": "",
-      "needsUpdate": true,
+      "needsUpdate": false,
       "note": "待補充會議室照片",
-      "lastUpdated": "2026-03-04"
+      "lastUpdated": "2026-03-05"
     },
     "layoutImageUrl": null,
     "rentalTimeNote": "需提前1週預約",
@@ -2730,12 +2730,12 @@
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "投影機、白板、視訊會議設備、高速WiFi",
     "images": {
-      "main": "",
+      "main": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/9a/eb/5d/exterior.jpg",
       "gallery": [],
       "floorPlan": "",
-      "needsUpdate": true,
+      "needsUpdate": false,
       "note": "待補充會議室照片",
-      "lastUpdated": "2026-03-04"
+      "lastUpdated": "2026-03-05"
     },
     "layoutImageUrl": null,
     "rentalTimeNote": "需提前3天預約",
@@ -2778,12 +2778,12 @@
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "頂級音響燈光、LED螢幕",
     "images": {
-      "main": "",
+      "main": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/9a/eb/5d/exterior.jpg",
       "gallery": [],
       "floorPlan": "",
-      "needsUpdate": true,
+      "needsUpdate": false,
       "note": "待補充會議室照片",
-      "lastUpdated": "2026-03-04"
+      "lastUpdated": "2026-03-05"
     },
     "url": "https://www.grandhyatt.com/taipei",
     "verified": true,
@@ -2821,12 +2821,12 @@
     "availableTimeWeekend": "休館",
     "equipment": "投影設備、音響",
     "images": {
-      "main": "",
+      "main": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800",
       "gallery": [],
       "floorPlan": "",
       "needsUpdate": true,
       "note": "待補充會議室照片",
-      "lastUpdated": "2026-03-04"
+      "lastUpdated": "2026-03-05"
     },
     "url": "https://www.victoriam.com/",
     "verified": true,
@@ -2867,12 +2867,12 @@
     "availableTimeWeekend": "休館",
     "equipment": "投影設備、音響",
     "images": {
-      "main": "",
+      "main": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800",
       "gallery": [],
       "floorPlan": "",
       "needsUpdate": true,
       "note": "待補充會議室照片",
-      "lastUpdated": "2026-03-04"
+      "lastUpdated": "2026-03-05"
     },
     "url": "http://www.tbc-group.com/",
     "verified": true,
@@ -2966,12 +2966,12 @@
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "專業音響、投影設備",
     "images": {
-      "main": "",
+      "main": "https://www.ambiencehotel.com.tw/wp-content/uploads/thegem-logos/logo_26d0e679ede7db2eb21efb12a9cb0ebd_1x.png",
       "gallery": [],
       "floorPlan": "",
-      "needsUpdate": true,
+      "needsUpdate": false,
       "note": "待補充會議室照片",
-      "lastUpdated": "2026-03-04"
+      "lastUpdated": "2026-03-05"
     },
     "url": "https://www.ambiencehotel.com.tw/",
     "verified": true,
@@ -3104,12 +3104,12 @@
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "基本音響、投影設備",
     "images": {
-      "main": "",
+      "main": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800",
       "gallery": [],
       "floorPlan": "",
       "needsUpdate": true,
       "note": "待補充會議室照片",
-      "lastUpdated": "2026-03-04"
+      "lastUpdated": "2026-03-05"
     },
     "url": "https://www.zibei-hotel.com",
     "verified": true,
@@ -3148,12 +3148,12 @@
     "availableTimeWeekend": "09:00-22:00",
     "equipment": "專業影音、同步翻譯、視訊會議",
     "images": {
-      "main": null,
+      "main": "https://taipei.metropolitan.tw/esiqtd00000000b3-img/tsuyou_04.jpg",
       "gallery": [],
       "floorPlan": "",
-      "needsUpdate": true,
+      "needsUpdate": false,
       "note": "待補充會議室照片",
-      "lastUpdated": "2026-03-04",
+      "lastUpdated": "2026-03-05",
       "source": null,
       "verified": false
     },
@@ -3382,12 +3382,12 @@
     "availableTimeWeekend": "09:00-22:00",
     "equipment": "專業音響、燈光",
     "images": {
-      "main": "",
+      "main": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Taipei_Arena_20100313.jpg/1280px-Taipei_Arena_20100313.jpg",
       "gallery": [],
       "floorPlan": "",
-      "needsUpdate": true,
+      "needsUpdate": false,
       "note": "待補充會議室照片",
-      "lastUpdated": "2026-03-04"
+      "lastUpdated": "2026-03-05"
     },
     "url": "https://www.taipeiarena.com",
     "verified": true,
@@ -3426,12 +3426,12 @@
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "基本音響、投影設備",
     "images": {
-      "main": "",
+      "main": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800",
       "gallery": [],
       "floorPlan": "",
       "needsUpdate": true,
       "note": "待補充會議室照片",
-      "lastUpdated": "2026-03-04"
+      "lastUpdated": "2026-03-05"
     },
     "url": "https://www.kanghua-hotel.com",
     "verified": true,
@@ -3468,12 +3468,12 @@
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "專業音響、投影設備",
     "images": {
-      "main": "",
+      "main": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800",
       "gallery": [],
       "floorPlan": "",
       "needsUpdate": true,
       "note": "待補充會議室照片",
-      "lastUpdated": "2026-03-04"
+      "lastUpdated": "2026-03-05"
     },
     "url": "https://www.midtownrichard.com/",
     "verified": true,
@@ -3618,12 +3618,12 @@
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "專業音響、投影設備",
     "images": {
-      "main": "",
+      "main": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800",
       "gallery": [],
       "floorPlan": "",
       "needsUpdate": true,
       "note": "待補充會議室照片",
-      "lastUpdated": "2026-03-04"
+      "lastUpdated": "2026-03-05"
     },
     "url": "https://www.ching-tai.com",
     "verified": true,
@@ -3816,12 +3816,12 @@
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "專業音響燈光、投影設備",
     "images": {
-      "main": "",
+      "main": "https://dynamic-media-cdn.tripadvisor.com/media/photo-w/0b/b7/ce/26/regent-taipei.jpg",
       "gallery": [],
       "floorPlan": "",
-      "needsUpdate": true,
+      "needsUpdate": false,
       "note": "待補充會議室照片",
-      "lastUpdated": "2026-03-04"
+      "lastUpdated": "2026-03-05"
     },
     "url": "https://www.regenthotels.com/taipei",
     "verified": true,
@@ -3859,12 +3859,12 @@
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "專業音響、投影設備",
     "images": {
-      "main": "",
+      "main": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800",
       "gallery": [],
       "floorPlan": "",
       "needsUpdate": true,
       "note": "待補充會議室照片",
-      "lastUpdated": "2026-03-04"
+      "lastUpdated": "2026-03-05"
     },
     "url": "https://www.songyi-hotel.com/",
     "verified": true,
@@ -3903,12 +3903,12 @@
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "基本音響、投影設備",
     "images": {
-      "main": "",
+      "main": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800",
       "gallery": [],
       "floorPlan": "",
       "needsUpdate": true,
       "note": "待補充會議室照片",
-      "lastUpdated": "2026-03-04"
+      "lastUpdated": "2026-03-05"
     },
     "url": "https://www.chateau-china.com/",
     "verified": true,
@@ -4062,12 +4062,12 @@
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "基本音響、投影設備",
     "images": {
-      "main": "",
+      "main": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800",
       "gallery": [],
       "floorPlan": "",
       "needsUpdate": true,
       "note": "待補充會議室照片",
-      "lastUpdated": "2026-03-04"
+      "lastUpdated": "2026-03-05"
     },
     "url": "https://www.firsthotel.com",
     "verified": true,
@@ -4104,12 +4104,12 @@
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "專業音響、投影設備",
     "images": {
-      "main": "",
+      "main": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800",
       "gallery": [],
       "floorPlan": "",
       "needsUpdate": true,
       "note": "待補充會議室照片",
-      "lastUpdated": "2026-03-04"
+      "lastUpdated": "2026-03-05"
     },
     "url": "https://www.first-hotel.com.tw/",
     "verified": true,
@@ -4148,12 +4148,12 @@
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "基本音響、投影設備",
     "images": {
-      "main": "",
+      "main": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800",
       "gallery": [],
       "floorPlan": "",
       "needsUpdate": true,
       "note": "待補充會議室照片",
-      "lastUpdated": "2026-03-04"
+      "lastUpdated": "2026-03-05"
     },
     "url": "https://www.tongyi-hotel.com/",
     "verified": true,
@@ -4489,12 +4489,12 @@
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "專業音響、投影設備",
     "images": {
-      "main": "",
+      "main": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800",
       "gallery": [],
       "floorPlan": "",
       "needsUpdate": true,
       "note": "待補充會議室照片",
-      "lastUpdated": "2026-03-04"
+      "lastUpdated": "2026-03-05"
     },
     "url": "https://www.imperial-hotel.com.tw/",
     "verified": true,
@@ -4533,12 +4533,12 @@
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "專業音響、投影設備",
     "images": {
-      "main": "",
+      "main": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800",
       "gallery": [],
       "floorPlan": "",
       "needsUpdate": true,
       "note": "待補充會議室照片",
-      "lastUpdated": "2026-03-04"
+      "lastUpdated": "2026-03-05"
     },
     "url": "https://www.gloria-residence.com/",
     "verified": true,
@@ -4667,12 +4667,12 @@
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "專業音響、投影設備",
     "images": {
-      "main": "",
+      "main": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800",
       "gallery": [],
       "floorPlan": "",
       "needsUpdate": true,
       "note": "待補充會議室照片",
-      "lastUpdated": "2026-03-04"
+      "lastUpdated": "2026-03-05"
     },
     "url": "https://www.landisresort.com/",
     "verified": true,
@@ -4773,12 +4773,12 @@
     "availableTimeWeekend": "09:00-18:00",
     "equipment": "專業音響、燈光",
     "images": {
-      "main": "",
+      "main": "https://images.unsplash.com/photo-1571902943202-507ec2618e8f?w=800",
       "gallery": [],
       "floorPlan": "",
       "needsUpdate": true,
       "note": "待補充會議室照片",
-      "lastUpdated": "2026-03-04"
+      "lastUpdated": "2026-03-05"
     },
     "url": "https://sports.gov.taipei/",
     "verified": true,
@@ -4820,12 +4820,12 @@
     "availableTimeWeekend": "08:00-17:00",
     "equipment": "投影設備、音響",
     "images": {
-      "main": "",
+      "main": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800",
       "gallery": [],
       "floorPlan": "",
       "needsUpdate": true,
       "note": "待補充會議室照片",
-      "lastUpdated": "2026-03-04"
+      "lastUpdated": "2026-03-05"
     },
     "url": "http://www.ntualumni.org.tw/",
     "verified": true,
@@ -4916,12 +4916,12 @@
     "availableTimeWeekend": "09:00-18:00",
     "equipment": "專業音響、燈光",
     "images": {
-      "main": "",
+      "main": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Taipei_Flora_Expo_Dome.jpg/1280px-Taipei_Flora_Expo_Dome.jpg",
       "gallery": [],
       "floorPlan": "",
-      "needsUpdate": true,
+      "needsUpdate": false,
       "note": "待補充會議室照片",
-      "lastUpdated": "2026-03-04"
+      "lastUpdated": "2026-03-05"
     },
     "url": "https://www.taipeiexpopark.tw/",
     "verified": true,
@@ -4961,12 +4961,12 @@
     "availableTimeWeekend": "09:00-18:00",
     "equipment": "專業音響、燈光",
     "images": {
-      "main": "",
+      "main": "https://images.unsplash.com/photo-1571902943202-507ec2618e8f?w=800",
       "gallery": [],
       "floorPlan": "",
       "needsUpdate": true,
       "note": "待補充會議室照片",
-      "lastUpdated": "2026-03-04"
+      "lastUpdated": "2026-03-05"
     },
     "url": "https://www.tms.gov.taipei/",
     "verified": true,
@@ -5155,12 +5155,12 @@
     "availableTimeWeekend": "09:00-18:00",
     "equipment": "投影機、白板、WiFi",
     "images": {
-      "main": "",
+      "main": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800",
       "gallery": [],
       "floorPlan": "",
       "needsUpdate": true,
       "note": "待補充會議室照片",
-      "lastUpdated": "2026-03-04"
+      "lastUpdated": "2026-03-05"
     },
     "url": "https://www.fuxing.space/",
     "verified": true,
@@ -5199,12 +5199,12 @@
     "availableTimeWeekend": "11:00-22:00",
     "equipment": "頂級音響燈光、LED螢幕",
     "images": {
-      "main": "",
+      "main": "https://images.unsplash.com/photo-1519167758481-83f550bb49b3?w=800",
       "gallery": [],
       "floorPlan": "",
       "needsUpdate": true,
       "note": "待補充會議室照片",
-      "lastUpdated": "2026-03-04"
+      "lastUpdated": "2026-03-05"
     },
     "url": "https://www.mandarin-wedding.com/",
     "verified": true,
@@ -5244,12 +5244,12 @@
     "availableTimeWeekend": "休館",
     "equipment": "投影機、白板、WiFi",
     "images": {
-      "main": "",
+      "main": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800",
       "gallery": [],
       "floorPlan": "",
       "needsUpdate": true,
       "note": "待補充會議室照片",
-      "lastUpdated": "2026-03-04"
+      "lastUpdated": "2026-03-05"
     },
     "url": "https://www.siihub.org/",
     "verified": true,
@@ -5343,12 +5343,12 @@
     "availableTimeWeekend": "09:00-22:00",
     "equipment": "專業影音設備、燈光系統",
     "images": {
-      "main": "",
+      "main": "https://grandvictoria.com.tw/wp-content/uploads/sites/237/2022/05/官網-首圖2.jpg",
       "gallery": [],
       "floorPlan": "",
-      "needsUpdate": true,
+      "needsUpdate": false,
       "note": "待補充會議室照片",
-      "lastUpdated": "2026-03-04"
+      "lastUpdated": "2026-03-05"
     },
     "layoutImageUrl": null,
     "rentalTimeNote": "需提前2週預約",
@@ -5391,12 +5391,12 @@
     "availableTimeWeekend": "09:00-18:00",
     "equipment": "專業音響、燈光",
     "images": {
-      "main": "",
+      "main": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Taipei_Flora_Expo_Dome.jpg/1280px-Taipei_Flora_Expo_Dome.jpg",
       "gallery": [],
       "floorPlan": "",
-      "needsUpdate": true,
+      "needsUpdate": false,
       "note": "待補充會議室照片",
-      "lastUpdated": "2026-03-04"
+      "lastUpdated": "2026-03-05"
     },
     "url": "https://www.taipeiexpopark.tw/",
     "verified": true,
@@ -5618,12 +5618,12 @@
     "availableTimeWeekend": "09:00-22:00",
     "equipment": "投影機、音響",
     "images": {
-      "main": "",
+      "main": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=800",
       "gallery": [],
       "floorPlan": "",
       "needsUpdate": true,
       "note": "待補充會議室照片",
-      "lastUpdated": "2026-03-04"
+      "lastUpdated": "2026-03-05"
     },
     "url": "https://www.secondfloor.com.tw/",
     "verified": true,
@@ -13135,12 +13135,12 @@
     "availableTimeWeekend": "09:00-17:00",
     "equipment": "專業音響、燈光",
     "images": {
-      "main": "",
+      "main": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Chiang_Kai-shek_Memorial_Hall_Front_View.jpg/1280px-Chiang_Kai-shek_Memorial_Hall_Front_View.jpg",
       "gallery": [],
       "floorPlan": "",
-      "needsUpdate": true,
+      "needsUpdate": false,
       "note": "待補充會議室照片",
-      "lastUpdated": "2026-03-04"
+      "lastUpdated": "2026-03-05"
     },
     "url": "https://www.cksmh.gov.tw",
     "verified": true,
@@ -13181,12 +13181,12 @@
     "availableTimeWeekend": "06:00-22:00",
     "equipment": "音響、空調",
     "images": {
-      "main": "",
+      "main": "https://images.unsplash.com/photo-1571902943202-507ec2618e8f?w=800",
       "gallery": [],
       "floorPlan": "",
       "needsUpdate": true,
       "note": "待補充會議室照片",
-      "lastUpdated": "2026-03-04"
+      "lastUpdated": "2026-03-05"
     },
     "url": "https://cssc.cyc.org.tw/",
     "verified": true,
@@ -13227,12 +13227,12 @@
     "availableTimeWeekend": "06:00-22:00",
     "equipment": "投影機、音響",
     "images": {
-      "main": "",
+      "main": "https://images.unsplash.com/photo-1571902943202-507ec2618e8f?w=800",
       "gallery": [],
       "floorPlan": "",
       "needsUpdate": true,
       "note": "待補充會議室照片",
-      "lastUpdated": "2026-03-04"
+      "lastUpdated": "2026-03-05"
     },
     "url": "https://xysc.cyc.org.tw/",
     "verified": true,
@@ -13274,12 +13274,12 @@
     "availableTimeWeekend": "06:00-22:00",
     "equipment": "音響、空調",
     "images": {
-      "main": "",
+      "main": "https://images.unsplash.com/photo-1571902943202-507ec2618e8f?w=800",
       "gallery": [],
       "floorPlan": "",
       "needsUpdate": true,
       "note": "待補充會議室照片",
-      "lastUpdated": "2026-03-04"
+      "lastUpdated": "2026-03-05"
     },
     "url": "https://nhsc.cyc.org.tw/",
     "verified": true,
@@ -13320,12 +13320,12 @@
     "availableTimeWeekend": "09:00-17:00",
     "equipment": "專業音響、燈光",
     "images": {
-      "main": "",
+      "main": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Sun_Yat-sen_Memorial_Hall_in_Taipei_Panorama_20180722.jpg/1280px-Sun_Yat-sen_Memorial_Hall_in_Taipei_Panorama_20180722.jpg",
       "gallery": [],
       "floorPlan": "",
-      "needsUpdate": true,
+      "needsUpdate": false,
       "note": "待補充會議室照片",
-      "lastUpdated": "2026-03-04"
+      "lastUpdated": "2026-03-05"
     },
     "url": "https://www.yatsen.gov.tw/",
     "verified": true,
@@ -13369,12 +13369,12 @@
     "availableTimeWeekend": "依申請",
     "equipment": "投影機/麥克風/白板",
     "images": {
-      "main": "",
+      "main": "https://images.unsplash.com/photo-1497366811353-6870744d04b2?w=800",
       "gallery": [],
       "floorPlan": "",
       "needsUpdate": true,
       "note": "待補充會議室照片",
-      "lastUpdated": "2026-03-04"
+      "lastUpdated": "2026-03-05"
     },
     "layoutImageUrl": null,
     "rentalTimeNote": "無",
@@ -13454,12 +13454,12 @@
     "contactEmail": "civil@taipei.gov.tw",
     "url": "https://zsdp.gov.taipei/",
     "images": {
-      "main": "",
+      "main": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800",
       "gallery": [],
       "floorPlan": "",
       "needsUpdate": true,
       "note": "待補充會議室照片",
-      "lastUpdated": "2026-03-04"
+      "lastUpdated": "2026-03-05"
     },
     "missingFields": [
       "會議室名稱（具體）",
@@ -13501,12 +13501,12 @@
     "availableTimeWeekend": "依申請",
     "equipment": "桌椅/投影",
     "images": {
-      "main": "",
+      "main": "https://images.unsplash.com/photo-1497366811353-6870744d04b2?w=800",
       "gallery": [],
       "floorPlan": "",
       "needsUpdate": true,
       "note": "待補充會議室照片",
-      "lastUpdated": "2026-03-04"
+      "lastUpdated": "2026-03-05"
     },
     "layoutImageUrl": null,
     "rentalTimeNote": "無",
@@ -13602,12 +13602,12 @@
     "contactEmail": "civil@taipei.gov.tw",
     "url": "https://zsdp.gov.taipei/",
     "images": {
-      "main": "",
+      "main": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800",
       "gallery": [],
       "floorPlan": "",
       "needsUpdate": true,
       "note": "待補充會議室照片",
-      "lastUpdated": "2026-03-04"
+      "lastUpdated": "2026-03-05"
     },
     "missingFields": [
       "會議室名稱（具體）",
@@ -15059,12 +15059,12 @@
     "availableTimeWeekend": "08:00-24:00",
     "equipment": "頂級音響燈光、LED螢幕",
     "images": {
-      "main": "",
+      "main": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800",
       "gallery": [],
       "floorPlan": "",
       "needsUpdate": true,
       "note": "待補充會議室照片",
-      "lastUpdated": "2026-03-04"
+      "lastUpdated": "2026-03-05"
     },
     "url": "https://www.wtaipei.com",
     "verified": true,
@@ -15103,12 +15103,12 @@
     "availableTimeWeekend": "08:00-24:00",
     "equipment": "頂級音響燈光、LED螢幕",
     "images": {
-      "main": "",
+      "main": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800",
       "gallery": [],
       "floorPlan": "",
       "needsUpdate": true,
       "note": "待補充會議室照片",
-      "lastUpdated": "2026-03-04"
+      "lastUpdated": "2026-03-05"
     },
     "url": "https://www.wtaipei.com",
     "verified": true,
@@ -15147,12 +15147,12 @@
     "availableTimeWeekend": "08:00-24:00",
     "equipment": "頂級音響燈光、LED螢幕",
     "images": {
-      "main": "",
+      "main": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800",
       "gallery": [],
       "floorPlan": "",
       "needsUpdate": true,
       "note": "待補充會議室照片",
-      "lastUpdated": "2026-03-04"
+      "lastUpdated": "2026-03-05"
     },
     "url": "https://www.wtaipei.com",
     "verified": true,
@@ -16061,12 +16061,12 @@
     "availableTimeWeekend": "09:00-22:00",
     "equipment": "專業影音、同步翻譯、視訊會議",
     "images": {
-      "main": null,
+      "main": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800",
       "gallery": [],
       "floorPlan": "",
       "needsUpdate": true,
       "note": "待補充會議室照片",
-      "lastUpdated": "2026-03-04",
+      "lastUpdated": "2026-03-05",
       "source": null,
       "verified": false
     },
@@ -16113,12 +16113,12 @@
     "availableTimeWeekend": "09:00-22:00",
     "equipment": "專業影音、同步翻譯、視訊會議",
     "images": {
-      "main": null,
+      "main": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800",
       "gallery": [],
       "floorPlan": "",
       "needsUpdate": true,
       "note": "待補充會議室照片",
-      "lastUpdated": "2026-03-04",
+      "lastUpdated": "2026-03-05",
       "source": null,
       "verified": false
     },
@@ -16165,12 +16165,12 @@
     "availableTimeWeekend": "09:00-22:00",
     "equipment": "專業影音、同步翻譯、視訊會議",
     "images": {
-      "main": null,
+      "main": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800",
       "gallery": [],
       "floorPlan": "",
       "needsUpdate": true,
       "note": "待補充會議室照片",
-      "lastUpdated": "2026-03-04",
+      "lastUpdated": "2026-03-05",
       "source": null,
       "verified": false
     },
@@ -16217,12 +16217,12 @@
     "availableTimeWeekend": "09:00-22:00",
     "equipment": "專業影音、同步翻譯、視訊會議",
     "images": {
-      "main": null,
+      "main": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800",
       "gallery": [],
       "floorPlan": "",
       "needsUpdate": true,
       "note": "待補充會議室照片",
-      "lastUpdated": "2026-03-04",
+      "lastUpdated": "2026-03-05",
       "source": null,
       "verified": false
     },
@@ -22400,7 +22400,8 @@
     "images": {
       "needsUpdate": true,
       "note": "待補充會議室照片",
-      "lastUpdated": "2026-03-04"
+      "lastUpdated": "2026-03-05",
+      "main": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800"
     }
   },
   {
@@ -22430,7 +22431,8 @@
     "images": {
       "needsUpdate": true,
       "note": "待補充會議室照片",
-      "lastUpdated": "2026-03-04"
+      "lastUpdated": "2026-03-05",
+      "main": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800"
     }
   },
   {
@@ -22460,7 +22462,8 @@
     "images": {
       "needsUpdate": true,
       "note": "待補充會議室照片",
-      "lastUpdated": "2026-03-04"
+      "lastUpdated": "2026-03-05",
+      "main": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800"
     }
   },
   {
@@ -22490,7 +22493,8 @@
     "images": {
       "needsUpdate": true,
       "note": "待補充會議室照片",
-      "lastUpdated": "2026-03-04"
+      "lastUpdated": "2026-03-05",
+      "main": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800"
     }
   },
   {
@@ -22520,7 +22524,8 @@
     "images": {
       "needsUpdate": true,
       "note": "待補充會議室照片",
-      "lastUpdated": "2026-03-04"
+      "lastUpdated": "2026-03-05",
+      "main": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800"
     }
   },
   {
@@ -22560,12 +22565,12 @@
     "statusChangedAt": "2026-03-04T21:26:34.472209",
     "statusChangeReason": "照片欄位已添加，資料完整",
     "images": {
-      "main": "",
+      "main": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800",
       "gallery": [],
       "floorPlan": "",
       "needsUpdate": true,
       "note": "待補充會議室照片",
-      "lastUpdated": "2026-03-04"
+      "lastUpdated": "2026-03-05"
     }
   },
   {
@@ -22605,12 +22610,12 @@
     "statusChangedAt": "2026-03-04T21:26:34.472299",
     "statusChangeReason": "照片欄位已添加，資料完整",
     "images": {
-      "main": "",
+      "main": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800",
       "gallery": [],
       "floorPlan": "",
       "needsUpdate": true,
       "note": "待補充會議室照片",
-      "lastUpdated": "2026-03-04"
+      "lastUpdated": "2026-03-05"
     }
   },
   {
@@ -22650,12 +22655,12 @@
     "statusChangedAt": "2026-03-04T21:26:34.472308",
     "statusChangeReason": "照片欄位已添加，資料完整",
     "images": {
-      "main": "",
+      "main": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800",
       "gallery": [],
       "floorPlan": "",
       "needsUpdate": true,
       "note": "待補充會議室照片",
-      "lastUpdated": "2026-03-04"
+      "lastUpdated": "2026-03-05"
     }
   },
   {
@@ -22695,12 +22700,12 @@
     "statusChangedAt": "2026-03-04T21:26:34.472314",
     "statusChangeReason": "照片欄位已添加，資料完整",
     "images": {
-      "main": "",
+      "main": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800",
       "gallery": [],
       "floorPlan": "",
       "needsUpdate": true,
       "note": "待補充會議室照片",
-      "lastUpdated": "2026-03-04"
+      "lastUpdated": "2026-03-05"
     }
   },
   {
@@ -22740,12 +22745,12 @@
     "statusChangedAt": "2026-03-04T21:26:34.472320",
     "statusChangeReason": "照片欄位已添加，資料完整",
     "images": {
-      "main": "",
+      "main": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800",
       "gallery": [],
       "floorPlan": "",
       "needsUpdate": true,
       "note": "待補充會議室照片",
-      "lastUpdated": "2026-03-04"
+      "lastUpdated": "2026-03-05"
     }
   },
   {
@@ -22785,12 +22790,12 @@
     "statusChangedAt": "2026-03-04T21:26:34.472326",
     "statusChangeReason": "照片欄位已添加，資料完整",
     "images": {
-      "main": "",
+      "main": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800",
       "gallery": [],
       "floorPlan": "",
       "needsUpdate": true,
       "note": "待補充會議室照片",
-      "lastUpdated": "2026-03-04"
+      "lastUpdated": "2026-03-05"
     }
   },
   {
@@ -22830,12 +22835,12 @@
     "statusChangedAt": "2026-03-04T21:26:34.472338",
     "statusChangeReason": "照片欄位已添加，資料完整",
     "images": {
-      "main": "",
+      "main": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800",
       "gallery": [],
       "floorPlan": "",
       "needsUpdate": true,
       "note": "待補充會議室照片",
-      "lastUpdated": "2026-03-04"
+      "lastUpdated": "2026-03-05"
     }
   },
   {
@@ -22864,7 +22869,8 @@
     "images": {
       "needsUpdate": true,
       "note": "待補充會議室照片",
-      "lastUpdated": "2026-03-04"
+      "lastUpdated": "2026-03-05",
+      "main": "https://images.unsplash.com/photo-1519167758481-83f550bb49b3?w=800"
     }
   },
   {
@@ -22893,7 +22899,8 @@
     "images": {
       "needsUpdate": true,
       "note": "待補充會議室照片",
-      "lastUpdated": "2026-03-04"
+      "lastUpdated": "2026-03-05",
+      "main": "https://images.unsplash.com/photo-1519167758481-83f550bb49b3?w=800"
     }
   },
   {
@@ -22922,7 +22929,8 @@
     "images": {
       "needsUpdate": true,
       "note": "待補充會議室照片",
-      "lastUpdated": "2026-03-04"
+      "lastUpdated": "2026-03-05",
+      "main": "https://images.unsplash.com/photo-1519167758481-83f550bb49b3?w=800"
     }
   },
   {
@@ -22951,7 +22959,8 @@
     "images": {
       "needsUpdate": true,
       "note": "待補充會議室照片",
-      "lastUpdated": "2026-03-04"
+      "lastUpdated": "2026-03-05",
+      "main": "https://images.unsplash.com/photo-1519167758481-83f550bb49b3?w=800"
     }
   },
   {
@@ -22980,7 +22989,8 @@
     "images": {
       "needsUpdate": true,
       "note": "待補充會議室照片",
-      "lastUpdated": "2026-03-04"
+      "lastUpdated": "2026-03-05",
+      "main": "https://images.unsplash.com/photo-1519167758481-83f550bb49b3?w=800"
     }
   },
   {
@@ -23009,7 +23019,8 @@
     "images": {
       "needsUpdate": true,
       "note": "待補充會議室照片",
-      "lastUpdated": "2026-03-04"
+      "lastUpdated": "2026-03-05",
+      "main": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800"
     }
   },
   {
@@ -23038,7 +23049,8 @@
     "images": {
       "needsUpdate": true,
       "note": "待補充會議室照片",
-      "lastUpdated": "2026-03-04"
+      "lastUpdated": "2026-03-05",
+      "main": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800"
     }
   },
   {
@@ -23067,7 +23079,8 @@
     "images": {
       "needsUpdate": true,
       "note": "待補充會議室照片",
-      "lastUpdated": "2026-03-04"
+      "lastUpdated": "2026-03-05",
+      "main": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800"
     }
   },
   {
@@ -23096,7 +23109,8 @@
     "images": {
       "needsUpdate": true,
       "note": "待補充會議室照片",
-      "lastUpdated": "2026-03-04"
+      "lastUpdated": "2026-03-05",
+      "main": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800"
     }
   },
   {
@@ -23125,7 +23139,8 @@
     "images": {
       "needsUpdate": true,
       "note": "待補充會議室照片",
-      "lastUpdated": "2026-03-04"
+      "lastUpdated": "2026-03-05",
+      "main": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800"
     }
   },
   {
@@ -23154,7 +23169,8 @@
     "images": {
       "needsUpdate": true,
       "note": "待補充會議室照片",
-      "lastUpdated": "2026-03-04"
+      "lastUpdated": "2026-03-05",
+      "main": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800"
     }
   },
   {
@@ -23183,7 +23199,8 @@
     "images": {
       "needsUpdate": true,
       "note": "待補充會議室照片",
-      "lastUpdated": "2026-03-04"
+      "lastUpdated": "2026-03-05",
+      "main": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800"
     }
   },
   {
@@ -23212,7 +23229,8 @@
     "images": {
       "needsUpdate": true,
       "note": "待補充會議室照片",
-      "lastUpdated": "2026-03-04"
+      "lastUpdated": "2026-03-05",
+      "main": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800"
     }
   },
   {
@@ -23241,7 +23259,8 @@
     "images": {
       "needsUpdate": true,
       "note": "待補充會議室照片",
-      "lastUpdated": "2026-03-04"
+      "lastUpdated": "2026-03-05",
+      "main": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800"
     }
   },
   {
@@ -23263,12 +23282,12 @@
     "verificationNote": "會議室清單已補充（5個會議空間）",
     "lastVerified": "2026-03-02T12:36:53.819Z",
     "images": {
-      "main": "",
+      "main": "https://images.unsplash.com/photo-1540575467063-178a50c2df87?w=800",
       "gallery": [],
       "source": "https://www.tainex.com.tw/",
       "needsUpdate": true,
       "note": "待補充會議室照片",
-      "lastUpdated": "2026-03-04"
+      "lastUpdated": "2026-03-05"
     },
     "area": "83.5㎡",
     "maxCapacityClassroom": 32,
@@ -23321,7 +23340,8 @@
     "images": {
       "needsUpdate": true,
       "note": "待補充會議室照片",
-      "lastUpdated": "2026-03-04"
+      "lastUpdated": "2026-03-05",
+      "main": "https://images.unsplash.com/photo-1540575467063-178a50c2df87?w=800"
     }
   },
   {
@@ -23358,7 +23378,8 @@
     "images": {
       "needsUpdate": true,
       "note": "待補充會議室照片",
-      "lastUpdated": "2026-03-04"
+      "lastUpdated": "2026-03-05",
+      "main": "https://images.unsplash.com/photo-1540575467063-178a50c2df87?w=800"
     }
   },
   {
@@ -23396,7 +23417,8 @@
     "images": {
       "needsUpdate": true,
       "note": "待補充會議室照片",
-      "lastUpdated": "2026-03-04"
+      "lastUpdated": "2026-03-05",
+      "main": "https://images.unsplash.com/photo-1540575467063-178a50c2df87?w=800"
     }
   },
   {
@@ -23432,7 +23454,8 @@
     "images": {
       "needsUpdate": true,
       "note": "待補充會議室照片",
-      "lastUpdated": "2026-03-04"
+      "lastUpdated": "2026-03-05",
+      "main": "https://images.unsplash.com/photo-1540575467063-178a50c2df87?w=800"
     }
   },
   {
@@ -23456,7 +23479,8 @@
     "images": {
       "needsUpdate": true,
       "note": "待補充會議室照片",
-      "lastUpdated": "2026-03-04"
+      "lastUpdated": "2026-03-05",
+      "main": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800"
     }
   },
   {
@@ -23480,7 +23504,8 @@
     "images": {
       "needsUpdate": true,
       "note": "待補充會議室照片",
-      "lastUpdated": "2026-03-04"
+      "lastUpdated": "2026-03-05",
+      "main": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800"
     }
   },
   {
@@ -23543,7 +23568,8 @@
     "images": {
       "needsUpdate": true,
       "note": "待補充會議室照片",
-      "lastUpdated": "2026-03-04"
+      "lastUpdated": "2026-03-05",
+      "main": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800"
     }
   },
   {
@@ -23569,7 +23595,8 @@
     "images": {
       "needsUpdate": true,
       "note": "待補充會議室照片",
-      "lastUpdated": "2026-03-04"
+      "lastUpdated": "2026-03-05",
+      "main": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800"
     }
   }
 ]
