@@ -3671,8 +3671,8 @@
         "https://upload.wikimedia.org/wikipedia/commons/5/5f/Fung_Shiang_Court_at_Mandarin_Oriental%2C_Taipei_04.jpg"
       ],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "照片來源：維基百科（真實照片）",
+      "needsUpdate": true,
+      "note": "照片錯誤：主照片是一把折扇，不是會議室照片。需要找到正確的文華廳照片。",
       "lastUpdated": "2026-03-01",
       "source": "https://www.mandarinoriental.com/zh-hk/taipei/songshan/events",
       "verified": true,
@@ -3702,18 +3702,18 @@
     "source": "官方網站",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "上架",
+    "status": "待修",
     "roomType": "宴會廳",
     "lastVerified": "2026-03-03T01:53:00.000Z",
     "verifiedTitle": "Luxury 5 Star Hotel | Songshan | Mandarin Oriental, Taipei",
     "meetingPageUrl": "https://www.mandarinoriental.com/en/taipei/songshan/events",
-    "lastUpdated": "2026-03-02T00:16:32.390Z",
+    "lastUpdated": "2026-03-05T13:41:41.449245",
     "venueListUrl": "https://www.mandarinoriental.com/zh-hk/taipei/songshan/events",
     "venueMainImageUrl": "https://media.ffycdn.net/eu/mandarin-oriental-hotel-group/oy6E3rsLkt5vaNhNAcTM.jpg",
     "roomsCount": 8,
     "verificationStatus": "✅ 驗證通過",
     "verificationNotes": "官網驗證：8 個會議空間（宴會廳和多功能廳）",
-    "updateReason": "SOP V4.7 資料結構更新",
+    "updateReason": "用戶反饋：會議的照片是錯的（照片顯示的是折扇，不是會議室）",
     "updateSource": "手動驗證"
   },
   {
@@ -17800,11 +17800,11 @@
       "verified": true,
       "verifiedAt": "2026-03-02T09:52:23.503Z",
       "needsUpdate": true,
-      "note": "照片為大會堂照片，需要更新為該會議室的專屬照片",
+      "note": "照片錯誤：照片顯示的是大型禮堂（大會堂），不是101A會議室。需要找到101A的專屬照片。",
       "lastUpdated": "2026-03-04"
     },
     "venuePageUrl": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/cp_VenueSearch.jsp&roomId=101A&ctNode=322&CtUnit=99&BaseDSD=7&mp=1",
-    "status": "上架",
+    "status": "待修",
     "missingFields": [
       "劇院式人數",
       "教室式人數"
@@ -17861,8 +17861,9 @@
       "4樓雅軒",
       "4樓鳳凰廳"
     ],
-    "updateReason": "SOP V4.7 資料結構更新",
-    "updateSource": "手動驗證"
+    "updateReason": "用戶反饋：主照片/會議室的照片都是錯的（照片是大會堂，不是101A）",
+    "updateSource": "手動驗證",
+    "lastUpdated": "2026-03-05T13:41:41.449394"
   },
   {
     "id": 1451,
@@ -22615,7 +22616,7 @@
     "url": "https://cpbae.nccu.edu.tw",
     "venueListUrl": "https://cpbae.nccu.edu.tw/cpbae/space/search",
     "meetingPageUrl": "https://cpbae.nccu.edu.tw/cpbae/space/introduction",
-    "status": "上架",
+    "status": "待修",
     "verificationStatus": "已驗證",
     "verificationNote": "會議室清單已補充（7個會議室）",
     "lastVerified": "2026-03-02T12:09:22.142Z",
@@ -22635,7 +22636,7 @@
       "會議室D",
       "電腦教室"
     ],
-    "updateReason": "SOP V4.7 資料結構更新",
+    "updateReason": "用戶反饋：沒有價格與照片，應標記為待修",
     "updateSource": "手動驗證",
     "statusChangedAt": "2026-03-04T21:26:34.472299",
     "statusChangeReason": "照片欄位已添加，資料完整",
@@ -22647,7 +22648,9 @@
       "note": "待補充真實照片（聯絡：02-23419151）",
       "lastUpdated": "2026-03-05"
     },
-    "priceNote": "需電詢 02-23419151"
+    "priceNote": "需電詢 02-23419151",
+    "notes": " [缺少價格與照片資訊]",
+    "lastUpdated": "2026-03-05T13:38:07.565377"
   },
   {
     "id": 1513,
