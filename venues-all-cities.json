@@ -3678,7 +3678,7 @@
       "verified": true,
       "verifiedAt": "2026-03-02T16:20:21.244Z"
     },
-    "url": "https://www.mandarinoriental.com/zh-hk/taipei/",
+    "url": "https://www.mandarinoriental.com/taipei",
     "transportation": {
       "mrt": {
         "station": "台北小巨蛋站",
@@ -3702,13 +3702,13 @@
     "source": "官方網站",
     "verified": true,
     "verifiedAt": "2026-02-27",
-    "status": "待修",
+    "status": "上架",
     "roomType": "宴會廳",
-    "lastVerified": "2026-03-03T01:53:00.000Z",
+    "lastVerified": "2026-03-07T07:23:37.063588Z",
     "verifiedTitle": "Luxury 5 Star Hotel | Songshan | Mandarin Oriental, Taipei",
     "meetingPageUrl": "https://www.mandarinoriental.com/en/taipei/songshan/events",
     "lastUpdated": "2026-03-05T13:41:41.449245",
-    "venueListUrl": "https://www.mandarinoriental.com/zh-hk/taipei/songshan/events",
+    "venueListUrl": "https://www.mandarinoriental.com/en/taipei/songshan/events",
     "venueMainImageUrl": "https://media.ffycdn.net/eu/mandarin-oriental-hotel-group/oy6E3rsLkt5vaNhNAcTM.jpg",
     "roomsCount": 8,
     "verificationStatus": "✅ 驗證通過",
@@ -5232,9 +5232,9 @@
     "lastUpdated": "2026-03-05T06:06:15.096Z",
     "verificationStatus": "待確認",
     "verificationError": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.mandarin-wedding.com/\nCall log:\n  - navigating to \"https://www.mandarin-wedding.com/\", waiting until \"domcontentloaded\"\n",
-    "lastVerified": "2026-03-02T09:52:23.503Z",
+    "lastVerified": "2026-03-07T07:23:37.063705Z",
     "roomsCount": 1,
-    "updateReason": "SOP V4.7 驗證: ❌ 缺少會議室清單 URL, ❌ 缺少主照片",
+    "updateReason": "官網不存在，地址與文華東方酒店不符，可能是誤植或虛假場地",
     "updateSource": "自動檢查腳本",
     "statusChangedAt": "2026-03-03T10:24:23.089Z",
     "statusChangeReason": "SOP V4.7 完整驗證"
@@ -15614,7 +15614,7 @@
     "address": "台北市敦化北路158號",
     "contactPerson": "宴會部",
     "contactPhone": "02-2715-6888",
-    "contactEmail": "moh-taipei@mohg.com",
+    "contactEmail": "motpe-reservations@mohg.com",
     "pricePerHour": null,
     "priceHalfDay": 100000,
     "priceFullDay": 250000,
@@ -15625,19 +15625,18 @@
     "availableTimeWeekend": "08:00-24:00",
     "equipment": "頂級音響燈光、投影設備",
     "images": {
-      "main": "https://media.ffycdn.net/eu/mandarin-oriental-hotel-group/oy6E3rsLkt5vaNhNAcTM.jpg",
+      "main": "https://media.ffycdn.net/eu/mandarin-oriental-hotel-group/GmcgMuVzzkvYKiDM9GXx.JPG",
       "gallery": [
-        "https://upload.wikimedia.org/wikipedia/commons/e/e1/Lobby_of_the_Interior_of_Mandarin_Oriental%2C_Taipei.jpg",
-        "https://upload.wikimedia.org/wikipedia/commons/a/af/The_Grand_Salon_of_Mandarin_Oriental%2C_Taipei_20260206.jpg",
-        "https://upload.wikimedia.org/wikipedia/commons/5/5f/Fung_Shiang_Court_at_Mandarin_Oriental%2C_Taipei_04.jpg"
+        "https://media.ffycdn.net/eu/mandarin-oriental-hotel-group/GmcgMuVzzkvYKiDM9GXx.JPG",
+        "https://media.ffycdn.net/eu/mandarin-oriental-hotel-group/oy6E3rsLkt5vaNhNAcTM.jpg"
       ],
       "floorPlan": "",
       "needsUpdate": false,
-      "note": "照片來源：維基百科（真實照片）",
-      "lastUpdated": "2026-03-01",
+      "note": "照片來源：官網官方照片（SOP V4.7 合規）",
+      "lastUpdated": "2026-03-07",
       "source": "https://www.mandarinoriental.com/en/taipei/songshan/events",
       "verified": true,
-      "verifiedAt": "2026-03-02T16:20:21.245Z"
+      "verifiedAt": "2026-03-07T07:13:00.000Z"
     },
     "url": "https://www.mandarinoriental.com/taipei",
     "transportation": {
@@ -15665,17 +15664,17 @@
     "verifiedAt": "2026-03-01",
     "status": "上架",
     "roomType": "宴會廳",
-    "lastVerified": "2026-03-02T13:44:40.937Z",
+    "lastVerified": "2026-03-07T07:13:00.000Z",
     "verifiedTitle": "Luxury 5 Star Hotel | Songshan | Mandarin Oriental, Taipei",
     "meetingPageUrl": "https://www.mandarinoriental.com/en/taipei/songshan/events",
     "venueListUrl": "https://www.mandarinoriental.com/en/taipei/songshan/events",
-    "venueMainImageUrl": "https://media.ffycdn.net/eu/mandarin-oriental-hotel-group/oy6E3rsLkt5vaNhNAcTM.jpg",
+    "venueMainImageUrl": "https://media.ffycdn.net/eu/mandarin-oriental-hotel-group/GmcgMuVzzkvYKiDM9GXx.JPG",
     "roomsCount": 4,
-    "updateReason": "SOP V4.7 修復：設定 roomsCount",
-    "updateSource": "本地腳本自動修復",
-    "lastUpdated": "2026-03-03T07:25:54.260Z",
-    "statusChangedAt": "2026-03-03T08:13:12.670Z",
-    "statusChangeReason": "SOP V4.7: 資料完整，恢復上架"
+    "updateReason": "SOP V4.7 查核：更新 Email 為官網正確信箱、更換 Wikipedia 照片為官網官方照片",
+    "updateSource": "SOP V4.7 自動查核",
+    "lastUpdated": "2026-03-07T07:13:00.000Z",
+    "statusChangedAt": "2026-03-07T07:13:00.000Z",
+    "statusChangeReason": "SOP V4.7 查核完成：Email 及照片已更新為官網正確資料"
   },
   {
     "id": 1393,
