@@ -351,9 +351,10 @@
                 const type = v.venueType || '未知';
                 stats.types[type] = (stats.types[type] || 0) + 1;
                 
-                // 問題檢查
+                // 問題檢查（修正：檢查實際照片數量）
+                const actualPhotoCount = (v.images?.main ? 1 : 0) + (v.images?.gallery?.length || 0) + (v.images?.floorPlan ? 1 : 0);
                 if (!v.contactPhone) stats.issues.push({id: v.id, name: v.name, issue: '缺電話'});
-                else if (!v.images || Object.keys(v.images || {}).length === 0) stats.issues.push({id: v.id, name: v.name, issue: '缺照片'});
+                else if (actualPhotoCount === 0) stats.issues.push({id: v.id, name: v.name, issue: '缺照片'});
                 else if (!v.priceHalfDay && !v.priceFullDay && !v.pricePerHour) stats.issues.push({id: v.id, name: v.name, issue: '缺價格'});
             });
             
@@ -406,9 +407,10 @@
                 // 類型篩選
                 if (currentType && v.venueType !== currentType) return false;
                 
-                // 狀態篩選
+                // 狀態篩選（修正：檢查實際照片數量）
                 if (currentStatus === 'issues') {
-                    const hasIssue = !v.contactPhone || !v.images || Object.keys(v.images || {}).length === 0 || (!v.priceHalfDay && !v.priceFullDay && !v.pricePerHour);
+                    const photoCount = (v.images?.main ? 1 : 0) + (v.images?.gallery?.length || 0) + (v.images?.floorPlan ? 1 : 0);
+                    const hasIssue = !v.contactPhone || photoCount === 0 || (!v.priceHalfDay && !v.priceFullDay && !v.pricePerHour);
                     if (!hasIssue) return false;
                 } else if (currentStatus && v.status !== currentStatus) {
                     return false;
@@ -435,8 +437,8 @@
                     ? '<span class="status-badge status-offline">下架</span>'
                     : '<span class="status-badge status-online">上架</span>';
                 
-                // 照片
-                const photoCount = v.images ? Object.keys(v.images).length : 0;
+                // 照片（修正計數邏輯：計算實際照片數量，而不是屬性數量）
+                const photoCount = (v.images?.main ? 1 : 0) + (v.images?.gallery?.length || 0) + (v.images?.floorPlan ? 1 : 0);
                 const photoHtml = photoCount > 0 
                     ? `<span title="${photoCount} 張照片">📷${photoCount}</span>`
                     : '<span style="color:#e74c3c">無</span>';
@@ -535,7 +537,10 @@
                     case 'capacity': valA = a.maxCapacityTheater || a.maxCapacityEmpty || 0; valB = b.maxCapacityTheater || b.maxCapacityEmpty || 0; break;
                     case 'priceHalfDay': valA = parseFloat(a.priceHalfDay) || 0; valB = parseFloat(b.priceHalfDay) || 0; break;
                     case 'contactPhone': valA = (a.contactPhone || '').toLowerCase(); valB = (b.contactPhone || '').toLowerCase(); break;
-                    case 'photos': valA = a.images ? Object.keys(a.images).length : 0; valB = b.images ? Object.keys(b.images).length : 0; break;
+                    case 'photos': 
+                        valA = (a.images?.main ? 1 : 0) + (a.images?.gallery?.length || 0) + (a.images?.floorPlan ? 1 : 0); 
+                        valB = (b.images?.main ? 1 : 0) + (b.images?.gallery?.length || 0) + (b.images?.floorPlan ? 1 : 0); 
+                        break;
                     default: valA = a[sortField] || ''; valB = b[sortField] || '';
                 }
                 
