@@ -1,0 +1,61 @@
+{
+  "timestamp": "2026-03-07T05:33:57.645Z",
+  "totalCrawled": 6,
+  "validPhotos": 6,
+  "updates": [
+    {
+      "id": 1032,
+      "name": "CLBC大安商務中心",
+      "roomName": "會議室A",
+      "oldMain": "https://clbc.tw/wp-content/uploads/2018/12/clbc-logo.svg",
+      "newMain": "https://clbc.tw/wp-content/uploads/2019/02/daanmain-001-1.jpg",
+      "oldGalleryCount": 3,
+      "newGalleryCount": 6
+    },
+    {
+      "id": 1068,
+      "name": "台北喜瑞飯店",
+      "roomName": "喜瑞廳",
+      "oldMain": "https://www.ambiencehotel.com.tw/wp-content/uploads/thegem-logos/logo_26d0e679ede7db2eb21efb12a9cb0ebd_1x.png",
+      "newMain": "https://ww.ambiencehotel.com.tw/wp-content/uploads/2023/01/02.jpg",
+      "oldGalleryCount": 0,
+      "newGalleryCount": 5
+    },
+    {
+      "id": 1116,
+      "name": "彭園婚宴會館",
+      "roomName": "彭園板橋店近捷運江子翠3號出口，店內共有龍鳳廳、雙喜廳及龍喜廳等三個廳，坪數為90坪、45坪、140坪，可容納人數分別為250人、120人、400人",
+      "oldMain": "https://www.pengyuan.com.tw/images/open.svg",
+      "newMain": "https://www.pengyuan.com.tw/images/serenity.jpg",
+      "oldGalleryCount": 3,
+      "newGalleryCount": 6
+    },
+    {
+      "id": 1126,
+      "name": "豪景大酒店",
+      "roomName": "宴會廳",
+      "oldMain": "https://www.riverview.com.tw/wp-content/uploads/2019/09/R%E4%B8%AD%E8%8B%B1-logo-white.png",
+      "newMain": "https://www.riverview.com.tw/wp-content/uploads/2025/12/DSC_0580-1.jpg",
+      "oldGalleryCount": 3,
+      "newGalleryCount": 9
+    },
+    {
+      "id": 1439,
+      "name": "CLBC大安商務中心",
+      "roomName": "會議室B",
+      "oldMain": "https://clbc.tw/wp-content/uploads/2018/12/clbc-logo.svg",
+      "newMain": "https://clbc.tw/wp-content/uploads/2019/02/daanmain-001-1.jpg",
+      "oldGalleryCount": 3,
+      "newGalleryCount": 6
+    },
+    {
+      "id": 1440,
+      "name": "CLBC大安商務中心",
+      "roomName": "會議室C",
+      "oldMain": "https://clbc.tw/wp-content/uploads/2018/12/clbc-logo.svg",
+      "newMain": "https://clbc.tw/wp-content/uploads/2019/02/daanmain-001-1.jpg",
+      "oldGalleryCount": 3,
+      "newGalleryCount": 6
+    }
+  ]
+}

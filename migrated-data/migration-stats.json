@@ -1,0 +1,14 @@
+{
+  "total_records": 526,
+  "unique_venues": 361,
+  "total_rooms": 0,
+  "venues_created": 361,
+  "rooms_created": 526,
+  "errors": [
+    "會議室 2520 缺少名稱",
+    "會議室 2521 缺少名稱",
+    "會議室 2522 缺少名稱",
+    "會議室 2523 缺少名稱",
+    "會議室 2524 缺少名稱"
+  ]
+}
