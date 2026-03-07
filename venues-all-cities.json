@@ -1212,15 +1212,19 @@
     "availableTimeWeekend": "休館",
     "equipment": "投影機、白板、WiFi",
     "images": {
-      "main": "https://clbc.tw/wp-content/uploads/2018/12/clbc-logo.svg",
+      "main": "https://clbc.tw/wp-content/uploads/2019/02/daanmain-001-1.jpg",
       "gallery": [
-        "https://clbc.tw/wp-content/uploads/2019/02/daanmain-001-1.jpg",
         "https://clbc.tw/wp-content/uploads/2019/05/PZF03955.jpg",
-        "https://clbc.tw/wp-content/uploads/2018/12/%E8%82%A5%E7%9A%82%E7%AE%B1B-20.jpg"
+        "https://clbc.tw/wp-content/uploads/2018/12/肥皂箱B-20.jpg",
+        "https://clbc.tw/wp-content/uploads/elementor/thumbs/studio-q4kmzdgkuwojhk5ptusydzqsevxostf5e0yp4kymrk.png",
+        "https://clbc.tw/wp-content/uploads/elementor/thumbs/chair-q4kmzdgkuwojhk5ptusydzqsevxostf5e0yp4kymrk.png",
+        "https://clbc.tw/wp-content/uploads/elementor/thumbs/support-q4kmzdgkuwojhk5ptusydzqsevxostf5e0yp4kymrk.png",
+        "https://clbc.tw/wp-content/uploads/elementor/thumbs/computer-class-room-q4kmzdgkuwojhk5ptusydzqsevxostf5e0yp4kymrk.png"
       ],
-      "source": "https://clbc.tw/clbc%E6%B4%BB%E5%8B%95%E5%A0%B4%E5%9C%B0%E7%A9%BA%E9%96%93%E7%A7%9F%E5%80%9F/",
+      "source": "https://clbc.tw/",
       "verified": true,
-      "verifiedAt": "2026-03-02T16:20:21.227Z"
+      "verifiedAt": "2026-03-07T05:33:57.611Z",
+      "updateReason": "批量更新：修正主照片錯誤"
     },
     "url": "https://clbc.tw/",
     "verified": true,
@@ -2477,12 +2481,26 @@
     "availableTimeWeekend": "休館",
     "equipment": "投影設備、音響",
     "images": {
-      "main": "",
-      "gallery": [],
+      "main": "https://www-ws.gov.taipei/001/Upload/619/relpic/28710/9542414/d33137e8-d360-4fb1-95fb-bc2de000875a.jpg",
+      "gallery": [
+        "https://www-ws.gov.taipei/001/Upload/619/relpic/28710/9023273/cf01ffe9-f6f4-466e-9850-510b7d8254a7.jpg",
+        "https://www-ws.gov.taipei/001/Upload/619/relpic/28710/9483086/be2f1c7a-e7b5-42b8-9659-0b329aa248ae.jpg",
+        "https://www-ws.gov.taipei/001/Upload/619/relpic/28710/9129459/1aabd294-b45b-49be-b2fa-7fe9a87cd7d3.jpg",
+        "https://www-ws.gov.taipei/001/Upload/619/relpic/28710/9023684/f94f6309-3d4b-44ac-a81e-36b7771a652f.jpg",
+        "https://www-ws.gov.taipei/001/Upload/619/relpic/28710/9145708/e5a7dfc6-37af-40d0-8cc4-1eda94105833.jpg",
+        "https://www-ws.gov.taipei/001/Upload/619/relpic/28710/8949876/1d9448ac-1a38-448a-a252-0648831e80f6.jpg",
+        "https://www-ws.gov.taipei/001/Upload/619/relpic/28710/8958696/95ed91e4-e52b-4e69-b6e8-97fb47b756db.jpg",
+        "https://www-ws.gov.taipei/001/Upload/619/relpic/-1/619/6fe771b2-3b47-4ade-926d-7c3db26b3eaf.png",
+        "https://www-ws.gov.taipei/001/Upload/619/relpic/-1/619/d5f8e2bc-c362-4157-8798-3af12ffe3beb.png"
+      ],
       "floorPlan": "",
       "needsUpdate": true,
       "note": "待補充真實照片（聯絡：02-28979988）",
-      "lastUpdated": "2026-03-05"
+      "lastUpdated": "2026-03-05",
+      "source": "https://btresort.metro.taipei/",
+      "verified": true,
+      "verifiedAt": "2026-03-07T05:36:46.607Z",
+      "updateReason": "批量更新：補充照片"
     },
     "url": "https://btresort.metro.taipei/",
     "verified": true,
@@ -2567,18 +2585,25 @@
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "專業音響燈光、投影設備",
     "images": {
-      "main": "",
+      "main": "https://www.palaisdechinehotel.com/files/pages_166395669412l5itv66_l.jpg",
       "gallery": [
-        "https://images.unsplash.com/photo-1505236858219-8359eb29e329?w=800",
-        "https://images.unsplash.com/photo-1484154218962-a197022b5858?w=800"
+        "https://www.palaisdechinehotel.com/files/pages_166395676912l5iw448_l.jpg",
+        "https://www.palaisdechinehotel.com/files/pages_166395675612l5ivp46_l.jpg",
+        "https://www.palaisdechinehotel.com/files/pages_176833022014v93dg66_m.jpg",
+        "https://www.palaisdechinehotel.com/files/pages_176762948314up97j66_m.jpg",
+        "https://www.palaisdechinehotel.com/files/pages_1727782665140vfmb63_m.jpg",
+        "https://www.palaisdechinehotel.com/files/pages_166663882212n5r0v78_m.jpg",
+        "https://www.palaisdechinehotel.com/files/pages_166683633912naru848_m.jpg",
+        "https://www.palaisdechinehotel.com/files/pages_166202695212jofhn64_m.jpg"
       ],
       "floorPlan": "",
       "needsUpdate": true,
       "note": "待補充真實照片（聯絡：02-21819988）",
       "lastUpdated": "2026-03-05",
-      "source": "Unsplash",
+      "source": "https://www.palaisdechinehotel.com/",
       "verified": true,
-      "verifiedAt": "2026-03-01T23:29:49.151Z"
+      "verifiedAt": "2026-03-07T05:36:46.600Z",
+      "updateReason": "批量更新：補充照片"
     },
     "url": "https://www.palaisdechinehotel.com/",
     "verified": true,
@@ -2977,12 +3002,22 @@
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "專業音響、投影設備",
     "images": {
-      "main": "https://www.ambiencehotel.com.tw/wp-content/uploads/thegem-logos/logo_26d0e679ede7db2eb21efb12a9cb0ebd_1x.png",
-      "gallery": [],
+      "main": "https://ww.ambiencehotel.com.tw/wp-content/uploads/2023/01/02.jpg",
+      "gallery": [
+        "https://www.ambiencehotel.com.tw/wp-content/uploads/2026/03/2026.3.03EBD-2.jpg",
+        "https://www.ambiencehotel.com.tw/wp-content/uploads/2025/12/ONETIME.jpg",
+        "https://ww.ambiencehotel.com.tw/wp-content/uploads/2023/01/03.jpg",
+        "https://ww.ambiencehotel.com.tw/wp-content/uploads/2023/01/05.jpg",
+        "https://ww.ambiencehotel.com.tw/wp-content/uploads/2023/08/20230822-slider-room03.jpg"
+      ],
       "floorPlan": "",
       "needsUpdate": false,
       "note": "待補充會議室照片",
-      "lastUpdated": "2026-03-05"
+      "lastUpdated": "2026-03-05",
+      "source": "https://www.ambiencehotel.com.tw/",
+      "verified": true,
+      "verifiedAt": "2026-03-07T05:33:57.618Z",
+      "updateReason": "批量更新：修正主照片錯誤"
     },
     "url": "https://www.ambiencehotel.com.tw/",
     "verified": true,
@@ -3023,13 +3058,26 @@
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "專業音響燈光、投影設備",
     "images": {
-      "main": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Ambassador_Hotel_Taipei_20190706.jpg",
-      "gallery": [],
+      "main": "https://www.ambassador-hotels.com/images/images/taipei/hotel/Ambassador-Hotel-Taipei-Exterior-Evening.jpg",
+      "gallery": [
+        "https://www.ambassador-hotels.com/images/images/hsinchu/dining/promenade/Ambassador-Hotel-Hsinchu-Promenade-Restaurant.jpg",
+        "https://www.ambassador-hotels.com/images/images/kaohsiung/hotel/Ambassador-Hotel-Kaohsiung-On-Banks-of-Love-River.jpg",
+        "https://www.ambassador-hotels.com/images/files/taipei/dining/%E5%9C%8B%E8%B3%93%E4%B8%AD%E9%A4%90%E5%BB%B3(%E9%81%BC%E5%AF%A7)/2025-2026%E5%B0%BE%E7%89%99%E6%98%A5%E9%85%92/2026%E5%B0%BE%E7%89%99%E6%98%A5%E9%85%92%E5%AE%98%E7%B6%B2%E5%9C%96_%E4%B8%AD%E9%A4%90_0.jpg",
+        "https://www.ambassador-hotels.com/images/files/taipei/dining/a-cut/%E5%B0%BE%E7%89%99/2026%E5%B0%BE%E7%89%99%E6%98%A5%E9%85%92%E5%AE%98%E7%B6%B2%E5%9C%96%EF%BC%BFA-Cut_0.jpg",
+        "https://www.ambassador-hotels.com/images/files/taipei/2022-11-%E9%81%BC%E5%AF%A7-%E6%96%B0%E5%9D%80%E4%BB%8B%E7%B4%B9-%E5%AE%98%E7%B6%B2%E5%9C%96-1600X1065-01.jpg",
+        "https://www.ambassador-hotels.com/images/files/taipei/dining/a-cut/2025-12-%E5%86%AC%E5%AD%A3%E8%8F%9C%E5%96%AE/A%20CUT%E5%86%AC%E5%AD%A3%E5%AE%98%E7%B6%B2%E5%A4%A7%E5%9C%96.jpg",
+        "https://www.ambassador-hotels.com/images/files/taipei/dining/%E5%9C%8B%E8%B3%93%E4%B8%AD%E9%A4%90%E5%BB%B3(%E9%81%BC%E5%AF%A7)/2026-%E5%96%9C%E5%AE%B4/250701AMB_34845.jpg",
+        "https://www.ambassador-hotels.com/images/files/taipei/dining/%E5%9C%8B%E8%B3%93%E4%B8%AD%E9%A4%90%E5%BB%B3(%E9%81%BC%E5%AF%A7)/2025-2026%E5%B0%BE%E7%89%99%E6%98%A5%E9%85%92/%E5%B0%BE%E7%89%99%E6%A8%A1%E6%93%AC-1.jpg",
+        "https://www.ambassador-hotels.com/images/files/taipei/2022-11-%E9%81%BC%E5%AF%A7-%E4%BE%BF%E7%95%B6DM-%E5%AE%98%E7%B6%B2%E5%9C%961920X1280-A.jpg"
+      ],
       "floorPlan": "",
       "needsUpdate": true,
       "note": "待補充會議室照片",
       "lastUpdated": "2026-03-04",
-      "source": "Wikipedia Commons"
+      "source": "https://www.ambassador-hotels.com/tc/taipei",
+      "verified": true,
+      "verifiedAt": "2026-03-07T05:36:46.607Z",
+      "updateReason": "批量更新：補充照片"
     },
     "url": "https://www.ambassador-hotels.com/tc/taipei",
     "verified": true,
@@ -3159,14 +3207,26 @@
     "availableTimeWeekend": "09:00-22:00",
     "equipment": "專業影音、同步翻譯、視訊會議",
     "images": {
-      "main": "https://taipei.metropolitan.tw/esiqtd00000000b3-img/tsuyou_04.jpg",
-      "gallery": [],
+      "main": "https://taipei.metropolitan.tw/common/img/top/blank_pc.png",
+      "gallery": [
+        "https://taipei.metropolitan.tw/common/img/top/blank_sp.png",
+        "https://taipei.metropolitan.tw/glqvem00000003xr-img/2026hayasedamin.jpg",
+        "https://taipei.metropolitan.tw/glqvem00000003xr-img/2026hayasedamins.jpg",
+        "https://taipei.metropolitan.tw/glqvem00000003xr-img/web01_lounge01.jpg",
+        "https://taipei.metropolitan.tw/glqvem00000003xr-img/web01_lounge02.jpg",
+        "https://taipei.metropolitan.tw/glqvem00000003xr-img/web_hayase01.jpg",
+        "https://taipei.metropolitan.tw/glqvem00000003xr-img/web_hayase02.jpg",
+        "https://taipei.metropolitan.tw/glqvem00000003xr-img/web_room01.jpg",
+        "https://taipei.metropolitan.tw/glqvem00000003xr-img/web_room02.jpg"
+      ],
       "floorPlan": "",
       "needsUpdate": false,
       "note": "待補充會議室照片",
       "lastUpdated": "2026-03-05",
-      "source": null,
-      "verified": false
+      "source": "https://taipei.metropolitan.tw/",
+      "verified": true,
+      "verifiedAt": "2026-03-07T05:36:46.607Z",
+      "updateReason": "批量更新：補充照片"
     },
     "layoutImageUrl": null,
     "rentalTimeNote": "需提前2週預約",
@@ -3417,12 +3477,22 @@
     "availableTimeWeekend": "09:00-22:00",
     "equipment": "專業音響、燈光",
     "images": {
-      "main": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Taipei_Arena_20100313.jpg/1280px-Taipei_Arena_20100313.jpg",
-      "gallery": [],
+      "main": "https://static.hugedomains.com/images/hdv3-img/favorite-header.png",
+      "gallery": [
+        "https://static.hugedomains.com/images/hdv3-img/cart.png",
+        "https://static.hugedomains.com/images/hdv3-img/30daysmallico.png",
+        "https://static.hugedomains.com/images/hdv3-img/roket-side-ico.png",
+        "https://static.hugedomains.com/images/hdv3-img/safesmallico.png",
+        "https://static.hugedomains.com/images/hdv3-img/zero-side-ico.png"
+      ],
       "floorPlan": "",
       "needsUpdate": false,
       "note": "待補充會議室照片",
-      "lastUpdated": "2026-03-05"
+      "lastUpdated": "2026-03-05",
+      "source": "https://www.taipeiarena.com",
+      "verified": true,
+      "verifiedAt": "2026-03-07T05:39:07.295Z",
+      "updateReason": "批量更新：補充照片"
     },
     "url": "https://www.taipeiarena.com",
     "verified": true,
@@ -3780,14 +3850,21 @@
     "availableTimeWeekend": "08:00-24:00",
     "equipment": "專業音響燈光、投影設備",
     "images": {
-      "main": "https://www.regenthotels.com/content/dam/regent/taipei/ballroom.jpg",
+      "main": "https://www.regenttaiwan.com/asset/types/main//images/uploads/regenttaipei/nav-regent-taipei-nav-overview.jpg",
       "gallery": [
-        "https://www.regenthotels.com/content/dam/regent/taipei/ballroom.jpg"
+        "https://www.regenttaiwan.com/asset/types/main//images/uploads/regenttaipei/nav-regent-taipei-accommodation.jpg",
+        "https://www.regenttaiwan.com/asset/types/main//images/uploads/regenttaipei/nav-regent-taipei-dining.jpg?v1.001",
+        "https://www.regenttaiwan.com/asset/types/main//images/uploads/regenttaipei/nav-regent-taipei-weddings-events.jpg",
+        "https://www.regenttaiwan.com/uploads/news/625/org/310040f687c32e9d0e079e6e0f09be0a.jpg",
+        "https://www.regenttaiwan.com/uploads/news/624/org/cf160302876eae8471baae0fee5decab.jpg",
+        "https://www.regenttaiwan.com/uploads/news/553/org/74d5f776599bc0d7e59a91e9e931c522.jpg",
+        "https://www.regenttaiwan.com/uploads/news/540/org/82958b8f85f55cfdffab6537375466e0.jpg"
       ],
       "floorPlan": null,
       "verified": true,
-      "verifiedAt": "2026-03-01T23:31:47.032Z",
-      "source": "https://www.regenttaiwan.com"
+      "verifiedAt": "2026-03-07T05:39:07.289Z",
+      "source": "https://www.regenttaiwan.com",
+      "updateReason": "批量更新：補充照片"
     },
     "url": "https://www.regenttaiwan.com",
     "transportation": {
@@ -5166,15 +5243,19 @@
     "availableTimeWeekend": "11:00-22:00",
     "equipment": "專業音響燈光、投影設備",
     "images": {
-      "main": "https://www.pengyuan.com.tw/images/open.svg",
+      "main": "https://www.pengyuan.com.tw/images/serenity.jpg",
       "gallery": [
-        "https://www.pengyuan.com.tw/images/open.svg",
-        "https://www.pengyuan.com.tw/upload/pictures/news/3419_%E5%AE%98%E7%87%95%E7%AA%A9%E5%AE%98%E7%B6%B2724.jpg",
-        "https://www.pengyuan.com.tw/upload/pictures/news/1318_tokidoki%20%E7%85%A7%E7%89%87%E7%89%88_724-321.jpg"
+        "https://www.pengyuan.com.tw/upload/pictures/news/5702_first dance(724x 322 像素).jpg",
+        "https://www.pengyuan.com.tw/upload/pictures/news/0259_尾牙春酒 (724x 322 像素).jpg",
+        "https://www.pengyuan.com.tw/upload/pictures/news/1240_一周年視覺 V1_724_322.jpg",
+        "https://www.pengyuan.com.tw/upload/pictures/news/2914_喜憨兒724_0.jpg",
+        "https://www.pengyuan.com.tw/upload/pictures/news/0212_拍拍印970_0.jpg",
+        "https://www.pengyuan.com.tw/upload/pictures/news/0815_2025首看下定.jpg"
       ],
       "source": "https://www.pengyuan.com.tw",
       "verified": true,
-      "verifiedAt": "2026-03-01T23:32:20.384Z"
+      "verifiedAt": "2026-03-07T05:33:57.618Z",
+      "updateReason": "批量更新：修正主照片錯誤"
     },
     "url": "https://www.pengyuan.com.tw",
     "verified": true,
@@ -5623,15 +5704,22 @@
     "availableTimeWeekend": "09:00-22:00",
     "equipment": "投影設備、音響系統",
     "images": {
-      "main": "https://www.riverview.com.tw/wp-content/uploads/2019/09/R%E4%B8%AD%E8%8B%B1-logo-white.png",
+      "main": "https://www.riverview.com.tw/wp-content/uploads/2025/12/DSC_0580-1.jpg",
       "gallery": [
-        "https://www.grandview.com.tw/storage/system/banner/Banner-lg-F.webp",
-        "https://www.grandview.com.tw/storage/system/index/index_about02-edited.webp",
-        "https://www.grandview.com.tw/storage/system/index/about-0101.webp"
+        "https://www.riverview.com.tw/wp-content/uploads/2025/12/本館首頁輪播圖-2.jpg",
+        "https://www.riverview.com.tw/wp-content/uploads/2025/10/Breakfast.jpg",
+        "https://www.riverview.com.tw/wp-content/uploads/2025/12/本館首頁輪播圖.jpg",
+        "https://www.riverview.com.tw/wp-content/uploads/2021/05/W5D32689改-600x400.jpg",
+        "https://www.riverview.com.tw/wp-content/uploads/2025/08/萊因聽照片-4-600x400.jpg",
+        "https://www.riverview.com.tw/wp-content/uploads/2020/09/W5D32164-600x400.jpg",
+        "https://www.riverview.com.tw/wp-content/uploads/2025/07/環保公告上方首頁-600x400.jpg",
+        "https://www.riverview.com.tw/wp-content/uploads/2025/10/夏日感謝季圖_edit-600x400.jpg",
+        "https://www.riverview.com.tw/wp-content/uploads/2025/10/HOTEL-RIVERVIEW-外觀-刷淡-1200x900.png"
       ],
-      "source": "https://www.riverview.com.tw/#rooms",
+      "source": "https://www.riverview.com.tw/",
       "verified": true,
-      "verifiedAt": "2026-03-02T16:20:21.245Z"
+      "verifiedAt": "2026-03-07T05:33:57.619Z",
+      "updateReason": "批量更新：修正主照片錯誤"
     },
     "layoutImageUrl": null,
     "rentalTimeNote": "需提前1週預約",
@@ -17601,15 +17689,19 @@
     "availableTimeWeekend": "休館",
     "equipment": "投影機、白板、WiFi",
     "images": {
-      "main": "https://clbc.tw/wp-content/uploads/2018/12/clbc-logo.svg",
+      "main": "https://clbc.tw/wp-content/uploads/2019/02/daanmain-001-1.jpg",
       "gallery": [
-        "https://clbc.tw/wp-content/uploads/2019/02/daanmain-001-1.jpg",
         "https://clbc.tw/wp-content/uploads/2019/05/PZF03955.jpg",
-        "https://clbc.tw/wp-content/uploads/2018/12/%E8%82%A5%E7%9A%82%E7%AE%B1B-20.jpg"
+        "https://clbc.tw/wp-content/uploads/2018/12/肥皂箱B-20.jpg",
+        "https://clbc.tw/wp-content/uploads/elementor/thumbs/studio-q4kmzdgkuwojhk5ptusydzqsevxostf5e0yp4kymrk.png",
+        "https://clbc.tw/wp-content/uploads/elementor/thumbs/chair-q4kmzdgkuwojhk5ptusydzqsevxostf5e0yp4kymrk.png",
+        "https://clbc.tw/wp-content/uploads/elementor/thumbs/support-q4kmzdgkuwojhk5ptusydzqsevxostf5e0yp4kymrk.png",
+        "https://clbc.tw/wp-content/uploads/elementor/thumbs/computer-class-room-q4kmzdgkuwojhk5ptusydzqsevxostf5e0yp4kymrk.png"
       ],
-      "source": "https://clbc.tw/clbc%E6%B4%BB%E5%8B%95%E5%A0%B4%E5%9C%B0%E7%A9%BA%E9%96%93%E7%A7%9F%E5%80%9F/",
+      "source": "https://clbc.tw/",
       "verified": true,
-      "verifiedAt": "2026-03-02T16:20:21.245Z"
+      "verifiedAt": "2026-03-07T05:33:57.619Z",
+      "updateReason": "批量更新：修正主照片錯誤"
     },
     "url": "https://clbc.tw/",
     "verified": true,
@@ -17647,15 +17739,19 @@
     "availableTimeWeekend": "休館",
     "equipment": "投影機、白板、WiFi",
     "images": {
-      "main": "https://clbc.tw/wp-content/uploads/2018/12/clbc-logo.svg",
+      "main": "https://clbc.tw/wp-content/uploads/2019/02/daanmain-001-1.jpg",
       "gallery": [
-        "https://clbc.tw/wp-content/uploads/2019/02/daanmain-001-1.jpg",
         "https://clbc.tw/wp-content/uploads/2019/05/PZF03955.jpg",
-        "https://clbc.tw/wp-content/uploads/2018/12/%E8%82%A5%E7%9A%82%E7%AE%B1B-20.jpg"
+        "https://clbc.tw/wp-content/uploads/2018/12/肥皂箱B-20.jpg",
+        "https://clbc.tw/wp-content/uploads/elementor/thumbs/studio-q4kmzdgkuwojhk5ptusydzqsevxostf5e0yp4kymrk.png",
+        "https://clbc.tw/wp-content/uploads/elementor/thumbs/chair-q4kmzdgkuwojhk5ptusydzqsevxostf5e0yp4kymrk.png",
+        "https://clbc.tw/wp-content/uploads/elementor/thumbs/support-q4kmzdgkuwojhk5ptusydzqsevxostf5e0yp4kymrk.png",
+        "https://clbc.tw/wp-content/uploads/elementor/thumbs/computer-class-room-q4kmzdgkuwojhk5ptusydzqsevxostf5e0yp4kymrk.png"
       ],
-      "source": "https://clbc.tw/clbc%E6%B4%BB%E5%8B%95%E5%A0%B4%E5%9C%B0%E7%A9%BA%E9%96%93%E7%A7%9F%E5%80%9F/",
+      "source": "https://clbc.tw/",
       "verified": true,
-      "verifiedAt": "2026-03-02T16:20:21.245Z"
+      "verifiedAt": "2026-03-07T05:33:57.620Z",
+      "updateReason": "批量更新：修正主照片錯誤"
     },
     "url": "https://clbc.tw/",
     "verified": true,
@@ -23006,7 +23102,19 @@
       "needsUpdate": true,
       "note": "待補充真實照片（聯絡：02-2772-3838）",
       "lastUpdated": "2026-03-05",
-      "main": ""
+      "main": "https://www.pengyuan.com.tw/images/serenity.jpg",
+      "gallery": [
+        "https://www.pengyuan.com.tw/upload/pictures/news/5702_first dance(724x 322 像素).jpg",
+        "https://www.pengyuan.com.tw/upload/pictures/news/0259_尾牙春酒 (724x 322 像素).jpg",
+        "https://www.pengyuan.com.tw/upload/pictures/news/1240_一周年視覺 V1_724_322.jpg",
+        "https://www.pengyuan.com.tw/upload/pictures/news/2914_喜憨兒724_0.jpg",
+        "https://www.pengyuan.com.tw/upload/pictures/news/0212_拍拍印970_0.jpg",
+        "https://www.pengyuan.com.tw/upload/pictures/news/0815_2025首看下定.jpg"
+      ],
+      "source": "https://www.pengyuan.com.tw",
+      "verified": true,
+      "verifiedAt": "2026-03-07T05:36:46.607Z",
+      "updateReason": "批量更新：補充照片"
     },
     "priceNote": "需電詢 02-2772-3838"
   },
@@ -23037,7 +23145,19 @@
       "needsUpdate": true,
       "note": "待補充真實照片（聯絡：02-2772-3838）",
       "lastUpdated": "2026-03-05",
-      "main": ""
+      "main": "https://www.pengyuan.com.tw/images/serenity.jpg",
+      "gallery": [
+        "https://www.pengyuan.com.tw/upload/pictures/news/5702_first dance(724x 322 像素).jpg",
+        "https://www.pengyuan.com.tw/upload/pictures/news/0259_尾牙春酒 (724x 322 像素).jpg",
+        "https://www.pengyuan.com.tw/upload/pictures/news/1240_一周年視覺 V1_724_322.jpg",
+        "https://www.pengyuan.com.tw/upload/pictures/news/2914_喜憨兒724_0.jpg",
+        "https://www.pengyuan.com.tw/upload/pictures/news/0212_拍拍印970_0.jpg",
+        "https://www.pengyuan.com.tw/upload/pictures/news/0815_2025首看下定.jpg"
+      ],
+      "source": "https://www.pengyuan.com.tw",
+      "verified": true,
+      "verifiedAt": "2026-03-07T05:36:46.608Z",
+      "updateReason": "批量更新：補充照片"
     },
     "priceNote": "需電詢 02-2772-3838"
   },
@@ -23068,7 +23188,19 @@
       "needsUpdate": true,
       "note": "待補充真實照片（聯絡：02-2772-3838）",
       "lastUpdated": "2026-03-05",
-      "main": ""
+      "main": "https://www.pengyuan.com.tw/images/serenity.jpg",
+      "gallery": [
+        "https://www.pengyuan.com.tw/upload/pictures/news/5702_first dance(724x 322 像素).jpg",
+        "https://www.pengyuan.com.tw/upload/pictures/news/0259_尾牙春酒 (724x 322 像素).jpg",
+        "https://www.pengyuan.com.tw/upload/pictures/news/1240_一周年視覺 V1_724_322.jpg",
+        "https://www.pengyuan.com.tw/upload/pictures/news/2914_喜憨兒724_0.jpg",
+        "https://www.pengyuan.com.tw/upload/pictures/news/0212_拍拍印970_0.jpg",
+        "https://www.pengyuan.com.tw/upload/pictures/news/0815_2025首看下定.jpg"
+      ],
+      "source": "https://www.pengyuan.com.tw",
+      "verified": true,
+      "verifiedAt": "2026-03-07T05:36:46.608Z",
+      "updateReason": "批量更新：補充照片"
     },
     "priceNote": "需電詢 02-2772-3838"
   },
