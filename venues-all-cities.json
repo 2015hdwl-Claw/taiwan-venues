@@ -3664,19 +3664,30 @@
     "availableTimeWeekend": "08:00-24:00",
     "equipment": "頂級音響燈光、投影設備",
     "images": {
-      "main": "https://media.ffycdn.net/eu/mandarin-oriental-hotel-group/oy6E3rsLkt5vaNhNAcTM.jpg",
+      "main": "https://media.ffycdn.net/eu/mandarin-oriental-hotel-group/Jky4E1LR9pmeMceT76wh.jpg",
       "gallery": [
-        "https://upload.wikimedia.org/wikipedia/commons/e/e1/Lobby_of_the_Interior_of_Mandarin_Oriental%2C_Taipei.jpg",
-        "https://upload.wikimedia.org/wikipedia/commons/a/af/The_Grand_Salon_of_Mandarin_Oriental%2C_Taipei_20260206.jpg",
-        "https://upload.wikimedia.org/wikipedia/commons/5/5f/Fung_Shiang_Court_at_Mandarin_Oriental%2C_Taipei_04.jpg"
+        "https://media.ffycdn.net/eu/mandarin-oriental-hotel-group/uiw18EayQ7XiUoda5cgH.jpg",
+        "https://media.ffycdn.net/eu/mandarin-oriental-hotel-group/oy6E3rsLkt5vaNhNAcTM.jpg",
+        "https://media.ffycdn.net/eu/mandarin-oriental-hotel-group/Jky4E1LR9pmeMceT76wh.jpg",
+        "https://media.ffycdn.net/eu/mandarin-oriental-hotel-group/AYTJzNBcSMGi4G7fZzKP.jpg",
+        "https://media.ffycdn.net/eu/mandarin-oriental-hotel-group/m8J79pvN4tZb4qn9LmKg.jpg",
+        "https://media.ffycdn.net/eu/mandarin-oriental-hotel-group/RYdazm5NcNiLXjJeTz5H.jpg",
+        "https://media.ffycdn.net/eu/mandarin-oriental-hotel-group/xFBpWxxeRjw4DB4FH7Me.jpg",
+        "https://media.ffycdn.net/eu/mandarin-oriental-hotel-group/vdt4b7W9sV91muGixvA7.jpg",
+        "https://media.ffycdn.net/eu/mandarin-oriental-hotel-group/kdZMMzNnvjYkTL3zDUbJ.jpg",
+        "https://media.ffycdn.net/eu/mandarin-oriental-hotel-group/XoTnDEbt4YLFhudLsy1M.jpg",
+        "https://media.ffycdn.net/eu/mandarin-oriental-hotel-group/6KmtenXXjYuiajpGVncS.jpg",
+        "https://media.ffycdn.net/eu/mandarin-oriental-hotel-group/YTqtViN6tsB77p5ifjS4.jpg",
+        "https://media.ffycdn.net/eu/mandarin-oriental-hotel-group/SRvWurHrKF5qnV9mGypb.jpg"
       ],
       "floorPlan": "",
-      "needsUpdate": true,
-      "note": "照片錯誤：主照片是一把折扇，不是會議室照片。需要找到正確的文華廳照片。",
-      "lastUpdated": "2026-03-01",
-      "source": "https://www.mandarinoriental.com/zh-hk/taipei/songshan/events",
+      "needsUpdate": false,
+      "note": "從官網爬取 14 張真實會議室照片（2026-03-07）",
+      "lastUpdated": "2026-03-07",
+      "source": "https://www.mandarinoriental.com/zh-hk/taipei/songshan/meet",
       "verified": true,
-      "verifiedAt": "2026-03-02T16:20:21.244Z"
+      "verifiedAt": "2026-03-07T12:45:00",
+      "crawlMethod": "Playwright 動態爬蟲"
     },
     "url": "https://www.mandarinoriental.com/taipei",
     "transportation": {
@@ -3707,14 +3718,14 @@
     "lastVerified": "2026-03-07T07:23:37.063588Z",
     "verifiedTitle": "Luxury 5 Star Hotel | Songshan | Mandarin Oriental, Taipei",
     "meetingPageUrl": "https://www.mandarinoriental.com/en/taipei/songshan/events",
-    "lastUpdated": "2026-03-05T13:41:41.449245",
+    "lastUpdated": "2026-03-07T09:35:59.194560",
     "venueListUrl": "https://www.mandarinoriental.com/en/taipei/songshan/events",
-    "venueMainImageUrl": "https://media.ffycdn.net/eu/mandarin-oriental-hotel-group/oy6E3rsLkt5vaNhNAcTM.jpg",
+    "venueMainImageUrl": "https://media.ffycdn.net/eu/mandarin-oriental-hotel-group/xFBpWxxeRjw4DB4FH7Me.jpg",
     "roomsCount": 8,
     "verificationStatus": "✅ 驗證通過",
     "verificationNotes": "官網驗證：8 個會議空間（宴會廳和多功能廳）",
-    "updateReason": "用戶反饋：會議的照片是錯的（照片顯示的是折扇，不是會議室）",
-    "updateSource": "手動驗證"
+    "updateReason": "從官網爬取真實會議室照片，替換錯誤的折扇照片",
+    "updateSource": "Playwright 動態爬蟲"
   },
   {
     "id": 1086,
