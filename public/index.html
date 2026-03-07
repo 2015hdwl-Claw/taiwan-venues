@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="EventMaster 活動大師 - 台灣活動場地查詢平台，AI 24小時線上諮詢">
+    <title>EventMaster 活動大師 - 台灣活動場地查詢平台</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <!-- ===== 品牌標題 ===== -->
+    <header class="main-header">
+        <div class="header-content">
+            <h1 class="brand-title">🎉 EventMaster 活動大師</h1>
+            <p class="brand-subtitle">找場地，問 EM 就夠了！</p>
+        </div>
+        <button class="ai-chat-toggle" onclick="toggleChat()">
+            💬 AI 諮詢
+        </button>
+    </header>
+
+    <!-- ===== 搜尋區 ===== -->
+    <section class="search-section">
+        <div class="search-container">
+            <div class="search-bar">
+                <input 
+                    type="text" 
+                    id="searchInput" 
+                    placeholder="搜尋場地名稱、地址..."
+                    onkeyup="handleSearch(event)"
+                >
+                <button class="search-btn" onclick="searchVenues()">
+                    🔍 搜尋
+                </button>
+            </div>
+            
+            <!-- 篩選器 -->
+            <div class="filters">
+                <select id="cityFilter" onchange="applyFilters()">
+                    <option value="">所有城市</option>
+                </select>
+                
+                <select id="typeFilter" onchange="applyFilters()">
+                    <option value="">所有類型</option>
+                </select>
+                
+                <select id="capacityFilter" onchange="applyFilters()">
+                    <option value="">容納人數</option>
+                    <option value="small">50人以內</option>
+                    <option value="medium">50-200人</option>
+                    <option value="large">200-500人</option>
+                    <option value="xlarge">500人以上</option>
+                </select>
+                
+                <select id="priceFilter" onchange="applyFilters()">
+                    <option value="">價格範圍</option>
+                    <option value="5000">5,000元以下</option>
+                    <option value="10000">10,000元以下</option>
+                    <option value="20000">20,000元以下</option>
+                    <option value="50000">50,000元以下</option>
+                </select>
+            </div>
+        </div>
+    </section>
+
+    <!-- ===== 場地列表 ===== -->
+    <section class="venues-section">
+        <div class="venues-header">
+            <h2 class="venues-title">
+                場地列表 
+                <span class="venues-count" id="venuesCount"></span>
+            </h2>
+            <div class="view-toggle">
+                <button class="view-btn active" onclick="setView('grid')">網格</button>
+                <button class="view-btn" onclick="setView('list')">列表</button>
+            </div>
+        </div>
+        
+        <!-- 載入中 -->
+        <div id="loadingState" class="loading-state">
+            <div class="spinner"></div>
+            <p>載入場地中...</p>
+        </div>
+        
+        <!-- 場地網格 -->
+        <div id="venuesGrid" class="venues-grid" style="display: none;"></div>
+        
+        <!-- 無結果 -->
+        <div id="emptyState" class="empty-state" style="display: none;">
+            <div class="empty-icon">🔍</div>
+            <h3>沒有找到符合條件的場地</h3>
+            <p>試試調整篩選條件，或直接詢問 AI 助理</p>
+            <button class="btn btn-primary" onclick="toggleChat()">
+                💬 問 AI 助理
+            </button>
+        </div>
+        
+        <!-- 分頁 -->
+        <div id="pagination" class="pagination" style="display: none;"></div>
+    </section>
+
+    <!-- ===== 場地詳情 Modal ===== -->
+    <div id="venueModal" class="modal" style="display: none;">
+        <div class="modal-content">
+            <button class="modal-close" onclick="closeVenueModal()">✕</button>
+            <div id="venueDetail"></div>
+        </div>
+    </div>
+
+    <!-- ===== AI 聊天視窗 ===== -->
+    <div id="chatWindow" class="chat-window" style="display: none;">
+        <div class="chat-header">
+            <div class="chat-title">
+                <span class="chat-icon">🤖</span>
+                <div>
+                    <h3>EM AI 助理</h3>
+                    <span class="chat-status">24小時線上</span>
+                </div>
+            </div>
+            <button class="chat-minimize" onclick="toggleChat()">−</button>
+        </div>
+        
+        <div id="chatMessages" class="chat-messages">
+            <div class="chat-message bot">
+                <div class="message-content">
+                    👋 你好！我是 EM AI 助理，可以幫你找場地、比較價格、推薦方案。
+                    <br><br>
+                    你可以問我：
+                    <br>• 「台北可以容納200人的場地」
+                    <br>• 「預算1萬元以內的會議室」
+                    <br>• 「適合辦尾牙的場地」
+                </div>
+            </div>
+        </div>
+        
+        <div class="chat-input-area">
+            <input 
+                type="text" 
+                id="chatInput" 
+                placeholder="輸入訊息..."
+                onkeyup="handleChatKeyup(event)"
+            >
+            <button class="chat-send" onclick="sendMessage()">發送</button>
+        </div>
+    </div>
+
+    <!-- ===== JavaScript ===== -->
+    <script src="app.js"></script>
+</body>
+</html>
