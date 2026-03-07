@@ -3244,13 +3244,26 @@
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "專業音響燈光、LED螢幕",
     "images": {
-      "main": "https://le-meridien.marriott.com/wp-content/themes/marriott-master/assets/img/brandbar/devices.png",
+      "main": "https://www.lemeridien-taipei.com/files/set_176986464614we4qi80.jpg",
       "gallery": [
-        "https://le-meridien.marriott.com/wp-content/themes/marriott-master/assets/img/brandbar/devices.png"
+        "https://www.lemeridien-taipei.com/files/pages_176886370114vmm6242_l.jpg",
+        "https://www.lemeridien-taipei.com/files/pages_176860676414vg3v477_l.jpg",
+        "https://www.lemeridien-taipei.com/files/pages_176864907214vh6n382_l.jpg",
+        "https://www.lemeridien-taipei.com/files/pages_176860741214vg4g963_l.jpg",
+        "https://www.lemeridien-taipei.com/files/pages_176860862514vg5i189_l.jpg",
+        "https://www.lemeridien-taipei.com/files/pages_177022714314wnbl776_l.jpg",
+        "https://www.lemeridien-taipei.com/files/pages_176860821214vg55s58_l.jpg",
+        "https://www.lemeridien-taipei.com/files/pages_176860845814vg5d364_l.jpg",
+        "https://www.lemeridien-taipei.com/files/pages_1516098871xchm5901_l.jpg",
+        "https://www.lemeridien-taipei.com/files/pages_1514973480xbn0lk34_l.jpg",
+        "https://www.lemeridien-taipei.com/files/pages_1516098920xchm6p78_l.jpg"
       ],
-      "source": "https://www.lemeridien.com/taipei",
+      "source": "https://www.lemeridien-taipei.com/meetings/",
       "verified": true,
-      "verifiedAt": "2026-03-01T23:31:22.066Z"
+      "verifiedAt": "2026-03-07T13:00:00",
+      "needsUpdate": false,
+      "note": "從官網爬取 12 張真實會議室照片（2026-03-07 Playwright）",
+      "lastUpdated": "2026-03-07"
     },
     "url": "https://www.lemeridien-taipei.com",
     "verified": true,
