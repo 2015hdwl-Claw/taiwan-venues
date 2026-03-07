@@ -2915,18 +2915,26 @@
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "專業音響燈光、投影設備",
     "images": {
-      "main": "https://www.sheratongrandtaipei.com/style/logo_1.png",
+      "main": "https://www.sheratongrandtaipei.com/files/pages_1730459392142vj6g96_l.jpg",
       "gallery": [
-        "https://images.unsplash.com/photo-1519167758481-83f550bb49b3?w=800",
-        "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?w=800"
+        "https://www.sheratongrandtaipei.com/files/pages_1772816933150l7wc77_m.jpg",
+        "https://www.sheratongrandtaipei.com/files/pages_175588718614lwh8v24_m.jpg",
+        "https://www.sheratongrandtaipei.com/files/pages_175459012814kxhgw40_m.jpg",
+        "https://www.sheratongrandtaipei.com/files/pages_17281359591416fa692_m.jpg",
+        "https://www.sheratongrandtaipei.com/files/pages_17281373581416gh612_m.jpg",
+        "https://www.sheratongrandtaipei.com/files/pages_17281383441416hc240_m.jpg",
+        "https://www.sheratongrandtaipei.com/files/pages_175164700314iql2w16_m.jpg",
+        "https://www.sheratongrandtaipei.com/files/pages_1739469156149mqgn64_m.jpg",
+        "https://www.sheratongrandtaipei.com/files/pages_1644336389126gc1h37_m.jpg"
       ],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "照片來源：Unsplash（高品質示意照片）",
-      "lastUpdated": "2026-03-01",
       "source": "https://www.sheratongrandtaipei.com/websev?lang=zh-tw&ref=pages&cat=50",
       "verified": true,
-      "verifiedAt": "2026-03-02T16:20:21.243Z"
+      "verifiedAt": "2026-03-07T13:12:00.788197",
+      "needsUpdate": false,
+      "note": "從官網爬取真實會議室照片（10張）",
+      "lastUpdated": "2026-03-07",
+      "crawlMethod": "Playwright 動態爬蟲"
     },
     "url": "https://www.sheratongrandtaipei.com/websev?lang=zh-tw",
     "verified": true,
@@ -2946,8 +2954,10 @@
       "蘭花廳",
       "菊花廳"
     ],
-    "updateReason": "SOP V4.7 資料結構更新",
-    "updateSource": "手動驗證"
+    "updateReason": "SOP V4.7: 更新為真實會議室照片（替換 logo）",
+    "updateSource": "Playwright 爬蟲自動更新",
+    "verificationStatus": "✅ 已驗證",
+    "lastUpdated": "2026-03-07T13:12:00.788287"
   },
   {
     "id": 1068,
@@ -3191,17 +3201,26 @@
     "contactPhone": "02-2321-5511",
     "contactEmail": "reservations.taipei@sheraton.com",
     "images": {
-      "main": "https://www.sheratongrandtaipei.com/style/logo_1.png",
+      "main": "https://www.sheratongrandtaipei.com/files/pages_1730459392142vj6g96_l.jpg",
       "gallery": [
-        "https://www.sheratongrandtaipei.com/files/pages_174741222614fku8q21_l.jpg",
-        "https://www.sheratongrandtaipei.com/files/pages_174741223414fku9025_l.jpg",
-        "https://www.sheratongrandtaipei.com/files/pages_174741231514fkubd47_l.jpg",
-        "https://www.sheratongrandtaipei.com/files/pages_174741226114fku9r77_l.jpg",
-        "https://www.sheratongrandtaipei.com/files/pages_174741225014fku9g00_l.jpg"
+        "https://www.sheratongrandtaipei.com/files/pages_1772816933150l7wc77_m.jpg",
+        "https://www.sheratongrandtaipei.com/files/pages_175588718614lwh8v24_m.jpg",
+        "https://www.sheratongrandtaipei.com/files/pages_175459012814kxhgw40_m.jpg",
+        "https://www.sheratongrandtaipei.com/files/pages_17281359591416fa692_m.jpg",
+        "https://www.sheratongrandtaipei.com/files/pages_17281373581416gh612_m.jpg",
+        "https://www.sheratongrandtaipei.com/files/pages_17281383441416hc240_m.jpg",
+        "https://www.sheratongrandtaipei.com/files/pages_175164700314iql2w16_m.jpg",
+        "https://www.sheratongrandtaipei.com/files/pages_1739469156149mqgn64_m.jpg",
+        "https://www.sheratongrandtaipei.com/files/pages_1644336389126gc1h37_m.jpg"
       ],
+      "floorPlan": "",
       "source": "https://www.sheratongrandtaipei.com/websev?lang=zh-tw&ref=pages&cat=50",
       "verified": true,
-      "verifiedAt": "2026-03-02T16:20:21.243Z"
+      "verifiedAt": "2026-03-07T13:12:00.788300",
+      "needsUpdate": false,
+      "note": "從官網爬取真實會議室照片（10張）",
+      "lastUpdated": "2026-03-07",
+      "crawlMethod": "Playwright 動態爬蟲"
     },
     "missingFields": [
       "會議室名稱（具體）",
@@ -3209,7 +3228,7 @@
       "劇院式人數",
       "教室式人數"
     ],
-    "verificationStatus": "已驗證",
+    "verificationStatus": "✅ 已驗證",
     "meetingPageUrl": "https://www.sheratongrandtaipei.com/websev?lang=zh-tw&ref=pages&cat=2&id=16",
     "lastVerified": "2026-03-02T13:03:09.484Z",
     "venueListUrl": "https://www.sheratongrandtaipei.com/websev?lang=zh-tw&ref=pages&cat=50",
@@ -3222,9 +3241,10 @@
       "蘭花廳",
       "菊花廳"
     ],
-    "updateReason": "SOP V4.7 資料結構更新",
-    "updateSource": "手動驗證",
-    "priceNote": "需電詢 02-2321-5511"
+    "updateReason": "SOP V4.7: 更新為真實會議室照片（替換 logo）",
+    "updateSource": "Playwright 爬蟲自動更新",
+    "priceNote": "需電詢 02-2321-5511",
+    "lastUpdated": "2026-03-07T13:12:00.788314"
   },
   {
     "id": 1076,
@@ -15233,18 +15253,26 @@
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "專業音響燈光、投影設備",
     "images": {
-      "main": "https://www.sheratongrandtaipei.com/style/logo_1.png",
+      "main": "https://www.sheratongrandtaipei.com/files/pages_1730459392142vj6g96_l.jpg",
       "gallery": [
-        "https://images.unsplash.com/photo-1519167758481-83f550bb49b3?w=800",
-        "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?w=800"
+        "https://www.sheratongrandtaipei.com/files/pages_1772816933150l7wc77_m.jpg",
+        "https://www.sheratongrandtaipei.com/files/pages_175588718614lwh8v24_m.jpg",
+        "https://www.sheratongrandtaipei.com/files/pages_175459012814kxhgw40_m.jpg",
+        "https://www.sheratongrandtaipei.com/files/pages_17281359591416fa692_m.jpg",
+        "https://www.sheratongrandtaipei.com/files/pages_17281373581416gh612_m.jpg",
+        "https://www.sheratongrandtaipei.com/files/pages_17281383441416hc240_m.jpg",
+        "https://www.sheratongrandtaipei.com/files/pages_175164700314iql2w16_m.jpg",
+        "https://www.sheratongrandtaipei.com/files/pages_1739469156149mqgn64_m.jpg",
+        "https://www.sheratongrandtaipei.com/files/pages_1644336389126gc1h37_m.jpg"
       ],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "照片來源：Unsplash（高品質示意照片）",
-      "lastUpdated": "2026-03-01",
       "source": "https://www.sheratongrandtaipei.com/websev?lang=zh-tw&ref=pages&cat=50",
       "verified": true,
-      "verifiedAt": "2026-03-02T16:20:21.245Z"
+      "verifiedAt": "2026-03-07T13:12:00.788396",
+      "needsUpdate": false,
+      "note": "從官網爬取真實會議室照片（10張）",
+      "lastUpdated": "2026-03-07",
+      "crawlMethod": "Playwright 動態爬蟲"
     },
     "url": "https://www.sheratongrandtaipei.com/websev?lang=zh-tw",
     "verified": true,
@@ -15264,8 +15292,10 @@
       "蘭花廳",
       "菊花廳"
     ],
-    "updateReason": "SOP V4.7 資料結構更新",
-    "updateSource": "手動驗證"
+    "updateReason": "SOP V4.7: 更新為真實會議室照片（替換 logo）",
+    "updateSource": "Playwright 爬蟲自動更新",
+    "verificationStatus": "✅ 已驗證",
+    "lastUpdated": "2026-03-07T13:12:00.788407"
   },
   {
     "id": 1385,
@@ -15285,18 +15315,26 @@
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "專業音響燈光、投影設備",
     "images": {
-      "main": "https://www.sheratongrandtaipei.com/style/logo_1.png",
+      "main": "https://www.sheratongrandtaipei.com/files/pages_1730459392142vj6g96_l.jpg",
       "gallery": [
-        "https://images.unsplash.com/photo-1519167758481-83f550bb49b3?w=800",
-        "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?w=800"
+        "https://www.sheratongrandtaipei.com/files/pages_1772816933150l7wc77_m.jpg",
+        "https://www.sheratongrandtaipei.com/files/pages_175588718614lwh8v24_m.jpg",
+        "https://www.sheratongrandtaipei.com/files/pages_175459012814kxhgw40_m.jpg",
+        "https://www.sheratongrandtaipei.com/files/pages_17281359591416fa692_m.jpg",
+        "https://www.sheratongrandtaipei.com/files/pages_17281373581416gh612_m.jpg",
+        "https://www.sheratongrandtaipei.com/files/pages_17281383441416hc240_m.jpg",
+        "https://www.sheratongrandtaipei.com/files/pages_175164700314iql2w16_m.jpg",
+        "https://www.sheratongrandtaipei.com/files/pages_1739469156149mqgn64_m.jpg",
+        "https://www.sheratongrandtaipei.com/files/pages_1644336389126gc1h37_m.jpg"
       ],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "照片來源：Unsplash（高品質示意照片）",
-      "lastUpdated": "2026-03-01",
       "source": "https://www.sheratongrandtaipei.com/websev?lang=zh-tw&ref=pages&cat=50",
       "verified": true,
-      "verifiedAt": "2026-03-02T16:20:21.245Z"
+      "verifiedAt": "2026-03-07T13:12:00.788412",
+      "needsUpdate": false,
+      "note": "從官網爬取真實會議室照片（10張）",
+      "lastUpdated": "2026-03-07",
+      "crawlMethod": "Playwright 動態爬蟲"
     },
     "url": "https://www.sheratongrandtaipei.com/websev?lang=zh-tw",
     "verified": true,
@@ -15316,8 +15354,10 @@
       "蘭花廳",
       "菊花廳"
     ],
-    "updateReason": "SOP V4.7 資料結構更新",
-    "updateSource": "手動驗證"
+    "updateReason": "SOP V4.7: 更新為真實會議室照片（替換 logo）",
+    "updateSource": "Playwright 爬蟲自動更新",
+    "verificationStatus": "✅ 已驗證",
+    "lastUpdated": "2026-03-07T13:12:00.788419"
   },
   {
     "id": 1386,
@@ -15337,21 +15377,26 @@
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "專業音響燈光、投影設備",
     "images": {
-      "main": "https://www.sheratongrandtaipei.com/style/logo_1.png",
+      "main": "https://www.sheratongrandtaipei.com/files/pages_1730459392142vj6g96_l.jpg",
       "gallery": [
-        "https://www.ticc.com.tw/wSite/public/Img/f1748228800599.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1748228806084.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1748228814334.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1765765176916.jpeg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1765765195144.jpeg"
+        "https://www.sheratongrandtaipei.com/files/pages_1772816933150l7wc77_m.jpg",
+        "https://www.sheratongrandtaipei.com/files/pages_175588718614lwh8v24_m.jpg",
+        "https://www.sheratongrandtaipei.com/files/pages_175459012814kxhgw40_m.jpg",
+        "https://www.sheratongrandtaipei.com/files/pages_17281359591416fa692_m.jpg",
+        "https://www.sheratongrandtaipei.com/files/pages_17281373581416gh612_m.jpg",
+        "https://www.sheratongrandtaipei.com/files/pages_17281383441416hc240_m.jpg",
+        "https://www.sheratongrandtaipei.com/files/pages_175164700314iql2w16_m.jpg",
+        "https://www.sheratongrandtaipei.com/files/pages_1739469156149mqgn64_m.jpg",
+        "https://www.sheratongrandtaipei.com/files/pages_1644336389126gc1h37_m.jpg"
       ],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "來源: TICC 官網",
-      "lastUpdated": "2026-03-01",
       "source": "https://www.sheratongrandtaipei.com/websev?lang=zh-tw&ref=pages&cat=50",
       "verified": true,
-      "verifiedAt": "2026-03-02T16:20:21.245Z"
+      "verifiedAt": "2026-03-07T13:12:00.788423",
+      "needsUpdate": false,
+      "note": "從官網爬取真實會議室照片（10張）",
+      "lastUpdated": "2026-03-07",
+      "crawlMethod": "Playwright 動態爬蟲"
     },
     "url": "https://www.sheratongrandtaipei.com/websev?lang=zh-tw",
     "verified": true,
@@ -15374,8 +15419,10 @@
       "蘭花廳",
       "菊花廳"
     ],
-    "updateReason": "SOP V4.7 資料結構更新",
-    "updateSource": "手動驗證"
+    "updateReason": "SOP V4.7: 更新為真實會議室照片（替換 logo）",
+    "updateSource": "Playwright 爬蟲自動更新",
+    "verificationStatus": "✅ 已驗證",
+    "lastUpdated": "2026-03-07T13:12:00.788430"
   },
   {
     "id": 1387,
@@ -15395,18 +15442,26 @@
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "專業音響燈光、投影設備",
     "images": {
-      "main": "https://www.sheratongrandtaipei.com/style/logo_1.png",
+      "main": "https://www.sheratongrandtaipei.com/files/pages_1730459392142vj6g96_l.jpg",
       "gallery": [
-        "https://images.unsplash.com/photo-1519167758481-83f550bb49b3?w=800",
-        "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?w=800"
+        "https://www.sheratongrandtaipei.com/files/pages_1772816933150l7wc77_m.jpg",
+        "https://www.sheratongrandtaipei.com/files/pages_175588718614lwh8v24_m.jpg",
+        "https://www.sheratongrandtaipei.com/files/pages_175459012814kxhgw40_m.jpg",
+        "https://www.sheratongrandtaipei.com/files/pages_17281359591416fa692_m.jpg",
+        "https://www.sheratongrandtaipei.com/files/pages_17281373581416gh612_m.jpg",
+        "https://www.sheratongrandtaipei.com/files/pages_17281383441416hc240_m.jpg",
+        "https://www.sheratongrandtaipei.com/files/pages_175164700314iql2w16_m.jpg",
+        "https://www.sheratongrandtaipei.com/files/pages_1739469156149mqgn64_m.jpg",
+        "https://www.sheratongrandtaipei.com/files/pages_1644336389126gc1h37_m.jpg"
       ],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "照片來源：Unsplash（高品質示意照片）",
-      "lastUpdated": "2026-03-01",
       "source": "https://www.sheratongrandtaipei.com/websev?lang=zh-tw&ref=pages&cat=50",
       "verified": true,
-      "verifiedAt": "2026-03-02T16:20:21.245Z"
+      "verifiedAt": "2026-03-07T13:12:00.788434",
+      "needsUpdate": false,
+      "note": "從官網爬取真實會議室照片（10張）",
+      "lastUpdated": "2026-03-07",
+      "crawlMethod": "Playwright 動態爬蟲"
     },
     "url": "https://www.sheratongrandtaipei.com/websev?lang=zh-tw",
     "verified": true,
@@ -15426,8 +15481,10 @@
       "蘭花廳",
       "菊花廳"
     ],
-    "updateReason": "SOP V4.7 資料結構更新",
-    "updateSource": "手動驗證"
+    "updateReason": "SOP V4.7: 更新為真實會議室照片（替換 logo）",
+    "updateSource": "Playwright 爬蟲自動更新",
+    "verificationStatus": "✅ 已驗證",
+    "lastUpdated": "2026-03-07T13:12:00.788440"
   },
   {
     "id": 1388,
