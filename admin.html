@@ -31,6 +31,7 @@
             display: flex;
             gap: 20px;
             margin-top: 20px;
+            flex-wrap: wrap;
         }
         .header .stat {
             background: rgba(255,255,255,0.2);
@@ -45,6 +46,88 @@
             font-size: 14px;
             opacity: 0.9;
         }
+        
+        /* 篩選器樣式 */
+        .filters {
+            background: white;
+            padding: 20px;
+            border-radius: 15px;
+            margin-bottom: 20px;
+            box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+            display: flex;
+            gap: 15px;
+            flex-wrap: wrap;
+            align-items: center;
+        }
+        .filter-group {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+        .filter-group label {
+            font-weight: 600;
+            color: #333;
+            font-size: 14px;
+        }
+        .filter-group select {
+            padding: 8px 12px;
+            border: 2px solid #e0e0e0;
+            border-radius: 8px;
+            font-size: 14px;
+            cursor: pointer;
+            background: white;
+            min-width: 120px;
+        }
+        .filter-group select:focus {
+            outline: none;
+            border-color: #667eea;
+        }
+        
+        /* 操作按鈕區 */
+        .actions {
+            display: flex;
+            gap: 10px;
+            margin-left: auto;
+        }
+        .btn {
+            padding: 10px 20px;
+            border: none;
+            border-radius: 8px;
+            font-size: 14px;
+            font-weight: 600;
+            cursor: pointer;
+            transition: all 0.3s;
+        }
+        .btn-primary {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+        }
+        .btn-primary:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 5px 15px rgba(102, 126, 234, 0.4);
+        }
+        .btn-secondary {
+            background: #f0f0f0;
+            color: #333;
+        }
+        .btn-secondary:hover {
+            background: #e0e0e0;
+        }
+        .btn-success {
+            background: #28a745;
+            color: white;
+        }
+        .btn-success:hover {
+            background: #218838;
+        }
+        .btn-danger {
+            background: #dc3545;
+            color: white;
+        }
+        .btn-danger:hover {
+            background: #c82333;
+        }
+        
         .venues-grid {
             display: grid;
             grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
@@ -56,6 +139,7 @@
             overflow: hidden;
             box-shadow: 0 5px 15px rgba(0,0,0,0.1);
             transition: transform 0.3s, box-shadow 0.3s;
+            position: relative;
         }
         .venue-card:hover {
             transform: translateY(-5px);
@@ -105,6 +189,34 @@
             background: #fff3e0;
             color: #f57c00;
         }
+        .tag.no-photo {
+            background: #ffebee;
+            color: #c62828;
+        }
+        
+        /* 編輯按鈕 */
+        .edit-btn {
+            position: absolute;
+            top: 10px;
+            right: 10px;
+            background: rgba(255,255,255,0.9);
+            border: none;
+            width: 36px;
+            height: 36px;
+            border-radius: 50%;
+            cursor: pointer;
+            font-size: 18px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.15);
+            transition: all 0.3s;
+        }
+        .edit-btn:hover {
+            background: white;
+            transform: scale(1.1);
+        }
+        
         .footer {
             text-align: center;
             margin-top: 40px;
@@ -112,1530 +224,821 @@
             color: #666;
             font-size: 14px;
         }
+        
+        /* Modal 樣式 */
+        .modal-overlay {
+            display: none;
+            position: fixed;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background: rgba(0,0,0,0.5);
+            z-index: 1000;
+            align-items: center;
+            justify-content: center;
+            padding: 20px;
+        }
+        .modal-overlay.active {
+            display: flex;
+        }
+        .modal {
+            background: white;
+            border-radius: 15px;
+            width: 100%;
+            max-width: 700px;
+            max-height: 90vh;
+            overflow-y: auto;
+            box-shadow: 0 20px 60px rgba(0,0,0,0.3);
+        }
+        .modal-header {
+            padding: 20px;
+            border-bottom: 1px solid #e0e0e0;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            position: sticky;
+            top: 0;
+            background: white;
+            z-index: 10;
+        }
+        .modal-header h2 {
+            font-size: 20px;
+            color: #333;
+        }
+        .modal-close {
+            background: none;
+            border: none;
+            font-size: 24px;
+            cursor: pointer;
+            color: #666;
+            padding: 5px;
+        }
+        .modal-close:hover {
+            color: #333;
+        }
+        .modal-body {
+            padding: 20px;
+        }
+        .form-group {
+            margin-bottom: 20px;
+        }
+        .form-group label {
+            display: block;
+            margin-bottom: 8px;
+            font-weight: 600;
+            color: #333;
+            font-size: 14px;
+        }
+        .form-group input,
+        .form-group select,
+        .form-group textarea {
+            width: 100%;
+            padding: 10px 12px;
+            border: 2px solid #e0e0e0;
+            border-radius: 8px;
+            font-size: 14px;
+            transition: border-color 0.3s;
+        }
+        .form-group input:focus,
+        .form-group select:focus,
+        .form-group textarea:focus {
+            outline: none;
+            border-color: #667eea;
+        }
+        .form-group textarea {
+            min-height: 80px;
+            resize: vertical;
+        }
+        .form-row {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 15px;
+        }
+        .modal-footer {
+            padding: 20px;
+            border-top: 1px solid #e0e0e0;
+            display: flex;
+            justify-content: flex-end;
+            gap: 10px;
+            position: sticky;
+            bottom: 0;
+            background: white;
+        }
+        
+        /* 載入中提示 */
+        .loading {
+            text-align: center;
+            padding: 60px;
+            color: #666;
+        }
+        .loading-spinner {
+            width: 40px;
+            height: 40px;
+            border: 4px solid #e0e0e0;
+            border-top-color: #667eea;
+            border-radius: 50%;
+            animation: spin 1s linear infinite;
+            margin: 0 auto 20px;
+        }
+        @keyframes spin {
+            to { transform: rotate(360deg); }
+        }
+        
+        /* 提示訊息 */
+        .toast {
+            position: fixed;
+            bottom: 30px;
+            right: 30px;
+            background: #333;
+            color: white;
+            padding: 15px 25px;
+            border-radius: 10px;
+            box-shadow: 0 5px 20px rgba(0,0,0,0.3);
+            z-index: 2000;
+            transform: translateY(100px);
+            opacity: 0;
+            transition: all 0.3s;
+        }
+        .toast.show {
+            transform: translateY(0);
+            opacity: 1;
+        }
+        .toast.success {
+            background: #28a745;
+        }
+        .toast.error {
+            background: #dc3545;
+        }
+        
+        /* 搜尋框 */
+        .search-box {
+            flex: 1;
+            min-width: 200px;
+        }
+        .search-box input {
+            width: 100%;
+            padding: 8px 12px;
+            border: 2px solid #e0e0e0;
+            border-radius: 8px;
+            font-size: 14px;
+        }
+        .search-box input:focus {
+            outline: none;
+            border-color: #667eea;
+        }
+        
+        /* 分頁 */
+        .pagination {
+            display: flex;
+            justify-content: center;
+            gap: 10px;
+            margin-top: 30px;
+            flex-wrap: wrap;
+        }
+        .pagination button {
+            padding: 8px 15px;
+            border: 2px solid #e0e0e0;
+            background: white;
+            border-radius: 8px;
+            cursor: pointer;
+            transition: all 0.3s;
+        }
+        .pagination button:hover {
+            border-color: #667eea;
+            color: #667eea;
+        }
+        .pagination button.active {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            border-color: transparent;
+        }
+        .pagination button:disabled {
+            opacity: 0.5;
+            cursor: not-allowed;
+        }
+        
+        /* 標記已修改 */
+        .modified-badge {
+            position: absolute;
+            top: 10px;
+            left: 10px;
+            background: #ff9800;
+            color: white;
+            padding: 4px 10px;
+            border-radius: 12px;
+            font-size: 11px;
+            font-weight: 600;
+        }
     </style>
 </head>
 <body>
     <div class="header">
         <h1>🏛️ 台灣場地管理系統</h1>
-        <p>最後更新: 2026-03-07 21:15:15</p>
+        <p id="lastUpdate">載入中...</p>
         <div class="stats">
             <div class="stat">
-                <div class="stat-number">131</div>
-                <div class="stat-label">上架場地</div>
+                <div class="stat-number" id="displayCount">0</div>
+                <div class="stat-label">顯示場地</div>
             </div>
             <div class="stat">
-                <div class="stat-number">526</div>
+                <div class="stat-number" id="totalCount">0</div>
                 <div class="stat-label">總場地數</div>
+            </div>
+            <div class="stat">
+                <div class="stat-number" id="modifiedCount">0</div>
+                <div class="stat-label">已修改</div>
             </div>
         </div>
     </div>
     
-    <div class="venues-grid">
-
-        <div class="venue-card">
-            <div class="venue-image" style="display:flex;align-items:center;justify-content:center;color:#999;">無照片</div>
-            <div class="venue-content">
-                <div class="venue-name">涵碧樓 The Lalu Sun Moon Lake</div>
-                <div class="venue-info"><strong>城市:</strong> 南投縣</div>
-                <div class="venue-info"><strong>會議室:</strong> 宴會廳</div>
-                <div class="venue-info"><strong>類型:</strong> 飯店場地</div>
-                <div class="venue-tags">
-                    <span class="tag capacity">👥 400 人</span>
-                    <span class="tag price">💰 $80000/半天</span>
-                    <span class="tag">飯店場地</span>
-                </div>
-            </div>
+    <!-- 篩選器 -->
+    <div class="filters">
+        <div class="search-box">
+            <input type="text" id="searchInput" placeholder="搜尋場地名稱、城市...">
+        </div>
+        <div class="filter-group">
+            <label>城市:</label>
+            <select id="cityFilter">
+                <option value="">全部</option>
+            </select>
+        </div>
+        <div class="filter-group">
+            <label>類型:</label>
+            <select id="typeFilter">
+                <option value="">全部</option>
+            </select>
+        </div>
+        <div class="filter-group">
+            <label>照片:</label>
+            <select id="photoFilter">
+                <option value="">全部</option>
+                <option value="hasPhoto">有照片</option>
+                <option value="noPhoto">無照片</option>
+            </select>
+        </div>
+        <div class="filter-group">
+            <label>狀態:</label>
+            <select id="statusFilter">
+                <option value="">全部</option>
+                <option value="上架">上架</option>
+                <option value="下架">下架</option>
+                <option value="待審核">待審核</option>
+            </select>
+        </div>
+        <div class="actions">
+            <button class="btn btn-secondary" onclick="resetFilters()">重置</button>
+            <button class="btn btn-success" onclick="exportJSON()">📥 匯出 JSON</button>
         </div>
-
-        <div class="venue-card">
-            <div class="venue-image" style="display:flex;align-items:center;justify-content:center;color:#999;">無照片</div>
-            <div class="venue-content">
-                <div class="venue-name">台中全國大飯店 Hotel National</div>
-                <div class="venue-info"><strong>城市:</strong> 台中市</div>
-                <div class="venue-info"><strong>會議室:</strong> 全国廳</div>
-                <div class="venue-info"><strong>類型:</strong> 飯店場地</div>
-                <div class="venue-tags">
-                    <span class="tag capacity">👥 350 人</span>
-                    <span class="tag price">💰 $35000/半天</span>
-                    <span class="tag">飯店場地</span>
-                </div>
-            </div>
-        </div>
-
-        <div class="venue-card">
-            <div class="venue-image" style="display:flex;align-items:center;justify-content:center;color:#999;">無照片</div>
-            <div class="venue-content">
-                <div class="venue-name">台中日月千禧酒店 Millennium Hotel Taichung</div>
-                <div class="venue-info"><strong>城市:</strong> 台中市</div>
-                <div class="venue-info"><strong>會議室:</strong> 千禧廳</div>
-                <div class="venue-info"><strong>類型:</strong> 飯店場地</div>
-                <div class="venue-tags">
-                    <span class="tag capacity">👥 500 人</span>
-                    <span class="tag price">💰 $80000/半天</span>
-                    <span class="tag">飯店場地</span>
-                </div>
-            </div>
-        </div>
-
-        <div class="venue-card">
-            <div class="venue-image" style="display:flex;align-items:center;justify-content:center;color:#999;">無照片</div>
-            <div class="venue-content">
-                <div class="venue-name">台中林酒店 The Lin Hotel Taichung</div>
-                <div class="venue-info"><strong>城市:</strong> 台中市</div>
-                <div class="venue-info"><strong>會議室:</strong> 林皇宮廳</div>
-                <div class="venue-info"><strong>類型:</strong> 飯店場地</div>
-                <div class="venue-tags">
-                    <span class="tag capacity">👥 600 人</span>
-                    <span class="tag price">💰 $90000/半天</span>
-                    <span class="tag">飯店場地</span>
-                </div>
-            </div>
-        </div>
-
-        <div class="venue-card">
-            <div class="venue-image" style="display:flex;align-items:center;justify-content:center;color:#999;">無照片</div>
-            <div class="venue-content">
-                <div class="venue-name">台中福華大飯店 Howard Prince Hotel Taichung</div>
-                <div class="venue-info"><strong>城市:</strong> 台中市</div>
-                <div class="venue-info"><strong>會議室:</strong> 福華廳</div>
-                <div class="venue-info"><strong>類型:</strong> 飯店場地</div>
-                <div class="venue-tags">
-                    <span class="tag capacity">👥 400 人</span>
-                    <span class="tag price">💰 $60000/半天</span>
-                    <span class="tag">飯店場地</span>
-                </div>
-            </div>
-        </div>
-
-        <div class="venue-card">
-            <div class="venue-image" style="display:flex;align-items:center;justify-content:center;color:#999;">無照片</div>
-            <div class="venue-content">
-                <div class="venue-name">台中裕元花園酒店 Windsor Hotel Taichung</div>
-                <div class="venue-info"><strong>城市:</strong> 台中市</div>
-                <div class="venue-info"><strong>會議室:</strong> 裕元廳</div>
-                <div class="venue-info"><strong>類型:</strong> 飯店場地</div>
-                <div class="venue-tags">
-                    <span class="tag capacity">👥 450 人</span>
-                    <span class="tag price">💰 $70000/半天</span>
-                    <span class="tag">飯店場地</span>
-                </div>
-            </div>
-        </div>
-
-        <div class="venue-card">
-            <img src="https://pic.camacafe.com/upload/file1_2026020994537_384_GXFEF.jpg" class="venue-image" alt="CAMA咖啡" onerror="this.src='data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 350 200%22><rect fill=%22%23e0e0e0%22 width=%22350%22 height=%22200%22/><text x=%22175%22 y=%22100%22 text-anchor=%22middle%22 fill=%22%23999%22 font-size=%2216%22>無照片</text></svg>'">
-            <div class="venue-content">
-                <div class="venue-name">CAMA咖啡</div>
-                <div class="venue-info"><strong>城市:</strong> 台北市</div>
-                <div class="venue-info"><strong>會議室:</strong> 包場空間</div>
-                <div class="venue-info"><strong>類型:</strong> 咖啡廳</div>
-                <div class="venue-tags">
-                    <span class="tag capacity">👥 40 人</span>
-                    <span class="tag price">💰 $6000/半天</span>
-                    <span class="tag">咖啡廳</span>
-                </div>
-            </div>
-        </div>
-
-        <div class="venue-card">
-            <img src="https://clbc.tw/wp-content/uploads/2019/02/daanmain-001-1.jpg" class="venue-image" alt="CLBC大安商務中心" onerror="this.src='data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 350 200%22><rect fill=%22%23e0e0e0%22 width=%22350%22 height=%22200%22/><text x=%22175%22 y=%22100%22 text-anchor=%22middle%22 fill=%22%23999%22 font-size=%2216%22>無照片</text></svg>'">
-            <div class="venue-content">
-                <div class="venue-name">CLBC大安商務中心</div>
-                <div class="venue-info"><strong>城市:</strong> 台北市</div>
-                <div class="venue-info"><strong>會議室:</strong> 會議室A</div>
-                <div class="venue-info"><strong>類型:</strong> 會議中心</div>
-                <div class="venue-tags">
-                    <span class="tag capacity">👥 8 人</span>
-                    <span class="tag price">💰 $4000/半天</span>
-                    <span class="tag">會議中心</span>
-                </div>
-            </div>
-        </div>
-
-        <div class="venue-card">
-            <img src="https://static.wixstatic.com/media/bd4101_b060d5db47da4905a037701ac0251b0e~mv2.png/v1/fill/w_1280,h_99,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/bd4101_b060d5db47da4905a037701ac0251b0e~mv2.png" class="venue-image" alt="NUZONE展演空間" onerror="this.src='data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 350 200%22><rect fill=%22%23e0e0e0%22 width=%22350%22 height=%22200%22/><text x=%22175%22 y=%22100%22 text-anchor=%22middle%22 fill=%22%23999%22 font-size=%2216%22>無照片</text></svg>'">
-            <div class="venue-content">
-                <div class="venue-name">NUZONE展演空間</div>
-                <div class="venue-info"><strong>城市:</strong> 台北市</div>
-                <div class="venue-info"><strong>會議室:</strong> 藝人/主持人/工作人員專用休息室＆衛浴＆出入口</div>
-                <div class="venue-info"><strong>類型:</strong> 展演場地</div>
-                <div class="venue-tags">
-                    <span class="tag capacity">👥 500 人</span>
-                    <span class="tag price">💰 $15000/半天</span>
-                    <span class="tag">展演場地</span>
-                </div>
-            </div>
-        </div>
-
-        <div class="venue-card">
-            <img src="https://assets.iwgplc.com/image/upload/c_fill,f_auto,q_auto,w_768,h_257,g_auto:subject//v1754490241/WebsiteImagery/Gallery/MR_1.jpg" class="venue-image" alt="Regus商務中心" onerror="this.src='data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 350 200%22><rect fill=%22%23e0e0e0%22 width=%22350%22 height=%22200%22/><text x=%22175%22 y=%22100%22 text-anchor=%22middle%22 fill=%22%23999%22 font-size=%2216%22>無照片</text></svg>'">
-            <div class="venue-content">
-                <div class="venue-name">Regus商務中心</div>
-                <div class="venue-info"><strong>城市:</strong> 台北市</div>
-                <div class="venue-info"><strong>會議室:</strong> 會議室</div>
-                <div class="venue-info"><strong>類型:</strong> 會議中心</div>
-                <div class="venue-tags">
-                    <span class="tag capacity">👥 35 人</span>
-                    <span class="tag price">💰 $5000/半天</span>
-                    <span class="tag">會議中心</span>
-                </div>
-            </div>
-        </div>
-
-        <div class="venue-card">
-            <img src="https://simplekaffa.thothcdn.com/images/property_images/banner/6db5ce15de306aed207117be4199ee267ec3798a.png" class="venue-image" alt="Simple Kaffa" onerror="this.src='data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 350 200%22><rect fill=%22%23e0e0e0%22 width=%22350%22 height=%22200%22/><text x=%22175%22 y=%22100%22 text-anchor=%22middle%22 fill=%22%23999%22 font-size=%2216%22>無照片</text></svg>'">
-            <div class="venue-content">
-                <div class="venue-name">Simple Kaffa</div>
-                <div class="venue-info"><strong>城市:</strong> 台北市</div>
-                <div class="venue-info"><strong>會議室:</strong> 包場空間</div>
-                <div class="venue-info"><strong>類型:</strong> 咖啡廳</div>
-                <div class="venue-tags">
-                    <span class="tag capacity">👥 55 人</span>
-                    <span class="tag price">💰 $8000/半天</span>
-                    <span class="tag">咖啡廳</span>
-                </div>
-            </div>
-        </div>
-
-        <div class="venue-card">
-            <img src="https://www.executivecentre.com/_next/image/?url=https%3A%2F%2Fassets.executivecentre.com%2Fassets%2FBanner-Product-MeetingRoom.jpg&w=3840&q=75" class="venue-image" alt="The Executive Centre" onerror="this.src='data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 350 200%22><rect fill=%22%23e0e0e0%22 width=%22350%22 height=%22200%22/><text x=%22175%22 y=%22100%22 text-anchor=%22middle%22 fill=%22%23999%22 font-size=%2216%22>無照片</text></svg>'">
-            <div class="venue-content">
-                <div class="venue-name">The Executive Centre</div>
-                <div class="venue-info"><strong>城市:</strong> 台北市</div>
-                <div class="venue-info"><strong>會議室:</strong> 會議室</div>
-                <div class="venue-info"><strong>類型:</strong> 會議中心</div>
-                <div class="venue-tags">
-                    <span class="tag capacity">👥 45 人</span>
-                    <span class="tag price">💰 $7000/半天</span>
-                    <span class="tag">會議中心</span>
-                </div>
-            </div>
-        </div>
-
-        <div class="venue-card">
-            <img src="https://www.brotherhotel.com.tw/wp-content/uploads/2022/12/%E6%A1%82%E8%8A%B1%E5%BB%B3%E5%A4%96%E5%B8%B6%E8%8F%9C%E5%96%AEfinal-0125-1-853x1280.jpg" class="venue-image" alt="兄弟大飯店" onerror="this.src='data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 350 200%22><rect fill=%22%23e0e0e0%22 width=%22350%22 height=%22200%22/><text x=%22175%22 y=%22100%22 text-anchor=%22middle%22 fill=%22%23999%22 font-size=%2216%22>無照片</text></svg>'">
-            <div class="venue-content">
-                <div class="venue-name">兄弟大飯店</div>
-                <div class="venue-info"><strong>城市:</strong> 台北市</div>
-                <div class="venue-info"><strong>會議室:</strong> 宴會廳</div>
-                <div class="venue-info"><strong>類型:</strong> 婚宴場地</div>
-                <div class="venue-tags">
-                    <span class="tag capacity">👥 350 人</span>
-                    <span class="tag price">💰 $40000/半天</span>
-                    <span class="tag">婚宴場地</span>
-                </div>
-            </div>
-        </div>
-
-        <div class="venue-card">
-            <img src="https://www.hrd.gov.tw/media/4298/service_01.png" class="venue-image" alt="公務人力發展學院" onerror="this.src='data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 350 200%22><rect fill=%22%23e0e0e0%22 width=%22350%22 height=%22200%22/><text x=%22175%22 y=%22100%22 text-anchor=%22middle%22 fill=%22%23999%22 font-size=%2216%22>無照片</text></svg>'">
-            <div class="venue-content">
-                <div class="venue-name">公務人力發展學院</div>
-                <div class="venue-info"><strong>城市:</strong> 台北市</div>
-                <div class="venue-info"><strong>會議室:</strong> 國際會議廳</div>
-                <div class="venue-info"><strong>類型:</strong> 會議中心</div>
-                <div class="venue-tags">
-                    <span class="tag capacity">👥 160 人</span>
-                    <span class="tag price">💰 $8000/半天</span>
-                    <span class="tag">會議中心</span>
-                </div>
-            </div>
-        </div>
-
-        <div class="venue-card">
-            <img src="https://www.marriott.com/marriottassets/destinations/featured/taipei-large.jpg" class="venue-image" alt="台北六福萬怡酒店 Courtyard by Marriott Taipei" onerror="this.src='data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 350 200%22><rect fill=%22%23e0e0e0%22 width=%22350%22 height=%22200%22/><text x=%22175%22 y=%22100%22 text-anchor=%22middle%22 fill=%22%23999%22 font-size=%2216%22>無照片</text></svg>'">
-            <div class="venue-content">
-                <div class="venue-name">台北六福萬怡酒店 Courtyard by Marriott Taipei</div>
-                <div class="venue-info"><strong>城市:</strong> 台北市</div>
-                <div class="venue-info"><strong>會議室:</strong> 萬怡廳</div>
-                <div class="venue-info"><strong>類型:</strong> 飯店場地</div>
-                <div class="venue-tags">
-                    <span class="tag capacity">👥 380 人</span>
-                    <span class="tag price">💰 $50000/半天</span>
-                    <span class="tag">飯店場地</span>
-                </div>
-            </div>
-        </div>
-
-        <div class="venue-card">
-            <img src="https://d1qlj1o6gdgqqt.cloudfront.net/wp-content/uploads/2026/02/image-12-1600x899.jpeg" class="venue-image" alt="典藏咖啡廳" onerror="this.src='data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 350 200%22><rect fill=%22%23e0e0e0%22 width=%22350%22 height=%22200%22/><text x=%22175%22 y=%22100%22 text-anchor=%22middle%22 fill=%22%23999%22 font-size=%2216%22>無照片</text></svg>'">
-            <div class="venue-content">
-                <div class="venue-name">典藏咖啡廳</div>
-                <div class="venue-info"><strong>城市:</strong> 台北市</div>
-                <div class="venue-info"><strong>會議室:</strong> 包場空間</div>
-                <div class="venue-info"><strong>類型:</strong> 咖啡廳</div>
-                <div class="venue-tags">
-                    <span class="tag capacity">👥 60 人</span>
-                    <span class="tag price">💰 $8000/半天</span>
-                    <span class="tag">咖啡廳</span>
-                </div>
-            </div>
-        </div>
-
-        <div class="venue-card">
-            <img src="https://www.ntut.edu.tw/var/file/7/1007/randimg/mobileadv_3973_5062299_87901.jpg" class="venue-image" alt="北科大創新育成中心" onerror="this.src='data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 350 200%22><rect fill=%22%23e0e0e0%22 width=%22350%22 height=%22200%22/><text x=%22175%22 y=%22100%22 text-anchor=%22middle%22 fill=%22%23999%22 font-size=%2216%22>無照片</text></svg>'">
-            <div class="venue-content">
-                <div class="venue-name">北科大創新育成中心</div>
-                <div class="venue-info"><strong>城市:</strong> 台北市</div>
-                <div class="venue-info"><strong>會議室:</strong> 會議室</div>
-                <div class="venue-info"><strong>類型:</strong> 會議中心</div>
-                <div class="venue-tags">
-                    <span class="tag capacity">👥 80 人</span>
-                    <span class="tag price">💰 $4000/半天</span>
-                    <span class="tag">會議中心</span>
-                </div>
-            </div>
-        </div>
-
-        <div class="venue-card">
-            <img src="https://www.twtc.com.tw/images/banner/b20211105154308.jpg" class="venue-image" alt="台北世貿中心(TWTCA)展覽大樓" onerror="this.src='data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 350 200%22><rect fill=%22%23e0e0e0%22 width=%22350%22 height=%22200%22/><text x=%22175%22 y=%22100%22 text-anchor=%22middle%22 fill=%22%23999%22 font-size=%2216%22>無照片</text></svg>'">
-            <div class="venue-content">
-                <div class="venue-name">台北世貿中心(TWTCA)展覽大樓</div>
-                <div class="venue-info"><strong>城市:</strong> 台北市</div>
-                <div class="venue-info"><strong>會議室:</strong> 第一會議室</div>
-                <div class="venue-info"><strong>類型:</strong> 展演場地</div>
-                <div class="venue-tags">
-                    <span class="tag capacity">👥 100 人</span>
-                    <span class="tag price">💰 $100000/半天</span>
-                    <span class="tag">展演場地</span>
-                </div>
-            </div>
-        </div>
-
-        <div class="venue-card">
-            <img src="https://taipei.landishotelsresorts.com/manage/upload/roomtype/1758907414_16016.jpg" class="venue-image" alt="台北亞都麗緻大飯店(LandisTaipei)" onerror="this.src='data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 350 200%22><rect fill=%22%23e0e0e0%22 width=%22350%22 height=%22200%22/><text x=%22175%22 y=%22100%22 text-anchor=%22middle%22 fill=%22%23999%22 font-size=%2216%22>無照片</text></svg>'">
-            <div class="venue-content">
-                <div class="venue-name">台北亞都麗緻大飯店(LandisTaipei)</div>
-                <div class="venue-info"><strong>城市:</strong> 台北市</div>
-                <div class="venue-info"><strong>會議室:</strong> 麗緻廳</div>
-                <div class="venue-info"><strong>類型:</strong> 飯店場地</div>
-                <div class="venue-tags">
-                    <span class="tag capacity">👥 350 人</span>
-                    <span class="tag price">💰 $70000/半天</span>
-                    <span class="tag">飯店場地</span>
-                </div>
-            </div>
-        </div>
-
-        <div class="venue-card">
-            <img src="https://www.brotherhotel.com.tw/wp-content/uploads/2022/12/%E6%A1%82%E8%8A%B1%E5%BB%B3%E5%A4%96%E5%B8%B6%E8%8F%9C%E5%96%AEfinal-0125-1-853x1280.jpg" class="venue-image" alt="台北兄弟大飯店(BrotherTaipei)" onerror="this.src='data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 350 200%22><rect fill=%22%23e0e0e0%22 width=%22350%22 height=%22200%22/><text x=%22175%22 y=%22100%22 text-anchor=%22middle%22 fill=%22%23999%22 font-size=%2216%22>無照片</text></svg>'">
-            <div class="venue-content">
-                <div class="venue-name">台北兄弟大飯店(BrotherTaipei)</div>
-                <div class="venue-info"><strong>城市:</strong> 台北市</div>
-                <div class="venue-info"><strong>會議室:</strong> 兄弟廳</div>
-                <div class="venue-info"><strong>類型:</strong> 婚宴場地</div>
-                <div class="venue-tags">
-                    <span class="tag capacity">👥 280 人</span>
-                    <span class="tag price">💰 $30000/半天</span>
-                    <span class="tag">婚宴場地</span>
-                </div>
-            </div>
-        </div>
-
-        <div class="venue-card">
-            <img src="https://www.sheratongrandtaipei.com/files/pages_1730459392142vj6g96_l.jpg" class="venue-image" alt="台北喜來登大飯店(SheratonTaipei)" onerror="this.src='data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 350 200%22><rect fill=%22%23e0e0e0%22 width=%22350%22 height=%22200%22/><text x=%22175%22 y=%22100%22 text-anchor=%22middle%22 fill=%22%23999%22 font-size=%2216%22>無照片</text></svg>'">
-            <div class="venue-content">
-                <div class="venue-name">台北喜來登大飯店(SheratonTaipei)</div>
-                <div class="venue-info"><strong>城市:</strong> 台北市</div>
-                <div class="venue-info"><strong>會議室:</strong> 喜來登廳</div>
-                <div class="venue-info"><strong>類型:</strong> 飯店場地</div>
-                <div class="venue-tags">
-                    <span class="tag capacity">👥 800 人</span>
-                    <span class="tag price">💰 $150000/半天</span>
-                    <span class="tag">飯店場地</span>
-                </div>
-            </div>
-        </div>
-
-        <div class="venue-card">
-            <img src="https://ww.ambiencehotel.com.tw/wp-content/uploads/2023/01/02.jpg" class="venue-image" alt="台北喜瑞飯店" onerror="this.src='data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 350 200%22><rect fill=%22%23e0e0e0%22 width=%22350%22 height=%22200%22/><text x=%22175%22 y=%22100%22 text-anchor=%22middle%22 fill=%22%23999%22 font-size=%2216%22>無照片</text></svg>'">
-            <div class="venue-content">
-                <div class="venue-name">台北喜瑞飯店</div>
-                <div class="venue-info"><strong>城市:</strong> 台北市</div>
-                <div class="venue-info"><strong>會議室:</strong> 喜瑞廳</div>
-                <div class="venue-info"><strong>類型:</strong> 飯店場地</div>
-                <div class="venue-tags">
-                    <span class="tag capacity">👥 250 人</span>
-                    <span class="tag price">💰 $28000/半天</span>
-                    <span class="tag">飯店場地</span>
-                </div>
-            </div>
-        </div>
-
-        <div class="venue-card">
-            <img src="https://www.grand-hotel.org/images/index/banquet.jpg" class="venue-image" alt="台北圓山大飯店" onerror="this.src='data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 350 200%22><rect fill=%22%23e0e0e0%22 width=%22350%22 height=%22200%22/><text x=%22175%22 y=%22100%22 text-anchor=%22middle%22 fill=%22%23999%22 font-size=%2216%22>無照片</text></svg>'">
-            <div class="venue-content">
-                <div class="venue-name">台北圓山大飯店</div>
-                <div class="venue-info"><strong>城市:</strong> 台北市</div>
-                <div class="venue-info"><strong>會議室:</strong> 大宴會廳</div>
-                <div class="venue-info"><strong>類型:</strong> 飯店場地</div>
-                <div class="venue-tags">
-                    <span class="tag capacity">👥 1000 人</span>
-                    <span class="tag price">💰 $200000/半天</span>
-                    <span class="tag">飯店場地</span>
-                </div>
-            </div>
-        </div>
-
-        <div class="venue-card">
-            <img src="https://www.sheratongrandtaipei.com/files/pages_1730459392142vj6g96_l.jpg" class="venue-image" alt="台北寒舍喜來登大飯店" onerror="this.src='data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 350 200%22><rect fill=%22%23e0e0e0%22 width=%22350%22 height=%22200%22/><text x=%22175%22 y=%22100%22 text-anchor=%22middle%22 fill=%22%23999%22 font-size=%2216%22>無照片</text></svg>'">
-            <div class="venue-content">
-                <div class="venue-name">台北寒舍喜來登大飯店</div>
-                <div class="venue-info"><strong>城市:</strong> 台北市</div>
-                <div class="venue-info"><strong>會議室:</strong> 綜合</div>
-                <div class="venue-info"><strong>類型:</strong> 其他</div>
-                <div class="venue-tags">
-                    
-                    
-                    <span class="tag">其他</span>
-                </div>
-            </div>
-        </div>
-
-        <div class="venue-card">
-            <img src="https://www.lemeridien-taipei.com/files/set_176986464614we4qi80.jpg" class="venue-image" alt="台北寒舍艾美酒店(LeMeridienTaipei)" onerror="this.src='data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 350 200%22><rect fill=%22%23e0e0e0%22 width=%22350%22 height=%22200%22/><text x=%22175%22 y=%22100%22 text-anchor=%22middle%22 fill=%22%23999%22 font-size=%2216%22>無照片</text></svg>'">
-            <div class="venue-content">
-                <div class="venue-name">台北寒舍艾美酒店(LeMeridienTaipei)</div>
-                <div class="venue-info"><strong>城市:</strong> 台北市</div>
-                <div class="venue-info"><strong>會議室:</strong> 探索廳</div>
-                <div class="venue-info"><strong>類型:</strong> 飯店場地</div>
-                <div class="venue-tags">
-                    <span class="tag capacity">👥 400 人</span>
-                    <span class="tag price">💰 $90000/半天</span>
-                    <span class="tag">飯店場地</span>
-                </div>
-            </div>
-        </div>
-
-        <div class="venue-card">
-            <img src="https://www.humblehousehotels.com/files/page_161581908711j4rck.jpg" class="venue-image" alt="台北寒舍艾麗酒店(HummerHouse)" onerror="this.src='data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 350 200%22><rect fill=%22%23e0e0e0%22 width=%22350%22 height=%22200%22/><text x=%22175%22 y=%22100%22 text-anchor=%22middle%22 fill=%22%23999%22 font-size=%2216%22>無照片</text></svg>'">
-            <div class="venue-content">
-                <div class="venue-name">台北寒舍艾麗酒店(HummerHouse)</div>
-                <div class="venue-info"><strong>城市:</strong> 台北市</div>
-                <div class="venue-info"><strong>會議室:</strong> 宴會廳</div>
-                <div class="venue-info"><strong>類型:</strong> 飯店場地</div>
-                <div class="venue-tags">
-                    <span class="tag capacity">👥 480 人</span>
-                    <span class="tag price">💰 $75000/半天</span>
-                    <span class="tag">飯店場地</span>
-                </div>
-            </div>
-        </div>
-
-        <div class="venue-card">
-            <img src="https://image-tc.galaxy.tf/wipng-8n3qtclk3uzpmf5j5r3hnph8x/file.png" class="venue-image" alt="台北怡亨酒店 Hotel Éclat Taipei" onerror="this.src='data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 350 200%22><rect fill=%22%23e0e0e0%22 width=%22350%22 height=%22200%22/><text x=%22175%22 y=%22100%22 text-anchor=%22middle%22 fill=%22%23999%22 font-size=%2216%22>無照片</text></svg>'">
-            <div class="venue-content">
-                <div class="venue-name">台北怡亨酒店 Hotel Éclat Taipei</div>
-                <div class="venue-info"><strong>城市:</strong> 台北市</div>
-                <div class="venue-info"><strong>會議室:</strong> 會議室</div>
-                <div class="venue-info"><strong>類型:</strong> 飯店場地</div>
-                <div class="venue-tags">
-                    <span class="tag capacity">👥 50 人</span>
-                    <span class="tag price">💰 $10000/半天</span>
-                    <span class="tag">飯店場地</span>
-                </div>
-            </div>
-        </div>
-
-        <div class="venue-card">
-            <img src="https://cache.marriott.com/is/image/marriotts7prod/cm-washingtondc-noma-wnm-206-31494" class="venue-image" alt="台北北門世民酒店 citizenM Taipei North Gate" onerror="this.src='data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 350 200%22><rect fill=%22%23e0e0e0%22 width=%22350%22 height=%22200%22/><text x=%22175%22 y=%22100%22 text-anchor=%22middle%22 fill=%22%23999%22 font-size=%2216%22>無照片</text></svg>'">
-            <div class="venue-content">
-                <div class="venue-name">台北北門世民酒店 citizenM Taipei North Gate</div>
-                <div class="venue-info"><strong>城市:</strong> 台北市</div>
-                <div class="venue-info"><strong>會議室:</strong> 意舍廳</div>
-                <div class="venue-info"><strong>類型:</strong> 飯店場地</div>
-                <div class="venue-tags">
-                    <span class="tag capacity">👥 300 人</span>
-                    <span class="tag price">💰 $35000/半天</span>
-                    <span class="tag">飯店場地</span>
-                </div>
-            </div>
-        </div>
-
-        <div class="venue-card">
-            <img src="https://media.ffycdn.net/eu/mandarin-oriental-hotel-group/Jky4E1LR9pmeMceT76wh.jpg" class="venue-image" alt="台北文華東方酒店(MOHTaipei)" onerror="this.src='data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 350 200%22><rect fill=%22%23e0e0e0%22 width=%22350%22 height=%22200%22/><text x=%22175%22 y=%22100%22 text-anchor=%22middle%22 fill=%22%23999%22 font-size=%2216%22>無照片</text></svg>'">
-            <div class="venue-content">
-                <div class="venue-name">台北文華東方酒店(MOHTaipei)</div>
-                <div class="venue-info"><strong>城市:</strong> 台北市</div>
-                <div class="venue-info"><strong>會議室:</strong> 文華廳</div>
-                <div class="venue-info"><strong>類型:</strong> 飯店場地</div>
-                <div class="venue-tags">
-                    <span class="tag capacity">👥 600 人</span>
-                    <span class="tag price">💰 $180000/半天</span>
-                    <span class="tag">飯店場地</span>
-                </div>
-            </div>
-        </div>
-
-        <div class="venue-card">
-            <img src="https://www.regenttaiwan.com/asset/types/main//images/uploads/regenttaipei/nav-regent-taipei-nav-overview.jpg" class="venue-image" alt="台北晶華酒店 Regent Taipei" onerror="this.src='data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 350 200%22><rect fill=%22%23e0e0e0%22 width=%22350%22 height=%22200%22/><text x=%22175%22 y=%22100%22 text-anchor=%22middle%22 fill=%22%23999%22 font-size=%2216%22>無照片</text></svg>'">
-            <div class="venue-content">
-                <div class="venue-name">台北晶華酒店 Regent Taipei</div>
-                <div class="venue-info"><strong>城市:</strong> 台北市</div>
-                <div class="venue-info"><strong>會議室:</strong> 大宴會廳</div>
-                <div class="venue-info"><strong>類型:</strong> 飯店場地</div>
-                <div class="venue-tags">
-                    <span class="tag capacity">👥 700 人</span>
-                    <span class="tag price">💰 $100000/半天</span>
-                    <span class="tag">飯店場地</span>
-                </div>
-            </div>
-        </div>
-
-        <div class="venue-card">
-            <img src="https://www.dynasty.com.tw/images/banner4.jpg" class="venue-image" alt="茹曦酒店 ILLUME TAIPEI" onerror="this.src='data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 350 200%22><rect fill=%22%23e0e0e0%22 width=%22350%22 height=%22200%22/><text x=%22175%22 y=%22100%22 text-anchor=%22middle%22 fill=%22%23999%22 font-size=%2216%22>無照片</text></svg>'">
-            <div class="venue-content">
-                <div class="venue-name">茹曦酒店 ILLUME TAIPEI</div>
-                <div class="venue-info"><strong>城市:</strong> 台北市</div>
-                <div class="venue-info"><strong>會議室:</strong> 宴會廳</div>
-                <div class="venue-info"><strong>類型:</strong> 飯店場地</div>
-                <div class="venue-tags">
-                    <span class="tag capacity">👥 400 人</span>
-                    <span class="tag price">💰 $45000/半天</span>
-                    <span class="tag">飯店場地</span>
-                </div>
-            </div>
-        </div>
-
-        <div class="venue-card">
-            <img src="https://www.grandmayfull.com/img/2025%20World%20Luxury%20Awards.png" class="venue-image" alt="台北美福大飯店" onerror="this.src='data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 350 200%22><rect fill=%22%23e0e0e0%22 width=%22350%22 height=%22200%22/><text x=%22175%22 y=%22100%22 text-anchor=%22middle%22 fill=%22%23999%22 font-size=%2216%22>無照片</text></svg>'">
-            <div class="venue-content">
-                <div class="venue-name">台北美福大飯店</div>
-                <div class="venue-info"><strong>城市:</strong> 台北市</div>
-                <div class="venue-info"><strong>會議室:</strong> 宴會廳</div>
-                <div class="venue-info"><strong>類型:</strong> 飯店場地</div>
-                <div class="venue-tags">
-                    <span class="tag capacity">👥 550 人</span>
-                    <span class="tag price">💰 $85000/半天</span>
-                    <span class="tag">飯店場地</span>
-                </div>
-            </div>
-        </div>
-
-        <div class="venue-card">
-            <img src="https://www.grandmayfull.com/img/2025%20World%20Luxury%20Awards.png" class="venue-image" alt="台北美福大飯店" onerror="this.src='data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 350 200%22><rect fill=%22%23e0e0e0%22 width=%22350%22 height=%22200%22/><text x=%22175%22 y=%22100%22 text-anchor=%22middle%22 fill=%22%23999%22 font-size=%2216%22>無照片</text></svg>'">
-            <div class="venue-content">
-                <div class="venue-name">台北美福大飯店</div>
-                <div class="venue-info"><strong>城市:</strong> 台北市</div>
-                <div class="venue-info"><strong>會議室:</strong> 美福廳</div>
-                <div class="venue-info"><strong>類型:</strong> 飯店場地</div>
-                <div class="venue-tags">
-                    <span class="tag capacity">👥 480 人</span>
-                    <span class="tag price">💰 $80000/半天</span>
-                    <span class="tag">飯店場地</span>
-                </div>
-            </div>
-        </div>
-
-        <div class="venue-card">
-            <img src="https://imagedelivery.net/a6-OYZSpZSiOriMeuFHR3w/0a658dbf-567c-4584-09aa-c4146693db00/public" class="venue-image" alt="台北老爺大酒店(RoyalInnTaipei)" onerror="this.src='data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 350 200%22><rect fill=%22%23e0e0e0%22 width=%22350%22 height=%22200%22/><text x=%22175%22 y=%22100%22 text-anchor=%22middle%22 fill=%22%23999%22 font-size=%2216%22>無照片</text></svg>'">
-            <div class="venue-content">
-                <div class="venue-name">台北老爺大酒店(RoyalInnTaipei)</div>
-                <div class="venue-info"><strong>城市:</strong> 台北市</div>
-                <div class="venue-info"><strong>會議室:</strong> 明園廳</div>
-                <div class="venue-info"><strong>類型:</strong> 飯店場地</div>
-                <div class="venue-tags">
-                    <span class="tag capacity">👥 320 人</span>
-                    <span class="tag price">💰 $45000/半天</span>
-                    <span class="tag">飯店場地</span>
-                </div>
-            </div>
-        </div>
-
-        <div class="venue-card">
-            <img src="https://le-meridien.marriott.com/wp-content/themes/marriott-master/assets/img/brandbar/devices.png" class="venue-image" alt="台北艾美酒店" onerror="this.src='data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 350 200%22><rect fill=%22%23e0e0e0%22 width=%22350%22 height=%22200%22/><text x=%22175%22 y=%22100%22 text-anchor=%22middle%22 fill=%22%23999%22 font-size=%2216%22>無照片</text></svg>'">
-            <div class="venue-content">
-                <div class="venue-name">台北艾美酒店</div>
-                <div class="venue-info"><strong>城市:</strong> 台北市</div>
-                <div class="venue-info"><strong>會議室:</strong> 大宴會廳</div>
-                <div class="venue-info"><strong>類型:</strong> 飯店場地</div>
-                <div class="venue-tags">
-                    <span class="tag capacity">👥 400 人</span>
-                    <span class="tag price">💰 $80000/半天</span>
-                    <span class="tag">飯店場地</span>
-                </div>
-            </div>
-        </div>
-
-        <div class="venue-card">
-            <img src="https://www.taipeigarden.com.tw/wp-content/uploads/sites/278/2023/03/10636247_10152352649698616_2574451134329955712_n-removebg-preview-1.png" class="venue-image" alt="台北花園大酒店(TGHotel)" onerror="this.src='data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 350 200%22><rect fill=%22%23e0e0e0%22 width=%22350%22 height=%22200%22/><text x=%22175%22 y=%22100%22 text-anchor=%22middle%22 fill=%22%23999%22 font-size=%2216%22>無照片</text></svg>'">
-            <div class="venue-content">
-                <div class="venue-name">台北花園大酒店(TGHotel)</div>
-                <div class="venue-info"><strong>城市:</strong> 台北市</div>
-                <div class="venue-info"><strong>會議室:</strong> 花園廳</div>
-                <div class="venue-info"><strong>類型:</strong> 飯店場地</div>
-                <div class="venue-tags">
-                    <span class="tag capacity">👥 300 人</span>
-                    <span class="tag price">💰 $35000/半天</span>
-                    <span class="tag">飯店場地</span>
-                </div>
-            </div>
-        </div>
-
-        <div class="venue-card">
-            <img src="https://www.taipeimarriott.com.tw/files/page_176900685014vqao357_s.jpg" class="venue-image" alt="台北萬豪酒店(MarriottTaipei)" onerror="this.src='data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 350 200%22><rect fill=%22%23e0e0e0%22 width=%22350%22 height=%22200%22/><text x=%22175%22 y=%22100%22 text-anchor=%22middle%22 fill=%22%23999%22 font-size=%2216%22>無照片</text></svg>'">
-            <div class="venue-content">
-                <div class="venue-name">台北萬豪酒店(MarriottTaipei)</div>
-                <div class="venue-info"><strong>城市:</strong> 台北市</div>
-                <div class="venue-info"><strong>會議室:</strong> 大宴會廳</div>
-                <div class="venue-info"><strong>類型:</strong> 飯店場地</div>
-                <div class="venue-tags">
-                    <span class="tag capacity">👥 600 人</span>
-                    <span class="tag price">💰 $90000/半天</span>
-                    <span class="tag">飯店場地</span>
-                </div>
-            </div>
-        </div>
-
-        <div class="venue-card">
-            <img src="https://event.ntu.edu.tw/azalea/2026/images/slide01.jpg" class="venue-image" alt="台大綜合體育館" onerror="this.src='data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 350 200%22><rect fill=%22%23e0e0e0%22 width=%22350%22 height=%22200%22/><text x=%22175%22 y=%22100%22 text-anchor=%22middle%22 fill=%22%23999%22 font-size=%2216%22>無照片</text></svg>'">
-            <div class="venue-content">
-                <div class="venue-name">台大綜合體育館</div>
-                <div class="venue-info"><strong>城市:</strong> 台北市</div>
-                <div class="venue-info"><strong>會議室:</strong> 主場館</div>
-                <div class="venue-info"><strong>類型:</strong> 運動場地</div>
-                <div class="venue-tags">
-                    <span class="tag capacity">👥 2000 人</span>
-                    <span class="tag price">💰 $40000/半天</span>
-                    <span class="tag">運動場地</span>
-                </div>
-            </div>
-        </div>
-
-        <div class="venue-card">
-            <img src="https://le-meridien.marriott.com/wp-content/themes/marriott-master/assets/img/brandbar/devices.png" class="venue-image" alt="寒舍艾美酒店" onerror="this.src='data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 350 200%22><rect fill=%22%23e0e0e0%22 width=%22350%22 height=%22200%22/><text x=%22175%22 y=%22100%22 text-anchor=%22middle%22 fill=%22%23999%22 font-size=%2216%22>無照片</text></svg>'">
-            <div class="venue-content">
-                <div class="venue-name">寒舍艾美酒店</div>
-                <div class="venue-info"><strong>城市:</strong> 台北市</div>
-                <div class="venue-info"><strong>會議室:</strong> 綜合</div>
-                <div class="venue-info"><strong>類型:</strong> 宴會廳</div>
-                <div class="venue-tags">
-                    
-                    
-                    <span class="tag">宴會廳</span>
-                </div>
-            </div>
-        </div>
-
-        <div class="venue-card">
-            <img src="https://www.pengyuan.com.tw/images/serenity.jpg" class="venue-image" alt="彭園婚宴會館" onerror="this.src='data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 350 200%22><rect fill=%22%23e0e0e0%22 width=%22350%22 height=%22200%22/><text x=%22175%22 y=%22100%22 text-anchor=%22middle%22 fill=%22%23999%22 font-size=%2216%22>無照片</text></svg>'">
-            <div class="venue-content">
-                <div class="venue-name">彭園婚宴會館</div>
-                <div class="venue-info"><strong>城市:</strong> 台北市</div>
-                <div class="venue-info"><strong>會議室:</strong> 彭園板橋店近捷運江子翠3號出口，店內共有龍鳳廳、雙喜廳及龍喜廳等三個廳，坪數為90坪、45坪、140坪，可容納人數分別為250人、120人、400人</div>
-                <div class="venue-info"><strong>類型:</strong> 婚宴場地</div>
-                <div class="venue-tags">
-                    <span class="tag capacity">👥 250 人</span>
-                    <span class="tag price">💰 $80000/半天</span>
-                    <span class="tag">婚宴場地</span>
-                </div>
-            </div>
-        </div>
-
-        <div class="venue-card">
-            <img src="https://www.sanwant.com/Traditional/images/about/sider_img.jpg" class="venue-image" alt="神旺大飯店" onerror="this.src='data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 350 200%22><rect fill=%22%23e0e0e0%22 width=%22350%22 height=%22200%22/><text x=%22175%22 y=%22100%22 text-anchor=%22middle%22 fill=%22%23999%22 font-size=%2216%22>無照片</text></svg>'">
-            <div class="venue-content">
-                <div class="venue-name">神旺大飯店</div>
-                <div class="venue-info"><strong>城市:</strong> 台北市</div>
-                <div class="venue-info"><strong>會議室:</strong> 宴會廳</div>
-                <div class="venue-info"><strong>類型:</strong> 飯店場地</div>
-                <div class="venue-tags">
-                    <span class="tag capacity">👥 350 人</span>
-                    <span class="tag price">💰 $40000/半天</span>
-                    <span class="tag">飯店場地</span>
-                </div>
-            </div>
-        </div>
-
-        <div class="venue-card">
-            <img src="https://grandvictoria.com.tw/wp-content/uploads/sites/237/2022/05/官網-首圖2.jpg" class="venue-image" alt="維多麗亞酒店" onerror="this.src='data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 350 200%22><rect fill=%22%23e0e0e0%22 width=%22350%22 height=%22200%22/><text x=%22175%22 y=%22100%22 text-anchor=%22middle%22 fill=%22%23999%22 font-size=%2216%22>無照片</text></svg>'">
-            <div class="venue-content">
-                <div class="venue-name">維多麗亞酒店</div>
-                <div class="venue-info"><strong>城市:</strong> 台北市</div>
-                <div class="venue-info"><strong>會議室:</strong> 大宴會廳 1F</div>
-                <div class="venue-info"><strong>類型:</strong> 飯店場地</div>
-                <div class="venue-tags">
-                    <span class="tag capacity">👥 350 人</span>
-                    <span class="tag price">💰 $45000/半天</span>
-                    <span class="tag">飯店場地</span>
-                </div>
-            </div>
-        </div>
-
-        <div class="venue-card">
-            <img src="https://www.taipeigarden.com.tw/wp-content/uploads/sites/278/2023/03/10636247_10152352649698616_2574451134329955712_n-removebg-preview-1.png" class="venue-image" alt="花園大酒店" onerror="this.src='data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 350 200%22><rect fill=%22%23e0e0e0%22 width=%22350%22 height=%22200%22/><text x=%22175%22 y=%22100%22 text-anchor=%22middle%22 fill=%22%23999%22 font-size=%2216%22>無照片</text></svg>'">
-            <div class="venue-content">
-                <div class="venue-name">花園大酒店</div>
-                <div class="venue-info"><strong>城市:</strong> 台北市</div>
-                <div class="venue-info"><strong>會議室:</strong> 宴會廳</div>
-                <div class="venue-info"><strong>類型:</strong> 飯店場地</div>
-                <div class="venue-tags">
-                    <span class="tag capacity">👥 400 人</span>
-                    <span class="tag price">💰 $50000/半天</span>
-                    <span class="tag">飯店場地</span>
-                </div>
-            </div>
-        </div>
-
-        <div class="venue-card">
-            <img src="https://media.huashan1914.com/WebUPD/huashan1914/Index/%E6%89%BE%E6%B4%BB%E5%8B%95(1).png" class="venue-image" alt="華山1914文化創意產業園區(Huashan1914)(Huashan1914)" onerror="this.src='data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 350 200%22><rect fill=%22%23e0e0e0%22 width=%22350%22 height=%22200%22/><text x=%22175%22 y=%22100%22 text-anchor=%22middle%22 fill=%22%23999%22 font-size=%2216%22>無照片</text></svg>'">
-            <div class="venue-content">
-                <div class="venue-name">華山1914文化創意產業園區(Huashan1914)(Huashan1914)</div>
-                <div class="venue-info"><strong>城市:</strong> 台北市</div>
-                <div class="venue-info"><strong>會議室:</strong> 中4A館 紅酒作業場</div>
-                <div class="venue-info"><strong>類型:</strong> 展演場地</div>
-                <div class="venue-tags">
-                    <span class="tag capacity">👥 350 人</span>
-                    <span class="tag price">💰 $25000/半天</span>
-                    <span class="tag">展演場地</span>
-                </div>
-            </div>
-        </div>
-
-        <div class="venue-card">
-            <img src="https://www.riverview.com.tw/wp-content/uploads/2025/12/DSC_0580-1.jpg" class="venue-image" alt="豪景大酒店" onerror="this.src='data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 350 200%22><rect fill=%22%23e0e0e0%22 width=%22350%22 height=%22200%22/><text x=%22175%22 y=%22100%22 text-anchor=%22middle%22 fill=%22%23999%22 font-size=%2216%22>無照片</text></svg>'">
-            <div class="venue-content">
-                <div class="venue-name">豪景大酒店</div>
-                <div class="venue-info"><strong>城市:</strong> 台北市</div>
-                <div class="venue-info"><strong>會議室:</strong> 宴會廳</div>
-                <div class="venue-info"><strong>類型:</strong> 飯店場地</div>
-                <div class="venue-tags">
-                    <span class="tag capacity">👥 300 人</span>
-                    <span class="tag price">💰 $35000/半天</span>
-                    <span class="tag">飯店場地</span>
-                </div>
-            </div>
-        </div>
-
-        <div class="venue-card">
-            <img src="https://www.meeting.com.tw/ntu/images/floor-ntu.png" class="venue-image" alt="集思台大會議中心(NTUCC)" onerror="this.src='data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 350 200%22><rect fill=%22%23e0e0e0%22 width=%22350%22 height=%22200%22/><text x=%22175%22 y=%22100%22 text-anchor=%22middle%22 fill=%22%23999%22 font-size=%2216%22>無照片</text></svg>'">
-            <div class="venue-content">
-                <div class="venue-name">集思台大會議中心(NTUCC)</div>
-                <div class="venue-info"><strong>城市:</strong> 台北市</div>
-                <div class="venue-info"><strong>會議室:</strong> 國際會議廳</div>
-                <div class="venue-info"><strong>類型:</strong> 會議中心</div>
-                <div class="venue-tags">
-                    <span class="tag capacity">👥 180 人</span>
-                    <span class="tag price">💰 $12000/半天</span>
-                    <span class="tag">會議中心</span>
-                </div>
-            </div>
-        </div>
-
-        <div class="venue-card">
-            <img src="https://77-67.com/wp-content/uploads/2025/03/%E9%9D%92%E9%9D%92%E9%A3%9F%E5%B0%9A_%E6%9C%83%E8%AD%B0%E5%B0%88%E6%A1%8802.jpg" class="venue-image" alt="青青婚宴會館" onerror="this.src='data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 350 200%22><rect fill=%22%23e0e0e0%22 width=%22350%22 height=%22200%22/><text x=%22175%22 y=%22100%22 text-anchor=%22middle%22 fill=%22%23999%22 font-size=%2216%22>無照片</text></svg>'">
-            <div class="venue-content">
-                <div class="venue-name">青青婚宴會館</div>
-                <div class="venue-info"><strong>城市:</strong> 台北市</div>
-                <div class="venue-info"><strong>會議室:</strong> 主題廳</div>
-                <div class="venue-info"><strong>類型:</strong> 婚宴場地</div>
-                <div class="venue-tags">
-                    <span class="tag capacity">👥 400 人</span>
-                    <span class="tag price">💰 $60000/半天</span>
-                    <span class="tag">婚宴場地</span>
-                </div>
-            </div>
-        </div>
-
-        <div class="venue-card">
-            <div class="venue-image" style="display:flex;align-items:center;justify-content:center;color:#999;">無照片</div>
-            <div class="venue-content">
-                <div class="venue-name">台東娜路彎大酒店 Naruwan Hotel</div>
-                <div class="venue-info"><strong>城市:</strong> 台東縣</div>
-                <div class="venue-info"><strong>會議室:</strong> 娜路彎廳</div>
-                <div class="venue-info"><strong>類型:</strong> 飯店場地</div>
-                <div class="venue-tags">
-                    <span class="tag capacity">👥 250 人</span>
-                    <span class="tag price">💰 $20000/半天</span>
-                    <span class="tag">飯店場地</span>
-                </div>
-            </div>
-        </div>
-
-        <div class="venue-card">
-            <div class="venue-image" style="display:flex;align-items:center;justify-content:center;color:#999;">無照片</div>
-            <div class="venue-content">
-                <div class="venue-name">嘉義耐斯王子大飯店 Nice Prince Hotel</div>
-                <div class="venue-info"><strong>城市:</strong> 嘉義市</div>
-                <div class="venue-info"><strong>會議室:</strong> 宴會廳</div>
-                <div class="venue-info"><strong>類型:</strong> 飯店場地</div>
-                <div class="venue-tags">
-                    <span class="tag capacity">👥 300 人</span>
-                    <span class="tag price">💰 $30000/半天</span>
-                    <span class="tag">飯店場地</span>
-                </div>
-            </div>
-        </div>
-
-        <div class="venue-card">
-            <div class="venue-image" style="display:flex;align-items:center;justify-content:center;color:#999;">無照片</div>
-            <div class="venue-content">
-                <div class="venue-name">嘉義長榮文苑酒店 Evergreen Palace Hotel Chiayi</div>
-                <div class="venue-info"><strong>城市:</strong> 嘉義縣</div>
-                <div class="venue-info"><strong>會議室:</strong> 宴會廳</div>
-                <div class="venue-info"><strong>類型:</strong> 飯店場地</div>
-                <div class="venue-tags">
-                    <span class="tag capacity">👥 350 人</span>
-                    <span class="tag price">💰 $45000/半天</span>
-                    <span class="tag">飯店場地</span>
-                </div>
-            </div>
-        </div>
-
-        <div class="venue-card">
-            <img src="https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800" class="venue-image" alt="基隆長榮桂冠酒店 Evergreen Laurel Hotel Keelung" onerror="this.src='data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 350 200%22><rect fill=%22%23e0e0e0%22 width=%22350%22 height=%22200%22/><text x=%22175%22 y=%22100%22 text-anchor=%22middle%22 fill=%22%23999%22 font-size=%2216%22>無照片</text></svg>'">
-            <div class="venue-content">
-                <div class="venue-name">基隆長榮桂冠酒店 Evergreen Laurel Hotel Keelung</div>
-                <div class="venue-info"><strong>城市:</strong> 基隆市</div>
-                <div class="venue-info"><strong>會議室:</strong> 宴會廳</div>
-                <div class="venue-info"><strong>類型:</strong> 飯店場地</div>
-                <div class="venue-tags">
-                    <span class="tag capacity">👥 350 人</span>
-                    <span class="tag price">💰 $45000/半天</span>
-                    <span class="tag">飯店場地</span>
-                </div>
-            </div>
-        </div>
-
-        <div class="venue-card">
-            <img src="https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800" class="venue-image" alt="將捷金鬱金香酒店 Golden Tulip FAB Hotel" onerror="this.src='data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 350 200%22><rect fill=%22%23e0e0e0%22 width=%22350%22 height=%22200%22/><text x=%22175%22 y=%22100%22 text-anchor=%22middle%22 fill=%22%23999%22 font-size=%2216%22>無照片</text></svg>'">
-            <div class="venue-content">
-                <div class="venue-name">將捷金鬱金香酒店 Golden Tulip FAB Hotel</div>
-                <div class="venue-info"><strong>城市:</strong> 新北市</div>
-                <div class="venue-info"><strong>會議室:</strong> 宴會廳</div>
-                <div class="venue-info"><strong>類型:</strong> 飯店場地</div>
-                <div class="venue-tags">
-                    <span class="tag capacity">👥 400 人</span>
-                    <span class="tag price">💰 $50000/半天</span>
-                    <span class="tag">飯店場地</span>
-                </div>
-            </div>
-        </div>
-
-        <div class="venue-card">
-            <div class="venue-image" style="display:flex;align-items:center;justify-content:center;color:#999;">無照片</div>
-            <div class="venue-content">
-                <div class="venue-name">新竹豐邑喜來登大飯店 Sheraton Hsinchu Hotel</div>
-                <div class="venue-info"><strong>城市:</strong> 新竹縣</div>
-                <div class="venue-info"><strong>會議室:</strong> 宴會廳</div>
-                <div class="venue-info"><strong>類型:</strong> 飯店場地</div>
-                <div class="venue-tags">
-                    <span class="tag capacity">👥 450 人</span>
-                    <span class="tag price">💰 $65000/半天</span>
-                    <span class="tag">飯店場地</span>
-                </div>
-            </div>
-        </div>
-
-        <div class="venue-card">
-            <div class="venue-image" style="display:flex;align-items:center;justify-content:center;color:#999;">無照片</div>
-            <div class="venue-content">
-                <div class="venue-name">桃園南方莊園度假飯店 South Garden Hotels and Resorts</div>
-                <div class="venue-info"><strong>城市:</strong> 桃園市</div>
-                <div class="venue-info"><strong>會議室:</strong> 莊園廳</div>
-                <div class="venue-info"><strong>類型:</strong> 飯店場地</div>
-                <div class="venue-tags">
-                    <span class="tag capacity">👥 350 人</span>
-                    <span class="tag price">💰 $40000/半天</span>
-                    <span class="tag">飯店場地</span>
-                </div>
-            </div>
-        </div>
-
-        <div class="venue-card">
-            <div class="venue-image" style="display:flex;align-items:center;justify-content:center;color:#999;">無照片</div>
-            <div class="venue-content">
-                <div class="venue-name">澎湖福朋喜來登酒店 Four Points by Sheraton Penghu</div>
-                <div class="venue-info"><strong>城市:</strong> 澎湖縣</div>
-                <div class="venue-info"><strong>會議室:</strong> 宴會廳</div>
-                <div class="venue-info"><strong>類型:</strong> 飯店場地</div>
-                <div class="venue-tags">
-                    <span class="tag capacity">👥 300 人</span>
-                    <span class="tag price">💰 $35000/半天</span>
-                    <span class="tag">飯店場地</span>
-                </div>
-            </div>
-        </div>
-
-        <div class="venue-card">
-            <img src="https://www.sheratongrandtaipei.com/files/pages_1730459392142vj6g96_l.jpg" class="venue-image" alt="台北喜來登大飯店(SheratonTaipei)" onerror="this.src='data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 350 200%22><rect fill=%22%23e0e0e0%22 width=%22350%22 height=%22200%22/><text x=%22175%22 y=%22100%22 text-anchor=%22middle%22 fill=%22%23999%22 font-size=%2216%22>無照片</text></svg>'">
-            <div class="venue-content">
-                <div class="venue-name">台北喜來登大飯店(SheratonTaipei)</div>
-                <div class="venue-info"><strong>城市:</strong> 台北市</div>
-                <div class="venue-info"><strong>會議室:</strong> 大宴會廳</div>
-                <div class="venue-info"><strong>類型:</strong> 飯店場地</div>
-                <div class="venue-tags">
-                    <span class="tag capacity">👥 500 人</span>
-                    <span class="tag price">💰 $100000/半天</span>
-                    <span class="tag">飯店場地</span>
-                </div>
-            </div>
-        </div>
-
-        <div class="venue-card">
-            <img src="https://www.sheratongrandtaipei.com/files/pages_1730459392142vj6g96_l.jpg" class="venue-image" alt="台北喜來登大飯店(SheratonTaipei)" onerror="this.src='data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 350 200%22><rect fill=%22%23e0e0e0%22 width=%22350%22 height=%22200%22/><text x=%22175%22 y=%22100%22 text-anchor=%22middle%22 fill=%22%23999%22 font-size=%2216%22>無照片</text></svg>'">
-            <div class="venue-content">
-                <div class="venue-name">台北喜來登大飯店(SheratonTaipei)</div>
-                <div class="venue-info"><strong>城市:</strong> 台北市</div>
-                <div class="venue-info"><strong>會議室:</strong> 中宴會廳</div>
-                <div class="venue-info"><strong>類型:</strong> 飯店場地</div>
-                <div class="venue-tags">
-                    <span class="tag capacity">👥 200 人</span>
-                    <span class="tag price">💰 $50000/半天</span>
-                    <span class="tag">飯店場地</span>
-                </div>
-            </div>
-        </div>
-
-        <div class="venue-card">
-            <img src="https://www.sheratongrandtaipei.com/files/pages_1730459392142vj6g96_l.jpg" class="venue-image" alt="台北喜來登大飯店(SheratonTaipei)" onerror="this.src='data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 350 200%22><rect fill=%22%23e0e0e0%22 width=%22350%22 height=%22200%22/><text x=%22175%22 y=%22100%22 text-anchor=%22middle%22 fill=%22%23999%22 font-size=%2216%22>無照片</text></svg>'">
-            <div class="venue-content">
-                <div class="venue-name">台北喜來登大飯店(SheratonTaipei)</div>
-                <div class="venue-info"><strong>城市:</strong> 台北市</div>
-                <div class="venue-info"><strong>會議室:</strong> 會議室101</div>
-                <div class="venue-info"><strong>類型:</strong> 飯店場地</div>
-                <div class="venue-tags">
-                    <span class="tag capacity">👥 720 人</span>
-                    <span class="tag price">💰 $67000/半天</span>
-                    <span class="tag">飯店場地</span>
-                </div>
-            </div>
-        </div>
-
-        <div class="venue-card">
-            <img src="https://www.sheratongrandtaipei.com/files/pages_1730459392142vj6g96_l.jpg" class="venue-image" alt="台北喜來登大飯店(SheratonTaipei)" onerror="this.src='data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 350 200%22><rect fill=%22%23e0e0e0%22 width=%22350%22 height=%22200%22/><text x=%22175%22 y=%22100%22 text-anchor=%22middle%22 fill=%22%23999%22 font-size=%2216%22>無照片</text></svg>'">
-            <div class="venue-content">
-                <div class="venue-name">台北喜來登大飯店(SheratonTaipei)</div>
-                <div class="venue-info"><strong>城市:</strong> 台北市</div>
-                <div class="venue-info"><strong>會議室:</strong> 會議室102</div>
-                <div class="venue-info"><strong>類型:</strong> 飯店場地</div>
-                <div class="venue-tags">
-                    <span class="tag capacity">👥 40 人</span>
-                    <span class="tag price">💰 $12000/半天</span>
-                    <span class="tag">飯店場地</span>
-                </div>
-            </div>
-        </div>
-
-        <div class="venue-card">
-            <img src="https://www.grand-hotel.org/images/index/banquet.jpg" class="venue-image" alt="台北圓山大飯店" onerror="this.src='data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 350 200%22><rect fill=%22%23e0e0e0%22 width=%22350%22 height=%22200%22/><text x=%22175%22 y=%22100%22 text-anchor=%22middle%22 fill=%22%23999%22 font-size=%2216%22>無照片</text></svg>'">
-            <div class="venue-content">
-                <div class="venue-name">台北圓山大飯店</div>
-                <div class="venue-info"><strong>城市:</strong> 台北市</div>
-                <div class="venue-info"><strong>會議室:</strong> 松柏廳</div>
-                <div class="venue-info"><strong>類型:</strong> 飯店場地</div>
-                <div class="venue-tags">
-                    <span class="tag capacity">👥 400 人</span>
-                    <span class="tag price">💰 $80000/半天</span>
-                    <span class="tag">飯店場地</span>
-                </div>
-            </div>
-        </div>
-
-        <div class="venue-card">
-            <img src="https://www.grand-hotel.org/images/index/banquet.jpg" class="venue-image" alt="台北圓山大飯店" onerror="this.src='data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 350 200%22><rect fill=%22%23e0e0e0%22 width=%22350%22 height=%22200%22/><text x=%22175%22 y=%22100%22 text-anchor=%22middle%22 fill=%22%23999%22 font-size=%2216%22>無照片</text></svg>'">
-            <div class="venue-content">
-                <div class="venue-name">台北圓山大飯店</div>
-                <div class="venue-info"><strong>城市:</strong> 台北市</div>
-                <div class="venue-info"><strong>會議室:</strong> 麒麟廳</div>
-                <div class="venue-info"><strong>類型:</strong> 飯店場地</div>
-                <div class="venue-tags">
-                    <span class="tag capacity">👥 300 人</span>
-                    <span class="tag price">💰 $60000/半天</span>
-                    <span class="tag">飯店場地</span>
-                </div>
-            </div>
-        </div>
-
-        <div class="venue-card">
-            <img src="https://www.grand-hotel.org/images/index/banquet.jpg" class="venue-image" alt="台北圓山大飯店" onerror="this.src='data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 350 200%22><rect fill=%22%23e0e0e0%22 width=%22350%22 height=%22200%22/><text x=%22175%22 y=%22100%22 text-anchor=%22middle%22 fill=%22%23999%22 font-size=%2216%22>無照片</text></svg>'">
-            <div class="venue-content">
-                <div class="venue-name">台北圓山大飯店</div>
-                <div class="venue-info"><strong>城市:</strong> 台北市</div>
-                <div class="venue-info"><strong>會議室:</strong> 金龍廳</div>
-                <div class="venue-info"><strong>類型:</strong> 飯店場地</div>
-                <div class="venue-tags">
-                    <span class="tag capacity">👥 150 人</span>
-                    <span class="tag price">💰 $35000/半天</span>
-                    <span class="tag">飯店場地</span>
-                </div>
-            </div>
-        </div>
-
-        <div class="venue-card">
-            <img src="https://www.grand-hotel.org/images/index/banquet.jpg" class="venue-image" alt="台北圓山大飯店" onerror="this.src='data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 350 200%22><rect fill=%22%23e0e0e0%22 width=%22350%22 height=%22200%22/><text x=%22175%22 y=%22100%22 text-anchor=%22middle%22 fill=%22%23999%22 font-size=%2216%22>無照片</text></svg>'">
-            <div class="venue-content">
-                <div class="venue-name">台北圓山大飯店</div>
-                <div class="venue-info"><strong>城市:</strong> 台北市</div>
-                <div class="venue-info"><strong>會議室:</strong> 會議室A</div>
-                <div class="venue-info"><strong>類型:</strong> 飯店場地</div>
-                <div class="venue-tags">
-                    <span class="tag capacity">👥 80 人</span>
-                    <span class="tag price">💰 $20000/半天</span>
-                    <span class="tag">飯店場地</span>
-                </div>
-            </div>
-        </div>
-
-        <div class="venue-card">
-            <img src="https://media.ffycdn.net/eu/mandarin-oriental-hotel-group/GmcgMuVzzkvYKiDM9GXx.JPG" class="venue-image" alt="台北文華東方酒店(MOHTaipei)" onerror="this.src='data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 350 200%22><rect fill=%22%23e0e0e0%22 width=%22350%22 height=%22200%22/><text x=%22175%22 y=%22100%22 text-anchor=%22middle%22 fill=%22%23999%22 font-size=%2216%22>無照片</text></svg>'">
-            <div class="venue-content">
-                <div class="venue-name">台北文華東方酒店(MOHTaipei)</div>
-                <div class="venue-info"><strong>城市:</strong> 台北市</div>
-                <div class="venue-info"><strong>會議室:</strong> 東方廳</div>
-                <div class="venue-info"><strong>類型:</strong> 飯店場地</div>
-                <div class="venue-tags">
-                    <span class="tag capacity">👥 300 人</span>
-                    <span class="tag price">💰 $100000/半天</span>
-                    <span class="tag">飯店場地</span>
-                </div>
-            </div>
-        </div>
-
-        <div class="venue-card">
-            <img src="https://media.ffycdn.net/eu/mandarin-oriental-hotel-group/oy6E3rsLkt5vaNhNAcTM.jpg" class="venue-image" alt="台北文華東方酒店(MOHTaipei)" onerror="this.src='data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 350 200%22><rect fill=%22%23e0e0e0%22 width=%22350%22 height=%22200%22/><text x=%22175%22 y=%22100%22 text-anchor=%22middle%22 fill=%22%23999%22 font-size=%2216%22>無照片</text></svg>'">
-            <div class="venue-content">
-                <div class="venue-name">台北文華東方酒店(MOHTaipei)</div>
-                <div class="venue-info"><strong>城市:</strong> 台北市</div>
-                <div class="venue-info"><strong>會議室:</strong> 宴會廳A</div>
-                <div class="venue-info"><strong>類型:</strong> 飯店場地</div>
-                <div class="venue-tags">
-                    <span class="tag capacity">👥 200 人</span>
-                    <span class="tag price">💰 $70000/半天</span>
-                    <span class="tag">飯店場地</span>
-                </div>
-            </div>
-        </div>
-
-        <div class="venue-card">
-            <img src="https://media.ffycdn.net/eu/mandarin-oriental-hotel-group/oy6E3rsLkt5vaNhNAcTM.jpg" class="venue-image" alt="台北文華東方酒店(MOHTaipei)" onerror="this.src='data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 350 200%22><rect fill=%22%23e0e0e0%22 width=%22350%22 height=%22200%22/><text x=%22175%22 y=%22100%22 text-anchor=%22middle%22 fill=%22%23999%22 font-size=%2216%22>無照片</text></svg>'">
-            <div class="venue-content">
-                <div class="venue-name">台北文華東方酒店(MOHTaipei)</div>
-                <div class="venue-info"><strong>城市:</strong> 台北市</div>
-                <div class="venue-info"><strong>會議室:</strong> 宴會廳B</div>
-                <div class="venue-info"><strong>類型:</strong> 飯店場地</div>
-                <div class="venue-tags">
-                    <span class="tag capacity">👥 200 人</span>
-                    <span class="tag price">💰 $70000/半天</span>
-                    <span class="tag">飯店場地</span>
-                </div>
-            </div>
-        </div>
-
-        <div class="venue-card">
-            <img src="https://media.ffycdn.net/eu/mandarin-oriental-hotel-group/oy6E3rsLkt5vaNhNAcTM.jpg" class="venue-image" alt="台北文華東方酒店(MOHTaipei)" onerror="this.src='data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 350 200%22><rect fill=%22%23e0e0e0%22 width=%22350%22 height=%22200%22/><text x=%22175%22 y=%22100%22 text-anchor=%22middle%22 fill=%22%23999%22 font-size=%2216%22>無照片</text></svg>'">
-            <div class="venue-content">
-                <div class="venue-name">台北文華東方酒店(MOHTaipei)</div>
-                <div class="venue-info"><strong>城市:</strong> 台北市</div>
-                <div class="venue-info"><strong>會議室:</strong> 會議室1</div>
-                <div class="venue-info"><strong>類型:</strong> 飯店場地</div>
-                <div class="venue-tags">
-                    <span class="tag capacity">👥 50 人</span>
-                    <span class="tag price">💰 $25000/半天</span>
-                    <span class="tag">飯店場地</span>
-                </div>
-            </div>
-        </div>
-
-        <div class="venue-card">
-            <img src="https://le-meridien.marriott.com/wp-content/themes/marriott-master/assets/img/brandbar/devices.png" class="venue-image" alt="台北寒舍艾美酒店(LeMeridienTaipei)" onerror="this.src='data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 350 200%22><rect fill=%22%23e0e0e0%22 width=%22350%22 height=%22200%22/><text x=%22175%22 y=%22100%22 text-anchor=%22middle%22 fill=%22%23999%22 font-size=%2216%22>無照片</text></svg>'">
-            <div class="venue-content">
-                <div class="venue-name">台北寒舍艾美酒店(LeMeridienTaipei)</div>
-                <div class="venue-info"><strong>城市:</strong> 台北市</div>
-                <div class="venue-info"><strong>會議室:</strong> 艾美廳</div>
-                <div class="venue-info"><strong>類型:</strong> 飯店場地</div>
-                <div class="venue-tags">
-                    <span class="tag capacity">👥 250 人</span>
-                    <span class="tag price">💰 $55000/半天</span>
-                    <span class="tag">飯店場地</span>
-                </div>
-            </div>
-        </div>
-
-        <div class="venue-card">
-            <img src="https://le-meridien.marriott.com/wp-content/themes/marriott-master/assets/img/brandbar/devices.png" class="venue-image" alt="台北寒舍艾美酒店(LeMeridienTaipei)" onerror="this.src='data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 350 200%22><rect fill=%22%23e0e0e0%22 width=%22350%22 height=%22200%22/><text x=%22175%22 y=%22100%22 text-anchor=%22middle%22 fill=%22%23999%22 font-size=%2216%22>無照片</text></svg>'">
-            <div class="venue-content">
-                <div class="venue-name">台北寒舍艾美酒店(LeMeridienTaipei)</div>
-                <div class="venue-info"><strong>城市:</strong> 台北市</div>
-                <div class="venue-info"><strong>會議室:</strong> 宴會廳</div>
-                <div class="venue-info"><strong>類型:</strong> 飯店場地</div>
-                <div class="venue-tags">
-                    <span class="tag capacity">👥 180 人</span>
-                    <span class="tag price">💰 $40000/半天</span>
-                    <span class="tag">飯店場地</span>
-                </div>
-            </div>
-        </div>
-
-        <div class="venue-card">
-            <img src="https://le-meridien.marriott.com/wp-content/themes/marriott-master/assets/img/brandbar/devices.png" class="venue-image" alt="台北寒舍艾美酒店(LeMeridienTaipei)" onerror="this.src='data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 350 200%22><rect fill=%22%23e0e0e0%22 width=%22350%22 height=%22200%22/><text x=%22175%22 y=%22100%22 text-anchor=%22middle%22 fill=%22%23999%22 font-size=%2216%22>無照片</text></svg>'">
-            <div class="venue-content">
-                <div class="venue-name">台北寒舍艾美酒店(LeMeridienTaipei)</div>
-                <div class="venue-info"><strong>城市:</strong> 台北市</div>
-                <div class="venue-info"><strong>會議室:</strong> 會議室1</div>
-                <div class="venue-info"><strong>類型:</strong> 飯店場地</div>
-                <div class="venue-tags">
-                    <span class="tag capacity">👥 60 人</span>
-                    <span class="tag price">💰 $16000/半天</span>
-                    <span class="tag">飯店場地</span>
-                </div>
-            </div>
-        </div>
-
-        <div class="venue-card">
-            <img src="https://le-meridien.marriott.com/wp-content/themes/marriott-master/assets/img/brandbar/devices.png" class="venue-image" alt="台北寒舍艾美酒店(LeMeridienTaipei)" onerror="this.src='data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 350 200%22><rect fill=%22%23e0e0e0%22 width=%22350%22 height=%22200%22/><text x=%22175%22 y=%22100%22 text-anchor=%22middle%22 fill=%22%23999%22 font-size=%2216%22>無照片</text></svg>'">
-            <div class="venue-content">
-                <div class="venue-name">台北寒舍艾美酒店(LeMeridienTaipei)</div>
-                <div class="venue-info"><strong>城市:</strong> 台北市</div>
-                <div class="venue-info"><strong>會議室:</strong> 會議室2</div>
-                <div class="venue-info"><strong>類型:</strong> 飯店場地</div>
-                <div class="venue-tags">
-                    <span class="tag capacity">👥 40 人</span>
-                    <span class="tag price">💰 $12000/半天</span>
-                    <span class="tag">飯店場地</span>
-                </div>
-            </div>
-        </div>
-
-        <div class="venue-card">
-            <img src="https://static.wixstatic.com/media/a9b95d_e21e4eed088c424685467dfbcfd17cef~mv2.png/v1/fill/w_1280,h_864,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/a9b95d_e21e4eed088c424685467dfbcfd17cef~mv2.png" class="venue-image" alt="台北亞都麗緻大飯店(LandisTaipei)" onerror="this.src='data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 350 200%22><rect fill=%22%23e0e0e0%22 width=%22350%22 height=%22200%22/><text x=%22175%22 y=%22100%22 text-anchor=%22middle%22 fill=%22%23999%22 font-size=%2216%22>無照片</text></svg>'">
-            <div class="venue-content">
-                <div class="venue-name">台北亞都麗緻大飯店(LandisTaipei)</div>
-                <div class="venue-info"><strong>城市:</strong> 台北市</div>
-                <div class="venue-info"><strong>會議室:</strong> 宴會廳</div>
-                <div class="venue-info"><strong>類型:</strong> 飯店場地</div>
-                <div class="venue-tags">
-                    <span class="tag capacity">👥 200 人</span>
-                    <span class="tag price">💰 $45000/半天</span>
-                    <span class="tag">飯店場地</span>
-                </div>
-            </div>
-        </div>
-
-        <div class="venue-card">
-            <img src="https://static.wixstatic.com/media/a9b95d_e21e4eed088c424685467dfbcfd17cef~mv2.png/v1/fill/w_1280,h_864,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/a9b95d_e21e4eed088c424685467dfbcfd17cef~mv2.png" class="venue-image" alt="台北亞都麗緻大飯店(LandisTaipei)" onerror="this.src='data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 350 200%22><rect fill=%22%23e0e0e0%22 width=%22350%22 height=%22200%22/><text x=%22175%22 y=%22100%22 text-anchor=%22middle%22 fill=%22%23999%22 font-size=%2216%22>無照片</text></svg>'">
-            <div class="venue-content">
-                <div class="venue-name">台北亞都麗緻大飯店(LandisTaipei)</div>
-                <div class="venue-info"><strong>城市:</strong> 台北市</div>
-                <div class="venue-info"><strong>會議室:</strong> 會議室</div>
-                <div class="venue-info"><strong>類型:</strong> 飯店場地</div>
-                <div class="venue-tags">
-                    <span class="tag capacity">👥 60 人</span>
-                    <span class="tag price">💰 $15000/半天</span>
-                    <span class="tag">飯店場地</span>
-                </div>
-            </div>
-        </div>
-
-        <div class="venue-card">
-            <img src="https://clbc.tw/wp-content/uploads/2019/02/daanmain-001-1.jpg" class="venue-image" alt="CLBC大安商務中心" onerror="this.src='data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 350 200%22><rect fill=%22%23e0e0e0%22 width=%22350%22 height=%22200%22/><text x=%22175%22 y=%22100%22 text-anchor=%22middle%22 fill=%22%23999%22 font-size=%2216%22>無照片</text></svg>'">
-            <div class="venue-content">
-                <div class="venue-name">CLBC大安商務中心</div>
-                <div class="venue-info"><strong>城市:</strong> 台北市</div>
-                <div class="venue-info"><strong>會議室:</strong> 會議室B</div>
-                <div class="venue-info"><strong>類型:</strong> 會議中心</div>
-                <div class="venue-tags">
-                    <span class="tag capacity">👥 8 人</span>
-                    <span class="tag price">💰 $6000/半天</span>
-                    <span class="tag">會議中心</span>
-                </div>
-            </div>
-        </div>
-
-        <div class="venue-card">
-            <img src="https://clbc.tw/wp-content/uploads/2019/02/daanmain-001-1.jpg" class="venue-image" alt="CLBC大安商務中心" onerror="this.src='data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 350 200%22><rect fill=%22%23e0e0e0%22 width=%22350%22 height=%22200%22/><text x=%22175%22 y=%22100%22 text-anchor=%22middle%22 fill=%22%23999%22 font-size=%2216%22>無照片</text></svg>'">
-            <div class="venue-content">
-                <div class="venue-name">CLBC大安商務中心</div>
-                <div class="venue-info"><strong>城市:</strong> 台北市</div>
-                <div class="venue-info"><strong>會議室:</strong> 會議室C</div>
-                <div class="venue-info"><strong>類型:</strong> 會議中心</div>
-                <div class="venue-tags">
-                    <span class="tag capacity">👥 8 人</span>
-                    <span class="tag price">💰 $5000/半天</span>
-                    <span class="tag">會議中心</span>
-                </div>
-            </div>
-        </div>
-
-        <div class="venue-card">
-            <img src="https://www.ticc.com.tw/wSite/public/Img/f1687945050916.jpg" class="venue-image" alt="台北國際會議中心(TICC)" onerror="this.src='data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 350 200%22><rect fill=%22%23e0e0e0%22 width=%22350%22 height=%22200%22/><text x=%22175%22 y=%22100%22 text-anchor=%22middle%22 fill=%22%23999%22 font-size=%2216%22>無照片</text></svg>'">
-            <div class="venue-content">
-                <div class="venue-name">台北國際會議中心(TICC)</div>
-                <div class="venue-info"><strong>城市:</strong> 台北市</div>
-                <div class="venue-info"><strong>會議室:</strong> 大會堂</div>
-                <div class="venue-info"><strong>類型:</strong> 會議中心</div>
-                <div class="venue-tags">
-                    
-                    <span class="tag price">💰 $159000/半天</span>
-                    <span class="tag">會議中心</span>
-                </div>
-            </div>
-        </div>
-
-        <div class="venue-card">
-            <img src="https://www.ticc.com.tw/wSite/public/Img/f1687945050916.jpg" class="venue-image" alt="台北國際會議中心(TICC)" onerror="this.src='data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 350 200%22><rect fill=%22%23e0e0e0%22 width=%22350%22 height=%22200%22/><text x=%22175%22 y=%22100%22 text-anchor=%22middle%22 fill=%22%23999%22 font-size=%2216%22>無照片</text></svg>'">
-            <div class="venue-content">
-                <div class="venue-name">台北國際會議中心(TICC)</div>
-                <div class="venue-info"><strong>城市:</strong> 台北市</div>
-                <div class="venue-info"><strong>會議室:</strong> 101AB</div>
-                <div class="venue-info"><strong>類型:</strong> 會議中心</div>
-                <div class="venue-tags">
-                    
-                    <span class="tag price">💰 $39000/半天</span>
-                    <span class="tag">會議中心</span>
-                </div>
-            </div>
-        </div>
-
-        <div class="venue-card">
-            <img src="https://www.ticc.com.tw/wSite/public/Img/f1687945050916.jpg" class="venue-image" alt="台北國際會議中心(TICC)" onerror="this.src='data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 350 200%22><rect fill=%22%23e0e0e0%22 width=%22350%22 height=%22200%22/><text x=%22175%22 y=%22100%22 text-anchor=%22middle%22 fill=%22%23999%22 font-size=%2216%22>無照片</text></svg>'">
-            <div class="venue-content">
-                <div class="venue-name">台北國際會議中心(TICC)</div>
-                <div class="venue-info"><strong>城市:</strong> 台北市</div>
-                <div class="venue-info"><strong>會議室:</strong> 101B</div>
-                <div class="venue-info"><strong>類型:</strong> 會議中心</div>
-                <div class="venue-tags">
-                    
-                    <span class="tag price">💰 $22000/半天</span>
-                    <span class="tag">會議中心</span>
-                </div>
-            </div>
-        </div>
-
-        <div class="venue-card">
-            <img src="https://www.ticc.com.tw/wSite/public/Img/f1687945050916.jpg" class="venue-image" alt="台北國際會議中心(TICC)" onerror="this.src='data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 350 200%22><rect fill=%22%23e0e0e0%22 width=%22350%22 height=%22200%22/><text x=%22175%22 y=%22100%22 text-anchor=%22middle%22 fill=%22%23999%22 font-size=%2216%22>無照片</text></svg>'">
-            <div class="venue-content">
-                <div class="venue-name">台北國際會議中心(TICC)</div>
-                <div class="venue-info"><strong>城市:</strong> 台北市</div>
-                <div class="venue-info"><strong>會議室:</strong> 101C</div>
-                <div class="venue-info"><strong>類型:</strong> 會議中心</div>
-                <div class="venue-tags">
-                    
-                    <span class="tag price">💰 $22000/半天</span>
-                    <span class="tag">會議中心</span>
-                </div>
-            </div>
-        </div>
-
-        <div class="venue-card">
-            <img src="https://www.ticc.com.tw/wSite/public/Img/f1687945050916.jpg" class="venue-image" alt="台北國際會議中心(TICC)" onerror="this.src='data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 350 200%22><rect fill=%22%23e0e0e0%22 width=%22350%22 height=%22200%22/><text x=%22175%22 y=%22100%22 text-anchor=%22middle%22 fill=%22%23999%22 font-size=%2216%22>無照片</text></svg>'">
-            <div class="venue-content">
-                <div class="venue-name">台北國際會議中心(TICC)</div>
-                <div class="venue-info"><strong>城市:</strong> 台北市</div>
-                <div class="venue-info"><strong>會議室:</strong> 101CD</div>
-                <div class="venue-info"><strong>類型:</strong> 會議中心</div>
-                <div class="venue-tags">
-                    
-                    <span class="tag price">💰 $39000/半天</span>
-                    <span class="tag">會議中心</span>
-                </div>
-            </div>
-        </div>
-
-        <div class="venue-card">
-            <img src="https://www.ticc.com.tw/wSite/public/Img/f1687945050916.jpg" class="venue-image" alt="台北國際會議中心(TICC)" onerror="this.src='data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 350 200%22><rect fill=%22%23e0e0e0%22 width=%22350%22 height=%22200%22/><text x=%22175%22 y=%22100%22 text-anchor=%22middle%22 fill=%22%23999%22 font-size=%2216%22>無照片</text></svg>'">
-            <div class="venue-content">
-                <div class="venue-name">台北國際會議中心(TICC)</div>
-                <div class="venue-info"><strong>城市:</strong> 台北市</div>
-                <div class="venue-info"><strong>會議室:</strong> 101D</div>
-                <div class="venue-info"><strong>類型:</strong> 會議中心</div>
-                <div class="venue-tags">
-                    
-                    <span class="tag price">💰 $18000/半天</span>
-                    <span class="tag">會議中心</span>
-                </div>
-            </div>
-        </div>
-
-        <div class="venue-card">
-            <img src="https://www.ticc.com.tw/wSite/public/Img/f1687945050916.jpg" class="venue-image" alt="台北國際會議中心(TICC)" onerror="this.src='data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 350 200%22><rect fill=%22%23e0e0e0%22 width=%22350%22 height=%22200%22/><text x=%22175%22 y=%22100%22 text-anchor=%22middle%22 fill=%22%23999%22 font-size=%2216%22>無照片</text></svg>'">
-            <div class="venue-content">
-                <div class="venue-name">台北國際會議中心(TICC)</div>
-                <div class="venue-info"><strong>城市:</strong> 台北市</div>
-                <div class="venue-info"><strong>會議室:</strong> 102</div>
-                <div class="venue-info"><strong>類型:</strong> 會議中心</div>
-                <div class="venue-tags">
-                    
-                    <span class="tag price">💰 $27000/半天</span>
-                    <span class="tag">會議中心</span>
-                </div>
-            </div>
-        </div>
-
-        <div class="venue-card">
-            <img src="https://www.ticc.com.tw/wSite/public/Img/f1687945050916.jpg" class="venue-image" alt="台北國際會議中心(TICC)" onerror="this.src='data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 350 200%22><rect fill=%22%23e0e0e0%22 width=%22350%22 height=%22200%22/><text x=%22175%22 y=%22100%22 text-anchor=%22middle%22 fill=%22%23999%22 font-size=%2216%22>無照片</text></svg>'">
-            <div class="venue-content">
-                <div class="venue-name">台北國際會議中心(TICC)</div>
-                <div class="venue-info"><strong>城市:</strong> 台北市</div>
-                <div class="venue-info"><strong>會議室:</strong> 103</div>
-                <div class="venue-info"><strong>類型:</strong> 會議中心</div>
-                <div class="venue-tags">
-                    
-                    <span class="tag price">💰 $21000/半天</span>
-                    <span class="tag">會議中心</span>
-                </div>
-            </div>
-        </div>
-
-        <div class="venue-card">
-            <img src="https://www.ticc.com.tw/wSite/public/Img/f1687945050916.jpg" class="venue-image" alt="台北國際會議中心(TICC)" onerror="this.src='data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 350 200%22><rect fill=%22%23e0e0e0%22 width=%22350%22 height=%22200%22/><text x=%22175%22 y=%22100%22 text-anchor=%22middle%22 fill=%22%23999%22 font-size=%2216%22>無照片</text></svg>'">
-            <div class="venue-content">
-                <div class="venue-name">台北國際會議中心(TICC)</div>
-                <div class="venue-info"><strong>城市:</strong> 台北市</div>
-                <div class="venue-info"><strong>會議室:</strong> 105</div>
-                <div class="venue-info"><strong>類型:</strong> 會議中心</div>
-                <div class="venue-tags">
-                    
-                    <span class="tag price">💰 $18500/半天</span>
-                    <span class="tag">會議中心</span>
-                </div>
-            </div>
-        </div>
-
-        <div class="venue-card">
-            <img src="https://www.ticc.com.tw/wSite/public/Img/f1687945050916.jpg" class="venue-image" alt="台北國際會議中心(TICC)" onerror="this.src='data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 350 200%22><rect fill=%22%23e0e0e0%22 width=%22350%22 height=%22200%22/><text x=%22175%22 y=%22100%22 text-anchor=%22middle%22 fill=%22%23999%22 font-size=%2216%22>無照片</text></svg>'">
-            <div class="venue-content">
-                <div class="venue-name">台北國際會議中心(TICC)</div>
-                <div class="venue-info"><strong>城市:</strong> 台北市</div>
-                <div class="venue-info"><strong>會議室:</strong> 106</div>
-                <div class="venue-info"><strong>類型:</strong> 會議中心</div>
-                <div class="venue-tags">
-                    
-                    <span class="tag price">💰 $10000/半天</span>
-                    <span class="tag">會議中心</span>
-                </div>
-            </div>
-        </div>
-
-        <div class="venue-card">
-            <img src="https://www.ticc.com.tw/wSite/public/Img/f1687945050916.jpg" class="venue-image" alt="台北國際會議中心(TICC)" onerror="this.src='data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 350 200%22><rect fill=%22%23e0e0e0%22 width=%22350%22 height=%22200%22/><text x=%22175%22 y=%22100%22 text-anchor=%22middle%22 fill=%22%23999%22 font-size=%2216%22>無照片</text></svg>'">
-            <div class="venue-content">
-                <div class="venue-name">台北國際會議中心(TICC)</div>
-                <div class="venue-info"><strong>城市:</strong> 台北市</div>
-                <div class="venue-info"><strong>會議室:</strong> 1F北貴賓室</div>
-                <div class="venue-info"><strong>類型:</strong> 會議中心</div>
-                <div class="venue-tags">
-                    
-                    <span class="tag price">💰 $20000/半天</span>
-                    <span class="tag">會議中心</span>
-                </div>
-            </div>
-        </div>
-
-        <div class="venue-card">
-            <img src="https://www.ticc.com.tw/wSite/public/Img/f1687945050916.jpg" class="venue-image" alt="台北國際會議中心(TICC)" onerror="this.src='data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 350 200%22><rect fill=%22%23e0e0e0%22 width=%22350%22 height=%22200%22/><text x=%22175%22 y=%22100%22 text-anchor=%22middle%22 fill=%22%23999%22 font-size=%2216%22>無照片</text></svg>'">
-            <div class="venue-content">
-                <div class="venue-name">台北國際會議中心(TICC)</div>
-                <div class="venue-info"><strong>城市:</strong> 台北市</div>
-                <div class="venue-info"><strong>會議室:</strong> 1F南貴賓室</div>
-                <div class="venue-info"><strong>類型:</strong> 會議中心</div>
-                <div class="venue-tags">
-                    
-                    <span class="tag price">💰 $20000/半天</span>
-                    <span class="tag">會議中心</span>
-                </div>
-            </div>
-        </div>
-
-        <div class="venue-card">
-            <img src="https://www.ticc.com.tw/wSite/public/Img/f1687945050916.jpg" class="venue-image" alt="台北國際會議中心(TICC)" onerror="this.src='data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 350 200%22><rect fill=%22%23e0e0e0%22 width=%22350%22 height=%22200%22/><text x=%22175%22 y=%22100%22 text-anchor=%22middle%22 fill=%22%23999%22 font-size=%2216%22>無照片</text></svg>'">
-            <div class="venue-content">
-                <div class="venue-name">台北國際會議中心(TICC)</div>
-                <div class="venue-info"><strong>城市:</strong> 台北市</div>
-                <div class="venue-info"><strong>會議室:</strong> 201全室</div>
-                <div class="venue-info"><strong>類型:</strong> 會議中心</div>
-                <div class="venue-tags">
-                    
-                    <span class="tag price">💰 $67000/半天</span>
-                    <span class="tag">會議中心</span>
-                </div>
-            </div>
-        </div>
-
-        <div class="venue-card">
-            <img src="https://www.ticc.com.tw/wSite/public/Img/f1687945050916.jpg" class="venue-image" alt="台北國際會議中心(TICC)" onerror="this.src='data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 350 200%22><rect fill=%22%23e0e0e0%22 width=%22350%22 height=%22200%22/><text x=%22175%22 y=%22100%22 text-anchor=%22middle%22 fill=%22%23999%22 font-size=%2216%22>無照片</text></svg>'">
-            <div class="venue-content">
-                <div class="venue-name">台北國際會議中心(TICC)</div>
-                <div class="venue-info"><strong>城市:</strong> 台北市</div>
-                <div class="venue-info"><strong>會議室:</strong> 201A</div>
-                <div class="venue-info"><strong>類型:</strong> 會議中心</div>
-                <div class="venue-tags">
-                    
-                    <span class="tag price">💰 $15000/半天</span>
-                    <span class="tag">會議中心</span>
-                </div>
-            </div>
-        </div>
-
-        <div class="venue-card">
-            <img src="https://www.ticc.com.tw/wSite/public/Img/f1687945050916.jpg" class="venue-image" alt="台北國際會議中心(TICC)" onerror="this.src='data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 350 200%22><rect fill=%22%23e0e0e0%22 width=%22350%22 height=%22200%22/><text x=%22175%22 y=%22100%22 text-anchor=%22middle%22 fill=%22%23999%22 font-size=%2216%22>無照片</text></svg>'">
-            <div class="venue-content">
-                <div class="venue-name">台北國際會議中心(TICC)</div>
-                <div class="venue-info"><strong>城市:</strong> 台北市</div>
-                <div class="venue-info"><strong>會議室:</strong> 201AB</div>
-                <div class="venue-info"><strong>類型:</strong> 會議中心</div>
-                <div class="venue-tags">
-                    
-                    <span class="tag price">💰 $29000/半天</span>
-                    <span class="tag">會議中心</span>
-                </div>
-            </div>
-        </div>
-
-        <div class="venue-card">
-            <img src="https://www.ticc.com.tw/wSite/public/Img/f1687945050916.jpg" class="venue-image" alt="台北國際會議中心(TICC)" onerror="this.src='data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 350 200%22><rect fill=%22%23e0e0e0%22 width=%22350%22 height=%22200%22/><text x=%22175%22 y=%22100%22 text-anchor=%22middle%22 fill=%22%23999%22 font-size=%2216%22>無照片</text></svg>'">
-            <div class="venue-content">
-                <div class="venue-name">台北國際會議中心(TICC)</div>
-                <div class="venue-info"><strong>城市:</strong> 台北市</div>
-                <div class="venue-info"><strong>會議室:</strong> 201ABC</div>
-                <div class="venue-info"><strong>類型:</strong> 會議中心</div>
-                <div class="venue-tags">
-                    
-                    <span class="tag price">💰 $44000/半天</span>
-                    <span class="tag">會議中心</span>
-                </div>
-            </div>
-        </div>
-
-        <div class="venue-card">
-            <img src="https://www.ticc.com.tw/wSite/public/Img/f1687945050916.jpg" class="venue-image" alt="台北國際會議中心(TICC)" onerror="this.src='data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 350 200%22><rect fill=%22%23e0e0e0%22 width=%22350%22 height=%22200%22/><text x=%22175%22 y=%22100%22 text-anchor=%22middle%22 fill=%22%23999%22 font-size=%2216%22>無照片</text></svg>'">
-            <div class="venue-content">
-                <div class="venue-name">台北國際會議中心(TICC)</div>
-                <div class="venue-info"><strong>城市:</strong> 台北市</div>
-                <div class="venue-info"><strong>會議室:</strong> 201ABEF</div>
-                <div class="venue-info"><strong>類型:</strong> 會議中心</div>
-                <div class="venue-tags">
-                    
-                    <span class="tag price">💰 $57000/半天</span>
-                    <span class="tag">會議中心</span>
-                </div>
-            </div>
-        </div>
-
-        <div class="venue-card">
-            <img src="https://www.ticc.com.tw/wSite/public/Img/f1687945050916.jpg" class="venue-image" alt="台北國際會議中心(TICC)" onerror="this.src='data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 350 200%22><rect fill=%22%23e0e0e0%22 width=%22350%22 height=%22200%22/><text x=%22175%22 y=%22100%22 text-anchor=%22middle%22 fill=%22%23999%22 font-size=%2216%22>無照片</text></svg>'">
-            <div class="venue-content">
-                <div class="venue-name">台北國際會議中心(TICC)</div>
-                <div class="venue-info"><strong>城市:</strong> 台北市</div>
-                <div class="venue-info"><strong>會議室:</strong> 201AF</div>
-                <div class="venue-info"><strong>類型:</strong> 會議中心</div>
-                <div class="venue-tags">
-                    
-                    <span class="tag price">💰 $30000/半天</span>
-                    <span class="tag">會議中心</span>
-                </div>
-            </div>
-        </div>
-
-        <div class="venue-card">
-            <img src="https://www.ticc.com.tw/wSite/public/Img/f1687945050916.jpg" class="venue-image" alt="台北國際會議中心(TICC)" onerror="this.src='data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 350 200%22><rect fill=%22%23e0e0e0%22 width=%22350%22 height=%22200%22/><text x=%22175%22 y=%22100%22 text-anchor=%22middle%22 fill=%22%23999%22 font-size=%2216%22>無照片</text></svg>'">
-            <div class="venue-content">
-                <div class="venue-name">台北國際會議中心(TICC)</div>
-                <div class="venue-info"><strong>城市:</strong> 台北市</div>
-                <div class="venue-info"><strong>會議室:</strong> 201B</div>
-                <div class="venue-info"><strong>類型:</strong> 會議中心</div>
-                <div class="venue-tags">
-                    
-                    <span class="tag price">💰 $15000/半天</span>
-                    <span class="tag">會議中心</span>
-                </div>
-            </div>
-        </div>
-
-        <div class="venue-card">
-            <img src="https://www.ticc.com.tw/wSite/public/Img/f1687945050916.jpg" class="venue-image" alt="台北國際會議中心(TICC)" onerror="this.src='data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 350 200%22><rect fill=%22%23e0e0e0%22 width=%22350%22 height=%22200%22/><text x=%22175%22 y=%22100%22 text-anchor=%22middle%22 fill=%22%23999%22 font-size=%2216%22>無照片</text></svg>'">
-            <div class="venue-content">
-                <div class="venue-name">台北國際會議中心(TICC)</div>
-                <div class="venue-info"><strong>城市:</strong> 台北市</div>
-                <div class="venue-info"><strong>會議室:</strong> 201BC</div>
-                <div class="venue-info"><strong>類型:</strong> 會議中心</div>
-                <div class="venue-tags">
-                    
-                    <span class="tag price">💰 $30000/半天</span>
-                    <span class="tag">會議中心</span>
-                </div>
-            </div>
-        </div>
-
-        <div class="venue-card">
-            <img src="https://www.ticc.com.tw/wSite/public/Img/f1687945050916.jpg" class="venue-image" alt="台北國際會議中心(TICC)" onerror="this.src='data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 350 200%22><rect fill=%22%23e0e0e0%22 width=%22350%22 height=%22200%22/><text x=%22175%22 y=%22100%22 text-anchor=%22middle%22 fill=%22%23999%22 font-size=%2216%22>無照片</text></svg>'">
-            <div class="venue-content">
-                <div class="venue-name">台北國際會議中心(TICC)</div>
-                <div class="venue-info"><strong>城市:</strong> 台北市</div>
-                <div class="venue-info"><strong>會議室:</strong> 201BCDE</div>
-                <div class="venue-info"><strong>類型:</strong> 會議中心</div>
-                <div class="venue-tags">
-                    
-                    <span class="tag price">💰 $59000/半天</span>
-                    <span class="tag">會議中心</span>
-                </div>
-            </div>
-        </div>
-
-        <div class="venue-card">
-            <img src="https://www.ticc.com.tw/wSite/public/Img/f1687945050916.jpg" class="venue-image" alt="台北國際會議中心(TICC)" onerror="this.src='data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 350 200%22><rect fill=%22%23e0e0e0%22 width=%22350%22 height=%22200%22/><text x=%22175%22 y=%22100%22 text-anchor=%22middle%22 fill=%22%23999%22 font-size=%2216%22>無照片</text></svg>'">
-            <div class="venue-content">
-                <div class="venue-name">台北國際會議中心(TICC)</div>
-                <div class="venue-info"><strong>城市:</strong> 台北市</div>
-                <div class="venue-info"><strong>會議室:</strong> 201BE</div>
-                <div class="venue-info"><strong>類型:</strong> 會議中心</div>
-                <div class="venue-tags">
-                    
-                    <span class="tag price">💰 $30000/半天</span>
-                    <span class="tag">會議中心</span>
-                </div>
-            </div>
-        </div>
-
-        <div class="venue-card">
-            <img src="https://www.ticc.com.tw/wSite/public/Img/f1687945050916.jpg" class="venue-image" alt="台北國際會議中心(TICC)" onerror="this.src='data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 350 200%22><rect fill=%22%23e0e0e0%22 width=%22350%22 height=%22200%22/><text x=%22175%22 y=%22100%22 text-anchor=%22middle%22 fill=%22%23999%22 font-size=%2216%22>無照片</text></svg>'">
-            <div class="venue-content">
-                <div class="venue-name">台北國際會議中心(TICC)</div>
-                <div class="venue-info"><strong>城市:</strong> 台北市</div>
-                <div class="venue-info"><strong>會議室:</strong> 201C</div>
-                <div class="venue-info"><strong>類型:</strong> 會議中心</div>
-                <div class="venue-tags">
-                    
-                    <span class="tag price">💰 $16000/半天</span>
-                    <span class="tag">會議中心</span>
-                </div>
-            </div>
-        </div>
-
-        <div class="venue-card">
-            <img src="https://www.ticc.com.tw/wSite/public/Img/f1687945050916.jpg" class="venue-image" alt="台北國際會議中心(TICC)" onerror="this.src='data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 350 200%22><rect fill=%22%23e0e0e0%22 width=%22350%22 height=%22200%22/><text x=%22175%22 y=%22100%22 text-anchor=%22middle%22 fill=%22%23999%22 font-size=%2216%22>無照片</text></svg>'">
-            <div class="venue-content">
-                <div class="venue-name">台北國際會議中心(TICC)</div>
-                <div class="venue-info"><strong>城市:</strong> 台北市</div>
-                <div class="venue-info"><strong>會議室:</strong> 201CD</div>
-                <div class="venue-info"><strong>類型:</strong> 會議中心</div>
-                <div class="venue-tags">
-                    
-                    <span class="tag price">💰 $32000/半天</span>
-                    <span class="tag">會議中心</span>
-                </div>
-            </div>
-        </div>
-
-        <div class="venue-card">
-            <img src="https://www.ticc.com.tw/wSite/public/Img/f1687945050916.jpg" class="venue-image" alt="台北國際會議中心(TICC)" onerror="this.src='data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 350 200%22><rect fill=%22%23e0e0e0%22 width=%22350%22 height=%22200%22/><text x=%22175%22 y=%22100%22 text-anchor=%22middle%22 fill=%22%23999%22 font-size=%2216%22>無照片</text></svg>'">
-            <div class="venue-content">
-                <div class="venue-name">台北國際會議中心(TICC)</div>
-                <div class="venue-info"><strong>城市:</strong> 台北市</div>
-                <div class="venue-info"><strong>會議室:</strong> 201D</div>
-                <div class="venue-info"><strong>類型:</strong> 會議中心</div>
-                <div class="venue-tags">
-                    
-                    <span class="tag price">💰 $16000/半天</span>
-                    <span class="tag">會議中心</span>
-                </div>
-            </div>
-        </div>
-
     </div>
+    
+    <div class="venues-grid" id="venuesGrid">
+        <div class="loading">
+            <div class="loading-spinner"></div>
+            <p>載入場地資料中...</p>
+        </div>
+    </div>
+    
+    <div class="pagination" id="pagination"></div>
     
     <div class="footer">
         <p>台灣場地管理系統 © 2026 | 資料來源: 官方網站</p>
+        <p style="margin-top: 10px; font-size: 12px; color: #999;">
+            💡 提示：編輯後的資料會暫存於瀏覽器，請記得點擊「匯出 JSON」下載更新後的資料
+        </p>
     </div>
+    
+    <!-- 編輯 Modal -->
+    <div class="modal-overlay" id="editModal">
+        <div class="modal">
+            <div class="modal-header">
+                <h2>✏️ 編輯場地資料</h2>
+                <button class="modal-close" onclick="closeModal()">&times;</button>
+            </div>
+            <div class="modal-body">
+                <input type="hidden" id="editId">
+                
+                <div class="form-group">
+                    <label>場地名稱 *</label>
+                    <input type="text" id="editName" required>
+                </div>
+                
+                <div class="form-row">
+                    <div class="form-group">
+                        <label>城市 *</label>
+                        <input type="text" id="editCity" required>
+                    </div>
+                    <div class="form-group">
+                        <label>會議室名稱</label>
+                        <input type="text" id="editRoomName">
+                    </div>
+                </div>
+                
+                <div class="form-row">
+                    <div class="form-group">
+                        <label>場地類型</label>
+                        <select id="editVenueType">
+                            <option value="飯店場地">飯店場地</option>
+                            <option value="會議中心">會議中心</option>
+                            <option value="展演場地">展演場地</option>
+                            <option value="婚宴場地">婚宴場地</option>
+                            <option value="咖啡廳">咖啡廳</option>
+                            <option value="運動場地">運動場地</option>
+                            <option value="其他">其他</option>
+                        </select>
+                    </div>
+                    <div class="form-group">
+                        <label>狀態</label>
+                        <select id="editStatus">
+                            <option value="上架">上架</option>
+                            <option value="下架">下架</option>
+                            <option value="待審核">待審核</option>
+                        </select>
+                    </div>
+                </div>
+                
+                <div class="form-row">
+                    <div class="form-group">
+                        <label>容納人數（劇院式）</label>
+                        <input type="number" id="editCapacity">
+                    </div>
+                    <div class="form-group">
+                        <label>容納人數（教室式）</label>
+                        <input type="number" id="editCapacityClassroom">
+                    </div>
+                </div>
+                
+                <div class="form-row">
+                    <div class="form-group">
+                        <label>半天價格（元）</label>
+                        <input type="number" id="editPriceHalfDay">
+                    </div>
+                    <div class="form-group">
+                        <label>全天價格（元）</label>
+                        <input type="number" id="editPriceFullDay">
+                    </div>
+                </div>
+                
+                <div class="form-group">
+                    <label>地址</label>
+                    <input type="text" id="editAddress">
+                </div>
+                
+                <div class="form-row">
+                    <div class="form-group">
+                        <label>聯絡人</label>
+                        <input type="text" id="editContactPerson">
+                    </div>
+                    <div class="form-group">
+                        <label>聯絡電話</label>
+                        <input type="text" id="editContactPhone">
+                    </div>
+                </div>
+                
+                <div class="form-group">
+                    <label>聯絡 Email</label>
+                    <input type="email" id="editContactEmail">
+                </div>
+                
+                <div class="form-group">
+                    <label>場地照片 URL</label>
+                    <input type="url" id="editPhotoUrl" placeholder="https://example.com/photo.jpg">
+                </div>
+                
+                <div class="form-group">
+                    <label>官方網站 URL</label>
+                    <input type="url" id="editUrl" placeholder="https://example.com">
+                </div>
+                
+                <div class="form-group">
+                    <label>設備</label>
+                    <textarea id="editEquipment" placeholder="投影設備、音響等"></textarea>
+                </div>
+                
+                <div class="form-group">
+                    <label>備註</label>
+                    <textarea id="editNotes" placeholder="其他備註事項"></textarea>
+                </div>
+            </div>
+            <div class="modal-footer">
+                <button class="btn btn-secondary" onclick="closeModal()">取消</button>
+                <button class="btn btn-primary" onclick="saveVenue()">💾 儲存變更</button>
+            </div>
+        </div>
+    </div>
+    
+    <!-- Toast 提示 -->
+    <div class="toast" id="toast"></div>
+
+    <script>
+        // 全局變數
+        let allVenues = [];
+        let filteredVenues = [];
+        let modifiedVenues = {};
+        let currentPage = 1;
+        const itemsPerPage = 30;
+        
+        // 初始化
+        document.addEventListener('DOMContentLoaded', function() {
+            loadVenues();
+            
+            // 綁定篩選器事件
+            document.getElementById('searchInput').addEventListener('input', debounce(applyFilters, 300));
+            document.getElementById('cityFilter').addEventListener('change', applyFilters);
+            document.getElementById('typeFilter').addEventListener('change', applyFilters);
+            document.getElementById('photoFilter').addEventListener('change', applyFilters);
+            document.getElementById('statusFilter').addEventListener('change', applyFilters);
+        });
+        
+        // 防抖函數
+        function debounce(func, wait) {
+            let timeout;
+            return function executedFunction(...args) {
+                const later = () => {
+                    clearTimeout(timeout);
+                    func(...args);
+                };
+                clearTimeout(timeout);
+                timeout = setTimeout(later, wait);
+            };
+        }
+        
+        // 載入場地資料
+        async function loadVenues() {
+            try {
+                // 嘗試從 localStorage 載入已修改的資料
+                const savedModifications = localStorage.getItem('venueModifications');
+                if (savedModifications) {
+                    modifiedVenues = JSON.parse(savedModifications);
+                }
+                
+                const response = await fetch('venues-all-cities.json');
+                if (!response.ok) {
+                    throw new Error('無法載入資料');
+                }
+                allVenues = await response.json();
+                
+                // 應用已修改的資料
+                allVenues = allVenues.map(venue => {
+                    if (modifiedVenues[venue.id]) {
+                        return { ...venue, ...modifiedVenues[venue.id], _modified: true };
+                    }
+                    return venue;
+                });
+                
+                // 初始化篩選器選項
+                initFilterOptions();
+                
+                // 應用篩選並顯示
+                applyFilters();
+                
+                showToast('資料載入成功！', 'success');
+            } catch (error) {
+                console.error('載入失敗:', error);
+                document.getElementById('venuesGrid').innerHTML = `
+                    <div class="loading">
+                        <p style="color: #dc3545;">❌ 載入失敗: ${error.message}</p>
+                        <p style="margin-top: 10px;">請確認 venues-all-cities.json 檔案存在</p>
+                    </div>
+                `;
+            }
+        }
+        
+        // 初始化篩選器選項
+        function initFilterOptions() {
+            const cities = [...new Set(allVenues.map(v => v.city).filter(Boolean))].sort();
+            const types = [...new Set(allVenues.map(v => v.venueType).filter(Boolean))].sort();
+            
+            const cityFilter = document.getElementById('cityFilter');
+            cities.forEach(city => {
+                const option = document.createElement('option');
+                option.value = city;
+                option.textContent = city;
+                cityFilter.appendChild(option);
+            });
+            
+            const typeFilter = document.getElementById('typeFilter');
+            types.forEach(type => {
+                const option = document.createElement('option');
+                option.value = type;
+                option.textContent = type;
+                typeFilter.appendChild(option);
+            });
+        }
+        
+        // 應用篩選
+        function applyFilters() {
+            const search = document.getElementById('searchInput').value.toLowerCase();
+            const city = document.getElementById('cityFilter').value;
+            const type = document.getElementById('typeFilter').value;
+            const photo = document.getElementById('photoFilter').value;
+            const status = document.getElementById('statusFilter').value;
+            
+            filteredVenues = allVenues.filter(venue => {
+                // 搜尋條件
+                if (search && !venue.name.toLowerCase().includes(search) && 
+                    !venue.city?.toLowerCase().includes(search) &&
+                    !venue.roomName?.toLowerCase().includes(search)) {
+                    return false;
+                }
+                
+                // 城市篩選
+                if (city && venue.city !== city) return false;
+                
+                // 類型篩選
+                if (type && venue.venueType !== type) return false;
+                
+                // 照片狀態篩選
+                if (photo === 'hasPhoto' && !hasRealPhoto(venue)) return false;
+                if (photo === 'noPhoto' && hasRealPhoto(venue)) return false;
+                
+                // 狀態篩選
+                if (status && venue.status !== status) return false;
+                
+                return true;
+            });
+            
+            currentPage = 1;
+            renderVenues();
+            renderPagination();
+            updateStats();
+        }
+        
+        // 檢查是否有真實照片（非佔位圖）
+        function hasRealPhoto(venue) {
+            const main = venue.images?.main || venue.photo;
+            if (!main) return false;
+            // 排除 Unsplash 佔位圖
+            if (main.includes('unsplash.com')) return false;
+            if (main.includes('data:image/svg')) return false;
+            return true;
+        }
+        
+        // 重置篩選
+        function resetFilters() {
+            document.getElementById('searchInput').value = '';
+            document.getElementById('cityFilter').value = '';
+            document.getElementById('typeFilter').value = '';
+            document.getElementById('photoFilter').value = '';
+            document.getElementById('statusFilter').value = '';
+            applyFilters();
+        }
+        
+        // 更新統計數字
+        function updateStats() {
+            document.getElementById('displayCount').textContent = filteredVenues.length;
+            document.getElementById('totalCount').textContent = allVenues.length;
+            document.getElementById('modifiedCount').textContent = Object.keys(modifiedVenues).length;
+            document.getElementById('lastUpdate').textContent = `最後更新: ${new Date().toLocaleString('zh-TW')}`;
+        }
+        
+        // 渲染場地卡片
+        function renderVenues() {
+            const grid = document.getElementById('venuesGrid');
+            const start = (currentPage - 1) * itemsPerPage;
+            const end = start + itemsPerPage;
+            const venuesToShow = filteredVenues.slice(start, end);
+            
+            if (venuesToShow.length === 0) {
+                grid.innerHTML = `
+                    <div class="loading">
+                        <p>沒有找到符合條件的場地</p>
+                    </div>
+                `;
+                return;
+            }
+            
+            grid.innerHTML = venuesToShow.map(venue => createVenueCard(venue)).join('');
+        }
+        
+        // 創建場地卡片 HTML
+        function createVenueCard(venue) {
+            const hasPhoto = hasRealPhoto(venue);
+            const photoUrl = venue.images?.main || venue.photo || '';
+            const capacity = venue.maxCapacityTheater || venue.maxCapacityClassroom || venue.capacity;
+            const price = venue.priceHalfDay || venue.price;
+            
+            const photoHtml = hasPhoto 
+                ? `<img src="${photoUrl}" class="venue-image" alt="${venue.name}" onerror="this.parentElement.innerHTML='<div class=\\'venue-image\\' style=\\'display:flex;align-items:center;justify-content:center;color:#999;\\'>載入失敗</div>'">`
+                : `<div class="venue-image" style="display:flex;align-items:center;justify-content:center;color:#999;">無照片</div>`;
+            
+            const modifiedBadge = venue._modified ? '<span class="modified-badge">已修改</span>' : '';
+            
+            return `
+                <div class="venue-card">
+                    ${modifiedBadge}
+                    <button class="edit-btn" onclick="openEditModal(${venue.id})" title="編輯">✏️</button>
+                    ${photoHtml}
+                    <div class="venue-content">
+                        <div class="venue-name">${venue.name}</div>
+                        <div class="venue-info"><strong>城市:</strong> ${venue.city || '-'}</div>
+                        <div class="venue-info"><strong>會議室:</strong> ${venue.roomName || '-'}</div>
+                        <div class="venue-info"><strong>類型:</strong> ${venue.venueType || '-'}</div>
+                        <div class="venue-tags">
+                            ${capacity ? `<span class="tag capacity">👥 ${capacity} 人</span>` : ''}
+                            ${price ? `<span class="tag price">💰 $${price.toLocaleString()}/半天</span>` : ''}
+                            <span class="tag ${!hasPhoto ? 'no-photo' : ''}">${hasPhoto ? '✅ 有照片' : '❌ 無照片'}</span>
+                            ${venue.venueType ? `<span class="tag">${venue.venueType}</span>` : ''}
+                        </div>
+                    </div>
+                </div>
+            `;
+        }
+        
+        // 渲染分頁
+        function renderPagination() {
+            const totalPages = Math.ceil(filteredVenues.length / itemsPerPage);
+            const pagination = document.getElementById('pagination');
+            
+            if (totalPages <= 1) {
+                pagination.innerHTML = '';
+                return;
+            }
+            
+            let html = '';
+            
+            // 上一頁
+            html += `<button ${currentPage === 1 ? 'disabled' : ''} onclick="goToPage(${currentPage - 1})">← 上一頁</button>`;
+            
+            // 頁碼
+            const maxVisible = 5;
+            let startPage = Math.max(1, currentPage - Math.floor(maxVisible / 2));
+            let endPage = Math.min(totalPages, startPage + maxVisible - 1);
+            
+            if (endPage - startPage < maxVisible - 1) {
+                startPage = Math.max(1, endPage - maxVisible + 1);
+            }
+            
+            if (startPage > 1) {
+                html += `<button onclick="goToPage(1)">1</button>`;
+                if (startPage > 2) html += `<button disabled>...</button>`;
+            }
+            
+            for (let i = startPage; i <= endPage; i++) {
+                html += `<button class="${i === currentPage ? 'active' : ''}" onclick="goToPage(${i})">${i}</button>`;
+            }
+            
+            if (endPage < totalPages) {
+                if (endPage < totalPages - 1) html += `<button disabled>...</button>`;
+                html += `<button onclick="goToPage(${totalPages})">${totalPages}</button>`;
+            }
+            
+            // 下一頁
+            html += `<button ${currentPage === totalPages ? 'disabled' : ''} onclick="goToPage(${currentPage + 1})">下一頁 →</button>`;
+            
+            pagination.innerHTML = html;
+        }
+        
+        // 跳轉頁面
+        function goToPage(page) {
+            currentPage = page;
+            renderVenues();
+            renderPagination();
+            window.scrollTo({ top: 0, behavior: 'smooth' });
+        }
+        
+        // 打開編輯 Modal
+        function openEditModal(id) {
+            const venue = allVenues.find(v => v.id === id);
+            if (!venue) return;
+            
+            document.getElementById('editId').value = venue.id;
+            document.getElementById('editName').value = venue.name || '';
+            document.getElementById('editCity').value = venue.city || '';
+            document.getElementById('editRoomName').value = venue.roomName || '';
+            document.getElementById('editVenueType').value = venue.venueType || '飯店場地';
+            document.getElementById('editStatus').value = venue.status || '上架';
+            document.getElementById('editCapacity').value = venue.maxCapacityTheater || '';
+            document.getElementById('editCapacityClassroom').value = venue.maxCapacityClassroom || '';
+            document.getElementById('editPriceHalfDay').value = venue.priceHalfDay || '';
+            document.getElementById('editPriceFullDay').value = venue.priceFullDay || '';
+            document.getElementById('editAddress').value = venue.address || '';
+            document.getElementById('editContactPerson').value = venue.contactPerson || '';
+            document.getElementById('editContactPhone').value = venue.contactPhone || '';
+            document.getElementById('editContactEmail').value = venue.contactEmail || '';
+            document.getElementById('editPhotoUrl').value = venue.images?.main || venue.photo || '';
+            document.getElementById('editUrl').value = venue.url || '';
+            document.getElementById('editEquipment').value = venue.equipment || '';
+            document.getElementById('editNotes').value = venue.notes || '';
+            
+            document.getElementById('editModal').classList.add('active');
+            document.body.style.overflow = 'hidden';
+        }
+        
+        // 關閉 Modal
+        function closeModal() {
+            document.getElementById('editModal').classList.remove('active');
+            document.body.style.overflow = '';
+        }
+        
+        // 儲存場地資料
+        function saveVenue() {
+            const id = parseInt(document.getElementById('editId').value);
+            const venue = allVenues.find(v => v.id === id);
+            if (!venue) return;
+            
+            // 收集修改的資料
+            const modifications = {
+                name: document.getElementById('editName').value,
+                city: document.getElementById('editCity').value,
+                roomName: document.getElementById('editRoomName').value,
+                venueType: document.getElementById('editVenueType').value,
+                status: document.getElementById('editStatus').value,
+                maxCapacityTheater: parseInt(document.getElementById('editCapacity').value) || null,
+                maxCapacityClassroom: parseInt(document.getElementById('editCapacityClassroom').value) || null,
+                priceHalfDay: parseInt(document.getElementById('editPriceHalfDay').value) || null,
+                priceFullDay: parseInt(document.getElementById('editPriceFullDay').value) || null,
+                address: document.getElementById('editAddress').value,
+                contactPerson: document.getElementById('editContactPerson').value,
+                contactPhone: document.getElementById('editContactPhone').value,
+                contactEmail: document.getElementById('editContactEmail').value,
+                url: document.getElementById('editUrl').value,
+                equipment: document.getElementById('editEquipment').value,
+                notes: document.getElementById('editNotes').value,
+                _modified: true,
+                _modifiedAt: new Date().toISOString()
+            };
+            
+            // 更新照片 URL
+            const photoUrl = document.getElementById('editPhotoUrl').value;
+            if (photoUrl) {
+                modifications.images = {
+                    ...venue.images,
+                    main: photoUrl,
+                    lastUpdated: new Date().toISOString().split('T')[0]
+                };
+            }
+            
+            // 儲存到 modifiedVenues
+            modifiedVenues[id] = modifications;
+            
+            // 更新 allVenues
+            const index = allVenues.findIndex(v => v.id === id);
+            allVenues[index] = { ...venue, ...modifications };
+            
+            // 儲存到 localStorage
+            localStorage.setItem('venueModifications', JSON.stringify(modifiedVenues));
+            
+            // 重新渲染
+            applyFilters();
+            
+            // 關閉 Modal
+            closeModal();
+            
+            showToast('✅ 場地資料已更新！', 'success');
+        }
+        
+        // 匯出 JSON
+        function exportJSON() {
+            // 合併原始資料和修改
+            const exportData = allVenues.map(venue => {
+                const { _modified, _modifiedAt, ...cleanVenue } = venue;
+                if (modifiedVenues[venue.id]) {
+                    const { _modified: m, _modifiedAt: ma, ...mods } = modifiedVenues[venue.id];
+                    return { ...cleanVenue, ...mods };
+                }
+                return cleanVenue;
+            });
+            
+            const json = JSON.stringify(exportData, null, 2);
+            const blob = new Blob([json], { type: 'application/json' });
+            const url = URL.createObjectURL(blob);
+            
+            const a = document.createElement('a');
+            a.href = url;
+            a.download = `venues-all-cities-updated-${new Date().toISOString().split('T')[0]}.json`;
+            document.body.appendChild(a);
+            a.click();
+            document.body.removeChild(a);
+            URL.revokeObjectURL(url);
+            
+            showToast(`✅ 已匯出 ${exportData.length} 筆場地資料！`, 'success');
+        }
+        
+        // 顯示提示訊息
+        function showToast(message, type = 'info') {
+            const toast = document.getElementById('toast');
+            toast.textContent = message;
+            toast.className = `toast ${type} show`;
+            
+            setTimeout(() => {
+                toast.classList.remove('show');
+            }, 3000);
+        }
+        
+        // ESC 關閉 Modal
+        document.addEventListener('keydown', function(e) {
+            if (e.key === 'Escape') {
+                closeModal();
+            }
+        });
+        
+        // 點擊 Modal 外部關閉
+        document.getElementById('editModal').addEventListener('click', function(e) {
+            if (e.target === this) {
+                closeModal();
+            }
+        });
+    </script>
 </body>
 </html>
