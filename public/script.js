@@ -1,5 +1,4 @@
 // ===== 配置 =====
-// VERSION: 2026-03-14-v3-FORCE-UPDATE
 const API_BASE = 'https://taiwan-venue-api.vercel.app';
 let currentPage = 1;
 let currentView = 'grid';
@@ -8,15 +7,6 @@ let sessionId = null;
 
 // ===== 初始化 =====
 document.addEventListener('DOMContentLoaded', async () => {
-    // 生成 session ID
-    sessionId = 'session_' + Date.now() + '_' + Math.random().toString(36).substr(2, 9);
-    
-    // 載入篩選器選項
-    await loadFilters();
-    
-    // 載入場地
-    await loadVenues();
-});
     // 生成 session ID
     sessionId = 'session_' + Date.now() + '_' + Math.random().toString(36).substr(2, 9);
     
