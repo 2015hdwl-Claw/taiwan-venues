@@ -35,6 +35,7 @@ async function callGLMAPI(messages) {
   return new Promise((resolve, reject) => {
     if (!GLM_API_KEY) {
       // 如果沒有 API key，返回模擬回應
+      console.log('[GLM API] No API key found');
       resolve({
         choices: [{
           message: {
@@ -44,6 +45,8 @@ async function callGLMAPI(messages) {
       });
       return;
     }
+
+    console.log('[GLM API] Calling API with key length:', GLM_API_KEY.length);
 
     const postData = JSON.stringify({
       model: 'glm-4.7-flash',
@@ -72,16 +75,23 @@ async function callGLMAPI(messages) {
       });
 
       res.on('end', () => {
+        console.log('[GLM API] Response status:', res.statusCode);
         try {
           const json = JSON.parse(data);
+          if (json.error) {
+            console.error('[GLM API] Error:', json.error);
+          }
           resolve(json);
         } catch (error) {
+          console.error('[GLM API] Parse error:', error.message);
+          console.error('[GLM API] Raw data:', data.substring(0, 200));
           reject(error);
         }
       });
     });
 
     req.on('error', (error) => {
+      console.error('[GLM API] Request error:', error.message);
       reject(error);
     });
 
