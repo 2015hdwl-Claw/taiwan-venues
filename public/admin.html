@@ -672,11 +672,12 @@
                     modifiedVenues = JSON.parse(savedModifications);
                 }
                 
-                const response = await fetch('venues-all-cities.json');
+                const response = await fetch('/api/venues');
                 if (!response.ok) {
                     throw new Error('無法載入資料');
                 }
-                allVenues = await response.json();
+                const data = await response.json();
+                allVenues = data.venues;
                 
                 // 應用已修改的資料
                 allVenues = allVenues.map(venue => {
