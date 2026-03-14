@@ -1,0 +1,640 @@
+[
+  {
+    "url": "https://www.goodmans-coffee.com/",
+    "names": [
+      "Goodmans咖啡廳"
+    ],
+    "statuses": [
+      "待修"
+    ],
+    "count": 1
+  },
+  {
+    "url": "https://www.tccc.com.tw/",
+    "names": [
+      "TCCC台灣文創訓練中心"
+    ],
+    "statuses": [
+      "待修"
+    ],
+    "count": 1
+  },
+  {
+    "url": "https://www.wework.com",
+    "names": [
+      "WeWork共享空間"
+    ],
+    "statuses": [
+      "待修"
+    ],
+    "count": 1
+  },
+  {
+    "url": "https://www.marriott.com/hotels/travel/tpegi-w-taipei",
+    "names": [
+      "W飯店台北"
+    ],
+    "statuses": [
+      "待修"
+    ],
+    "count": 1
+  },
+  {
+    "url": "https://www.marriott.com/en-us/hotels/tpewh-w-taipei/",
+    "names": [
+      "台北W飯店(WTaipei)"
+    ],
+    "statuses": [
+      "待修"
+    ],
+    "count": 1
+  },
+  {
+    "url": "https://www.twtc.com.tw/",
+    "names": [
+      "台北世貿中心(TWTCA)展覽大樓"
+    ],
+    "statuses": [
+      "上架",
+      "待修",
+      "待修",
+      "待修",
+      "待修",
+      "待修"
+    ],
+    "count": 6
+  },
+  {
+    "url": "https://www.dandyhotel.com.tw",
+    "names": [
+      "台北丹迪旅店"
+    ],
+    "statuses": [
+      "待修"
+    ],
+    "count": 1
+  },
+  {
+    "url": "https://www.cityinn.com.tw",
+    "names": [
+      "台北京站酒店"
+    ],
+    "statuses": [
+      "待修"
+    ],
+    "count": 1
+  },
+  {
+    "url": "https://www.hotelbf.com",
+    "names": [
+      "台北八方美學商旅"
+    ],
+    "statuses": [
+      "待修"
+    ],
+    "count": 1
+  },
+  {
+    "url": "https://www.courtyard.com/taipei-six",
+    "names": [
+      "台北六福萬怡酒店"
+    ],
+    "statuses": [
+      "待修"
+    ],
+    "count": 1
+  },
+  {
+    "url": "https://btresort.metro.taipei/",
+    "names": [
+      "台北北投會館"
+    ],
+    "statuses": [
+      "待修"
+    ],
+    "count": 1
+  },
+  {
+    "url": "https://www.palaisdechinehotel.com/",
+    "names": [
+      "台北君品酒店(PalaisdeChine)"
+    ],
+    "statuses": [
+      "待修"
+    ],
+    "count": 1
+  },
+  {
+    "url": "https://www.hyatt.com/zh-TW/hotel/taiwan/grand-hyatt-taipei/tyoph",
+    "names": [
+      "台北君悅酒店(GrandHyattTaipei)"
+    ],
+    "statuses": [
+      "待修"
+    ],
+    "count": 1
+  },
+  {
+    "url": "https://www.hyatt.com/taipei",
+    "names": [
+      "台北君悅酒店(GrandHyattTaipei)"
+    ],
+    "statuses": [
+      "待修",
+      "待修"
+    ],
+    "count": 2
+  },
+  {
+    "url": "https://www.grandhyatt.com/taipei",
+    "names": [
+      "台北君悅酒店(GrandHyattTaipei)"
+    ],
+    "statuses": [
+      "待修"
+    ],
+    "count": 1
+  },
+  {
+    "url": "https://taipei.metropolitan.tw/",
+    "names": [
+      "JR東日本大飯店台北"
+    ],
+    "statuses": [
+      "下架",
+      "下架",
+      "下架",
+      "下架",
+      "下架"
+    ],
+    "count": 5
+  },
+  {
+    "url": "https://www.humblehouse.com",
+    "names": [
+      "台北寒舍艾麗酒店(HummerHouse)"
+    ],
+    "statuses": [
+      "待修"
+    ],
+    "count": 1
+  },
+  {
+    "url": "https://www.taipeiarena.com",
+    "names": [
+      "台北小巨蛋(TPEArena)"
+    ],
+    "statuses": [
+      "待修"
+    ],
+    "count": 1
+  },
+  {
+    "url": "https://www.midtownrichard.com/",
+    "names": [
+      "台北德立莊酒店"
+    ],
+    "statuses": [
+      "待修"
+    ],
+    "count": 1
+  },
+  {
+    "url": "https://www.regenthotels.com/taipei",
+    "names": [
+      "台北晶華酒店(RegentTaipei)"
+    ],
+    "statuses": [
+      "待修"
+    ],
+    "count": 1
+  },
+  {
+    "url": "https://www.songyi-hotel.com/",
+    "names": [
+      "台北松意酒店"
+    ],
+    "statuses": [
+      "待修"
+    ],
+    "count": 1
+  },
+  {
+    "url": "https://www.chateau-china.com/",
+    "names": [
+      "台北洛碁大飯店"
+    ],
+    "statuses": [
+      "待修"
+    ],
+    "count": 1
+  },
+  {
+    "url": "https://www.san-want.com/",
+    "names": [
+      "台北神旺大飯店(SanWantTaipei)"
+    ],
+    "statuses": [
+      "待修"
+    ],
+    "count": 1
+  },
+  {
+    "url": "https://www.first-hotel.com.tw/",
+    "names": [
+      "台北第一酒店(FirstHotel)"
+    ],
+    "statuses": [
+      "待修"
+    ],
+    "count": 1
+  },
+  {
+    "url": "https://www.tongyi-hotel.com/",
+    "names": [
+      "台北統一大飯店"
+    ],
+    "statuses": [
+      "待修"
+    ],
+    "count": 1
+  },
+  {
+    "url": "https://www.marriott.com/en-us/hotels/tpemd-le-meridien-taipei/",
+    "names": [
+      "台北艾美酒店"
+    ],
+    "statuses": [
+      "待修"
+    ],
+    "count": 1
+  },
+  {
+    "url": "https://www.imperial-hotel.com.tw/",
+    "names": [
+      "台北華國大飯店(ImperialTaipei)"
+    ],
+    "statuses": [
+      "待修"
+    ],
+    "count": 1
+  },
+  {
+    "url": "https://www.gloria-residence.com/",
+    "names": [
+      "台北華泰瑞舍"
+    ],
+    "statuses": [
+      "待修"
+    ],
+    "count": 1
+  },
+  {
+    "url": "https://www.landisresort.com/",
+    "names": [
+      "台北陽明山中國麗緻大飯店"
+    ],
+    "statuses": [
+      "待修"
+    ],
+    "count": 1
+  },
+  {
+    "url": "https://www.shangri-la.com/taipei",
+    "names": [
+      "台北香格里拉遠東國際大飯店"
+    ],
+    "statuses": [
+      "待修"
+    ],
+    "count": 1
+  },
+  {
+    "url": "http://www.ntualumni.org.tw/",
+    "names": [
+      "台大校友會館"
+    ],
+    "statuses": [
+      "待修"
+    ],
+    "count": 1
+  },
+  {
+    "url": "https://www.taipeiexpopark.tw/",
+    "names": [
+      "花博公園爭艷館",
+      "圓山花博公園流行館"
+    ],
+    "statuses": [
+      "待修",
+      "待修"
+    ],
+    "count": 2
+  },
+  {
+    "url": "https://www.tms.gov.taipei/",
+    "names": [
+      "天母體育館"
+    ],
+    "statuses": [
+      "待修"
+    ],
+    "count": 1
+  },
+  {
+    "url": "https://itcc.yff.org.tw/",
+    "names": [
+      "張榮發基金會(KLCF)國際會議中心"
+    ],
+    "statuses": [
+      "待修",
+      "待修",
+      "待修",
+      "待修"
+    ],
+    "count": 4
+  },
+  {
+    "url": "https://www.pengyuan.com.tw",
+    "names": [
+      "彭園婚宴會館"
+    ],
+    "statuses": [
+      "上架",
+      "待修",
+      "待修",
+      "待修",
+      "待修",
+      "待修"
+    ],
+    "count": 6
+  },
+  {
+    "url": "https://www.fuxing.space/",
+    "names": [
+      "復興美學共享空間"
+    ],
+    "statuses": [
+      "待修"
+    ],
+    "count": 1
+  },
+  {
+    "url": "https://www.siihub.org/",
+    "names": [
+      "社會創新實驗中心"
+    ],
+    "statuses": [
+      "待修"
+    ],
+    "count": 1
+  },
+  {
+    "url": "https://www.grandvictoria.com.tw/",
+    "names": [
+      "維多麗亞酒店"
+    ],
+    "statuses": [
+      "上架",
+      "待修",
+      "待修"
+    ],
+    "count": 3
+  },
+  {
+    "url": "https://www.huashan1914.com",
+    "names": [
+      "華山1914文化創意產業園區(Huashan1914)(Huashan1914)"
+    ],
+    "statuses": [
+      "上架",
+      "待修",
+      "待修",
+      "待修",
+      "待修",
+      "待修",
+      "待修",
+      "待修",
+      "待修",
+      "待修"
+    ],
+    "count": 10
+  },
+  {
+    "url": "https://www.secondfloor.com.tw/",
+    "names": [
+      "貳樓餐廳"
+    ],
+    "statuses": [
+      "待修"
+    ],
+    "count": 1
+  },
+  {
+    "url": "https://www.meeting.com.tw/ntu/",
+    "names": [
+      "集思台大會議中心(NTUCC)"
+    ],
+    "statuses": [
+      "上架",
+      "待修",
+      "待修",
+      "待修"
+    ],
+    "count": 4
+  },
+  {
+    "url": "https://www.shangri-la.com/tc/taipei/fareasternplazashangrila/",
+    "names": [
+      "香格里拉台北遠東國際大飯店"
+    ],
+    "statuses": [
+      "待修"
+    ],
+    "count": 1
+  },
+  {
+    "url": "https://www.cksmh.gov.tw",
+    "names": [
+      "中正紀念堂(CKSMH)"
+    ],
+    "statuses": [
+      "待修"
+    ],
+    "count": 1
+  },
+  {
+    "url": "https://xysc.cyc.org.tw/",
+    "names": [
+      "台北信義運動中心"
+    ],
+    "statuses": [
+      "待修"
+    ],
+    "count": 1
+  },
+  {
+    "url": "https://nhsc.cyc.org.tw/",
+    "names": [
+      "台北內湖運動中心"
+    ],
+    "statuses": [
+      "待修"
+    ],
+    "count": 1
+  },
+  {
+    "url": "https://www.yatsen.gov.tw/",
+    "names": [
+      "國父紀念館(SYSMH)"
+    ],
+    "statuses": [
+      "待修"
+    ],
+    "count": 1
+  },
+  {
+    "url": "https://www.thcp.org.tw/",
+    "names": [
+      "客家藝文活動中心"
+    ],
+    "statuses": [
+      "待修"
+    ],
+    "count": 1
+  },
+  {
+    "url": "https://zsdp.gov.taipei/",
+    "names": [
+      "朱崙區民活動中心",
+      "林森三區民活動中心",
+      "松江區民活動中心"
+    ],
+    "statuses": [
+      "待修",
+      "待修",
+      "待修"
+    ],
+    "count": 3
+  },
+  {
+    "url": "https://www.wtaipei.com",
+    "names": [
+      "台北W飯店(WTaipei)"
+    ],
+    "statuses": [
+      "待修",
+      "待修",
+      "待修"
+    ],
+    "count": 3
+  },
+  {
+    "url": "https://www.palaisdechine.com",
+    "names": [
+      "台北君品酒店(PalaisdeChine)"
+    ],
+    "statuses": [
+      "待修",
+      "待修",
+      "待修"
+    ],
+    "count": 3
+  },
+  {
+    "url": "https://www.ticc.com.tw/",
+    "names": [
+      "台北國際會議中心(TICC)"
+    ],
+    "statuses": [
+      "上架",
+      "待修",
+      "待修",
+      "上架",
+      "上架",
+      "上架",
+      "上架",
+      "上架",
+      "上架",
+      "上架",
+      "上架",
+      "上架",
+      "上架",
+      "上架",
+      "上架",
+      "上架",
+      "上架",
+      "上架",
+      "上架",
+      "上架",
+      "上架",
+      "上架",
+      "上架",
+      "上架",
+      "上架",
+      "上架",
+      "上架",
+      "上架",
+      "上架",
+      "上架",
+      "上架",
+      "上架",
+      "上架",
+      "上架",
+      "上架",
+      "上架",
+      "上架",
+      "上架",
+      "上架",
+      "上架",
+      "上架",
+      "上架",
+      "上架",
+      "上架",
+      "上架"
+    ],
+    "count": 45
+  },
+  {
+    "url": "https://cpbae.nccu.edu.tw",
+    "names": [
+      "政大公企中心"
+    ],
+    "statuses": [
+      "待修",
+      "待修",
+      "待修",
+      "待修",
+      "待修",
+      "待修",
+      "待修"
+    ],
+    "count": 7
+  },
+  {
+    "url": "https://www.tainex.com.tw/",
+    "names": [
+      "南港展覽館"
+    ],
+    "statuses": [
+      "待修",
+      "待修",
+      "待修",
+      "待修",
+      "待修"
+    ],
+    "count": 5
+  },
+  {
+    "url": "https://www.meeting.com.tw/",
+    "names": [
+      "集思交通部會議中心",
+      "集思北科大會議中心"
+    ],
+    "statuses": [
+      "待修",
+      "待修"
+    ],
+    "count": 2
+  }
+]
