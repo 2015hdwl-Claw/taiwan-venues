@@ -138,6 +138,18 @@ ${venueInfo}
     // 呼叫 AI
     const response = await callGLMAPI(session.messages);
 
+    // 檢查 API 錯誤
+    if (response.error) {
+      console.error('[GLM API] API returned error:', response.error);
+      throw new Error(response.error.message || 'API 調用失敗');
+    }
+
+    // 檢查回應格式
+    if (!response.choices || !response.choices[0] || !response.choices[0].message) {
+      console.error('[GLM API] Invalid response format:', JSON.stringify(response).substring(0, 200));
+      throw new Error('API 回應格式錯誤');
+    }
+
     // 取得 AI 回覆
     const aiMessage = response.choices[0].message.content;
 
