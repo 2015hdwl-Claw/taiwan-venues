@@ -3,7 +3,7 @@ const https = require('https');
 
 // GLM API 配置
 const GLM_API_URL = 'https://api.z.ai/api/coding/paas/v4/chat/completions';
-const GLM_API_KEY = process.env.GLM_API_KEY || '';
+const GLM_API_KEY = process.env.GLM_API_KEY_NEW || process.env.GLM_API_KEY || '';
 
 // 對話記憶 (session-based)
 const sessions = new Map();
