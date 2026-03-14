@@ -35,5 +35,6 @@ node_modules/
 
 # 根目錄的 JS 檔案（腳本）
 /*.js
-# 但保留 API 的 JS
+# 但保留 API 的 JS 和前端 script.js
 !api/*.js
+!script.js
