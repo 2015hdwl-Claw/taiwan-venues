@@ -21,8 +21,8 @@
       "dest": "/api/index.js"
     },
     {
-      "src": "/venues-all-cities.json",
-      "dest": "/public/venues-all-cities.json"
+      "src": "/(.*\\.json)",
+      "dest": "/public/$1"
     },
     {
       "src": "/(style.css|app.js)",
