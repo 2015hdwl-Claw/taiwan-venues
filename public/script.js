@@ -1,463 +1,787 @@
-// ===== 配置 =====
-const API_BASE = 'https://taiwan-venue-api.vercel.app';
-let currentPage = 1;
-let currentView = 'grid';
-let searchTimeout = null;
-let sessionId = null;
+// ===== 全局變數 =====
+let venues = [];
+let compareList = [];
+let currentTypeIndex = 0;
+let currentService = 'venue'; // 當前選中的服務類型
 
-// ===== 初始化 =====
-document.addEventListener('DOMContentLoaded', async () => {
-    // 生成 session ID
-    sessionId = 'session_' + Date.now() + '_' + Math.random().toString(36).substr(2, 9);
+// ===== 服務類型選擇 =====
+function selectService(service) {
+    currentService = service;
     
-    // 載入篩選器選項
-    await loadFilters();
+    // 更新卡片狀態
+    document.querySelectorAll('.service-card').forEach(card => {
+        card.classList.remove('active');
+    });
+    event.currentTarget.classList.add('active');
     
-    // 載入場地
-    await loadVenues();
-});
-
-// ===== 載入篩選器 =====
-async function loadFilters() {
-    try {
-        // 載入城市
-        const citiesRes = await fetch(`${API_BASE}/api/cities`);
-        const citiesData = await citiesRes.json();
-        
-        const citySelect = document.getElementById('cityFilter');
-        citiesData.cities.forEach(city => {
-            const option = document.createElement('option');
-            option.value = city;
-            option.textContent = city;
-            citySelect.appendChild(option);
-        });
-        
-        // 載入場地類型
-        const typesRes = await fetch(`${API_BASE}/api/venue-types`);
-        const typesData = await typesRes.json();
-        
-        const typeSelect = document.getElementById('typeFilter');
-        typesData.types.forEach(type => {
-            const option = document.createElement('option');
-            option.value = type;
-            option.textContent = type;
-            typeSelect.appendChild(option);
-        });
-    } catch (error) {
-        console.error('載入篩選器失敗:', error);
-    }
-}
-
-// ===== 載入場地 =====
-async function loadVenues(offset = 0) {
-    showLoading(true);
+    // 根據服務類型顯示/隱藏內容
+    const typeSelectorSection = document.getElementById('typeSelectorSection');
+    const venuesSection = document.getElementById('venuesSection');
     
-    try {
-        const keyword = document.getElementById('searchInput').value;
-        const city = document.getElementById('cityFilter').value;
-        const venueType = document.getElementById('typeFilter').value;
-        const capacity = document.getElementById('capacityFilter').value;
-        const maxPrice = document.getElementById('priceFilter').value;
-        
-        // 建立查詢參數
-        const params = new URLSearchParams();
-        params.append('limit', '20');
-        params.append('offset', offset);
-        
-        if (keyword) params.append('keyword', keyword);
-        if (city) params.append('city', city);
-        if (venueType) params.append('venueType', venueType);
-        if (capacity) {
-            const capacityMap = {
-                'small': '50',
-                'medium': '200',
-                'large': '500',
-                'xlarge': '1000'
-            };
-            params.append('minCapacity', capacityMap[capacity]);
-        }
-        if (maxPrice) params.append('maxPrice', maxPrice);
-        
-        const response = await fetch(`${API_BASE}/api/search?${params}`);
-        const data = await response.json();
-        
-        showLoading(false);
-        
-        if (data.results.length === 0) {
-            showEmpty(true);
-            hideGrid(true);
-        } else {
-            showEmpty(false);
-            hideGrid(false);
-            renderVenues(data.results);
-            renderPagination(data.total, offset);
-        }
-        
-        // 更新計數
-        document.getElementById('venuesCount').textContent = `(${data.total} 個場地)`;
-        
-    } catch (error) {
-        console.error('載入場地失敗:', error);
-        showLoading(false);
-        showError('載入失敗，請稍後再試');
-    }
-}
-
-// ===== 渲染場地 =====
-function renderVenues(venues) {
-    const grid = document.getElementById('venuesGrid');
-    
-    grid.innerHTML = venues.map(venue => `
-        <div class="venue-card ${currentView === 'list' ? 'list-view' : ''}" onclick="showVenueDetail(${venue.id})">
-            <div class="venue-image">
-                ${venue.images?.main 
-                    ? `<img src="${venue.images.main}" alt="${venue.name}" loading="lazy">`
-                    : `<div class="venue-image-placeholder">🏢</div>`
-                }
-                ${venue.status === '下架' ? '<span class="venue-badge offline">已下架</span>' : ''}
-            </div>
-            
-            <div class="venue-info">
-                <h3 class="venue-name">${venue.name}</h3>
-                
-                <div class="venue-meta">
-                    <span class="venue-type">${venue.venueType}</span>
-                    <span class="venue-city">📍 ${venue.city}</span>
-                </div>
-                
-                <p class="venue-address">${venue.address}</p>
-                
-                <div class="venue-stats">
-                    <div class="stat">
-                        <span class="stat-icon">👥</span>
-                        <span class="stat-value">${venue.maxCapacity || '-'} 人</span>
-                    </div>
-                    <div class="stat">
-                        <span class="stat-icon">💰</span>
-                        <span class="stat-value">${venue.minPrice ? formatPrice(venue.minPrice) : '電洽'}</span>
-                    </div>
-                    <div class="stat">
-                        <span class="stat-icon">🚪</span>
-                        <span class="stat-value">${venue.rooms?.length || 0} 間</span>
-                    </div>
-                </div>
-                
-                <div class="venue-actions">
-                    <button class="btn btn-secondary btn-sm" onclick="event.stopPropagation(); showVenueDetail(${venue.id})">
-                        查看詳情
-                    </button>
-                    <button class="btn btn-primary btn-sm" onclick="event.stopPropagation(); bookingInquiry(${venue.id})">
-                        預訂諮詢
-                    </button>
-                </div>
-            </div>
-        </div>
-    `).join('');
-}
-
-// ===== 場地詳情 =====
-async function showVenueDetail(venueId) {
-    try {
-        const response = await fetch(`${API_BASE}/api/venues/${venueId}`);
-        const venue = await response.json();
-        
-        const detailHtml = `
-            <div class="venue-detail-header">
-                ${venue.images?.main 
-                    ? `<img src="${venue.images.main}" alt="${venue.name}" class="venue-detail-image">`
-                    : `<div class="venue-detail-image-placeholder">🏢</div>`
-                }
-                <h2>${venue.name}</h2>
-                <div class="venue-detail-meta">
-                    <span>${venue.venueType}</span>
-                    <span>📍 ${venue.city}</span>
-                </div>
-            </div>
-            
-            <div class="venue-detail-section">
-                <h3>📍 地址</h3>
-                <p>${venue.address}</p>
-            </div>
-            
-            <div class="venue-detail-section">
-                <h3>📞 聯絡資訊</h3>
-                <p><strong>聯絡人：</strong>${venue.contactPerson}</p>
-                <p><strong>電話：</strong>${venue.contactPhone}</p>
-                <p><strong>Email：</strong>${venue.contactEmail}</p>
-            </div>
-            
-            ${venue.url ? `
-                <div class="venue-detail-section">
-                    <h3>🌐 官方網站</h3>
-                    <a href="${venue.url}" target="_blank" class="btn btn-secondary">${venue.url}</a>
-                </div>
-            ` : ''}
-            
-            <div class="venue-detail-section">
-                <h3>🚪 會議室 (${venue.rooms?.length || 0} 間)</h3>
-                <div class="rooms-list">
-                    ${venue.rooms?.map(room => `
-                        <div class="room-card">
-                            <h4>${room.name}</h4>
-                            <div class="room-info">
-                                <span>👥 ${room.capacity.theater || '-'} 人（劇院式）</span>
-                                <span>👥 ${room.capacity.classroom || '-'} 人（教室式）</span>
-                            </div>
-                            <div class="room-pricing">
-                                <span>半日：${room.pricing.halfDay ? formatPrice(room.pricing.halfDay) : '電洽'}</span>
-                                <span>全日：${room.pricing.fullDay ? formatPrice(room.pricing.fullDay) : '電洽'}</span>
-                            </div>
-                            <div class="room-equipment">
-                                ${room.equipment?.map(eq => `<span class="equipment-tag">${eq}</span>`).join('') || ''}
-                            </div>
-                        </div>
-                    `).join('') || '<p>暫無會議室資訊</p>'}
-                </div>
-            </div>
-            
-            <div class="venue-detail-actions">
-                <button class="btn btn-primary btn-lg" onclick="bookingInquiry(${venue.id})">
-                    📧 發送預訂諮詢
-                </button>
-                <button class="btn btn-secondary btn-lg" onclick="closeVenueModal()">
-                    關閉
+    if (service === 'venue') {
+        typeSelectorSection.style.display = 'block';
+        venuesSection.style.display = 'none';
+    } else {
+        // 其他服務類型顯示「即將推出」
+        typeSelectorSection.style.display = 'none';
+        venuesSection.style.display = 'block';
+        document.getElementById('venuesGrid').innerHTML = `
+            <div class="empty-state" style="grid-column: 1/-1; text-align: center; padding: 64px;">
+                <div style="font-size: 64px; margin-bottom: 24px;">🚧</div>
+                <h2 style="font-size: 24px; margin-bottom: 16px; color: var(--color-text);">即將推出</h2>
+                <p style="color: var(--color-text-secondary); font-size: 16px; max-width: 400px; margin: 0 auto;">
+                    我們正在努力準備「${getServiceName(service)}」服務，<br>
+                    敬請期待！
+                </p>
+                <button class="btn btn-primary" style="margin-top: 24px;" onclick="goBackToVenue()">
+                    返回場地搜尋
                 </button>
             </div>
         `;
-        
-        document.getElementById('venueDetail').innerHTML = detailHtml;
-        document.getElementById('venueModal').style.display = 'flex';
-        
+        document.getElementById('venuesTitle').textContent = getServiceName(service);
+        document.getElementById('venuesSubtitle').textContent = '服務準備中...';
+    }
+}
+
+function getServiceName(service) {
+    const names = {
+        'venue': '活動場地',
+        'catering': '活動餐飲',
+        'production': '活動製作物',
+        'execution': '活動執行'
+    };
+    return names[service] || '服務';
+}
+
+function goBackToVenue() {
+    selectService('venue');
+    document.querySelector('.service-card').click();
+}
+
+// 活動類型定義
+const activityTypes = [
+    {
+        id: 'meeting',
+        icon: '💼',
+        title: '公司會議',
+        subtitle: '企業會議、培訓、研討會',
+        filter: v => v.venueType === '會議場地' || v.type?.includes('會議')
+    },
+    {
+        id: 'banquet',
+        icon: '🎉',
+        title: '尾牙春酒',
+        subtitle: '企業活動、聚餐、發表會',
+        filter: v => v.type?.includes('宴會') || v.venueType === '飯店場地'
+    },
+    {
+        id: 'wedding',
+        icon: '💒',
+        title: '婚禮婚宴',
+        subtitle: '婚禮、訂婚宴、喜宴',
+        filter: v => v.type?.includes('宴會') && v.maxCapacityTheater >= 200
+    },
+    {
+        id: 'exhibition',
+        icon: '🎨',
+        title: '展覽活動',
+        subtitle: '展覽、市集、發表會',
+        filter: v => v.venueType === '展演場地' || v.type?.includes('展演')
+    },
+    {
+        id: 'outdoor',
+        icon: '🌳',
+        title: '戶外活動',
+        subtitle: '戶外派對、團建活動',
+        filter: v => v.type?.includes('戶外') || v.notes?.includes('戶外')
+    },
+    {
+        id: 'training',
+        icon: '📚',
+        title: '教育訓練',
+        subtitle: '課程、工作坊、講座',
+        filter: v => v.type?.includes('會議') && v.maxCapacityTheater <= 100
+    }
+];
+
+// ===== 初始化 =====
+document.addEventListener('DOMContentLoaded', async () => {
+    await loadVenues();
+    renderTypeCarousel();
+    updateCarouselIndicators();
+});
+
+// ===== 載入資料 =====
+async function loadVenues() {
+    try {
+        const response = await fetch('sample-data.json');
+        venues = await response.json();
+        console.log(`✅ 載入 ${venues.length} 個場地`);
     } catch (error) {
-        console.error('載入場地詳情失敗:', error);
-        alert('載入失敗，請稍後再試');
+        console.error('載入場地失敗:', error);
+        venues = [];
     }
 }
 
-function closeVenueModal() {
-    document.getElementById('venueModal').style.display = 'none';
+// ===== 活動類型 Carousel =====
+function renderTypeCarousel() {
+    const carousel = document.getElementById('typeCarousel');
+    
+    carousel.innerHTML = activityTypes.map((type, index) => {
+        const count = venues.filter(type.filter).length;
+        return `
+            <div class="type-card" onclick="selectType(${index})">
+                <div class="type-card-content">
+                    <span class="type-card-icon">${type.icon}</span>
+                    <h2 class="type-card-title">${type.title}</h2>
+                    <p class="type-card-subtitle">${type.subtitle}</p>
+                    <div class="type-card-count">
+                        ${count} 個場地
+                    </div>
+                </div>
+            </div>
+        `;
+    }).join('');
 }
 
-// ===== 預訂諮詢 =====
-function bookingInquiry(venueId) {
-    // 先取得場地資訊
-    fetch(`${API_BASE}/api/venues/${venueId}`)
-        .then(res => res.json())
-        .then(venue => {
-            const subject = encodeURIComponent(`場地預訂諮詢：${venue.name}`);
-            const body = encodeURIComponent(
-`您好，
+function prevType() {
+    const carousel = document.getElementById('typeCarousel');
+    const cardWidth = carousel.querySelector('.type-card')?.offsetWidth || 380;
+    carousel.scrollBy({ left: -cardWidth - 24, behavior: 'smooth' });
+    updateCarouselIndicators();
+}
 
-我想預訂以下場地：
+function nextType() {
+    const carousel = document.getElementById('typeCarousel');
+    const cardWidth = carousel.querySelector('.type-card')?.offsetWidth || 380;
+    carousel.scrollBy({ left: cardWidth + 24, behavior: 'smooth' });
+    updateCarouselIndicators();
+}
 
-場地名稱：${venue.name}
-地址：${venue.address}
-
-活動資訊：
-- 活動日期：
-- 活動時間：
-- 預計人數：
-- 活動類型：
-
-聯絡資訊：
-- 姓名：
-- 電話：
-- Email：
-
-請提供場地報價與檔期資訊，謝謝！
-
----
-此信件由 EventMaster 活動大師系統發送
-${window.location.href}
-            `);
-            
-            const mailto = `mailto:${venue.contactEmail}?subject=${subject}&body=${body}`;
-            window.location.href = mailto;
-        })
-        .catch(error => {
-            console.error('預訂諮詢失敗:', error);
-            alert('預訂諮詢失敗，請稍後再試');
+function updateCarouselIndicators() {
+    const carousel = document.getElementById('typeCarousel');
+    const indicators = document.getElementById('carouselIndicators');
+    const cards = carousel.querySelectorAll('.type-card');
+    const cardWidth = cards[0]?.offsetWidth || 380;
+    
+    indicators.innerHTML = activityTypes.map((_, index) => `
+        <div class="carousel-indicator ${index === 0 ? 'active' : ''}" 
+             onclick="scrollToType(${index})"></div>
+    `).join('');
+    
+    // 監聽滾動更新指示器
+    carousel.addEventListener('scroll', () => {
+        const scrollLeft = carousel.scrollLeft;
+        const currentIndex = Math.round(scrollLeft / (cardWidth + 24));
+        document.querySelectorAll('.carousel-indicator').forEach((ind, i) => {
+            ind.classList.toggle('active', i === currentIndex);
         });
+    });
 }
 
-// ===== 搜尋 =====
-function handleSearch(event) {
-    clearTimeout(searchTimeout);
-    searchTimeout = setTimeout(() => {
-        loadVenues(0);
-    }, 500);
+function scrollToType(index) {
+    const carousel = document.getElementById('typeCarousel');
+    const cards = carousel.querySelectorAll('.type-card');
+    const cardWidth = cards[0]?.offsetWidth || 380;
+    carousel.scrollTo({ left: index * (cardWidth + 24), behavior: 'smooth' });
 }
 
-function searchVenues() {
-    loadVenues(0);
+// ===== 選擇活動類型 =====
+function selectType(index) {
+    currentTypeIndex = index;
+    const type = activityTypes[index];
+    
+    // 隱藏選擇器，顯示場地列表
+    document.getElementById('typeSelectorSection').style.display = 'none';
+    document.getElementById('venuesSection').style.display = 'block';
+    
+    // 更新標題
+    document.getElementById('venuesTitle').textContent = type.title;
+    document.getElementById('venuesSubtitle').textContent = type.subtitle;
+    
+    // 篩選場地
+    const filteredVenues = venues.filter(type.filter);
+    renderVenues(filteredVenues);
+    
+    // 更新縣市篩選器
+    updateCityFilter(filteredVenues);
 }
 
-function applyFilters() {
-    loadVenues(0);
+// ===== 返回選擇 =====
+function goBack() {
+    document.getElementById('typeSelectorSection').style.display = 'flex';
+    document.getElementById('venuesSection').style.display = 'none';
 }
 
-// ===== 分頁 =====
-function renderPagination(total, currentOffset) {
-    const pagination = document.getElementById('pagination');
-    const limit = 20;
-    const totalPages = Math.ceil(total / limit);
-    const currentPage = Math.floor(currentOffset / limit) + 1;
+// ===== 篩選場地 =====
+function updateCityFilter(filteredVenues) {
+    const cities = [...new Set(filteredVenues.map(v => v.city))].sort();
+    const select = document.getElementById('cityFilter');
     
-    if (totalPages <= 1) {
-        pagination.style.display = 'none';
-        return;
-    }
-    
-    let html = '';
-    
-    // 上一頁
-    if (currentPage > 1) {
-        html += `<button class="page-btn" onclick="loadVenues(${(currentPage - 2) * limit})">← 上一頁</button>`;
-    }
-    
-    // 頁碼
-    const startPage = Math.max(1, currentPage - 2);
-    const endPage = Math.min(totalPages, currentPage + 2);
-    
-    for (let i = startPage; i <= endPage; i++) {
-        const activeClass = i === currentPage ? 'active' : '';
-        html += `<button class="page-btn ${activeClass}" onclick="loadVenues(${(i - 1) * limit})">${i}</button>`;
-    }
-    
-    // 下一頁
-    if (currentPage < totalPages) {
-        html += `<button class="page-btn" onclick="loadVenues(${currentPage * limit})">下一頁 →</button>`;
-    }
-    
-    pagination.innerHTML = html;
-    pagination.style.display = 'flex';
+    select.innerHTML = '<option value="">所有縣市</option>' + 
+        cities.map(city => `<option value="${city}">${city}</option>`).join('');
 }
 
-// ===== 視圖切換 =====
-function setView(view) {
-    currentView = view;
+// ===== 快速篩選 =====
+let currentQuickFilter = 'all';
+
+function quickFilter(region) {
+    currentQuickFilter = region;
     
-    document.querySelectorAll('.view-btn').forEach(btn => {
+    // 更新按鈕狀態
+    document.querySelectorAll('.quick-filter-btn').forEach(btn => {
         btn.classList.remove('active');
     });
     event.currentTarget.classList.add('active');
     
-    const grid = document.getElementById('venuesGrid');
-    if (view === 'list') {
-        grid.classList.add('list-view');
-    } else {
-        grid.classList.remove('list-view');
-    }
-}
-
-// ===== AI 聊天 =====
-function toggleChat() {
-    const chatWindow = document.getElementById('chatWindow');
-    chatWindow.style.display = chatWindow.style.display === 'none' ? 'flex' : 'none';
-}
-
-function handleChatKeyup(event) {
-    if (event.key === 'Enter') {
-        sendMessage();
-    }
-}
-
-async function sendMessage() {
-    const input = document.getElementById('chatInput');
-    const message = input.value.trim();
+    // 更新縣市篩選器
+    const cityFilter = document.getElementById('cityFilter');
     
-    if (!message) return;
-    
-    // 顯示用戶訊息
-    addChatMessage('user', message);
-    input.value = '';
-    
-    // 顯示輸入中
-    const loadingDiv = addChatMessage('bot', '思考中...', true);
-    
-    try {
-        const response = await fetch(`${API_BASE}/api/chat`, {
-            method: 'POST',
-            headers: {
-                'Content-Type': 'application/json'
-            },
-            body: JSON.stringify({
-                message,
-                sessionId
-            })
-        });
-        
-        const data = await response.json();
-        
-        // 移除載入中
-        loadingDiv.remove();
-        
-        if (data.success) {
-            addChatMessage('bot', data.message);
-            
-            // 如果有推薦場地
-            if (data.venues && data.venues.length > 0) {
-                const venuesHtml = data.venues.map(v => `
-                    <div class="chat-venue-card" onclick="showVenueDetail(${v.id})">
-                        <strong>${v.name}</strong>
-                        <span>${v.city}</span>
-                        <span>👥 ${v.maxCapacity} 人</span>
-                    </div>
-                `).join('');
-                
-                addChatMessage('bot', `<div class="chat-venues">${venuesHtml}</div>`);
+    if (region === 'north') {
+        // 北北基：只顯示符合的縣市
+        const northCities = ['台北市', '台北', '新北市', '新北', '基隆市', '基隆'];
+        const options = cityFilter.querySelectorAll('option');
+        options.forEach(opt => {
+            if (opt.value === '' || northCities.some(c => opt.value.includes(c.replace('市', '')))) {
+                opt.style.display = '';
+            } else {
+                opt.style.display = 'none';
             }
-        } else {
-            addChatMessage('bot', data.message || '抱歉，我現在有點問題。請稍後再試。');
+        });
+        cityFilter.value = '';
+    } else {
+        // 全台灣：顯示所有縣市
+        const options = cityFilter.querySelectorAll('option');
+        options.forEach(opt => {
+            opt.style.display = '';
+        });
+        cityFilter.value = '';
+    }
+    
+    filterVenues();
+}
+
+function filterVenues() {
+    const type = activityTypes[currentTypeIndex];
+    let city = document.getElementById('cityFilter').value;
+    const capacity = document.getElementById('capacityFilter').value;
+    const sort = document.getElementById('sortFilter').value;
+    
+    // 快速篩選：北北基
+    if (currentQuickFilter === 'north' && !city) {
+        const northCities = ['台北市', '台北', '新北市', '新北', '基隆市', '基隆'];
+        let filtered = venues.filter(v => 
+            type.filter(v) && northCities.some(c => v.city === c || v.city.includes(c.replace('市', '')))
+        );
+        
+        if (capacity) {
+            const capacityRanges = {
+                'small': v => (v.maxCapacityTheater || 0) <= 50,
+                'medium': v => (v.maxCapacityTheater || 0) > 50 && (v.maxCapacityTheater || 0) <= 200,
+                'large': v => (v.maxCapacityTheater || 0) > 200 && (v.maxCapacityTheater || 0) <= 500,
+                'xlarge': v => (v.maxCapacityTheater || 0) > 500
+            };
+            filtered = filtered.filter(capacityRanges[capacity]);
         }
         
-    } catch (error) {
-        loadingDiv.remove();
-        addChatMessage('bot', '網路連線失敗，請稍後再試。');
-        console.error('聊天錯誤:', error);
+        filtered = sortVenues(filtered, sort);
+        renderVenues(filtered);
+        return;
     }
-}
-
-function addChatMessage(type, content, isTemporary = false) {
-    const messagesDiv = document.getElementById('chatMessages');
-    const messageDiv = document.createElement('div');
-    messageDiv.className = `chat-message ${type}`;
-    messageDiv.innerHTML = `<div class="message-content">${content}</div>`;
     
-    messagesDiv.appendChild(messageDiv);
-    messagesDiv.scrollTop = messagesDiv.scrollHeight;
+    let filtered = venues.filter(type.filter);
     
-    if (isTemporary) {
-        return messageDiv;
+    if (city) {
+        filtered = filtered.filter(v => v.city === city);
     }
+    
+    if (capacity) {
+        const capacityRanges = {
+            'small': v => (v.maxCapacityTheater || 0) <= 50,
+            'medium': v => (v.maxCapacityTheater || 0) > 50 && (v.maxCapacityTheater || 0) <= 200,
+            'large': v => (v.maxCapacityTheater || 0) > 200 && (v.maxCapacityTheater || 0) <= 500,
+            'xlarge': v => (v.maxCapacityTheater || 0) > 500
+        };
+        filtered = filtered.filter(capacityRanges[capacity]);
+    }
+    
+    // 排序
+    filtered = sortVenues(filtered, sort);
+    
+    renderVenues(filtered);
 }
 
-// ===== UI 輔助函數 =====
-function showLoading(show) {
-    document.getElementById('loadingState').style.display = show ? 'flex' : 'none';
+// ===== 排序場地 =====
+function sortVenues(venueList, sortType) {
+    const sorted = [...venueList];
+
+    switch (sortType) {
+        case 'name-asc':
+            // 場地名稱排序
+            sorted.sort((a, b) => {
+                const nameA = a.name + (a.roomName || '');
+                const nameB = b.name + (b.roomName || '');
+                return nameA.localeCompare(nameB, 'zh-TW');
+            });
+            break;
+
+        case 'price-asc':
+            // 價格由低到高
+            sorted.sort((a, b) => {
+                const priceA = a.priceHalfDay || a.priceFullDay || 999999;
+                const priceB = b.priceHalfDay || b.priceFullDay || 999999;
+                return priceA - priceB;
+            });
+            break;
+
+        case 'price-desc':
+            // 價格由高到低
+            sorted.sort((a, b) => {
+                const priceA = a.priceHalfDay || a.priceFullDay || 0;
+                const priceB = b.priceHalfDay || b.priceFullDay || 0;
+                return priceB - priceA;
+            });
+            break;
+
+        case 'capacity-desc':
+            // 容納人數由多到少
+            sorted.sort((a, b) => {
+                const capA = getMaxCapacity(a);
+                const capB = getMaxCapacity(b);
+                return capB - capA;
+            });
+            break;
+
+        default:
+            // 預設排序：場地名稱
+            sorted.sort((a, b) => {
+                const nameA = a.name + (a.roomName || '');
+                const nameB = b.name + (b.roomName || '');
+                return nameA.localeCompare(nameB, 'zh-TW');
+            });
+            break;
+    }
+
+    return sorted;
 }
 
-function showEmpty(show) {
-    document.getElementById('emptyState').style.display = show ? 'flex' : 'none';
+// ===== 渲染場地列表 =====
+function renderVenues(venueList) {
+    const grid = document.getElementById('venuesGrid');
+    document.getElementById('venueCount').textContent = venueList.length;
+    
+    if (venueList.length === 0) {
+        grid.innerHTML = `
+            <div class="empty-state" style="grid-column: 1/-1; text-align: center; padding: 48px;">
+                <div style="font-size: 48px; margin-bottom: 16px;">📭</div>
+                <h3 style="font-size: 21px; margin-bottom: 8px;">沒有找到符合的場地</h3>
+                <p style="color: var(--color-text-secondary);">試試調整篩選條件</p>
+            </div>
+        `;
+        return;
+    }
+    
+    grid.innerHTML = venueList.map(venue => {
+        const inCompare = compareList.includes(venue.id);
+        const imageUrl = venue.images?.main || (Array.isArray(venue.images) && venue.images[0]) || null;
+        return `
+            <div class="venue-card" onclick="showVenueDetail(${venue.id})">
+                <div class="venue-card-image" ${imageUrl ? `style="background-image: url('${imageUrl}'); background-size: cover; background-position: center;"` : ''}>
+                    <span class="venue-card-badge">${venue.venueType || '場地'}</span>
+                    ${!imageUrl ? (venue.venueType === '飯店場地' ? '🏨' : venue.venueType === '展演場地' ? '🎭' : '🏢') : ''}
+                </div>
+                <div class="venue-card-content">
+                    <h3 class="venue-card-name">${venue.name}</h3>
+                    <p class="venue-card-room">${venue.roomName || ''}</p>
+                    <div class="venue-card-info">
+                        <div class="venue-info-item">
+                            📍 ${venue.city}
+                        </div>
+                        <div class="venue-info-item">
+                            👥 ${getMaxCapacity(venue)} 人
+                        </div>
+                    </div>
+                    <div class="venue-card-price">
+                        ${venue.priceFullDay ? '$' + Number(venue.priceFullDay).toLocaleString() : '需詢價'}
+                        <span>/ 全天</span>
+                    </div>
+                    <div class="venue-card-actions">
+                        <button class="btn btn-primary btn-small" onclick="event.stopPropagation(); showVenueDetail(${venue.id})">
+                            查看詳情
+                        </button>
+                        <button class="btn ${inCompare ? 'btn-primary' : 'btn-secondary'} btn-small" 
+                                onclick="event.stopPropagation(); toggleCompare(${venue.id})">
+                            ${inCompare ? '− 移除' : '+ 比較'}
+                        </button>
+                    </div>
+                </div>
+            </div>
+        `;
+    }).join('');
 }
 
-function hideGrid(hide) {
-    document.getElementById('venuesGrid').style.display = hide ? 'none' : 'grid';
+// ===== 取得最大容納人數 =====
+function getMaxCapacity(venue) {
+    return venue.maxCapacityTheater || venue.maxCapacityEmpty || venue.maxCapacityClassroom || 100;
 }
 
-function showError(message) {
-    alert(message);
-}
-
-function formatPrice(price) {
-    return price.toLocaleString('zh-TW') + '元';
-}
-
-// ===== 點擊外部關閉 Modal =====
-window.onclick = function(event) {
+// ===== 場地詳情 =====
+function showVenueDetail(id) {
+    const venue = venues.find(v => v.id === id);
+    if (!venue) return;
+    
     const modal = document.getElementById('venueModal');
-    if (event.target === modal) {
-        closeVenueModal();
+    const content = document.getElementById('modalContent');
+    const inCompare = compareList.includes(id);
+    
+    // 準備照片畫廊
+    const images = venue.images || {};
+    const mainImage = images.main;
+    const galleryImages = images.gallery || [];
+    const allImages = mainImage ? [mainImage, ...galleryImages] : galleryImages;
+    const floorPlan = images.floorPlan;
+
+    content.innerHTML = `
+        <div class="venue-detail-header">
+            <h1 class="venue-detail-title">${venue.name}</h1>
+            <p class="venue-detail-subtitle">${venue.roomName || ''} · ${venue.city}</p>
+        </div>
+
+        ${allImages.length > 0 ? `
+            <div class="venue-detail-photos">
+                <div class="photo-gallery" id="photoGallery">
+                    ${allImages.map((img, idx) => `
+                        <div class="photo-slide ${idx === 0 ? 'active' : ''}" data-index="${idx}">
+                            <img src="${img}" alt="${venue.name} 照片 ${idx + 1}" onclick="openPhotoViewer(${idx})">
+                        </div>
+                    `).join('')}
+                </div>
+                ${allImages.length > 1 ? `
+                    <div class="photo-nav">
+                        <button class="photo-nav-btn" onclick="prevPhoto()">‹</button>
+                        <span class="photo-counter"><span id="currentPhoto">1</span> / ${allImages.length}</span>
+                        <button class="photo-nav-btn" onclick="nextPhoto()">›</button>
+                    </div>
+                    <div class="photo-thumbnails">
+                        ${allImages.map((img, idx) => `
+                            <div class="photo-thumb ${idx === 0 ? 'active' : ''}" onclick="goToPhoto(${idx})">
+                                <img src="${img}" alt="縮圖 ${idx + 1}">
+                            </div>
+                        `).join('')}
+                    </div>
+                ` : ''}
+                ${floorPlan ? `
+                    <div class="floor-plan-section">
+                        <h4>📐 場地平面圖</h4>
+                        <img src="${floorPlan}" alt="場地平面圖" class="floor-plan-img">
+                    </div>
+                ` : ''}
+            </div>
+        ` : ''}
+
+        <div class="venue-detail-section">
+            <h3>基本資訊</h3>
+            <div class="venue-detail-grid">
+                <div class="venue-detail-item">
+                    <span class="venue-detail-label">地址</span>
+                    <span class="venue-detail-value">${venue.address || '未提供'}</span>
+                </div>
+                <div class="venue-detail-item">
+                    <span class="venue-detail-label">最大容納</span>
+                    <span class="venue-detail-value large">${getMaxCapacity(venue)} 人</span>
+                </div>
+                <div class="venue-detail-item">
+                    <span class="venue-detail-label">全天費用</span>
+                    <span class="venue-detail-value large">
+                        ${venue.priceFullDay ? '$' + Number(venue.priceFullDay).toLocaleString() : '需詢價'}
+                    </span>
+                </div>
+                <div class="venue-detail-item">
+                    <span class="venue-detail-label">可使用時間</span>
+                    <span class="venue-detail-value">${venue.availableTimeWeekday || '08:00-22:00'}</span>
+                </div>
+            </div>
+        </div>
+        
+        ${venue.transportation ? `
+            <div class="venue-detail-section">
+                <h3>交通資訊</h3>
+                <div class="venue-detail-grid">
+                    ${venue.transportation.mrt ? `
+                        <div class="venue-detail-item">
+                            <span class="venue-detail-label">🚇 捷運</span>
+                            <span class="venue-detail-value">
+                                ${venue.transportation.mrt.station}
+                                ${venue.transportation.mrt.walkingMinutes ? ` · 步行 ${venue.transportation.mrt.walkingMinutes} 分鐘` : ''}
+                            </span>
+                        </div>
+                    ` : ''}
+                    ${venue.transportation.parking ? `
+                        <div class="venue-detail-item">
+                            <span class="venue-detail-label">🅿️ 停車</span>
+                            <span class="venue-detail-value">
+                                ${venue.transportation.parking.name || '有停車場'}
+                                ${venue.transportation.parking.hourlyRate ? ` · $${venue.transportation.parking.hourlyRate}/時` : ''}
+                            </span>
+                        </div>
+                    ` : ''}
+                </div>
+            </div>
+        ` : ''}
+        
+        ${venue.dimensions ? `
+            <div class="venue-detail-section">
+                <h3>場地尺寸</h3>
+                <div class="venue-detail-grid">
+                    <div class="venue-detail-item">
+                        <span class="venue-detail-label">面積</span>
+                        <span class="venue-detail-value large">${venue.dimensions.area || '-'} 坪</span>
+                    </div>
+                    ${venue.dimensions.length && venue.dimensions.width ? `
+                        <div class="venue-detail-item">
+                            <span class="venue-detail-label">長寬</span>
+                            <span class="venue-detail-value">${venue.dimensions.length} × ${venue.dimensions.width} 公尺</span>
+                        </div>
+                    ` : ''}
+                    ${venue.dimensions.height ? `
+                        <div class="venue-detail-item">
+                            <span class="venue-detail-label">高度</span>
+                            <span class="venue-detail-value">${venue.dimensions.height} 公尺</span>
+                        </div>
+                    ` : ''}
+                </div>
+            </div>
+        ` : ''}
+        
+        ${venue.seatingArrangements ? `
+            <div class="venue-detail-section">
+                <h3>座位配置</h3>
+                <div class="venue-detail-tags">
+                    ${Object.entries(venue.seatingArrangements).map(([key, arr]) => `
+                        <div class="venue-tag">${arr.description || key} · ${arr.capacity} 人</div>
+                    `).join('')}
+                </div>
+            </div>
+        ` : ''}
+        
+        <div class="venue-detail-section">
+            <h3>聯絡資訊</h3>
+            <div class="venue-detail-grid">
+                <div class="venue-detail-item">
+                    <span class="venue-detail-label">電話</span>
+                    <span class="venue-detail-value">${venue.contactPhone || '未提供'}</span>
+                </div>
+                ${venue.contactEmail ? `
+                    <div class="venue-detail-item">
+                        <span class="venue-detail-label">Email</span>
+                        <span class="venue-detail-value">${venue.contactEmail}</span>
+                    </div>
+                ` : ''}
+            </div>
+        </div>
+        
+        <div class="venue-detail-actions">
+            <a href="tel:${venue.contactPhone}" class="btn btn-primary" onclick="event.stopPropagation()">
+                📞 立即致電
+            </a>
+            <button class="btn ${inCompare ? 'btn-primary' : 'btn-secondary'}" onclick="event.stopPropagation(); toggleCompare(${venue.id}); showVenueDetail(${venue.id});">
+                ${inCompare ? '− 從比較移除' : '+ 加入比較'}
+            </button>
+        </div>
+    `;
+    
+    modal.classList.add('active');
+}
+
+function closeModal() {
+    document.getElementById('venueModal').classList.remove('active');
+}
+
+// ===== 比較功能 =====
+function toggleCompare(id) {
+    if (compareList.includes(id)) {
+        compareList = compareList.filter(i => i !== id);
+    } else {
+        if (compareList.length >= 3) {
+            alert('最多只能比較 3 個場地');
+            return;
+        }
+        compareList.push(id);
+    }
+    
+    updateComparePanel();
+    
+    // 如果在場地列表頁，重新渲染以更新按鈕狀態
+    if (document.getElementById('venuesSection').style.display !== 'none') {
+        filterVenues();
     }
 }
-// v1773501112
+
+function updateComparePanel() {
+    const panel = document.getElementById('comparePanel');
+    const count = document.getElementById('compareCount');
+    const viewBtn = document.getElementById('compareViewBtn');
+    const items = document.getElementById('compareItems');
+    
+    count.textContent = compareList.length;
+    viewBtn.disabled = compareList.length < 2;
+    
+    if (compareList.length > 0) {
+        panel.classList.add('active');
+        
+        items.innerHTML = compareList.map(id => {
+            const venue = venues.find(v => v.id === id);
+            return `
+                <div class="compare-item">
+                    <span class="compare-item-name">${venue?.name || '未知場地'}</span>
+                    <button class="compare-item-remove" onclick="toggleCompare(${id})">✕</button>
+                </div>
+            `;
+        }).join('');
+    } else {
+        panel.classList.remove('active');
+    }
+}
+
+function showCompare() {
+    if (compareList.length < 2) {
+        alert('請至少選擇 2 個場地進行比較');
+        return;
+    }
+    
+    const modal = document.getElementById('compareModal');
+    const content = document.getElementById('compareContent');
+    
+    const compareVenues = compareList.map(id => venues.find(v => v.id === id)).filter(v => v);
+    
+    content.innerHTML = `
+        <table class="compare-table">
+            <thead>
+                <tr>
+                    <th>比較項目</th>
+                    ${compareVenues.map(v => `
+                        <th class="compare-venue-header">
+                            <div style="font-weight: 600; font-size: 17px;">${v.name}</div>
+                            <div style="font-size: 14px; color: var(--color-text-secondary); font-weight: 400;">${v.roomName || ''}</div>
+                        </th>
+                    `).join('')}
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>📍 縣市</td>
+                    ${compareVenues.map(v => `<td>${v.city}</td>`).join('')}
+                </tr>
+                <tr>
+                    <td>📍 地址</td>
+                    ${compareVenues.map(v => `<td style="max-width: 200px; font-size: 14px;">${v.address || '未提供'}</td>`).join('')}
+                </tr>
+                <tr>
+                    <td>👥 最大容納</td>
+                    ${compareVenues.map(v => `<td class="compare-value-highlight">${getMaxCapacity(v)} 人</td>`).join('')}
+                </tr>
+                <tr>
+                    <td>💰 全天費用</td>
+                    ${compareVenues.map(v => `<td class="compare-value-highlight">${v.priceFullDay ? '$' + Number(v.priceFullDay).toLocaleString() : '需詢價'}</td>`).join('')}
+                </tr>
+                <tr>
+                    <td>📐 場地大小</td>
+                    ${compareVenues.map(v => `<td>${v.dimensions?.area ? v.dimensions.area + ' 坪' : '未提供'}</td>`).join('')}
+                </tr>
+                <tr>
+                    <td>🚇 捷運站</td>
+                    ${compareVenues.map(v => `<td>${v.transportation?.mrt?.station || '無'}</td>`).join('')}
+                </tr>
+                <tr>
+                    <td>🅿️ 停車費用</td>
+                    ${compareVenues.map(v => `<td>${v.transportation?.parking ? '$' + v.transportation.parking.hourlyRate + '/時' : '未提供'}</td>`).join('')}
+                </tr>
+                <tr>
+                    <td>🎭 劇院型</td>
+                    ${compareVenues.map(v => `<td>${v.seatingArrangements?.theater?.capacity || v.maxCapacityTheater || '-'} 人</td>`).join('')}
+                </tr>
+                <tr>
+                    <td>📚 會議型</td>
+                    ${compareVenues.map(v => `<td>${v.seatingArrangements?.classroom?.capacity || v.maxCapacityClassroom || '-'} 人</td>`).join('')}
+                </tr>
+                <tr>
+                    <td>🍽️ 宴會型</td>
+                    ${compareVenues.map(v => `<td>${v.seatingArrangements?.banquet?.capacity || '-'} 人</td>`).join('')}
+                </tr>
+                <tr>
+                    <td>📞 聯絡電話</td>
+                    ${compareVenues.map(v => `<td><a href="tel:${v.contactPhone}" style="color: var(--color-accent); text-decoration: none;">${v.contactPhone || '未提供'}</a></td>`).join('')}
+                </tr>
+            </tbody>
+        </table>
+    `;
+    
+    modal.classList.add('active');
+}
+
+function closeCompareModal() {
+    document.getElementById('compareModal').classList.remove('active');
+}
+
+function clearCompare() {
+    compareList = [];
+    updateComparePanel();
+    filterVenues();
+}
+
+// ===== 點擊背景關閉 Modal =====
+document.addEventListener('click', (e) => {
+    if (e.target.classList.contains('modal-backdrop')) {
+        e.target.closest('.modal').classList.remove('active');
+    }
+});
+
+// ===== 鍵盤事件 =====
+document.addEventListener('keydown', (e) => {
+    if (e.key === 'Escape') {
+        closeModal();
+        closeCompareModal();
+    }
+});
+
+// ===== 照片畫廊功能 =====
+let currentPhotoIndex = 0;
+let totalPhotos = 0;
+
+function prevPhoto() {
+    if (totalPhotos <= 1) return;
+    currentPhotoIndex = (currentPhotoIndex - 1 + totalPhotos) % totalPhotos;
+    updatePhotoGallery();
+}
+
+function nextPhoto() {
+    if (totalPhotos <= 1) return;
+    currentPhotoIndex = (currentPhotoIndex + 1) % totalPhotos;
+    updatePhotoGallery();
+}
+
+function goToPhoto(index) {
+    currentPhotoIndex = index;
+    updatePhotoGallery();
+}
+
+function updatePhotoGallery() {
+    // 更新幻燈片
+    document.querySelectorAll('.photo-slide').forEach((slide, idx) => {
+        slide.classList.toggle('active', idx === currentPhotoIndex);
+    });
+    // 更新縮圖
+    document.querySelectorAll('.photo-thumb').forEach((thumb, idx) => {
+        thumb.classList.toggle('active', idx === currentPhotoIndex);
+    });
+    // 更新計數器
+    const counter = document.getElementById('currentPhoto');
+    if (counter) counter.textContent = currentPhotoIndex + 1;
+}
+
+function openPhotoViewer(index) {
+    currentPhotoIndex = index;
+    updatePhotoGallery();
+    // 可以擴展為全螢幕檢視器
+}
+// DEPLOY: 1773502405
