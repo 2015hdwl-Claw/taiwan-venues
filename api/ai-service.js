@@ -2,7 +2,7 @@
 const https = require('https');
 
 // GLM API 配置
-const GLM_API_URL = 'https://open.bigmodel.cn/api/paas/v4/chat/completions';
+const GLM_API_URL = 'https://api.z.ai/api/coding/paas/v4/chat/completions';
 const GLM_API_KEY = process.env.GLM_API_KEY || '';
 
 // 對話記憶 (session-based)
@@ -46,16 +46,16 @@ async function callGLMAPI(messages) {
     }
 
     const postData = JSON.stringify({
-      model: 'glm-4-flash',
+      model: 'glm-4.7-flash',
       messages: messages,
       temperature: 0.7,
       max_tokens: 1000
     });
 
     const options = {
-      hostname: 'open.bigmodel.cn',
+      hostname: 'api.z.ai',
       port: 443,
-      path: '/api/paas/v4/chat/completions',
+      path: '/api/coding/paas/v4/chat/completions',
       method: 'POST',
       headers: {
         'Content-Type': 'application/json',
