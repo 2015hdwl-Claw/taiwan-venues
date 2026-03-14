@@ -33,7 +33,10 @@ const SYSTEM_PROMPT = `你是台灣場地搜尋助手。使用者會描述他們
 // 呼叫 GLM API
 async function callGLMAPI(messages) {
   return new Promise((resolve, reject) => {
-    if (!GLM_API_KEY) {
+    // 動態獲取並清理 API key
+    const apiKey = (process.env.GLM_API_KEY_NEW || process.env.GLM_API_KEY || '').trim();
+
+    if (!apiKey) {
       // 如果沒有 API key，返回模擬回應
       console.log('[GLM API] No API key found');
       resolve({
@@ -46,7 +49,7 @@ async function callGLMAPI(messages) {
       return;
     }
 
-    console.log('[GLM API] Calling API with key length:', GLM_API_KEY.length);
+    console.log('[GLM API] Calling API with key length:', apiKey.length);
 
     const postData = JSON.stringify({
       model: 'glm-4.7-flash',
@@ -62,7 +65,7 @@ async function callGLMAPI(messages) {
       method: 'POST',
       headers: {
         'Content-Type': 'application/json',
-        'Authorization': `Bearer ${GLM_API_KEY}`,
+        'Authorization': `Bearer ${apiKey}`,
         'Content-Length': Buffer.byteLength(postData)
       }
     };
