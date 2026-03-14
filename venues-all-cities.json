@@ -1213,7 +1213,12 @@
     "updateReason": "SOP V4.7 修復：設定 roomsCount",
     "updateSource": "本地腳本自動修復",
     "statusChangedAt": "2026-03-03T09:09:29.361Z",
-    "statusChangeReason": "SOP V4.7 驗證：資料完整"
+    "statusChangeReason": "SOP V4.7 驗證：資料完整",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E4%BF%A1%E7%BE%A9%E5%8D%80%E6%B0%B8%E5%90%89%E8%B7%AF30%E5%B7%B7145%E8%99%9F",
+    "latitude": 25.0305,
+    "longitude": 121.57,
+    "coordinateSource": "區域中心(信義區)",
+    "needsCoordinateVerification": true
   },
   {
     "id": 1032,
@@ -1266,7 +1271,12 @@
     "updateReason": "SOP V4.7: 補充會議室照片",
     "updateSource": "使用已爬取的照片資料",
     "statusChangedAt": "2026-03-03T08:13:12.668Z",
-    "statusChangeReason": "SOP V4.7: 資料完整，恢復上架"
+    "statusChangeReason": "SOP V4.7: 資料完整，恢復上架",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E5%A4%A7%E5%AE%89%E5%8D%80%E5%BE%A9%E8%88%88%E5%8D%97%E8%B7%AF%E4%B8%80%E6%AE%B5%20293%20%E8%99%9F%203%20%E6%A8%93%E4%B9%8B%201",
+    "latitude": 25.0339,
+    "longitude": 121.5346,
+    "coordinateSource": "區域中心(大安區)",
+    "needsCoordinateVerification": true
   },
   {
     "id": 1033,
@@ -1312,7 +1322,12 @@
     "updateReason": "SOP V4.7 驗證: ❌ 缺少主照片",
     "updateSource": "自動檢查腳本",
     "statusChangedAt": "2026-03-03T10:24:23.088Z",
-    "statusChangeReason": "SOP V4.7 完整驗證"
+    "statusChangeReason": "SOP V4.7 完整驗證",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E5%A4%A7%E5%AE%89%E5%8D%80%E5%BE%A9%E8%88%88%E5%8D%97%E8%B7%AF%E4%B8%80%E6%AE%B5107%E5%B7%B75%E8%99%9F",
+    "latitude": 25.0339,
+    "longitude": 121.5346,
+    "coordinateSource": "區域中心(大安區)",
+    "needsCoordinateVerification": true
   },
   {
     "id": 1034,
@@ -1384,7 +1399,12 @@
     "updateReason": "SOP V4.7 修復：設定 roomsCount",
     "updateSource": "本地腳本自動修復",
     "statusChangedAt": "2026-03-03T08:13:12.669Z",
-    "statusChangeReason": "SOP V4.7: 資料完整，恢復上架"
+    "statusChangeReason": "SOP V4.7: 資料完整，恢復上架",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E5%8D%97%E6%B8%AF%E5%8D%80%E5%B8%82%E6%B0%91%E5%A4%A7%E9%81%93%E4%B8%83%E6%AE%B58%E8%99%9F",
+    "latitude": 25.055,
+    "longitude": 121.615,
+    "coordinateSource": "區域中心(南港區)",
+    "needsCoordinateVerification": true
   },
   {
     "id": 1035,
@@ -1440,7 +1460,12 @@
     "updateSource": "本地腳本自動修復",
     "lastUpdated": "2026-03-03T07:25:54.258Z",
     "statusChangedAt": "2026-03-03T08:13:12.669Z",
-    "statusChangeReason": "SOP V4.7: 資料完整，恢復上架"
+    "statusChangeReason": "SOP V4.7: 資料完整，恢復上架",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E6%9D%BE%E5%B1%B1%E5%8D%80%E6%B0%91%E7%94%9F%E6%9D%B1%E8%B7%AF%E4%B8%89%E6%AE%B5156%E8%99%9F",
+    "latitude": 25.058,
+    "longitude": 121.5582,
+    "coordinateSource": "區域中心(松山區)",
+    "needsCoordinateVerification": true
   },
   {
     "id": 1036,
@@ -1487,7 +1512,12 @@
     "updateReason": "SOP V4.7 修復：設定 roomsCount",
     "updateSource": "本地腳本自動修復",
     "statusChangedAt": "2026-03-03T10:24:23.089Z",
-    "statusChangeReason": "SOP V4.7 完整驗證"
+    "statusChangeReason": "SOP V4.7 完整驗證",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E5%A4%A7%E5%AE%89%E5%8D%80%E5%BF%A0%E5%AD%9D%E6%9D%B1%E8%B7%AF%E5%9B%9B%E6%AE%B5155%E8%99%9F",
+    "latitude": 25.0339,
+    "longitude": 121.5346,
+    "coordinateSource": "區域中心(大安區)",
+    "needsCoordinateVerification": true
   },
   {
     "id": 1037,
@@ -1555,7 +1585,12 @@
     "updateSource": "手動補充（根據品牌官網規律）",
     "statusChangedAt": "2026-03-03T10:24:23.089Z",
     "statusChangeReason": "SOP V4.7 完整驗證",
-    "venueListUrl": "https://www.tccc.com.tw/venue"
+    "venueListUrl": "https://www.tccc.com.tw/venue",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E4%BF%A1%E7%BE%A9%E5%8D%80%E4%BF%A1%E7%BE%A9%E8%B7%AF%E4%BA%94%E6%AE%B57%E8%99%9F37%E6%A8%93",
+    "latitude": 25.0305,
+    "longitude": 121.57,
+    "coordinateSource": "區域中心(信義區)",
+    "needsCoordinateVerification": true
   },
   {
     "id": 1038,
@@ -1611,7 +1646,12 @@
     "updateSource": "本地腳本自動修復",
     "lastUpdated": "2026-03-03T07:25:54.258Z",
     "statusChangedAt": "2026-03-03T08:13:12.669Z",
-    "statusChangeReason": "SOP V4.7: 資料完整，恢復上架"
+    "statusChangeReason": "SOP V4.7: 資料完整，恢復上架",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E4%BF%A1%E7%BE%A9%E5%8D%80%E4%BF%A1%E7%BE%A9%E8%B7%AF%E4%BA%94%E6%AE%B57%E8%99%9F37%E6%A8%93",
+    "latitude": 25.0305,
+    "longitude": 121.57,
+    "coordinateSource": "區域中心(信義區)",
+    "needsCoordinateVerification": true
   },
   {
     "id": 1039,
@@ -1660,7 +1700,12 @@
     "lastUpdated": "2026-03-07T21:11:36.790655",
     "statusChangedAt": "2026-03-03T10:24:23.089Z",
     "statusChangeReason": "SOP V4.7 完整驗證",
-    "venueListUrl": "https://www.wework.com/zh-TW/solutions/meeting-rooms"
+    "venueListUrl": "https://www.wework.com/zh-TW/solutions/meeting-rooms",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E4%BF%A1%E7%BE%A9%E5%8D%80%E4%BF%A1%E7%BE%A9%E8%B7%AF%E4%BA%94%E6%AE%B5106%E8%99%9F",
+    "latitude": 25.0305,
+    "longitude": 121.57,
+    "coordinateSource": "區域中心(信義區)",
+    "needsCoordinateVerification": true
   },
   {
     "name": "W飯店台北",
@@ -1722,7 +1767,12 @@
     "statusChangedAt": "2026-03-03T10:24:23.089Z",
     "statusChangeReason": "SOP V4.7 完整驗證",
     "priceNote": "需電詢 ",
-    "venueListUrl": "https://www.marriott.com/hotels/travel/tpewh-w-taipei/events/"
+    "venueListUrl": "https://www.marriott.com/hotels/travel/tpewh-w-taipei/events/",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E4%BF%A1%E7%BE%A9%E5%8D%80%E5%BF%A0%E5%AD%9D%E6%9D%B1%E8%B7%AF%E4%BA%94%E6%AE%B510%E8%99%9F",
+    "latitude": 25.0305,
+    "longitude": 121.57,
+    "coordinateSource": "區域中心(信義區)",
+    "needsCoordinateVerification": true
   },
   {
     "id": 1041,
@@ -1776,7 +1826,12 @@
     "updateReason": "SOP V4.7 修復：設定 roomsCount",
     "updateSource": "本地腳本自動修復",
     "statusChangedAt": "2026-03-03T08:13:12.669Z",
-    "statusChangeReason": "SOP V4.7: 資料完整，恢復上架"
+    "statusChangeReason": "SOP V4.7: 資料完整，恢復上架",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E5%8D%97%E4%BA%AC%E6%9D%B1%E8%B7%AF%E4%B8%89%E6%AE%B5255%E8%99%9F",
+    "latitude": 25.033,
+    "longitude": 121.5654,
+    "coordinateSource": "台北市中心",
+    "needsCoordinateVerification": true
   },
   {
     "id": 1042,
@@ -1825,7 +1880,12 @@
     "updateSource": "本地腳本自動修復",
     "lastUpdated": "2026-03-03T07:25:54.259Z",
     "statusChangedAt": "2026-03-03T08:13:12.669Z",
-    "statusChangeReason": "SOP V4.7: 資料完整，恢復上架"
+    "statusChangeReason": "SOP V4.7: 資料完整，恢復上架",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E5%A4%A7%E5%AE%89%E5%8D%80%E6%96%B0%E7%94%9F%E5%8D%97%E8%B7%AF%E4%B8%89%E6%AE%B560%E8%99%9F",
+    "latitude": 25.0339,
+    "longitude": 121.5346,
+    "coordinateSource": "區域中心(大安區)",
+    "needsCoordinateVerification": true
   },
   {
     "id": 1043,
@@ -1882,7 +1942,12 @@
     "updateReason": "SOP V4.7: 補充會議室照片",
     "updateSource": "手動補充（根據官網照片 URL 模式）",
     "statusChangedAt": "2026-03-03T10:24:23.089Z",
-    "statusChangeReason": "SOP V4.7 完整驗證"
+    "statusChangeReason": "SOP V4.7 完整驗證",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E5%8D%97%E6%B8%AF%E5%8D%80%E5%BF%A0%E5%AD%9D%E6%9D%B1%E8%B7%AF%E4%B8%83%E6%AE%B5359%E8%99%9F",
+    "latitude": 25.055,
+    "longitude": 121.615,
+    "coordinateSource": "區域中心(南港區)",
+    "needsCoordinateVerification": true
   },
   {
     "id": 1044,
@@ -1930,7 +1995,12 @@
     "updateReason": "SOP V4.7 修復：設定 roomsCount",
     "updateSource": "本地腳本自動修復",
     "statusChangedAt": "2026-03-03T09:09:29.362Z",
-    "statusChangeReason": "SOP V4.7 驗證：資料完整"
+    "statusChangeReason": "SOP V4.7 驗證：資料完整",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E5%B1%B1%E5%8D%80%E4%B8%AD%E5%B1%B1%E5%8C%97%E8%B7%AF%E4%B8%80%E6%AE%B5121%E5%B7%B79%E8%99%9F",
+    "latitude": 25.0688,
+    "longitude": 121.5265,
+    "coordinateSource": "區域中心(中山區)",
+    "needsCoordinateVerification": true
   },
   {
     "id": 1045,
@@ -1979,7 +2049,12 @@
     "updateSource": "本地腳本自動修復",
     "lastUpdated": "2026-03-03T07:25:54.259Z",
     "statusChangedAt": "2026-03-03T08:13:12.669Z",
-    "statusChangeReason": "SOP V4.7: 資料完整，恢復上架"
+    "statusChangeReason": "SOP V4.7: 資料完整，恢復上架",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E5%A4%A7%E5%AE%89%E5%8D%80%E5%BF%A0%E5%AD%9D%E6%9D%B1%E8%B7%AF%E4%B8%89%E6%AE%B51%E8%99%9F",
+    "latitude": 25.0339,
+    "longitude": 121.5346,
+    "coordinateSource": "區域中心(大安區)",
+    "needsCoordinateVerification": true
   },
   {
     "id": 1047,
@@ -2030,7 +2105,12 @@
     "updateSource": "手動補充（根據官網照片 URL 模式）",
     "statusChangedAt": "2026-03-03T10:24:23.089Z",
     "statusChangeReason": "SOP V4.7 完整驗證",
-    "venueListUrl": "https://www.marriott.com/hotels/travel/tpewh-w-taipei/events/"
+    "venueListUrl": "https://www.marriott.com/hotels/travel/tpewh-w-taipei/events/",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E4%BF%A1%E7%BE%A9%E5%8D%80%E5%BF%A0%E5%AD%9D%E6%9D%B1%E8%B7%AF%E4%BA%94%E6%AE%B510%E8%99%9F",
+    "latitude": 25.0305,
+    "longitude": 121.57,
+    "coordinateSource": "區域中心(信義區)",
+    "needsCoordinateVerification": true
   },
   {
     "id": 1048,
@@ -2073,7 +2153,12 @@
     "updateSource": "自動檢查腳本",
     "statusChangedAt": "2026-03-07T12:59:47.508772Z",
     "statusChangeReason": "已歇業/結束營業（系統自動標記）",
-    "lastReactivated": "2026-03-08"
+    "lastReactivated": "2026-03-08",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E8%90%AC%E8%8F%AF%E5%8D%80%E8%A5%BF%E5%9C%92%E8%B7%AF%E4%B8%80%E6%AE%B556%E8%99%9F",
+    "latitude": 25.035,
+    "longitude": 121.4996,
+    "coordinateSource": "區域中心(萬華區)",
+    "needsCoordinateVerification": true
   },
   {
     "id": 1049,
@@ -2123,7 +2208,12 @@
     "updateSource": "本地腳本自動修復",
     "lastUpdated": "2026-03-03T07:25:54.259Z",
     "statusChangedAt": "2026-03-03T08:13:12.669Z",
-    "statusChangeReason": "SOP V4.7: 資料完整，恢復上架"
+    "statusChangeReason": "SOP V4.7: 資料完整，恢復上架",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E4%BF%A1%E7%BE%A9%E5%8D%80%E4%BF%A1%E7%BE%A9%E8%B7%AF%E4%BA%94%E6%AE%B55%E8%99%9F",
+    "latitude": 25.0338,
+    "longitude": 121.5617,
+    "coordinateSource": "地標",
+    "needsCoordinateVerification": false
   },
   {
     "id": 1050,
@@ -2170,7 +2260,12 @@
     "lastUpdated": "2026-03-07T21:11:36.790707",
     "statusChangedAt": "2026-03-03T10:24:23.089Z",
     "statusChangeReason": "SOP V4.7 完整驗證",
-    "venueListUrl": "https://www.dandyhotel.com.tw/room"
+    "venueListUrl": "https://www.dandyhotel.com.tw/room",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E5%A4%A7%E5%AE%89%E5%8D%80%E4%BF%A1%E7%BE%A9%E8%B7%AF%E4%B8%89%E6%AE%B533%E8%99%9F",
+    "latitude": 25.0339,
+    "longitude": 121.5346,
+    "coordinateSource": "區域中心(大安區)",
+    "needsCoordinateVerification": true
   },
   {
     "id": 1051,
@@ -2218,7 +2313,12 @@
     "updateReason": "SOP V4.7 修復：設定 roomsCount",
     "updateSource": "本地腳本自動修復",
     "statusChangedAt": "2026-03-03T08:13:12.669Z",
-    "statusChangeReason": "SOP V4.7: 資料完整，恢復上架"
+    "statusChangeReason": "SOP V4.7: 資料完整，恢復上架",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E5%B1%B1%E5%8D%80%E6%B0%91%E6%AC%8A%E6%9D%B1%E8%B7%AF%E4%BA%8C%E6%AE%B541%E8%99%9F",
+    "latitude": 25.0688,
+    "longitude": 121.5265,
+    "coordinateSource": "區域中心(中山區)",
+    "needsCoordinateVerification": true
   },
   {
     "id": 1052,
@@ -2272,7 +2372,12 @@
     "lastUpdated": "2026-03-07T21:11:36.790712",
     "statusChangedAt": "2026-03-03T10:24:23.089Z",
     "statusChangeReason": "SOP V4.7 完整驗證",
-    "venueListUrl": "https://www.citizenm.com/hotels/asia/taipei/taipei-north-gate/meetings"
+    "venueListUrl": "https://www.citizenm.com/hotels/asia/taipei/taipei-north-gate/meetings",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E5%A4%A7%E5%90%8C%E5%8D%80%E5%B8%82%E6%B0%91%E5%A4%A7%E9%81%93%E4%B8%80%E6%AE%B5209%E8%99%9F",
+    "latitude": 25.0623,
+    "longitude": 121.5147,
+    "coordinateSource": "區域中心(大同區)",
+    "needsCoordinateVerification": true
   },
   {
     "id": 1053,
@@ -2318,7 +2423,12 @@
     "updateSource": "本地腳本自動修復",
     "lastUpdated": "2026-03-03T07:25:54.260Z",
     "statusChangedAt": "2026-03-03T08:13:12.669Z",
-    "statusChangeReason": "SOP V4.7: 資料完整，恢復上架"
+    "statusChangeReason": "SOP V4.7: 資料完整，恢復上架",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E5%8D%97%E4%BA%AC%E6%9D%B1%E8%B7%AF%E4%B8%89%E6%AE%B5255%E8%99%9F",
+    "latitude": 25.033,
+    "longitude": 121.5654,
+    "coordinateSource": "台北市中心",
+    "needsCoordinateVerification": true
   },
   {
     "id": 1054,
@@ -2362,7 +2472,12 @@
     "updateSource": "手動補充（根據品牌官網規律）",
     "statusChangedAt": "2026-03-03T10:24:23.089Z",
     "statusChangeReason": "SOP V4.7 完整驗證",
-    "venueListUrl": "https://www.hotelbf.com/meeting"
+    "venueListUrl": "https://www.hotelbf.com/meeting",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E6%AD%A3%E5%8D%80%E5%BF%A0%E5%AD%9D%E6%9D%B1%E8%B7%AF%E4%B8%80%E6%AE%B587%E8%99%9F",
+    "latitude": 25.0432,
+    "longitude": 121.5198,
+    "coordinateSource": "區域中心(中正區)",
+    "needsCoordinateVerification": true
   },
   {
     "id": 1055,
@@ -2410,7 +2525,12 @@
     "updateSource": "自動檢查腳本",
     "statusChangedAt": "2026-03-07T12:59:47.508772Z",
     "statusChangeReason": "已歇業/結束營業（系統自動標記）",
-    "lastReactivated": "2026-03-08"
+    "lastReactivated": "2026-03-08",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E5%B1%B1%E5%8D%80%E9%95%B7%E6%98%A5%E8%B7%AF168%E8%99%9F",
+    "latitude": 25.0688,
+    "longitude": 121.5265,
+    "coordinateSource": "區域中心(中山區)",
+    "needsCoordinateVerification": true
   },
   {
     "id": 1056,
@@ -2463,7 +2583,12 @@
     "lastUpdated": "2026-03-07T21:13:37.272767",
     "statusChangedAt": "2026-03-03T10:24:23.089Z",
     "statusChangeReason": "SOP V4.7 完整驗證",
-    "venueListUrl": "https://www.courtyardtaipei.com.tw/zh-TW/?Psn=112"
+    "venueListUrl": "https://www.courtyardtaipei.com.tw/zh-TW/?Psn=112",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E5%8D%97%E6%B8%AF%E5%8D%80%E5%BF%A0%E5%AD%9D%E6%9D%B1%E8%B7%AF%E4%B8%83%E6%AE%B5359%E8%99%9F",
+    "latitude": 25.055,
+    "longitude": 121.615,
+    "coordinateSource": "區域中心(南港區)",
+    "needsCoordinateVerification": true
   },
   {
     "id": 1057,
@@ -2511,7 +2636,12 @@
     "updateSource": "自動檢查腳本",
     "statusChangedAt": "2026-03-07T12:59:47.508772Z",
     "statusChangeReason": "已歇業/結束營業（系統自動標記）",
-    "lastReactivated": "2026-03-08"
+    "lastReactivated": "2026-03-08",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E5%B1%B1%E5%8D%80%E4%B8%AD%E5%B1%B1%E5%8C%97%E8%B7%AF%E4%B8%89%E6%AE%B533%E8%99%9F",
+    "latitude": 25.0688,
+    "longitude": 121.5265,
+    "coordinateSource": "區域中心(中山區)",
+    "needsCoordinateVerification": true
   },
   {
     "id": 1058,
@@ -2573,7 +2703,12 @@
     "updateReason": "SOP V4.7: 補充會議室照片",
     "updateSource": "使用已爬取的照片資料",
     "statusChangedAt": "2026-03-03T10:24:23.089Z",
-    "statusChangeReason": "SOP V4.7 完整驗證"
+    "statusChangeReason": "SOP V4.7 完整驗證",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E5%8C%97%E6%8A%95%E5%8D%80%E4%B8%AD%E5%A4%AE%E5%8C%97%E8%B7%AF%E5%9B%9B%E6%AE%B5515%E8%99%9F",
+    "latitude": 25.1323,
+    "longitude": 121.5014,
+    "coordinateSource": "區域中心(北投區)",
+    "needsCoordinateVerification": true
   },
   {
     "id": 1059,
@@ -2616,7 +2751,12 @@
     "updateSource": "自動檢查腳本",
     "statusChangedAt": "2026-03-07T12:59:47.508772Z",
     "statusChangeReason": "已歇業/結束營業（系統自動標記）",
-    "lastReactivated": "2026-03-08"
+    "lastReactivated": "2026-03-08",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E5%B1%B1%E5%8D%80%E4%B8%AD%E5%B1%B1%E5%8C%97%E8%B7%AF%E4%BA%8C%E6%AE%B596%E8%99%9F",
+    "latitude": 25.0688,
+    "longitude": 121.5265,
+    "coordinateSource": "區域中心(中山區)",
+    "needsCoordinateVerification": true
   },
   {
     "id": 1060,
@@ -2671,7 +2811,12 @@
     "updateSource": "使用已爬取的照片資料",
     "statusChangedAt": "2026-03-03T10:24:23.089Z",
     "statusChangeReason": "SOP V4.7 完整驗證",
-    "venueListUrl": "https://www.palaisdechinehotel.com/meeting-list.php"
+    "venueListUrl": "https://www.palaisdechinehotel.com/meeting-list.php",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E6%AD%A3%E5%8D%80%E6%89%BF%E5%BE%B7%E8%B7%AF%E4%B8%80%E6%AE%B53%E8%99%9F",
+    "latitude": 25.0432,
+    "longitude": 121.5198,
+    "coordinateSource": "區域中心(中正區)",
+    "needsCoordinateVerification": true
   },
   {
     "id": 1061,
@@ -2742,7 +2887,12 @@
     "updateSource": "手動補充（根據官網照片 URL 模式）",
     "statusChangedAt": "2026-03-03T10:24:23.089Z",
     "statusChangeReason": "SOP V4.7 完整驗證",
-    "venueListUrl": "https://www.hyatt.com/zh-TW/hotel/taiwan/grand-hyatt-taipei/tyoph/meetings-events"
+    "venueListUrl": "https://www.hyatt.com/zh-TW/hotel/taiwan/grand-hyatt-taipei/tyoph/meetings-events",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E4%BF%A1%E7%BE%A9%E5%8D%80%E6%9D%BE%E5%A3%BD%E8%B7%AF2%E8%99%9F",
+    "latitude": 25.0305,
+    "longitude": 121.57,
+    "coordinateSource": "區域中心(信義區)",
+    "needsCoordinateVerification": true
   },
   {
     "id": 1062,
@@ -2796,7 +2946,12 @@
     "lastUpdated": "2026-03-07T21:13:37.272790",
     "statusChangedAt": "2026-03-03T10:24:23.089Z",
     "statusChangeReason": "SOP V4.7 完整驗證",
-    "venueListUrl": "https://www.hyatt.com/zh-TW/hotel/taiwan/grand-hyatt-taipei/tyoph/meetings-events"
+    "venueListUrl": "https://www.hyatt.com/zh-TW/hotel/taiwan/grand-hyatt-taipei/tyoph/meetings-events",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E4%BF%A1%E7%BE%A9%E5%8D%80%E6%9D%BE%E5%A3%BD%E8%B7%AF2%E8%99%9F",
+    "latitude": 25.0305,
+    "longitude": 121.57,
+    "coordinateSource": "區域中心(信義區)",
+    "needsCoordinateVerification": true
   },
   {
     "id": 1063,
@@ -2850,7 +3005,12 @@
     "lastUpdated": "2026-03-07T21:13:37.272800",
     "statusChangedAt": "2026-03-03T10:24:23.089Z",
     "statusChangeReason": "SOP V4.7 完整驗證",
-    "venueListUrl": "https://www.hyatt.com/zh-TW/hotel/taiwan/grand-hyatt-taipei/tyoph/meetings-events"
+    "venueListUrl": "https://www.hyatt.com/zh-TW/hotel/taiwan/grand-hyatt-taipei/tyoph/meetings-events",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E4%BF%A1%E7%BE%A9%E5%8D%80%E6%9D%BE%E5%A3%BD%E8%B7%AF2%E8%99%9F",
+    "latitude": 25.0305,
+    "longitude": 121.57,
+    "coordinateSource": "區域中心(信義區)",
+    "needsCoordinateVerification": true
   },
   {
     "id": 1064,
@@ -2897,7 +3057,12 @@
     "lastUpdated": "2026-03-07T21:13:37.272820",
     "statusChangedAt": "2026-03-03T10:24:23.089Z",
     "statusChangeReason": "SOP V4.7 完整驗證",
-    "venueListUrl": "https://www.hyatt.com/zh-TW/hotel/taiwan/grand-hyatt-taipei/tyoph/meetings-events"
+    "venueListUrl": "https://www.hyatt.com/zh-TW/hotel/taiwan/grand-hyatt-taipei/tyoph/meetings-events",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E4%BF%A1%E7%BE%A9%E5%8D%80%E6%9D%BE%E5%A3%BD%E8%B7%AF2%E8%99%9F",
+    "latitude": 25.0305,
+    "longitude": 121.57,
+    "coordinateSource": "區域中心(信義區)",
+    "needsCoordinateVerification": true
   },
   {
     "id": 1065,
@@ -2944,7 +3109,12 @@
     "updateSource": "自動檢查腳本",
     "statusChangedAt": "2026-03-07T12:59:47.508772Z",
     "statusChangeReason": "已歇業/結束營業（系統自動標記）",
-    "lastReactivated": "2026-03-08"
+    "lastReactivated": "2026-03-08",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E5%B1%B1%E5%8D%80%E4%B8%AD%E5%B1%B1%E5%8C%97%E8%B7%AF%E4%BA%8C%E6%AE%B533%E8%99%9F6%E6%A8%93",
+    "latitude": 25.0688,
+    "longitude": 121.5265,
+    "coordinateSource": "區域中心(中山區)",
+    "needsCoordinateVerification": true
   },
   {
     "id": 1066,
@@ -2992,7 +3162,12 @@
     "updateSource": "自動檢查腳本",
     "statusChangedAt": "2026-03-07T12:59:47.508772Z",
     "statusChangeReason": "已歇業/結束營業（系統自動標記）",
-    "lastReactivated": "2026-03-08"
+    "lastReactivated": "2026-03-08",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E5%A4%A7%E5%AE%89%E5%8D%80%E6%95%A6%E5%8C%96%E5%8D%97%E8%B7%AF%E4%BA%8C%E6%AE%B576%E8%99%9F",
+    "latitude": 25.0339,
+    "longitude": 121.5346,
+    "coordinateSource": "區域中心(大安區)",
+    "needsCoordinateVerification": true
   },
   {
     "id": 1067,
@@ -3054,7 +3229,12 @@
     "updateReason": "SOP V4.7: 更新為真實會議室照片（替換 logo）",
     "updateSource": "Playwright 爬蟲自動更新",
     "verificationStatus": "✅ 已驗證",
-    "lastUpdated": "2026-03-07T13:12:00.788287"
+    "lastUpdated": "2026-03-07T13:12:00.788287",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E6%AD%A3%E5%8D%80%E5%BF%A0%E5%AD%9D%E6%9D%B1%E8%B7%AF%E4%B8%80%E6%AE%B512%E8%99%9F",
+    "latitude": 25.0432,
+    "longitude": 121.5198,
+    "coordinateSource": "區域中心(中正區)",
+    "needsCoordinateVerification": true
   },
   {
     "id": 1068,
@@ -3110,7 +3290,12 @@
     "updateReason": "SOP V4.7: 補充會議室照片",
     "updateSource": "使用已爬取的照片資料",
     "statusChangedAt": "2026-03-03T10:24:23.089Z",
-    "statusChangeReason": "SOP V4.7 完整驗證"
+    "statusChangeReason": "SOP V4.7 完整驗證",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E5%B1%B1%E5%8D%80%E4%B8%AD%E5%B1%B1%E5%8C%97%E8%B7%AF%E4%BA%8C%E6%AE%B5181%E8%99%9F",
+    "latitude": 25.0688,
+    "longitude": 121.5265,
+    "coordinateSource": "區域中心(中山區)",
+    "needsCoordinateVerification": true
   },
   {
     "id": 1069,
@@ -3166,7 +3351,12 @@
     "updateSource": "使用已爬取的照片資料",
     "statusChangedAt": "2026-03-07T12:59:47.508772Z",
     "statusChangeReason": "已歇業/結束營業（系統自動標記）",
-    "lastReactivated": "2026-03-08"
+    "lastReactivated": "2026-03-08",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E5%B1%B1%E5%8D%80%E4%B8%AD%E5%B1%B1%E5%8C%97%E8%B7%AF%E4%B8%80%E6%AE%B563%E8%99%9F",
+    "latitude": 25.0688,
+    "longitude": 121.5265,
+    "coordinateSource": "區域中心(中山區)",
+    "needsCoordinateVerification": true
   },
   {
     "id": 1072,
@@ -3216,7 +3406,12 @@
     "updateReason": "SOP V4.7: 更新照片來源為官網",
     "updateSource": "手動更新",
     "statusChangedAt": "2026-03-03T08:13:12.669Z",
-    "statusChangeReason": "SOP V4.7: 資料完整，恢復上架"
+    "statusChangeReason": "SOP V4.7: 資料完整，恢復上架",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E5%B1%B1%E5%8D%80%E4%B8%AD%E5%B1%B1%E5%8C%97%E8%B7%AF%E5%9B%9B%E6%AE%B51%E8%99%9F",
+    "latitude": 25.0688,
+    "longitude": 121.5265,
+    "coordinateSource": "區域中心(中山區)",
+    "needsCoordinateVerification": true
   },
   {
     "id": 1073,
@@ -3259,7 +3454,12 @@
     "updateSource": "自動檢查腳本",
     "statusChangedAt": "2026-03-07T12:59:47.508772Z",
     "statusChangeReason": "已歇業/結束營業（系統自動標記）",
-    "lastReactivated": "2026-03-08"
+    "lastReactivated": "2026-03-08",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E5%B1%B1%E5%8D%80%E4%B8%AD%E5%B1%B1%E5%8C%97%E8%B7%AF%E4%BA%8C%E6%AE%B559%E8%99%9F",
+    "latitude": 25.0688,
+    "longitude": 121.5265,
+    "coordinateSource": "區域中心(中山區)",
+    "needsCoordinateVerification": true
   },
   {
     "id": 1074,
@@ -3322,7 +3522,12 @@
     "updateReason": "SOP V4.7: 補充會議室照片",
     "updateSource": "使用已爬取的照片資料",
     "statusChangedAt": "2026-03-07T12:59:47.508772Z",
-    "statusChangeReason": "已歇業/結束營業（系統自動標記）"
+    "statusChangeReason": "已歇業/結束營業（系統自動標記）",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E6%9D%BE%E5%B1%B1%E5%8D%80%E5%8D%97%E4%BA%AC%E6%9D%B1%E8%B7%AF%E4%B8%89%E6%AE%B5133%E8%99%9F",
+    "latitude": 25.058,
+    "longitude": 121.5582,
+    "coordinateSource": "區域中心(松山區)",
+    "needsCoordinateVerification": true
   },
   {
     "name": "台北寒舍喜來登大飯店",
@@ -3378,7 +3583,12 @@
     "updateReason": "SOP V4.7: 更新為真實會議室照片（替換 logo）",
     "updateSource": "Playwright 爬蟲自動更新",
     "priceNote": "需電詢 02-2321-5511",
-    "lastUpdated": "2026-03-07T13:12:00.788314"
+    "lastUpdated": "2026-03-07T13:12:00.788314",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=",
+    "latitude": 25.033,
+    "longitude": 121.5654,
+    "coordinateSource": "台北市中心",
+    "needsCoordinateVerification": true
   },
   {
     "id": 1076,
@@ -3435,7 +3645,12 @@
     "updateSource": "本地腳本自動修復",
     "lastUpdated": "2026-03-03T07:25:54.260Z",
     "statusChangedAt": "2026-03-03T08:13:12.669Z",
-    "statusChangeReason": "SOP V4.7: 資料完整，恢復上架"
+    "statusChangeReason": "SOP V4.7: 資料完整，恢復上架",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E4%BF%A1%E7%BE%A9%E5%8D%80%E6%9D%BE%E4%BB%81%E8%B7%AF38%E8%99%9F",
+    "latitude": 25.0305,
+    "longitude": 121.57,
+    "coordinateSource": "區域中心(信義區)",
+    "needsCoordinateVerification": true
   },
   {
     "id": 1077,
@@ -3487,7 +3702,12 @@
     "updateReason": "SOP V4.7 修復：設定 roomsCount",
     "updateSource": "本地腳本自動修復",
     "statusChangedAt": "2026-03-03T08:13:12.669Z",
-    "statusChangeReason": "SOP V4.7: 資料完整，恢復上架"
+    "statusChangeReason": "SOP V4.7: 資料完整，恢復上架",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E4%BF%A1%E7%BE%A9%E5%8D%80%E6%9D%BE%E9%AB%98%E8%B7%AF18%E8%99%9FB%E6%A3%9F",
+    "latitude": 25.0305,
+    "longitude": 121.57,
+    "coordinateSource": "區域中心(信義區)",
+    "needsCoordinateVerification": true
   },
   {
     "id": 1078,
@@ -3532,7 +3752,12 @@
     "lastUpdated": "2026-03-07T21:11:36.790736",
     "statusChangedAt": "2026-03-03T10:24:23.089Z",
     "statusChangeReason": "SOP V4.7 完整驗證",
-    "venueListUrl": "https://www.humblehousehotels.com/en/websev?cat=page&id=7"
+    "venueListUrl": "https://www.humblehousehotels.com/en/websev?cat=page&id=7",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E4%BF%A1%E7%BE%A9%E5%8D%80%E6%9D%BE%E9%AB%98%E8%B7%AF18%E8%99%9F",
+    "latitude": 25.0305,
+    "longitude": 121.57,
+    "coordinateSource": "區域中心(信義區)",
+    "needsCoordinateVerification": true
   },
   {
     "id": 1079,
@@ -3581,7 +3806,12 @@
     "lastUpdated": "2026-03-07T21:13:37.272834",
     "statusChangedAt": "2026-03-03T10:24:23.089Z",
     "statusChangeReason": "SOP V4.7 完整驗證",
-    "venueListUrl": "https://arena.taipei/"
+    "venueListUrl": "https://arena.taipei/",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E6%9D%BE%E5%B1%B1%E5%8D%80%E5%8D%97%E4%BA%AC%E6%9D%B1%E8%B7%AF%E5%9B%9B%E6%AE%B52%E8%99%9F",
+    "latitude": 25.0515,
+    "longitude": 121.5498,
+    "coordinateSource": "地標",
+    "needsCoordinateVerification": false
   },
   {
     "id": 1080,
@@ -3624,7 +3854,12 @@
     "updateSource": "自動檢查腳本",
     "statusChangedAt": "2026-03-07T12:59:47.508772Z",
     "statusChangeReason": "已歇業/結束營業（系統自動標記）",
-    "lastReactivated": "2026-03-08"
+    "lastReactivated": "2026-03-08",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E5%B1%B1%E5%8D%80%E6%9D%BE%E6%B1%9F%E8%B7%AF306%E8%99%9F",
+    "latitude": 25.0688,
+    "longitude": 121.5265,
+    "coordinateSource": "區域中心(中山區)",
+    "needsCoordinateVerification": true
   },
   {
     "id": 1081,
@@ -3672,7 +3907,12 @@
     "updateSource": "手動補充（根據官網照片 URL 模式）",
     "statusChangedAt": "2026-03-03T10:24:23.089Z",
     "statusChangeReason": "SOP V4.7 完整驗證",
-    "venueListUrl": "https://www.midtownrichard.com/banquet"
+    "venueListUrl": "https://www.midtownrichard.com/banquet",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E6%AD%A3%E5%8D%80%E5%BF%A0%E5%AD%9D%E8%A5%BF%E8%B7%AF%E4%B8%80%E6%AE%B572%E8%99%9F",
+    "latitude": 25.0432,
+    "longitude": 121.5198,
+    "coordinateSource": "區域中心(中正區)",
+    "needsCoordinateVerification": true
   },
   {
     "id": 1082,
@@ -3729,7 +3969,12 @@
     "verified": true,
     "lastUpdated": "2026-03-03T04:50:31.568Z",
     "updateReason": "SOP V4.7 資料結構更新",
-    "updateSource": "手動驗證"
+    "updateSource": "手動驗證",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E5%A4%A7%E5%AE%89%E5%8D%80%E6%95%A6%E5%8C%96%E5%8D%97%E8%B7%AF%E4%B8%80%E6%AE%B5370%E8%99%9F",
+    "latitude": 25.0339,
+    "longitude": 121.5346,
+    "coordinateSource": "區域中心(大安區)",
+    "needsCoordinateVerification": true
   },
   {
     "id": 1083,
@@ -3778,7 +4023,12 @@
     ],
     "notes": "原名稱「台北意舍酒店」已更正。會議室品牌名為 societyM，共有 2 間。",
     "updateReason": "SOP V4.7 資料結構更新",
-    "updateSource": "手動驗證"
+    "updateSource": "手動驗證",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E6%AD%A3%E5%8D%80%E5%BF%A0%E5%AD%9D%E8%A5%BF%E8%B7%AF%E4%B8%80%E6%AE%B572%E8%99%9F5%E6%A8%93",
+    "latitude": 25.0432,
+    "longitude": 121.5198,
+    "coordinateSource": "區域中心(中正區)",
+    "needsCoordinateVerification": true
   },
   {
     "id": 1084,
@@ -3821,7 +4071,12 @@
     "updateSource": "自動檢查腳本",
     "statusChangedAt": "2026-03-07T12:59:47.508772Z",
     "statusChangeReason": "已歇業/結束營業（系統自動標記）",
-    "lastReactivated": "2026-03-08"
+    "lastReactivated": "2026-03-08",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E5%B1%B1%E5%8D%80%E4%B8%AD%E5%B1%B1%E5%8C%97%E8%B7%AF%E4%BA%8C%E6%AE%B5145%E8%99%9F",
+    "latitude": 25.0688,
+    "longitude": 121.5265,
+    "coordinateSource": "區域中心(中山區)",
+    "needsCoordinateVerification": true
   },
   {
     "id": 1085,
@@ -3904,7 +4159,12 @@
     "verificationStatus": "✅ 驗證通過",
     "verificationNotes": "官網驗證：8 個會議空間（宴會廳和多功能廳）",
     "updateReason": "從官網爬取真實會議室照片，替換錯誤的折扇照片",
-    "updateSource": "Playwright 動態爬蟲"
+    "updateSource": "Playwright 動態爬蟲",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E6%95%A6%E5%8C%96%E5%8C%97%E8%B7%AF158%E8%99%9F",
+    "latitude": 25.033,
+    "longitude": 121.5654,
+    "coordinateSource": "台北市中心",
+    "needsCoordinateVerification": true
   },
   {
     "id": 1086,
@@ -3995,7 +4255,12 @@
       "貴賓廳 11"
     ],
     "updateReason": "SOP V4.7 資料結構更新",
-    "updateSource": "手動驗證"
+    "updateSource": "手動驗證",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E5%B1%B1%E5%8D%80%E4%B8%AD%E5%B1%B1%E5%8C%97%E8%B7%AF%E4%BA%8C%E6%AE%B541%E8%99%9F",
+    "latitude": 25.0688,
+    "longitude": 121.5265,
+    "coordinateSource": "區域中心(中山區)",
+    "needsCoordinateVerification": true
   },
   {
     "id": 1087,
@@ -4038,7 +4303,12 @@
     "updateSource": "自動檢查腳本",
     "lastUpdated": "2026-03-05T06:06:15.095Z",
     "statusChangedAt": "2026-03-03T10:24:23.089Z",
-    "statusChangeReason": "SOP V4.7 完整驗證"
+    "statusChangeReason": "SOP V4.7 完整驗證",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E5%B1%B1%E5%8D%80%E4%B8%AD%E5%B1%B1%E5%8C%97%E8%B7%AF%E4%BA%8C%E6%AE%B539%E5%B7%B73%E8%99%9F",
+    "latitude": 25.0688,
+    "longitude": 121.5265,
+    "coordinateSource": "區域中心(中山區)",
+    "needsCoordinateVerification": true
   },
   {
     "id": 1088,
@@ -4085,7 +4355,12 @@
     "statusChangeReason": "SOP V4.7 完整驗證",
     "updateReason": "SOP V4.7: 補充會議室清單 URL",
     "updateSource": "手動補充（根據品牌官網規律）",
-    "venueListUrl": "https://www.songyihotel.com/meeting"
+    "venueListUrl": "https://www.songyihotel.com/meeting",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E4%BF%A1%E7%BE%A9%E5%8D%80%E5%BF%A0%E5%AD%9D%E6%9D%B1%E8%B7%AF%E4%BA%94%E6%AE%B51%E8%99%9F",
+    "latitude": 25.0305,
+    "longitude": 121.57,
+    "coordinateSource": "區域中心(信義區)",
+    "needsCoordinateVerification": true
   },
   {
     "id": 1089,
@@ -4133,7 +4408,12 @@
     "statusChangeReason": "SOP V4.7 完整驗證",
     "updateReason": "SOP V4.7: 補充會議室清單 URL",
     "updateSource": "手動補充（根據品牌官網規律）",
-    "venueListUrl": "https://www.gloriahotel.com.tw/banquet"
+    "venueListUrl": "https://www.gloriahotel.com.tw/banquet",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E5%B1%B1%E5%8D%80%E4%B8%AD%E5%B1%B1%E5%8C%97%E8%B7%AF%E4%BA%8C%E6%AE%B5181%E8%99%9F5%E6%A8%93",
+    "latitude": 25.0688,
+    "longitude": 121.5265,
+    "coordinateSource": "區域中心(中山區)",
+    "needsCoordinateVerification": true
   },
   {
     "id": 1090,
@@ -4201,7 +4481,12 @@
     "verified": true,
     "lastUpdated": "2026-03-03T04:50:31.571Z",
     "updateReason": "SOP V4.7 資料結構更新",
-    "updateSource": "手動驗證"
+    "updateSource": "手動驗證",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E6%9D%BE%E5%B1%B1%E5%8D%80%E6%95%A6%E5%8C%96%E5%8C%97%E8%B7%AF100%E8%99%9FB1",
+    "latitude": 25.058,
+    "longitude": 121.5582,
+    "coordinateSource": "區域中心(松山區)",
+    "needsCoordinateVerification": true
   },
   {
     "id": 1091,
@@ -4249,7 +4534,12 @@
     "statusChangedAt": "2026-03-03T10:24:23.089Z",
     "statusChangeReason": "SOP V4.7 完整驗證",
     "updateReason": "SOP V4.7 驗證: ❌ 缺少會議室清單 URL",
-    "updateSource": "自動檢查腳本"
+    "updateSource": "自動檢查腳本",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E5%A4%A7%E5%AE%89%E5%8D%80%E5%BF%A0%E5%AD%9D%E6%9D%B1%E8%B7%AF%E5%9B%9B%E6%AE%B5172%E8%99%9F",
+    "latitude": 25.0339,
+    "longitude": 121.5346,
+    "coordinateSource": "區域中心(大安區)",
+    "needsCoordinateVerification": true
   },
   {
     "id": 1092,
@@ -4292,7 +4582,12 @@
     "updateSource": "自動檢查腳本",
     "statusChangedAt": "2026-03-07T12:59:47.508772Z",
     "statusChangeReason": "已歇業/結束營業（系統自動標記）",
-    "lastReactivated": "2026-03-08"
+    "lastReactivated": "2026-03-08",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E6%AD%A3%E5%8D%80%E5%8D%97%E4%BA%AC%E8%A5%BF%E8%B7%AF1%E8%99%9F",
+    "latitude": 25.0432,
+    "longitude": 121.5198,
+    "coordinateSource": "區域中心(中正區)",
+    "needsCoordinateVerification": true
   },
   {
     "id": 1093,
@@ -4339,7 +4634,12 @@
     "statusChangeReason": "SOP V4.7 完整驗證",
     "updateReason": "SOP V4.7: 補充會議室清單 URL",
     "updateSource": "手動補充（根據品牌官網規律）",
-    "venueListUrl": "https://www.firsthotel.com.tw/banquet"
+    "venueListUrl": "https://www.firsthotel.com.tw/banquet",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E5%B1%B1%E5%8D%80%E5%8D%97%E4%BA%AC%E6%9D%B1%E8%B7%AF%E4%B8%80%E6%AE%B59%E8%99%9F",
+    "latitude": 25.0688,
+    "longitude": 121.5265,
+    "coordinateSource": "區域中心(中山區)",
+    "needsCoordinateVerification": true
   },
   {
     "id": 1094,
@@ -4386,7 +4686,12 @@
     "statusChangeReason": "SOP V4.7 完整驗證",
     "updateReason": "SOP V4.7: 補充會議室清單 URL",
     "updateSource": "手動補充（根據品牌官網規律）",
-    "venueListUrl": "https://www.uni-hotel.com.tw/meeting"
+    "venueListUrl": "https://www.uni-hotel.com.tw/meeting",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E6%AD%A3%E5%8D%80%E5%BF%A0%E5%AD%9D%E8%A5%BF%E8%B7%AF%E4%B8%80%E6%AE%B566%E8%99%9F",
+    "latitude": 25.0432,
+    "longitude": 121.5198,
+    "coordinateSource": "區域中心(中正區)",
+    "needsCoordinateVerification": true
   },
   {
     "id": 1095,
@@ -4439,7 +4744,12 @@
     "updateReason": "SOP V4.7 修復：設定 roomsCount",
     "updateSource": "本地腳本自動修復",
     "statusChangedAt": "2026-03-03T08:13:12.669Z",
-    "statusChangeReason": "SOP V4.7: 資料完整，恢復上架"
+    "statusChangeReason": "SOP V4.7: 資料完整，恢復上架",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E5%B1%B1%E5%8D%80%E6%A8%82%E7%BE%A4%E4%BA%8C%E8%B7%AF55%E8%99%9F",
+    "latitude": 25.0688,
+    "longitude": 121.5265,
+    "coordinateSource": "區域中心(中山區)",
+    "needsCoordinateVerification": true
   },
   {
     "id": 1096,
@@ -4485,7 +4795,12 @@
     "updateSource": "本地腳本自動修復",
     "lastUpdated": "2026-03-03T07:25:54.260Z",
     "statusChangedAt": "2026-03-03T10:24:23.089Z",
-    "statusChangeReason": "SOP V4.7 完整驗證"
+    "statusChangeReason": "SOP V4.7 完整驗證",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E5%B1%B1%E5%8D%80%E6%A8%82%E7%BE%A4%E4%BA%8C%E8%B7%AF55%E8%99%9F",
+    "latitude": 25.0688,
+    "longitude": 121.5265,
+    "coordinateSource": "區域中心(中山區)",
+    "needsCoordinateVerification": true
   },
   {
     "id": 1097,
@@ -4528,7 +4843,12 @@
     "updateReason": "SOP V4.7 修復：設定 roomsCount",
     "updateSource": "本地腳本自動修復",
     "statusChangedAt": "2026-03-03T08:13:12.669Z",
-    "statusChangeReason": "SOP V4.7: 資料完整，恢復上架"
+    "statusChangeReason": "SOP V4.7: 資料完整，恢復上架",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E5%B1%B1%E5%8D%80%E4%B8%AD%E5%B1%B1%E5%8C%97%E8%B7%AF%E4%BA%8C%E6%AE%B537%E4%B9%8B1%E8%99%9F",
+    "latitude": 25.0688,
+    "longitude": 121.5265,
+    "coordinateSource": "區域中心(中山區)",
+    "needsCoordinateVerification": true
   },
   {
     "id": 1098,
@@ -4572,7 +4892,12 @@
     "updateReason": "SOP V4.7 驗證: ❌ 缺少會議室清單 URL",
     "updateSource": "自動檢查腳本",
     "statusChangedAt": "2026-03-03T09:09:29.362Z",
-    "statusChangeReason": "SOP V4.7 驗證：資料完整"
+    "statusChangeReason": "SOP V4.7 驗證：資料完整",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E4%BF%A1%E7%BE%A9%E5%8D%80%E6%9D%BE%E4%BB%81%E8%B7%AF38%E8%99%9F",
+    "latitude": 25.0305,
+    "longitude": 121.57,
+    "coordinateSource": "區域中心(信義區)",
+    "needsCoordinateVerification": true
   },
   {
     "id": 1099,
@@ -4638,7 +4963,12 @@
     "updateSource": "本地腳本自動修復",
     "lastUpdated": "2026-03-03T07:25:54.260Z",
     "statusChangedAt": "2026-03-03T10:24:23.089Z",
-    "statusChangeReason": "SOP V4.7 完整驗證"
+    "statusChangeReason": "SOP V4.7 完整驗證",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E6%9D%BE%E5%B1%B1%E5%8D%80%E6%B0%91%E7%94%9F%E6%9D%B1%E8%B7%AF%E4%B8%89%E6%AE%B58%E8%99%9F",
+    "latitude": 25.058,
+    "longitude": 121.5582,
+    "coordinateSource": "區域中心(松山區)",
+    "needsCoordinateVerification": true
   },
   {
     "id": 1100,
@@ -4683,7 +5013,12 @@
     "updateReason": "SOP V4.7 修復：設定 roomsCount",
     "updateSource": "本地腳本自動修復",
     "statusChangedAt": "2026-03-03T08:13:12.669Z",
-    "statusChangeReason": "SOP V4.7: 資料完整，恢復上架"
+    "statusChangeReason": "SOP V4.7: 資料完整，恢復上架",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E6%AD%A3%E5%8D%80%E4%B8%AD%E8%8F%AF%E8%B7%AF%E4%BA%8C%E6%AE%B51%E8%99%9F",
+    "latitude": 25.0432,
+    "longitude": 121.5198,
+    "coordinateSource": "區域中心(中正區)",
+    "needsCoordinateVerification": true
   },
   {
     "id": 1101,
@@ -4727,7 +5062,12 @@
     "updateReason": "SOP V4.7 驗證: ❌ 缺少會議室清單 URL, ❌ 缺少主照片",
     "updateSource": "自動檢查腳本",
     "statusChangedAt": "2026-03-03T10:24:23.089Z",
-    "statusChangeReason": "SOP V4.7 完整驗證"
+    "statusChangeReason": "SOP V4.7 完整驗證",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E5%B1%B1%E5%8D%80%E4%B8%AD%E5%B1%B1%E5%8C%97%E8%B7%AF%E4%B8%80%E6%AE%B512%E8%99%9F",
+    "latitude": 25.0688,
+    "longitude": 121.5265,
+    "coordinateSource": "區域中心(中山區)",
+    "needsCoordinateVerification": true
   },
   {
     "id": 1102,
@@ -4771,7 +5111,12 @@
     "updateReason": "SOP V4.7 驗證: ❌ 缺少會議室清單 URL, ❌ 缺少主照片",
     "updateSource": "自動檢查腳本",
     "statusChangedAt": "2026-03-03T10:24:23.089Z",
-    "statusChangeReason": "SOP V4.7 完整驗證"
+    "statusChangeReason": "SOP V4.7 完整驗證",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E6%AD%A3%E5%8D%80%E5%BF%A0%E5%AD%9D%E6%9D%B1%E8%B7%AF%E4%B8%80%E6%AE%B531%E8%99%9F",
+    "latitude": 25.0432,
+    "longitude": 121.5198,
+    "coordinateSource": "區域中心(中正區)",
+    "needsCoordinateVerification": true
   },
   {
     "id": 1103,
@@ -4820,7 +5165,12 @@
     "updateReason": "SOP V4.7 修復：設定 roomsCount",
     "updateSource": "本地腳本自動修復",
     "statusChangedAt": "2026-03-03T08:13:12.669Z",
-    "statusChangeReason": "SOP V4.7: 資料完整，恢復上架"
+    "statusChangeReason": "SOP V4.7: 資料完整，恢復上架",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E5%B1%B1%E5%8D%80%E6%A8%82%E7%BE%A4%E4%BA%8C%E8%B7%AF199%E8%99%9F",
+    "latitude": 25.0688,
+    "longitude": 121.5265,
+    "coordinateSource": "區域中心(中山區)",
+    "needsCoordinateVerification": true
   },
   {
     "id": 1104,
@@ -4862,7 +5212,12 @@
     "updateSource": "自動檢查腳本",
     "statusChangedAt": "2026-03-07T12:59:47.508772Z",
     "statusChangeReason": "已歇業/結束營業（系統自動標記）",
-    "lastReactivated": "2026-03-08"
+    "lastReactivated": "2026-03-08",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E6%B0%91%E7%94%9F%E6%9D%B1%E8%B7%AF%E4%B8%89%E6%AE%B5111%E8%99%9F",
+    "latitude": 25.033,
+    "longitude": 121.5654,
+    "coordinateSource": "台北市中心",
+    "needsCoordinateVerification": true
   },
   {
     "id": 1105,
@@ -4906,7 +5261,12 @@
     "updateReason": "SOP V4.7 驗證: ❌ 缺少會議室清單 URL, ❌ 缺少主照片",
     "updateSource": "自動檢查腳本",
     "statusChangedAt": "2026-03-03T10:24:23.089Z",
-    "statusChangeReason": "SOP V4.7 完整驗證"
+    "statusChangeReason": "SOP V4.7 完整驗證",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E5%A3%AB%E6%9E%97%E5%8D%80%E4%BB%B0%E5%BE%B7%E5%A4%A7%E9%81%93%E4%BA%8C%E6%AE%B52%E8%99%9F",
+    "latitude": 25.0923,
+    "longitude": 121.524,
+    "coordinateSource": "區域中心(士林區)",
+    "needsCoordinateVerification": true
   },
   {
     "name": "台北香格里拉遠東國際大飯店",
@@ -4969,7 +5329,12 @@
     "updateSource": "自動檢查腳本",
     "statusChangedAt": "2026-03-03T09:09:29.362Z",
     "statusChangeReason": "SOP V4.7 驗證：資料完整",
-    "priceNote": "需電詢 "
+    "priceNote": "需電詢 ",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E5%A4%A7%E5%AE%89%E5%8D%80%E6%95%A6%E5%8C%96%E5%8D%97%E8%B7%AF%E4%BA%8C%E6%AE%B5201%E8%99%9F",
+    "latitude": 25.0339,
+    "longitude": 121.5346,
+    "coordinateSource": "區域中心(大安區)",
+    "needsCoordinateVerification": true
   },
   {
     "id": 1107,
@@ -5016,7 +5381,12 @@
     "updateReason": "SOP V4.7 驗證: ❌ 缺少主照片",
     "updateSource": "自動檢查腳本",
     "statusChangedAt": "2026-03-03T10:24:23.089Z",
-    "statusChangeReason": "SOP V4.7 完整驗證"
+    "statusChangeReason": "SOP V4.7 完整驗證",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E6%9D%BE%E5%B1%B1%E5%8D%80%E5%8D%97%E4%BA%AC%E6%9D%B1%E8%B7%AF%E5%9B%9B%E6%AE%B510%E8%99%9F",
+    "latitude": 25.058,
+    "longitude": 121.5582,
+    "coordinateSource": "區域中心(松山區)",
+    "needsCoordinateVerification": true
   },
   {
     "id": 1108,
@@ -5063,7 +5433,12 @@
     "updateReason": "SOP V4.7 驗證: ❌ 缺少會議室清單 URL, ❌ 缺少主照片",
     "updateSource": "自動檢查腳本",
     "statusChangedAt": "2026-03-03T10:24:23.089Z",
-    "statusChangeReason": "SOP V4.7 完整驗證"
+    "statusChangeReason": "SOP V4.7 完整驗證",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E6%AD%A3%E5%8D%80%E6%BF%9F%E5%8D%97%E8%B7%AF%E4%B8%80%E6%AE%B52-1%E8%99%9F",
+    "latitude": 25.0432,
+    "longitude": 121.5198,
+    "coordinateSource": "區域中心(中正區)",
+    "needsCoordinateVerification": true
   },
   {
     "id": 1109,
@@ -5112,7 +5487,12 @@
     "updateSource": "本地腳本自動修復",
     "lastUpdated": "2026-03-03T07:25:54.260Z",
     "statusChangedAt": "2026-03-03T08:13:12.669Z",
-    "statusChangeReason": "SOP V4.7: 資料完整，恢復上架"
+    "statusChangeReason": "SOP V4.7: 資料完整，恢復上架",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E5%A4%A7%E5%AE%89%E5%8D%80%E7%BE%85%E6%96%AF%E7%A6%8F%E8%B7%AF%E5%9B%9B%E6%AE%B51%E8%99%9F",
+    "latitude": 25.0339,
+    "longitude": 121.5346,
+    "coordinateSource": "區域中心(大安區)",
+    "needsCoordinateVerification": true
   },
   {
     "id": 1111,
@@ -5157,7 +5537,12 @@
     "updateReason": "SOP V4.7 驗證: ❌ 缺少會議室清單 URL, ❌ 照片來源為 Wikipedia（禁止）",
     "updateSource": "自動檢查腳本",
     "statusChangedAt": "2026-03-03T10:24:23.089Z",
-    "statusChangeReason": "SOP V4.7 完整驗證"
+    "statusChangeReason": "SOP V4.7 完整驗證",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E5%B1%B1%E5%8D%80%E4%B8%AD%E5%B1%B1%E5%8C%97%E8%B7%AF%E4%B8%89%E6%AE%B5181%E8%99%9F",
+    "latitude": 25.0707,
+    "longitude": 121.522,
+    "coordinateSource": "地標",
+    "needsCoordinateVerification": false
   },
   {
     "id": 1112,
@@ -5202,7 +5587,12 @@
     "updateReason": "SOP V4.7 驗證: ❌ 缺少主照片",
     "updateSource": "自動檢查腳本",
     "statusChangedAt": "2026-03-03T10:24:23.089Z",
-    "statusChangeReason": "SOP V4.7 完整驗證"
+    "statusChangeReason": "SOP V4.7 完整驗證",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E5%A3%AB%E6%9E%97%E5%8D%80%E5%BF%A0%E8%AA%A0%E8%B7%AF%E4%BA%8C%E6%AE%B577%E8%99%9F",
+    "latitude": 25.0923,
+    "longitude": 121.524,
+    "coordinateSource": "區域中心(士林區)",
+    "needsCoordinateVerification": true
   },
   {
     "name": "寒舍艾美酒店",
@@ -5257,7 +5647,12 @@
     "updateSource": "本地腳本自動修復",
     "statusChangedAt": "2026-03-03T08:13:12.669Z",
     "statusChangeReason": "SOP V4.7: 資料完整，恢復上架",
-    "priceNote": "需電詢 "
+    "priceNote": "需電詢 ",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E4%BF%A1%E7%BE%A9%E5%8D%80%E6%9D%BE%E9%AB%98%E8%B7%AF18%E8%99%9F",
+    "latitude": 25.0305,
+    "longitude": 121.57,
+    "coordinateSource": "區域中心(信義區)",
+    "needsCoordinateVerification": true
   },
   {
     "id": 1115,
@@ -5305,7 +5700,12 @@
     "updateReason": "SOP V4.7 驗證: ❌ 缺少會議室清單 URL, ❌ 缺少主照片",
     "updateSource": "自動檢查腳本",
     "statusChangedAt": "2026-03-03T10:24:23.089Z",
-    "statusChangeReason": "SOP V4.7 完整驗證"
+    "statusChangeReason": "SOP V4.7 完整驗證",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E6%AD%A3%E5%8D%80%E4%B8%AD%E5%B1%B1%E5%8D%97%E8%B7%AF11%E8%99%9F",
+    "latitude": 25.0432,
+    "longitude": 121.5198,
+    "coordinateSource": "區域中心(中正區)",
+    "needsCoordinateVerification": true
   },
   {
     "id": 1116,
@@ -5358,7 +5758,12 @@
     "updateSource": "使用已爬取的照片資料",
     "lastUpdated": "2026-03-07T21:12:58.373334",
     "statusChangedAt": "2026-03-03T08:13:12.669Z",
-    "statusChangeReason": "SOP V4.7: 資料完整，恢復上架"
+    "statusChangeReason": "SOP V4.7: 資料完整，恢復上架",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E5%A4%A7%E5%AE%89%E5%8D%80%E5%BF%A0%E5%AD%9D%E6%9D%B1%E8%B7%AF%E5%9B%9B%E6%AE%B5219%E8%99%9F",
+    "latitude": 25.0339,
+    "longitude": 121.5346,
+    "coordinateSource": "區域中心(大安區)",
+    "needsCoordinateVerification": true
   },
   {
     "id": 1117,
@@ -5403,7 +5808,12 @@
     "updateReason": "SOP V4.7 驗證: ❌ 缺少會議室清單 URL, ❌ 缺少主照片",
     "updateSource": "自動檢查腳本",
     "statusChangedAt": "2026-03-03T10:24:23.089Z",
-    "statusChangeReason": "SOP V4.7 完整驗證"
+    "statusChangeReason": "SOP V4.7 完整驗證",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E6%9D%BE%E5%B1%B1%E5%8D%80%E5%BE%A9%E8%88%88%E5%8C%97%E8%B7%AF99%E8%99%9F",
+    "latitude": 25.058,
+    "longitude": 121.5582,
+    "coordinateSource": "區域中心(松山區)",
+    "needsCoordinateVerification": true
   },
   {
     "id": 1119,
@@ -5447,7 +5857,12 @@
     "updateReason": "官網不存在，地址與文華東方酒店不符，可能是誤植或虛假場地",
     "updateSource": "自動檢查腳本",
     "statusChangedAt": "2026-03-03T10:24:23.089Z",
-    "statusChangeReason": "SOP V4.7 完整驗證"
+    "statusChangeReason": "SOP V4.7 完整驗證",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E5%B1%B1%E5%8D%80%E4%B8%AD%E5%B1%B1%E5%8C%97%E8%B7%AF%E4%BA%8C%E6%AE%B567%E8%99%9F",
+    "latitude": 25.0688,
+    "longitude": 121.5265,
+    "coordinateSource": "區域中心(中山區)",
+    "needsCoordinateVerification": true
   },
   {
     "id": 1120,
@@ -5492,7 +5907,12 @@
     "updateReason": "SOP V4.7 驗證: ❌ 缺少會議室清單 URL, ❌ 缺少主照片",
     "updateSource": "自動檢查腳本",
     "statusChangedAt": "2026-03-03T10:24:23.089Z",
-    "statusChangeReason": "SOP V4.7 完整驗證"
+    "statusChangeReason": "SOP V4.7 完整驗證",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E5%A4%A7%E5%AE%89%E5%8D%80%E9%87%91%E8%8F%AF%E8%A1%97142%E8%99%9F",
+    "latitude": 25.0339,
+    "longitude": 121.5346,
+    "coordinateSource": "區域中心(大安區)",
+    "needsCoordinateVerification": true
   },
   {
     "id": 1121,
@@ -5545,7 +5965,12 @@
     "updateSource": "本地腳本自動修復",
     "lastUpdated": "2026-03-03T07:25:54.260Z",
     "statusChangedAt": "2026-03-03T08:13:12.669Z",
-    "statusChangeReason": "SOP V4.7: 資料完整，恢復上架"
+    "statusChangeReason": "SOP V4.7: 資料完整，恢復上架",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E5%A4%A7%E5%AE%89%E5%8D%80%E5%BF%A0%E5%AD%9D%E6%9D%B1%E8%B7%AF%E5%9B%9B%E6%AE%B5172%E8%99%9F",
+    "latitude": 25.0339,
+    "longitude": 121.5346,
+    "coordinateSource": "區域中心(大安區)",
+    "needsCoordinateVerification": true
   },
   {
     "id": 1122,
@@ -5595,7 +6020,12 @@
     "venueMainImageUrl": "https://grandvictoria.com.tw/wp-content/uploads/sites/237/2023/09/%E6%88%B6%E5%A4%96%E6%B0%9B%E5%9C%8D-16s-1800x700.jpg",
     "roomsCount": 3,
     "updateReason": "SOP V4.7 資料結構更新",
-    "updateSource": "手動驗證"
+    "updateSource": "手動驗證",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E5%B1%B1%E5%8D%80%E5%8C%97%E5%AE%89%E8%B7%AF595%E5%B7%B720%E8%99%9F",
+    "latitude": 25.0688,
+    "longitude": 121.5265,
+    "coordinateSource": "區域中心(中山區)",
+    "needsCoordinateVerification": true
   },
   {
     "id": 1123,
@@ -5640,7 +6070,12 @@
     "updateReason": "SOP V4.7 驗證: ❌ 缺少會議室清單 URL, ❌ 照片來源為 Wikipedia（禁止）",
     "updateSource": "自動檢查腳本",
     "statusChangedAt": "2026-03-03T10:24:23.089Z",
-    "statusChangeReason": "SOP V4.7 完整驗證"
+    "statusChangeReason": "SOP V4.7 完整驗證",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E5%B1%B1%E5%8D%80%E7%8E%89%E9%96%80%E8%A1%971%E8%99%9F",
+    "latitude": 25.0707,
+    "longitude": 121.522,
+    "coordinateSource": "地標",
+    "needsCoordinateVerification": false
   },
   {
     "id": 1124,
@@ -5695,7 +6130,12 @@
     "updateSource": "本地腳本自動修復",
     "lastUpdated": "2026-03-03T07:25:54.260Z",
     "statusChangedAt": "2026-03-03T08:13:12.669Z",
-    "statusChangeReason": "SOP V4.7: 資料完整，恢復上架"
+    "statusChangeReason": "SOP V4.7: 資料完整，恢復上架",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E6%AD%A3%E5%8D%80%E4%B8%AD%E8%8F%AF%E8%B7%AF%E4%BA%8C%E6%AE%B51%E8%99%9F",
+    "latitude": 25.0432,
+    "longitude": 121.5198,
+    "coordinateSource": "區域中心(中正區)",
+    "needsCoordinateVerification": true
   },
   {
     "id": 1125,
@@ -5767,7 +6207,12 @@
     "updateSource": "本地腳本自動修復",
     "lastUpdated": "2026-03-03T07:25:54.260Z",
     "statusChangedAt": "2026-03-03T08:13:12.669Z",
-    "statusChangeReason": "SOP V4.7: 資料完整，恢復上架"
+    "statusChangeReason": "SOP V4.7: 資料完整，恢復上架",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E6%AD%A3%E5%8D%80%E5%85%AB%E5%BE%B7%E8%B7%AF%E4%B8%80%E6%AE%B51%E8%99%9F",
+    "latitude": 25.0432,
+    "longitude": 121.5198,
+    "coordinateSource": "區域中心(中正區)",
+    "needsCoordinateVerification": true
   },
   {
     "id": 1126,
@@ -5831,7 +6276,12 @@
     "updateReason": "SOP V4.7: 補充會議室照片",
     "updateSource": "使用已爬取的照片資料",
     "statusChangedAt": "2026-03-03T08:13:12.669Z",
-    "statusChangeReason": "SOP V4.7: 資料完整，恢復上架"
+    "statusChangeReason": "SOP V4.7: 資料完整，恢復上架",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E6%AD%A3%E5%8D%80%E4%B8%AD%E8%8F%AF%E8%B7%AF%E4%B8%80%E6%AE%B541%E8%99%9F",
+    "latitude": 25.0432,
+    "longitude": 121.5198,
+    "coordinateSource": "區域中心(中正區)",
+    "needsCoordinateVerification": true
   },
   {
     "id": 1127,
@@ -5876,7 +6326,12 @@
     "updateReason": "SOP V4.7 驗證: ❌ 缺少主照片",
     "updateSource": "自動檢查腳本",
     "statusChangedAt": "2026-03-03T10:24:23.089Z",
-    "statusChangeReason": "SOP V4.7 完整驗證"
+    "statusChangeReason": "SOP V4.7 完整驗證",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E5%A4%A7%E5%AE%89%E5%8D%80%E6%95%A6%E5%8C%96%E5%8D%97%E8%B7%AF%E4%BA%8C%E6%AE%B563%E5%B7%B76%E8%99%9F",
+    "latitude": 25.0339,
+    "longitude": 121.5346,
+    "coordinateSource": "區域中心(大安區)",
+    "needsCoordinateVerification": true
   },
   {
     "id": 1128,
@@ -5925,7 +6380,12 @@
     "updateReason": "SOP V4.7 修復：設定 roomsCount",
     "updateSource": "本地腳本自動修復",
     "statusChangedAt": "2026-03-03T08:13:12.669Z",
-    "statusChangeReason": "SOP V4.7: 資料完整，恢復上架"
+    "statusChangeReason": "SOP V4.7: 資料完整，恢復上架",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E5%A4%A7%E5%AE%89%E5%8D%80%E7%BE%85%E6%96%AF%E7%A6%8F%E8%B7%AF%E5%9B%9B%E6%AE%B585%E8%99%9F",
+    "latitude": 25.0339,
+    "longitude": 121.5346,
+    "coordinateSource": "區域中心(大安區)",
+    "needsCoordinateVerification": true
   },
   {
     "id": 1129,
@@ -5969,7 +6429,12 @@
     "updateReason": "SOP V4.7 修復：設定 roomsCount",
     "updateSource": "本地腳本自動修復",
     "statusChangedAt": "2026-03-03T08:13:12.669Z",
-    "statusChangeReason": "SOP V4.7: 資料完整，恢復上架"
+    "statusChangeReason": "SOP V4.7: 資料完整，恢復上架",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E5%A3%AB%E6%9E%97%E5%8D%80%E4%B8%AD%E6%AD%A3%E8%B7%AF115%E8%99%9F",
+    "latitude": 25.0923,
+    "longitude": 121.524,
+    "coordinateSource": "區域中心(士林區)",
+    "needsCoordinateVerification": true
   },
   {
     "id": 1130,
@@ -6014,7 +6479,12 @@
     "updateReason": "SOP V4.7 驗證: ❌ 缺少會議室清單 URL",
     "updateSource": "自動檢查腳本",
     "statusChangedAt": "2026-03-03T09:09:29.362Z",
-    "statusChangeReason": "SOP V4.7 驗證：資料完整"
+    "statusChangeReason": "SOP V4.7 驗證：資料完整",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E5%A4%A7%E5%AE%89%E5%8D%80%E6%95%A6%E5%8C%96%E5%8D%97%E8%B7%AF%E4%BA%8C%E6%AE%B5201%E8%99%9F",
+    "latitude": 25.0339,
+    "longitude": 121.5346,
+    "coordinateSource": "區域中心(大安區)",
+    "needsCoordinateVerification": true
   },
   {
     "id": 1131,
@@ -13547,7 +14017,12 @@
     "updateSource": "自動檢查腳本",
     "lastUpdated": "2026-03-05T06:06:15.096Z",
     "statusChangedAt": "2026-03-03T10:24:23.089Z",
-    "statusChangeReason": "SOP V4.7 完整驗證"
+    "statusChangeReason": "SOP V4.7 完整驗證",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E6%AD%A3%E5%8D%80%E4%B8%AD%E5%B1%B1%E5%8D%97%E8%B7%AF21%E8%99%9F",
+    "latitude": 25.0362,
+    "longitude": 121.5186,
+    "coordinateSource": "地標",
+    "needsCoordinateVerification": false
   },
   {
     "id": 1334,
@@ -13593,7 +14068,12 @@
     "updateReason": "SOP V4.7 驗證: ❌ 缺少主照片",
     "updateSource": "自動檢查腳本",
     "statusChangedAt": "2026-03-03T10:24:23.089Z",
-    "statusChangeReason": "SOP V4.7 完整驗證"
+    "statusChangeReason": "SOP V4.7 完整驗證",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E5%B1%B1%E5%8D%80%E4%B8%AD%E5%B1%B1%E5%8C%97%E8%B7%AF%E4%BA%8C%E6%AE%B544%E5%B7%B72%E8%99%9F",
+    "latitude": 25.0688,
+    "longitude": 121.5265,
+    "coordinateSource": "區域中心(中山區)",
+    "needsCoordinateVerification": true
   },
   {
     "id": 1335,
@@ -13640,7 +14120,12 @@
     "updateReason": "SOP V4.7 驗證: ❌ 缺少主照片",
     "updateSource": "自動檢查腳本",
     "statusChangedAt": "2026-03-03T10:24:23.089Z",
-    "statusChangeReason": "SOP V4.7 完整驗證"
+    "statusChangeReason": "SOP V4.7 完整驗證",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E4%BF%A1%E7%BE%A9%E5%8D%80%E6%9D%BE%E5%8B%A4%E8%A1%97100%E8%99%9F",
+    "latitude": 25.0305,
+    "longitude": 121.57,
+    "coordinateSource": "區域中心(信義區)",
+    "needsCoordinateVerification": true
   },
   {
     "id": 1336,
@@ -13687,7 +14172,12 @@
     "updateReason": "SOP V4.7 驗證: ❌ 缺少主照片",
     "updateSource": "自動檢查腳本",
     "statusChangedAt": "2026-03-03T10:24:23.089Z",
-    "statusChangeReason": "SOP V4.7 完整驗證"
+    "statusChangeReason": "SOP V4.7 完整驗證",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E5%85%A7%E6%B9%96%E5%8D%80%E6%B4%B2%E5%AD%90%E8%A1%9712%E8%99%9F",
+    "latitude": 25.083,
+    "longitude": 121.5867,
+    "coordinateSource": "區域中心(內湖區)",
+    "needsCoordinateVerification": true
   },
   {
     "id": 1337,
@@ -13734,7 +14224,12 @@
     "updateReason": "SOP V4.7 驗證: ❌ 照片來源為 Wikipedia（禁止）",
     "updateSource": "自動檢查腳本",
     "statusChangedAt": "2026-03-03T10:24:23.089Z",
-    "statusChangeReason": "SOP V4.7 完整驗證"
+    "statusChangeReason": "SOP V4.7 完整驗證",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E4%BF%A1%E7%BE%A9%E5%8D%80%E4%BB%81%E6%84%9B%E8%B7%AF%E5%9B%9B%E6%AE%B5505%E8%99%9F",
+    "latitude": 25.0398,
+    "longitude": 121.5602,
+    "coordinateSource": "地標",
+    "needsCoordinateVerification": false
   },
   {
     "id": 1338,
@@ -13815,7 +14310,12 @@
     "updateSource": "自動檢查腳本",
     "statusChangedAt": "2026-03-03T10:24:23.089Z",
     "statusChangeReason": "SOP V4.7 完整驗證",
-    "priceNote": "需電詢 02-27026141分機211"
+    "priceNote": "需電詢 02-27026141分機211",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E5%A4%A7%E5%AE%89%E5%8D%80%E6%96%B0%E7%94%9F%E5%8D%97%E8%B7%AF%E4%B8%80%E6%AE%B5157%E5%B7%B719%E8%99%9F3%E6%A8%93",
+    "latitude": 25.0339,
+    "longitude": 121.5346,
+    "coordinateSource": "區域中心(大安區)",
+    "needsCoordinateVerification": true
   },
   {
     "name": "朱崙區民活動中心",
@@ -13868,7 +14368,12 @@
     "updateSource": "自動檢查腳本",
     "statusChangedAt": "2026-03-03T10:24:23.089Z",
     "statusChangeReason": "SOP V4.7 完整驗證",
-    "priceNote": "需電詢 "
+    "priceNote": "需電詢 ",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E5%B1%B1%E5%8D%80%E9%BE%8D%E6%B1%9F%E8%B7%AF15%E8%99%9F3%E6%A8%93",
+    "latitude": 25.0688,
+    "longitude": 121.5265,
+    "coordinateSource": "區域中心(中山區)",
+    "needsCoordinateVerification": true
   },
   {
     "id": 1340,
@@ -13959,7 +14464,12 @@
     "updateSource": "自動檢查腳本",
     "statusChangedAt": "2026-03-03T10:24:23.089Z",
     "statusChangeReason": "SOP V4.7 完整驗證",
-    "priceNote": "需電詢 02-25031369轉506"
+    "priceNote": "需電詢 02-25031369轉506",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E5%BA%84%E9%87%8C%E9%8C%A6%E5%B7%9E%E8%A1%97222%E8%99%9F2%E6%A8%93",
+    "latitude": 25.033,
+    "longitude": 121.5654,
+    "coordinateSource": "台北市中心",
+    "needsCoordinateVerification": true
   },
   {
     "name": "林森三區民活動中心",
@@ -14018,7 +14528,12 @@
     "updateSource": "自動檢查腳本",
     "statusChangedAt": "2026-03-03T10:24:23.089Z",
     "statusChangeReason": "SOP V4.7 完整驗證",
-    "priceNote": "需電詢 "
+    "priceNote": "需電詢 ",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E6%9E%97%E6%A3%AE%E5%8C%97%E8%B7%AF67%E5%B7%B77%E8%99%9F3%E6%A8%93",
+    "latitude": 25.033,
+    "longitude": 121.5654,
+    "coordinateSource": "台北市中心",
+    "needsCoordinateVerification": true
   },
   {
     "id": 1342,
@@ -15505,7 +16020,12 @@
     "updateSource": "自動檢查腳本",
     "lastUpdated": "2026-03-05T06:06:15.097Z",
     "statusChangedAt": "2026-03-03T10:24:23.089Z",
-    "statusChangeReason": "SOP V4.7 完整驗證"
+    "statusChangeReason": "SOP V4.7 完整驗證",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E4%BF%A1%E7%BE%A9%E5%8D%80%E5%BF%A0%E5%AD%9D%E6%9D%B1%E8%B7%AF%E4%BA%94%E6%AE%B510%E8%99%9F",
+    "latitude": 25.0305,
+    "longitude": 121.57,
+    "coordinateSource": "區域中心(信義區)",
+    "needsCoordinateVerification": true
   },
   {
     "id": 1382,
@@ -15549,7 +16069,12 @@
     "updateSource": "自動檢查腳本",
     "lastUpdated": "2026-03-05T06:06:15.097Z",
     "statusChangedAt": "2026-03-03T10:24:23.089Z",
-    "statusChangeReason": "SOP V4.7 完整驗證"
+    "statusChangeReason": "SOP V4.7 完整驗證",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E4%BF%A1%E7%BE%A9%E5%8D%80%E5%BF%A0%E5%AD%9D%E6%9D%B1%E8%B7%AF%E4%BA%94%E6%AE%B510%E8%99%9F",
+    "latitude": 25.0305,
+    "longitude": 121.57,
+    "coordinateSource": "區域中心(信義區)",
+    "needsCoordinateVerification": true
   },
   {
     "id": 1383,
@@ -15593,7 +16118,12 @@
     "updateSource": "自動檢查腳本",
     "lastUpdated": "2026-03-05T06:06:15.097Z",
     "statusChangedAt": "2026-03-03T10:24:23.089Z",
-    "statusChangeReason": "SOP V4.7 完整驗證"
+    "statusChangeReason": "SOP V4.7 完整驗證",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E4%BF%A1%E7%BE%A9%E5%8D%80%E5%BF%A0%E5%AD%9D%E6%9D%B1%E8%B7%AF%E4%BA%94%E6%AE%B510%E8%99%9F",
+    "latitude": 25.0305,
+    "longitude": 121.57,
+    "coordinateSource": "區域中心(信義區)",
+    "needsCoordinateVerification": true
   },
   {
     "id": 1384,
@@ -15655,7 +16185,12 @@
     "updateReason": "SOP V4.7: 更新為真實會議室照片（替換 logo）",
     "updateSource": "Playwright 爬蟲自動更新",
     "verificationStatus": "✅ 已驗證",
-    "lastUpdated": "2026-03-07T13:12:00.788407"
+    "lastUpdated": "2026-03-07T13:12:00.788407",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E6%AD%A3%E5%8D%80%E5%BF%A0%E5%AD%9D%E6%9D%B1%E8%B7%AF%E4%B8%80%E6%AE%B512%E8%99%9F",
+    "latitude": 25.0432,
+    "longitude": 121.5198,
+    "coordinateSource": "區域中心(中正區)",
+    "needsCoordinateVerification": true
   },
   {
     "id": 1385,
@@ -15717,7 +16252,12 @@
     "updateReason": "SOP V4.7: 更新為真實會議室照片（替換 logo）",
     "updateSource": "Playwright 爬蟲自動更新",
     "verificationStatus": "✅ 已驗證",
-    "lastUpdated": "2026-03-07T13:12:00.788419"
+    "lastUpdated": "2026-03-07T13:12:00.788419",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E6%AD%A3%E5%8D%80%E5%BF%A0%E5%AD%9D%E6%9D%B1%E8%B7%AF%E4%B8%80%E6%AE%B512%E8%99%9F",
+    "latitude": 25.0432,
+    "longitude": 121.5198,
+    "coordinateSource": "區域中心(中正區)",
+    "needsCoordinateVerification": true
   },
   {
     "id": 1386,
@@ -15782,7 +16322,12 @@
     "updateReason": "SOP V4.7: 更新為真實會議室照片（替換 logo）",
     "updateSource": "Playwright 爬蟲自動更新",
     "verificationStatus": "✅ 已驗證",
-    "lastUpdated": "2026-03-07T13:12:00.788430"
+    "lastUpdated": "2026-03-07T13:12:00.788430",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E6%AD%A3%E5%8D%80%E5%BF%A0%E5%AD%9D%E6%9D%B1%E8%B7%AF%E4%B8%80%E6%AE%B512%E8%99%9F",
+    "latitude": 25.0432,
+    "longitude": 121.5198,
+    "coordinateSource": "區域中心(中正區)",
+    "needsCoordinateVerification": true
   },
   {
     "id": 1387,
@@ -15844,7 +16389,12 @@
     "updateReason": "SOP V4.7: 更新為真實會議室照片（替換 logo）",
     "updateSource": "Playwright 爬蟲自動更新",
     "verificationStatus": "✅ 已驗證",
-    "lastUpdated": "2026-03-07T13:12:00.788440"
+    "lastUpdated": "2026-03-07T13:12:00.788440",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E6%AD%A3%E5%8D%80%E5%BF%A0%E5%AD%9D%E6%9D%B1%E8%B7%AF%E4%B8%80%E6%AE%B512%E8%99%9F",
+    "latitude": 25.0432,
+    "longitude": 121.5198,
+    "coordinateSource": "區域中心(中正區)",
+    "needsCoordinateVerification": true
   },
   {
     "id": 1388,
@@ -15894,7 +16444,12 @@
     "updateSource": "手動更新",
     "lastUpdated": "2026-03-03T07:43:52.197Z",
     "statusChangedAt": "2026-03-03T10:24:23.089Z",
-    "statusChangeReason": "SOP V4.7 完整驗證"
+    "statusChangeReason": "SOP V4.7 完整驗證",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E5%B1%B1%E5%8D%80%E4%B8%AD%E5%B1%B1%E5%8C%97%E8%B7%AF%E5%9B%9B%E6%AE%B51%E8%99%9F",
+    "latitude": 25.0688,
+    "longitude": 121.5265,
+    "coordinateSource": "區域中心(中山區)",
+    "needsCoordinateVerification": true
   },
   {
     "id": 1389,
@@ -15944,7 +16499,12 @@
     "updateSource": "手動更新",
     "lastUpdated": "2026-03-03T07:43:52.198Z",
     "statusChangedAt": "2026-03-03T10:24:23.089Z",
-    "statusChangeReason": "SOP V4.7 完整驗證"
+    "statusChangeReason": "SOP V4.7 完整驗證",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E5%B1%B1%E5%8D%80%E4%B8%AD%E5%B1%B1%E5%8C%97%E8%B7%AF%E5%9B%9B%E6%AE%B51%E8%99%9F",
+    "latitude": 25.0688,
+    "longitude": 121.5265,
+    "coordinateSource": "區域中心(中山區)",
+    "needsCoordinateVerification": true
   },
   {
     "id": 1390,
@@ -15994,7 +16554,12 @@
     "updateSource": "手動更新",
     "lastUpdated": "2026-03-03T07:43:52.199Z",
     "statusChangedAt": "2026-03-03T10:24:23.089Z",
-    "statusChangeReason": "SOP V4.7 完整驗證"
+    "statusChangeReason": "SOP V4.7 完整驗證",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E5%B1%B1%E5%8D%80%E4%B8%AD%E5%B1%B1%E5%8C%97%E8%B7%AF%E5%9B%9B%E6%AE%B51%E8%99%9F",
+    "latitude": 25.0688,
+    "longitude": 121.5265,
+    "coordinateSource": "區域中心(中山區)",
+    "needsCoordinateVerification": true
   },
   {
     "id": 1391,
@@ -16044,7 +16609,12 @@
     "updateSource": "手動更新",
     "lastUpdated": "2026-03-03T07:43:52.200Z",
     "statusChangedAt": "2026-03-03T10:24:23.089Z",
-    "statusChangeReason": "SOP V4.7 完整驗證"
+    "statusChangeReason": "SOP V4.7 完整驗證",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E5%B1%B1%E5%8D%80%E4%B8%AD%E5%B1%B1%E5%8C%97%E8%B7%AF%E5%9B%9B%E6%AE%B51%E8%99%9F",
+    "latitude": 25.0688,
+    "longitude": 121.5265,
+    "coordinateSource": "區域中心(中山區)",
+    "needsCoordinateVerification": true
   },
   {
     "id": 1392,
@@ -16115,7 +16685,12 @@
     "updateSource": "SOP V4.7 自動查核",
     "lastUpdated": "2026-03-07T07:13:00.000Z",
     "statusChangedAt": "2026-03-07T07:13:00.000Z",
-    "statusChangeReason": "SOP V4.7 查核完成：Email 及照片已更新為官網正確資料"
+    "statusChangeReason": "SOP V4.7 查核完成：Email 及照片已更新為官網正確資料",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E6%95%A6%E5%8C%96%E5%8C%97%E8%B7%AF158%E8%99%9F",
+    "latitude": 25.033,
+    "longitude": 121.5654,
+    "coordinateSource": "台北市中心",
+    "needsCoordinateVerification": true
   },
   {
     "id": 1393,
@@ -16187,7 +16762,12 @@
     "updateSource": "本地腳本自動修復",
     "lastUpdated": "2026-03-03T07:25:54.260Z",
     "statusChangedAt": "2026-03-03T10:24:23.089Z",
-    "statusChangeReason": "SOP V4.7 完整驗證"
+    "statusChangeReason": "SOP V4.7 完整驗證",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E6%95%A6%E5%8C%96%E5%8C%97%E8%B7%AF158%E8%99%9F",
+    "latitude": 25.033,
+    "longitude": 121.5654,
+    "coordinateSource": "台北市中心",
+    "needsCoordinateVerification": true
   },
   {
     "id": 1394,
@@ -16259,7 +16839,12 @@
     "updateSource": "本地腳本自動修復",
     "lastUpdated": "2026-03-03T07:25:54.260Z",
     "statusChangedAt": "2026-03-03T10:24:23.089Z",
-    "statusChangeReason": "SOP V4.7 完整驗證"
+    "statusChangeReason": "SOP V4.7 完整驗證",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E6%95%A6%E5%8C%96%E5%8C%97%E8%B7%AF158%E8%99%9F",
+    "latitude": 25.033,
+    "longitude": 121.5654,
+    "coordinateSource": "台北市中心",
+    "needsCoordinateVerification": true
   },
   {
     "id": 1395,
@@ -16331,7 +16916,12 @@
     "updateSource": "本地腳本自動修復",
     "lastUpdated": "2026-03-03T07:25:54.260Z",
     "statusChangedAt": "2026-03-03T10:24:23.089Z",
-    "statusChangeReason": "SOP V4.7 完整驗證"
+    "statusChangeReason": "SOP V4.7 完整驗證",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E6%95%A6%E5%8C%96%E5%8C%97%E8%B7%AF158%E8%99%9F",
+    "latitude": 25.033,
+    "longitude": 121.5654,
+    "coordinateSource": "台北市中心",
+    "needsCoordinateVerification": true
   },
   {
     "id": 1396,
@@ -16375,7 +16965,12 @@
     "updateSource": "自動檢查腳本",
     "statusChangedAt": "2026-03-07T12:59:47.508772Z",
     "statusChangeReason": "已歇業/結束營業（系統自動標記）",
-    "lastReactivated": "2026-03-08"
+    "lastReactivated": "2026-03-08",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E5%B1%B1%E5%8D%80%E4%B8%AD%E5%B1%B1%E5%8C%97%E8%B7%AF%E4%B8%80%E6%AE%B563%E8%99%9F",
+    "latitude": 25.0688,
+    "longitude": 121.5265,
+    "coordinateSource": "區域中心(中山區)",
+    "needsCoordinateVerification": true
   },
   {
     "id": 1397,
@@ -16417,7 +17012,12 @@
     "updateSource": "自動檢查腳本",
     "statusChangedAt": "2026-03-07T12:59:47.508772Z",
     "statusChangeReason": "已歇業/結束營業（系統自動標記）",
-    "lastReactivated": "2026-03-08"
+    "lastReactivated": "2026-03-08",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E5%B1%B1%E5%8D%80%E4%B8%AD%E5%B1%B1%E5%8C%97%E8%B7%AF%E4%B8%80%E6%AE%B563%E8%99%9F",
+    "latitude": 25.0688,
+    "longitude": 121.5265,
+    "coordinateSource": "區域中心(中山區)",
+    "needsCoordinateVerification": true
   },
   {
     "id": 1398,
@@ -16459,7 +17059,12 @@
     "updateSource": "自動檢查腳本",
     "statusChangedAt": "2026-03-07T12:59:47.508772Z",
     "statusChangeReason": "已歇業/結束營業（系統自動標記）",
-    "lastReactivated": "2026-03-08"
+    "lastReactivated": "2026-03-08",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E5%B1%B1%E5%8D%80%E4%B8%AD%E5%B1%B1%E5%8C%97%E8%B7%AF%E4%B8%80%E6%AE%B563%E8%99%9F",
+    "latitude": 25.0688,
+    "longitude": 121.5265,
+    "coordinateSource": "區域中心(中山區)",
+    "needsCoordinateVerification": true
   },
   {
     "id": 1399,
@@ -16501,7 +17106,12 @@
     "updateSource": "自動檢查腳本",
     "statusChangedAt": "2026-03-07T12:59:47.508772Z",
     "statusChangeReason": "已歇業/結束營業（系統自動標記）",
-    "lastReactivated": "2026-03-08"
+    "lastReactivated": "2026-03-08",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E5%B1%B1%E5%8D%80%E4%B8%AD%E5%B1%B1%E5%8C%97%E8%B7%AF%E4%B8%80%E6%AE%B563%E8%99%9F",
+    "latitude": 25.0688,
+    "longitude": 121.5265,
+    "coordinateSource": "區域中心(中山區)",
+    "needsCoordinateVerification": true
   },
   {
     "id": 1400,
@@ -16553,7 +17163,12 @@
     "updateReason": "SOP V4.7 驗證: ❌ 缺少會議室清單 URL, ❌ 缺少主照片",
     "updateSource": "自動檢查腳本",
     "statusChangedAt": "2026-03-07T12:59:47.508772Z",
-    "statusChangeReason": "已歇業/結束營業（系統自動標記）"
+    "statusChangeReason": "已歇業/結束營業（系統自動標記）",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E6%9D%BE%E5%B1%B1%E5%8D%80%E5%8D%97%E4%BA%AC%E6%9D%B1%E8%B7%AF%E4%B8%89%E6%AE%B5133%E8%99%9F",
+    "latitude": 25.058,
+    "longitude": 121.5582,
+    "coordinateSource": "區域中心(松山區)",
+    "needsCoordinateVerification": true
   },
   {
     "id": 1401,
@@ -16605,7 +17220,12 @@
     "updateReason": "SOP V4.7 驗證: ❌ 缺少會議室清單 URL, ❌ 缺少主照片",
     "updateSource": "自動檢查腳本",
     "statusChangedAt": "2026-03-07T12:59:47.508772Z",
-    "statusChangeReason": "已歇業/結束營業（系統自動標記）"
+    "statusChangeReason": "已歇業/結束營業（系統自動標記）",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E6%9D%BE%E5%B1%B1%E5%8D%80%E5%8D%97%E4%BA%AC%E6%9D%B1%E8%B7%AF%E4%B8%89%E6%AE%B5133%E8%99%9F",
+    "latitude": 25.058,
+    "longitude": 121.5582,
+    "coordinateSource": "區域中心(松山區)",
+    "needsCoordinateVerification": true
   },
   {
     "id": 1402,
@@ -16657,7 +17277,12 @@
     "updateReason": "SOP V4.7 驗證: ❌ 缺少會議室清單 URL, ❌ 缺少主照片",
     "updateSource": "自動檢查腳本",
     "statusChangedAt": "2026-03-07T12:59:47.508772Z",
-    "statusChangeReason": "已歇業/結束營業（系統自動標記）"
+    "statusChangeReason": "已歇業/結束營業（系統自動標記）",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E6%9D%BE%E5%B1%B1%E5%8D%80%E5%8D%97%E4%BA%AC%E6%9D%B1%E8%B7%AF%E4%B8%89%E6%AE%B5133%E8%99%9F",
+    "latitude": 25.058,
+    "longitude": 121.5582,
+    "coordinateSource": "區域中心(松山區)",
+    "needsCoordinateVerification": true
   },
   {
     "id": 1403,
@@ -16709,7 +17334,12 @@
     "updateReason": "SOP V4.7 驗證: ❌ 缺少會議室清單 URL, ❌ 缺少主照片",
     "updateSource": "自動檢查腳本",
     "statusChangedAt": "2026-03-07T12:59:47.508772Z",
-    "statusChangeReason": "已歇業/結束營業（系統自動標記）"
+    "statusChangeReason": "已歇業/結束營業（系統自動標記）",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E6%9D%BE%E5%B1%B1%E5%8D%80%E5%8D%97%E4%BA%AC%E6%9D%B1%E8%B7%AF%E4%B8%89%E6%AE%B5133%E8%99%9F",
+    "latitude": 25.058,
+    "longitude": 121.5582,
+    "coordinateSource": "區域中心(松山區)",
+    "needsCoordinateVerification": true
   },
   {
     "id": 1404,
@@ -16751,7 +17381,12 @@
     "updateSource": "本地腳本自動修復",
     "lastUpdated": "2026-03-03T07:25:54.260Z",
     "statusChangedAt": "2026-03-03T10:24:23.089Z",
-    "statusChangeReason": "SOP V4.7 完整驗證"
+    "statusChangeReason": "SOP V4.7 完整驗證",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E4%BF%A1%E7%BE%A9%E5%8D%80%E6%9D%BE%E4%BB%81%E8%B7%AF38%E8%99%9F",
+    "latitude": 25.0305,
+    "longitude": 121.57,
+    "coordinateSource": "區域中心(信義區)",
+    "needsCoordinateVerification": true
   },
   {
     "id": 1405,
@@ -16796,7 +17431,12 @@
     "updateSource": "本地腳本自動修復",
     "lastUpdated": "2026-03-03T07:25:54.260Z",
     "statusChangedAt": "2026-03-03T10:24:23.089Z",
-    "statusChangeReason": "SOP V4.7 完整驗證"
+    "statusChangeReason": "SOP V4.7 完整驗證",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E4%BF%A1%E7%BE%A9%E5%8D%80%E6%9D%BE%E4%BB%81%E8%B7%AF38%E8%99%9F",
+    "latitude": 25.0305,
+    "longitude": 121.57,
+    "coordinateSource": "區域中心(信義區)",
+    "needsCoordinateVerification": true
   },
   {
     "id": 1406,
@@ -16838,7 +17478,12 @@
     "updateSource": "本地腳本自動修復",
     "lastUpdated": "2026-03-03T07:25:54.260Z",
     "statusChangedAt": "2026-03-03T10:24:23.089Z",
-    "statusChangeReason": "SOP V4.7 完整驗證"
+    "statusChangeReason": "SOP V4.7 完整驗證",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E4%BF%A1%E7%BE%A9%E5%8D%80%E6%9D%BE%E4%BB%81%E8%B7%AF38%E8%99%9F",
+    "latitude": 25.0305,
+    "longitude": 121.57,
+    "coordinateSource": "區域中心(信義區)",
+    "needsCoordinateVerification": true
   },
   {
     "id": 1407,
@@ -16880,7 +17525,12 @@
     "updateSource": "本地腳本自動修復",
     "lastUpdated": "2026-03-03T07:25:54.260Z",
     "statusChangedAt": "2026-03-03T10:24:23.089Z",
-    "statusChangeReason": "SOP V4.7 完整驗證"
+    "statusChangeReason": "SOP V4.7 完整驗證",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E4%BF%A1%E7%BE%A9%E5%8D%80%E6%9D%BE%E4%BB%81%E8%B7%AF38%E8%99%9F",
+    "latitude": 25.0305,
+    "longitude": 121.57,
+    "coordinateSource": "區域中心(信義區)",
+    "needsCoordinateVerification": true
   },
   {
     "id": 1408,
@@ -16928,7 +17578,12 @@
     "updateSource": "自動檢查腳本",
     "lastUpdated": "2026-03-05T06:06:15.097Z",
     "statusChangedAt": "2026-03-03T10:24:23.089Z",
-    "statusChangeReason": "SOP V4.7 完整驗證"
+    "statusChangeReason": "SOP V4.7 完整驗證",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E6%AD%A3%E5%8D%80%E6%89%BF%E5%BE%B7%E8%B7%AF%E4%B8%80%E6%AE%B53%E8%99%9F",
+    "latitude": 25.0432,
+    "longitude": 121.5198,
+    "coordinateSource": "區域中心(中正區)",
+    "needsCoordinateVerification": true
   },
   {
     "id": 1409,
@@ -16975,7 +17630,12 @@
     "updateSource": "自動檢查腳本",
     "lastUpdated": "2026-03-05T06:06:15.097Z",
     "statusChangedAt": "2026-03-03T10:24:23.089Z",
-    "statusChangeReason": "SOP V4.7 完整驗證"
+    "statusChangeReason": "SOP V4.7 完整驗證",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E6%AD%A3%E5%8D%80%E6%89%BF%E5%BE%B7%E8%B7%AF%E4%B8%80%E6%AE%B53%E8%99%9F",
+    "latitude": 25.0432,
+    "longitude": 121.5198,
+    "coordinateSource": "區域中心(中正區)",
+    "needsCoordinateVerification": true
   },
   {
     "id": 1410,
@@ -17022,7 +17682,12 @@
     "updateSource": "自動檢查腳本",
     "lastUpdated": "2026-03-05T06:06:15.097Z",
     "statusChangedAt": "2026-03-03T10:24:23.089Z",
-    "statusChangeReason": "SOP V4.7 完整驗證"
+    "statusChangeReason": "SOP V4.7 完整驗證",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E6%AD%A3%E5%8D%80%E6%89%BF%E5%BE%B7%E8%B7%AF%E4%B8%80%E6%AE%B53%E8%99%9F",
+    "latitude": 25.0432,
+    "longitude": 121.5198,
+    "coordinateSource": "區域中心(中正區)",
+    "needsCoordinateVerification": true
   },
   {
     "id": 1411,
@@ -17070,7 +17735,12 @@
     "updateSource": "本地腳本自動修復",
     "lastUpdated": "2026-03-03T07:25:54.260Z",
     "statusChangedAt": "2026-03-03T10:24:23.089Z",
-    "statusChangeReason": "SOP V4.7 完整驗證"
+    "statusChangeReason": "SOP V4.7 完整驗證",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E5%B1%B1%E5%8D%80%E6%B0%91%E6%AC%8A%E6%9D%B1%E8%B7%AF%E4%BA%8C%E6%AE%B541%E8%99%9F",
+    "latitude": 25.0688,
+    "longitude": 121.5265,
+    "coordinateSource": "區域中心(中山區)",
+    "needsCoordinateVerification": true
   },
   {
     "id": 1412,
@@ -17118,7 +17788,12 @@
     "updateSource": "本地腳本自動修復",
     "lastUpdated": "2026-03-03T07:25:54.260Z",
     "statusChangedAt": "2026-03-03T10:24:23.089Z",
-    "statusChangeReason": "SOP V4.7 完整驗證"
+    "statusChangeReason": "SOP V4.7 完整驗證",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E5%B1%B1%E5%8D%80%E6%B0%91%E6%AC%8A%E6%9D%B1%E8%B7%AF%E4%BA%8C%E6%AE%B541%E8%99%9F",
+    "latitude": 25.0688,
+    "longitude": 121.5265,
+    "coordinateSource": "區域中心(中山區)",
+    "needsCoordinateVerification": true
   },
   {
     "id": 1413,
@@ -17722,7 +18397,12 @@
     "updateSource": "自動檢查腳本",
     "lastUpdated": "2026-03-05T06:06:15.097Z",
     "statusChangedAt": "2026-03-03T10:24:23.089Z",
-    "statusChangeReason": "SOP V4.7 完整驗證"
+    "statusChangeReason": "SOP V4.7 完整驗證",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E5%A4%A7%E5%AE%89%E5%8D%80%E7%BE%85%E6%96%AF%E7%A6%8F%E8%B7%AF%E5%9B%9B%E6%AE%B585%E8%99%9F",
+    "latitude": 25.0339,
+    "longitude": 121.5346,
+    "coordinateSource": "區域中心(大安區)",
+    "needsCoordinateVerification": true
   },
   {
     "id": 1434,
@@ -17769,7 +18449,12 @@
     "updateSource": "自動檢查腳本",
     "lastUpdated": "2026-03-05T06:06:15.097Z",
     "statusChangedAt": "2026-03-03T10:24:23.089Z",
-    "statusChangeReason": "SOP V4.7 完整驗證"
+    "statusChangeReason": "SOP V4.7 完整驗證",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E5%A4%A7%E5%AE%89%E5%8D%80%E7%BE%85%E6%96%AF%E7%A6%8F%E8%B7%AF%E5%9B%9B%E6%AE%B585%E8%99%9F",
+    "latitude": 25.0339,
+    "longitude": 121.5346,
+    "coordinateSource": "區域中心(大安區)",
+    "needsCoordinateVerification": true
   },
   {
     "id": 1435,
@@ -17816,7 +18501,12 @@
     "updateSource": "自動檢查腳本",
     "lastUpdated": "2026-03-05T06:06:15.097Z",
     "statusChangedAt": "2026-03-03T10:24:23.089Z",
-    "statusChangeReason": "SOP V4.7 完整驗證"
+    "statusChangeReason": "SOP V4.7 完整驗證",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E5%A4%A7%E5%AE%89%E5%8D%80%E7%BE%85%E6%96%AF%E7%A6%8F%E8%B7%AF%E5%9B%9B%E6%AE%B585%E8%99%9F",
+    "latitude": 25.0339,
+    "longitude": 121.5346,
+    "coordinateSource": "區域中心(大安區)",
+    "needsCoordinateVerification": true
   },
   {
     "id": 1436,
@@ -17864,7 +18554,12 @@
     "updateSource": "自動檢查腳本",
     "lastUpdated": "2026-03-05T06:06:15.097Z",
     "statusChangedAt": "2026-03-03T10:24:23.089Z",
-    "statusChangeReason": "SOP V4.7 完整驗證"
+    "statusChangeReason": "SOP V4.7 完整驗證",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E6%AD%A3%E5%8D%80%E4%B8%AD%E5%B1%B1%E5%8D%97%E8%B7%AF11%E8%99%9F",
+    "latitude": 25.0432,
+    "longitude": 121.5198,
+    "coordinateSource": "區域中心(中正區)",
+    "needsCoordinateVerification": true
   },
   {
     "id": 1437,
@@ -17912,7 +18607,12 @@
     "updateSource": "自動檢查腳本",
     "lastUpdated": "2026-03-05T06:06:15.097Z",
     "statusChangedAt": "2026-03-03T10:24:23.089Z",
-    "statusChangeReason": "SOP V4.7 完整驗證"
+    "statusChangeReason": "SOP V4.7 完整驗證",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E6%AD%A3%E5%8D%80%E4%B8%AD%E5%B1%B1%E5%8D%97%E8%B7%AF11%E8%99%9F",
+    "latitude": 25.0432,
+    "longitude": 121.5198,
+    "coordinateSource": "區域中心(中正區)",
+    "needsCoordinateVerification": true
   },
   {
     "id": 1438,
@@ -17960,7 +18660,12 @@
     "updateSource": "自動檢查腳本",
     "lastUpdated": "2026-03-05T06:06:15.097Z",
     "statusChangedAt": "2026-03-03T10:24:23.089Z",
-    "statusChangeReason": "SOP V4.7 完整驗證"
+    "statusChangeReason": "SOP V4.7 完整驗證",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E6%AD%A3%E5%8D%80%E4%B8%AD%E5%B1%B1%E5%8D%97%E8%B7%AF11%E8%99%9F",
+    "latitude": 25.0432,
+    "longitude": 121.5198,
+    "coordinateSource": "區域中心(中正區)",
+    "needsCoordinateVerification": true
   },
   {
     "id": 1439,
@@ -18013,7 +18718,12 @@
     "updateSource": "使用已爬取的照片資料",
     "lastUpdated": "2026-03-07T21:12:58.373492",
     "statusChangedAt": "2026-03-03T10:24:23.089Z",
-    "statusChangeReason": "SOP V4.7 完整驗證"
+    "statusChangeReason": "SOP V4.7 完整驗證",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E5%A4%A7%E5%AE%89%E5%8D%80%E5%BE%A9%E8%88%88%E5%8D%97%E8%B7%AF%E4%B8%80%E6%AE%B5%20293%20%E8%99%9F%203%20%E6%A8%93%E4%B9%8B%201",
+    "latitude": 25.0339,
+    "longitude": 121.5346,
+    "coordinateSource": "區域中心(大安區)",
+    "needsCoordinateVerification": true
   },
   {
     "id": 1440,
@@ -18066,7 +18776,12 @@
     "updateSource": "使用已爬取的照片資料",
     "lastUpdated": "2026-03-07T21:12:58.373509",
     "statusChangedAt": "2026-03-03T10:24:23.089Z",
-    "statusChangeReason": "SOP V4.7 完整驗證"
+    "statusChangeReason": "SOP V4.7 完整驗證",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E5%A4%A7%E5%AE%89%E5%8D%80%E5%BE%A9%E8%88%88%E5%8D%97%E8%B7%AF%E4%B8%80%E6%AE%B5%20293%20%E8%99%9F%203%20%E6%A8%93%E4%B9%8B%201",
+    "latitude": 25.0339,
+    "longitude": 121.5346,
+    "coordinateSource": "區域中心(大安區)",
+    "needsCoordinateVerification": true
   },
   {
     "id": 1448,
@@ -18159,7 +18874,12 @@
       "4樓鳳凰廳"
     ],
     "updateReason": "SOP V4.7 資料結構更新",
-    "updateSource": "手動驗證"
+    "updateSource": "手動驗證",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E4%BF%A1%E7%BE%A9%E5%8D%80%E4%BF%A1%E7%BE%A9%E8%B7%AF%E4%BA%94%E6%AE%B51%E8%99%9F",
+    "latitude": 25.0305,
+    "longitude": 121.57,
+    "coordinateSource": "區域中心(信義區)",
+    "needsCoordinateVerification": true
   },
   {
     "id": 1449,
@@ -18254,7 +18974,12 @@
     "updateReason": "SOP V4.7 驗證: ❌ 缺少主照片",
     "updateSource": "自動檢查腳本",
     "priceNote": "官網價格，實際以報價為準",
-    "lastUpdated": "2026-03-05T06:06:15.097Z"
+    "lastUpdated": "2026-03-05T06:06:15.097Z",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E4%BF%A1%E7%BE%A9%E5%8D%80%E4%BF%A1%E7%BE%A9%E8%B7%AF%E4%BA%94%E6%AE%B51%E8%99%9F",
+    "latitude": 25.0305,
+    "longitude": 121.57,
+    "coordinateSource": "區域中心(信義區)",
+    "needsCoordinateVerification": true
   },
   {
     "id": 1450,
@@ -18348,7 +19073,12 @@
     ],
     "updateReason": "用戶反饋：主照片/會議室的照片都是錯的（照片是大會堂，不是101A）",
     "updateSource": "手動驗證",
-    "lastUpdated": "2026-03-05T13:41:41.449394"
+    "lastUpdated": "2026-03-05T13:41:41.449394",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E4%BF%A1%E7%BE%A9%E5%8D%80%E4%BF%A1%E7%BE%A9%E8%B7%AF%E4%BA%94%E6%AE%B51%E8%99%9F",
+    "latitude": 25.0305,
+    "longitude": 121.57,
+    "coordinateSource": "區域中心(信義區)",
+    "needsCoordinateVerification": true
   },
   {
     "id": 1451,
@@ -18441,7 +19171,12 @@
       "4樓鳳凰廳"
     ],
     "updateReason": "SOP V4.7 資料結構更新",
-    "updateSource": "手動驗證"
+    "updateSource": "手動驗證",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E4%BF%A1%E7%BE%A9%E5%8D%80%E4%BF%A1%E7%BE%A9%E8%B7%AF%E4%BA%94%E6%AE%B51%E8%99%9F",
+    "latitude": 25.0305,
+    "longitude": 121.57,
+    "coordinateSource": "區域中心(信義區)",
+    "needsCoordinateVerification": true
   },
   {
     "id": 1452,
@@ -18534,7 +19269,12 @@
       "4樓鳳凰廳"
     ],
     "updateReason": "SOP V4.7 資料結構更新",
-    "updateSource": "手動驗證"
+    "updateSource": "手動驗證",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E4%BF%A1%E7%BE%A9%E5%8D%80%E4%BF%A1%E7%BE%A9%E8%B7%AF%E4%BA%94%E6%AE%B51%E8%99%9F",
+    "latitude": 25.0305,
+    "longitude": 121.57,
+    "coordinateSource": "區域中心(信義區)",
+    "needsCoordinateVerification": true
   },
   {
     "id": 1453,
@@ -18627,7 +19367,12 @@
       "4樓鳳凰廳"
     ],
     "updateReason": "SOP V4.7 資料結構更新",
-    "updateSource": "手動驗證"
+    "updateSource": "手動驗證",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E4%BF%A1%E7%BE%A9%E5%8D%80%E4%BF%A1%E7%BE%A9%E8%B7%AF%E4%BA%94%E6%AE%B51%E8%99%9F",
+    "latitude": 25.0305,
+    "longitude": 121.57,
+    "coordinateSource": "區域中心(信義區)",
+    "needsCoordinateVerification": true
   },
   {
     "id": 1454,
@@ -18720,7 +19465,12 @@
       "4樓鳳凰廳"
     ],
     "updateReason": "SOP V4.7 資料結構更新",
-    "updateSource": "手動驗證"
+    "updateSource": "手動驗證",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E4%BF%A1%E7%BE%A9%E5%8D%80%E4%BF%A1%E7%BE%A9%E8%B7%AF%E4%BA%94%E6%AE%B51%E8%99%9F",
+    "latitude": 25.0305,
+    "longitude": 121.57,
+    "coordinateSource": "區域中心(信義區)",
+    "needsCoordinateVerification": true
   },
   {
     "id": 1455,
@@ -18813,7 +19563,12 @@
       "4樓鳳凰廳"
     ],
     "updateReason": "SOP V4.7 資料結構更新",
-    "updateSource": "手動驗證"
+    "updateSource": "手動驗證",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E4%BF%A1%E7%BE%A9%E5%8D%80%E4%BF%A1%E7%BE%A9%E8%B7%AF%E4%BA%94%E6%AE%B51%E8%99%9F",
+    "latitude": 25.0305,
+    "longitude": 121.57,
+    "coordinateSource": "區域中心(信義區)",
+    "needsCoordinateVerification": true
   },
   {
     "id": 1456,
@@ -18906,7 +19661,12 @@
       "4樓鳳凰廳"
     ],
     "updateReason": "SOP V4.7 資料結構更新",
-    "updateSource": "手動驗證"
+    "updateSource": "手動驗證",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E4%BF%A1%E7%BE%A9%E5%8D%80%E4%BF%A1%E7%BE%A9%E8%B7%AF%E4%BA%94%E6%AE%B51%E8%99%9F",
+    "latitude": 25.0305,
+    "longitude": 121.57,
+    "coordinateSource": "區域中心(信義區)",
+    "needsCoordinateVerification": true
   },
   {
     "id": 1457,
@@ -18999,7 +19759,12 @@
       "4樓鳳凰廳"
     ],
     "updateReason": "SOP V4.7 資料結構更新",
-    "updateSource": "手動驗證"
+    "updateSource": "手動驗證",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E4%BF%A1%E7%BE%A9%E5%8D%80%E4%BF%A1%E7%BE%A9%E8%B7%AF%E4%BA%94%E6%AE%B51%E8%99%9F",
+    "latitude": 25.0305,
+    "longitude": 121.57,
+    "coordinateSource": "區域中心(信義區)",
+    "needsCoordinateVerification": true
   },
   {
     "id": 1458,
@@ -19092,7 +19857,12 @@
       "4樓鳳凰廳"
     ],
     "updateReason": "SOP V4.7 資料結構更新",
-    "updateSource": "手動驗證"
+    "updateSource": "手動驗證",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E4%BF%A1%E7%BE%A9%E5%8D%80%E4%BF%A1%E7%BE%A9%E8%B7%AF%E4%BA%94%E6%AE%B51%E8%99%9F",
+    "latitude": 25.0305,
+    "longitude": 121.57,
+    "coordinateSource": "區域中心(信義區)",
+    "needsCoordinateVerification": true
   },
   {
     "id": 1459,
@@ -19185,7 +19955,12 @@
       "4樓鳳凰廳"
     ],
     "updateReason": "SOP V4.7 資料結構更新",
-    "updateSource": "手動驗證"
+    "updateSource": "手動驗證",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E4%BF%A1%E7%BE%A9%E5%8D%80%E4%BF%A1%E7%BE%A9%E8%B7%AF%E4%BA%94%E6%AE%B51%E8%99%9F",
+    "latitude": 25.0305,
+    "longitude": 121.57,
+    "coordinateSource": "區域中心(信義區)",
+    "needsCoordinateVerification": true
   },
   {
     "id": 1460,
@@ -19278,7 +20053,12 @@
       "4樓鳳凰廳"
     ],
     "updateReason": "SOP V4.7 資料結構更新",
-    "updateSource": "手動驗證"
+    "updateSource": "手動驗證",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E4%BF%A1%E7%BE%A9%E5%8D%80%E4%BF%A1%E7%BE%A9%E8%B7%AF%E4%BA%94%E6%AE%B51%E8%99%9F",
+    "latitude": 25.0305,
+    "longitude": 121.57,
+    "coordinateSource": "區域中心(信義區)",
+    "needsCoordinateVerification": true
   },
   {
     "id": 1461,
@@ -19371,7 +20151,12 @@
       "4樓鳳凰廳"
     ],
     "updateReason": "SOP V4.7 資料結構更新",
-    "updateSource": "手動驗證"
+    "updateSource": "手動驗證",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E4%BF%A1%E7%BE%A9%E5%8D%80%E4%BF%A1%E7%BE%A9%E8%B7%AF%E4%BA%94%E6%AE%B51%E8%99%9F",
+    "latitude": 25.0305,
+    "longitude": 121.57,
+    "coordinateSource": "區域中心(信義區)",
+    "needsCoordinateVerification": true
   },
   {
     "id": 1462,
@@ -19464,7 +20249,12 @@
       "4樓鳳凰廳"
     ],
     "updateReason": "SOP V4.7 資料結構更新",
-    "updateSource": "手動驗證"
+    "updateSource": "手動驗證",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E4%BF%A1%E7%BE%A9%E5%8D%80%E4%BF%A1%E7%BE%A9%E8%B7%AF%E4%BA%94%E6%AE%B51%E8%99%9F",
+    "latitude": 25.0305,
+    "longitude": 121.57,
+    "coordinateSource": "區域中心(信義區)",
+    "needsCoordinateVerification": true
   },
   {
     "id": 1463,
@@ -19557,7 +20347,12 @@
       "4樓鳳凰廳"
     ],
     "updateReason": "SOP V4.7 資料結構更新",
-    "updateSource": "手動驗證"
+    "updateSource": "手動驗證",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E4%BF%A1%E7%BE%A9%E5%8D%80%E4%BF%A1%E7%BE%A9%E8%B7%AF%E4%BA%94%E6%AE%B51%E8%99%9F",
+    "latitude": 25.0305,
+    "longitude": 121.57,
+    "coordinateSource": "區域中心(信義區)",
+    "needsCoordinateVerification": true
   },
   {
     "id": 1464,
@@ -19650,7 +20445,12 @@
       "4樓鳳凰廳"
     ],
     "updateReason": "SOP V4.7 資料結構更新",
-    "updateSource": "手動驗證"
+    "updateSource": "手動驗證",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E4%BF%A1%E7%BE%A9%E5%8D%80%E4%BF%A1%E7%BE%A9%E8%B7%AF%E4%BA%94%E6%AE%B51%E8%99%9F",
+    "latitude": 25.0305,
+    "longitude": 121.57,
+    "coordinateSource": "區域中心(信義區)",
+    "needsCoordinateVerification": true
   },
   {
     "id": 1465,
@@ -19743,7 +20543,12 @@
       "4樓鳳凰廳"
     ],
     "updateReason": "SOP V4.7 資料結構更新",
-    "updateSource": "手動驗證"
+    "updateSource": "手動驗證",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E4%BF%A1%E7%BE%A9%E5%8D%80%E4%BF%A1%E7%BE%A9%E8%B7%AF%E4%BA%94%E6%AE%B51%E8%99%9F",
+    "latitude": 25.0305,
+    "longitude": 121.57,
+    "coordinateSource": "區域中心(信義區)",
+    "needsCoordinateVerification": true
   },
   {
     "id": 1466,
@@ -19836,7 +20641,12 @@
       "4樓鳳凰廳"
     ],
     "updateReason": "SOP V4.7 資料結構更新",
-    "updateSource": "手動驗證"
+    "updateSource": "手動驗證",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E4%BF%A1%E7%BE%A9%E5%8D%80%E4%BF%A1%E7%BE%A9%E8%B7%AF%E4%BA%94%E6%AE%B51%E8%99%9F",
+    "latitude": 25.0305,
+    "longitude": 121.57,
+    "coordinateSource": "區域中心(信義區)",
+    "needsCoordinateVerification": true
   },
   {
     "id": 1467,
@@ -19929,7 +20739,12 @@
       "4樓鳳凰廳"
     ],
     "updateReason": "SOP V4.7 資料結構更新",
-    "updateSource": "手動驗證"
+    "updateSource": "手動驗證",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E4%BF%A1%E7%BE%A9%E5%8D%80%E4%BF%A1%E7%BE%A9%E8%B7%AF%E4%BA%94%E6%AE%B51%E8%99%9F",
+    "latitude": 25.0305,
+    "longitude": 121.57,
+    "coordinateSource": "區域中心(信義區)",
+    "needsCoordinateVerification": true
   },
   {
     "id": 1468,
@@ -20022,7 +20837,12 @@
       "4樓鳳凰廳"
     ],
     "updateReason": "SOP V4.7 資料結構更新",
-    "updateSource": "手動驗證"
+    "updateSource": "手動驗證",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E4%BF%A1%E7%BE%A9%E5%8D%80%E4%BF%A1%E7%BE%A9%E8%B7%AF%E4%BA%94%E6%AE%B51%E8%99%9F",
+    "latitude": 25.0305,
+    "longitude": 121.57,
+    "coordinateSource": "區域中心(信義區)",
+    "needsCoordinateVerification": true
   },
   {
     "id": 1469,
@@ -20115,7 +20935,12 @@
       "4樓鳳凰廳"
     ],
     "updateReason": "SOP V4.7 資料結構更新",
-    "updateSource": "手動驗證"
+    "updateSource": "手動驗證",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E4%BF%A1%E7%BE%A9%E5%8D%80%E4%BF%A1%E7%BE%A9%E8%B7%AF%E4%BA%94%E6%AE%B51%E8%99%9F",
+    "latitude": 25.0305,
+    "longitude": 121.57,
+    "coordinateSource": "區域中心(信義區)",
+    "needsCoordinateVerification": true
   },
   {
     "id": 1470,
@@ -20208,7 +21033,12 @@
       "4樓鳳凰廳"
     ],
     "updateReason": "SOP V4.7 資料結構更新",
-    "updateSource": "手動驗證"
+    "updateSource": "手動驗證",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E4%BF%A1%E7%BE%A9%E5%8D%80%E4%BF%A1%E7%BE%A9%E8%B7%AF%E4%BA%94%E6%AE%B51%E8%99%9F",
+    "latitude": 25.0305,
+    "longitude": 121.57,
+    "coordinateSource": "區域中心(信義區)",
+    "needsCoordinateVerification": true
   },
   {
     "id": 1471,
@@ -20301,7 +21131,12 @@
       "4樓鳳凰廳"
     ],
     "updateReason": "SOP V4.7 資料結構更新",
-    "updateSource": "手動驗證"
+    "updateSource": "手動驗證",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E4%BF%A1%E7%BE%A9%E5%8D%80%E4%BF%A1%E7%BE%A9%E8%B7%AF%E4%BA%94%E6%AE%B51%E8%99%9F",
+    "latitude": 25.0305,
+    "longitude": 121.57,
+    "coordinateSource": "區域中心(信義區)",
+    "needsCoordinateVerification": true
   },
   {
     "id": 1472,
@@ -20394,7 +21229,12 @@
       "4樓鳳凰廳"
     ],
     "updateReason": "SOP V4.7 資料結構更新",
-    "updateSource": "手動驗證"
+    "updateSource": "手動驗證",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E4%BF%A1%E7%BE%A9%E5%8D%80%E4%BF%A1%E7%BE%A9%E8%B7%AF%E4%BA%94%E6%AE%B51%E8%99%9F",
+    "latitude": 25.0305,
+    "longitude": 121.57,
+    "coordinateSource": "區域中心(信義區)",
+    "needsCoordinateVerification": true
   },
   {
     "id": 1473,
@@ -20487,7 +21327,12 @@
       "4樓鳳凰廳"
     ],
     "updateReason": "SOP V4.7 資料結構更新",
-    "updateSource": "手動驗證"
+    "updateSource": "手動驗證",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E4%BF%A1%E7%BE%A9%E5%8D%80%E4%BF%A1%E7%BE%A9%E8%B7%AF%E4%BA%94%E6%AE%B51%E8%99%9F",
+    "latitude": 25.0305,
+    "longitude": 121.57,
+    "coordinateSource": "區域中心(信義區)",
+    "needsCoordinateVerification": true
   },
   {
     "id": 1474,
@@ -20580,7 +21425,12 @@
       "4樓鳳凰廳"
     ],
     "updateReason": "SOP V4.7 資料結構更新",
-    "updateSource": "手動驗證"
+    "updateSource": "手動驗證",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E4%BF%A1%E7%BE%A9%E5%8D%80%E4%BF%A1%E7%BE%A9%E8%B7%AF%E4%BA%94%E6%AE%B51%E8%99%9F",
+    "latitude": 25.0305,
+    "longitude": 121.57,
+    "coordinateSource": "區域中心(信義區)",
+    "needsCoordinateVerification": true
   },
   {
     "id": 1475,
@@ -20673,7 +21523,12 @@
       "4樓鳳凰廳"
     ],
     "updateReason": "SOP V4.7 資料結構更新",
-    "updateSource": "手動驗證"
+    "updateSource": "手動驗證",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E4%BF%A1%E7%BE%A9%E5%8D%80%E4%BF%A1%E7%BE%A9%E8%B7%AF%E4%BA%94%E6%AE%B51%E8%99%9F",
+    "latitude": 25.0305,
+    "longitude": 121.57,
+    "coordinateSource": "區域中心(信義區)",
+    "needsCoordinateVerification": true
   },
   {
     "id": 1476,
@@ -20766,7 +21621,12 @@
       "4樓鳳凰廳"
     ],
     "updateReason": "SOP V4.7 資料結構更新",
-    "updateSource": "手動驗證"
+    "updateSource": "手動驗證",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E4%BF%A1%E7%BE%A9%E5%8D%80%E4%BF%A1%E7%BE%A9%E8%B7%AF%E4%BA%94%E6%AE%B51%E8%99%9F",
+    "latitude": 25.0305,
+    "longitude": 121.57,
+    "coordinateSource": "區域中心(信義區)",
+    "needsCoordinateVerification": true
   },
   {
     "id": 1477,
@@ -20859,7 +21719,12 @@
       "4樓鳳凰廳"
     ],
     "updateReason": "SOP V4.7 資料結構更新",
-    "updateSource": "手動驗證"
+    "updateSource": "手動驗證",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E4%BF%A1%E7%BE%A9%E5%8D%80%E4%BF%A1%E7%BE%A9%E8%B7%AF%E4%BA%94%E6%AE%B51%E8%99%9F",
+    "latitude": 25.0305,
+    "longitude": 121.57,
+    "coordinateSource": "區域中心(信義區)",
+    "needsCoordinateVerification": true
   },
   {
     "id": 1478,
@@ -20952,7 +21817,12 @@
       "4樓鳳凰廳"
     ],
     "updateReason": "SOP V4.7 資料結構更新",
-    "updateSource": "手動驗證"
+    "updateSource": "手動驗證",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E4%BF%A1%E7%BE%A9%E5%8D%80%E4%BF%A1%E7%BE%A9%E8%B7%AF%E4%BA%94%E6%AE%B51%E8%99%9F",
+    "latitude": 25.0305,
+    "longitude": 121.57,
+    "coordinateSource": "區域中心(信義區)",
+    "needsCoordinateVerification": true
   },
   {
     "id": 1479,
@@ -21045,7 +21915,12 @@
       "4樓鳳凰廳"
     ],
     "updateReason": "SOP V4.7 資料結構更新",
-    "updateSource": "手動驗證"
+    "updateSource": "手動驗證",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E4%BF%A1%E7%BE%A9%E5%8D%80%E4%BF%A1%E7%BE%A9%E8%B7%AF%E4%BA%94%E6%AE%B51%E8%99%9F",
+    "latitude": 25.0305,
+    "longitude": 121.57,
+    "coordinateSource": "區域中心(信義區)",
+    "needsCoordinateVerification": true
   },
   {
     "id": 1480,
@@ -21138,7 +22013,12 @@
       "4樓鳳凰廳"
     ],
     "updateReason": "SOP V4.7 資料結構更新",
-    "updateSource": "手動驗證"
+    "updateSource": "手動驗證",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E4%BF%A1%E7%BE%A9%E5%8D%80%E4%BF%A1%E7%BE%A9%E8%B7%AF%E4%BA%94%E6%AE%B51%E8%99%9F",
+    "latitude": 25.0305,
+    "longitude": 121.57,
+    "coordinateSource": "區域中心(信義區)",
+    "needsCoordinateVerification": true
   },
   {
     "id": 1481,
@@ -21231,7 +22111,12 @@
       "4樓鳳凰廳"
     ],
     "updateReason": "SOP V4.7 資料結構更新",
-    "updateSource": "手動驗證"
+    "updateSource": "手動驗證",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E4%BF%A1%E7%BE%A9%E5%8D%80%E4%BF%A1%E7%BE%A9%E8%B7%AF%E4%BA%94%E6%AE%B51%E8%99%9F",
+    "latitude": 25.0305,
+    "longitude": 121.57,
+    "coordinateSource": "區域中心(信義區)",
+    "needsCoordinateVerification": true
   },
   {
     "id": 1482,
@@ -21324,7 +22209,12 @@
       "4樓鳳凰廳"
     ],
     "updateReason": "SOP V4.7 資料結構更新",
-    "updateSource": "手動驗證"
+    "updateSource": "手動驗證",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E4%BF%A1%E7%BE%A9%E5%8D%80%E4%BF%A1%E7%BE%A9%E8%B7%AF%E4%BA%94%E6%AE%B51%E8%99%9F",
+    "latitude": 25.0305,
+    "longitude": 121.57,
+    "coordinateSource": "區域中心(信義區)",
+    "needsCoordinateVerification": true
   },
   {
     "id": 1483,
@@ -21417,7 +22307,12 @@
       "4樓鳳凰廳"
     ],
     "updateReason": "SOP V4.7 資料結構更新",
-    "updateSource": "手動驗證"
+    "updateSource": "手動驗證",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E4%BF%A1%E7%BE%A9%E5%8D%80%E4%BF%A1%E7%BE%A9%E8%B7%AF%E4%BA%94%E6%AE%B51%E8%99%9F",
+    "latitude": 25.0305,
+    "longitude": 121.57,
+    "coordinateSource": "區域中心(信義區)",
+    "needsCoordinateVerification": true
   },
   {
     "id": 1484,
@@ -21510,7 +22405,12 @@
       "4樓鳳凰廳"
     ],
     "updateReason": "SOP V4.7 資料結構更新",
-    "updateSource": "手動驗證"
+    "updateSource": "手動驗證",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E4%BF%A1%E7%BE%A9%E5%8D%80%E4%BF%A1%E7%BE%A9%E8%B7%AF%E4%BA%94%E6%AE%B51%E8%99%9F",
+    "latitude": 25.0305,
+    "longitude": 121.57,
+    "coordinateSource": "區域中心(信義區)",
+    "needsCoordinateVerification": true
   },
   {
     "id": 1485,
@@ -21603,7 +22503,12 @@
       "4樓鳳凰廳"
     ],
     "updateReason": "SOP V4.7 資料結構更新",
-    "updateSource": "手動驗證"
+    "updateSource": "手動驗證",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E4%BF%A1%E7%BE%A9%E5%8D%80%E4%BF%A1%E7%BE%A9%E8%B7%AF%E4%BA%94%E6%AE%B51%E8%99%9F",
+    "latitude": 25.0305,
+    "longitude": 121.57,
+    "coordinateSource": "區域中心(信義區)",
+    "needsCoordinateVerification": true
   },
   {
     "id": 1486,
@@ -21696,7 +22601,12 @@
       "4樓鳳凰廳"
     ],
     "updateReason": "SOP V4.7 資料結構更新",
-    "updateSource": "手動驗證"
+    "updateSource": "手動驗證",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E4%BF%A1%E7%BE%A9%E5%8D%80%E4%BF%A1%E7%BE%A9%E8%B7%AF%E4%BA%94%E6%AE%B51%E8%99%9F",
+    "latitude": 25.0305,
+    "longitude": 121.57,
+    "coordinateSource": "區域中心(信義區)",
+    "needsCoordinateVerification": true
   },
   {
     "id": 1487,
@@ -21789,7 +22699,12 @@
       "4樓鳳凰廳"
     ],
     "updateReason": "SOP V4.7 資料結構更新",
-    "updateSource": "手動驗證"
+    "updateSource": "手動驗證",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E4%BF%A1%E7%BE%A9%E5%8D%80%E4%BF%A1%E7%BE%A9%E8%B7%AF%E4%BA%94%E6%AE%B51%E8%99%9F",
+    "latitude": 25.0305,
+    "longitude": 121.57,
+    "coordinateSource": "區域中心(信義區)",
+    "needsCoordinateVerification": true
   },
   {
     "id": 1488,
@@ -21882,7 +22797,12 @@
       "4樓鳳凰廳"
     ],
     "updateReason": "SOP V4.7 資料結構更新",
-    "updateSource": "手動驗證"
+    "updateSource": "手動驗證",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E4%BF%A1%E7%BE%A9%E5%8D%80%E4%BF%A1%E7%BE%A9%E8%B7%AF%E4%BA%94%E6%AE%B51%E8%99%9F",
+    "latitude": 25.0305,
+    "longitude": 121.57,
+    "coordinateSource": "區域中心(信義區)",
+    "needsCoordinateVerification": true
   },
   {
     "id": 1489,
@@ -21975,7 +22895,12 @@
       "4樓鳳凰廳"
     ],
     "updateReason": "SOP V4.7 資料結構更新",
-    "updateSource": "手動驗證"
+    "updateSource": "手動驗證",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E4%BF%A1%E7%BE%A9%E5%8D%80%E4%BF%A1%E7%BE%A9%E8%B7%AF%E4%BA%94%E6%AE%B51%E8%99%9F",
+    "latitude": 25.0305,
+    "longitude": 121.57,
+    "coordinateSource": "區域中心(信義區)",
+    "needsCoordinateVerification": true
   },
   {
     "id": 1490,
@@ -22068,7 +22993,12 @@
       "4樓鳳凰廳"
     ],
     "updateReason": "SOP V4.7 資料結構更新",
-    "updateSource": "手動驗證"
+    "updateSource": "手動驗證",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E4%BF%A1%E7%BE%A9%E5%8D%80%E4%BF%A1%E7%BE%A9%E8%B7%AF%E4%BA%94%E6%AE%B51%E8%99%9F",
+    "latitude": 25.0305,
+    "longitude": 121.57,
+    "coordinateSource": "區域中心(信義區)",
+    "needsCoordinateVerification": true
   },
   {
     "id": 1491,
@@ -22161,7 +23091,12 @@
       "4樓鳳凰廳"
     ],
     "updateReason": "SOP V4.7 資料結構更新",
-    "updateSource": "手動驗證"
+    "updateSource": "手動驗證",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E4%BF%A1%E7%BE%A9%E5%8D%80%E4%BF%A1%E7%BE%A9%E8%B7%AF%E4%BA%94%E6%AE%B51%E8%99%9F",
+    "latitude": 25.0305,
+    "longitude": 121.57,
+    "coordinateSource": "區域中心(信義區)",
+    "needsCoordinateVerification": true
   },
   {
     "id": 1492,
@@ -22254,7 +23189,12 @@
       "4樓鳳凰廳"
     ],
     "updateReason": "SOP V4.7 資料結構更新",
-    "updateSource": "手動驗證"
+    "updateSource": "手動驗證",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E4%BF%A1%E7%BE%A9%E5%8D%80%E4%BF%A1%E7%BE%A9%E8%B7%AF%E4%BA%94%E6%AE%B51%E8%99%9F",
+    "latitude": 25.0305,
+    "longitude": 121.57,
+    "coordinateSource": "區域中心(信義區)",
+    "needsCoordinateVerification": true
   },
   {
     "id": 1493,
@@ -22303,7 +23243,12 @@
     "lastUpdated": "2026-03-03T07:25:54.260Z",
     "statusChangedAt": "2026-03-03T08:13:12.670Z",
     "statusChangeReason": "SOP V4.7: 資料完整，恢復上架",
-    "priceNote": "需電詢 02-77495800"
+    "priceNote": "需電詢 02-77495800",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E8%87%BA%E5%8C%97%E5%B8%82%E5%A4%A7%E5%AE%89%E5%8D%80%E5%92%8C%E5%B9%B3%E6%9D%B1%E8%B7%AF%E4%B8%80%E6%AE%B5%20129%20%E8%99%9F",
+    "latitude": 25.0339,
+    "longitude": 121.5346,
+    "coordinateSource": "區域中心(大安區)",
+    "needsCoordinateVerification": true
   },
   {
     "id": 1494,
@@ -22351,7 +23296,12 @@
     "lastUpdated": "2026-03-03T07:25:54.260Z",
     "statusChangedAt": "2026-03-03T10:24:23.089Z",
     "statusChangeReason": "SOP V4.7 完整驗證",
-    "priceNote": "需電詢 02-77495800"
+    "priceNote": "需電詢 02-77495800",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E8%87%BA%E5%8C%97%E5%B8%82%E5%A4%A7%E5%AE%89%E5%8D%80%E5%92%8C%E5%B9%B3%E6%9D%B1%E8%B7%AF%E4%B8%80%E6%AE%B5%20129%20%E8%99%9F",
+    "latitude": 25.0339,
+    "longitude": 121.5346,
+    "coordinateSource": "區域中心(大安區)",
+    "needsCoordinateVerification": true
   },
   {
     "id": 1495,
@@ -22399,7 +23349,12 @@
     "lastUpdated": "2026-03-03T07:25:54.260Z",
     "statusChangedAt": "2026-03-03T10:24:23.089Z",
     "statusChangeReason": "SOP V4.7 完整驗證",
-    "priceNote": "需電詢 02-77495800"
+    "priceNote": "需電詢 02-77495800",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E8%87%BA%E5%8C%97%E5%B8%82%E5%A4%A7%E5%AE%89%E5%8D%80%E5%92%8C%E5%B9%B3%E6%9D%B1%E8%B7%AF%E4%B8%80%E6%AE%B5%20129%20%E8%99%9F",
+    "latitude": 25.0339,
+    "longitude": 121.5346,
+    "coordinateSource": "區域中心(大安區)",
+    "needsCoordinateVerification": true
   },
   {
     "id": 1496,
@@ -22447,7 +23402,12 @@
     "lastUpdated": "2026-03-03T07:25:54.260Z",
     "statusChangedAt": "2026-03-03T10:24:23.089Z",
     "statusChangeReason": "SOP V4.7 完整驗證",
-    "priceNote": "需電詢 02-77495800"
+    "priceNote": "需電詢 02-77495800",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E8%87%BA%E5%8C%97%E5%B8%82%E5%A4%A7%E5%AE%89%E5%8D%80%E5%92%8C%E5%B9%B3%E6%9D%B1%E8%B7%AF%E4%B8%80%E6%AE%B5%20129%20%E8%99%9F",
+    "latitude": 25.0339,
+    "longitude": 121.5346,
+    "coordinateSource": "區域中心(大安區)",
+    "needsCoordinateVerification": true
   },
   {
     "id": 1497,
@@ -22495,7 +23455,12 @@
     "lastUpdated": "2026-03-03T07:25:54.260Z",
     "statusChangedAt": "2026-03-03T10:24:23.089Z",
     "statusChangeReason": "SOP V4.7 完整驗證",
-    "priceNote": "需電詢 02-77495800"
+    "priceNote": "需電詢 02-77495800",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E8%87%BA%E5%8C%97%E5%B8%82%E5%A4%A7%E5%AE%89%E5%8D%80%E5%92%8C%E5%B9%B3%E6%9D%B1%E8%B7%AF%E4%B8%80%E6%AE%B5%20129%20%E8%99%9F",
+    "latitude": 25.0339,
+    "longitude": 121.5346,
+    "coordinateSource": "區域中心(大安區)",
+    "needsCoordinateVerification": true
   },
   {
     "id": 1498,
@@ -22543,7 +23508,12 @@
     "lastUpdated": "2026-03-03T07:25:54.260Z",
     "statusChangedAt": "2026-03-03T10:24:23.089Z",
     "statusChangeReason": "SOP V4.7 完整驗證",
-    "priceNote": "需電詢 02-77495800"
+    "priceNote": "需電詢 02-77495800",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E8%87%BA%E5%8C%97%E5%B8%82%E5%A4%A7%E5%AE%89%E5%8D%80%E5%92%8C%E5%B9%B3%E6%9D%B1%E8%B7%AF%E4%B8%80%E6%AE%B5%20129%20%E8%99%9F",
+    "latitude": 25.0339,
+    "longitude": 121.5346,
+    "coordinateSource": "區域中心(大安區)",
+    "needsCoordinateVerification": true
   },
   {
     "id": 1499,
@@ -22591,7 +23561,12 @@
     "lastUpdated": "2026-03-03T07:25:54.260Z",
     "statusChangedAt": "2026-03-03T10:24:23.089Z",
     "statusChangeReason": "SOP V4.7 完整驗證",
-    "priceNote": "需電詢 02-77495800"
+    "priceNote": "需電詢 02-77495800",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E8%87%BA%E5%8C%97%E5%B8%82%E5%A4%A7%E5%AE%89%E5%8D%80%E5%92%8C%E5%B9%B3%E6%9D%B1%E8%B7%AF%E4%B8%80%E6%AE%B5%20129%20%E8%99%9F",
+    "latitude": 25.0339,
+    "longitude": 121.5346,
+    "coordinateSource": "區域中心(大安區)",
+    "needsCoordinateVerification": true
   },
   {
     "id": 1500,
@@ -22639,7 +23614,12 @@
     "lastUpdated": "2026-03-03T07:25:54.260Z",
     "statusChangedAt": "2026-03-03T10:24:23.089Z",
     "statusChangeReason": "SOP V4.7 完整驗證",
-    "priceNote": "需電詢 02-77495800"
+    "priceNote": "需電詢 02-77495800",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E8%87%BA%E5%8C%97%E5%B8%82%E5%A4%A7%E5%AE%89%E5%8D%80%E5%92%8C%E5%B9%B3%E6%9D%B1%E8%B7%AF%E4%B8%80%E6%AE%B5%20129%20%E8%99%9F",
+    "latitude": 25.0339,
+    "longitude": 121.5346,
+    "coordinateSource": "區域中心(大安區)",
+    "needsCoordinateVerification": true
   },
   {
     "id": 1501,
@@ -22687,7 +23667,12 @@
     "lastUpdated": "2026-03-03T07:25:54.260Z",
     "statusChangedAt": "2026-03-03T10:24:23.089Z",
     "statusChangeReason": "SOP V4.7 完整驗證",
-    "priceNote": "需電詢 02-77495800"
+    "priceNote": "需電詢 02-77495800",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E8%87%BA%E5%8C%97%E5%B8%82%E5%A4%A7%E5%AE%89%E5%8D%80%E5%92%8C%E5%B9%B3%E6%9D%B1%E8%B7%AF%E4%B8%80%E6%AE%B5%20129%20%E8%99%9F",
+    "latitude": 25.0339,
+    "longitude": 121.5346,
+    "coordinateSource": "區域中心(大安區)",
+    "needsCoordinateVerification": true
   },
   {
     "id": 1502,
@@ -22735,7 +23720,12 @@
     "lastUpdated": "2026-03-03T07:25:54.260Z",
     "statusChangedAt": "2026-03-03T10:24:23.089Z",
     "statusChangeReason": "SOP V4.7 完整驗證",
-    "priceNote": "需電詢 02-77495800"
+    "priceNote": "需電詢 02-77495800",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E8%87%BA%E5%8C%97%E5%B8%82%E5%A4%A7%E5%AE%89%E5%8D%80%E5%92%8C%E5%B9%B3%E6%9D%B1%E8%B7%AF%E4%B8%80%E6%AE%B5%20129%20%E8%99%9F",
+    "latitude": 25.0339,
+    "longitude": 121.5346,
+    "coordinateSource": "區域中心(大安區)",
+    "needsCoordinateVerification": true
   },
   {
     "id": 1503,
@@ -22783,7 +23773,12 @@
     "lastUpdated": "2026-03-03T07:25:54.260Z",
     "statusChangedAt": "2026-03-03T10:24:23.089Z",
     "statusChangeReason": "SOP V4.7 完整驗證",
-    "priceNote": "需電詢 02-77495800"
+    "priceNote": "需電詢 02-77495800",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E8%87%BA%E5%8C%97%E5%B8%82%E5%A4%A7%E5%AE%89%E5%8D%80%E5%92%8C%E5%B9%B3%E6%9D%B1%E8%B7%AF%E4%B8%80%E6%AE%B5%20129%20%E8%99%9F",
+    "latitude": 25.0339,
+    "longitude": 121.5346,
+    "coordinateSource": "區域中心(大安區)",
+    "needsCoordinateVerification": true
   },
   {
     "id": 1504,
@@ -22831,7 +23826,12 @@
     "lastUpdated": "2026-03-03T07:25:54.260Z",
     "statusChangedAt": "2026-03-03T10:24:23.089Z",
     "statusChangeReason": "SOP V4.7 完整驗證",
-    "priceNote": "需電詢 02-77495800"
+    "priceNote": "需電詢 02-77495800",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E8%87%BA%E5%8C%97%E5%B8%82%E5%A4%A7%E5%AE%89%E5%8D%80%E5%92%8C%E5%B9%B3%E6%9D%B1%E8%B7%AF%E4%B8%80%E6%AE%B5%20129%20%E8%99%9F",
+    "latitude": 25.0339,
+    "longitude": 121.5346,
+    "coordinateSource": "區域中心(大安區)",
+    "needsCoordinateVerification": true
   },
   {
     "id": 1505,
@@ -22879,7 +23879,12 @@
     "lastUpdated": "2026-03-03T07:25:54.260Z",
     "statusChangedAt": "2026-03-03T10:24:23.089Z",
     "statusChangeReason": "SOP V4.7 完整驗證",
-    "priceNote": "需電詢 02-77495800"
+    "priceNote": "需電詢 02-77495800",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E8%87%BA%E5%8C%97%E5%B8%82%E5%A4%A7%E5%AE%89%E5%8D%80%E5%92%8C%E5%B9%B3%E6%9D%B1%E8%B7%AF%E4%B8%80%E6%AE%B5%20129%20%E8%99%9F",
+    "latitude": 25.0339,
+    "longitude": 121.5346,
+    "coordinateSource": "區域中心(大安區)",
+    "needsCoordinateVerification": true
   },
   {
     "id": 1506,
@@ -22911,7 +23916,12 @@
       "lastUpdated": "2026-03-08",
       "main": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800"
     },
-    "priceNote": "需電詢 02-2725-5200"
+    "priceNote": "需電詢 02-2725-5200",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E4%BF%A1%E7%BE%A9%E5%8D%80%E4%BF%A1%E7%BE%A9%E8%B7%AF%E4%BA%94%E6%AE%B55%E8%99%9F",
+    "latitude": 25.0338,
+    "longitude": 121.5617,
+    "coordinateSource": "地標",
+    "needsCoordinateVerification": false
   },
   {
     "id": 1507,
@@ -22943,7 +23953,12 @@
       "lastUpdated": "2026-03-08",
       "main": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800"
     },
-    "priceNote": "需電詢 02-2725-5200"
+    "priceNote": "需電詢 02-2725-5200",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E4%BF%A1%E7%BE%A9%E5%8D%80%E4%BF%A1%E7%BE%A9%E8%B7%AF%E4%BA%94%E6%AE%B55%E8%99%9F",
+    "latitude": 25.0338,
+    "longitude": 121.5617,
+    "coordinateSource": "地標",
+    "needsCoordinateVerification": false
   },
   {
     "id": 1508,
@@ -22975,7 +23990,12 @@
       "lastUpdated": "2026-03-08",
       "main": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800"
     },
-    "priceNote": "需電詢 02-2725-5200"
+    "priceNote": "需電詢 02-2725-5200",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E4%BF%A1%E7%BE%A9%E5%8D%80%E4%BF%A1%E7%BE%A9%E8%B7%AF%E4%BA%94%E6%AE%B55%E8%99%9F",
+    "latitude": 25.0338,
+    "longitude": 121.5617,
+    "coordinateSource": "地標",
+    "needsCoordinateVerification": false
   },
   {
     "id": 1509,
@@ -23007,7 +24027,12 @@
       "lastUpdated": "2026-03-08",
       "main": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800"
     },
-    "priceNote": "需電詢 02-2725-5200"
+    "priceNote": "需電詢 02-2725-5200",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E4%BF%A1%E7%BE%A9%E5%8D%80%E4%BF%A1%E7%BE%A9%E8%B7%AF%E4%BA%94%E6%AE%B55%E8%99%9F",
+    "latitude": 25.0338,
+    "longitude": 121.5617,
+    "coordinateSource": "地標",
+    "needsCoordinateVerification": false
   },
   {
     "id": 1510,
@@ -23039,7 +24064,12 @@
       "lastUpdated": "2026-03-08",
       "main": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800"
     },
-    "priceNote": "需電詢 02-2725-5200"
+    "priceNote": "需電詢 02-2725-5200",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E4%BF%A1%E7%BE%A9%E5%8D%80%E4%BF%A1%E7%BE%A9%E8%B7%AF%E4%BA%94%E6%AE%B55%E8%99%9F",
+    "latitude": 25.0338,
+    "longitude": 121.5617,
+    "coordinateSource": "地標",
+    "needsCoordinateVerification": false
   },
   {
     "id": 1511,
@@ -23088,7 +24118,12 @@
     "priceHalfDay": null,
     "priceFullDay": null,
     "priceNote": "需電詢 02-23419151",
-    "lastUpdated": "2026-03-05T06:06:15.097Z"
+    "lastUpdated": "2026-03-05T06:06:15.097Z",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E5%A4%A7%E5%AE%89%E5%8D%80%E9%87%91%E8%8F%AF%E8%A1%97187%E8%99%9F",
+    "latitude": 25.0339,
+    "longitude": 121.5346,
+    "coordinateSource": "區域中心(大安區)",
+    "needsCoordinateVerification": true
   },
   {
     "id": 1512,
@@ -23136,7 +24171,12 @@
     },
     "priceNote": "需電詢 02-23419151",
     "notes": " [缺少價格與照片資訊]",
-    "lastUpdated": "2026-03-05T13:38:07.565377"
+    "lastUpdated": "2026-03-05T13:38:07.565377",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E5%A4%A7%E5%AE%89%E5%8D%80%E9%87%91%E8%8F%AF%E8%A1%97187%E8%99%9F",
+    "latitude": 25.0339,
+    "longitude": 121.5346,
+    "coordinateSource": "區域中心(大安區)",
+    "needsCoordinateVerification": true
   },
   {
     "id": 1513,
@@ -23183,7 +24223,12 @@
       "lastUpdated": "2026-03-08"
     },
     "priceNote": "需電詢 02-23419151",
-    "lastUpdated": "2026-03-05T06:06:15.097Z"
+    "lastUpdated": "2026-03-05T06:06:15.097Z",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E5%A4%A7%E5%AE%89%E5%8D%80%E9%87%91%E8%8F%AF%E8%A1%97187%E8%99%9F",
+    "latitude": 25.0339,
+    "longitude": 121.5346,
+    "coordinateSource": "區域中心(大安區)",
+    "needsCoordinateVerification": true
   },
   {
     "id": 1514,
@@ -23230,7 +24275,12 @@
       "lastUpdated": "2026-03-08"
     },
     "priceNote": "需電詢 02-23419151",
-    "lastUpdated": "2026-03-05T06:06:15.097Z"
+    "lastUpdated": "2026-03-05T06:06:15.097Z",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E5%A4%A7%E5%AE%89%E5%8D%80%E9%87%91%E8%8F%AF%E8%A1%97187%E8%99%9F",
+    "latitude": 25.0339,
+    "longitude": 121.5346,
+    "coordinateSource": "區域中心(大安區)",
+    "needsCoordinateVerification": true
   },
   {
     "id": 1515,
@@ -23277,7 +24327,12 @@
       "lastUpdated": "2026-03-08"
     },
     "priceNote": "需電詢 02-23419151",
-    "lastUpdated": "2026-03-05T06:06:15.097Z"
+    "lastUpdated": "2026-03-05T06:06:15.097Z",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E5%A4%A7%E5%AE%89%E5%8D%80%E9%87%91%E8%8F%AF%E8%A1%97187%E8%99%9F",
+    "latitude": 25.0339,
+    "longitude": 121.5346,
+    "coordinateSource": "區域中心(大安區)",
+    "needsCoordinateVerification": true
   },
   {
     "id": 1516,
@@ -23324,7 +24379,12 @@
       "lastUpdated": "2026-03-08"
     },
     "priceNote": "需電詢 02-23419151",
-    "lastUpdated": "2026-03-05T06:06:15.098Z"
+    "lastUpdated": "2026-03-05T06:06:15.098Z",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E5%A4%A7%E5%AE%89%E5%8D%80%E9%87%91%E8%8F%AF%E8%A1%97187%E8%99%9F",
+    "latitude": 25.0339,
+    "longitude": 121.5346,
+    "coordinateSource": "區域中心(大安區)",
+    "needsCoordinateVerification": true
   },
   {
     "id": 1517,
@@ -23371,7 +24431,12 @@
       "lastUpdated": "2026-03-08"
     },
     "priceNote": "需電詢 02-23419151",
-    "lastUpdated": "2026-03-05T06:06:15.098Z"
+    "lastUpdated": "2026-03-05T06:06:15.098Z",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E5%A4%A7%E5%AE%89%E5%8D%80%E9%87%91%E8%8F%AF%E8%A1%97187%E8%99%9F",
+    "latitude": 25.0339,
+    "longitude": 121.5346,
+    "coordinateSource": "區域中心(大安區)",
+    "needsCoordinateVerification": true
   },
   {
     "id": 1521,
@@ -23414,7 +24479,12 @@
       "verifiedAt": "2026-03-07T21:12:58.373538",
       "updateReason": "批量更新：補充照片"
     },
-    "priceNote": "需電詢 02-2772-3838"
+    "priceNote": "需電詢 02-2772-3838",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E5%A4%A7%E5%AE%89%E5%8D%80%E5%BF%A0%E5%AD%9D%E6%9D%B1%E8%B7%AF%E5%9B%9B%E6%AE%B5219%E8%99%9F",
+    "latitude": 25.0339,
+    "longitude": 121.5346,
+    "coordinateSource": "區域中心(大安區)",
+    "needsCoordinateVerification": true
   },
   {
     "id": 1522,
@@ -23457,7 +24527,12 @@
       "verifiedAt": "2026-03-07T21:12:58.373554",
       "updateReason": "批量更新：補充照片"
     },
-    "priceNote": "需電詢 02-2772-3838"
+    "priceNote": "需電詢 02-2772-3838",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E5%A4%A7%E5%AE%89%E5%8D%80%E5%BF%A0%E5%AD%9D%E6%9D%B1%E8%B7%AF%E5%9B%9B%E6%AE%B5219%E8%99%9F",
+    "latitude": 25.0339,
+    "longitude": 121.5346,
+    "coordinateSource": "區域中心(大安區)",
+    "needsCoordinateVerification": true
   },
   {
     "id": 1523,
@@ -23500,7 +24575,12 @@
       "verifiedAt": "2026-03-07T21:12:58.373569",
       "updateReason": "批量更新：補充照片"
     },
-    "priceNote": "需電詢 02-2772-3838"
+    "priceNote": "需電詢 02-2772-3838",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E5%A4%A7%E5%AE%89%E5%8D%80%E5%BF%A0%E5%AD%9D%E6%9D%B1%E8%B7%AF%E5%9B%9B%E6%AE%B5219%E8%99%9F",
+    "latitude": 25.0339,
+    "longitude": 121.5346,
+    "coordinateSource": "區域中心(大安區)",
+    "needsCoordinateVerification": true
   },
   {
     "id": 1524,
@@ -23531,7 +24611,12 @@
       "lastUpdated": "2026-03-08",
       "main": "https://images.unsplash.com/photo-1519167758481-83f550bb49b3?w=800"
     },
-    "priceNote": "需電詢 02-2772-3838"
+    "priceNote": "需電詢 02-2772-3838",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E5%A4%A7%E5%AE%89%E5%8D%80%E5%BF%A0%E5%AD%9D%E6%9D%B1%E8%B7%AF%E5%9B%9B%E6%AE%B5219%E8%99%9F",
+    "latitude": 25.0339,
+    "longitude": 121.5346,
+    "coordinateSource": "區域中心(大安區)",
+    "needsCoordinateVerification": true
   },
   {
     "id": 1525,
@@ -23562,7 +24647,12 @@
       "lastUpdated": "2026-03-08",
       "main": "https://images.unsplash.com/photo-1519167758481-83f550bb49b3?w=800"
     },
-    "priceNote": "需電詢 02-2772-3838"
+    "priceNote": "需電詢 02-2772-3838",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E5%A4%A7%E5%AE%89%E5%8D%80%E5%BF%A0%E5%AD%9D%E6%9D%B1%E8%B7%AF%E5%9B%9B%E6%AE%B5219%E8%99%9F",
+    "latitude": 25.0339,
+    "longitude": 121.5346,
+    "coordinateSource": "區域中心(大安區)",
+    "needsCoordinateVerification": true
   },
   {
     "id": 1526,
@@ -23593,7 +24683,12 @@
       "lastUpdated": "2026-03-08",
       "main": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800"
     },
-    "priceNote": "需電詢 02-2358-1914"
+    "priceNote": "需電詢 02-2358-1914",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E6%AD%A3%E5%8D%80%E5%85%AB%E5%BE%B7%E8%B7%AF%E4%B8%80%E6%AE%B51%E8%99%9F",
+    "latitude": 25.0432,
+    "longitude": 121.5198,
+    "coordinateSource": "區域中心(中正區)",
+    "needsCoordinateVerification": true
   },
   {
     "id": 1527,
@@ -23626,7 +24721,12 @@
     },
     "priceHalfDay": null,
     "priceFullDay": null,
-    "priceNote": "需電詢 02-2358-1914"
+    "priceNote": "需電詢 02-2358-1914",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E6%AD%A3%E5%8D%80%E5%85%AB%E5%BE%B7%E8%B7%AF%E4%B8%80%E6%AE%B51%E8%99%9F",
+    "latitude": 25.0432,
+    "longitude": 121.5198,
+    "coordinateSource": "區域中心(中正區)",
+    "needsCoordinateVerification": true
   },
   {
     "id": 1528,
@@ -23657,7 +24757,12 @@
       "lastUpdated": "2026-03-08",
       "main": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800"
     },
-    "priceNote": "需電詢 02-2358-1914"
+    "priceNote": "需電詢 02-2358-1914",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E6%AD%A3%E5%8D%80%E5%85%AB%E5%BE%B7%E8%B7%AF%E4%B8%80%E6%AE%B51%E8%99%9F",
+    "latitude": 25.0432,
+    "longitude": 121.5198,
+    "coordinateSource": "區域中心(中正區)",
+    "needsCoordinateVerification": true
   },
   {
     "id": 1529,
@@ -23688,7 +24793,12 @@
       "lastUpdated": "2026-03-08",
       "main": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800"
     },
-    "priceNote": "需電詢 02-2358-1914"
+    "priceNote": "需電詢 02-2358-1914",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E6%AD%A3%E5%8D%80%E5%85%AB%E5%BE%B7%E8%B7%AF%E4%B8%80%E6%AE%B51%E8%99%9F",
+    "latitude": 25.0432,
+    "longitude": 121.5198,
+    "coordinateSource": "區域中心(中正區)",
+    "needsCoordinateVerification": true
   },
   {
     "id": 1530,
@@ -23719,7 +24829,12 @@
       "lastUpdated": "2026-03-08",
       "main": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800"
     },
-    "priceNote": "需電詢 02-2358-1914"
+    "priceNote": "需電詢 02-2358-1914",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E6%AD%A3%E5%8D%80%E5%85%AB%E5%BE%B7%E8%B7%AF%E4%B8%80%E6%AE%B51%E8%99%9F",
+    "latitude": 25.0432,
+    "longitude": 121.5198,
+    "coordinateSource": "區域中心(中正區)",
+    "needsCoordinateVerification": true
   },
   {
     "id": 1531,
@@ -23750,7 +24865,12 @@
       "lastUpdated": "2026-03-08",
       "main": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800"
     },
-    "priceNote": "需電詢 02-2358-1914"
+    "priceNote": "需電詢 02-2358-1914",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E6%AD%A3%E5%8D%80%E5%85%AB%E5%BE%B7%E8%B7%AF%E4%B8%80%E6%AE%B51%E8%99%9F",
+    "latitude": 25.0432,
+    "longitude": 121.5198,
+    "coordinateSource": "區域中心(中正區)",
+    "needsCoordinateVerification": true
   },
   {
     "id": 1532,
@@ -23781,7 +24901,12 @@
       "lastUpdated": "2026-03-08",
       "main": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800"
     },
-    "priceNote": "需電詢 02-2358-1914"
+    "priceNote": "需電詢 02-2358-1914",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E6%AD%A3%E5%8D%80%E5%85%AB%E5%BE%B7%E8%B7%AF%E4%B8%80%E6%AE%B51%E8%99%9F",
+    "latitude": 25.0432,
+    "longitude": 121.5198,
+    "coordinateSource": "區域中心(中正區)",
+    "needsCoordinateVerification": true
   },
   {
     "id": 1533,
@@ -23812,7 +24937,12 @@
       "lastUpdated": "2026-03-08",
       "main": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800"
     },
-    "priceNote": "需電詢 02-2358-1914"
+    "priceNote": "需電詢 02-2358-1914",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E6%AD%A3%E5%8D%80%E5%85%AB%E5%BE%B7%E8%B7%AF%E4%B8%80%E6%AE%B51%E8%99%9F",
+    "latitude": 25.0432,
+    "longitude": 121.5198,
+    "coordinateSource": "區域中心(中正區)",
+    "needsCoordinateVerification": true
   },
   {
     "id": 1534,
@@ -23843,7 +24973,12 @@
       "lastUpdated": "2026-03-08",
       "main": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800"
     },
-    "priceNote": "需電詢 02-2358-1914"
+    "priceNote": "需電詢 02-2358-1914",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E6%AD%A3%E5%8D%80%E5%85%AB%E5%BE%B7%E8%B7%AF%E4%B8%80%E6%AE%B51%E8%99%9F",
+    "latitude": 25.0432,
+    "longitude": 121.5198,
+    "coordinateSource": "區域中心(中正區)",
+    "needsCoordinateVerification": true
   },
   {
     "id": 1535,
@@ -23886,7 +25021,12 @@
     "updateSource": "自動檢查腳本",
     "statusChangedAt": "2026-03-03T10:24:23.089Z",
     "statusChangeReason": "SOP V4.7 完整驗證",
-    "lastUpdated": "2026-03-05T06:06:15.098Z"
+    "lastUpdated": "2026-03-05T06:06:15.098Z",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E5%8D%97%E6%B8%AF%E5%8D%80%E7%B6%93%E8%B2%BF%E4%BA%8C%E8%B7%AF1%E8%99%9F",
+    "latitude": 25.0578,
+    "longitude": 121.6168,
+    "coordinateSource": "地標",
+    "needsCoordinateVerification": false
   },
   {
     "id": 1536,
@@ -23927,7 +25067,12 @@
       "main": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800"
     },
     "priceNote": "需電詢 02-2725-5200 #5527",
-    "lastUpdated": "2026-03-05T06:06:15.098Z"
+    "lastUpdated": "2026-03-05T06:06:15.098Z",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E5%8D%97%E6%B8%AF%E5%8D%80%E7%B6%93%E8%B2%BF%E4%BA%8C%E8%B7%AF1%E8%99%9F",
+    "latitude": 25.0578,
+    "longitude": 121.6168,
+    "coordinateSource": "地標",
+    "needsCoordinateVerification": false
   },
   {
     "id": 1537,
@@ -23967,7 +25112,12 @@
       "main": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800"
     },
     "priceNote": "需電詢 02-2725-5200 #5527",
-    "lastUpdated": "2026-03-05T06:06:15.098Z"
+    "lastUpdated": "2026-03-05T06:06:15.098Z",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E5%8D%97%E6%B8%AF%E5%8D%80%E7%B6%93%E8%B2%BF%E4%BA%8C%E8%B7%AF1%E8%99%9F",
+    "latitude": 25.0578,
+    "longitude": 121.6168,
+    "coordinateSource": "地標",
+    "needsCoordinateVerification": false
   },
   {
     "id": 1538,
@@ -24008,7 +25158,12 @@
       "main": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800"
     },
     "priceNote": "需電詢 02-2725-5200 #5527",
-    "lastUpdated": "2026-03-05T06:06:15.098Z"
+    "lastUpdated": "2026-03-05T06:06:15.098Z",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E5%8D%97%E6%B8%AF%E5%8D%80%E7%B6%93%E8%B2%BF%E4%BA%8C%E8%B7%AF1%E8%99%9F",
+    "latitude": 25.0578,
+    "longitude": 121.6168,
+    "coordinateSource": "地標",
+    "needsCoordinateVerification": false
   },
   {
     "id": 1539,
@@ -24047,7 +25202,12 @@
       "main": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800"
     },
     "priceNote": "需電詢 02-2725-5200 #5527",
-    "lastUpdated": "2026-03-05T06:06:15.098Z"
+    "lastUpdated": "2026-03-05T06:06:15.098Z",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E5%8D%97%E6%B8%AF%E5%8D%80%E7%B6%93%E8%B2%BF%E4%BA%8C%E8%B7%AF1%E8%99%9F",
+    "latitude": 25.0578,
+    "longitude": 121.6168,
+    "coordinateSource": "地標",
+    "needsCoordinateVerification": false
   },
   {
     "id": "1540",
@@ -24073,7 +25233,12 @@
       "lastUpdated": "2026-03-08",
       "main": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800"
     },
-    "priceNote": "需電詢 "
+    "priceNote": "需電詢 ",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E5%A4%A7%E5%AE%89%E5%8D%80%E5%BF%A0%E5%AD%9D%E6%9D%B1%E8%B7%AF%E4%B8%89%E6%AE%B51%E8%99%9F%20%28%E5%84%84%E5%85%89%E5%A4%A7%E6%A8%932~3%E6%A8%93%29",
+    "latitude": 25.0339,
+    "longitude": 121.5346,
+    "coordinateSource": "區域中心(大安區)",
+    "needsCoordinateVerification": true
   },
   {
     "id": "1541",
@@ -24099,7 +25264,12 @@
       "lastUpdated": "2026-03-08",
       "main": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800"
     },
-    "priceNote": "需電詢 "
+    "priceNote": "需電詢 ",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E6%9D%AD%E5%B7%9E%E5%8D%97%E8%B7%AF%E4%B8%80%E6%AE%B524%E8%99%9F",
+    "latitude": 25.033,
+    "longitude": 121.5654,
+    "coordinateSource": "台北市中心",
+    "needsCoordinateVerification": true
   },
   {
     "id": "1542",
@@ -24191,7 +25361,12 @@
       "lastUpdated": "2026-03-08",
       "main": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800"
     },
-    "priceNote": "需電詢 02-2523-2828"
+    "priceNote": "需電詢 02-2523-2828",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E5%B1%B1%E5%8D%80%E5%8C%97%E5%AE%89%E8%B7%AF595%E5%B7%B720%E8%99%9F",
+    "latitude": 25.0688,
+    "longitude": 121.5265,
+    "coordinateSource": "區域中心(中山區)",
+    "needsCoordinateVerification": true
   },
   {
     "id": "1546",
@@ -24219,6 +25394,11 @@
       "lastUpdated": "2026-03-08",
       "main": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800"
     },
-    "priceNote": "需電詢 02-2523-2828"
+    "priceNote": "需電詢 02-2523-2828",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E5%B1%B1%E5%8D%80%E5%8C%97%E5%AE%89%E8%B7%AF595%E5%B7%B720%E8%99%9F",
+    "latitude": 25.0688,
+    "longitude": 121.5265,
+    "coordinateSource": "區域中心(中山區)",
+    "needsCoordinateVerification": true
   }
 ]
