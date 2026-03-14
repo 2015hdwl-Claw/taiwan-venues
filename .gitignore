@@ -37,3 +37,4 @@ package-lock.json
 # Keep data files
 !venues-all-cities.json
 .vercel
+.env*.local

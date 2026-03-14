@@ -45,10 +45,18 @@ app.get('/health', async (request, reply) => {
 
 // 1.1 健康檢查 (Vercel 路徑)
 app.get('/api/health', async (request, reply) => {
+  const hasNewKey = !!process.env.GLM_API_KEY_NEW;
+  const hasOldKey = !!process.env.GLM_API_KEY;
+
   return {
     status: 'ok',
     venues: venues.length,
     rooms: rooms.length,
+    env: {
+      GLM_API_KEY_NEW: hasNewKey,
+      GLM_API_KEY: hasOldKey,
+      keyLength: (process.env.GLM_API_KEY_NEW || process.env.GLM_API_KEY || '').length
+    },
     timestamp: new Date().toISOString()
   };
 });
