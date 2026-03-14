@@ -784,3 +784,4 @@ function openPhotoViewer(index) {
     updatePhotoGallery();
     // 可以擴展為全螢幕檢視器
 }
+// DEPLOY: 1773502405
