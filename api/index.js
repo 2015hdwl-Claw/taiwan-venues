@@ -237,6 +237,8 @@ app.post('/api/chat', async (request, reply) => {
   const sid = sessionId || `session_${Date.now()}_${Math.random().toString(36).substr(2, 9)}`;
 
   try {
+    console.log('[Chat] Received message:', message);
+
     // 先檢查訊息中是否包含搜尋意圖
     const searchKeywords = ['找', '搜尋', '需要', '想要', '場地', '會議室', '教室'];
     const shouldSearch = searchKeywords.some(kw => message.includes(kw));
@@ -245,11 +247,15 @@ app.post('/api/chat', async (request, reply) => {
 
     // 如果看起來像搜尋請求，嘗試搜尋
     if (shouldSearch) {
+      console.log('[Chat] Search intent detected');
+
       // 簡單的城市檢測
       const cities = ['台北市', '新北市', '桃園市', '台中市', '台南市', '高雄市'];
       const detectedCity = cities.find(city => message.includes(city));
 
       if (detectedCity) {
+        console.log('[Chat] Detected city:', detectedCity);
+
         // 執行搜尋
         const filtered = venues.filter(v => v.city === detectedCity).slice(0, 5);
 
@@ -257,19 +263,23 @@ app.post('/api/chat', async (request, reply) => {
           const venueRooms = rooms.filter(r => r.venueId === venue.id);
           return {
             ...venue,
-            maxCapacity: Math.max(...venueRooms.map(r =>
+            maxCapacity: venueRooms.length > 0 ? Math.max(...venueRooms.map(r =>
               Math.max(r.capacity.theater || 0, r.capacity.classroom || 0)
-            ), 0),
-            minPrice: Math.min(...venueRooms.map(r =>
+            ), 0) : 0,
+            minPrice: venueRooms.length > 0 ? Math.min(...venueRooms.map(r =>
               Math.min(r.pricing.halfDay || Infinity, r.pricing.fullDay || Infinity)
-            ), Infinity)
+            ), Infinity) : Infinity
           };
         });
+
+        console.log('[Chat] Found', searchResults.length, 'venues');
       }
     }
 
     // 呼叫 AI
+    console.log('[Chat] Calling AI...');
     const result = await chat(sid, message, searchResults);
+    console.log('[Chat] AI response:', result.success ? 'success' : 'failed');
 
     return {
       success: result.success,
@@ -279,6 +289,7 @@ app.post('/api/chat', async (request, reply) => {
     };
   } catch (error) {
     console.error('Chat Error:', error);
+    console.error('Chat Error Stack:', error.stack);
     reply.code(500);
     return {
       success: false,
