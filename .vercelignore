@@ -1,20 +1,57 @@
 # 不要上傳到 Vercel 的檔案
 
-# 開發檔案
-*.log
+# 開發文檔
 *.md
 !README.md
 
-# 測試和腳本（但保留 public/ 的 JS 檔案）
-scripts/
-*.py
-# 不要忽略 public/ 下的 JS 檔案
-!public/*.js
+# 根目錄腳本（但保留 script.js）
+crawl-*.js
+verify-*.js
+update-*.js
+fix-*.js
+check-*.js
+collect-*.js
+generate-*.js
+merge-*.js
+parse-*.js
+integrate-*.js
+search-*.js
+fetch-*.js
+batch*.js
+analyze-*.js
+ensure-*.js
+extract-*.js
+prepare-*.js
+validate-*.js
+classify-*.js
+cleanup-*.js
+delete-*.js
+smart_*.py
+crawl_*.py
+venue_*.py
+update_*.py
+verify_*.py
+website_*.py
+admin-server.py
 
-# 資料處理檔案
-*.json
-!migrated-data/*.json
-!package*.json
+# 腳本目錄
+scripts/
+agents/
+
+# 資料處理檔案（但保留必要資料）
+*-backup*.json
+*.backup
+collected-*.json
+crawled-*.json
+verification-*.json
+search-*.json
+failed-*.json
+pending-*.json
+missing-*.json
+repaired-*.json
+no-meeting-*.json
+venues-need*.json
+venues-to-*.json
 
 # 截圖和圖片
 *.png
@@ -22,19 +59,11 @@ scripts/
 *.gif
 *.jpeg
 
-# 備份檔案
-*-backup*.json
-*.backup
-
 # 其他
 .git/
 node_modules/
 .DS_Store
 .env
 .env.local
-
-# 根目錄的 JS 檔案（腳本）
-/*.js
-# 但保留 API 的 JS 和前端 script.js
-!api/*.js
-!script.js
+*.log
+*.py
