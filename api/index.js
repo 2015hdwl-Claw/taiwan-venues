@@ -185,7 +185,26 @@ app.get('/api/venues/:id/rooms', async (request, reply) => {
   };
 });
 
-// 7. AI 對話
+// 7.1 測試 GLM API
+app.post('/api/test-glm', async (request, reply) => {
+  const { chat } = require('./ai-service');
+
+  try {
+    const result = await chat('test-session', '測試訊息');
+    return {
+      success: true,
+      result: result
+    };
+  } catch (error) {
+    return {
+      success: false,
+      error: error.message,
+      stack: error.stack
+    };
+  }
+});
+
+// 8. AI 對話
 app.post('/api/chat', async (request, reply) => {
   const { message, sessionId } = request.body;
 
