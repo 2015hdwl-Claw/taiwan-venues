@@ -155,6 +155,14 @@ app.get('/api/search', async (request, reply) => {
   };
 });
 
+// 4.5. 取得所有場地（供 admin.html 使用）
+app.get('/api/venues', async (request, reply) => {
+  return {
+    total: venues.length,
+    venues: venues
+  };
+});
+
 // 5. 取得單一場地詳情
 app.get('/api/venues/:id', async (request, reply) => {
   const { id } = request.params;
@@ -187,6 +195,18 @@ app.get('/api/venues/:id/rooms', async (request, reply) => {
 
 // 7.1 測試 GLM API
 app.post('/api/test-glm', async (request, reply) => {
+  const key = process.env.GLM_API_KEY_NEW || process.env.GLM_API_KEY;
+
+  return {
+    hasKey: !!key,
+    keyLength: key ? key.length : 0,
+    keyPreview: key ? `${key.substring(0, 10)}...${key.substring(key.length - 5)}` : null,
+    keyChars: key ? Array.from(key).map(c => c.charCodeAt(0)) : null
+  };
+});
+
+// 7.2 測試 GLM API 調用
+app.post('/api/test-glm-call', async (request, reply) => {
   const { chat } = require('./ai-service');
 
   try {
