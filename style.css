@@ -837,3 +837,12 @@ body {
         flex-direction: column;
     }
 }
+
+
+/* ===== 暫時關閉比較功能 ===== */
+.compare-panel,
+.compare-modal,
+.compare-btn,
+button[onclick*="toggleCompare"] {
+    display: none !important;
+}
