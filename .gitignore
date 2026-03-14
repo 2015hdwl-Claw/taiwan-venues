@@ -38,3 +38,6 @@ package-lock.json
 !venues-all-cities.json
 .vercel
 .env*.local
+
+# Archived files
+archive/
