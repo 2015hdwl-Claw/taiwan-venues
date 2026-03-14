@@ -31,6 +31,37 @@ try {
   console.error('❌ 載入資料失敗:', error.message);
 }
 
+// ========== Static Files ==========
+// 服務根目錄的靜態文件
+app.get('/script.js', async (request, reply) => {
+  const scriptPath = path.join(__dirname, '../script.js');
+  const content = fs.readFileSync(scriptPath, 'utf8');
+  reply.type('application/javascript');
+  return content;
+});
+
+app.get('/style.css', async (request, reply) => {
+  const cssPath = path.join(__dirname, '../style.css');
+  const content = fs.readFileSync(cssPath, 'utf8');
+  reply.type('text/css');
+  return content;
+});
+
+app.get('/index.html', async (request, reply) => {
+  const htmlPath = path.join(__dirname, '../index.html');
+  const content = fs.readFileSync(htmlPath, 'utf8');
+  reply.type('text/html');
+  return content;
+});
+
+// 根路徑返回 index.html
+app.get('/', async (request, reply) => {
+  const htmlPath = path.join(__dirname, '../index.html');
+  const content = fs.readFileSync(htmlPath, 'utf8');
+  reply.type('text/html');
+  return content;
+});
+
 // ========== API Routes ==========
 
 // 1. 健康檢查
