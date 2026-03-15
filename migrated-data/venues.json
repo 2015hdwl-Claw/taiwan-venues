@@ -2443,22 +2443,22 @@
   },
   {
     "id": 1088,
-    "name": "台北寒舍艾麗酒店(HummerHouse)",
+    "name": "台北寒舍艾麗酒店(Humble House Taipei)",
     "venueType": "飯店場地",
     "city": "台北市",
-    "address": "台北市信義區松高路18號B棟",
+    "address": "台北市信義區松高路18號",
     "contactPerson": "宴會部",
-    "contactPhone": "02-6618-5600",
+    "contactPhone": "02-6631-8000",
     "contactEmail": "events.humblehouse@humlehouse.com",
     "url": "https://www.humblehousehotels.com/",
     "status": "上架",
     "verified": true,
-    "verifiedAt": "2026-02-27",
-    "verifiedTitle": "www.humblehouse.com - Coming Soon",
-    "meetingPageUrl": "",
-    "venueListUrl": "https://www.humblehousehotels.com/en/websev?cat=page&id=7",
-    "roomsCount": 2,
-    "notes": "信義區時尚飯店，適合企業活動、時尚派對",
+    "verifiedAt": "2026-03-15",
+    "verifiedTitle": "Humble House Taipei - 希爾頓格芮精選酒店",
+    "meetingPageUrl": "https://www.humblehousehotels.com/en/websev?cat=page&id=37",
+    "venueListUrl": "https://www.humblehousehotels.com/en/websev?cat=page&id=14",
+    "roomsCount": 1,
+    "notes": "Grand Ballroom 702平方公尺，可容納1000人，天花板5公尺高，由HBA設計，配備最先進影音設備",
     "images": {
       "main": "https://www.humblehousehotels.com/files/page_161581908711j4rck.jpg",
       "gallery": [
@@ -2468,7 +2468,8 @@
       ]
     },
     "createdAt": "2026-03-14T22:31:06.773154",
-    "updatedAt": "2026-03-14T22:31:06.773159"
+    "updatedAt": "2026-03-15T15:15:00.000Z",
+    "verificationNotes": "電話從官網驗證修正（02-6618-5600 → 02-6631-8000），地址移除B棟，補充會議室資訊"
   },
   {
     "id": 1089,
