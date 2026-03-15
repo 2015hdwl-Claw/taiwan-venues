@@ -1649,21 +1649,34 @@
   },
   {
     "id": 1077,
-    "name": "台北寒舍艾麗酒店(HummerHouse)",
+    "name": "台北寒舍艾麗酒店(Humble House Taipei)",
     "venueType": "飯店場地",
     "city": "台北市",
-    "address": "台北市信義區松高路18號B棟",
+    "address": "台北市信義區松高路18號",
     "contactPerson": "宴會部",
-    "contactPhone": "02-6618-5600",
+    "contactPhone": "02-6631-8000",
     "contactEmail": "events.humblehouse@humlehouse.com",
     "url": "https://www.humblehousehotels.com/",
-    "priceHalfDay": "75000",
-    "priceFullDay": "140000",
-    "maxCapacityTheater": 480,
-    "maxCapacityClassroom": 250,
+    "priceHalfDay": "請來電洽詢",
+    "priceFullDay": "請來電洽詢",
+    "maxCapacityTheater": 1000,
+    "maxCapacityClassroom": 600,
     "availableTimeWeekday": "09:00-22:00",
     "availableTimeWeekend": "09:00-22:00",
-    "equipment": "頂級影音設備、LED牆、燈光系統",
+    "equipment": "最先進影音設備、燈光系統、兼容技術設備、LED牆",
+    "meetingRooms": [
+      {
+        "name": "Grand Ballroom（宴會廳）",
+        "floor": "5樓",
+        "area": "702平方公尺",
+        "maxCapacity": 1000,
+        "ceilingHeight": "5公尺",
+        "components": "4個廳 + 2個多功能室 + 1個VIP室",
+        "features": "天空花園自然光、簡約優雅設計",
+        "designer": "HBA（Hirsch Bedner Associates）",
+        "equipment": "最先進影音設備、燈光系統、兼容技術設備"
+      }
+    ],
     "images": {
       "main": "https://www.humblehousehotels.com/files/page_161581908711j4rck.jpg",
       "gallery": [
@@ -1675,7 +1688,10 @@
       "verified": true,
       "verifiedAt": "2026-03-02T16:20:21.244Z"
     },
-    "verified": false
+    "verified": true,
+    "verifiedAt": "2026-03-15T15:10:00.000Z",
+    "verifiedSource": "https://www.humblehousehotels.com/en/websev?cat=page&id=14",
+    "verificationNotes": "電話號碼已從官網驗證修正，地址移除錯誤的B棟資訊，會議室資訊已從官網補充"
   },
   {
     "id": 1080,
