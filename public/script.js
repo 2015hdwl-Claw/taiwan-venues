@@ -4,6 +4,7 @@ let currentPage = 1;
 let currentView = 'grid';
 let searchTimeout = null;
 let sessionId = null;
+let savedSearchState = null; // 保存搜尋狀態
 
 // ===== 初始化 =====
 document.addEventListener('DOMContentLoaded', async () => {
@@ -48,6 +49,59 @@ async function loadFilters() {
     }
 }
 
+// ===== 保存搜尋條件 =====
+function saveSearchState() {
+    const state = {
+        keyword: document.getElementById('searchInput')?.value || '',
+        city: document.getElementById('cityFilter')?.value || '',
+        venueType: document.getElementById('typeFilter')?.value || '',
+        capacity: document.getElementById('capacityFilter')?.value || '',
+        maxPrice: document.getElementById('priceFilter')?.value || '',
+        timestamp: Date.now()
+    };
+    
+    // 保存到 localStorage
+    localStorage.setItem('venueSearchState', JSON.stringify(state));
+    savedSearchState = state;
+    
+    console.log('搜尋條件已保存:', state);
+}
+
+// ===== 恢復搜尋條件 =====
+function restoreSearchState() {
+    try {
+        const saved = localStorage.getItem('venueSearchState');
+        if (!saved) return false;
+        
+        const state = JSON.parse(saved);
+        
+        // 檢查是否過期（超過 30 分鐘）
+        if (Date.now() - state.timestamp > 30 * 60 * 1000) {
+            localStorage.removeItem('venueSearchState');
+            return false;
+        }
+        
+        // 恢復搜尋條件
+        const searchInput = document.getElementById('searchInput');
+        const cityFilter = document.getElementById('cityFilter');
+        const typeFilter = document.getElementById('typeFilter');
+        const capacityFilter = document.getElementById('capacityFilter');
+        const priceFilter = document.getElementById('priceFilter');
+        
+        if (searchInput) searchInput.value = state.keyword;
+        if (cityFilter) cityFilter.value = state.city;
+        if (typeFilter) typeFilter.value = state.venueType;
+        if (capacityFilter) capacityFilter.value = state.capacity;
+        if (priceFilter) priceFilter.value = state.maxPrice;
+        
+        console.log('搜尋條件已恢復:', state);
+        return true;
+    } catch (error) {
+        console.error('恢復搜尋條件失敗:', error);
+        return false;
+    }
+}
+
 // ===== 載入場地 =====
 async function loadVenues(offset = 0) {
     showLoading(true);
@@ -58,6 +112,9 @@ async function loadVenues(offset = 0) {
         const venueType = document.getElementById('typeFilter').value;
         const capacity = document.getElementById('capacityFilter').value;
         const maxPrice = document.getElementById('priceFilter').value;
+        
+        // 保存搜尋條件
+        saveSearchState();
         
         // 建立查詢參數
         const params = new URLSearchParams();
@@ -452,6 +509,42 @@ function showError(message) {
 function formatPrice(price) {
     return price.toLocaleString('zh-TW') + '元';
 }
+
+// ===== 返回按鈕 =====
+function goBack() {
+    console.log('返回按鈕被點擊');
+    
+    // 切換顯示區塊
+    const typeSelectorSection = document.getElementById('typeSelectorSection');
+    const venuesSection = document.getElementById('venuesSection');
+    
+    if (typeSelectorSection && venuesSection) {
+        typeSelectorSection.style.display = 'flex';
+        venuesSection.style.display = 'none';
+    }
+    
+    // 恢復搜尋條件（下次進入時會自動恢復）
+    console.log('搜尋條件已保存，下次進入時會自動恢復');
+}
+
+// ===== 初始化時恢復搜尋條件 =====
+document.addEventListener('DOMContentLoaded', async () => {
+    // 生成 session ID
+    sessionId = 'session_' + Date.now() + '_' + Math.random().toString(36).substr(2, 9);
+    
+    // 載入篩選器選項
+    await loadFilters();
+    
+    // 恢復搜尋條件
+    const restored = restoreSearchState();
+    
+    // 載入場地（如果有恢復的條件，會自動套用）
+    await loadVenues();
+    
+    if (restored) {
+        console.log('✅ 搜尋條件已自動恢復');
+    }
+});
 
 // ===== 點擊外部關閉 Modal =====
 window.onclick = function(event) {
