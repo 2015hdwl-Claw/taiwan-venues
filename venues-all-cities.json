@@ -1190,9 +1190,12 @@
         "https://pic.camacafe.com/upload/file1_20251127142332_375_H0SDP.jpg",
         "https://pic.camacafe.com/upload/file1_2025112495622_374_ZBRLD.jpg"
       ],
+      "floorPlan": "",
       "source": "https://www.camacafe.com/New/1",
       "verified": true,
-      "verifiedAt": "2026-03-02T09:52:23.502Z"
+      "needsUpdate": false,
+      "note": "保留原有的真實照片",
+      "lastUpdated": "2026-03-15"
     },
     "url": "https://www.camacafe.com/",
     "verified": true,
@@ -1248,13 +1251,12 @@
         "https://clbc.tw/wp-content/uploads/elementor/thumbs/support-q4kmzdgkuwojhk5ptusydzqsevxostf5e0yp4kymrk.png",
         "https://clbc.tw/wp-content/uploads/elementor/thumbs/computer-class-room-q4kmzdgkuwojhk5ptusydzqsevxostf5e0yp4kymrk.png"
       ],
+      "floorPlan": "",
       "source": "https://clbc.tw/",
       "verified": true,
-      "verifiedAt": "2026-03-07T21:12:58.373155",
-      "updateReason": "批量更新：修正主照片錯誤",
       "needsUpdate": false,
       "note": "從官網爬取真實照片",
-      "lastUpdated": "2026-03-07"
+      "lastUpdated": "2026-03-15"
     },
     "url": "https://clbc.tw/",
     "verified": true,
@@ -1297,9 +1299,11 @@
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "投影機、音響",
     "images": {
-      "main": "https://images.unsplash.com/photo-1453614512568-c4024d13c247?w=800&auto=format",
+      "main": "https://images.unsplash.com/photo-1554118811-1e0d58224f24?w=800&auto=format",
       "gallery": [],
       "floorPlan": "",
+      "source": "https://unsplash.com",
+      "verified": false,
       "needsUpdate": false,
       "note": "使用相關的 Unsplash 照片（咖啡廳類型）",
       "lastUpdated": "2026-03-15"
@@ -1357,9 +1361,12 @@
         "https://static.wixstatic.com/media/4a5f41_54687a49caa44d8eab51b0843cf01207~mv2.jpg/v1/crop/x_0,y_0,w_1550,h_601/fill/w_866,h_338,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/%E6%88%AA%E5%9C%96%202025-09-02%20%E4%B8%8B%E5%8D%884_edited.jpg",
         "https://static.wixstatic.com/media/bd4101_7aebd358e20f447b859e8c1d64e3103d~mv2.png/v1/fill/w_278,h_52,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/111.png"
       ],
+      "floorPlan": "",
       "source": "https://www.nuzone.com.tw",
       "verified": true,
-      "verifiedAt": "2026-03-01T23:28:53.840Z"
+      "needsUpdate": false,
+      "note": "保留原有的真實照片",
+      "lastUpdated": "2026-03-15"
     },
     "url": "https://www.nuzone.com.tw/",
     "transportation": {
@@ -1438,9 +1445,12 @@
         "https://assets.iwgplc.com/image/upload/c_fill,f_auto,q_auto,w_768,h_580,g_faces//v1752056547/WebsiteImagery/Gallery/IPO_6.jpg",
         "https://assets.iwgplc.com/image/upload/c_fill,f_auto,q_auto,w_768,h_580,g_faces//v1756291577/WebsiteImagery/Gallery/IPO_5.jpg"
       ],
+      "floorPlan": "",
       "source": "https://www.regus.com/en/meeting-rooms/meeting-rooms",
       "verified": true,
-      "verifiedAt": "2026-03-02T16:20:21.241Z"
+      "needsUpdate": false,
+      "note": "保留原有的真實照片",
+      "lastUpdated": "2026-03-15"
     },
     "url": "https://www.regus.com",
     "verified": true,
@@ -1494,9 +1504,12 @@
         "https://simplekaffa.thothcdn.com/images/property_images/banner/8a206405b91a50558715e1490a51faa73d7e9f7d.png",
         "https://simplekaffa.thothcdn.com/images/property_images/banner/235e80418f6c3578783fd72603885204e76000b7.png"
       ],
+      "floorPlan": "",
       "source": "https://www.simplekaffa.com",
       "verified": true,
-      "verifiedAt": "2026-03-01T23:29:00.071Z"
+      "needsUpdate": false,
+      "note": "保留原有的真實照片",
+      "lastUpdated": "2026-03-15"
     },
     "url": "https://simplekaffa.com/",
     "verified": true,
@@ -1539,9 +1552,11 @@
     "availableTimeWeekend": "09:00-18:00",
     "equipment": "投影機、白板、WiFi",
     "images": {
-      "main": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?w=800&auto=format",
+      "main": "https://images.unsplash.com/photo-1497366811353-6870744d04b2?w=800&auto=format",
       "gallery": [],
       "floorPlan": "",
+      "source": "https://unsplash.com",
+      "verified": false,
       "needsUpdate": false,
       "note": "使用相關的 Unsplash 照片（會議中心類型）",
       "lastUpdated": "2026-03-15"
@@ -1624,9 +1639,12 @@
         "https://www.executivecentre.com/_next/image/?url=https%3A%2F%2Fassets.executivecentre.com%2Fassets%2Ftn_hongkong.jpg&w=3840&q=75",
         "https://www.executivecentre.com/_next/image/?url=https%3A%2F%2Fassets.executivecentre.com%2Fassets%2Ftn_beijing.jpg&w=3840&q=75"
       ],
+      "floorPlan": "",
       "source": "https://www.executivecentre.com/meeting-rooms-conference",
       "verified": true,
-      "verifiedAt": "2026-03-02T09:52:23.503Z"
+      "needsUpdate": false,
+      "note": "保留原有的真實照片",
+      "lastUpdated": "2026-03-15"
     },
     "url": "https://www.executivecentre.com",
     "verified": true,
@@ -1680,9 +1698,12 @@
         "https://cdn-static.wework.com/content/images/home/solutions-enterprise-card-20260130.jpg?auto=format%20compress&fit=crop&q=50&w=780&h=702",
         "https://ctfassets.imgix.net/vh7r69kgcki3/2B8h43v9DuDfj8SvMN5jyw/f98512855af2d4ad4eaa3e2c78552649/workspace-made-simple_800x520.webp?auto=format%20compress&fit=crop&q=50&w=1281&h=720"
       ],
+      "floorPlan": "",
       "source": "https://www.wework.com",
       "verified": true,
-      "verifiedAt": "2026-03-02T03:33:04.295Z"
+      "needsUpdate": false,
+      "note": "保留原有的真實照片",
+      "lastUpdated": "2026-03-15"
     },
     "url": "https://www.wework.com",
     "verified": true,
@@ -1741,12 +1762,11 @@
       "main": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/a3/1d/40/w-taipei.jpg",
       "gallery": [],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "手動補充會議室照片",
-      "lastUpdated": "2026-03-07",
       "source": "https://www.marriott.com/hotels/travel/tpewh-w-taipei/",
       "verified": true,
-      "verifiedAt": "2026-03-07T21:13:37.272667"
+      "needsUpdate": false,
+      "note": "手動補充會議室照片",
+      "lastUpdated": "2026-03-15"
     },
     "notes": " [官網無法連線或擋爬蟲，需手動確認]",
     "missingFields": [
@@ -1800,9 +1820,12 @@
         "https://www.brotherhotel.com.tw/wp-content/uploads/2022/11/婚宴場地-400x300.jpg",
         "https://www.brotherhotel.com.tw/wp-content/uploads/2022/11/DSC_9665-400x300.jpg"
       ],
+      "floorPlan": "",
       "source": "https://www.brotherhotel.com.tw/?cat=76",
       "verified": true,
-      "verifiedAt": "2026-03-02T16:20:21.242Z"
+      "needsUpdate": false,
+      "note": "保留原有的真實照片",
+      "lastUpdated": "2026-03-15"
     },
     "layoutImageUrl": null,
     "rentalTimeNote": "需提前1週預約",
@@ -1859,9 +1882,12 @@
         "https://www.hrd.gov.tw/media/4302/service_05.png",
         "https://www.hrd.gov.tw/media/4301/service_04.png"
       ],
+      "floorPlan": "",
       "source": "https://www.hrd.gov.tw",
       "verified": true,
-      "verifiedAt": "2026-03-01T23:29:06.666Z"
+      "needsUpdate": false,
+      "note": "保留原有的真實照片",
+      "lastUpdated": "2026-03-15"
     },
     "url": "https://www.hrd.gov.tw",
     "verified": true,
@@ -1908,12 +1934,11 @@
       "main": "https://www.marriott.com/marriottassets/destinations/featured/taipei-large.jpg",
       "gallery": [],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "手動補充會議室照片",
-      "lastUpdated": "2026-03-07",
       "source": "https://www.courtyardtaipei.com.tw/zh-TW/",
       "verified": true,
-      "verifiedAt": "2026-03-07T21:13:37.272731"
+      "needsUpdate": false,
+      "note": "手動補充會議室照片",
+      "lastUpdated": "2026-03-15"
     },
     "url": "https://www.courtyardtaipei.com.tw/zh-TW/",
     "verified": true,
@@ -1972,9 +1997,12 @@
       "gallery": [
         "https://d1qlj1o6gdgqqt.cloudfront.net/wp-content/uploads/2026/02/image-12-1600x899.jpeg"
       ],
+      "floorPlan": "",
       "source": "https://artouch.com/?p=201981",
       "verified": true,
-      "verifiedAt": "2026-03-02T09:52:23.503Z"
+      "needsUpdate": false,
+      "note": "保留原有的真實照片",
+      "lastUpdated": "2026-03-15"
     },
     "url": "https://artouch.com/food/",
     "verified": true,
@@ -2028,9 +2056,12 @@
         "https://www.ntut.edu.tw/var/file/7/1007/randimg/mobileadv_4311_1540266_41233.jpg",
         "https://www.ntut.edu.tw/var/file/7/1007/randimg/mobileadv_2928_6357912_07814.jpg"
       ],
+      "floorPlan": "",
       "source": "https://www.ntut.edu.tw",
       "verified": true,
-      "verifiedAt": "2026-03-02T03:33:04.295Z"
+      "needsUpdate": false,
+      "note": "保留原有的真實照片",
+      "lastUpdated": "2026-03-15"
     },
     "url": "https://www.ntut.edu.tw",
     "verified": true,
@@ -2079,12 +2110,11 @@
         "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/a3/1d/40/w-taipei.jpg"
       ],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "手動補充會議室照片",
-      "lastUpdated": "2026-03-07",
       "source": "https://www.marriott.com/hotels/travel/tpewh-w-taipei/",
       "verified": true,
-      "verifiedAt": "2026-03-07T21:13:37.272747"
+      "needsUpdate": false,
+      "note": "手動補充會議室照片",
+      "lastUpdated": "2026-03-15"
     },
     "url": "https://www.marriott.com/en-us/hotels/tpewh-w-taipei/",
     "verified": true,
@@ -2133,6 +2163,8 @@
       "main": "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?w=800&auto=format",
       "gallery": [],
       "floorPlan": "",
+      "source": "https://unsplash.com",
+      "verified": false,
       "needsUpdate": false,
       "note": "使用相關的 Unsplash 照片（飯店場地類型）",
       "lastUpdated": "2026-03-15"
@@ -2186,9 +2218,12 @@
         "https://www.twtc.com.tw/images/banner/b20211105154035.jpg",
         "https://www.twtc.com.tw/images/banner/b20211105154103.jpg"
       ],
+      "floorPlan": "",
       "source": "https://www.twtc.com.tw/",
       "verified": true,
-      "verifiedAt": "2026-03-02T03:33:04.295Z"
+      "needsUpdate": false,
+      "note": "保留原有的真實照片",
+      "lastUpdated": "2026-03-15"
     },
     "url": "https://www.twtc.com.tw/",
     "verified": true,
@@ -2239,9 +2274,12 @@
         "https://www.dandyhotel.com.tw/images/da.jpg",
         "https://www.dandyhotel.com.tw/images/dm.jpg"
       ],
+      "floorPlan": "",
       "source": "https://www.dandyhotel.com.tw",
       "verified": true,
-      "verifiedAt": "2026-03-02T03:33:04.295Z"
+      "needsUpdate": false,
+      "note": "保留原有的真實照片",
+      "lastUpdated": "2026-03-15"
     },
     "url": "https://www.dandyhotel.com.tw",
     "verified": true,
@@ -2293,9 +2331,12 @@
         "https://static.wixstatic.com/media/a9b95d_7543b851956d44e4849409607392264c~mv2.png/v1/crop/x_0,y_187,w_1080,h_505/fill/w_306,h_143,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/LOGOS.png",
         "https://static.wixstatic.com/media/https://static.parastorage.com/services/santa-resources/dist/editor/imageUploadToStage/loader_600x600.gif"
       ],
+      "floorPlan": "",
       "source": "https://taipei.landishotelsresorts.com/meeting-list.php",
       "verified": true,
-      "verifiedAt": "2026-03-02T16:20:21.242Z"
+      "needsUpdate": false,
+      "note": "保留原有的真實照片",
+      "lastUpdated": "2026-03-15"
     },
     "url": "https://taipei.landishotelsresorts.com/",
     "verified": true,
@@ -2348,9 +2389,12 @@
         "https://www.cityinn.com.tw/images/c4.jpg",
         "https://www.cityinn.com.tw/images/c6.jpg"
       ],
+      "floorPlan": "",
       "source": "https://www.cityinn.com.tw",
       "verified": true,
-      "verifiedAt": "2026-03-02T03:33:04.295Z"
+      "needsUpdate": false,
+      "note": "保留原有的真實照片",
+      "lastUpdated": "2026-03-15"
     },
     "layoutImageUrl": null,
     "rentalTimeNote": "需提前3天預約",
@@ -2403,9 +2447,12 @@
         "https://www.brotherhotel.com.tw/wp-content/uploads/2022/11/婚宴場地-400x300.jpg",
         "https://www.brotherhotel.com.tw/wp-content/uploads/2022/11/DSC_9665-400x300.jpg"
       ],
+      "floorPlan": "",
       "source": "https://www.brotherhotel.com.tw/?cat=76",
       "verified": true,
-      "verifiedAt": "2026-03-02T16:20:21.242Z"
+      "needsUpdate": false,
+      "note": "保留原有的真實照片",
+      "lastUpdated": "2026-03-15"
     },
     "url": "https://www.brotherhotel.com.tw/?cat=75",
     "verified": true,
@@ -2448,9 +2495,11 @@
     "availableTimeWeekend": "休館",
     "equipment": "投影機、音響",
     "images": {
-      "main": "https://images.unsplash.com/photo-1497366811353-6870744d04b2?w=800&auto=format",
+      "main": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800&auto=format",
       "gallery": [],
       "floorPlan": "",
+      "source": "https://unsplash.com",
+      "verified": false,
       "needsUpdate": false,
       "note": "使用相關的 Unsplash 照片（會議中心類型）",
       "lastUpdated": "2026-03-15"
@@ -2505,9 +2554,12 @@
         "https://www.leofoo.com.tw/asset/types/main/img/index/kv_img_04.jpg",
         "https://www.leofoo.com.tw/asset/types/main/img/index/kv_img_05.jpg"
       ],
+      "floorPlan": "",
       "source": "https://www.leofoo.com.tw",
       "verified": true,
-      "verifiedAt": "2026-03-01T23:29:34.018Z"
+      "needsUpdate": false,
+      "note": "保留原有的真實照片",
+      "lastUpdated": "2026-03-15"
     },
     "url": "https://www.leofoo.com.tw",
     "verified": true,
@@ -2555,12 +2607,11 @@
       "main": "https://www.marriott.com/marriottassets/destinations/featured/taipei-large.jpg",
       "gallery": [],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "手動補充會議室照片",
-      "lastUpdated": "2026-03-07",
       "source": "https://www.courtyardtaipei.com.tw/zh-TW/",
       "verified": true,
-      "verifiedAt": "2026-03-07T21:13:37.272761"
+      "needsUpdate": false,
+      "note": "手動補充會議室照片",
+      "lastUpdated": "2026-03-15"
     },
     "layoutImageUrl": null,
     "rentalTimeNote": "需提前1週預約",
@@ -2611,6 +2662,8 @@
       "main": "https://images.unsplash.com/photo-1464366400600-7168b8af9bc3?w=800&auto=format",
       "gallery": [],
       "floorPlan": "",
+      "source": "https://unsplash.com",
+      "verified": false,
       "needsUpdate": false,
       "note": "使用相關的 Unsplash 照片（婚宴場地類型）",
       "lastUpdated": "2026-03-15"
@@ -2674,13 +2727,11 @@
         "https://www-ws.gov.taipei/001/Upload/619/relpic/-1/619/d5f8e2bc-c362-4157-8798-3af12ffe3beb.png"
       ],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "從官網爬取真實照片",
-      "lastUpdated": "2026-03-07",
       "source": "https://btresort.metro.taipei/",
       "verified": true,
-      "verifiedAt": "2026-03-07T21:12:58.373226",
-      "updateReason": "批量更新：補充照片"
+      "needsUpdate": false,
+      "note": "從官網爬取真實照片",
+      "lastUpdated": "2026-03-15"
     },
     "url": "https://btresort.metro.taipei/",
     "verified": true,
@@ -2731,6 +2782,8 @@
       "main": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800&auto=format",
       "gallery": [],
       "floorPlan": "",
+      "source": "https://unsplash.com",
+      "verified": false,
       "needsUpdate": false,
       "note": "使用相關的 Unsplash 照片（飯店場地類型）",
       "lastUpdated": "2026-03-15"
@@ -2788,13 +2841,11 @@
         "https://www.palaisdechinehotel.com/files/pages_166202695212jofhn64_m.jpg"
       ],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "從官網爬取真實照片",
-      "lastUpdated": "2026-03-07",
       "source": "https://www.palaisdechinehotel.com/",
       "verified": true,
-      "verifiedAt": "2026-03-07T21:12:58.373249",
-      "updateReason": "批量更新：補充照片"
+      "needsUpdate": false,
+      "note": "從官網爬取真實照片",
+      "lastUpdated": "2026-03-15"
     },
     "url": "https://www.palaisdechinehotel.com/",
     "verified": true,
@@ -2844,12 +2895,11 @@
         "https://www.hyatt.com/content/dam/PropertyVault/tyoph/Gallery/Ballroom%20Foyer.jpg"
       ],
       "floorPlan": null,
-      "verified": true,
-      "verifiedAt": "2026-03-07T21:13:37.272774",
       "source": "https://www.hyatt.com/zh-TW/hotel/taiwan/grand-hyatt-taipei/tyoph",
+      "verified": true,
       "needsUpdate": false,
       "note": "手動補充會議室照片",
-      "lastUpdated": "2026-03-07"
+      "lastUpdated": "2026-03-15"
     },
     "url": "https://www.hyatt.com/zh-TW/hotel/taiwan/grand-hyatt-taipei/tyoph",
     "transportation": {
@@ -2917,12 +2967,11 @@
       "main": "https://www.hyatt.com/content/dam/PropertyVault/tyoph/Gallery/Grand%20Ballroom.jpg",
       "gallery": [],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "手動補充會議室照片",
-      "lastUpdated": "2026-03-07",
       "source": "https://www.hyatt.com/zh-TW/hotel/taiwan/grand-hyatt-taipei/tyoph",
       "verified": true,
-      "verifiedAt": "2026-03-07T21:13:37.272785"
+      "needsUpdate": false,
+      "note": "手動補充會議室照片",
+      "lastUpdated": "2026-03-15"
     },
     "layoutImageUrl": null,
     "rentalTimeNote": "需提前1週預約",
@@ -2976,12 +3025,11 @@
       "main": "https://www.hyatt.com/content/dam/PropertyVault/tyoph/Gallery/Meeting%20Rooms.jpg",
       "gallery": [],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "手動補充會議室照片",
-      "lastUpdated": "2026-03-07",
       "source": "https://www.hyatt.com/zh-TW/hotel/taiwan/grand-hyatt-taipei/tyoph",
       "verified": true,
-      "verifiedAt": "2026-03-07T21:13:37.272794"
+      "needsUpdate": false,
+      "note": "手動補充會議室照片",
+      "lastUpdated": "2026-03-15"
     },
     "layoutImageUrl": null,
     "rentalTimeNote": "需提前3天預約",
@@ -3033,12 +3081,11 @@
       "main": "https://www.hyatt.com/content/dam/PropertyVault/tyoph/Gallery/Grand%20Ballroom.jpg",
       "gallery": [],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "手動補充會議室照片",
-      "lastUpdated": "2026-03-07",
       "source": "https://www.hyatt.com/zh-TW/hotel/taiwan/grand-hyatt-taipei/tyoph",
       "verified": true,
-      "verifiedAt": "2026-03-07T21:13:37.272814"
+      "needsUpdate": false,
+      "note": "手動補充會議室照片",
+      "lastUpdated": "2026-03-15"
     },
     "url": "https://www.grandhyatt.com/taipei",
     "verified": true,
@@ -3082,9 +3129,11 @@
     "availableTimeWeekend": "休館",
     "equipment": "投影設備、音響",
     "images": {
-      "main": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800&auto=format",
+      "main": "https://images.unsplash.com/photo-1497366811353-6870744d04b2?w=800&auto=format",
       "gallery": [],
       "floorPlan": "",
+      "source": "https://unsplash.com",
+      "verified": false,
       "needsUpdate": false,
       "note": "使用相關的 Unsplash 照片（會議中心類型）",
       "lastUpdated": "2026-03-15"
@@ -3134,9 +3183,11 @@
     "availableTimeWeekend": "休館",
     "equipment": "投影設備、音響",
     "images": {
-      "main": "https://images.unsplash.com/photo-1497366811353-6870744d04b2?w=800&auto=format",
+      "main": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800&auto=format",
       "gallery": [],
       "floorPlan": "",
+      "source": "https://unsplash.com",
+      "verified": false,
       "needsUpdate": false,
       "note": "使用相關的 Unsplash 照片（會議中心類型）",
       "lastUpdated": "2026-03-15"
@@ -3202,11 +3253,9 @@
       "floorPlan": "",
       "source": "https://www.sheratongrandtaipei.com/websev?lang=zh-tw&ref=pages&cat=50",
       "verified": true,
-      "verifiedAt": "2026-03-07T13:12:00.788197",
       "needsUpdate": false,
       "note": "從官網爬取真實會議室照片（10張）",
-      "lastUpdated": "2026-03-07",
-      "crawlMethod": "Playwright 動態爬蟲"
+      "lastUpdated": "2026-03-15"
     },
     "url": "https://www.sheratongrandtaipei.com/websev?lang=zh-tw",
     "verified": true,
@@ -3263,13 +3312,11 @@
         "https://ww.ambiencehotel.com.tw/wp-content/uploads/2023/08/20230822-slider-room03.jpg"
       ],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "從官網爬取真實照片",
-      "lastUpdated": "2026-03-07",
       "source": "https://www.ambiencehotel.com.tw/",
       "verified": true,
-      "verifiedAt": "2026-03-07T21:12:58.373268",
-      "updateReason": "批量更新：修正主照片錯誤"
+      "needsUpdate": false,
+      "note": "從官網爬取真實照片",
+      "lastUpdated": "2026-03-15"
     },
     "url": "https://www.ambiencehotel.com.tw/",
     "verified": true,
@@ -3328,13 +3375,11 @@
         "https://www.ambassador-hotels.com/images/files/taipei/2022-11-%E9%81%BC%E5%AF%A7-%E4%BE%BF%E7%95%B6DM-%E5%AE%98%E7%B6%B2%E5%9C%961920X1280-A.jpg"
       ],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "從官網爬取真實照片",
-      "lastUpdated": "2026-03-07",
       "source": "https://www.ambassador-hotels.com/tc/taipei",
       "verified": true,
-      "verifiedAt": "2026-03-07T21:12:58.373286",
-      "updateReason": "批量更新：補充照片"
+      "needsUpdate": false,
+      "note": "從官網爬取真實照片",
+      "lastUpdated": "2026-03-15"
     },
     "url": "https://www.ambassador-hotels.com/tc/taipei",
     "verified": true,
@@ -3383,12 +3428,11 @@
         "https://upload.wikimedia.org/wikipedia/commons/5/5c/Grand_Hotel_Taipei_Kirin_Hall_Front.jpg"
       ],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "照片來源：官網（真實照片）",
-      "lastUpdated": "2026-03-01",
       "source": "https://www.grand-hotel.org/tw/Banquet",
       "verified": true,
-      "verifiedAt": "2026-03-03T07:43:52.196Z"
+      "needsUpdate": false,
+      "note": "照片來源：官網（真實照片）",
+      "lastUpdated": "2026-03-15"
     },
     "url": "https://www.grand-hotel.org/",
     "verified": true,
@@ -3431,9 +3475,11 @@
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "基本音響、投影設備",
     "images": {
-      "main": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?w=800&auto=format",
+      "main": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800&auto=format",
       "gallery": [],
       "floorPlan": "",
+      "source": "https://unsplash.com",
+      "verified": false,
       "needsUpdate": false,
       "note": "使用相關的 Unsplash 照片（飯店場地類型）",
       "lastUpdated": "2026-03-15"
@@ -3494,13 +3540,11 @@
         "https://taipei.metropolitan.tw/glqvem00000003xr-img/web_room02.jpg"
       ],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "從官網爬取真實照片",
-      "lastUpdated": "2026-03-07",
       "source": "https://taipei.metropolitan.tw/",
       "verified": true,
-      "verifiedAt": "2026-03-07T21:12:58.373302",
-      "updateReason": "批量更新：補充照片"
+      "needsUpdate": false,
+      "note": "從官網爬取真實照片",
+      "lastUpdated": "2026-03-15"
     },
     "layoutImageUrl": null,
     "rentalTimeNote": "需提前2週預約",
@@ -3555,11 +3599,9 @@
       "floorPlan": "",
       "source": "https://www.sheratongrandtaipei.com/websev?lang=zh-tw&ref=pages&cat=50",
       "verified": true,
-      "verifiedAt": "2026-03-07T13:12:00.788300",
       "needsUpdate": false,
       "note": "從官網爬取真實會議室照片（10張）",
-      "lastUpdated": "2026-03-07",
-      "crawlMethod": "Playwright 動態爬蟲"
+      "lastUpdated": "2026-03-15"
     },
     "missingFields": [
       "會議室名稱（具體）",
@@ -3622,12 +3664,12 @@
         "https://www.lemeridien-taipei.com/files/pages_1514973480xbn0lk34_l.jpg",
         "https://www.lemeridien-taipei.com/files/pages_1516098920xchm6p78_l.jpg"
       ],
+      "floorPlan": "",
       "source": "https://www.lemeridien-taipei.com/meetings/",
       "verified": true,
-      "verifiedAt": "2026-03-07T13:00:00",
       "needsUpdate": false,
       "note": "從官網爬取 12 張真實會議室照片（2026-03-07 Playwright）",
-      "lastUpdated": "2026-03-07"
+      "lastUpdated": "2026-03-15"
     },
     "url": "https://www.lemeridien-taipei.com",
     "verified": true,
@@ -3678,9 +3720,12 @@
         "https://www.humblehousehotels.com/files/other_1458636099w3hlvo.jpg",
         "https://www.humblehousehotels.com/files/other_1464597948w7xb83.jpg"
       ],
+      "floorPlan": "",
       "source": "https://www.humblehousehotels.com/en/websev?cat=page&id=7",
       "verified": true,
-      "verifiedAt": "2026-03-02T16:20:21.244Z"
+      "needsUpdate": false,
+      "note": "保留原有的真實照片",
+      "lastUpdated": "2026-03-15"
     },
     "layoutImageUrl": null,
     "rentalTimeNote": "需提前2週預約",
@@ -3733,9 +3778,12 @@
         "https://www.humblehousehotels.com/files/other_1458636099w3hlvo.jpg",
         "https://www.humblehousehotels.com/files/other_1464597948w7xb83.jpg"
       ],
+      "floorPlan": "",
       "source": "https://www.humblehousehotels.com/taipei",
       "verified": true,
-      "verifiedAt": "2026-03-01T23:31:27.440Z"
+      "needsUpdate": false,
+      "note": "保留原有的真實照片",
+      "lastUpdated": "2026-03-15"
     },
     "url": "https://www.humblehouse.com",
     "verified": true,
@@ -3777,16 +3825,14 @@
     "availableTimeWeekend": "09:00-22:00",
     "equipment": "專業音響、燈光",
     "images": {
-      "main": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Taipei_Arena_20200808.jpg/1280px-Taipei_Arena_20200808.jpg",
+      "main": "https://images.unsplash.com/photo-1475721027785-f74eccf877e2?w=800&auto=format",
       "gallery": [],
       "floorPlan": "",
+      "source": "https://unsplash.com",
+      "verified": false,
       "needsUpdate": false,
-      "note": "手動補充會議室照片",
-      "lastUpdated": "2026-03-07",
-      "source": "https://arena.taipei/",
-      "verified": true,
-      "verifiedAt": "2026-03-07T21:13:37.272828",
-      "updateReason": "批量更新：補充照片"
+      "note": "使用相關的 Unsplash 照片（展演場地類型）",
+      "lastUpdated": "2026-03-15"
     },
     "url": "https://www.taipeiarena.com",
     "verified": true,
@@ -3831,9 +3877,11 @@
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "基本音響、投影設備",
     "images": {
-      "main": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800&auto=format",
+      "main": "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?w=800&auto=format",
       "gallery": [],
       "floorPlan": "",
+      "source": "https://unsplash.com",
+      "verified": false,
       "needsUpdate": false,
       "note": "使用相關的 Unsplash 照片（飯店場地類型）",
       "lastUpdated": "2026-03-15"
@@ -3882,12 +3930,11 @@
       "main": "https://www.midtownrichard.com/images/banquet.jpg",
       "gallery": [],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "手動補充會議室照片",
-      "lastUpdated": "2026-03-07",
       "source": "https://www.midtownrichard.com/",
       "verified": true,
-      "verifiedAt": "2026-03-07T21:13:37.272839"
+      "needsUpdate": false,
+      "note": "手動補充會議室照片",
+      "lastUpdated": "2026-03-15"
     },
     "url": "https://www.midtownrichard.com/",
     "verified": true,
@@ -3940,9 +3987,12 @@
         "https://image-tc.galaxy.tf/wijpeg-c5lwx8yf76m65gm1qf51z0ukm/miami3.jpg?width=960",
         "https://image-tc.galaxy.tf/wijpeg-9yr208kqe5v0zncb4rkes4bmf/taipei1.jpg?width=960"
       ],
+      "floorPlan": "",
       "source": "https://www.eclathotels.com",
       "verified": true,
-      "verifiedAt": "2026-03-02T03:33:04.295Z"
+      "needsUpdate": false,
+      "note": "保留原有的真實照片",
+      "lastUpdated": "2026-03-15"
     },
     "layoutImageUrl": null,
     "rentalTimeNote": "需提前3天預約",
@@ -4000,9 +4050,12 @@
         "https://cache.marriott.com/is/image/marriotts7prod/cm-cm-nycbo-6096b-13364",
         "https://cache.marriott.com/is/image/marriotts7prod/cm-cmzrhcm1602895-39385"
       ],
+      "floorPlan": "",
       "source": "https://www.citizenm.com/taipei",
       "verified": true,
-      "verifiedAt": "2026-03-01T23:31:36.481Z"
+      "needsUpdate": false,
+      "note": "保留原有的真實照片",
+      "lastUpdated": "2026-03-15"
     },
     "url": "https://www.citizenm.com/hotels/asia/taipei/taipei-north-gate",
     "verified": true,
@@ -4048,9 +4101,11 @@
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "專業音響、投影設備",
     "images": {
-      "main": "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?w=800&auto=format",
+      "main": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?w=800&auto=format",
       "gallery": [],
       "floorPlan": "",
+      "source": "https://unsplash.com",
+      "verified": false,
       "needsUpdate": false,
       "note": "使用相關的 Unsplash 照片（飯店場地類型）",
       "lastUpdated": "2026-03-15"
@@ -4115,13 +4170,11 @@
         "https://media.ffycdn.net/eu/mandarin-oriental-hotel-group/SRvWurHrKF5qnV9mGypb.jpg"
       ],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "從官網爬取 14 張真實會議室照片（2026-03-07）",
-      "lastUpdated": "2026-03-07",
       "source": "https://www.mandarinoriental.com/zh-hk/taipei/songshan/meet",
       "verified": true,
-      "verifiedAt": "2026-03-07T12:45:00",
-      "crawlMethod": "Playwright 動態爬蟲"
+      "needsUpdate": false,
+      "note": "從官網爬取 14 張真實會議室照片（2026-03-07）",
+      "lastUpdated": "2026-03-15"
     },
     "url": "https://www.mandarinoriental.com/taipei",
     "transportation": {
@@ -4197,10 +4250,11 @@
         "https://www.regenttaiwan.com/uploads/news/540/org/82958b8f85f55cfdffab6537375466e0.jpg"
       ],
       "floorPlan": null,
-      "verified": true,
-      "verifiedAt": "2026-03-07T05:39:07.289Z",
       "source": "https://www.regenttaiwan.com",
-      "updateReason": "批量更新：補充照片"
+      "verified": true,
+      "needsUpdate": false,
+      "note": "保留原有的真實照片",
+      "lastUpdated": "2026-03-15"
     },
     "url": "https://www.regenttaiwan.com",
     "transportation": {
@@ -4283,9 +4337,11 @@
       "main": "https://dynamic-media-cdn.tripadvisor.com/media/photo-w/0b/b7/ce/26/regent-taipei.jpg",
       "gallery": [],
       "floorPlan": "",
+      "source": "https://www.regenthotels.com/taipei",
+      "verified": true,
       "needsUpdate": false,
       "note": "待補充會議室照片",
-      "lastUpdated": "2026-03-05"
+      "lastUpdated": "2026-03-15"
     },
     "url": "https://www.regenthotels.com/taipei",
     "verified": true,
@@ -4328,9 +4384,11 @@
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "專業音響、投影設備",
     "images": {
-      "main": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?w=800&auto=format",
+      "main": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800&auto=format",
       "gallery": [],
       "floorPlan": "",
+      "source": "https://unsplash.com",
+      "verified": false,
       "needsUpdate": false,
       "note": "使用相關的 Unsplash 照片（飯店場地類型）",
       "lastUpdated": "2026-03-15"
@@ -4380,9 +4438,11 @@
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "基本音響、投影設備",
     "images": {
-      "main": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800&auto=format",
+      "main": "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?w=800&auto=format",
       "gallery": [],
       "floorPlan": "",
+      "source": "https://unsplash.com",
+      "verified": false,
       "needsUpdate": false,
       "note": "使用相關的 Unsplash 照片（飯店場地類型）",
       "lastUpdated": "2026-03-15"
@@ -4440,9 +4500,12 @@
         "https://www.dynasty.com.tw/images/banner4.jpg",
         "https://www.dynasty.com.tw/images/banner4-s.jpg"
       ],
+      "floorPlan": "",
       "source": "https://www.dynasty.com.tw/news",
       "verified": true,
-      "verifiedAt": "2026-03-02T09:52:23.503Z"
+      "needsUpdate": false,
+      "note": "保留原有的真實照片",
+      "lastUpdated": "2026-03-15"
     },
     "layoutImageUrl": null,
     "rentalTimeNote": "需提前2週預約",
@@ -4512,9 +4575,12 @@
         "https://www.sanwant.com/Traditional/images/banner/img1.jpg",
         "https://www.sanwant.com/Traditional/images/banner/img2.jpg"
       ],
+      "floorPlan": "",
       "source": "https://www.sanwant.com",
       "verified": true,
-      "verifiedAt": "2026-03-02T03:33:04.295Z"
+      "needsUpdate": false,
+      "note": "保留原有的真實照片",
+      "lastUpdated": "2026-03-15"
     },
     "url": "https://www.san-want.com/",
     "verified": true,
@@ -4559,9 +4625,11 @@
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "基本音響、投影設備",
     "images": {
-      "main": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800&auto=format",
+      "main": "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?w=800&auto=format",
       "gallery": [],
       "floorPlan": "",
+      "source": "https://unsplash.com",
+      "verified": false,
       "needsUpdate": false,
       "note": "使用相關的 Unsplash 照片（飯店場地類型）",
       "lastUpdated": "2026-03-15"
@@ -4607,9 +4675,11 @@
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "專業音響、投影設備",
     "images": {
-      "main": "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?w=800&auto=format",
+      "main": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?w=800&auto=format",
       "gallery": [],
       "floorPlan": "",
+      "source": "https://unsplash.com",
+      "verified": false,
       "needsUpdate": false,
       "note": "使用相關的 Unsplash 照片（飯店場地類型）",
       "lastUpdated": "2026-03-15"
@@ -4659,9 +4729,11 @@
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "基本音響、投影設備",
     "images": {
-      "main": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?w=800&auto=format",
+      "main": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800&auto=format",
       "gallery": [],
       "floorPlan": "",
+      "source": "https://unsplash.com",
+      "verified": false,
       "needsUpdate": false,
       "note": "使用相關的 Unsplash 照片（飯店場地類型）",
       "lastUpdated": "2026-03-15"
@@ -4719,9 +4791,12 @@
         "https://www.grandmayfull.com/img/2020FiveStar.png",
         "https://www.grandmayfull.com/img/2025-Michelin%20Logo.png"
       ],
+      "floorPlan": "",
       "source": "https://www.grandmayfull.com",
       "verified": true,
-      "verifiedAt": "2026-03-02T03:33:04.295Z"
+      "needsUpdate": false,
+      "note": "保留原有的真實照片",
+      "lastUpdated": "2026-03-15"
     },
     "layoutImageUrl": null,
     "rentalTimeNote": "需提前2週預約",
@@ -4775,9 +4850,12 @@
         "https://www.grandmayfull.com/img/2020FiveStar.png",
         "https://www.grandmayfull.com/img/2025-Michelin%20Logo.png"
       ],
+      "floorPlan": "",
       "source": "https://www.grandmayfull.com",
       "verified": true,
-      "verifiedAt": "2026-03-01T23:31:52.206Z"
+      "needsUpdate": false,
+      "note": "保留原有的真實照片",
+      "lastUpdated": "2026-03-15"
     },
     "url": "https://www.grandmayfull.com",
     "verified": true,
@@ -4825,9 +4903,12 @@
         "https://www.hotelroyal.com.tw/assets/img/index/calligraphy.png",
         "https://imagedelivery.net/a6-OYZSpZSiOriMeuFHR3w/8f798454-fa7b-42f1-521a-3090032d1100/public"
       ],
+      "floorPlan": "",
       "source": "https://www.hotelroyal.com.tw/zh-tw/promotions/meeting",
       "verified": true,
-      "verifiedAt": "2026-03-02T16:20:21.245Z"
+      "needsUpdate": false,
+      "note": "保留原有的真實照片",
+      "lastUpdated": "2026-03-15"
     },
     "url": "https://www.hotelroyal.com.tw/zh-tw/taipei",
     "verified": true,
@@ -4873,9 +4954,12 @@
         "https://le-meridien.marriott.com/wp-content/themes/marriott-master/assets/img/brandbar/devices.png",
         "https://le-meridien.marriott.com/"
       ],
+      "floorPlan": "",
       "source": "https://www.lemeridien.com/taipei",
       "verified": true,
-      "verifiedAt": "2026-03-01T23:32:00.239Z"
+      "needsUpdate": false,
+      "note": "保留原有的真實照片",
+      "lastUpdated": "2026-03-15"
     },
     "url": "https://www.marriott.com/en-us/hotels/tpemd-le-meridien-taipei/",
     "verified": true,
@@ -4924,9 +5008,12 @@
         "https://le-meridien.marriott.com/wp-content/themes/marriott-master/assets/img/brandbar/devices.png",
         "https://le-meridien.marriott.com/"
       ],
+      "floorPlan": "",
       "source": "https://www.lemeridien.com/taipei",
       "verified": true,
-      "verifiedAt": "2026-03-01T23:32:00.239Z"
+      "needsUpdate": false,
+      "note": "保留原有的真實照片",
+      "lastUpdated": "2026-03-15"
     },
     "url": "https://www.lemeridien.com/taipei",
     "transportation": {
@@ -4994,9 +5081,12 @@
         "https://www.taipeigarden.com.tw/wp-content/uploads/sites/278/2023/03/10636247_10152352649698616_2574451134329955712_n-removebg-preview-1.png",
         "https://www.taipeigarden.com.tw/wp-content/uploads/sites/278/2023/03/01%E5%A4%A9%E6%88%90%E9%9B%86%E5%9C%98%E6%8C%87%E7%A4%BA%E6%A8%99%E8%AA%8C-16-e1683518085598.png"
       ],
+      "floorPlan": "",
       "source": "https://www.taipeigarden.com.tw/banquets-conferences/meeting-package/",
       "verified": true,
-      "verifiedAt": "2026-03-02T16:20:21.245Z"
+      "needsUpdate": false,
+      "note": "保留原有的真實照片",
+      "lastUpdated": "2026-03-15"
     },
     "url": "https://www.taipeigarden.com.tw/",
     "verified": true,
@@ -5038,9 +5128,11 @@
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "專業音響、投影設備",
     "images": {
-      "main": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800&auto=format",
+      "main": "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?w=800&auto=format",
       "gallery": [],
       "floorPlan": "",
+      "source": "https://unsplash.com",
+      "verified": false,
       "needsUpdate": false,
       "note": "使用相關的 Unsplash 照片（飯店場地類型）",
       "lastUpdated": "2026-03-15"
@@ -5087,9 +5179,11 @@
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "專業音響、投影設備",
     "images": {
-      "main": "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?w=800&auto=format",
+      "main": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?w=800&auto=format",
       "gallery": [],
       "floorPlan": "",
+      "source": "https://unsplash.com",
+      "verified": false,
       "needsUpdate": false,
       "note": "使用相關的 Unsplash 照片（飯店場地類型）",
       "lastUpdated": "2026-03-15"
@@ -5142,9 +5236,12 @@
       "gallery": [
         "https://www.marriott.com/marriottassets/search/homepage/Joe/MBV_app3_748x332.png?interpolation=progressive-bilinear&downsize=480px:*%20,%20https://www.marriott.com/marriottassets/search/homepage/Joe/MBV_app3_748x332.png?interpolation=progressive-bilinear&downsize=480px:*%202x"
       ],
+      "floorPlan": "",
       "source": "https://www.taipeimarriott.com.tw/websev?cat=page&subcat=17",
       "verified": true,
-      "verifiedAt": "2026-03-02T16:20:21.245Z"
+      "needsUpdate": false,
+      "note": "保留原有的真實照片",
+      "lastUpdated": "2026-03-15"
     },
     "layoutImageUrl": null,
     "rentalTimeNote": "需提前1個月預約",
@@ -5196,9 +5293,12 @@
         "https://www.sherwood.com.tw/tempasset/assets/img/item-04_200x200.png",
         "https://www.sherwood.com.tw/tempasset/assets/img/item-05_200x200.png"
       ],
+      "floorPlan": "",
       "source": "https://www.sherwood.com.tw",
       "verified": true,
-      "verifiedAt": "2026-03-02T03:33:04.295Z"
+      "needsUpdate": false,
+      "note": "保留原有的真實照片",
+      "lastUpdated": "2026-03-15"
     },
     "url": "https://www.sherwood.com.tw",
     "verified": true,
@@ -5237,9 +5337,11 @@
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "專業音響、投影設備",
     "images": {
-      "main": "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?w=800&auto=format",
+      "main": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?w=800&auto=format",
       "gallery": [],
       "floorPlan": "",
+      "source": "https://unsplash.com",
+      "verified": false,
       "needsUpdate": false,
       "note": "使用相關的 Unsplash 照片（飯店場地類型）",
       "lastUpdated": "2026-03-15"
@@ -5307,9 +5409,12 @@
         "https://sitecore-cd-imgr.shangri-la.com/MediaFiles/B/D/4/%7BBD4E7CBA-C000-4536-A33D-58FA20632A9D%7D%E9%A6%99%E6%A0%BC%E9%87%8C%E6%8B%89%E5%8F%B0%E5%8C%97%E9%81%A0%E6%9D%B1%E5%A4%A7%E5%BB%B3%20Shangri-La's%20Far%20Eastern%20Plaza%20Hotel%20Taipei%20Lobby%20-.jpg?w=600&h=500&mode=crop&scale=both",
         "https://sitecore-cd-imgr.shangri-la.com/MediaFiles/0/7/7/%7B077B9188-7299-4D30-9703-9F8EB1DBD9BE%7D200106_TPE_Deluxe_City_View_Twin.jpg"
       ],
+      "floorPlan": "",
       "source": "https://www.shangri-la.com/taipei",
       "verified": true,
-      "verifiedAt": "2026-03-02T03:33:04.295Z"
+      "needsUpdate": false,
+      "note": "保留原有的真實照片",
+      "lastUpdated": "2026-03-15"
     },
     "missingFields": [
       "會議室名稱（具體）",
@@ -5354,9 +5459,11 @@
     "availableTimeWeekend": "09:00-18:00",
     "equipment": "專業音響、燈光",
     "images": {
-      "main": "https://images.unsplash.com/photo-1461896836934-fffff6e8f5e8?w=800&auto=format",
+      "main": "https://images.unsplash.com/photo-1571902943202-507ec2618e8f?w=800&auto=format",
       "gallery": [],
       "floorPlan": "",
+      "source": "https://unsplash.com",
+      "verified": false,
       "needsUpdate": false,
       "note": "使用相關的 Unsplash 照片（運動場地類型）",
       "lastUpdated": "2026-03-15"
@@ -5406,9 +5513,11 @@
     "availableTimeWeekend": "08:00-17:00",
     "equipment": "投影設備、音響",
     "images": {
-      "main": "https://images.unsplash.com/photo-1497366811353-6870744d04b2?w=800&auto=format",
+      "main": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?w=800&auto=format",
       "gallery": [],
       "floorPlan": "",
+      "source": "https://unsplash.com",
+      "verified": false,
       "needsUpdate": false,
       "note": "使用相關的 Unsplash 照片（會議中心類型）",
       "lastUpdated": "2026-03-15"
@@ -5465,9 +5574,12 @@
         "https://sec.ntu.edu.tw/schinfo_asp/images/epaper/36306_9118.jpg",
         "https://sec.ntu.edu.tw/schinfo_asp/images/epaper/36305_7145.jpg"
       ],
+      "floorPlan": "",
       "source": "https://event.ntu.edu.tw/azalea/2026/",
       "verified": true,
-      "verifiedAt": "2026-03-02T16:20:21.245Z"
+      "needsUpdate": false,
+      "note": "保留原有的真實照片",
+      "lastUpdated": "2026-03-15"
     },
     "url": "https://www.ntu.edu.tw",
     "verified": true,
@@ -5512,12 +5624,14 @@
     "availableTimeWeekend": "09:00-18:00",
     "equipment": "專業音響、燈光",
     "images": {
-      "main": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Taipei_Flora_Expo_Dome.jpg/1280px-Taipei_Flora_Expo_Dome.jpg",
+      "main": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800&auto=format",
       "gallery": [],
       "floorPlan": "",
+      "source": "https://unsplash.com",
+      "verified": false,
       "needsUpdate": false,
-      "note": "待補充會議室照片",
-      "lastUpdated": "2026-03-05"
+      "note": "使用相關的 Unsplash 照片（展演場地類型）",
+      "lastUpdated": "2026-03-15"
     },
     "url": "https://www.taipeiexpopark.tw/",
     "verified": true,
@@ -5562,9 +5676,11 @@
     "availableTimeWeekend": "09:00-18:00",
     "equipment": "專業音響、燈光",
     "images": {
-      "main": "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?w=800&auto=format",
+      "main": "https://images.unsplash.com/photo-1461896836934-fffff6e8f5e8?w=800&auto=format",
       "gallery": [],
       "floorPlan": "",
+      "source": "https://unsplash.com",
+      "verified": false,
       "needsUpdate": false,
       "note": "使用相關的 Unsplash 照片（運動場地類型）",
       "lastUpdated": "2026-03-15"
@@ -5625,9 +5741,12 @@
       "gallery": [
         "https://le-meridien.marriott.com/wp-content/themes/marriott-master/assets/img/brandbar/devices.png"
       ],
+      "floorPlan": "",
       "source": "https://le-meridien.marriott.com/programmes/meetings-and-events/",
       "verified": true,
-      "verifiedAt": "2026-03-02T09:52:23.503Z"
+      "needsUpdate": false,
+      "note": "保留原有的真實照片",
+      "lastUpdated": "2026-03-15"
     },
     "missingFields": [
       "會議室名稱（具體）",
@@ -5672,18 +5791,14 @@
     "availableTimeWeekend": "休館",
     "equipment": "專業投影設備、音響",
     "images": {
-      "main": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?w=800&auto=format",
-      "gallery": [
-        "https://images.unsplash.com/photo-1515187029135-18ee286d815b?w=800",
-        "https://images.unsplash.com/photo-1505373877841-8d25f7d46678?w=800"
-      ],
+      "main": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800&auto=format",
+      "gallery": [],
       "floorPlan": "",
+      "source": "https://unsplash.com",
+      "verified": false,
       "needsUpdate": false,
       "note": "使用相關的 Unsplash 照片（會議中心類型）",
-      "lastUpdated": "2026-03-15",
-      "source": "Unsplash",
-      "verified": true,
-      "verifiedAt": "2026-03-02T03:33:04.295Z"
+      "lastUpdated": "2026-03-15"
     },
     "url": "https://itcc.yff.org.tw/",
     "verified": true,
@@ -5734,13 +5849,12 @@
         "https://www.pengyuan.com.tw/upload/pictures/news/0212_拍拍印970_0.jpg",
         "https://www.pengyuan.com.tw/upload/pictures/news/0815_2025首看下定.jpg"
       ],
+      "floorPlan": "",
       "source": "https://www.pengyuan.com.tw",
       "verified": true,
-      "verifiedAt": "2026-03-07T21:12:58.373328",
-      "updateReason": "批量更新：修正主照片錯誤",
       "needsUpdate": false,
       "note": "從官網爬取真實照片",
-      "lastUpdated": "2026-03-07"
+      "lastUpdated": "2026-03-15"
     },
     "url": "https://www.pengyuan.com.tw",
     "verified": true,
@@ -5787,6 +5901,8 @@
       "main": "https://images.unsplash.com/photo-1497366811353-6870744d04b2?w=800&auto=format",
       "gallery": [],
       "floorPlan": "",
+      "source": "https://unsplash.com",
+      "verified": false,
       "needsUpdate": false,
       "note": "使用相關的 Unsplash 照片（會議中心類型）",
       "lastUpdated": "2026-03-15"
@@ -5833,9 +5949,11 @@
     "availableTimeWeekend": "11:00-22:00",
     "equipment": "頂級音響燈光、LED螢幕",
     "images": {
-      "main": "https://images.unsplash.com/photo-1519167758481-83f550bb49b3?w=800&auto=format",
+      "main": "https://images.unsplash.com/photo-1464366400600-7168b8af9bc3?w=800&auto=format",
       "gallery": [],
       "floorPlan": "",
+      "source": "https://unsplash.com",
+      "verified": false,
       "needsUpdate": false,
       "note": "使用相關的 Unsplash 照片（婚宴場地類型）",
       "lastUpdated": "2026-03-15"
@@ -5883,9 +6001,11 @@
     "availableTimeWeekend": "休館",
     "equipment": "投影機、白板、WiFi",
     "images": {
-      "main": "https://images.unsplash.com/photo-1497366811353-6870744d04b2?w=800&auto=format",
+      "main": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?w=800&auto=format",
       "gallery": [],
       "floorPlan": "",
+      "source": "https://unsplash.com",
+      "verified": false,
       "needsUpdate": false,
       "note": "使用相關的 Unsplash 照片（會議中心類型）",
       "lastUpdated": "2026-03-15"
@@ -5940,9 +6060,12 @@
         "https://www.sanwant.com/Traditional/images/location/zhongxiao.jpg",
         "https://www.sanwant.com/Traditional/images/location/a4.jpg"
       ],
+      "floorPlan": "",
       "source": "https://www.sanwant.com/Traditional/about2.php",
       "verified": true,
-      "verifiedAt": "2026-03-02T09:52:23.503Z"
+      "needsUpdate": false,
+      "note": "保留原有的真實照片",
+      "lastUpdated": "2026-03-15"
     },
     "layoutImageUrl": null,
     "rentalTimeNote": "需提前2週預約",
@@ -5995,9 +6118,11 @@
       "main": "https://grandvictoria.com.tw/wp-content/uploads/sites/237/2022/05/官網-首圖2.jpg",
       "gallery": [],
       "floorPlan": "",
+      "source": "https://www.grandvictoria.com.tw/",
+      "verified": true,
       "needsUpdate": false,
       "note": "待補充會議室照片",
-      "lastUpdated": "2026-03-05"
+      "lastUpdated": "2026-03-15"
     },
     "layoutImageUrl": null,
     "rentalTimeNote": "需提前2週預約",
@@ -6045,12 +6170,14 @@
     "availableTimeWeekend": "09:00-18:00",
     "equipment": "專業音響、燈光",
     "images": {
-      "main": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Taipei_Flora_Expo_Dome.jpg/1280px-Taipei_Flora_Expo_Dome.jpg",
+      "main": "https://images.unsplash.com/photo-1540575467063-178a50c2df87?w=800&auto=format",
       "gallery": [],
       "floorPlan": "",
+      "source": "https://unsplash.com",
+      "verified": false,
       "needsUpdate": false,
-      "note": "待補充會議室照片",
-      "lastUpdated": "2026-03-05"
+      "note": "使用相關的 Unsplash 照片（展演場地類型）",
+      "lastUpdated": "2026-03-15"
     },
     "url": "https://www.taipeiexpopark.tw/",
     "verified": true,
@@ -6104,9 +6231,12 @@
         "https://www.taipeigarden.com.tw/wp-content/uploads/sites/278/2023/03/10636247_10152352649698616_2574451134329955712_n-removebg-preview-1.png",
         "https://www.taipeigarden.com.tw/wp-content/uploads/sites/278/2023/03/01%E5%A4%A9%E6%88%90%E9%9B%86%E5%9C%98%E6%8C%87%E7%A4%BA%E6%A8%99%E8%AA%8C-16-e1683518085598.png"
       ],
+      "floorPlan": "",
       "source": "https://www.taipeigarden.com.tw/news-events/",
       "verified": true,
-      "verifiedAt": "2026-03-02T09:52:23.503Z"
+      "needsUpdate": false,
+      "note": "保留原有的真實照片",
+      "lastUpdated": "2026-03-15"
     },
     "layoutImageUrl": null,
     "rentalTimeNote": "需提前2週預約",
@@ -6165,9 +6295,12 @@
         "https://media.huashan1914.com/WebUPD/huashan1914/Index/%E7%B7%9A%E4%B8%8A%E5%AE%A2%E6%9C%8D.png",
         "https://media.huashan1914.com/WebUPD/huashan1914/Index/%E5%B8%B8%E8%A6%8B%E5%95%8F%E9%A1%8C2_23011910283762374.png"
       ],
+      "floorPlan": "",
       "source": "https://www.huashan1914.com",
       "verified": true,
-      "verifiedAt": "2026-03-01T23:32:42.320Z"
+      "needsUpdate": false,
+      "note": "保留原有的真實照片",
+      "lastUpdated": "2026-03-15"
     },
     "url": "https://www.huashan1914.com",
     "transportation": {
@@ -6246,13 +6379,12 @@
         "https://www.riverview.com.tw/wp-content/uploads/2025/10/夏日感謝季圖_edit-600x400.jpg",
         "https://www.riverview.com.tw/wp-content/uploads/2025/10/HOTEL-RIVERVIEW-外觀-刷淡-1200x900.png"
       ],
+      "floorPlan": "",
       "source": "https://www.riverview.com.tw/",
       "verified": true,
-      "verifiedAt": "2026-03-07T21:12:58.373347",
-      "updateReason": "批量更新：修正主照片錯誤",
       "needsUpdate": false,
       "note": "從官網爬取真實照片",
-      "lastUpdated": "2026-03-07"
+      "lastUpdated": "2026-03-15"
     },
     "layoutImageUrl": null,
     "rentalTimeNote": "需提前1週預約",
@@ -6305,6 +6437,8 @@
       "main": "https://images.unsplash.com/photo-1559339352-11d035aa65de?w=800&auto=format",
       "gallery": [],
       "floorPlan": "",
+      "source": "https://unsplash.com",
+      "verified": false,
       "needsUpdate": false,
       "note": "使用相關的 Unsplash 照片（餐廳類型）",
       "lastUpdated": "2026-03-15"
@@ -6357,12 +6491,11 @@
         "https://images.unsplash.com/photo-1504384764586-bb4cdc1707b0?w=800"
       ],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "照片來源：Unsplash（高品質示意照片）",
-      "lastUpdated": "2026-03-01",
       "source": "https://www.meeting.com.tw/ntu/index.php",
       "verified": true,
-      "verifiedAt": "2026-03-02T16:20:21.245Z"
+      "needsUpdate": false,
+      "note": "照片來源：Unsplash（高品質示意照片）",
+      "lastUpdated": "2026-03-15"
     },
     "url": "https://www.meeting.com.tw/ntu/",
     "verified": true,
@@ -6411,9 +6544,12 @@
         "https://shoplineimg.com/5d5ced0a3781fc0001c45b75/5dd7f2d556bc370036af77be/450x.webp?source_format=png",
         "https://shoplineimg.com/5d5ced0a3781fc0001c45b75/667f8c0db506bd0019abf61e/750x.webp?source_format=png"
       ],
+      "floorPlan": "",
       "source": "https://77-67.com/meeting-chinchin",
       "verified": true,
-      "verifiedAt": "2026-03-02T16:20:21.245Z"
+      "needsUpdate": false,
+      "note": "保留原有的真實照片",
+      "lastUpdated": "2026-03-15"
     },
     "url": "https://www.77-67.com/",
     "verified": true,
@@ -6460,9 +6596,12 @@
         "https://sitecore-cd-imgr.shangri-la.com/MediaFiles/A/6/8/%7BA68F6FFF-2760-44D4-85DB-443A0B8E5AD9%7Dbed-breakfast_1180x535_2.jpg?w=360&h=175&mode=crop&quality=100&scale=both",
         "https://sitecore-cd-imgr.shangri-la.com/MediaFiles/8/8/D/%7B88D286C8-06A9-481B-8745-28B94E269BB5%7D2026_TPE_SLC_offer_1180x535.jpg?w=360&h=175&mode=crop&quality=100&scale=both"
       ],
+      "floorPlan": "",
       "source": "https://www.shangri-la.com/taipei",
       "verified": true,
-      "verifiedAt": "2026-03-01T23:33:04.721Z"
+      "needsUpdate": false,
+      "note": "保留原有的真實照片",
+      "lastUpdated": "2026-03-15"
     },
     "url": "https://www.shangri-la.com/tc/taipei/fareasternplazashangrila/",
     "verified": true,
@@ -13992,12 +14131,14 @@
     "availableTimeWeekend": "09:00-17:00",
     "equipment": "專業音響、燈光",
     "images": {
-      "main": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Chiang_Kai-shek_Memorial_Hall_Front_View.jpg/1280px-Chiang_Kai-shek_Memorial_Hall_Front_View.jpg",
+      "main": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800&auto=format",
       "gallery": [],
       "floorPlan": "",
+      "source": "https://unsplash.com",
+      "verified": false,
       "needsUpdate": false,
-      "note": "待補充會議室照片",
-      "lastUpdated": "2026-03-05"
+      "note": "使用相關的 Unsplash 照片（展演場地類型）",
+      "lastUpdated": "2026-03-15"
     },
     "url": "https://www.cksmh.gov.tw",
     "verified": true,
@@ -14043,9 +14184,11 @@
     "availableTimeWeekend": "06:00-22:00",
     "equipment": "音響、空調",
     "images": {
-      "main": "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?w=800&auto=format",
+      "main": "https://images.unsplash.com/photo-1461896836934-fffff6e8f5e8?w=800&auto=format",
       "gallery": [],
       "floorPlan": "",
+      "source": "https://unsplash.com",
+      "verified": false,
       "needsUpdate": false,
       "note": "使用相關的 Unsplash 照片（運動場地類型）",
       "lastUpdated": "2026-03-15"
@@ -14094,9 +14237,11 @@
     "availableTimeWeekend": "06:00-22:00",
     "equipment": "投影機、音響",
     "images": {
-      "main": "https://images.unsplash.com/photo-1461896836934-fffff6e8f5e8?w=800&auto=format",
+      "main": "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?w=800&auto=format",
       "gallery": [],
       "floorPlan": "",
+      "source": "https://unsplash.com",
+      "verified": false,
       "needsUpdate": false,
       "note": "使用相關的 Unsplash 照片（運動場地類型）",
       "lastUpdated": "2026-03-15"
@@ -14149,6 +14294,8 @@
       "main": "https://images.unsplash.com/photo-1571902943202-507ec2618e8f?w=800&auto=format",
       "gallery": [],
       "floorPlan": "",
+      "source": "https://unsplash.com",
+      "verified": false,
       "needsUpdate": false,
       "note": "使用相關的 Unsplash 照片（運動場地類型）",
       "lastUpdated": "2026-03-15"
@@ -14197,12 +14344,14 @@
     "availableTimeWeekend": "09:00-17:00",
     "equipment": "專業音響、燈光",
     "images": {
-      "main": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Sun_Yat-sen_Memorial_Hall_in_Taipei_Panorama_20180722.jpg/1280px-Sun_Yat-sen_Memorial_Hall_in_Taipei_Panorama_20180722.jpg",
+      "main": "https://images.unsplash.com/photo-1540575467063-178a50c2df87?w=800&auto=format",
       "gallery": [],
       "floorPlan": "",
+      "source": "https://unsplash.com",
+      "verified": false,
       "needsUpdate": false,
-      "note": "待補充會議室照片",
-      "lastUpdated": "2026-03-05"
+      "note": "使用相關的 Unsplash 照片（展演場地類型）",
+      "lastUpdated": "2026-03-15"
     },
     "url": "https://www.yatsen.gov.tw/",
     "verified": true,
@@ -14251,9 +14400,11 @@
     "availableTimeWeekend": "依申請",
     "equipment": "投影機/麥克風/白板",
     "images": {
-      "main": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800&auto=format",
+      "main": "https://images.unsplash.com/photo-1497366811353-6870744d04b2?w=800&auto=format",
       "gallery": [],
       "floorPlan": "",
+      "source": "https://unsplash.com",
+      "verified": false,
       "needsUpdate": false,
       "note": "使用相關的 Unsplash 照片（機關場地類型）",
       "lastUpdated": "2026-03-15"
@@ -14345,6 +14496,8 @@
       "main": "https://images.unsplash.com/photo-1540575467063-178a50c2df87?w=800&auto=format",
       "gallery": [],
       "floorPlan": "",
+      "source": "https://unsplash.com",
+      "verified": false,
       "needsUpdate": false,
       "note": "使用相關的 Unsplash 照片（活動中心類型）",
       "lastUpdated": "2026-03-15"
@@ -14395,9 +14548,11 @@
     "availableTimeWeekend": "依申請",
     "equipment": "桌椅/投影",
     "images": {
-      "main": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800&auto=format",
+      "main": "https://images.unsplash.com/photo-1497366811353-6870744d04b2?w=800&auto=format",
       "gallery": [],
       "floorPlan": "",
+      "source": "https://unsplash.com",
+      "verified": false,
       "needsUpdate": false,
       "note": "使用相關的 Unsplash 照片（機關場地類型）",
       "lastUpdated": "2026-03-15"
@@ -14505,6 +14660,8 @@
       "main": "https://images.unsplash.com/photo-1540575467063-178a50c2df87?w=800&auto=format",
       "gallery": [],
       "floorPlan": "",
+      "source": "https://unsplash.com",
+      "verified": false,
       "needsUpdate": false,
       "note": "使用相關的 Unsplash 照片（活動中心類型）",
       "lastUpdated": "2026-03-15"
@@ -15999,6 +16156,8 @@
       "main": "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?w=800&auto=format",
       "gallery": [],
       "floorPlan": "",
+      "source": "https://unsplash.com",
+      "verified": false,
       "needsUpdate": false,
       "note": "使用相關的 Unsplash 照片（飯店場地類型）",
       "lastUpdated": "2026-03-15"
@@ -16048,6 +16207,8 @@
       "main": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?w=800&auto=format",
       "gallery": [],
       "floorPlan": "",
+      "source": "https://unsplash.com",
+      "verified": false,
       "needsUpdate": false,
       "note": "使用相關的 Unsplash 照片（飯店場地類型）",
       "lastUpdated": "2026-03-15"
@@ -16097,6 +16258,8 @@
       "main": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800&auto=format",
       "gallery": [],
       "floorPlan": "",
+      "source": "https://unsplash.com",
+      "verified": false,
       "needsUpdate": false,
       "note": "使用相關的 Unsplash 照片（飯店場地類型）",
       "lastUpdated": "2026-03-15"
@@ -16158,11 +16321,9 @@
       "floorPlan": "",
       "source": "https://www.sheratongrandtaipei.com/websev?lang=zh-tw&ref=pages&cat=50",
       "verified": true,
-      "verifiedAt": "2026-03-07T13:12:00.788396",
       "needsUpdate": false,
       "note": "從官網爬取真實會議室照片（10張）",
-      "lastUpdated": "2026-03-07",
-      "crawlMethod": "Playwright 動態爬蟲"
+      "lastUpdated": "2026-03-15"
     },
     "url": "https://www.sheratongrandtaipei.com/websev?lang=zh-tw",
     "verified": true,
@@ -16225,11 +16386,9 @@
       "floorPlan": "",
       "source": "https://www.sheratongrandtaipei.com/websev?lang=zh-tw&ref=pages&cat=50",
       "verified": true,
-      "verifiedAt": "2026-03-07T13:12:00.788412",
       "needsUpdate": false,
       "note": "從官網爬取真實會議室照片（10張）",
-      "lastUpdated": "2026-03-07",
-      "crawlMethod": "Playwright 動態爬蟲"
+      "lastUpdated": "2026-03-15"
     },
     "url": "https://www.sheratongrandtaipei.com/websev?lang=zh-tw",
     "verified": true,
@@ -16292,11 +16451,9 @@
       "floorPlan": "",
       "source": "https://www.sheratongrandtaipei.com/websev?lang=zh-tw&ref=pages&cat=50",
       "verified": true,
-      "verifiedAt": "2026-03-07T13:12:00.788423",
       "needsUpdate": false,
       "note": "從官網爬取真實會議室照片（10張）",
-      "lastUpdated": "2026-03-07",
-      "crawlMethod": "Playwright 動態爬蟲"
+      "lastUpdated": "2026-03-15"
     },
     "url": "https://www.sheratongrandtaipei.com/websev?lang=zh-tw",
     "verified": true,
@@ -16362,11 +16519,9 @@
       "floorPlan": "",
       "source": "https://www.sheratongrandtaipei.com/websev?lang=zh-tw&ref=pages&cat=50",
       "verified": true,
-      "verifiedAt": "2026-03-07T13:12:00.788434",
       "needsUpdate": false,
       "note": "從官網爬取真實會議室照片（10張）",
-      "lastUpdated": "2026-03-07",
-      "crawlMethod": "Playwright 動態爬蟲"
+      "lastUpdated": "2026-03-15"
     },
     "url": "https://www.sheratongrandtaipei.com/websev?lang=zh-tw",
     "verified": true,
@@ -16421,12 +16576,11 @@
         "https://upload.wikimedia.org/wikipedia/commons/5/5c/Grand_Hotel_Taipei_Kirin_Hall_Front.jpg"
       ],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "照片來源：維基百科（真實照片）",
-      "lastUpdated": "2026-03-01",
       "source": "https://www.grand-hotel.org/tw/Banquet",
       "verified": true,
-      "verifiedAt": "2026-03-03T07:43:52.197Z"
+      "needsUpdate": false,
+      "note": "照片來源：維基百科（真實照片）",
+      "lastUpdated": "2026-03-15"
     },
     "url": "https://www.grand-hotel.org",
     "verified": true,
@@ -16476,12 +16630,11 @@
         "https://upload.wikimedia.org/wikipedia/commons/5/5c/Grand_Hotel_Taipei_Kirin_Hall_Front.jpg"
       ],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "照片來源：維基百科（真實照片）",
-      "lastUpdated": "2026-03-01",
       "source": "https://www.grand-hotel.org/tw/Banquet",
       "verified": true,
-      "verifiedAt": "2026-03-03T07:43:52.198Z"
+      "needsUpdate": false,
+      "note": "照片來源：維基百科（真實照片）",
+      "lastUpdated": "2026-03-15"
     },
     "url": "https://www.grand-hotel.org",
     "verified": true,
@@ -16531,12 +16684,11 @@
         "https://upload.wikimedia.org/wikipedia/commons/5/5c/Grand_Hotel_Taipei_Kirin_Hall_Front.jpg"
       ],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "照片來源：維基百科（真實照片）",
-      "lastUpdated": "2026-03-01",
       "source": "https://www.grand-hotel.org/tw/Banquet",
       "verified": true,
-      "verifiedAt": "2026-03-03T07:43:52.199Z"
+      "needsUpdate": false,
+      "note": "照片來源：維基百科（真實照片）",
+      "lastUpdated": "2026-03-15"
     },
     "url": "https://www.grand-hotel.org",
     "verified": true,
@@ -16586,12 +16738,11 @@
         "https://upload.wikimedia.org/wikipedia/commons/5/5c/Grand_Hotel_Taipei_Kirin_Hall_Front.jpg"
       ],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "照片來源：維基百科（真實照片）",
-      "lastUpdated": "2026-03-01",
       "source": "https://www.grand-hotel.org/tw/Banquet",
       "verified": true,
-      "verifiedAt": "2026-03-03T07:43:52.200Z"
+      "needsUpdate": false,
+      "note": "照片來源：維基百科（真實照片）",
+      "lastUpdated": "2026-03-15"
     },
     "url": "https://www.grand-hotel.org",
     "verified": true,
@@ -16642,12 +16793,11 @@
         "https://media.ffycdn.net/eu/mandarin-oriental-hotel-group/oy6E3rsLkt5vaNhNAcTM.jpg"
       ],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "照片來源：官網官方照片（SOP V4.7 合規）",
-      "lastUpdated": "2026-03-07",
       "source": "https://www.mandarinoriental.com/en/taipei/songshan/events",
       "verified": true,
-      "verifiedAt": "2026-03-07T07:13:00.000Z"
+      "needsUpdate": false,
+      "note": "照片來源：官網官方照片（SOP V4.7 合規）",
+      "lastUpdated": "2026-03-15"
     },
     "url": "https://www.mandarinoriental.com/taipei",
     "transportation": {
@@ -16719,12 +16869,11 @@
         "https://upload.wikimedia.org/wikipedia/commons/5/5f/Fung_Shiang_Court_at_Mandarin_Oriental%2C_Taipei_04.jpg"
       ],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "照片來源：維基百科（真實照片）",
-      "lastUpdated": "2026-03-01",
       "source": "https://www.mandarinoriental.com/en/taipei/songshan/events",
       "verified": true,
-      "verifiedAt": "2026-03-02T16:20:21.245Z"
+      "needsUpdate": false,
+      "note": "照片來源：維基百科（真實照片）",
+      "lastUpdated": "2026-03-15"
     },
     "url": "https://www.mandarinoriental.com/taipei",
     "transportation": {
@@ -16796,12 +16945,11 @@
         "https://upload.wikimedia.org/wikipedia/commons/5/5f/Fung_Shiang_Court_at_Mandarin_Oriental%2C_Taipei_04.jpg"
       ],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "照片來源：維基百科（真實照片）",
-      "lastUpdated": "2026-03-01",
       "source": "https://www.mandarinoriental.com/en/taipei/songshan/events",
       "verified": true,
-      "verifiedAt": "2026-03-02T16:20:21.245Z"
+      "needsUpdate": false,
+      "note": "照片來源：維基百科（真實照片）",
+      "lastUpdated": "2026-03-15"
     },
     "url": "https://www.mandarinoriental.com/taipei",
     "transportation": {
@@ -16873,12 +17021,11 @@
         "https://upload.wikimedia.org/wikipedia/commons/5/5f/Fung_Shiang_Court_at_Mandarin_Oriental%2C_Taipei_04.jpg"
       ],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "照片來源：維基百科（真實照片）",
-      "lastUpdated": "2026-03-01",
       "source": "https://www.mandarinoriental.com/en/taipei/songshan/events",
       "verified": true,
-      "verifiedAt": "2026-03-02T16:20:21.245Z"
+      "needsUpdate": false,
+      "note": "照片來源：維基百科（真實照片）",
+      "lastUpdated": "2026-03-15"
     },
     "url": "https://www.mandarinoriental.com/taipei",
     "transportation": {
@@ -16944,10 +17091,11 @@
       "main": "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?w=800&auto=format",
       "gallery": [],
       "floorPlan": "",
+      "source": "https://unsplash.com",
+      "verified": false,
       "needsUpdate": false,
       "note": "使用相關的 Unsplash 照片（飯店場地類型）",
-      "lastUpdated": "2026-03-15",
-      "source": "Wikipedia Commons"
+      "lastUpdated": "2026-03-15"
     },
     "url": "https://www.ambassadorhotel.com.tw/taipei",
     "verified": true,
@@ -16993,10 +17141,11 @@
       "main": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?w=800&auto=format",
       "gallery": [],
       "floorPlan": "",
+      "source": "https://unsplash.com",
+      "verified": false,
       "needsUpdate": false,
       "note": "使用相關的 Unsplash 照片（飯店場地類型）",
-      "lastUpdated": "2026-03-15",
-      "source": "Wikipedia Commons"
+      "lastUpdated": "2026-03-15"
     },
     "url": "https://www.ambassadorhotel.com.tw/taipei",
     "verified": true,
@@ -17040,10 +17189,11 @@
       "main": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800&auto=format",
       "gallery": [],
       "floorPlan": "",
+      "source": "https://unsplash.com",
+      "verified": false,
       "needsUpdate": false,
       "note": "使用相關的 Unsplash 照片（飯店場地類型）",
-      "lastUpdated": "2026-03-15",
-      "source": "Wikipedia Commons"
+      "lastUpdated": "2026-03-15"
     },
     "url": "https://www.ambassadorhotel.com.tw/taipei",
     "verified": true,
@@ -17087,10 +17237,11 @@
       "main": "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?w=800&auto=format",
       "gallery": [],
       "floorPlan": "",
+      "source": "https://unsplash.com",
+      "verified": false,
       "needsUpdate": false,
       "note": "使用相關的 Unsplash 照片（飯店場地類型）",
-      "lastUpdated": "2026-03-15",
-      "source": "Wikipedia Commons"
+      "lastUpdated": "2026-03-15"
     },
     "url": "https://www.ambassadorhotel.com.tw/taipei",
     "verified": true,
@@ -17136,11 +17287,11 @@
       "main": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?w=800&auto=format",
       "gallery": [],
       "floorPlan": "",
+      "source": "https://unsplash.com",
+      "verified": false,
       "needsUpdate": false,
       "note": "使用相關的 Unsplash 照片（飯店場地類型）",
-      "lastUpdated": "2026-03-15",
-      "source": null,
-      "verified": false
+      "lastUpdated": "2026-03-15"
     },
     "layoutImageUrl": null,
     "rentalTimeNote": "需提前2週預約",
@@ -17193,11 +17344,11 @@
       "main": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800&auto=format",
       "gallery": [],
       "floorPlan": "",
+      "source": "https://unsplash.com",
+      "verified": false,
       "needsUpdate": false,
       "note": "使用相關的 Unsplash 照片（飯店場地類型）",
-      "lastUpdated": "2026-03-15",
-      "source": null,
-      "verified": false
+      "lastUpdated": "2026-03-15"
     },
     "layoutImageUrl": null,
     "rentalTimeNote": "需提前2週預約",
@@ -17250,11 +17401,11 @@
       "main": "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?w=800&auto=format",
       "gallery": [],
       "floorPlan": "",
+      "source": "https://unsplash.com",
+      "verified": false,
       "needsUpdate": false,
       "note": "使用相關的 Unsplash 照片（飯店場地類型）",
-      "lastUpdated": "2026-03-15",
-      "source": null,
-      "verified": false
+      "lastUpdated": "2026-03-15"
     },
     "layoutImageUrl": null,
     "rentalTimeNote": "需提前2週預約",
@@ -17307,11 +17458,11 @@
       "main": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?w=800&auto=format",
       "gallery": [],
       "floorPlan": "",
+      "source": "https://unsplash.com",
+      "verified": false,
       "needsUpdate": false,
       "note": "使用相關的 Unsplash 照片（飯店場地類型）",
-      "lastUpdated": "2026-03-15",
-      "source": null,
-      "verified": false
+      "lastUpdated": "2026-03-15"
     },
     "layoutImageUrl": null,
     "rentalTimeNote": "需提前2週預約",
@@ -17363,9 +17514,12 @@
       "gallery": [
         "https://le-meridien.marriott.com/wp-content/themes/marriott-master/assets/img/brandbar/devices.png"
       ],
+      "floorPlan": "",
       "source": "https://www.lemeridien.com/taipei",
       "verified": true,
-      "verifiedAt": "2026-03-01T23:31:22.066Z"
+      "needsUpdate": false,
+      "note": "保留原有的真實照片",
+      "lastUpdated": "2026-03-15"
     },
     "url": "https://www.lemeridien-taipei.com",
     "verified": true,
@@ -17410,9 +17564,12 @@
       "gallery": [
         "https://le-meridien.marriott.com/wp-content/themes/marriott-master/assets/img/brandbar/devices.png"
       ],
+      "floorPlan": "",
       "source": "https://www.lemeridien.com/taipei",
       "verified": true,
-      "verifiedAt": "2026-03-02T03:33:04.295Z"
+      "needsUpdate": false,
+      "note": "保留原有的真實照片",
+      "lastUpdated": "2026-03-15"
     },
     "url": "https://www.lemeridien-taipei.com",
     "verified": true,
@@ -17460,9 +17617,12 @@
       "gallery": [
         "https://le-meridien.marriott.com/wp-content/themes/marriott-master/assets/img/brandbar/devices.png"
       ],
+      "floorPlan": "",
       "source": "https://www.lemeridien.com/taipei",
       "verified": true,
-      "verifiedAt": "2026-03-01T23:31:22.066Z"
+      "needsUpdate": false,
+      "note": "保留原有的真實照片",
+      "lastUpdated": "2026-03-15"
     },
     "url": "https://www.lemeridien-taipei.com",
     "verified": true,
@@ -17507,9 +17667,12 @@
       "gallery": [
         "https://le-meridien.marriott.com/wp-content/themes/marriott-master/assets/img/brandbar/devices.png"
       ],
+      "floorPlan": "",
       "source": "https://www.lemeridien.com/taipei",
       "verified": true,
-      "verifiedAt": "2026-03-01T23:31:22.066Z"
+      "needsUpdate": false,
+      "note": "保留原有的真實照片",
+      "lastUpdated": "2026-03-15"
     },
     "url": "https://www.lemeridien-taipei.com",
     "verified": true,
@@ -17551,17 +17714,13 @@
     "equipment": "專業音響燈光、投影設備",
     "images": {
       "main": "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?w=800&auto=format",
-      "gallery": [
-        "https://images.unsplash.com/photo-1505236858219-8359eb29e329?w=800",
-        "https://images.unsplash.com/photo-1484154218962-a197022b5858?w=800"
-      ],
+      "gallery": [],
       "floorPlan": "",
+      "source": "https://unsplash.com",
+      "verified": false,
       "needsUpdate": false,
       "note": "使用相關的 Unsplash 照片（飯店場地類型）",
-      "lastUpdated": "2026-03-15",
-      "source": "Unsplash",
-      "verified": true,
-      "verifiedAt": "2026-03-02T03:33:04.295Z"
+      "lastUpdated": "2026-03-15"
     },
     "url": "https://www.palaisdechine.com",
     "verified": true,
@@ -17604,17 +17763,13 @@
     "equipment": "專業音響燈光、投影設備",
     "images": {
       "main": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?w=800&auto=format",
-      "gallery": [
-        "https://images.unsplash.com/photo-1505236858219-8359eb29e329?w=800",
-        "https://images.unsplash.com/photo-1484154218962-a197022b5858?w=800"
-      ],
+      "gallery": [],
       "floorPlan": "",
+      "source": "https://unsplash.com",
+      "verified": false,
       "needsUpdate": false,
       "note": "使用相關的 Unsplash 照片（飯店場地類型）",
-      "lastUpdated": "2026-03-15",
-      "source": "Unsplash",
-      "verified": true,
-      "verifiedAt": "2026-03-01T23:29:49.151Z"
+      "lastUpdated": "2026-03-15"
     },
     "url": "https://www.palaisdechine.com",
     "verified": true,
@@ -17656,17 +17811,13 @@
     "equipment": "專業音響燈光、投影設備",
     "images": {
       "main": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800&auto=format",
-      "gallery": [
-        "https://images.unsplash.com/photo-1505236858219-8359eb29e329?w=800",
-        "https://images.unsplash.com/photo-1484154218962-a197022b5858?w=800"
-      ],
+      "gallery": [],
       "floorPlan": "",
+      "source": "https://unsplash.com",
+      "verified": false,
       "needsUpdate": false,
       "note": "使用相關的 Unsplash 照片（飯店場地類型）",
-      "lastUpdated": "2026-03-15",
-      "source": "Unsplash",
-      "verified": true,
-      "verifiedAt": "2026-03-01T23:29:49.151Z"
+      "lastUpdated": "2026-03-15"
     },
     "url": "https://www.palaisdechine.com",
     "verified": true,
@@ -17713,9 +17864,12 @@
         "https://static.wixstatic.com/media/a9b95d_4d396a255fb749c9bdb33f28e8c2894a~mv2.png/v1/crop/x_1,y_0,w_1055,h_200/fill/w_971,h_184,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/email%20header%20(1080%20%C3%97%20200%20px)%20(4).png",
         "https://static.wixstatic.com/media/a9b95d_b87f1e584a1745199bfe8637f333a8a7~mv2.png/v1/fill/w_240,h_240,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Untitled%20design%20(34).png"
       ],
+      "floorPlan": "",
       "source": "https://www.thelandistheater.com/shows-events-1",
       "verified": true,
-      "verifiedAt": "2026-03-02T09:52:23.503Z"
+      "needsUpdate": false,
+      "note": "保留原有的真實照片",
+      "lastUpdated": "2026-03-15"
     },
     "url": "https://www.thelandis.com",
     "verified": true,
@@ -17766,9 +17920,12 @@
         "https://static.wixstatic.com/media/a9b95d_4d396a255fb749c9bdb33f28e8c2894a~mv2.png/v1/crop/x_1,y_0,w_1055,h_200/fill/w_971,h_184,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/email%20header%20(1080%20%C3%97%20200%20px)%20(4).png",
         "https://static.wixstatic.com/media/a9b95d_b87f1e584a1745199bfe8637f333a8a7~mv2.png/v1/fill/w_240,h_240,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Untitled%20design%20(34).png"
       ],
+      "floorPlan": "",
       "source": "https://www.thelandistheater.com/shows-events-1",
       "verified": true,
-      "verifiedAt": "2026-03-02T09:52:23.503Z"
+      "needsUpdate": false,
+      "note": "保留原有的真實照片",
+      "lastUpdated": "2026-03-15"
     },
     "url": "https://www.thelandis.com",
     "verified": true,
@@ -18370,18 +18527,14 @@
     "availableTimeWeekend": "休館",
     "equipment": "專業投影設備、音響",
     "images": {
-      "main": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?w=800&auto=format",
-      "gallery": [
-        "https://images.unsplash.com/photo-1497215842964-222b430dc094?w=800",
-        "https://images.unsplash.com/photo-1504384764586-bb4cdc1707b0?w=800"
-      ],
+      "main": "https://images.unsplash.com/photo-1497366811353-6870744d04b2?w=800&auto=format",
+      "gallery": [],
       "floorPlan": "",
+      "source": "https://unsplash.com",
+      "verified": false,
       "needsUpdate": false,
       "note": "使用相關的 Unsplash 照片（會議中心類型）",
-      "lastUpdated": "2026-03-15",
-      "source": "Unsplash",
-      "verified": true,
-      "verifiedAt": "2026-03-01T23:45:15.599Z"
+      "lastUpdated": "2026-03-15"
     },
     "url": "https://www.meeting.com.tw/ntu/",
     "verified": true,
@@ -18423,17 +18576,13 @@
     "equipment": "專業投影設備、音響",
     "images": {
       "main": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800&auto=format",
-      "gallery": [
-        "https://images.unsplash.com/photo-1497215842964-222b430dc094?w=800",
-        "https://images.unsplash.com/photo-1504384764586-bb4cdc1707b0?w=800"
-      ],
+      "gallery": [],
       "floorPlan": "",
+      "source": "https://unsplash.com",
+      "verified": false,
       "needsUpdate": false,
       "note": "使用相關的 Unsplash 照片（會議中心類型）",
-      "lastUpdated": "2026-03-15",
-      "source": "Unsplash",
-      "verified": true,
-      "verifiedAt": "2026-03-01T23:45:15.599Z"
+      "lastUpdated": "2026-03-15"
     },
     "url": "https://www.meeting.com.tw/ntu/",
     "verified": true,
@@ -18474,18 +18623,14 @@
     "availableTimeWeekend": "休館",
     "equipment": "專業投影設備、音響",
     "images": {
-      "main": "https://images.unsplash.com/photo-1497366811353-6870744d04b2?w=800&auto=format",
-      "gallery": [
-        "https://images.unsplash.com/photo-1497215842964-222b430dc094?w=800",
-        "https://images.unsplash.com/photo-1504384764586-bb4cdc1707b0?w=800"
-      ],
+      "main": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?w=800&auto=format",
+      "gallery": [],
       "floorPlan": "",
+      "source": "https://unsplash.com",
+      "verified": false,
       "needsUpdate": false,
       "note": "使用相關的 Unsplash 照片（會議中心類型）",
-      "lastUpdated": "2026-03-15",
-      "source": "Unsplash",
-      "verified": true,
-      "verifiedAt": "2026-03-01T23:45:15.599Z"
+      "lastUpdated": "2026-03-15"
     },
     "url": "https://www.meeting.com.tw/ntu/",
     "verified": true,
@@ -18526,18 +18671,14 @@
     "availableTimeWeekend": "休館",
     "equipment": "專業投影設備、音響",
     "images": {
-      "main": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?w=800&auto=format",
-      "gallery": [
-        "https://images.unsplash.com/photo-1515187029135-18ee286d815b?w=800",
-        "https://images.unsplash.com/photo-1505373877841-8d25f7d46678?w=800"
-      ],
+      "main": "https://images.unsplash.com/photo-1497366811353-6870744d04b2?w=800&auto=format",
+      "gallery": [],
       "floorPlan": "",
+      "source": "https://unsplash.com",
+      "verified": false,
       "needsUpdate": false,
       "note": "使用相關的 Unsplash 照片（會議中心類型）",
-      "lastUpdated": "2026-03-15",
-      "source": "Unsplash",
-      "verified": true,
-      "verifiedAt": "2026-03-01T23:45:17.334Z"
+      "lastUpdated": "2026-03-15"
     },
     "url": "https://itcc.yff.org.tw/",
     "verified": true,
@@ -18580,17 +18721,13 @@
     "equipment": "專業投影設備、音響",
     "images": {
       "main": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800&auto=format",
-      "gallery": [
-        "https://images.unsplash.com/photo-1515187029135-18ee286d815b?w=800",
-        "https://images.unsplash.com/photo-1505373877841-8d25f7d46678?w=800"
-      ],
+      "gallery": [],
       "floorPlan": "",
+      "source": "https://unsplash.com",
+      "verified": false,
       "needsUpdate": false,
       "note": "使用相關的 Unsplash 照片（會議中心類型）",
-      "lastUpdated": "2026-03-15",
-      "source": "Unsplash",
-      "verified": true,
-      "verifiedAt": "2026-03-01T23:45:17.334Z"
+      "lastUpdated": "2026-03-15"
     },
     "url": "https://itcc.yff.org.tw/",
     "verified": true,
@@ -18632,18 +18769,14 @@
     "availableTimeWeekend": "休館",
     "equipment": "專業投影設備、音響",
     "images": {
-      "main": "https://images.unsplash.com/photo-1497366811353-6870744d04b2?w=800&auto=format",
-      "gallery": [
-        "https://images.unsplash.com/photo-1515187029135-18ee286d815b?w=800",
-        "https://images.unsplash.com/photo-1505373877841-8d25f7d46678?w=800"
-      ],
+      "main": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?w=800&auto=format",
+      "gallery": [],
       "floorPlan": "",
+      "source": "https://unsplash.com",
+      "verified": false,
       "needsUpdate": false,
       "note": "使用相關的 Unsplash 照片（會議中心類型）",
-      "lastUpdated": "2026-03-15",
-      "source": "Unsplash",
-      "verified": true,
-      "verifiedAt": "2026-03-01T23:45:17.334Z"
+      "lastUpdated": "2026-03-15"
     },
     "url": "https://itcc.yff.org.tw/",
     "verified": true,
@@ -18695,13 +18828,12 @@
         "https://clbc.tw/wp-content/uploads/elementor/thumbs/support-q4kmzdgkuwojhk5ptusydzqsevxostf5e0yp4kymrk.png",
         "https://clbc.tw/wp-content/uploads/elementor/thumbs/computer-class-room-q4kmzdgkuwojhk5ptusydzqsevxostf5e0yp4kymrk.png"
       ],
+      "floorPlan": "",
       "source": "https://clbc.tw/",
       "verified": true,
-      "verifiedAt": "2026-03-07T21:12:58.373478",
-      "updateReason": "批量更新：修正主照片錯誤",
       "needsUpdate": false,
       "note": "從官網爬取真實照片",
-      "lastUpdated": "2026-03-07"
+      "lastUpdated": "2026-03-15"
     },
     "url": "https://clbc.tw/",
     "verified": true,
@@ -18753,13 +18885,12 @@
         "https://clbc.tw/wp-content/uploads/elementor/thumbs/support-q4kmzdgkuwojhk5ptusydzqsevxostf5e0yp4kymrk.png",
         "https://clbc.tw/wp-content/uploads/elementor/thumbs/computer-class-room-q4kmzdgkuwojhk5ptusydzqsevxostf5e0yp4kymrk.png"
       ],
+      "floorPlan": "",
       "source": "https://clbc.tw/",
       "verified": true,
-      "verifiedAt": "2026-03-07T21:12:58.373503",
-      "updateReason": "批量更新：修正主照片錯誤",
       "needsUpdate": false,
       "note": "從官網爬取真實照片",
-      "lastUpdated": "2026-03-07"
+      "lastUpdated": "2026-03-15"
     },
     "url": "https://clbc.tw/",
     "verified": true,
@@ -18800,17 +18931,10 @@
     "area": "899 坪",
     "images": {
       "main": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?w=800&auto=format",
-      "gallery": [
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945050916.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945053932.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945057150.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945060025.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945063635.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945066135.jpg"
-      ],
-      "source": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/lp_Activity_1.jsp&ctNode=318&CtUnit=96&BaseDSD=7&mp=1",
-      "verified": true,
-      "verifiedAt": "2026-03-02T09:52:23.503Z",
+      "gallery": [],
+      "floorPlan": "",
+      "source": "https://unsplash.com",
+      "verified": false,
       "needsUpdate": false,
       "note": "使用相關的 Unsplash 照片（會議中心類型）",
       "lastUpdated": "2026-03-15"
@@ -18897,18 +19021,11 @@
     "maxCapacityClassroom": null,
     "area": "193 坪",
     "images": {
-      "main": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800&auto=format",
-      "gallery": [
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945050916.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945053932.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945057150.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945060025.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945063635.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945066135.jpg"
-      ],
-      "source": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/lp_Activity_1.jsp&ctNode=318&CtUnit=96&BaseDSD=7&mp=1",
-      "verified": true,
-      "verifiedAt": "2026-03-02T09:52:23.503Z",
+      "main": "https://images.unsplash.com/photo-1497366811353-6870744d04b2?w=800&auto=format",
+      "gallery": [],
+      "floorPlan": "",
+      "source": "https://unsplash.com",
+      "verified": false,
       "needsUpdate": false,
       "note": "使用相關的 Unsplash 照片（會議中心類型）",
       "lastUpdated": "2026-03-15"
@@ -18997,18 +19114,11 @@
     "maxCapacityClassroom": null,
     "area": "44 坪",
     "images": {
-      "main": "https://images.unsplash.com/photo-1497366811353-6870744d04b2?w=800&auto=format",
-      "gallery": [
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945050916.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945053932.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945057150.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945060025.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945063635.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945066135.jpg"
-      ],
-      "source": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/lp_Activity_1.jsp&ctNode=318&CtUnit=96&BaseDSD=7&mp=1",
-      "verified": true,
-      "verifiedAt": "2026-03-02T09:52:23.503Z",
+      "main": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800&auto=format",
+      "gallery": [],
+      "floorPlan": "",
+      "source": "https://unsplash.com",
+      "verified": false,
       "needsUpdate": false,
       "note": "使用相關的 Unsplash 照片（會議中心類型）",
       "lastUpdated": "2026-03-15"
@@ -19097,17 +19207,10 @@
     "area": "98 坪",
     "images": {
       "main": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?w=800&auto=format",
-      "gallery": [
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945050916.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945053932.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945057150.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945060025.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945063635.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945066135.jpg"
-      ],
-      "source": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/lp_Activity_1.jsp&ctNode=318&CtUnit=96&BaseDSD=7&mp=1",
-      "verified": true,
-      "verifiedAt": "2026-03-02T09:52:23.503Z",
+      "gallery": [],
+      "floorPlan": "",
+      "source": "https://unsplash.com",
+      "verified": false,
       "needsUpdate": false,
       "note": "使用相關的 Unsplash 照片（會議中心類型）",
       "lastUpdated": "2026-03-15"
@@ -19194,18 +19297,11 @@
     "maxCapacityClassroom": null,
     "area": "53 坪",
     "images": {
-      "main": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800&auto=format",
-      "gallery": [
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945050916.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945053932.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945057150.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945060025.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945063635.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945066135.jpg"
-      ],
-      "source": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/lp_Activity_1.jsp&ctNode=318&CtUnit=96&BaseDSD=7&mp=1",
-      "verified": true,
-      "verifiedAt": "2026-03-02T09:52:23.503Z",
+      "main": "https://images.unsplash.com/photo-1497366811353-6870744d04b2?w=800&auto=format",
+      "gallery": [],
+      "floorPlan": "",
+      "source": "https://unsplash.com",
+      "verified": false,
       "needsUpdate": false,
       "note": "使用相關的 Unsplash 照片（會議中心類型）",
       "lastUpdated": "2026-03-15"
@@ -19292,18 +19388,11 @@
     "maxCapacityClassroom": null,
     "area": "53 坪",
     "images": {
-      "main": "https://images.unsplash.com/photo-1497366811353-6870744d04b2?w=800&auto=format",
-      "gallery": [
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945050916.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945053932.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945057150.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945060025.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945063635.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945066135.jpg"
-      ],
-      "source": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/lp_Activity_1.jsp&ctNode=318&CtUnit=96&BaseDSD=7&mp=1",
-      "verified": true,
-      "verifiedAt": "2026-03-02T09:52:23.503Z",
+      "main": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800&auto=format",
+      "gallery": [],
+      "floorPlan": "",
+      "source": "https://unsplash.com",
+      "verified": false,
       "needsUpdate": false,
       "note": "使用相關的 Unsplash 照片（會議中心類型）",
       "lastUpdated": "2026-03-15"
@@ -19391,17 +19480,10 @@
     "area": "98 坪",
     "images": {
       "main": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?w=800&auto=format",
-      "gallery": [
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945050916.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945053932.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945057150.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945060025.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945063635.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945066135.jpg"
-      ],
-      "source": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/lp_Activity_1.jsp&ctNode=318&CtUnit=96&BaseDSD=7&mp=1",
-      "verified": true,
-      "verifiedAt": "2026-03-02T09:52:23.503Z",
+      "gallery": [],
+      "floorPlan": "",
+      "source": "https://unsplash.com",
+      "verified": false,
       "needsUpdate": false,
       "note": "使用相關的 Unsplash 照片（會議中心類型）",
       "lastUpdated": "2026-03-15"
@@ -19488,18 +19570,11 @@
     "maxCapacityClassroom": null,
     "area": "44 坪",
     "images": {
-      "main": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800&auto=format",
-      "gallery": [
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945050916.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945053932.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945057150.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945060025.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945063635.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945066135.jpg"
-      ],
-      "source": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/lp_Activity_1.jsp&ctNode=318&CtUnit=96&BaseDSD=7&mp=1",
-      "verified": true,
-      "verifiedAt": "2026-03-02T09:52:23.503Z",
+      "main": "https://images.unsplash.com/photo-1497366811353-6870744d04b2?w=800&auto=format",
+      "gallery": [],
+      "floorPlan": "",
+      "source": "https://unsplash.com",
+      "verified": false,
       "needsUpdate": false,
       "note": "使用相關的 Unsplash 照片（會議中心類型）",
       "lastUpdated": "2026-03-15"
@@ -19586,18 +19661,11 @@
     "maxCapacityClassroom": null,
     "area": "70 坪",
     "images": {
-      "main": "https://images.unsplash.com/photo-1497366811353-6870744d04b2?w=800&auto=format",
-      "gallery": [
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945050916.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945053932.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945057150.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945060025.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945063635.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945066135.jpg"
-      ],
-      "source": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/lp_Activity_1.jsp&ctNode=318&CtUnit=96&BaseDSD=7&mp=1",
-      "verified": true,
-      "verifiedAt": "2026-03-02T09:52:23.503Z",
+      "main": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800&auto=format",
+      "gallery": [],
+      "floorPlan": "",
+      "source": "https://unsplash.com",
+      "verified": false,
       "needsUpdate": false,
       "note": "使用相關的 Unsplash 照片（會議中心類型）",
       "lastUpdated": "2026-03-15"
@@ -19685,17 +19753,10 @@
     "area": "41 坪",
     "images": {
       "main": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?w=800&auto=format",
-      "gallery": [
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945050916.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945053932.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945057150.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945060025.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945063635.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945066135.jpg"
-      ],
-      "source": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/lp_Activity_1.jsp&ctNode=318&CtUnit=96&BaseDSD=7&mp=1",
-      "verified": true,
-      "verifiedAt": "2026-03-02T09:52:23.503Z",
+      "gallery": [],
+      "floorPlan": "",
+      "source": "https://unsplash.com",
+      "verified": false,
       "needsUpdate": false,
       "note": "使用相關的 Unsplash 照片（會議中心類型）",
       "lastUpdated": "2026-03-15"
@@ -19782,18 +19843,11 @@
     "maxCapacityClassroom": null,
     "area": "35 坪",
     "images": {
-      "main": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800&auto=format",
-      "gallery": [
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945050916.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945053932.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945057150.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945060025.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945063635.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945066135.jpg"
-      ],
-      "source": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/lp_Activity_1.jsp&ctNode=318&CtUnit=96&BaseDSD=7&mp=1",
-      "verified": true,
-      "verifiedAt": "2026-03-02T09:52:23.503Z",
+      "main": "https://images.unsplash.com/photo-1497366811353-6870744d04b2?w=800&auto=format",
+      "gallery": [],
+      "floorPlan": "",
+      "source": "https://unsplash.com",
+      "verified": false,
       "needsUpdate": false,
       "note": "使用相關的 Unsplash 照片（會議中心類型）",
       "lastUpdated": "2026-03-15"
@@ -19880,18 +19934,11 @@
     "maxCapacityClassroom": null,
     "area": "12 坪",
     "images": {
-      "main": "https://images.unsplash.com/photo-1497366811353-6870744d04b2?w=800&auto=format",
-      "gallery": [
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945050916.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945053932.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945057150.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945060025.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945063635.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945066135.jpg"
-      ],
-      "source": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/lp_Activity_1.jsp&ctNode=318&CtUnit=96&BaseDSD=7&mp=1",
-      "verified": true,
-      "verifiedAt": "2026-03-02T09:52:23.503Z",
+      "main": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800&auto=format",
+      "gallery": [],
+      "floorPlan": "",
+      "source": "https://unsplash.com",
+      "verified": false,
       "needsUpdate": false,
       "note": "使用相關的 Unsplash 照片（會議中心類型）",
       "lastUpdated": "2026-03-15"
@@ -19979,17 +20026,10 @@
     "area": "12 坪",
     "images": {
       "main": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?w=800&auto=format",
-      "gallery": [
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945050916.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945053932.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945057150.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945060025.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945063635.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945066135.jpg"
-      ],
-      "source": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/lp_Activity_1.jsp&ctNode=318&CtUnit=96&BaseDSD=7&mp=1",
-      "verified": true,
-      "verifiedAt": "2026-03-02T09:52:23.503Z",
+      "gallery": [],
+      "floorPlan": "",
+      "source": "https://unsplash.com",
+      "verified": false,
       "needsUpdate": false,
       "note": "使用相關的 Unsplash 照片（會議中心類型）",
       "lastUpdated": "2026-03-15"
@@ -20076,18 +20116,11 @@
     "maxCapacityClassroom": null,
     "area": "13 坪",
     "images": {
-      "main": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800&auto=format",
-      "gallery": [
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945050916.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945053932.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945057150.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945060025.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945063635.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945066135.jpg"
-      ],
-      "source": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/lp_Activity_1.jsp&ctNode=318&CtUnit=96&BaseDSD=7&mp=1",
-      "verified": true,
-      "verifiedAt": "2026-03-02T09:52:23.503Z",
+      "main": "https://images.unsplash.com/photo-1497366811353-6870744d04b2?w=800&auto=format",
+      "gallery": [],
+      "floorPlan": "",
+      "source": "https://unsplash.com",
+      "verified": false,
       "needsUpdate": false,
       "note": "使用相關的 Unsplash 照片（會議中心類型）",
       "lastUpdated": "2026-03-15"
@@ -20174,18 +20207,11 @@
     "maxCapacityClassroom": null,
     "area": "220 坪",
     "images": {
-      "main": "https://images.unsplash.com/photo-1497366811353-6870744d04b2?w=800&auto=format",
-      "gallery": [
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945050916.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945053932.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945057150.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945060025.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945063635.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945066135.jpg"
-      ],
-      "source": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/lp_Activity_1.jsp&ctNode=318&CtUnit=96&BaseDSD=7&mp=1",
-      "verified": true,
-      "verifiedAt": "2026-03-02T09:52:23.503Z",
+      "main": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800&auto=format",
+      "gallery": [],
+      "floorPlan": "",
+      "source": "https://unsplash.com",
+      "verified": false,
       "needsUpdate": false,
       "note": "使用相關的 Unsplash 照片（會議中心類型）",
       "lastUpdated": "2026-03-15"
@@ -20273,17 +20299,10 @@
     "area": "43 坪",
     "images": {
       "main": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?w=800&auto=format",
-      "gallery": [
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945050916.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945053932.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945057150.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945060025.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945063635.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945066135.jpg"
-      ],
-      "source": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/lp_Activity_1.jsp&ctNode=318&CtUnit=96&BaseDSD=7&mp=1",
-      "verified": true,
-      "verifiedAt": "2026-03-02T09:52:23.503Z",
+      "gallery": [],
+      "floorPlan": "",
+      "source": "https://unsplash.com",
+      "verified": false,
       "needsUpdate": false,
       "note": "使用相關的 Unsplash 照片（會議中心類型）",
       "lastUpdated": "2026-03-15"
@@ -20370,18 +20389,11 @@
     "maxCapacityClassroom": null,
     "area": "76 坪",
     "images": {
-      "main": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800&auto=format",
-      "gallery": [
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945050916.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945053932.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945057150.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945060025.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945063635.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945066135.jpg"
-      ],
-      "source": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/lp_Activity_1.jsp&ctNode=318&CtUnit=96&BaseDSD=7&mp=1",
-      "verified": true,
-      "verifiedAt": "2026-03-02T09:52:23.503Z",
+      "main": "https://images.unsplash.com/photo-1497366811353-6870744d04b2?w=800&auto=format",
+      "gallery": [],
+      "floorPlan": "",
+      "source": "https://unsplash.com",
+      "verified": false,
       "needsUpdate": false,
       "note": "使用相關的 Unsplash 照片（會議中心類型）",
       "lastUpdated": "2026-03-15"
@@ -20468,18 +20480,11 @@
     "maxCapacityClassroom": null,
     "area": "112 坪",
     "images": {
-      "main": "https://images.unsplash.com/photo-1497366811353-6870744d04b2?w=800&auto=format",
-      "gallery": [
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945050916.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945053932.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945057150.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945060025.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945063635.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945066135.jpg"
-      ],
-      "source": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/lp_Activity_1.jsp&ctNode=318&CtUnit=96&BaseDSD=7&mp=1",
-      "verified": true,
-      "verifiedAt": "2026-03-02T09:52:23.503Z",
+      "main": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800&auto=format",
+      "gallery": [],
+      "floorPlan": "",
+      "source": "https://unsplash.com",
+      "verified": false,
       "needsUpdate": false,
       "note": "使用相關的 Unsplash 照片（會議中心類型）",
       "lastUpdated": "2026-03-15"
@@ -20567,17 +20572,10 @@
     "area": "152 坪",
     "images": {
       "main": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?w=800&auto=format",
-      "gallery": [
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945050916.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945053932.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945057150.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945060025.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945063635.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945066135.jpg"
-      ],
-      "source": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/lp_Activity_1.jsp&ctNode=318&CtUnit=96&BaseDSD=7&mp=1",
-      "verified": true,
-      "verifiedAt": "2026-03-02T09:52:23.503Z",
+      "gallery": [],
+      "floorPlan": "",
+      "source": "https://unsplash.com",
+      "verified": false,
       "needsUpdate": false,
       "note": "使用相關的 Unsplash 照片（會議中心類型）",
       "lastUpdated": "2026-03-15"
@@ -20664,18 +20662,11 @@
     "maxCapacityClassroom": null,
     "area": "82 坪",
     "images": {
-      "main": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800&auto=format",
-      "gallery": [
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945050916.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945053932.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945057150.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945060025.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945063635.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945066135.jpg"
-      ],
-      "source": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/lp_Activity_1.jsp&ctNode=318&CtUnit=96&BaseDSD=7&mp=1",
-      "verified": true,
-      "verifiedAt": "2026-03-02T09:52:23.503Z",
+      "main": "https://images.unsplash.com/photo-1497366811353-6870744d04b2?w=800&auto=format",
+      "gallery": [],
+      "floorPlan": "",
+      "source": "https://unsplash.com",
+      "verified": false,
       "needsUpdate": false,
       "note": "使用相關的 Unsplash 照片（會議中心類型）",
       "lastUpdated": "2026-03-15"
@@ -20762,18 +20753,11 @@
     "maxCapacityClassroom": null,
     "area": "34 坪",
     "images": {
-      "main": "https://images.unsplash.com/photo-1497366811353-6870744d04b2?w=800&auto=format",
-      "gallery": [
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945050916.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945053932.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945057150.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945060025.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945063635.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945066135.jpg"
-      ],
-      "source": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/lp_Activity_1.jsp&ctNode=318&CtUnit=96&BaseDSD=7&mp=1",
-      "verified": true,
-      "verifiedAt": "2026-03-02T09:52:23.503Z",
+      "main": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800&auto=format",
+      "gallery": [],
+      "floorPlan": "",
+      "source": "https://unsplash.com",
+      "verified": false,
       "needsUpdate": false,
       "note": "使用相關的 Unsplash 照片（會議中心類型）",
       "lastUpdated": "2026-03-15"
@@ -20861,17 +20845,10 @@
     "area": "70 坪",
     "images": {
       "main": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?w=800&auto=format",
-      "gallery": [
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945050916.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945053932.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945057150.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945060025.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945063635.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945066135.jpg"
-      ],
-      "source": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/lp_Activity_1.jsp&ctNode=318&CtUnit=96&BaseDSD=7&mp=1",
-      "verified": true,
-      "verifiedAt": "2026-03-02T09:52:23.503Z",
+      "gallery": [],
+      "floorPlan": "",
+      "source": "https://unsplash.com",
+      "verified": false,
       "needsUpdate": false,
       "note": "使用相關的 Unsplash 照片（會議中心類型）",
       "lastUpdated": "2026-03-15"
@@ -20958,18 +20935,11 @@
     "maxCapacityClassroom": null,
     "area": "140 坪",
     "images": {
-      "main": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800&auto=format",
-      "gallery": [
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945050916.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945053932.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945057150.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945060025.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945063635.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945066135.jpg"
-      ],
-      "source": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/lp_Activity_1.jsp&ctNode=318&CtUnit=96&BaseDSD=7&mp=1",
-      "verified": true,
-      "verifiedAt": "2026-03-02T09:52:23.503Z",
+      "main": "https://images.unsplash.com/photo-1497366811353-6870744d04b2?w=800&auto=format",
+      "gallery": [],
+      "floorPlan": "",
+      "source": "https://unsplash.com",
+      "verified": false,
       "needsUpdate": false,
       "note": "使用相關的 Unsplash 照片（會議中心類型）",
       "lastUpdated": "2026-03-15"
@@ -21056,18 +21026,11 @@
     "maxCapacityClassroom": null,
     "area": "68 坪",
     "images": {
-      "main": "https://images.unsplash.com/photo-1497366811353-6870744d04b2?w=800&auto=format",
-      "gallery": [
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945050916.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945053932.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945057150.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945060025.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945063635.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945066135.jpg"
-      ],
-      "source": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/lp_Activity_1.jsp&ctNode=318&CtUnit=96&BaseDSD=7&mp=1",
-      "verified": true,
-      "verifiedAt": "2026-03-02T09:52:23.503Z",
+      "main": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800&auto=format",
+      "gallery": [],
+      "floorPlan": "",
+      "source": "https://unsplash.com",
+      "verified": false,
       "needsUpdate": false,
       "note": "使用相關的 Unsplash 照片（會議中心類型）",
       "lastUpdated": "2026-03-15"
@@ -21155,17 +21118,10 @@
     "area": "35 坪",
     "images": {
       "main": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?w=800&auto=format",
-      "gallery": [
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945050916.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945053932.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945057150.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945060025.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945063635.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945066135.jpg"
-      ],
-      "source": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/lp_Activity_1.jsp&ctNode=318&CtUnit=96&BaseDSD=7&mp=1",
-      "verified": true,
-      "verifiedAt": "2026-03-02T09:52:23.503Z",
+      "gallery": [],
+      "floorPlan": "",
+      "source": "https://unsplash.com",
+      "verified": false,
       "needsUpdate": false,
       "note": "使用相關的 Unsplash 照片（會議中心類型）",
       "lastUpdated": "2026-03-15"
@@ -21252,18 +21208,11 @@
     "maxCapacityClassroom": null,
     "area": "70 坪",
     "images": {
-      "main": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800&auto=format",
-      "gallery": [
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945050916.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945053932.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945057150.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945060025.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945063635.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945066135.jpg"
-      ],
-      "source": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/lp_Activity_1.jsp&ctNode=318&CtUnit=96&BaseDSD=7&mp=1",
-      "verified": true,
-      "verifiedAt": "2026-03-02T09:52:23.503Z",
+      "main": "https://images.unsplash.com/photo-1497366811353-6870744d04b2?w=800&auto=format",
+      "gallery": [],
+      "floorPlan": "",
+      "source": "https://unsplash.com",
+      "verified": false,
       "needsUpdate": false,
       "note": "使用相關的 Unsplash 照片（會議中心類型）",
       "lastUpdated": "2026-03-15"
@@ -21350,18 +21299,11 @@
     "maxCapacityClassroom": null,
     "area": "35 坪",
     "images": {
-      "main": "https://images.unsplash.com/photo-1497366811353-6870744d04b2?w=800&auto=format",
-      "gallery": [
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945050916.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945053932.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945057150.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945060025.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945063635.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945066135.jpg"
-      ],
-      "source": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/lp_Activity_1.jsp&ctNode=318&CtUnit=96&BaseDSD=7&mp=1",
-      "verified": true,
-      "verifiedAt": "2026-03-02T09:52:23.503Z",
+      "main": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800&auto=format",
+      "gallery": [],
+      "floorPlan": "",
+      "source": "https://unsplash.com",
+      "verified": false,
       "needsUpdate": false,
       "note": "使用相關的 Unsplash 照片（會議中心類型）",
       "lastUpdated": "2026-03-15"
@@ -21449,17 +21391,10 @@
     "area": "70 坪",
     "images": {
       "main": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?w=800&auto=format",
-      "gallery": [
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945050916.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945053932.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945057150.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945060025.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945063635.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945066135.jpg"
-      ],
-      "source": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/lp_Activity_1.jsp&ctNode=318&CtUnit=96&BaseDSD=7&mp=1",
-      "verified": true,
-      "verifiedAt": "2026-03-02T09:52:23.503Z",
+      "gallery": [],
+      "floorPlan": "",
+      "source": "https://unsplash.com",
+      "verified": false,
       "needsUpdate": false,
       "note": "使用相關的 Unsplash 照片（會議中心類型）",
       "lastUpdated": "2026-03-15"
@@ -21546,18 +21481,11 @@
     "maxCapacityClassroom": null,
     "area": "112 坪",
     "images": {
-      "main": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800&auto=format",
-      "gallery": [
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945050916.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945053932.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945057150.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945060025.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945063635.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945066135.jpg"
-      ],
-      "source": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/lp_Activity_1.jsp&ctNode=318&CtUnit=96&BaseDSD=7&mp=1",
-      "verified": true,
-      "verifiedAt": "2026-03-02T09:52:23.503Z",
+      "main": "https://images.unsplash.com/photo-1497366811353-6870744d04b2?w=800&auto=format",
+      "gallery": [],
+      "floorPlan": "",
+      "source": "https://unsplash.com",
+      "verified": false,
       "needsUpdate": false,
       "note": "使用相關的 Unsplash 照片（會議中心類型）",
       "lastUpdated": "2026-03-15"
@@ -21644,18 +21572,11 @@
     "maxCapacityClassroom": null,
     "area": "34 坪",
     "images": {
-      "main": "https://images.unsplash.com/photo-1497366811353-6870744d04b2?w=800&auto=format",
-      "gallery": [
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945050916.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945053932.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945057150.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945060025.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945063635.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945066135.jpg"
-      ],
-      "source": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/lp_Activity_1.jsp&ctNode=318&CtUnit=96&BaseDSD=7&mp=1",
-      "verified": true,
-      "verifiedAt": "2026-03-02T09:52:23.503Z",
+      "main": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800&auto=format",
+      "gallery": [],
+      "floorPlan": "",
+      "source": "https://unsplash.com",
+      "verified": false,
       "needsUpdate": false,
       "note": "使用相關的 Unsplash 照片（會議中心類型）",
       "lastUpdated": "2026-03-15"
@@ -21743,17 +21664,10 @@
     "area": "76 坪",
     "images": {
       "main": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?w=800&auto=format",
-      "gallery": [
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945050916.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945053932.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945057150.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945060025.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945063635.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945066135.jpg"
-      ],
-      "source": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/lp_Activity_1.jsp&ctNode=318&CtUnit=96&BaseDSD=7&mp=1",
-      "verified": true,
-      "verifiedAt": "2026-03-02T09:52:23.503Z",
+      "gallery": [],
+      "floorPlan": "",
+      "source": "https://unsplash.com",
+      "verified": false,
       "needsUpdate": false,
       "note": "使用相關的 Unsplash 照片（會議中心類型）",
       "lastUpdated": "2026-03-15"
@@ -21840,18 +21754,11 @@
     "maxCapacityClassroom": null,
     "area": "41 坪",
     "images": {
-      "main": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800&auto=format",
-      "gallery": [
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945050916.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945053932.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945057150.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945060025.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945063635.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945066135.jpg"
-      ],
-      "source": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/lp_Activity_1.jsp&ctNode=318&CtUnit=96&BaseDSD=7&mp=1",
-      "verified": true,
-      "verifiedAt": "2026-03-02T09:52:23.503Z",
+      "main": "https://images.unsplash.com/photo-1497366811353-6870744d04b2?w=800&auto=format",
+      "gallery": [],
+      "floorPlan": "",
+      "source": "https://unsplash.com",
+      "verified": false,
       "needsUpdate": false,
       "note": "使用相關的 Unsplash 照片（會議中心類型）",
       "lastUpdated": "2026-03-15"
@@ -21938,18 +21845,11 @@
     "maxCapacityClassroom": null,
     "area": "33 坪",
     "images": {
-      "main": "https://images.unsplash.com/photo-1497366811353-6870744d04b2?w=800&auto=format",
-      "gallery": [
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945050916.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945053932.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945057150.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945060025.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945063635.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945066135.jpg"
-      ],
-      "source": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/lp_Activity_1.jsp&ctNode=318&CtUnit=96&BaseDSD=7&mp=1",
-      "verified": true,
-      "verifiedAt": "2026-03-02T09:52:23.503Z",
+      "main": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800&auto=format",
+      "gallery": [],
+      "floorPlan": "",
+      "source": "https://unsplash.com",
+      "verified": false,
       "needsUpdate": false,
       "note": "使用相關的 Unsplash 照片（會議中心類型）",
       "lastUpdated": "2026-03-15"
@@ -22037,17 +21937,10 @@
     "area": "21 坪",
     "images": {
       "main": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?w=800&auto=format",
-      "gallery": [
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945050916.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945053932.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945057150.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945060025.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945063635.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945066135.jpg"
-      ],
-      "source": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/lp_Activity_1.jsp&ctNode=318&CtUnit=96&BaseDSD=7&mp=1",
-      "verified": true,
-      "verifiedAt": "2026-03-02T09:52:23.503Z",
+      "gallery": [],
+      "floorPlan": "",
+      "source": "https://unsplash.com",
+      "verified": false,
       "needsUpdate": false,
       "note": "使用相關的 Unsplash 照片（會議中心類型）",
       "lastUpdated": "2026-03-15"
@@ -22134,18 +22027,11 @@
     "maxCapacityClassroom": null,
     "area": "13 坪",
     "images": {
-      "main": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800&auto=format",
-      "gallery": [
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945050916.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945053932.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945057150.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945060025.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945063635.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945066135.jpg"
-      ],
-      "source": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/lp_Activity_1.jsp&ctNode=318&CtUnit=96&BaseDSD=7&mp=1",
-      "verified": true,
-      "verifiedAt": "2026-03-02T09:52:23.503Z",
+      "main": "https://images.unsplash.com/photo-1497366811353-6870744d04b2?w=800&auto=format",
+      "gallery": [],
+      "floorPlan": "",
+      "source": "https://unsplash.com",
+      "verified": false,
       "needsUpdate": false,
       "note": "使用相關的 Unsplash 照片（會議中心類型）",
       "lastUpdated": "2026-03-15"
@@ -22232,18 +22118,11 @@
     "maxCapacityClassroom": null,
     "area": "33 坪",
     "images": {
-      "main": "https://images.unsplash.com/photo-1497366811353-6870744d04b2?w=800&auto=format",
-      "gallery": [
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945050916.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945053932.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945057150.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945060025.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945063635.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945066135.jpg"
-      ],
-      "source": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/lp_Activity_1.jsp&ctNode=318&CtUnit=96&BaseDSD=7&mp=1",
-      "verified": true,
-      "verifiedAt": "2026-03-02T09:52:23.503Z",
+      "main": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800&auto=format",
+      "gallery": [],
+      "floorPlan": "",
+      "source": "https://unsplash.com",
+      "verified": false,
       "needsUpdate": false,
       "note": "使用相關的 Unsplash 照片（會議中心類型）",
       "lastUpdated": "2026-03-15"
@@ -22331,17 +22210,10 @@
     "area": "13 坪",
     "images": {
       "main": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?w=800&auto=format",
-      "gallery": [
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945050916.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945053932.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945057150.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945060025.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945063635.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945066135.jpg"
-      ],
-      "source": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/lp_Activity_1.jsp&ctNode=318&CtUnit=96&BaseDSD=7&mp=1",
-      "verified": true,
-      "verifiedAt": "2026-03-02T09:52:23.503Z",
+      "gallery": [],
+      "floorPlan": "",
+      "source": "https://unsplash.com",
+      "verified": false,
       "needsUpdate": false,
       "note": "使用相關的 Unsplash 照片（會議中心類型）",
       "lastUpdated": "2026-03-15"
@@ -22428,18 +22300,11 @@
     "maxCapacityClassroom": null,
     "area": "13 坪",
     "images": {
-      "main": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800&auto=format",
-      "gallery": [
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945050916.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945053932.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945057150.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945060025.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945063635.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945066135.jpg"
-      ],
-      "source": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/lp_Activity_1.jsp&ctNode=318&CtUnit=96&BaseDSD=7&mp=1",
-      "verified": true,
-      "verifiedAt": "2026-03-02T09:52:23.503Z",
+      "main": "https://images.unsplash.com/photo-1497366811353-6870744d04b2?w=800&auto=format",
+      "gallery": [],
+      "floorPlan": "",
+      "source": "https://unsplash.com",
+      "verified": false,
       "needsUpdate": false,
       "note": "使用相關的 Unsplash 照片（會議中心類型）",
       "lastUpdated": "2026-03-15"
@@ -22526,18 +22391,11 @@
     "maxCapacityClassroom": null,
     "area": "295 坪",
     "images": {
-      "main": "https://images.unsplash.com/photo-1497366811353-6870744d04b2?w=800&auto=format",
-      "gallery": [
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945050916.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945053932.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945057150.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945060025.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945063635.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945066135.jpg"
-      ],
-      "source": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/lp_Activity_1.jsp&ctNode=318&CtUnit=96&BaseDSD=7&mp=1",
-      "verified": true,
-      "verifiedAt": "2026-03-02T09:52:23.503Z",
+      "main": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800&auto=format",
+      "gallery": [],
+      "floorPlan": "",
+      "source": "https://unsplash.com",
+      "verified": false,
       "needsUpdate": false,
       "note": "使用相關的 Unsplash 照片（會議中心類型）",
       "lastUpdated": "2026-03-15"
@@ -22625,17 +22483,10 @@
     "area": "46 坪",
     "images": {
       "main": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?w=800&auto=format",
-      "gallery": [
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945050916.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945053932.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945057150.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945060025.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945063635.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945066135.jpg"
-      ],
-      "source": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/lp_Activity_1.jsp&ctNode=318&CtUnit=96&BaseDSD=7&mp=1",
-      "verified": true,
-      "verifiedAt": "2026-03-02T09:52:23.503Z",
+      "gallery": [],
+      "floorPlan": "",
+      "source": "https://unsplash.com",
+      "verified": false,
       "needsUpdate": false,
       "note": "使用相關的 Unsplash 照片（會議中心類型）",
       "lastUpdated": "2026-03-15"
@@ -22722,18 +22573,11 @@
     "maxCapacityClassroom": null,
     "area": "46 坪",
     "images": {
-      "main": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800&auto=format",
-      "gallery": [
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945050916.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945053932.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945057150.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945060025.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945063635.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945066135.jpg"
-      ],
-      "source": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/lp_Activity_1.jsp&ctNode=318&CtUnit=96&BaseDSD=7&mp=1",
-      "verified": true,
-      "verifiedAt": "2026-03-02T09:52:23.503Z",
+      "main": "https://images.unsplash.com/photo-1497366811353-6870744d04b2?w=800&auto=format",
+      "gallery": [],
+      "floorPlan": "",
+      "source": "https://unsplash.com",
+      "verified": false,
       "needsUpdate": false,
       "note": "使用相關的 Unsplash 照片（會議中心類型）",
       "lastUpdated": "2026-03-15"
@@ -22820,18 +22664,11 @@
     "maxCapacityClassroom": null,
     "area": "58 坪",
     "images": {
-      "main": "https://images.unsplash.com/photo-1497366811353-6870744d04b2?w=800&auto=format",
-      "gallery": [
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945050916.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945053932.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945057150.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945060025.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945063635.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945066135.jpg"
-      ],
-      "source": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/lp_Activity_1.jsp&ctNode=318&CtUnit=96&BaseDSD=7&mp=1",
-      "verified": true,
-      "verifiedAt": "2026-03-02T09:52:23.503Z",
+      "main": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800&auto=format",
+      "gallery": [],
+      "floorPlan": "",
+      "source": "https://unsplash.com",
+      "verified": false,
       "needsUpdate": false,
       "note": "使用相關的 Unsplash 照片（會議中心類型）",
       "lastUpdated": "2026-03-15"
@@ -22919,17 +22756,10 @@
     "area": "46 坪",
     "images": {
       "main": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?w=800&auto=format",
-      "gallery": [
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945050916.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945053932.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945057150.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945060025.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945063635.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945066135.jpg"
-      ],
-      "source": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/lp_Activity_1.jsp&ctNode=318&CtUnit=96&BaseDSD=7&mp=1",
-      "verified": true,
-      "verifiedAt": "2026-03-02T09:52:23.503Z",
+      "gallery": [],
+      "floorPlan": "",
+      "source": "https://unsplash.com",
+      "verified": false,
       "needsUpdate": false,
       "note": "使用相關的 Unsplash 照片（會議中心類型）",
       "lastUpdated": "2026-03-15"
@@ -23016,18 +22846,11 @@
     "maxCapacityClassroom": null,
     "area": "46 坪",
     "images": {
-      "main": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800&auto=format",
-      "gallery": [
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945050916.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945053932.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945057150.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945060025.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945063635.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945066135.jpg"
-      ],
-      "source": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/lp_Activity_1.jsp&ctNode=318&CtUnit=96&BaseDSD=7&mp=1",
-      "verified": true,
-      "verifiedAt": "2026-03-02T09:52:23.503Z",
+      "main": "https://images.unsplash.com/photo-1497366811353-6870744d04b2?w=800&auto=format",
+      "gallery": [],
+      "floorPlan": "",
+      "source": "https://unsplash.com",
+      "verified": false,
       "needsUpdate": false,
       "note": "使用相關的 Unsplash 照片（會議中心類型）",
       "lastUpdated": "2026-03-15"
@@ -23114,18 +22937,11 @@
     "maxCapacityClassroom": null,
     "area": "11 坪",
     "images": {
-      "main": "https://images.unsplash.com/photo-1497366811353-6870744d04b2?w=800&auto=format",
-      "gallery": [
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945050916.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945053932.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945057150.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945060025.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945063635.jpg",
-        "https://www.ticc.com.tw/wSite/public/Img/f1687945066135.jpg"
-      ],
-      "source": "https://www.ticc.com.tw/wSite/sp?xdUrl=/wSite/ap/lp_Activity_1.jsp&ctNode=318&CtUnit=96&BaseDSD=7&mp=1",
-      "verified": true,
-      "verifiedAt": "2026-03-02T09:52:23.503Z",
+      "main": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800&auto=format",
+      "gallery": [],
+      "floorPlan": "",
+      "source": "https://unsplash.com",
+      "verified": false,
       "needsUpdate": false,
       "note": "使用相關的 Unsplash 照片（會議中心類型）",
       "lastUpdated": "2026-03-15"
@@ -23223,9 +23039,12 @@
         "https://www.sce.ntnu.edu.tw/home/src/img/space/tw/12/IMG_4436_compressed.jpg",
         "https://www.sce.ntnu.edu.tw/home/src/img/space/tw/14/1.jpg"
       ],
+      "floorPlan": "",
       "source": "https://www.sce.ntnu.edu.tw/home/space/",
       "verified": true,
-      "verifiedAt": "2026-03-02T09:52:23.503Z"
+      "needsUpdate": false,
+      "note": "保留原有的真實照片",
+      "lastUpdated": "2026-03-15"
     },
     "status": "上架",
     "missingFields": [
@@ -23277,9 +23096,12 @@
         "https://www.sce.ntnu.edu.tw/home/src/img/space/tw/12/IMG_4436_compressed.jpg",
         "https://www.sce.ntnu.edu.tw/home/src/img/space/tw/14/1.jpg"
       ],
+      "floorPlan": "",
       "source": "https://www.sce.ntnu.edu.tw/home/space/",
       "verified": true,
-      "verifiedAt": "2026-03-02T09:52:23.503Z"
+      "needsUpdate": false,
+      "note": "保留原有的真實照片",
+      "lastUpdated": "2026-03-15"
     },
     "status": "上架",
     "missingFields": [
@@ -23330,9 +23152,12 @@
         "https://www.sce.ntnu.edu.tw/home/src/img/space/tw/12/IMG_4436_compressed.jpg",
         "https://www.sce.ntnu.edu.tw/home/src/img/space/tw/14/1.jpg"
       ],
+      "floorPlan": "",
       "source": "https://www.sce.ntnu.edu.tw/home/space/",
       "verified": true,
-      "verifiedAt": "2026-03-02T09:52:23.503Z"
+      "needsUpdate": false,
+      "note": "保留原有的真實照片",
+      "lastUpdated": "2026-03-15"
     },
     "status": "上架",
     "missingFields": [
@@ -23383,9 +23208,12 @@
         "https://www.sce.ntnu.edu.tw/home/src/img/space/tw/12/IMG_4436_compressed.jpg",
         "https://www.sce.ntnu.edu.tw/home/src/img/space/tw/14/1.jpg"
       ],
+      "floorPlan": "",
       "source": "https://www.sce.ntnu.edu.tw/home/space/",
       "verified": true,
-      "verifiedAt": "2026-03-02T09:52:23.503Z"
+      "needsUpdate": false,
+      "note": "保留原有的真實照片",
+      "lastUpdated": "2026-03-15"
     },
     "status": "上架",
     "missingFields": [
@@ -23436,9 +23264,12 @@
         "https://www.sce.ntnu.edu.tw/home/src/img/space/tw/12/IMG_4436_compressed.jpg",
         "https://www.sce.ntnu.edu.tw/home/src/img/space/tw/14/1.jpg"
       ],
+      "floorPlan": "",
       "source": "https://www.sce.ntnu.edu.tw/home/space/",
       "verified": true,
-      "verifiedAt": "2026-03-02T09:52:23.503Z"
+      "needsUpdate": false,
+      "note": "保留原有的真實照片",
+      "lastUpdated": "2026-03-15"
     },
     "status": "上架",
     "missingFields": [
@@ -23489,9 +23320,12 @@
         "https://www.sce.ntnu.edu.tw/home/src/img/space/tw/12/IMG_4436_compressed.jpg",
         "https://www.sce.ntnu.edu.tw/home/src/img/space/tw/14/1.jpg"
       ],
+      "floorPlan": "",
       "source": "https://www.sce.ntnu.edu.tw/home/space/",
       "verified": true,
-      "verifiedAt": "2026-03-02T09:52:23.503Z"
+      "needsUpdate": false,
+      "note": "保留原有的真實照片",
+      "lastUpdated": "2026-03-15"
     },
     "status": "上架",
     "missingFields": [
@@ -23542,9 +23376,12 @@
         "https://www.sce.ntnu.edu.tw/home/src/img/space/tw/12/IMG_4436_compressed.jpg",
         "https://www.sce.ntnu.edu.tw/home/src/img/space/tw/14/1.jpg"
       ],
+      "floorPlan": "",
       "source": "https://www.sce.ntnu.edu.tw/home/space/",
       "verified": true,
-      "verifiedAt": "2026-03-02T09:52:23.503Z"
+      "needsUpdate": false,
+      "note": "保留原有的真實照片",
+      "lastUpdated": "2026-03-15"
     },
     "status": "上架",
     "missingFields": [
@@ -23595,9 +23432,12 @@
         "https://www.sce.ntnu.edu.tw/home/src/img/space/tw/12/IMG_4436_compressed.jpg",
         "https://www.sce.ntnu.edu.tw/home/src/img/space/tw/14/1.jpg"
       ],
+      "floorPlan": "",
       "source": "https://www.sce.ntnu.edu.tw/home/space/",
       "verified": true,
-      "verifiedAt": "2026-03-02T09:52:23.503Z"
+      "needsUpdate": false,
+      "note": "保留原有的真實照片",
+      "lastUpdated": "2026-03-15"
     },
     "status": "上架",
     "missingFields": [
@@ -23648,9 +23488,12 @@
         "https://www.sce.ntnu.edu.tw/home/src/img/space/tw/12/IMG_4436_compressed.jpg",
         "https://www.sce.ntnu.edu.tw/home/src/img/space/tw/14/1.jpg"
       ],
+      "floorPlan": "",
       "source": "https://www.sce.ntnu.edu.tw/home/space/",
       "verified": true,
-      "verifiedAt": "2026-03-02T09:52:23.503Z"
+      "needsUpdate": false,
+      "note": "保留原有的真實照片",
+      "lastUpdated": "2026-03-15"
     },
     "status": "上架",
     "missingFields": [
@@ -23701,9 +23544,12 @@
         "https://www.sce.ntnu.edu.tw/home/src/img/space/tw/12/IMG_4436_compressed.jpg",
         "https://www.sce.ntnu.edu.tw/home/src/img/space/tw/14/1.jpg"
       ],
+      "floorPlan": "",
       "source": "https://www.sce.ntnu.edu.tw/home/space/",
       "verified": true,
-      "verifiedAt": "2026-03-02T09:52:23.503Z"
+      "needsUpdate": false,
+      "note": "保留原有的真實照片",
+      "lastUpdated": "2026-03-15"
     },
     "status": "上架",
     "missingFields": [
@@ -23754,9 +23600,12 @@
         "https://www.sce.ntnu.edu.tw/home/src/img/space/tw/12/IMG_4436_compressed.jpg",
         "https://www.sce.ntnu.edu.tw/home/src/img/space/tw/14/1.jpg"
       ],
+      "floorPlan": "",
       "source": "https://www.sce.ntnu.edu.tw/home/space/",
       "verified": true,
-      "verifiedAt": "2026-03-02T09:52:23.503Z"
+      "needsUpdate": false,
+      "note": "保留原有的真實照片",
+      "lastUpdated": "2026-03-15"
     },
     "status": "上架",
     "missingFields": [
@@ -23807,9 +23656,12 @@
         "https://www.sce.ntnu.edu.tw/home/src/img/space/tw/12/IMG_4436_compressed.jpg",
         "https://www.sce.ntnu.edu.tw/home/src/img/space/tw/14/1.jpg"
       ],
+      "floorPlan": "",
       "source": "https://www.sce.ntnu.edu.tw/home/space/",
       "verified": true,
-      "verifiedAt": "2026-03-02T09:52:23.503Z"
+      "needsUpdate": false,
+      "note": "保留原有的真實照片",
+      "lastUpdated": "2026-03-15"
     },
     "status": "上架",
     "missingFields": [
@@ -23860,9 +23712,12 @@
         "https://www.sce.ntnu.edu.tw/home/src/img/space/tw/12/IMG_4436_compressed.jpg",
         "https://www.sce.ntnu.edu.tw/home/src/img/space/tw/14/1.jpg"
       ],
+      "floorPlan": "",
       "source": "https://www.sce.ntnu.edu.tw/home/space/",
       "verified": true,
-      "verifiedAt": "2026-03-02T09:52:23.503Z"
+      "needsUpdate": false,
+      "note": "保留原有的真實照片",
+      "lastUpdated": "2026-03-15"
     },
     "status": "上架",
     "missingFields": [
@@ -23911,10 +23766,14 @@
     "statusChangedAt": "2026-03-03T10:24:23.089Z",
     "statusChangeReason": "SOP V4.7 完整驗證",
     "images": {
+      "main": "https://images.unsplash.com/photo-1475721027785-f74eccf877e2?w=800&auto=format",
+      "gallery": [],
+      "floorPlan": "",
+      "source": "https://unsplash.com",
+      "verified": false,
       "needsUpdate": false,
       "note": "使用相關的 Unsplash 照片（展演場地類型）",
-      "lastUpdated": "2026-03-15",
-      "main": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800&auto=format"
+      "lastUpdated": "2026-03-15"
     },
     "priceNote": "需電詢 02-2725-5200",
     "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E4%BF%A1%E7%BE%A9%E5%8D%80%E4%BF%A1%E7%BE%A9%E8%B7%AF%E4%BA%94%E6%AE%B55%E8%99%9F",
@@ -23948,10 +23807,14 @@
     "statusChangedAt": "2026-03-03T10:24:23.089Z",
     "statusChangeReason": "SOP V4.7 完整驗證",
     "images": {
+      "main": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800&auto=format",
+      "gallery": [],
+      "floorPlan": "",
+      "source": "https://unsplash.com",
+      "verified": false,
       "needsUpdate": false,
       "note": "使用相關的 Unsplash 照片（展演場地類型）",
-      "lastUpdated": "2026-03-15",
-      "main": "https://images.unsplash.com/photo-1540575467063-178a50c2df87?w=800&auto=format"
+      "lastUpdated": "2026-03-15"
     },
     "priceNote": "需電詢 02-2725-5200",
     "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E4%BF%A1%E7%BE%A9%E5%8D%80%E4%BF%A1%E7%BE%A9%E8%B7%AF%E4%BA%94%E6%AE%B55%E8%99%9F",
@@ -23985,10 +23848,14 @@
     "statusChangedAt": "2026-03-03T10:24:23.089Z",
     "statusChangeReason": "SOP V4.7 完整驗證",
     "images": {
+      "main": "https://images.unsplash.com/photo-1540575467063-178a50c2df87?w=800&auto=format",
+      "gallery": [],
+      "floorPlan": "",
+      "source": "https://unsplash.com",
+      "verified": false,
       "needsUpdate": false,
       "note": "使用相關的 Unsplash 照片（展演場地類型）",
-      "lastUpdated": "2026-03-15",
-      "main": "https://images.unsplash.com/photo-1475721027785-f74eccf877e2?w=800&auto=format"
+      "lastUpdated": "2026-03-15"
     },
     "priceNote": "需電詢 02-2725-5200",
     "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E4%BF%A1%E7%BE%A9%E5%8D%80%E4%BF%A1%E7%BE%A9%E8%B7%AF%E4%BA%94%E6%AE%B55%E8%99%9F",
@@ -24022,10 +23889,14 @@
     "statusChangedAt": "2026-03-03T10:24:23.089Z",
     "statusChangeReason": "SOP V4.7 完整驗證",
     "images": {
+      "main": "https://images.unsplash.com/photo-1475721027785-f74eccf877e2?w=800&auto=format",
+      "gallery": [],
+      "floorPlan": "",
+      "source": "https://unsplash.com",
+      "verified": false,
       "needsUpdate": false,
       "note": "使用相關的 Unsplash 照片（展演場地類型）",
-      "lastUpdated": "2026-03-15",
-      "main": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800&auto=format"
+      "lastUpdated": "2026-03-15"
     },
     "priceNote": "需電詢 02-2725-5200",
     "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E4%BF%A1%E7%BE%A9%E5%8D%80%E4%BF%A1%E7%BE%A9%E8%B7%AF%E4%BA%94%E6%AE%B55%E8%99%9F",
@@ -24059,10 +23930,14 @@
     "statusChangedAt": "2026-03-03T10:24:23.089Z",
     "statusChangeReason": "SOP V4.7 完整驗證",
     "images": {
+      "main": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800&auto=format",
+      "gallery": [],
+      "floorPlan": "",
+      "source": "https://unsplash.com",
+      "verified": false,
       "needsUpdate": false,
       "note": "使用相關的 Unsplash 照片（展演場地類型）",
-      "lastUpdated": "2026-03-15",
-      "main": "https://images.unsplash.com/photo-1540575467063-178a50c2df87?w=800&auto=format"
+      "lastUpdated": "2026-03-15"
     },
     "priceNote": "需電詢 02-2725-5200",
     "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E4%BF%A1%E7%BE%A9%E5%8D%80%E4%BF%A1%E7%BE%A9%E8%B7%AF%E4%BA%94%E6%AE%B55%E8%99%9F",
@@ -24111,6 +23986,8 @@
       "main": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?w=800&auto=format",
       "gallery": [],
       "floorPlan": "",
+      "source": "https://unsplash.com",
+      "verified": false,
       "needsUpdate": false,
       "note": "使用相關的 Unsplash 照片（會議中心類型）",
       "lastUpdated": "2026-03-15"
@@ -24162,9 +24039,11 @@
     "statusChangedAt": "2026-03-04T21:26:34.472299",
     "statusChangeReason": "照片欄位已添加，資料完整",
     "images": {
-      "main": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800&auto=format",
+      "main": "https://images.unsplash.com/photo-1497366811353-6870744d04b2?w=800&auto=format",
       "gallery": [],
       "floorPlan": "",
+      "source": "https://unsplash.com",
+      "verified": false,
       "needsUpdate": false,
       "note": "使用相關的 Unsplash 照片（會議中心類型）",
       "lastUpdated": "2026-03-15"
@@ -24215,9 +24094,11 @@
     "statusChangedAt": "2026-03-04T21:26:34.472308",
     "statusChangeReason": "照片欄位已添加，資料完整",
     "images": {
-      "main": "https://images.unsplash.com/photo-1497366811353-6870744d04b2?w=800&auto=format",
+      "main": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800&auto=format",
       "gallery": [],
       "floorPlan": "",
+      "source": "https://unsplash.com",
+      "verified": false,
       "needsUpdate": false,
       "note": "使用相關的 Unsplash 照片（會議中心類型）",
       "lastUpdated": "2026-03-15"
@@ -24270,6 +24151,8 @@
       "main": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?w=800&auto=format",
       "gallery": [],
       "floorPlan": "",
+      "source": "https://unsplash.com",
+      "verified": false,
       "needsUpdate": false,
       "note": "使用相關的 Unsplash 照片（會議中心類型）",
       "lastUpdated": "2026-03-15"
@@ -24319,9 +24202,11 @@
     "statusChangedAt": "2026-03-04T21:26:34.472320",
     "statusChangeReason": "照片欄位已添加，資料完整",
     "images": {
-      "main": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800&auto=format",
+      "main": "https://images.unsplash.com/photo-1497366811353-6870744d04b2?w=800&auto=format",
       "gallery": [],
       "floorPlan": "",
+      "source": "https://unsplash.com",
+      "verified": false,
       "needsUpdate": false,
       "note": "使用相關的 Unsplash 照片（會議中心類型）",
       "lastUpdated": "2026-03-15"
@@ -24371,9 +24256,11 @@
     "statusChangedAt": "2026-03-04T21:26:34.472326",
     "statusChangeReason": "照片欄位已添加，資料完整",
     "images": {
-      "main": "https://images.unsplash.com/photo-1497366811353-6870744d04b2?w=800&auto=format",
+      "main": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800&auto=format",
       "gallery": [],
       "floorPlan": "",
+      "source": "https://unsplash.com",
+      "verified": false,
       "needsUpdate": false,
       "note": "使用相關的 Unsplash 照片（會議中心類型）",
       "lastUpdated": "2026-03-15"
@@ -24426,6 +24313,8 @@
       "main": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?w=800&auto=format",
       "gallery": [],
       "floorPlan": "",
+      "source": "https://unsplash.com",
+      "verified": false,
       "needsUpdate": false,
       "note": "使用相關的 Unsplash 照片（會議中心類型）",
       "lastUpdated": "2026-03-15"
@@ -24462,9 +24351,6 @@
     "statusChangedAt": "2026-03-03T10:24:23.089Z",
     "statusChangeReason": "SOP V4.7 完整驗證",
     "images": {
-      "needsUpdate": false,
-      "note": "從官網爬取真實照片",
-      "lastUpdated": "2026-03-07",
       "main": "https://www.pengyuan.com.tw/images/serenity.jpg",
       "gallery": [
         "https://www.pengyuan.com.tw/upload/pictures/news/5702_first dance(724x 322 像素).jpg",
@@ -24474,10 +24360,12 @@
         "https://www.pengyuan.com.tw/upload/pictures/news/0212_拍拍印970_0.jpg",
         "https://www.pengyuan.com.tw/upload/pictures/news/0815_2025首看下定.jpg"
       ],
+      "floorPlan": "",
       "source": "https://www.pengyuan.com.tw",
       "verified": true,
-      "verifiedAt": "2026-03-07T21:12:58.373538",
-      "updateReason": "批量更新：補充照片"
+      "needsUpdate": false,
+      "note": "從官網爬取真實照片",
+      "lastUpdated": "2026-03-15"
     },
     "priceNote": "需電詢 02-2772-3838",
     "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E5%A4%A7%E5%AE%89%E5%8D%80%E5%BF%A0%E5%AD%9D%E6%9D%B1%E8%B7%AF%E5%9B%9B%E6%AE%B5219%E8%99%9F",
@@ -24510,9 +24398,6 @@
     "statusChangedAt": "2026-03-03T10:24:23.089Z",
     "statusChangeReason": "SOP V4.7 完整驗證",
     "images": {
-      "needsUpdate": false,
-      "note": "從官網爬取真實照片",
-      "lastUpdated": "2026-03-07",
       "main": "https://www.pengyuan.com.tw/images/serenity.jpg",
       "gallery": [
         "https://www.pengyuan.com.tw/upload/pictures/news/5702_first dance(724x 322 像素).jpg",
@@ -24522,10 +24407,12 @@
         "https://www.pengyuan.com.tw/upload/pictures/news/0212_拍拍印970_0.jpg",
         "https://www.pengyuan.com.tw/upload/pictures/news/0815_2025首看下定.jpg"
       ],
+      "floorPlan": "",
       "source": "https://www.pengyuan.com.tw",
       "verified": true,
-      "verifiedAt": "2026-03-07T21:12:58.373554",
-      "updateReason": "批量更新：補充照片"
+      "needsUpdate": false,
+      "note": "從官網爬取真實照片",
+      "lastUpdated": "2026-03-15"
     },
     "priceNote": "需電詢 02-2772-3838",
     "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E5%A4%A7%E5%AE%89%E5%8D%80%E5%BF%A0%E5%AD%9D%E6%9D%B1%E8%B7%AF%E5%9B%9B%E6%AE%B5219%E8%99%9F",
@@ -24558,9 +24445,6 @@
     "statusChangedAt": "2026-03-03T10:24:23.089Z",
     "statusChangeReason": "SOP V4.7 完整驗證",
     "images": {
-      "needsUpdate": false,
-      "note": "從官網爬取真實照片",
-      "lastUpdated": "2026-03-07",
       "main": "https://www.pengyuan.com.tw/images/serenity.jpg",
       "gallery": [
         "https://www.pengyuan.com.tw/upload/pictures/news/5702_first dance(724x 322 像素).jpg",
@@ -24570,10 +24454,12 @@
         "https://www.pengyuan.com.tw/upload/pictures/news/0212_拍拍印970_0.jpg",
         "https://www.pengyuan.com.tw/upload/pictures/news/0815_2025首看下定.jpg"
       ],
+      "floorPlan": "",
       "source": "https://www.pengyuan.com.tw",
       "verified": true,
-      "verifiedAt": "2026-03-07T21:12:58.373569",
-      "updateReason": "批量更新：補充照片"
+      "needsUpdate": false,
+      "note": "從官網爬取真實照片",
+      "lastUpdated": "2026-03-15"
     },
     "priceNote": "需電詢 02-2772-3838",
     "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E5%A4%A7%E5%AE%89%E5%8D%80%E5%BF%A0%E5%AD%9D%E6%9D%B1%E8%B7%AF%E5%9B%9B%E6%AE%B5219%E8%99%9F",
@@ -24606,10 +24492,14 @@
     "statusChangedAt": "2026-03-03T10:24:23.089Z",
     "statusChangeReason": "SOP V4.7 完整驗證",
     "images": {
+      "main": "https://images.unsplash.com/photo-1519167758481-83f550bb49b3?w=800&auto=format",
+      "gallery": [],
+      "floorPlan": "",
+      "source": "https://unsplash.com",
+      "verified": false,
       "needsUpdate": false,
       "note": "使用相關的 Unsplash 照片（婚宴場地類型）",
-      "lastUpdated": "2026-03-15",
-      "main": "https://images.unsplash.com/photo-1519167758481-83f550bb49b3?w=800&auto=format"
+      "lastUpdated": "2026-03-15"
     },
     "priceNote": "需電詢 02-2772-3838",
     "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E5%A4%A7%E5%AE%89%E5%8D%80%E5%BF%A0%E5%AD%9D%E6%9D%B1%E8%B7%AF%E5%9B%9B%E6%AE%B5219%E8%99%9F",
@@ -24642,10 +24532,14 @@
     "statusChangedAt": "2026-03-03T10:24:23.089Z",
     "statusChangeReason": "SOP V4.7 完整驗證",
     "images": {
+      "main": "https://images.unsplash.com/photo-1464366400600-7168b8af9bc3?w=800&auto=format",
+      "gallery": [],
+      "floorPlan": "",
+      "source": "https://unsplash.com",
+      "verified": false,
       "needsUpdate": false,
       "note": "使用相關的 Unsplash 照片（婚宴場地類型）",
-      "lastUpdated": "2026-03-15",
-      "main": "https://images.unsplash.com/photo-1464366400600-7168b8af9bc3?w=800&auto=format"
+      "lastUpdated": "2026-03-15"
     },
     "priceNote": "需電詢 02-2772-3838",
     "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E5%A4%A7%E5%AE%89%E5%8D%80%E5%BF%A0%E5%AD%9D%E6%9D%B1%E8%B7%AF%E5%9B%9B%E6%AE%B5219%E8%99%9F",
@@ -24678,10 +24572,14 @@
     "statusChangedAt": "2026-03-03T10:24:23.089Z",
     "statusChangeReason": "SOP V4.7 完整驗證",
     "images": {
+      "main": "https://images.unsplash.com/photo-1540575467063-178a50c2df87?w=800&auto=format",
+      "gallery": [],
+      "floorPlan": "",
+      "source": "https://unsplash.com",
+      "verified": false,
       "needsUpdate": false,
       "note": "使用相關的 Unsplash 照片（展演場地類型）",
-      "lastUpdated": "2026-03-15",
-      "main": "https://images.unsplash.com/photo-1475721027785-f74eccf877e2?w=800&auto=format"
+      "lastUpdated": "2026-03-15"
     },
     "priceNote": "需電詢 02-2358-1914",
     "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E6%AD%A3%E5%8D%80%E5%85%AB%E5%BE%B7%E8%B7%AF%E4%B8%80%E6%AE%B51%E8%99%9F",
@@ -24714,10 +24612,14 @@
     "statusChangedAt": "2026-03-03T10:24:23.089Z",
     "statusChangeReason": "SOP V4.7 完整驗證",
     "images": {
+      "main": "https://images.unsplash.com/photo-1475721027785-f74eccf877e2?w=800&auto=format",
+      "gallery": [],
+      "floorPlan": "",
+      "source": "https://unsplash.com",
+      "verified": false,
       "needsUpdate": false,
       "note": "使用相關的 Unsplash 照片（展演場地類型）",
-      "lastUpdated": "2026-03-15",
-      "main": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800&auto=format"
+      "lastUpdated": "2026-03-15"
     },
     "priceHalfDay": null,
     "priceFullDay": null,
@@ -24752,10 +24654,14 @@
     "statusChangedAt": "2026-03-03T10:24:23.089Z",
     "statusChangeReason": "SOP V4.7 完整驗證",
     "images": {
+      "main": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800&auto=format",
+      "gallery": [],
+      "floorPlan": "",
+      "source": "https://unsplash.com",
+      "verified": false,
       "needsUpdate": false,
       "note": "使用相關的 Unsplash 照片（展演場地類型）",
-      "lastUpdated": "2026-03-15",
-      "main": "https://images.unsplash.com/photo-1540575467063-178a50c2df87?w=800&auto=format"
+      "lastUpdated": "2026-03-15"
     },
     "priceNote": "需電詢 02-2358-1914",
     "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E6%AD%A3%E5%8D%80%E5%85%AB%E5%BE%B7%E8%B7%AF%E4%B8%80%E6%AE%B51%E8%99%9F",
@@ -24788,10 +24694,14 @@
     "statusChangedAt": "2026-03-03T10:24:23.089Z",
     "statusChangeReason": "SOP V4.7 完整驗證",
     "images": {
+      "main": "https://images.unsplash.com/photo-1540575467063-178a50c2df87?w=800&auto=format",
+      "gallery": [],
+      "floorPlan": "",
+      "source": "https://unsplash.com",
+      "verified": false,
       "needsUpdate": false,
       "note": "使用相關的 Unsplash 照片（展演場地類型）",
-      "lastUpdated": "2026-03-15",
-      "main": "https://images.unsplash.com/photo-1475721027785-f74eccf877e2?w=800&auto=format"
+      "lastUpdated": "2026-03-15"
     },
     "priceNote": "需電詢 02-2358-1914",
     "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E6%AD%A3%E5%8D%80%E5%85%AB%E5%BE%B7%E8%B7%AF%E4%B8%80%E6%AE%B51%E8%99%9F",
@@ -24824,10 +24734,14 @@
     "statusChangedAt": "2026-03-03T10:24:23.089Z",
     "statusChangeReason": "SOP V4.7 完整驗證",
     "images": {
+      "main": "https://images.unsplash.com/photo-1475721027785-f74eccf877e2?w=800&auto=format",
+      "gallery": [],
+      "floorPlan": "",
+      "source": "https://unsplash.com",
+      "verified": false,
       "needsUpdate": false,
       "note": "使用相關的 Unsplash 照片（展演場地類型）",
-      "lastUpdated": "2026-03-15",
-      "main": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800&auto=format"
+      "lastUpdated": "2026-03-15"
     },
     "priceNote": "需電詢 02-2358-1914",
     "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E6%AD%A3%E5%8D%80%E5%85%AB%E5%BE%B7%E8%B7%AF%E4%B8%80%E6%AE%B51%E8%99%9F",
@@ -24860,10 +24774,14 @@
     "statusChangedAt": "2026-03-03T10:24:23.089Z",
     "statusChangeReason": "SOP V4.7 完整驗證",
     "images": {
+      "main": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800&auto=format",
+      "gallery": [],
+      "floorPlan": "",
+      "source": "https://unsplash.com",
+      "verified": false,
       "needsUpdate": false,
       "note": "使用相關的 Unsplash 照片（展演場地類型）",
-      "lastUpdated": "2026-03-15",
-      "main": "https://images.unsplash.com/photo-1540575467063-178a50c2df87?w=800&auto=format"
+      "lastUpdated": "2026-03-15"
     },
     "priceNote": "需電詢 02-2358-1914",
     "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E6%AD%A3%E5%8D%80%E5%85%AB%E5%BE%B7%E8%B7%AF%E4%B8%80%E6%AE%B51%E8%99%9F",
@@ -24896,10 +24814,14 @@
     "statusChangedAt": "2026-03-03T10:24:23.089Z",
     "statusChangeReason": "SOP V4.7 完整驗證",
     "images": {
+      "main": "https://images.unsplash.com/photo-1540575467063-178a50c2df87?w=800&auto=format",
+      "gallery": [],
+      "floorPlan": "",
+      "source": "https://unsplash.com",
+      "verified": false,
       "needsUpdate": false,
       "note": "使用相關的 Unsplash 照片（展演場地類型）",
-      "lastUpdated": "2026-03-15",
-      "main": "https://images.unsplash.com/photo-1475721027785-f74eccf877e2?w=800&auto=format"
+      "lastUpdated": "2026-03-15"
     },
     "priceNote": "需電詢 02-2358-1914",
     "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E6%AD%A3%E5%8D%80%E5%85%AB%E5%BE%B7%E8%B7%AF%E4%B8%80%E6%AE%B51%E8%99%9F",
@@ -24932,10 +24854,14 @@
     "statusChangedAt": "2026-03-03T10:24:23.089Z",
     "statusChangeReason": "SOP V4.7 完整驗證",
     "images": {
+      "main": "https://images.unsplash.com/photo-1475721027785-f74eccf877e2?w=800&auto=format",
+      "gallery": [],
+      "floorPlan": "",
+      "source": "https://unsplash.com",
+      "verified": false,
       "needsUpdate": false,
       "note": "使用相關的 Unsplash 照片（展演場地類型）",
-      "lastUpdated": "2026-03-15",
-      "main": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800&auto=format"
+      "lastUpdated": "2026-03-15"
     },
     "priceNote": "需電詢 02-2358-1914",
     "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E6%AD%A3%E5%8D%80%E5%85%AB%E5%BE%B7%E8%B7%AF%E4%B8%80%E6%AE%B51%E8%99%9F",
@@ -24968,10 +24894,14 @@
     "statusChangedAt": "2026-03-03T10:24:23.089Z",
     "statusChangeReason": "SOP V4.7 完整驗證",
     "images": {
+      "main": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800&auto=format",
+      "gallery": [],
+      "floorPlan": "",
+      "source": "https://unsplash.com",
+      "verified": false,
       "needsUpdate": false,
       "note": "使用相關的 Unsplash 照片（展演場地類型）",
-      "lastUpdated": "2026-03-15",
-      "main": "https://images.unsplash.com/photo-1540575467063-178a50c2df87?w=800&auto=format"
+      "lastUpdated": "2026-03-15"
     },
     "priceNote": "需電詢 02-2358-1914",
     "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E6%AD%A3%E5%8D%80%E5%85%AB%E5%BE%B7%E8%B7%AF%E4%B8%80%E6%AE%B51%E8%99%9F",
@@ -25001,7 +24931,9 @@
     "images": {
       "main": "https://images.unsplash.com/photo-1559223607-a43c990c692c?w=800&auto=format",
       "gallery": [],
-      "source": "https://www.tainex.com.tw/",
+      "floorPlan": "",
+      "source": "https://unsplash.com",
+      "verified": false,
       "needsUpdate": false,
       "note": "使用相關的 Unsplash 照片（展覽中心類型）",
       "lastUpdated": "2026-03-15"
@@ -25061,10 +24993,14 @@
     "statusChangedAt": "2026-03-03T10:24:23.089Z",
     "statusChangeReason": "SOP V4.7 完整驗證",
     "images": {
+      "main": "https://images.unsplash.com/photo-1540575467063-178a50c2df87?w=800&auto=format",
+      "gallery": [],
+      "floorPlan": "",
+      "source": "https://unsplash.com",
+      "verified": false,
       "needsUpdate": false,
       "note": "使用相關的 Unsplash 照片（展覽中心類型）",
-      "lastUpdated": "2026-03-15",
-      "main": "https://images.unsplash.com/photo-1540575467063-178a50c2df87?w=800&auto=format"
+      "lastUpdated": "2026-03-15"
     },
     "priceNote": "需電詢 02-2725-5200 #5527",
     "lastUpdated": "2026-03-05T06:06:15.098Z",
@@ -25106,10 +25042,14 @@
     "statusChangedAt": "2026-03-03T10:24:23.089Z",
     "statusChangeReason": "SOP V4.7 完整驗證",
     "images": {
+      "main": "https://images.unsplash.com/photo-1505373877841-8d25f7d46678?w=800&auto=format",
+      "gallery": [],
+      "floorPlan": "",
+      "source": "https://unsplash.com",
+      "verified": false,
       "needsUpdate": false,
       "note": "使用相關的 Unsplash 照片（展覽中心類型）",
-      "lastUpdated": "2026-03-15",
-      "main": "https://images.unsplash.com/photo-1505373877841-8d25f7d46678?w=800&auto=format"
+      "lastUpdated": "2026-03-15"
     },
     "priceNote": "需電詢 02-2725-5200 #5527",
     "lastUpdated": "2026-03-05T06:06:15.098Z",
@@ -25152,10 +25092,14 @@
     "statusChangedAt": "2026-03-03T10:24:23.089Z",
     "statusChangeReason": "SOP V4.7 完整驗證",
     "images": {
+      "main": "https://images.unsplash.com/photo-1559223607-a43c990c692c?w=800&auto=format",
+      "gallery": [],
+      "floorPlan": "",
+      "source": "https://unsplash.com",
+      "verified": false,
       "needsUpdate": false,
       "note": "使用相關的 Unsplash 照片（展覽中心類型）",
-      "lastUpdated": "2026-03-15",
-      "main": "https://images.unsplash.com/photo-1559223607-a43c990c692c?w=800&auto=format"
+      "lastUpdated": "2026-03-15"
     },
     "priceNote": "需電詢 02-2725-5200 #5527",
     "lastUpdated": "2026-03-05T06:06:15.098Z",
@@ -25196,10 +25140,14 @@
     "statusChangedAt": "2026-03-03T10:24:23.089Z",
     "statusChangeReason": "SOP V4.7 完整驗證",
     "images": {
+      "main": "https://images.unsplash.com/photo-1540575467063-178a50c2df87?w=800&auto=format",
+      "gallery": [],
+      "floorPlan": "",
+      "source": "https://unsplash.com",
+      "verified": false,
       "needsUpdate": false,
       "note": "使用相關的 Unsplash 照片（展覽中心類型）",
-      "lastUpdated": "2026-03-15",
-      "main": "https://images.unsplash.com/photo-1540575467063-178a50c2df87?w=800&auto=format"
+      "lastUpdated": "2026-03-15"
     },
     "priceNote": "需電詢 02-2725-5200 #5527",
     "lastUpdated": "2026-03-05T06:06:15.098Z",
@@ -25228,10 +25176,14 @@
     "statusChangedAt": "2026-03-03T10:24:23.089Z",
     "statusChangeReason": "SOP V4.7 完整驗證",
     "images": {
+      "main": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800&auto=format",
+      "gallery": [],
+      "floorPlan": "",
+      "source": "https://unsplash.com",
+      "verified": false,
       "needsUpdate": false,
-      "note": "使用相關的 Unsplash 照片（未知類型）",
-      "lastUpdated": "2026-03-15",
-      "main": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800&auto=format"
+      "note": "使用相關的 Unsplash 照片（None類型）",
+      "lastUpdated": "2026-03-15"
     },
     "priceNote": "需電詢 ",
     "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E5%A4%A7%E5%AE%89%E5%8D%80%E5%BF%A0%E5%AD%9D%E6%9D%B1%E8%B7%AF%E4%B8%89%E6%AE%B51%E8%99%9F%20%28%E5%84%84%E5%85%89%E5%A4%A7%E6%A8%932~3%E6%A8%93%29",
@@ -25259,10 +25211,14 @@
     "statusChangedAt": "2026-03-03T10:24:23.089Z",
     "statusChangeReason": "SOP V4.7 完整驗證",
     "images": {
+      "main": "https://images.unsplash.com/photo-1497366811353-6870744d04b2?w=800&auto=format",
+      "gallery": [],
+      "floorPlan": "",
+      "source": "https://unsplash.com",
+      "verified": false,
       "needsUpdate": false,
-      "note": "使用相關的 Unsplash 照片（未知類型）",
-      "lastUpdated": "2026-03-15",
-      "main": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800&auto=format"
+      "note": "使用相關的 Unsplash 照片（None類型）",
+      "lastUpdated": "2026-03-15"
     },
     "priceNote": "需電詢 ",
     "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E6%9D%AD%E5%B7%9E%E5%8D%97%E8%B7%AF%E4%B8%80%E6%AE%B524%E8%99%9F",
@@ -25356,10 +25312,14 @@
     "statusChangedAt": "2026-03-03T10:24:23.089Z",
     "statusChangeReason": "SOP V4.7 完整驗證",
     "images": {
+      "main": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800&auto=format",
+      "gallery": [],
+      "floorPlan": "",
+      "source": "https://unsplash.com",
+      "verified": false,
       "needsUpdate": false,
       "note": "使用相關的 Unsplash 照片（飯店場地類型）",
-      "lastUpdated": "2026-03-15",
-      "main": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800&auto=format"
+      "lastUpdated": "2026-03-15"
     },
     "priceNote": "需電詢 02-2523-2828",
     "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E5%B1%B1%E5%8D%80%E5%8C%97%E5%AE%89%E8%B7%AF595%E5%B7%B720%E8%99%9F",
@@ -25389,10 +25349,14 @@
     "statusChangedAt": "2026-03-03T10:24:23.089Z",
     "statusChangeReason": "SOP V4.7 完整驗證",
     "images": {
+      "main": "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?w=800&auto=format",
+      "gallery": [],
+      "floorPlan": "",
+      "source": "https://unsplash.com",
+      "verified": false,
       "needsUpdate": false,
       "note": "使用相關的 Unsplash 照片（飯店場地類型）",
-      "lastUpdated": "2026-03-15",
-      "main": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?w=800&auto=format"
+      "lastUpdated": "2026-03-15"
     },
     "priceNote": "需電詢 02-2523-2828",
     "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E5%B1%B1%E5%8D%80%E5%8C%97%E5%AE%89%E8%B7%AF595%E5%B7%B720%E8%99%9F",
