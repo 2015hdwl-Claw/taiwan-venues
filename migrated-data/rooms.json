@@ -3164,37 +3164,6 @@
     "updatedAt": "2026-03-14T22:31:06.776778"
   },
   {
-    "id": 2330,
-    "venueId": 1067,
-    "name": "韻律教室",
-    "roomType": "活動中心",
-    "capacity": {
-      "theater": 60,
-      "classroom": 35
-    },
-    "pricing": {
-      "halfDay": 3500,
-      "fullDay": 6000
-    },
-    "availability": {
-      "weekday": "06:00-22:00",
-      "weekend": "06:00-22:00"
-    },
-    "equipment": [
-      "音響",
-      "空調"
-    ],
-    "images": {
-      "main": "https://images.unsplash.com/photo-1461896836934- voices-of-basketball?w=800",
-      "gallery": [],
-      "floorPlan": ""
-    },
-    "status": "維護中",
-    "sortOrder": 0,
-    "createdAt": "2026-03-14T22:31:06.789816",
-    "updatedAt": "2026-03-14T22:31:06.789818"
-  },
-  {
     "id": 2053,
     "venueId": 1068,
     "name": "會議廳",
@@ -3224,43 +3193,6 @@
     "sortOrder": 0,
     "createdAt": "2026-03-14T22:31:06.776787",
     "updatedAt": "2026-03-14T22:31:06.776789"
-  },
-  {
-    "id": 2054,
-    "venueId": 1069,
-    "name": "六福廳",
-    "roomType": "宴會廳",
-    "capacity": {
-      "theater": 200,
-      "classroom": 120
-    },
-    "pricing": {
-      "halfDay": 22000,
-      "fullDay": 40000
-    },
-    "availability": {
-      "weekday": "08:00-22:00",
-      "weekend": "08:00-22:00"
-    },
-    "equipment": [
-      "基本音響",
-      "投影設備"
-    ],
-    "images": {
-      "main": "https://www.leofoo.com.tw/asset/types/main/img/index/kv_img_01.jpg",
-      "gallery": [
-        "https://www.leofoo.com.tw/asset/types/main/img/index/kv_img_01.jpg",
-        "https://www.leofoo.com.tw/asset/types/main/img/index/kv_img_02.jpg",
-        "https://www.leofoo.com.tw/asset/types/main/img/index/kv_img_03.jpg",
-        "https://www.leofoo.com.tw/asset/types/main/img/index/kv_img_04.jpg",
-        "https://www.leofoo.com.tw/asset/types/main/img/index/kv_img_05.jpg"
-      ],
-      "floorPlan": ""
-    },
-    "status": "開放",
-    "sortOrder": 0,
-    "createdAt": "2026-03-14T22:31:06.776794",
-    "updatedAt": "2026-03-14T22:31:06.776796"
   },
   {
     "id": 2055,
@@ -3325,37 +3257,6 @@
     "sortOrder": 0,
     "createdAt": "2026-03-14T22:31:06.776704",
     "updatedAt": "2026-03-14T22:31:06.776706"
-  },
-  {
-    "id": 2056,
-    "venueId": 1072,
-    "name": "維多麗亞廳",
-    "roomType": "婚宴會館",
-    "capacity": {
-      "theater": 800,
-      "classroom": 450
-    },
-    "pricing": {
-      "halfDay": 100000,
-      "fullDay": 180000
-    },
-    "availability": {
-      "weekday": "11:00-22:00",
-      "weekend": "11:00-22:00"
-    },
-    "equipment": [
-      "專業音響燈光",
-      "LED螢幕"
-    ],
-    "images": {
-      "main": "https://images.unsplash.com/photo-1519167758481-83f550bb49b3?w=800",
-      "gallery": [],
-      "floorPlan": ""
-    },
-    "status": "開放",
-    "sortOrder": 0,
-    "createdAt": "2026-03-14T22:31:06.776808",
-    "updatedAt": "2026-03-14T22:31:06.776810"
   },
   {
     "id": 2057,
@@ -3463,148 +3364,6 @@
     "sortOrder": 0,
     "createdAt": "2026-03-14T22:31:06.776821",
     "updatedAt": "2026-03-14T22:31:06.776822"
-  },
-  {
-    "id": 2059,
-    "venueId": 1076,
-    "name": "君品廳",
-    "roomType": "宴會廳",
-    "capacity": {
-      "theater": 500,
-      "classroom": 240
-    },
-    "pricing": {
-      "halfDay": 100000,
-      "fullDay": 120000
-    },
-    "availability": {
-      "weekday": "08:00-22:00",
-      "weekend": "08:00-22:00"
-    },
-    "equipment": [
-      "專業音響燈光",
-      "投影設備"
-    ],
-    "images": {
-      "main": "https://www.palaisdechinehotel.com/files/pages_166395669412l5itv66_l.jpg",
-      "gallery": [
-        "https://www.palaisdechinehotel.com/files/pages_166395676912l5iw448_l.jpg",
-        "https://www.palaisdechinehotel.com/files/pages_166395675612l5ivp46_l.jpg",
-        "https://www.palaisdechinehotel.com/files/pages_176833022014v93dg66_m.jpg",
-        "https://www.palaisdechinehotel.com/files/pages_176762948314up97j66_m.jpg",
-        "https://www.palaisdechinehotel.com/files/pages_1727782665140vfmb63_m.jpg",
-        "https://www.palaisdechinehotel.com/files/pages_166663882212n5r0v78_m.jpg",
-        "https://www.palaisdechinehotel.com/files/pages_166683633912naru848_m.jpg",
-        "https://www.palaisdechinehotel.com/files/pages_166202695212jofhn64_m.jpg"
-      ],
-      "floorPlan": ""
-    },
-    "status": "維護中",
-    "sortOrder": 0,
-    "createdAt": "2026-03-14T22:31:06.777050",
-    "updatedAt": "2026-03-14T22:31:06.777055"
-  },
-  {
-    "id": 2402,
-    "venueId": 1076,
-    "name": "宴會廳",
-    "roomType": "宴會廳",
-    "capacity": {
-      "theater": 300,
-      "classroom": 240
-    },
-    "pricing": {
-      "halfDay": 65000,
-      "fullDay": 120000
-    },
-    "availability": {
-      "weekday": "08:00-22:00",
-      "weekend": "08:00-22:00"
-    },
-    "equipment": [
-      "專業音響燈光",
-      "投影設備"
-    ],
-    "images": {
-      "main": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800",
-      "gallery": [
-        "https://images.unsplash.com/photo-1505236858219-8359eb29e329?w=800",
-        "https://images.unsplash.com/photo-1484154218962-a197022b5858?w=800"
-      ],
-      "floorPlan": ""
-    },
-    "status": "維護中",
-    "sortOrder": 0,
-    "createdAt": "2026-03-14T22:31:06.792083",
-    "updatedAt": "2026-03-14T22:31:06.792089"
-  },
-  {
-    "id": 2403,
-    "venueId": 1076,
-    "name": "會議室A",
-    "roomType": "宴會廳",
-    "capacity": {
-      "theater": 80,
-      "classroom": 240
-    },
-    "pricing": {
-      "halfDay": 20000,
-      "fullDay": 120000
-    },
-    "availability": {
-      "weekday": "08:00-22:00",
-      "weekend": "08:00-22:00"
-    },
-    "equipment": [
-      "專業音響燈光",
-      "投影設備"
-    ],
-    "images": {
-      "main": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800",
-      "gallery": [
-        "https://images.unsplash.com/photo-1505236858219-8359eb29e329?w=800",
-        "https://images.unsplash.com/photo-1484154218962-a197022b5858?w=800"
-      ],
-      "floorPlan": ""
-    },
-    "status": "維護中",
-    "sortOrder": 0,
-    "createdAt": "2026-03-14T22:31:06.792096",
-    "updatedAt": "2026-03-14T22:31:06.792097"
-  },
-  {
-    "id": 2404,
-    "venueId": 1076,
-    "name": "會議室B",
-    "roomType": "宴會廳",
-    "capacity": {
-      "theater": 50,
-      "classroom": 240
-    },
-    "pricing": {
-      "halfDay": 15000,
-      "fullDay": 120000
-    },
-    "availability": {
-      "weekday": "08:00-22:00",
-      "weekend": "08:00-22:00"
-    },
-    "equipment": [
-      "專業音響燈光",
-      "投影設備"
-    ],
-    "images": {
-      "main": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800",
-      "gallery": [
-        "https://images.unsplash.com/photo-1505236858219-8359eb29e329?w=800",
-        "https://images.unsplash.com/photo-1484154218962-a197022b5858?w=800"
-      ],
-      "floorPlan": ""
-    },
-    "status": "維護中",
-    "sortOrder": 0,
-    "createdAt": "2026-03-14T22:31:06.792102",
-    "updatedAt": "2026-03-14T22:31:06.792104"
   },
   {
     "id": 2063,
@@ -5955,37 +5714,6 @@
     "sortOrder": 0,
     "createdAt": "2026-03-14T22:31:06.790456",
     "updatedAt": "2026-03-14T22:31:06.790457"
-  },
-  {
-    "id": 2070,
-    "venueId": 1085,
-    "name": "姿美廳",
-    "roomType": "宴會廳",
-    "capacity": {
-      "theater": 180,
-      "classroom": 100
-    },
-    "pricing": {
-      "halfDay": 20000,
-      "fullDay": 38000
-    },
-    "availability": {
-      "weekday": "08:00-22:00",
-      "weekend": "08:00-22:00"
-    },
-    "equipment": [
-      "基本音響",
-      "投影設備"
-    ],
-    "images": {
-      "main": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800",
-      "gallery": [],
-      "floorPlan": ""
-    },
-    "status": "開放",
-    "sortOrder": 0,
-    "createdAt": "2026-03-14T22:31:06.777157",
-    "updatedAt": "2026-03-14T22:31:06.777158"
   },
   {
     "id": 2072,
@@ -17061,5 +16789,124 @@
     "sortOrder": 0,
     "createdAt": "2026-03-14T22:31:06.778671",
     "updatedAt": "2026-03-14T22:31:06.778673"
+  },
+  {
+    "id": 2527,
+    "venueId": 1085,
+    "name": "大宴會廳",
+    "roomType": "大型宴會廳",
+    "capacity": {
+      "theater": 1200,
+      "classroom": 600
+    },
+    "area": "960 平方米",
+    "ceiling": "7.3 公尺高樓底",
+    "features": [
+      "無樑柱設計",
+      "專屬車道入口",
+      "VIP套房",
+      "寬敞門廳"
+    ],
+    "pricing": {
+      "halfDay": "請來電洽詢",
+      "fullDay": "請來電洽詢"
+    },
+    "availability": {
+      "weekday": "08:00-24:00",
+      "weekend": "08:00-24:00"
+    },
+    "equipment": [
+      "先進技術設施",
+      "高規格影音設備"
+    ],
+    "images": {
+      "main": "https://media.ffycdn.net/eu/mandarin-oriental-hotel-group/Jky4E1LR9pmeMceT76wh.jpg",
+      "gallery": [],
+      "floorPlan": ""
+    },
+    "status": "開放",
+    "sortOrder": 1,
+    "verified": true,
+    "verifiedAt": "2026-03-15T11:10:00Z",
+    "source": "https://www.mandarinoriental.com/zh-hk/taipei/songshan/meet",
+    "createdAt": "2026-03-15T19:08:34.396740",
+    "updatedAt": "2026-03-15T19:08:34.396756"
+  },
+  {
+    "id": 2528,
+    "venueId": 1085,
+    "name": "文華廳",
+    "roomType": "中型宴會廳",
+    "capacity": {
+      "theater": 490,
+      "classroom": 300
+    },
+    "area": "500 平方米",
+    "features": [
+      "精緻典雅設計",
+      "VIP室"
+    ],
+    "pricing": {
+      "halfDay": "請來電洽詢",
+      "fullDay": "請來電洽詢"
+    },
+    "availability": {
+      "weekday": "08:00-24:00",
+      "weekend": "08:00-24:00"
+    },
+    "equipment": [
+      "先進技術設施",
+      "高規格影音設備"
+    ],
+    "images": {
+      "main": "https://media.ffycdn.net/eu/mandarin-oriental-hotel-group/uiw18EayQ7XiUoda5cgH.jpg",
+      "gallery": [],
+      "floorPlan": ""
+    },
+    "status": "開放",
+    "sortOrder": 2,
+    "verified": true,
+    "verifiedAt": "2026-03-15T11:10:00Z",
+    "source": "https://www.mandarinoriental.com/zh-hk/taipei/songshan/meet",
+    "createdAt": "2026-03-15T19:08:34.396800",
+    "updatedAt": "2026-03-15T19:08:34.396802"
+  },
+  {
+    "id": 2529,
+    "venueId": 1085,
+    "name": "東方廳",
+    "roomType": "多功能會議廳",
+    "capacity": {
+      "theater": 100,
+      "classroom": 50
+    },
+    "features": [
+      "5間會議廳",
+      "大小不一"
+    ],
+    "pricing": {
+      "halfDay": "請來電洽詢",
+      "fullDay": "請來電洽詢"
+    },
+    "availability": {
+      "weekday": "08:00-24:00",
+      "weekend": "08:00-24:00"
+    },
+    "equipment": [
+      "先進技術設施",
+      "高規格影音設備"
+    ],
+    "images": {
+      "main": "https://media.ffycdn.net/eu/mandarin-oriental-hotel-group/oy6E3rsLkt5vaNhNAcTM.jpg",
+      "gallery": [],
+      "floorPlan": ""
+    },
+    "status": "開放",
+    "sortOrder": 3,
+    "verified": true,
+    "verifiedAt": "2026-03-15T11:10:00Z",
+    "source": "https://www.mandarinoriental.com/zh-hk/taipei/songshan/meet",
+    "createdAt": "2026-03-15T19:08:34.396835",
+    "updatedAt": "2026-03-15T19:08:34.396837"
   }
 ]
