@@ -17,12 +17,13 @@
     "availableTimeWeekend": "09:00-17:00",
     "equipment": "投影設備、音響",
     "images": {
-      "main": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "使用 Unsplash 佔位圖，待替換為真實照片",
-      "lastUpdated": "2026-03-08"
+      "needsUpdate": true,
+      "note": "照片更新中，請稍後",
+      "lastUpdated": "2026-03-08",
+      "photoStatus": "updating"
     },
     "verified": true
   },
@@ -44,12 +45,13 @@
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "頂級音響燈光、投影設備",
     "images": {
-      "main": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "使用 Unsplash 佔位圖，待替換為真實照片",
-      "lastUpdated": "2026-03-08"
+      "needsUpdate": true,
+      "note": "照片更新中，請稍後",
+      "lastUpdated": "2026-03-08",
+      "photoStatus": "updating"
     },
     "verified": true
   },
@@ -71,12 +73,13 @@
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "專業音響、投影設備",
     "images": {
-      "main": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "使用 Unsplash 佔位圖，待替換為真實照片",
-      "lastUpdated": "2026-03-08"
+      "needsUpdate": true,
+      "note": "照片更新中，請稍後",
+      "lastUpdated": "2026-03-08",
+      "photoStatus": "updating"
     },
     "verified": true
   },
@@ -98,12 +101,13 @@
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "專業音響、投影設備",
     "images": {
-      "main": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "使用 Unsplash 佔位圖，待替換為真實照片",
-      "lastUpdated": "2026-03-08"
+      "needsUpdate": true,
+      "note": "照片更新中，請稍後",
+      "lastUpdated": "2026-03-08",
+      "photoStatus": "updating"
     },
     "verified": true
   },
@@ -125,12 +129,13 @@
     "availableTimeWeekend": "09:00-18:00",
     "equipment": "專業音響、燈光",
     "images": {
-      "main": "https://images.unsplash.com/photo-1461896836934- voices-of-basketball?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "使用 Unsplash 佔位圖，待替換為真實照片",
-      "lastUpdated": "2026-03-08"
+      "needsUpdate": true,
+      "note": "照片更新中，請稍後",
+      "lastUpdated": "2026-03-08",
+      "photoStatus": "updating"
     },
     "verified": true
   },
@@ -152,12 +157,13 @@
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "基本音響、投影設備",
     "images": {
-      "main": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "使用 Unsplash 佔位圖，待替換為真實照片",
-      "lastUpdated": "2026-03-08"
+      "needsUpdate": true,
+      "note": "照片更新中，請稍後",
+      "lastUpdated": "2026-03-08",
+      "photoStatus": "updating"
     },
     "verified": true
   },
@@ -179,12 +185,13 @@
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "專業音響、投影設備",
     "images": {
-      "main": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "使用 Unsplash 佔位圖，待替換為真實照片",
-      "lastUpdated": "2026-03-08"
+      "needsUpdate": true,
+      "note": "照片更新中，請稍後",
+      "lastUpdated": "2026-03-08",
+      "photoStatus": "updating"
     },
     "verified": true
   },
@@ -206,12 +213,13 @@
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "專業音響、投影設備",
     "images": {
-      "main": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "使用 Unsplash 佔位圖，待替換為真實照片",
-      "lastUpdated": "2026-03-08"
+      "needsUpdate": true,
+      "note": "照片更新中，請稍後",
+      "lastUpdated": "2026-03-08",
+      "photoStatus": "updating"
     },
     "verified": true
   },
@@ -261,12 +269,13 @@
     "availableTimeWeekend": "09:00-18:00",
     "equipment": "專業展覽設備",
     "images": {
-      "main": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "使用 Unsplash 佔位圖，待替換為真實照片",
-      "lastUpdated": "2026-03-08"
+      "needsUpdate": true,
+      "note": "照片更新中，請稍後",
+      "lastUpdated": "2026-03-08",
+      "photoStatus": "updating"
     },
     "verified": true
   },
@@ -288,12 +297,13 @@
     "availableTimeWeekend": "09:00-18:00",
     "equipment": "專業音響、燈光",
     "images": {
-      "main": "https://images.unsplash.com/photo-1461896836934- voices-of-basketball?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "使用 Unsplash 佔位圖，待替換為真實照片",
-      "lastUpdated": "2026-03-08"
+      "needsUpdate": true,
+      "note": "照片更新中，請稍後",
+      "lastUpdated": "2026-03-08",
+      "photoStatus": "updating"
     },
     "verified": true
   },
@@ -315,12 +325,13 @@
     "availableTimeWeekend": "09:00-22:00",
     "equipment": "專業音響、燈光",
     "images": {
-      "main": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "使用 Unsplash 佔位圖，待替換為真實照片",
-      "lastUpdated": "2026-03-08"
+      "needsUpdate": true,
+      "note": "照片更新中，請稍後",
+      "lastUpdated": "2026-03-08",
+      "photoStatus": "updating"
     },
     "verified": true
   },
@@ -342,12 +353,13 @@
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "專業音響燈光、LED螢幕",
     "images": {
-      "main": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "使用 Unsplash 佔位圖，待替換為真實照片",
-      "lastUpdated": "2026-03-08"
+      "needsUpdate": true,
+      "note": "照片更新中，請稍後",
+      "lastUpdated": "2026-03-08",
+      "photoStatus": "updating"
     },
     "verified": true
   },
@@ -369,12 +381,13 @@
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "專業音響燈光、投影設備",
     "images": {
-      "main": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "使用 Unsplash 佔位圖，待替換為真實照片",
-      "lastUpdated": "2026-03-08"
+      "needsUpdate": true,
+      "note": "照片更新中，請稍後",
+      "lastUpdated": "2026-03-08",
+      "photoStatus": "updating"
     },
     "verified": true
   },
@@ -396,12 +409,13 @@
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "專業音響燈光、投影設備",
     "images": {
-      "main": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "使用 Unsplash 佔位圖，待替換為真實照片",
-      "lastUpdated": "2026-03-08"
+      "needsUpdate": true,
+      "note": "照片更新中，請稍後",
+      "lastUpdated": "2026-03-08",
+      "photoStatus": "updating"
     },
     "verified": true
   },
@@ -423,12 +437,13 @@
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "專業音響燈光、LED螢幕",
     "images": {
-      "main": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "使用 Unsplash 佔位圖，待替換為真實照片",
-      "lastUpdated": "2026-03-08"
+      "needsUpdate": true,
+      "note": "照片更新中，請稍後",
+      "lastUpdated": "2026-03-08",
+      "photoStatus": "updating"
     },
     "verified": true
   },
@@ -450,12 +465,13 @@
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "專業音響、投影設備",
     "images": {
-      "main": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "使用 Unsplash 佔位圖，待替換為真實照片",
-      "lastUpdated": "2026-03-08"
+      "needsUpdate": true,
+      "note": "照片更新中，請稍後",
+      "lastUpdated": "2026-03-08",
+      "photoStatus": "updating"
     },
     "verified": true
   },
@@ -477,12 +493,13 @@
     "availableTimeWeekend": "09:00-17:00",
     "equipment": "專業音響、燈光",
     "images": {
-      "main": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "使用 Unsplash 佔位圖，待替換為真實照片",
-      "lastUpdated": "2026-03-08"
+      "needsUpdate": true,
+      "note": "照片更新中，請稍後",
+      "lastUpdated": "2026-03-08",
+      "photoStatus": "updating"
     },
     "verified": true
   },
@@ -504,12 +521,13 @@
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "專業音響、投影設備",
     "images": {
-      "main": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "使用 Unsplash 佔位圖，待替換為真實照片",
-      "lastUpdated": "2026-03-08"
+      "needsUpdate": true,
+      "note": "照片更新中，請稍後",
+      "lastUpdated": "2026-03-08",
+      "photoStatus": "updating"
     },
     "verified": true
   },
@@ -531,12 +549,13 @@
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "專業音響、投影設備",
     "images": {
-      "main": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "使用 Unsplash 佔位圖，待替換為真實照片",
-      "lastUpdated": "2026-03-08"
+      "needsUpdate": true,
+      "note": "照片更新中，請稍後",
+      "lastUpdated": "2026-03-08",
+      "photoStatus": "updating"
     },
     "verified": true
   },
@@ -558,12 +577,13 @@
     "availableTimeWeekend": "10:00-22:00",
     "equipment": "投影設備、音響",
     "images": {
-      "main": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "使用 Unsplash 佔位圖，待替換為真實照片",
-      "lastUpdated": "2026-03-08"
+      "needsUpdate": true,
+      "note": "照片更新中，請稍後",
+      "lastUpdated": "2026-03-08",
+      "photoStatus": "updating"
     },
     "verified": true
   },
@@ -585,12 +605,13 @@
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "專業音響、投影設備",
     "images": {
-      "main": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "使用 Unsplash 佔位圖，待替換為真實照片",
-      "lastUpdated": "2026-03-08"
+      "needsUpdate": true,
+      "note": "照片更新中，請稍後",
+      "lastUpdated": "2026-03-08",
+      "photoStatus": "updating"
     },
     "verified": true
   },
@@ -612,12 +633,13 @@
     "availableTimeWeekend": "11:00-22:00",
     "equipment": "專業音響燈光、LED螢幕",
     "images": {
-      "main": "https://images.unsplash.com/photo-1519167758481-83f550bb49b3?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "使用 Unsplash 佔位圖，待替換為真實照片",
-      "lastUpdated": "2026-03-08"
+      "needsUpdate": true,
+      "note": "照片更新中，請稍後",
+      "lastUpdated": "2026-03-08",
+      "photoStatus": "updating"
     },
     "verified": true
   },
@@ -639,12 +661,13 @@
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "專業音響燈光、投影設備",
     "images": {
-      "main": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "使用 Unsplash 佔位圖，待替換為真實照片",
-      "lastUpdated": "2026-03-08"
+      "needsUpdate": true,
+      "note": "照片更新中，請稍後",
+      "lastUpdated": "2026-03-08",
+      "photoStatus": "updating"
     },
     "verified": true
   },
@@ -666,12 +689,13 @@
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "專業音響燈光、投影設備",
     "images": {
-      "main": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "使用 Unsplash 佔位圖，待替換為真實照片",
-      "lastUpdated": "2026-03-08"
+      "needsUpdate": true,
+      "note": "照片更新中，請稍後",
+      "lastUpdated": "2026-03-08",
+      "photoStatus": "updating"
     },
     "verified": true
   },
@@ -693,12 +717,13 @@
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "基本音響、投影設備",
     "images": {
-      "main": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "使用 Unsplash 佔位圖，待替換為真實照片",
-      "lastUpdated": "2026-03-08"
+      "needsUpdate": true,
+      "note": "照片更新中，請稍後",
+      "lastUpdated": "2026-03-08",
+      "photoStatus": "updating"
     },
     "verified": true
   },
@@ -720,12 +745,13 @@
     "availableTimeWeekend": "休館",
     "equipment": "投影設備、音響",
     "images": {
-      "main": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "使用 Unsplash 佔位圖，待替換為真實照片",
-      "lastUpdated": "2026-03-08"
+      "needsUpdate": true,
+      "note": "照片更新中，請稍後",
+      "lastUpdated": "2026-03-08",
+      "photoStatus": "updating"
     },
     "verified": true
   },
@@ -747,12 +773,13 @@
     "availableTimeWeekend": "休館",
     "equipment": "投影設備、音響",
     "images": {
-      "main": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "使用 Unsplash 佔位圖，待替換為真實照片",
-      "lastUpdated": "2026-03-08"
+      "needsUpdate": true,
+      "note": "照片更新中，請稍後",
+      "lastUpdated": "2026-03-08",
+      "photoStatus": "updating"
     },
     "verified": true
   },
@@ -1138,12 +1165,13 @@
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "基本音響、投影設備",
     "images": {
-      "main": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "使用 Unsplash 佔位圖，待替換為真實照片",
-      "lastUpdated": "2026-03-08"
+      "needsUpdate": true,
+      "note": "照片更新中，請稍後",
+      "lastUpdated": "2026-03-08",
+      "photoStatus": "updating"
     },
     "verified": true
   },
@@ -1291,12 +1319,13 @@
     "availableTimeWeekend": "11:00-22:00",
     "equipment": "專業音響燈光、LED螢幕",
     "images": {
-      "main": "https://images.unsplash.com/photo-1519167758481-83f550bb49b3?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "使用 Unsplash 佔位圖，待替換為真實照片",
-      "lastUpdated": "2026-03-08"
+      "needsUpdate": true,
+      "note": "照片更新中，請稍後",
+      "lastUpdated": "2026-03-08",
+      "photoStatus": "updating"
     },
     "verified": true
   },
@@ -1318,12 +1347,13 @@
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "基本音響、投影設備",
     "images": {
-      "main": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "使用 Unsplash 佔位圖，待替換為真實照片",
-      "lastUpdated": "2026-03-08"
+      "needsUpdate": true,
+      "note": "照片更新中，請稍後",
+      "lastUpdated": "2026-03-08",
+      "photoStatus": "updating"
     },
     "verified": true
   },
@@ -1345,12 +1375,13 @@
     "availableTimeWeekend": "休館",
     "equipment": "投影設備、音響",
     "images": {
-      "main": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "使用 Unsplash 佔位圖，待替換為真實照片",
-      "lastUpdated": "2026-03-08"
+      "needsUpdate": true,
+      "note": "照片更新中，請稍後",
+      "lastUpdated": "2026-03-08",
+      "photoStatus": "updating"
     },
     "verified": true
   },
@@ -1372,12 +1403,13 @@
     "availableTimeWeekend": "休館",
     "equipment": "投影設備、音響",
     "images": {
-      "main": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "使用 Unsplash 佔位圖，待替換為真實照片",
-      "lastUpdated": "2026-03-08"
+      "needsUpdate": true,
+      "note": "照片更新中，請稍後",
+      "lastUpdated": "2026-03-08",
+      "photoStatus": "updating"
     },
     "verified": true
   },
@@ -1416,12 +1448,11 @@
       "verified": true,
       "verifiedAt": "2026-03-07T13:12:00.788197",
       "needsUpdate": false,
-      "note": "會議室資訊請來電洽詢：02-23215511",
+      "note": "從官網爬取真實會議室照片（10張）",
       "lastUpdated": "2026-03-07",
       "crawlMethod": "Playwright 動態爬蟲"
     },
-    "verified": true,
-    "lastUpdated": "2026-03-15"
+    "verified": true
   },
   {
     "id": 1068,
@@ -1492,15 +1523,14 @@
       ],
       "floorPlan": "",
       "needsUpdate": false,
-      "note": "會議室資訊請來電洽詢：02-25511111",
+      "note": "從官網爬取真實照片",
       "lastUpdated": "2026-03-07",
       "source": "https://www.ambassador-hotels.com/tc/taipei",
       "verified": true,
       "verifiedAt": "2026-03-07T21:12:58.373286",
       "updateReason": "批量更新：補充照片"
     },
-    "verified": true,
-    "lastUpdated": "2026-03-15"
+    "verified": true
   },
   {
     "id": 1072,
@@ -1522,20 +1552,18 @@
     "images": {
       "main": "https://www.grand-hotel.org/images/index/banquet.jpg",
       "gallery": [
-        "https://upload.wikimedia.org/wikipedia/commons/c/c0/Interior_of_Grand_Hotel_Taipei_20130903.jpg",
-        "https://upload.wikimedia.org/wikipedia/commons/a/a9/Taipeh_Taipei_Grand_Hotel_Innen_Lobby_1.jpg",
-        "https://upload.wikimedia.org/wikipedia/commons/5/5c/Grand_Hotel_Taipei_Kirin_Hall_Front.jpg"
+        "https://upload.wikimedia.org/wikipedia/commons/a/a9/Taipeh_Taipei_Grand_Hotel_Innen_Lobby_1.jpg"
       ],
       "floorPlan": "",
       "needsUpdate": false,
-      "note": "會議室資訊請來電洽詢：02-28868888",
+      "note": "照片來源：官網（真實照片）",
       "lastUpdated": "2026-03-01",
       "source": "https://www.grand-hotel.org/tw/Banquet",
       "verified": true,
       "verifiedAt": "2026-03-03T07:43:52.196Z"
     },
     "verified": true,
-    "lastUpdated": "2026-03-15"
+    "verifiedAt": "2026-03-22T01:56:16.559398"
   },
   {
     "id": 1073,
@@ -1555,12 +1583,13 @@
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "基本音響、投影設備",
     "images": {
-      "main": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "使用 Unsplash 佔位圖，待替換為真實照片",
-      "lastUpdated": "2026-03-08"
+      "needsUpdate": true,
+      "note": "照片更新中，請稍後",
+      "lastUpdated": "2026-03-08",
+      "photoStatus": "updating"
     },
     "verified": true
   },
@@ -1641,42 +1670,28 @@
       "verified": true,
       "verifiedAt": "2026-03-07T13:00:00",
       "needsUpdate": false,
-      "note": "會議室資訊請來電洽詢：02-66156565",
+      "note": "從官網爬取 12 張真實會議室照片（2026-03-07 Playwright）",
       "lastUpdated": "2026-03-07"
     },
-    "verified": true,
-    "lastUpdated": "2026-03-15"
+    "verified": true
   },
   {
     "id": 1077,
-    "name": "台北寒舍艾麗酒店(Humble House Taipei)",
+    "name": "台北寒舍艾麗酒店(HummerHouse)",
     "venueType": "飯店場地",
     "city": "台北市",
-    "address": "台北市信義區松高路18號",
+    "address": "台北市信義區松高路18號B棟",
     "contactPerson": "宴會部",
-    "contactPhone": "02-6631-8000",
+    "contactPhone": "02-6618-5600",
     "contactEmail": "events.humblehouse@humlehouse.com",
     "url": "https://www.humblehousehotels.com/",
-    "priceHalfDay": "請來電洽詢",
-    "priceFullDay": "請來電洽詢",
-    "maxCapacityTheater": 1000,
-    "maxCapacityClassroom": 600,
+    "priceHalfDay": "75000",
+    "priceFullDay": "140000",
+    "maxCapacityTheater": 720,
+    "maxCapacityClassroom": 360,
     "availableTimeWeekday": "09:00-22:00",
     "availableTimeWeekend": "09:00-22:00",
-    "equipment": "最先進影音設備、燈光系統、兼容技術設備、LED牆",
-    "meetingRooms": [
-      {
-        "name": "Grand Ballroom（宴會廳）",
-        "floor": "5樓",
-        "area": "702平方公尺",
-        "maxCapacity": 1000,
-        "ceilingHeight": "5公尺",
-        "components": "4個廳 + 2個多功能室 + 1個VIP室",
-        "features": "天空花園自然光、簡約優雅設計",
-        "designer": "HBA（Hirsch Bedner Associates）",
-        "equipment": "最先進影音設備、燈光系統、兼容技術設備"
-      }
-    ],
+    "equipment": "頂級影音設備、LED牆、燈光系統",
     "images": {
       "main": "https://www.humblehousehotels.com/files/page_161581908711j4rck.jpg",
       "gallery": [
@@ -1689,9 +1704,178 @@
       "verifiedAt": "2026-03-02T16:20:21.244Z"
     },
     "verified": true,
-    "verifiedAt": "2026-03-15T15:10:00.000Z",
-    "verifiedSource": "https://www.humblehousehotels.com/en/websev?cat=page&id=14",
-    "verificationNotes": "電話號碼已從官網驗證修正，地址移除錯誤的B棟資訊，會議室資訊已從官網補充"
+    "floorHeight": "5.3公尺（全廳）/ 3.2公尺（檸廳）",
+    "rooms": [
+      {
+        "name": "宴會全廳 Grand Ballroom",
+        "nameEn": "Grand Ballroom",
+        "area": {
+          "sqm": 702,
+          "ping": 212
+        },
+        "dimensions": {
+          "length": 21.8,
+          "width": 32
+        },
+        "ceilingHeight": 5.3,
+        "capacity": {
+          "theater": 720,
+          "classroom": 360,
+          "banquet": 500
+        },
+        "features": [
+          "可合併多個廳",
+          "挑高5.3公尺",
+          "LED牆",
+          "頂級影音設備"
+        ]
+      },
+      {
+        "name": "蘭廳 The Orchid",
+        "nameEn": "The Orchid",
+        "area": {
+          "sqm": 220,
+          "ping": 67
+        },
+        "dimensions": {
+          "length": 21.8,
+          "width": 10.1
+        },
+        "ceilingHeight": 5.3,
+        "capacity": {
+          "theater": 240,
+          "classroom": 132,
+          "banquet": 120
+        },
+        "features": [
+          "挑高5.3公尺"
+        ]
+      },
+      {
+        "name": "葵廳 The Sunflower",
+        "nameEn": "The Sunflower",
+        "area": {
+          "sqm": 233,
+          "ping": 70
+        },
+        "dimensions": {
+          "length": 21.8,
+          "width": 10.6
+        },
+        "ceilingHeight": 5.3,
+        "capacity": {
+          "theater": 240,
+          "classroom": 132,
+          "banquet": 120
+        },
+        "features": [
+          "挑高5.3公尺"
+        ]
+      },
+      {
+        "name": "楓廳 The Maple",
+        "nameEn": "The Maple",
+        "area": {
+          "sqm": 163,
+          "ping": 49
+        },
+        "dimensions": {
+          "length": 14,
+          "width": 11.3
+        },
+        "ceilingHeight": 5.3,
+        "capacity": {
+          "theater": 160,
+          "classroom": 105,
+          "banquet": 60
+        },
+        "features": [
+          "挑高5.3公尺"
+        ]
+      },
+      {
+        "name": "柏廳 The Cypress",
+        "nameEn": "The Cypress",
+        "area": {
+          "sqm": 84,
+          "ping": 25
+        },
+        "dimensions": {
+          "length": 7.4,
+          "width": 11.3
+        },
+        "ceilingHeight": 5.3,
+        "capacity": {
+          "theater": 80,
+          "classroom": 45,
+          "banquet": 30
+        },
+        "features": [
+          "挑高5.3公尺"
+        ]
+      },
+      {
+        "name": "檸廳 The Hibiscus",
+        "nameEn": "The Hibiscus",
+        "area": {
+          "sqm": 69,
+          "ping": 21
+        },
+        "dimensions": {
+          "length": 11.5,
+          "width": 5.5
+        },
+        "ceilingHeight": 3.2,
+        "capacity": {
+          "theater": 50,
+          "classroom": 36,
+          "banquet": 30,
+          "ushape": 24
+        },
+        "features": [
+          "挑高3.2公尺",
+          "適合小型會議"
+        ]
+      }
+    ],
+    "combinations": [
+      {
+        "name": "蘭+葵",
+        "area": {
+          "sqm": 453,
+          "ping": 137
+        },
+        "capacity": {
+          "theater": 480,
+          "classroom": 264
+        }
+      },
+      {
+        "name": "蘭+葵+楓",
+        "area": {
+          "sqm": 616,
+          "ping": 186
+        },
+        "capacity": {
+          "theater": 640,
+          "classroom": 369
+        }
+      },
+      {
+        "name": "楓+柏",
+        "area": {
+          "sqm": 247,
+          "ping": 74
+        },
+        "capacity": {
+          "theater": 240,
+          "classroom": 150
+        }
+      }
+    ],
+    "verifiedAt": "2026-03-16T09:45:42.526025",
+    "dataSource": "Google Drive PDF - 宴會廳平面圖",
+    "lastUpdated": "2026-03-16T09:45:42.526047"
   },
   {
     "id": 1080,
@@ -1711,12 +1895,13 @@
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "基本音響、投影設備",
     "images": {
-      "main": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "使用 Unsplash 佔位圖，待替換為真實照片",
-      "lastUpdated": "2026-03-08"
+      "needsUpdate": true,
+      "note": "照片更新中，請稍後",
+      "lastUpdated": "2026-03-08",
+      "photoStatus": "updating"
     },
     "verified": true
   },
@@ -1798,12 +1983,13 @@
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "專業音響、投影設備",
     "images": {
-      "main": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "使用 Unsplash 佔位圖，待替換為真實照片",
-      "lastUpdated": "2026-03-08"
+      "needsUpdate": true,
+      "note": "照片更新中，請稍後",
+      "lastUpdated": "2026-03-08",
+      "photoStatus": "updating"
     },
     "verified": true
   },
@@ -1843,16 +2029,14 @@
       ],
       "floorPlan": "",
       "needsUpdate": false,
-      "note": "已驗證真實會議室資料：大宴會廳（960㎡, 1200人）、文華廳（500㎡, 490人）、東方廳（100人）",
+      "note": "從官網爬取 14 張真實會議室照片（2026-03-07）",
       "lastUpdated": "2026-03-07",
       "source": "https://www.mandarinoriental.com/zh-hk/taipei/songshan/meet",
       "verified": true,
       "verifiedAt": "2026-03-07T12:45:00",
       "crawlMethod": "Playwright 動態爬蟲"
     },
-    "verified": true,
-    "verifiedAt": "2026-03-15T11:10:00Z",
-    "lastUpdated": "2026-03-15"
+    "verified": true
   },
   {
     "id": 1086,
@@ -1937,12 +2121,13 @@
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "基本音響、投影設備",
     "images": {
-      "main": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "使用 Unsplash 佔位圖，待替換為真實照片",
-      "lastUpdated": "2026-03-08"
+      "needsUpdate": true,
+      "note": "照片更新中，請稍後",
+      "lastUpdated": "2026-03-08",
+      "photoStatus": "updating"
     },
     "verified": true
   },
@@ -2120,7 +2305,8 @@
       "verified": true,
       "verifiedAt": "2026-03-02T16:20:21.245Z"
     },
-    "verified": false
+    "verified": false,
+    "floorPlan": "https://www.taipeimarriott.com.tw/files/page_157062443710javl802.pdf"
   },
   {
     "id": 1104,
@@ -2170,12 +2356,13 @@
     "availableTimeWeekend": "09:00-18:00",
     "equipment": "專業音響、燈光",
     "images": {
-      "main": "https://images.unsplash.com/photo-1461896836934- voices-of-basketball?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "使用 Unsplash 佔位圖，待替換為真實照片",
-      "lastUpdated": "2026-03-08"
+      "needsUpdate": true,
+      "note": "照片更新中，請稍後",
+      "lastUpdated": "2026-03-08",
+      "photoStatus": "updating"
     },
     "verified": true
   },
@@ -2516,12 +2703,13 @@
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "基本音響、投影設備",
     "images": {
-      "main": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "使用 Unsplash 佔位圖，待替換為真實照片",
-      "lastUpdated": "2026-03-08"
+      "needsUpdate": true,
+      "note": "照片更新中，請稍後",
+      "lastUpdated": "2026-03-08",
+      "photoStatus": "updating"
     },
     "verified": true
   },
@@ -2543,12 +2731,13 @@
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "專業音響、投影設備",
     "images": {
-      "main": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "使用 Unsplash 佔位圖，待替換為真實照片",
-      "lastUpdated": "2026-03-08"
+      "needsUpdate": true,
+      "note": "照片更新中，請稍後",
+      "lastUpdated": "2026-03-08",
+      "photoStatus": "updating"
     },
     "verified": true
   },
@@ -2570,12 +2759,13 @@
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "專業音響燈光、投影設備",
     "images": {
-      "main": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "使用 Unsplash 佔位圖，待替換為真實照片",
-      "lastUpdated": "2026-03-08"
+      "needsUpdate": true,
+      "note": "照片更新中，請稍後",
+      "lastUpdated": "2026-03-08",
+      "photoStatus": "updating"
     },
     "verified": true
   },
@@ -2597,12 +2787,13 @@
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "基本音響、投影設備",
     "images": {
-      "main": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "使用 Unsplash 佔位圖，待替換為真實照片",
-      "lastUpdated": "2026-03-08"
+      "needsUpdate": true,
+      "note": "照片更新中，請稍後",
+      "lastUpdated": "2026-03-08",
+      "photoStatus": "updating"
     },
     "verified": true
   },
@@ -2624,12 +2815,13 @@
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "基本音響、投影設備",
     "images": {
-      "main": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "使用 Unsplash 佔位圖，待替換為真實照片",
-      "lastUpdated": "2026-03-08"
+      "needsUpdate": true,
+      "note": "照片更新中，請稍後",
+      "lastUpdated": "2026-03-08",
+      "photoStatus": "updating"
     },
     "verified": true
   },
@@ -2651,12 +2843,13 @@
     "availableTimeWeekend": "09:00-18:00",
     "equipment": "專業音響、燈光",
     "images": {
-      "main": "https://images.unsplash.com/photo-1461896836934- voices-of-basketball?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "使用 Unsplash 佔位圖，待替換為真實照片",
-      "lastUpdated": "2026-03-08"
+      "needsUpdate": true,
+      "note": "照片更新中，請稍後",
+      "lastUpdated": "2026-03-08",
+      "photoStatus": "updating"
     },
     "verified": true
   },
@@ -2678,12 +2871,13 @@
     "availableTimeWeekend": "休館",
     "equipment": "投影設備、音響",
     "images": {
-      "main": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "使用 Unsplash 佔位圖，待替換為真實照片",
-      "lastUpdated": "2026-03-08"
+      "needsUpdate": true,
+      "note": "照片更新中，請稍後",
+      "lastUpdated": "2026-03-08",
+      "photoStatus": "updating"
     },
     "verified": true
   },
@@ -2705,12 +2899,13 @@
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "專業音響、投影設備",
     "images": {
-      "main": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "使用 Unsplash 佔位圖，待替換為真實照片",
-      "lastUpdated": "2026-03-08"
+      "needsUpdate": true,
+      "note": "照片更新中，請稍後",
+      "lastUpdated": "2026-03-08",
+      "photoStatus": "updating"
     },
     "verified": true
   },
@@ -2732,12 +2927,13 @@
     "availableTimeWeekend": "11:00-22:00",
     "equipment": "專業音響燈光",
     "images": {
-      "main": "https://images.unsplash.com/photo-1519167758481-83f550bb49b3?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "使用 Unsplash 佔位圖，待替換為真實照片",
-      "lastUpdated": "2026-03-08"
+      "needsUpdate": true,
+      "note": "照片更新中，請稍後",
+      "lastUpdated": "2026-03-08",
+      "photoStatus": "updating"
     },
     "verified": true
   },
@@ -2759,12 +2955,13 @@
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "專業音響燈光、投影設備",
     "images": {
-      "main": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "使用 Unsplash 佔位圖，待替換為真實照片",
-      "lastUpdated": "2026-03-08"
+      "needsUpdate": true,
+      "note": "照片更新中，請稍後",
+      "lastUpdated": "2026-03-08",
+      "photoStatus": "updating"
     },
     "verified": true
   },
@@ -2786,12 +2983,13 @@
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "專業音響、投影設備",
     "images": {
-      "main": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "使用 Unsplash 佔位圖，待替換為真實照片",
-      "lastUpdated": "2026-03-08"
+      "needsUpdate": true,
+      "note": "照片更新中，請稍後",
+      "lastUpdated": "2026-03-08",
+      "photoStatus": "updating"
     },
     "verified": true
   },
@@ -2813,12 +3011,13 @@
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "專業音響燈光、投影設備",
     "images": {
-      "main": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "使用 Unsplash 佔位圖，待替換為真實照片",
-      "lastUpdated": "2026-03-08"
+      "needsUpdate": true,
+      "note": "照片更新中，請稍後",
+      "lastUpdated": "2026-03-08",
+      "photoStatus": "updating"
     },
     "verified": true
   },
@@ -2840,12 +3039,13 @@
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "專業音響燈光、投影設備",
     "images": {
-      "main": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "使用 Unsplash 佔位圖，待替換為真實照片",
-      "lastUpdated": "2026-03-08"
+      "needsUpdate": true,
+      "note": "照片更新中，請稍後",
+      "lastUpdated": "2026-03-08",
+      "photoStatus": "updating"
     },
     "verified": true
   },
@@ -2867,12 +3067,13 @@
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "專業音響燈光、投影設備",
     "images": {
-      "main": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "使用 Unsplash 佔位圖，待替換為真實照片",
-      "lastUpdated": "2026-03-08"
+      "needsUpdate": true,
+      "note": "照片更新中，請稍後",
+      "lastUpdated": "2026-03-08",
+      "photoStatus": "updating"
     },
     "verified": true
   },
@@ -2894,12 +3095,13 @@
     "availableTimeWeekend": "08:00-17:00",
     "equipment": "投影設備、音響",
     "images": {
-      "main": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "使用 Unsplash 佔位圖，待替換為真實照片",
-      "lastUpdated": "2026-03-08"
+      "needsUpdate": true,
+      "note": "照片更新中，請稍後",
+      "lastUpdated": "2026-03-08",
+      "photoStatus": "updating"
     },
     "verified": true
   },
@@ -2921,12 +3123,13 @@
     "availableTimeWeekend": "09:00-18:00",
     "equipment": "專業音響、投影設備",
     "images": {
-      "main": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "使用 Unsplash 佔位圖，待替換為真實照片",
-      "lastUpdated": "2026-03-08"
+      "needsUpdate": true,
+      "note": "照片更新中，請稍後",
+      "lastUpdated": "2026-03-08",
+      "photoStatus": "updating"
     },
     "verified": true
   },
@@ -2948,12 +3151,13 @@
     "availableTimeWeekend": "休館",
     "equipment": "投影設備、音響",
     "images": {
-      "main": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "使用 Unsplash 佔位圖，待替換為真實照片",
-      "lastUpdated": "2026-03-08"
+      "needsUpdate": true,
+      "note": "照片更新中，請稍後",
+      "lastUpdated": "2026-03-08",
+      "photoStatus": "updating"
     },
     "verified": true
   },
@@ -2975,12 +3179,13 @@
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "專業音響、投影設備",
     "images": {
-      "main": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "使用 Unsplash 佔位圖，待替換為真實照片",
-      "lastUpdated": "2026-03-08"
+      "needsUpdate": true,
+      "note": "照片更新中，請稍後",
+      "lastUpdated": "2026-03-08",
+      "photoStatus": "updating"
     },
     "verified": true
   },
@@ -3002,12 +3207,13 @@
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "專業音響、投影設備",
     "images": {
-      "main": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "使用 Unsplash 佔位圖，待替換為真實照片",
-      "lastUpdated": "2026-03-08"
+      "needsUpdate": true,
+      "note": "照片更新中，請稍後",
+      "lastUpdated": "2026-03-08",
+      "photoStatus": "updating"
     },
     "verified": true
   },
@@ -3029,12 +3235,13 @@
     "availableTimeWeekend": "09:00-18:00",
     "equipment": "專業音響、燈光",
     "images": {
-      "main": "https://images.unsplash.com/photo-1461896836934- voices-of-basketball?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "使用 Unsplash 佔位圖，待替換為真實照片",
-      "lastUpdated": "2026-03-08"
+      "needsUpdate": true,
+      "note": "照片更新中，請稍後",
+      "lastUpdated": "2026-03-08",
+      "photoStatus": "updating"
     },
     "verified": true
   },
@@ -3056,12 +3263,13 @@
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "基本音響、投影設備",
     "images": {
-      "main": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "使用 Unsplash 佔位圖，待替換為真實照片",
-      "lastUpdated": "2026-03-08"
+      "needsUpdate": true,
+      "note": "照片更新中，請稍後",
+      "lastUpdated": "2026-03-08",
+      "photoStatus": "updating"
     },
     "verified": true
   },
@@ -3083,12 +3291,13 @@
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "投影機、音響",
     "images": {
-      "main": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "使用 Unsplash 佔位圖，待替換為真實照片",
-      "lastUpdated": "2026-03-08"
+      "needsUpdate": true,
+      "note": "照片更新中，請稍後",
+      "lastUpdated": "2026-03-08",
+      "photoStatus": "updating"
     },
     "verified": true
   },
@@ -3110,12 +3319,13 @@
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "投影機、音響",
     "images": {
-      "main": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "使用 Unsplash 佔位圖，待替換為真實照片",
-      "lastUpdated": "2026-03-08"
+      "needsUpdate": true,
+      "note": "照片更新中，請稍後",
+      "lastUpdated": "2026-03-08",
+      "photoStatus": "updating"
     },
     "verified": true
   },
@@ -3137,12 +3347,13 @@
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "專業音響、投影設備",
     "images": {
-      "main": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "使用 Unsplash 佔位圖，待替換為真實照片",
-      "lastUpdated": "2026-03-08"
+      "needsUpdate": true,
+      "note": "照片更新中，請稍後",
+      "lastUpdated": "2026-03-08",
+      "photoStatus": "updating"
     },
     "verified": true
   },
@@ -3164,12 +3375,13 @@
     "availableTimeWeekend": "09:00-17:00",
     "equipment": "投影設備、音響",
     "images": {
-      "main": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "使用 Unsplash 佔位圖，待替換為真實照片",
-      "lastUpdated": "2026-03-08"
+      "needsUpdate": true,
+      "note": "照片更新中，請稍後",
+      "lastUpdated": "2026-03-08",
+      "photoStatus": "updating"
     },
     "verified": true
   },
@@ -3191,12 +3403,13 @@
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "專業音響燈光、投影設備",
     "images": {
-      "main": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "使用 Unsplash 佔位圖，待替換為真實照片",
-      "lastUpdated": "2026-03-08"
+      "needsUpdate": true,
+      "note": "照片更新中，請稍後",
+      "lastUpdated": "2026-03-08",
+      "photoStatus": "updating"
     },
     "verified": true
   },
@@ -3218,12 +3431,13 @@
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "專業音響、投影設備",
     "images": {
-      "main": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "使用 Unsplash 佔位圖，待替換為真實照片",
-      "lastUpdated": "2026-03-08"
+      "needsUpdate": true,
+      "note": "照片更新中，請稍後",
+      "lastUpdated": "2026-03-08",
+      "photoStatus": "updating"
     },
     "verified": true
   },
@@ -3245,12 +3459,13 @@
     "availableTimeWeekend": "休館",
     "equipment": "投影設備、音響",
     "images": {
-      "main": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "使用 Unsplash 佔位圖，待替換為真實照片",
-      "lastUpdated": "2026-03-08"
+      "needsUpdate": true,
+      "note": "照片更新中，請稍後",
+      "lastUpdated": "2026-03-08",
+      "photoStatus": "updating"
     },
     "verified": true
   },
@@ -3272,12 +3487,13 @@
     "availableTimeWeekend": "09:00-18:00",
     "equipment": "專業音響、燈光",
     "images": {
-      "main": "https://images.unsplash.com/photo-1461896836934- voices-of-basketball?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "使用 Unsplash 佔位圖，待替換為真實照片",
-      "lastUpdated": "2026-03-08"
+      "needsUpdate": true,
+      "note": "照片更新中，請稍後",
+      "lastUpdated": "2026-03-08",
+      "photoStatus": "updating"
     },
     "verified": true
   },
@@ -3299,12 +3515,13 @@
     "availableTimeWeekend": "09:00-22:00",
     "equipment": "專業影音、LED螢幕、燈光系統",
     "images": {
-      "main": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "使用 Unsplash 佔位圖，待替換為真實照片",
-      "lastUpdated": "2026-03-08"
+      "needsUpdate": true,
+      "note": "照片更新中，請稍後",
+      "lastUpdated": "2026-03-08",
+      "photoStatus": "updating"
     },
     "verified": true
   },
@@ -3326,12 +3543,13 @@
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "基本音響、投影設備",
     "images": {
-      "main": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "使用 Unsplash 佔位圖，待替換為真實照片",
-      "lastUpdated": "2026-03-08"
+      "needsUpdate": true,
+      "note": "照片更新中，請稍後",
+      "lastUpdated": "2026-03-08",
+      "photoStatus": "updating"
     },
     "verified": true
   },
@@ -3353,12 +3571,13 @@
     "availableTimeWeekend": "09:00-22:00",
     "equipment": "專業影音設備、燈光系統",
     "images": {
-      "main": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
       "needsUpdate": true,
-      "note": "待補充真實照片網址",
-      "lastUpdated": "2026-03-05"
+      "note": "照片更新中，請稍後",
+      "lastUpdated": "2026-03-05",
+      "photoStatus": "updating"
     },
     "verified": true
   },
@@ -3380,12 +3599,13 @@
     "availableTimeWeekend": "09:00-17:00",
     "equipment": "專業音響、燈光",
     "images": {
-      "main": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "使用 Unsplash 佔位圖，待替換為真實照片",
-      "lastUpdated": "2026-03-08"
+      "needsUpdate": true,
+      "note": "照片更新中，請稍後",
+      "lastUpdated": "2026-03-08",
+      "photoStatus": "updating"
     },
     "verified": true
   },
@@ -3407,12 +3627,13 @@
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "專業音響、投影設備",
     "images": {
-      "main": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "使用 Unsplash 佔位圖，待替換為真實照片",
-      "lastUpdated": "2026-03-08"
+      "needsUpdate": true,
+      "note": "照片更新中，請稍後",
+      "lastUpdated": "2026-03-08",
+      "photoStatus": "updating"
     },
     "verified": true
   },
@@ -3434,12 +3655,13 @@
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "專業音響燈光、LED螢幕",
     "images": {
-      "main": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "使用 Unsplash 佔位圖，待替換為真實照片",
-      "lastUpdated": "2026-03-08"
+      "needsUpdate": true,
+      "note": "照片更新中，請稍後",
+      "lastUpdated": "2026-03-08",
+      "photoStatus": "updating"
     },
     "verified": true
   },
@@ -3461,12 +3683,13 @@
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "專業音響燈光、投影設備",
     "images": {
-      "main": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "使用 Unsplash 佔位圖，待替換為真實照片",
-      "lastUpdated": "2026-03-08"
+      "needsUpdate": true,
+      "note": "照片更新中，請稍後",
+      "lastUpdated": "2026-03-08",
+      "photoStatus": "updating"
     },
     "verified": true
   },
@@ -3488,12 +3711,13 @@
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "專業音響、投影設備",
     "images": {
-      "main": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "使用 Unsplash 佔位圖，待替換為真實照片",
-      "lastUpdated": "2026-03-08"
+      "needsUpdate": true,
+      "note": "照片更新中，請稍後",
+      "lastUpdated": "2026-03-08",
+      "photoStatus": "updating"
     },
     "verified": true
   },
@@ -3515,12 +3739,13 @@
     "availableTimeWeekend": "09:00-18:00",
     "equipment": "專業音響、燈光",
     "images": {
-      "main": "https://images.unsplash.com/photo-1461896836934- voices-of-basketball?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "使用 Unsplash 佔位圖，待替換為真實照片",
-      "lastUpdated": "2026-03-08"
+      "needsUpdate": true,
+      "note": "照片更新中，請稍後",
+      "lastUpdated": "2026-03-08",
+      "photoStatus": "updating"
     },
     "verified": true
   },
@@ -3542,12 +3767,13 @@
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "專業音響燈光、投影設備",
     "images": {
-      "main": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "使用 Unsplash 佔位圖，待替換為真實照片",
-      "lastUpdated": "2026-03-08"
+      "needsUpdate": true,
+      "note": "照片更新中，請稍後",
+      "lastUpdated": "2026-03-08",
+      "photoStatus": "updating"
     },
     "verified": true
   },
@@ -3569,12 +3795,13 @@
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "專業音響燈光、投影設備",
     "images": {
-      "main": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "使用 Unsplash 佔位圖，待替換為真實照片",
-      "lastUpdated": "2026-03-08"
+      "needsUpdate": true,
+      "note": "照片更新中，請稍後",
+      "lastUpdated": "2026-03-08",
+      "photoStatus": "updating"
     },
     "verified": true
   },
@@ -3596,12 +3823,13 @@
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "專業音響燈光、投影設備",
     "images": {
-      "main": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "使用 Unsplash 佔位圖，待替換為真實照片",
-      "lastUpdated": "2026-03-08"
+      "needsUpdate": true,
+      "note": "照片更新中，請稍後",
+      "lastUpdated": "2026-03-08",
+      "photoStatus": "updating"
     },
     "verified": true
   },
@@ -3623,12 +3851,13 @@
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "專業音響、投影設備",
     "images": {
-      "main": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "使用 Unsplash 佔位圖，待替換為真實照片",
-      "lastUpdated": "2026-03-08"
+      "needsUpdate": true,
+      "note": "照片更新中，請稍後",
+      "lastUpdated": "2026-03-08",
+      "photoStatus": "updating"
     },
     "verified": true
   },
@@ -3650,12 +3879,13 @@
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "專業音響、投影設備",
     "images": {
-      "main": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "使用 Unsplash 佔位圖，待替換為真實照片",
-      "lastUpdated": "2026-03-08"
+      "needsUpdate": true,
+      "note": "照片更新中，請稍後",
+      "lastUpdated": "2026-03-08",
+      "photoStatus": "updating"
     },
     "verified": true
   },
@@ -3677,12 +3907,13 @@
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "基本音響、投影設備",
     "images": {
-      "main": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "使用 Unsplash 佔位圖，待替換為真實照片",
-      "lastUpdated": "2026-03-08"
+      "needsUpdate": true,
+      "note": "照片更新中，請稍後",
+      "lastUpdated": "2026-03-08",
+      "photoStatus": "updating"
     },
     "verified": true
   },
@@ -3704,12 +3935,13 @@
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "專業音響燈光、投影設備",
     "images": {
-      "main": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "使用 Unsplash 佔位圖，待替換為真實照片",
-      "lastUpdated": "2026-03-08"
+      "needsUpdate": true,
+      "note": "照片更新中，請稍後",
+      "lastUpdated": "2026-03-08",
+      "photoStatus": "updating"
     },
     "verified": true
   },
@@ -3731,12 +3963,13 @@
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "專業音響、投影設備",
     "images": {
-      "main": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "使用 Unsplash 佔位圖，待替換為真實照片",
-      "lastUpdated": "2026-03-08"
+      "needsUpdate": true,
+      "note": "照片更新中，請稍後",
+      "lastUpdated": "2026-03-08",
+      "photoStatus": "updating"
     },
     "verified": true
   },
@@ -3758,12 +3991,13 @@
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "專業音響、投影設備",
     "images": {
-      "main": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "使用 Unsplash 佔位圖，待替換為真實照片",
-      "lastUpdated": "2026-03-08"
+      "needsUpdate": true,
+      "note": "照片更新中，請稍後",
+      "lastUpdated": "2026-03-08",
+      "photoStatus": "updating"
     },
     "verified": true
   },
@@ -3785,12 +4019,13 @@
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "專業音響燈光、投影設備",
     "images": {
-      "main": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "使用 Unsplash 佔位圖，待替換為真實照片",
-      "lastUpdated": "2026-03-08"
+      "needsUpdate": true,
+      "note": "照片更新中，請稍後",
+      "lastUpdated": "2026-03-08",
+      "photoStatus": "updating"
     },
     "verified": true
   },
@@ -3812,12 +4047,13 @@
     "availableTimeWeekend": "09:00-18:00",
     "equipment": "專業音響、燈光",
     "images": {
-      "main": "https://images.unsplash.com/photo-1461896836934- voices-of-basketball?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "使用 Unsplash 佔位圖，待替換為真實照片",
-      "lastUpdated": "2026-03-08"
+      "needsUpdate": true,
+      "note": "照片更新中，請稍後",
+      "lastUpdated": "2026-03-08",
+      "photoStatus": "updating"
     },
     "verified": true
   },
@@ -3839,12 +4075,13 @@
     "availableTimeWeekend": "09:00-18:00",
     "equipment": "專業音響、燈光",
     "images": {
-      "main": "https://images.unsplash.com/photo-1461896836934- voices-of-basketball?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "使用 Unsplash 佔位圖，待替換為真實照片",
-      "lastUpdated": "2026-03-08"
+      "needsUpdate": true,
+      "note": "照片更新中，請稍後",
+      "lastUpdated": "2026-03-08",
+      "photoStatus": "updating"
     },
     "verified": true
   },
@@ -3866,12 +4103,13 @@
     "availableTimeWeekend": "休館",
     "equipment": "投影設備、音響",
     "images": {
-      "main": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "使用 Unsplash 佔位圖，待替換為真實照片",
-      "lastUpdated": "2026-03-08"
+      "needsUpdate": true,
+      "note": "照片更新中，請稍後",
+      "lastUpdated": "2026-03-08",
+      "photoStatus": "updating"
     },
     "verified": true
   },
@@ -3893,12 +4131,13 @@
     "availableTimeWeekend": "休館",
     "equipment": "投影設備、音響",
     "images": {
-      "main": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "使用 Unsplash 佔位圖，待替換為真實照片",
-      "lastUpdated": "2026-03-08"
+      "needsUpdate": true,
+      "note": "照片更新中，請稍後",
+      "lastUpdated": "2026-03-08",
+      "photoStatus": "updating"
     },
     "verified": true
   },
@@ -3920,12 +4159,13 @@
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "專業音響、投影設備",
     "images": {
-      "main": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "使用 Unsplash 佔位圖，待替換為真實照片",
-      "lastUpdated": "2026-03-08"
+      "needsUpdate": true,
+      "note": "照片更新中，請稍後",
+      "lastUpdated": "2026-03-08",
+      "photoStatus": "updating"
     },
     "verified": true
   },
@@ -3947,12 +4187,13 @@
     "availableTimeWeekend": "休館",
     "equipment": "專業投影設備、音響",
     "images": {
-      "main": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "使用 Unsplash 佔位圖，待替換為真實照片",
-      "lastUpdated": "2026-03-08"
+      "needsUpdate": true,
+      "note": "照片更新中，請稍後",
+      "lastUpdated": "2026-03-08",
+      "photoStatus": "updating"
     },
     "verified": true
   },
@@ -3974,12 +4215,15 @@
     "availableTimeWeekend": "09:00-17:00",
     "equipment": "專業音響、燈光",
     "images": {
-      "main": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800",
+      "main": "",
       "gallery": [
         "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800"
       ],
       "verified": true,
-      "verifiedAt": "2026-03-01T23:37:26.584Z"
+      "verifiedAt": "2026-03-01T23:37:26.584Z",
+      "needsUpdate": true,
+      "photoStatus": "updating",
+      "note": "照片更新中，請稍後"
     },
     "verified": true
   },
@@ -4001,12 +4245,13 @@
     "availableTimeWeekend": "09:00-18:00",
     "equipment": "專業音響、燈光",
     "images": {
-      "main": "https://images.unsplash.com/photo-1461896836934- voices-of-basketball?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "使用 Unsplash 佔位圖，待替換為真實照片",
-      "lastUpdated": "2026-03-08"
+      "needsUpdate": true,
+      "note": "照片更新中，請稍後",
+      "lastUpdated": "2026-03-08",
+      "photoStatus": "updating"
     },
     "verified": true
   },
@@ -4028,12 +4273,13 @@
     "availableTimeWeekend": "休館",
     "equipment": "投影設備、音響",
     "images": {
-      "main": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "使用 Unsplash 佔位圖，待替換為真實照片",
-      "lastUpdated": "2026-03-08"
+      "needsUpdate": true,
+      "note": "照片更新中，請稍後",
+      "lastUpdated": "2026-03-08",
+      "photoStatus": "updating"
     },
     "verified": true
   },
@@ -4055,12 +4301,13 @@
     "availableTimeWeekend": "09:00-22:00",
     "equipment": "專業影音、淡水河景、夕陽景觀",
     "images": {
-      "main": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
       "needsUpdate": true,
-      "note": "待補充真實照片網址",
-      "lastUpdated": "2026-03-05"
+      "note": "照片更新中，請稍後",
+      "lastUpdated": "2026-03-05",
+      "photoStatus": "updating"
     },
     "verified": true
   },
@@ -4082,12 +4329,13 @@
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "專業音響燈光、投影設備",
     "images": {
-      "main": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "使用 Unsplash 佔位圖，待替換為真實照片",
-      "lastUpdated": "2026-03-08"
+      "needsUpdate": true,
+      "note": "照片更新中，請稍後",
+      "lastUpdated": "2026-03-08",
+      "photoStatus": "updating"
     },
     "verified": true
   },
@@ -4109,12 +4357,13 @@
     "availableTimeWeekend": "06:00-22:00",
     "equipment": "投影機、音響",
     "images": {
-      "main": "https://images.unsplash.com/photo-1461896836934- voices-of-basketball?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "使用 Unsplash 佔位圖，待替換為真實照片",
-      "lastUpdated": "2026-03-08"
+      "needsUpdate": true,
+      "note": "照片更新中，請稍後",
+      "lastUpdated": "2026-03-08",
+      "photoStatus": "updating"
     },
     "verified": true
   },
@@ -4136,12 +4385,13 @@
     "availableTimeWeekend": "11:00-22:00",
     "equipment": "專業音響燈光",
     "images": {
-      "main": "https://images.unsplash.com/photo-1519167758481-83f550bb49b3?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "使用 Unsplash 佔位圖，待替換為真實照片",
-      "lastUpdated": "2026-03-08"
+      "needsUpdate": true,
+      "note": "照片更新中，請稍後",
+      "lastUpdated": "2026-03-08",
+      "photoStatus": "updating"
     },
     "verified": true
   },
@@ -4163,12 +4413,13 @@
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "專業音響燈光、投影設備",
     "images": {
-      "main": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "使用 Unsplash 佔位圖，待替換為真實照片",
-      "lastUpdated": "2026-03-08"
+      "needsUpdate": true,
+      "note": "照片更新中，請稍後",
+      "lastUpdated": "2026-03-08",
+      "photoStatus": "updating"
     },
     "verified": true
   },
@@ -4190,12 +4441,13 @@
     "availableTimeWeekend": "休館",
     "equipment": "專業投影設備、音響",
     "images": {
-      "main": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "使用 Unsplash 佔位圖，待替換為真實照片",
-      "lastUpdated": "2026-03-08"
+      "needsUpdate": true,
+      "note": "照片更新中，請稍後",
+      "lastUpdated": "2026-03-08",
+      "photoStatus": "updating"
     },
     "verified": true
   },
@@ -4217,12 +4469,13 @@
     "availableTimeWeekend": "09:00-18:00",
     "equipment": "專業音響、燈光",
     "images": {
-      "main": "https://images.unsplash.com/photo-1461896836934- voices-of-basketball?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "使用 Unsplash 佔位圖，待替換為真實照片",
-      "lastUpdated": "2026-03-08"
+      "needsUpdate": true,
+      "note": "照片更新中，請稍後",
+      "lastUpdated": "2026-03-08",
+      "photoStatus": "updating"
     },
     "verified": true
   },
@@ -4244,12 +4497,13 @@
     "availableTimeWeekend": "10:00-22:00",
     "equipment": "投影設備、音響",
     "images": {
-      "main": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "使用 Unsplash 佔位圖，待替換為真實照片",
-      "lastUpdated": "2026-03-08"
+      "needsUpdate": true,
+      "note": "照片更新中，請稍後",
+      "lastUpdated": "2026-03-08",
+      "photoStatus": "updating"
     },
     "verified": true
   },
@@ -4271,12 +4525,13 @@
     "availableTimeWeekend": "06:00-22:00",
     "equipment": "投影機、音響",
     "images": {
-      "main": "https://images.unsplash.com/photo-1461896836934- voices-of-basketball?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "使用 Unsplash 佔位圖，待替換為真實照片",
-      "lastUpdated": "2026-03-08"
+      "needsUpdate": true,
+      "note": "照片更新中，請稍後",
+      "lastUpdated": "2026-03-08",
+      "photoStatus": "updating"
     },
     "verified": true
   },
@@ -4298,12 +4553,13 @@
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "專業音響燈光、投影設備",
     "images": {
-      "main": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "使用 Unsplash 佔位圖，待替換為真實照片",
-      "lastUpdated": "2026-03-08"
+      "needsUpdate": true,
+      "note": "照片更新中，請稍後",
+      "lastUpdated": "2026-03-08",
+      "photoStatus": "updating"
     },
     "verified": true
   },
@@ -4325,12 +4581,13 @@
     "availableTimeWeekend": "11:00-22:00",
     "equipment": "專業音響燈光",
     "images": {
-      "main": "https://images.unsplash.com/photo-1519167758481-83f550bb49b3?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "使用 Unsplash 佔位圖，待替換為真實照片",
-      "lastUpdated": "2026-03-08"
+      "needsUpdate": true,
+      "note": "照片更新中，請稍後",
+      "lastUpdated": "2026-03-08",
+      "photoStatus": "updating"
     },
     "verified": true
   },
@@ -4352,12 +4609,13 @@
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "專業音響、投影設備",
     "images": {
-      "main": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "使用 Unsplash 佔位圖，待替換為真實照片",
-      "lastUpdated": "2026-03-08"
+      "needsUpdate": true,
+      "note": "照片更新中，請稍後",
+      "lastUpdated": "2026-03-08",
+      "photoStatus": "updating"
     },
     "verified": true
   },
@@ -4379,12 +4637,13 @@
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "專業音響、投影設備",
     "images": {
-      "main": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "使用 Unsplash 佔位圖，待替換為真實照片",
-      "lastUpdated": "2026-03-08"
+      "needsUpdate": true,
+      "note": "照片更新中，請稍後",
+      "lastUpdated": "2026-03-08",
+      "photoStatus": "updating"
     },
     "verified": true
   },
@@ -4406,12 +4665,13 @@
     "availableTimeWeekend": "09:00-18:00",
     "equipment": "專業燈光、空調",
     "images": {
-      "main": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "使用 Unsplash 佔位圖，待替換為真實照片",
-      "lastUpdated": "2026-03-08"
+      "needsUpdate": true,
+      "note": "照片更新中，請稍後",
+      "lastUpdated": "2026-03-08",
+      "photoStatus": "updating"
     },
     "verified": true
   },
@@ -4433,12 +4693,13 @@
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "專業音響燈光、投影設備",
     "images": {
-      "main": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "使用 Unsplash 佔位圖，待替換為真實照片",
-      "lastUpdated": "2026-03-08"
+      "needsUpdate": true,
+      "note": "照片更新中，請稍後",
+      "lastUpdated": "2026-03-08",
+      "photoStatus": "updating"
     },
     "verified": true
   },
@@ -4460,12 +4721,13 @@
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "專業音響、投影設備",
     "images": {
-      "main": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "使用 Unsplash 佔位圖，待替換為真實照片",
-      "lastUpdated": "2026-03-08"
+      "needsUpdate": true,
+      "note": "照片更新中，請稍後",
+      "lastUpdated": "2026-03-08",
+      "photoStatus": "updating"
     },
     "verified": true
   },
@@ -4487,12 +4749,13 @@
     "availableTimeWeekend": "11:00-22:00",
     "equipment": "專業音響燈光",
     "images": {
-      "main": "https://images.unsplash.com/photo-1519167758481-83f550bb49b3?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "使用 Unsplash 佔位圖，待替換為真實照片",
-      "lastUpdated": "2026-03-08"
+      "needsUpdate": true,
+      "note": "照片更新中，請稍後",
+      "lastUpdated": "2026-03-08",
+      "photoStatus": "updating"
     },
     "verified": true
   },
@@ -4514,12 +4777,13 @@
     "availableTimeWeekend": "09:00-18:00",
     "equipment": "基本燈光、空調",
     "images": {
-      "main": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "使用 Unsplash 佔位圖，待替換為真實照片",
-      "lastUpdated": "2026-03-08"
+      "needsUpdate": true,
+      "note": "照片更新中，請稍後",
+      "lastUpdated": "2026-03-08",
+      "photoStatus": "updating"
     },
     "verified": true
   },
@@ -4541,12 +4805,13 @@
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "專業音響燈光、投影設備",
     "images": {
-      "main": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "使用 Unsplash 佔位圖，待替換為真實照片",
-      "lastUpdated": "2026-03-08"
+      "needsUpdate": true,
+      "note": "照片更新中，請稍後",
+      "lastUpdated": "2026-03-08",
+      "photoStatus": "updating"
     },
     "verified": true
   },
@@ -4568,12 +4833,13 @@
     "availableTimeWeekend": "11:00-22:00",
     "equipment": "專業音響燈光",
     "images": {
-      "main": "https://images.unsplash.com/photo-1519167758481-83f550bb49b3?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "使用 Unsplash 佔位圖，待替換為真實照片",
-      "lastUpdated": "2026-03-08"
+      "needsUpdate": true,
+      "note": "照片更新中，請稍後",
+      "lastUpdated": "2026-03-08",
+      "photoStatus": "updating"
     },
     "verified": true
   },
@@ -4595,12 +4861,13 @@
     "availableTimeWeekend": "休館",
     "equipment": "投影設備、音響",
     "images": {
-      "main": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "使用 Unsplash 佔位圖，待替換為真實照片",
-      "lastUpdated": "2026-03-08"
+      "needsUpdate": true,
+      "note": "照片更新中，請稍後",
+      "lastUpdated": "2026-03-08",
+      "photoStatus": "updating"
     },
     "verified": true
   },
@@ -4622,12 +4889,13 @@
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "專業音響、投影設備",
     "images": {
-      "main": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "使用 Unsplash 佔位圖，待替換為真實照片",
-      "lastUpdated": "2026-03-08"
+      "needsUpdate": true,
+      "note": "照片更新中，請稍後",
+      "lastUpdated": "2026-03-08",
+      "photoStatus": "updating"
     },
     "verified": true
   },
@@ -4649,12 +4917,13 @@
     "availableTimeWeekend": "09:00-17:00",
     "equipment": "專業音響、燈光",
     "images": {
-      "main": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "使用 Unsplash 佔位圖，待替換為真實照片",
-      "lastUpdated": "2026-03-08"
+      "needsUpdate": true,
+      "note": "照片更新中，請稍後",
+      "lastUpdated": "2026-03-08",
+      "photoStatus": "updating"
     },
     "verified": true
   },
@@ -4676,12 +4945,13 @@
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "專業音響燈光、投影設備",
     "images": {
-      "main": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "使用 Unsplash 佔位圖，待替換為真實照片",
-      "lastUpdated": "2026-03-08"
+      "needsUpdate": true,
+      "note": "照片更新中，請稍後",
+      "lastUpdated": "2026-03-08",
+      "photoStatus": "updating"
     },
     "verified": true
   },
@@ -4703,12 +4973,13 @@
     "availableTimeWeekend": "09:00-17:00",
     "equipment": "投影機、音響",
     "images": {
-      "main": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "使用 Unsplash 佔位圖，待替換為真實照片",
-      "lastUpdated": "2026-03-08"
+      "needsUpdate": true,
+      "note": "照片更新中，請稍後",
+      "lastUpdated": "2026-03-08",
+      "photoStatus": "updating"
     },
     "verified": true
   },
@@ -4730,12 +5001,13 @@
     "availableTimeWeekend": "09:00-17:00",
     "equipment": "專業音響、燈光",
     "images": {
-      "main": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "使用 Unsplash 佔位圖，待替換為真實照片",
-      "lastUpdated": "2026-03-08"
+      "needsUpdate": true,
+      "note": "照片更新中，請稍後",
+      "lastUpdated": "2026-03-08",
+      "photoStatus": "updating"
     },
     "verified": true
   },
@@ -4757,12 +5029,13 @@
     "availableTimeWeekend": "休館",
     "equipment": "投影設備、音響",
     "images": {
-      "main": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "使用 Unsplash 佔位圖，待替換為真實照片",
-      "lastUpdated": "2026-03-08"
+      "needsUpdate": true,
+      "note": "照片更新中，請稍後",
+      "lastUpdated": "2026-03-08",
+      "photoStatus": "updating"
     },
     "verified": true
   },
@@ -4784,12 +5057,13 @@
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "專業音響燈光、LED螢幕",
     "images": {
-      "main": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "使用 Unsplash 佔位圖，待替換為真實照片",
-      "lastUpdated": "2026-03-08"
+      "needsUpdate": true,
+      "note": "照片更新中，請稍後",
+      "lastUpdated": "2026-03-08",
+      "photoStatus": "updating"
     },
     "verified": true
   },
@@ -4811,12 +5085,13 @@
     "availableTimeWeekend": "09:00-18:00",
     "equipment": "專業音響、燈光",
     "images": {
-      "main": "https://images.unsplash.com/photo-1461896836934- voices-of-basketball?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "使用 Unsplash 佔位圖，待替換為真實照片",
-      "lastUpdated": "2026-03-08"
+      "needsUpdate": true,
+      "note": "照片更新中，請稍後",
+      "lastUpdated": "2026-03-08",
+      "photoStatus": "updating"
     },
     "verified": true
   },
@@ -4838,12 +5113,13 @@
     "availableTimeWeekend": "09:00-22:00",
     "equipment": "專業影音、LED螢幕、燈光系統",
     "images": {
-      "main": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "使用 Unsplash 佔位圖，待替換為真實照片",
-      "lastUpdated": "2026-03-08"
+      "needsUpdate": true,
+      "note": "照片更新中，請稍後",
+      "lastUpdated": "2026-03-08",
+      "photoStatus": "updating"
     },
     "verified": true
   },
@@ -4865,12 +5141,13 @@
     "availableTimeWeekend": "休館",
     "equipment": "投影設備、音響",
     "images": {
-      "main": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "使用 Unsplash 佔位圖，待替換為真實照片",
-      "lastUpdated": "2026-03-08"
+      "needsUpdate": true,
+      "note": "照片更新中，請稍後",
+      "lastUpdated": "2026-03-08",
+      "photoStatus": "updating"
     },
     "verified": true
   },
@@ -4892,12 +5169,13 @@
     "availableTimeWeekend": "09:00-17:00",
     "equipment": "專業音響、燈光",
     "images": {
-      "main": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "使用 Unsplash 佔位圖，待替換為真實照片",
-      "lastUpdated": "2026-03-08"
+      "needsUpdate": true,
+      "note": "照片更新中，請稍後",
+      "lastUpdated": "2026-03-08",
+      "photoStatus": "updating"
     },
     "verified": true
   },
@@ -4919,12 +5197,13 @@
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "專業音響、投影設備",
     "images": {
-      "main": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "使用 Unsplash 佔位圖，待替換為真實照片",
-      "lastUpdated": "2026-03-08"
+      "needsUpdate": true,
+      "note": "照片更新中，請稍後",
+      "lastUpdated": "2026-03-08",
+      "photoStatus": "updating"
     },
     "verified": true
   },
@@ -4946,12 +5225,13 @@
     "availableTimeWeekend": "11:00-22:00",
     "equipment": "專業音響燈光",
     "images": {
-      "main": "https://images.unsplash.com/photo-1519167758481-83f550bb49b3?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "使用 Unsplash 佔位圖，待替換為真實照片",
-      "lastUpdated": "2026-03-08"
+      "needsUpdate": true,
+      "note": "照片更新中，請稍後",
+      "lastUpdated": "2026-03-08",
+      "photoStatus": "updating"
     },
     "verified": true
   },
@@ -4973,12 +5253,13 @@
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "專業音響燈光、投影設備",
     "images": {
-      "main": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "使用 Unsplash 佔位圖，待替換為真實照片",
-      "lastUpdated": "2026-03-08"
+      "needsUpdate": true,
+      "note": "照片更新中，請稍後",
+      "lastUpdated": "2026-03-08",
+      "photoStatus": "updating"
     },
     "verified": true
   },
@@ -5000,12 +5281,13 @@
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "專業音響、投影設備",
     "images": {
-      "main": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "使用 Unsplash 佔位圖，待替換為真實照片",
-      "lastUpdated": "2026-03-08"
+      "needsUpdate": true,
+      "note": "照片更新中，請稍後",
+      "lastUpdated": "2026-03-08",
+      "photoStatus": "updating"
     },
     "verified": true
   },
@@ -5027,12 +5309,13 @@
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "專業音響、投影設備",
     "images": {
-      "main": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "使用 Unsplash 佔位圖，待替換為真實照片",
-      "lastUpdated": "2026-03-08"
+      "needsUpdate": true,
+      "note": "照片更新中，請稍後",
+      "lastUpdated": "2026-03-08",
+      "photoStatus": "updating"
     },
     "verified": true
   },
@@ -5054,12 +5337,13 @@
     "availableTimeWeekend": "08:00-17:00",
     "equipment": "專業投影設備、音響",
     "images": {
-      "main": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "使用 Unsplash 佔位圖，待替換為真實照片",
-      "lastUpdated": "2026-03-08"
+      "needsUpdate": true,
+      "note": "照片更新中，請稍後",
+      "lastUpdated": "2026-03-08",
+      "photoStatus": "updating"
     },
     "verified": true
   },
@@ -5081,12 +5365,13 @@
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "頂級音響燈光、LED螢幕",
     "images": {
-      "main": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "使用 Unsplash 佔位圖，待替換為真實照片",
-      "lastUpdated": "2026-03-08"
+      "needsUpdate": true,
+      "note": "照片更新中，請稍後",
+      "lastUpdated": "2026-03-08",
+      "photoStatus": "updating"
     },
     "verified": true
   },
@@ -5108,12 +5393,13 @@
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "專業音響、投影設備",
     "images": {
-      "main": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "使用 Unsplash 佔位圖，待替換為真實照片",
-      "lastUpdated": "2026-03-08"
+      "needsUpdate": true,
+      "note": "照片更新中，請稍後",
+      "lastUpdated": "2026-03-08",
+      "photoStatus": "updating"
     },
     "verified": true
   },
@@ -5135,12 +5421,13 @@
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "專業音響、投影設備",
     "images": {
-      "main": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "使用 Unsplash 佔位圖，待替換為真實照片",
-      "lastUpdated": "2026-03-08"
+      "needsUpdate": true,
+      "note": "照片更新中，請稍後",
+      "lastUpdated": "2026-03-08",
+      "photoStatus": "updating"
     },
     "verified": true
   },
@@ -5162,12 +5449,13 @@
     "availableTimeWeekend": "09:00-18:00",
     "equipment": "專業音響、投影設備",
     "images": {
-      "main": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "使用 Unsplash 佔位圖，待替換為真實照片",
-      "lastUpdated": "2026-03-08"
+      "needsUpdate": true,
+      "note": "照片更新中，請稍後",
+      "lastUpdated": "2026-03-08",
+      "photoStatus": "updating"
     },
     "verified": true
   },
@@ -5189,12 +5477,13 @@
     "availableTimeWeekend": "09:00-17:00",
     "equipment": "專業音響燈光",
     "images": {
-      "main": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "使用 Unsplash 佔位圖，待替換為真實照片",
-      "lastUpdated": "2026-03-08"
+      "needsUpdate": true,
+      "note": "照片更新中，請稍後",
+      "lastUpdated": "2026-03-08",
+      "photoStatus": "updating"
     },
     "verified": true
   },
@@ -5216,12 +5505,13 @@
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "專業音響燈光、投影設備",
     "images": {
-      "main": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "使用 Unsplash 佔位圖，待替換為真實照片",
-      "lastUpdated": "2026-03-08"
+      "needsUpdate": true,
+      "note": "照片更新中，請稍後",
+      "lastUpdated": "2026-03-08",
+      "photoStatus": "updating"
     },
     "verified": true
   },
@@ -5243,12 +5533,13 @@
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "投影機、音響",
     "images": {
-      "main": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "使用 Unsplash 佔位圖，待替換為真實照片",
-      "lastUpdated": "2026-03-08"
+      "needsUpdate": true,
+      "note": "照片更新中，請稍後",
+      "lastUpdated": "2026-03-08",
+      "photoStatus": "updating"
     },
     "verified": true
   },
@@ -5270,12 +5561,13 @@
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "專業音響、投影設備",
     "images": {
-      "main": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "使用 Unsplash 佔位圖，待替換為真實照片",
-      "lastUpdated": "2026-03-08"
+      "needsUpdate": true,
+      "note": "照片更新中，請稍後",
+      "lastUpdated": "2026-03-08",
+      "photoStatus": "updating"
     },
     "verified": true
   },
@@ -5297,12 +5589,13 @@
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "專業音響、投影設備",
     "images": {
-      "main": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "使用 Unsplash 佔位圖，待替換為真實照片",
-      "lastUpdated": "2026-03-08"
+      "needsUpdate": true,
+      "note": "照片更新中，請稍後",
+      "lastUpdated": "2026-03-08",
+      "photoStatus": "updating"
     },
     "verified": true
   },
@@ -5324,12 +5617,13 @@
     "availableTimeWeekend": "09:00-18:00",
     "equipment": "專業音響、燈光",
     "images": {
-      "main": "https://images.unsplash.com/photo-1461896836934- voices-of-basketball?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "使用 Unsplash 佔位圖，待替換為真實照片",
-      "lastUpdated": "2026-03-08"
+      "needsUpdate": true,
+      "note": "照片更新中，請稍後",
+      "lastUpdated": "2026-03-08",
+      "photoStatus": "updating"
     },
     "verified": true
   },
@@ -5351,12 +5645,13 @@
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "專業音響、投影設備",
     "images": {
-      "main": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "使用 Unsplash 佔位圖，待替換為真實照片",
-      "lastUpdated": "2026-03-08"
+      "needsUpdate": true,
+      "note": "照片更新中，請稍後",
+      "lastUpdated": "2026-03-08",
+      "photoStatus": "updating"
     },
     "verified": true
   },
@@ -5378,12 +5673,13 @@
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "專業音響、投影設備",
     "images": {
-      "main": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "使用 Unsplash 佔位圖，待替換為真實照片",
-      "lastUpdated": "2026-03-08"
+      "needsUpdate": true,
+      "note": "照片更新中，請稍後",
+      "lastUpdated": "2026-03-08",
+      "photoStatus": "updating"
     },
     "verified": true
   },
@@ -5405,12 +5701,13 @@
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "專業音響、投影設備",
     "images": {
-      "main": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "使用 Unsplash 佔位圖，待替換為真實照片",
-      "lastUpdated": "2026-03-08"
+      "needsUpdate": true,
+      "note": "照片更新中，請稍後",
+      "lastUpdated": "2026-03-08",
+      "photoStatus": "updating"
     },
     "verified": true
   },
@@ -5432,12 +5729,13 @@
     "availableTimeWeekend": "09:00-18:00",
     "equipment": "專業音響、燈光",
     "images": {
-      "main": "https://images.unsplash.com/photo-1461896836934- voices-of-basketball?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "使用 Unsplash 佔位圖，待替換為真實照片",
-      "lastUpdated": "2026-03-08"
+      "needsUpdate": true,
+      "note": "照片更新中，請稍後",
+      "lastUpdated": "2026-03-08",
+      "photoStatus": "updating"
     },
     "verified": true
   },
@@ -5459,12 +5757,13 @@
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "專業音響、投影設備",
     "images": {
-      "main": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "使用 Unsplash 佔位圖，待替換為真實照片",
-      "lastUpdated": "2026-03-08"
+      "needsUpdate": true,
+      "note": "照片更新中，請稍後",
+      "lastUpdated": "2026-03-08",
+      "photoStatus": "updating"
     },
     "verified": true
   },
@@ -5486,12 +5785,13 @@
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "專業音響、投影設備",
     "images": {
-      "main": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "使用 Unsplash 佔位圖，待替換為真實照片",
-      "lastUpdated": "2026-03-08"
+      "needsUpdate": true,
+      "note": "照片更新中，請稍後",
+      "lastUpdated": "2026-03-08",
+      "photoStatus": "updating"
     },
     "verified": true
   },
@@ -5513,12 +5813,13 @@
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "專業音響、投影設備",
     "images": {
-      "main": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "使用 Unsplash 佔位圖，待替換為真實照片",
-      "lastUpdated": "2026-03-08"
+      "needsUpdate": true,
+      "note": "照片更新中，請稍後",
+      "lastUpdated": "2026-03-08",
+      "photoStatus": "updating"
     },
     "verified": true
   },
@@ -5540,12 +5841,13 @@
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "專業音響、投影設備",
     "images": {
-      "main": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "使用 Unsplash 佔位圖，待替換為真實照片",
-      "lastUpdated": "2026-03-08"
+      "needsUpdate": true,
+      "note": "照片更新中，請稍後",
+      "lastUpdated": "2026-03-08",
+      "photoStatus": "updating"
     },
     "verified": true
   },
@@ -5567,12 +5869,15 @@
     "availableTimeWeekend": "09:00-17:00",
     "equipment": "專業音響、燈光",
     "images": {
-      "main": "https://images.unsplash.com/photo-1531058020387-3be344556be6?w=800",
+      "main": "",
       "gallery": [
         "https://images.unsplash.com/photo-1531058020387-3be344556be6?w=800"
       ],
       "verified": true,
-      "verifiedAt": "2026-03-01T23:42:16.988Z"
+      "verifiedAt": "2026-03-01T23:42:16.988Z",
+      "needsUpdate": true,
+      "photoStatus": "updating",
+      "note": "照片更新中，請稍後"
     },
     "verified": true
   },
@@ -5594,12 +5899,13 @@
     "availableTimeWeekend": "09:00-18:00",
     "equipment": "專業音響、燈光",
     "images": {
-      "main": "https://images.unsplash.com/photo-1461896836934- voices-of-basketball?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "使用 Unsplash 佔位圖，待替換為真實照片",
-      "lastUpdated": "2026-03-08"
+      "needsUpdate": true,
+      "note": "照片更新中，請稍後",
+      "lastUpdated": "2026-03-08",
+      "photoStatus": "updating"
     },
     "verified": true
   },
@@ -5621,12 +5927,13 @@
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "專業音響、投影設備",
     "images": {
-      "main": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "使用 Unsplash 佔位圖，待替換為真實照片",
-      "lastUpdated": "2026-03-08"
+      "needsUpdate": true,
+      "note": "照片更新中，請稍後",
+      "lastUpdated": "2026-03-08",
+      "photoStatus": "updating"
     },
     "verified": true
   },
@@ -5648,12 +5955,15 @@
     "availableTimeWeekend": "09:00-21:00",
     "equipment": "專業音響、燈光",
     "images": {
-      "main": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800",
+      "main": "",
       "gallery": [
         "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800"
       ],
       "verified": true,
-      "verifiedAt": "2026-03-01T23:42:33.551Z"
+      "verifiedAt": "2026-03-01T23:42:33.551Z",
+      "needsUpdate": true,
+      "photoStatus": "updating",
+      "note": "照片更新中，請稍後"
     },
     "verified": true
   },
@@ -5675,12 +5985,13 @@
     "availableTimeWeekend": "09:00-18:00",
     "equipment": "專業音響、燈光",
     "images": {
-      "main": "https://images.unsplash.com/photo-1461896836934- voices-of-basketball?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "使用 Unsplash 佔位圖，待替換為真實照片",
-      "lastUpdated": "2026-03-08"
+      "needsUpdate": true,
+      "note": "照片更新中，請稍後",
+      "lastUpdated": "2026-03-08",
+      "photoStatus": "updating"
     },
     "verified": true
   },
@@ -5702,12 +6013,13 @@
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "投影機、音響",
     "images": {
-      "main": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "使用 Unsplash 佔位圖，待替換為真實照片",
-      "lastUpdated": "2026-03-08"
+      "needsUpdate": true,
+      "note": "照片更新中，請稍後",
+      "lastUpdated": "2026-03-08",
+      "photoStatus": "updating"
     },
     "verified": true
   },
@@ -5729,12 +6041,13 @@
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "投影機、音響",
     "images": {
-      "main": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "使用 Unsplash 佔位圖，待替換為真實照片",
-      "lastUpdated": "2026-03-08"
+      "needsUpdate": true,
+      "note": "照片更新中，請稍後",
+      "lastUpdated": "2026-03-08",
+      "photoStatus": "updating"
     },
     "verified": true
   },
@@ -5756,12 +6069,13 @@
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "投影機、音響",
     "images": {
-      "main": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "使用 Unsplash 佔位圖，待替換為真實照片",
-      "lastUpdated": "2026-03-08"
+      "needsUpdate": true,
+      "note": "照片更新中，請稍後",
+      "lastUpdated": "2026-03-08",
+      "photoStatus": "updating"
     },
     "verified": true
   },
@@ -5783,12 +6097,13 @@
     "availableTimeWeekend": "09:00-18:00",
     "equipment": "專業音響、燈光",
     "images": {
-      "main": "https://images.unsplash.com/photo-1461896836934- voices-of-basketball?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "使用 Unsplash 佔位圖，待替換為真實照片",
-      "lastUpdated": "2026-03-08"
+      "needsUpdate": true,
+      "note": "照片更新中，請稍後",
+      "lastUpdated": "2026-03-08",
+      "photoStatus": "updating"
     },
     "verified": true
   },
@@ -5810,12 +6125,13 @@
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "專業音響、投影設備",
     "images": {
-      "main": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "使用 Unsplash 佔位圖，待替換為真實照片",
-      "lastUpdated": "2026-03-08"
+      "needsUpdate": true,
+      "note": "照片更新中，請稍後",
+      "lastUpdated": "2026-03-08",
+      "photoStatus": "updating"
     },
     "verified": true
   },
@@ -5837,12 +6153,13 @@
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "專業音響、投影設備",
     "images": {
-      "main": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "使用 Unsplash 佔位圖，待替換為真實照片",
-      "lastUpdated": "2026-03-08"
+      "needsUpdate": true,
+      "note": "照片更新中，請稍後",
+      "lastUpdated": "2026-03-08",
+      "photoStatus": "updating"
     },
     "verified": true
   },
@@ -5864,12 +6181,13 @@
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "專業音響、投影設備",
     "images": {
-      "main": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "使用 Unsplash 佔位圖，待替換為真實照片",
-      "lastUpdated": "2026-03-08"
+      "needsUpdate": true,
+      "note": "照片更新中，請稍後",
+      "lastUpdated": "2026-03-08",
+      "photoStatus": "updating"
     },
     "verified": true
   },
@@ -5891,12 +6209,13 @@
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "專業音響、投影設備",
     "images": {
-      "main": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "使用 Unsplash 佔位圖，待替換為真實照片",
-      "lastUpdated": "2026-03-08"
+      "needsUpdate": true,
+      "note": "照片更新中，請稍後",
+      "lastUpdated": "2026-03-08",
+      "photoStatus": "updating"
     },
     "verified": true
   },
@@ -5918,12 +6237,13 @@
     "availableTimeWeekend": "09:00-18:00",
     "equipment": "專業音響、燈光",
     "images": {
-      "main": "https://images.unsplash.com/photo-1461896836934- voices-of-basketball?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "使用 Unsplash 佔位圖，待替換為真實照片",
-      "lastUpdated": "2026-03-08"
+      "needsUpdate": true,
+      "note": "照片更新中，請稍後",
+      "lastUpdated": "2026-03-08",
+      "photoStatus": "updating"
     },
     "verified": true
   },
@@ -5945,12 +6265,13 @@
     "availableTimeWeekend": "休館",
     "equipment": "投影設備、音響",
     "images": {
-      "main": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "使用 Unsplash 佔位圖，待替換為真實照片",
-      "lastUpdated": "2026-03-08"
+      "needsUpdate": true,
+      "note": "照片更新中，請稍後",
+      "lastUpdated": "2026-03-08",
+      "photoStatus": "updating"
     },
     "verified": true
   },
@@ -5972,12 +6293,13 @@
     "availableTimeWeekend": "11:00-22:00",
     "equipment": "專業音響、投影設備",
     "images": {
-      "main": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "使用 Unsplash 佔位圖，待替換為真實照片",
-      "lastUpdated": "2026-03-08"
+      "needsUpdate": true,
+      "note": "照片更新中，請稍後",
+      "lastUpdated": "2026-03-08",
+      "photoStatus": "updating"
     },
     "verified": true
   },
@@ -5999,12 +6321,13 @@
     "availableTimeWeekend": "09:00-17:00",
     "equipment": "專業音響、燈光",
     "images": {
-      "main": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "使用 Unsplash 佔位圖，待替換為真實照片",
-      "lastUpdated": "2026-03-08"
+      "needsUpdate": true,
+      "note": "照片更新中，請稍後",
+      "lastUpdated": "2026-03-08",
+      "photoStatus": "updating"
     },
     "verified": true
   },
@@ -6026,12 +6349,13 @@
     "availableTimeWeekend": "09:00-17:00",
     "equipment": "專業燈光、空調",
     "images": {
-      "main": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "使用 Unsplash 佔位圖，待替換為真實照片",
-      "lastUpdated": "2026-03-08"
+      "needsUpdate": true,
+      "note": "照片更新中，請稍後",
+      "lastUpdated": "2026-03-08",
+      "photoStatus": "updating"
     },
     "verified": true
   },
@@ -6053,12 +6377,13 @@
     "availableTimeWeekend": "11:00-22:00",
     "equipment": "專業音響燈光",
     "images": {
-      "main": "https://images.unsplash.com/photo-1519167758481-83f550bb49b3?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "使用 Unsplash 佔位圖，待替換為真實照片",
-      "lastUpdated": "2026-03-08"
+      "needsUpdate": true,
+      "note": "照片更新中，請稍後",
+      "lastUpdated": "2026-03-08",
+      "photoStatus": "updating"
     },
     "verified": true
   },
@@ -6080,12 +6405,13 @@
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "專業音響、投影設備",
     "images": {
-      "main": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "使用 Unsplash 佔位圖，待替換為真實照片",
-      "lastUpdated": "2026-03-08"
+      "needsUpdate": true,
+      "note": "照片更新中，請稍後",
+      "lastUpdated": "2026-03-08",
+      "photoStatus": "updating"
     },
     "verified": true
   },
@@ -6107,12 +6433,13 @@
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "專業音響燈光、LED螢幕",
     "images": {
-      "main": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "使用 Unsplash 佔位圖，待替換為真實照片",
-      "lastUpdated": "2026-03-08"
+      "needsUpdate": true,
+      "note": "照片更新中，請稍後",
+      "lastUpdated": "2026-03-08",
+      "photoStatus": "updating"
     },
     "verified": true
   },
@@ -6134,12 +6461,13 @@
     "availableTimeWeekend": "10:00-20:00",
     "equipment": "基本燈光、空調",
     "images": {
-      "main": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "使用 Unsplash 佔位圖，待替換為真實照片",
-      "lastUpdated": "2026-03-08"
+      "needsUpdate": true,
+      "note": "照片更新中，請稍後",
+      "lastUpdated": "2026-03-08",
+      "photoStatus": "updating"
     },
     "verified": true
   },
@@ -6161,12 +6489,13 @@
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "基本音響、投影設備",
     "images": {
-      "main": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "使用 Unsplash 佔位圖，待替換為真實照片",
-      "lastUpdated": "2026-03-08"
+      "needsUpdate": true,
+      "note": "照片更新中，請稍後",
+      "lastUpdated": "2026-03-08",
+      "photoStatus": "updating"
     },
     "verified": true
   },
@@ -6188,12 +6517,13 @@
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "專業音響燈光、投影設備",
     "images": {
-      "main": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "使用 Unsplash 佔位圖，待替換為真實照片",
-      "lastUpdated": "2026-03-08"
+      "needsUpdate": true,
+      "note": "照片更新中，請稍後",
+      "lastUpdated": "2026-03-08",
+      "photoStatus": "updating"
     },
     "verified": true
   },
@@ -6215,12 +6545,13 @@
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "專業音響、投影設備",
     "images": {
-      "main": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "使用 Unsplash 佔位圖，待替換為真實照片",
-      "lastUpdated": "2026-03-08"
+      "needsUpdate": true,
+      "note": "照片更新中，請稍後",
+      "lastUpdated": "2026-03-08",
+      "photoStatus": "updating"
     },
     "verified": true
   },
@@ -6242,12 +6573,13 @@
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "專業音響燈光、投影設備",
     "images": {
-      "main": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "使用 Unsplash 佔位圖，待替換為真實照片",
-      "lastUpdated": "2026-03-08"
+      "needsUpdate": true,
+      "note": "照片更新中，請稍後",
+      "lastUpdated": "2026-03-08",
+      "photoStatus": "updating"
     },
     "verified": true
   },
@@ -6269,12 +6601,13 @@
     "availableTimeWeekend": "09:00-22:00",
     "equipment": "專業音響、燈光",
     "images": {
-      "main": "https://images.unsplash.com/photo-1461896836934- voices-of-basketball?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "使用 Unsplash 佔位圖，待替換為真實照片",
-      "lastUpdated": "2026-03-08"
+      "needsUpdate": true,
+      "note": "照片更新中，請稍後",
+      "lastUpdated": "2026-03-08",
+      "photoStatus": "updating"
     },
     "verified": true
   },
@@ -6296,12 +6629,13 @@
     "availableTimeWeekend": "09:00-17:00",
     "equipment": "專業音響、燈光",
     "images": {
-      "main": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "使用 Unsplash 佔位圖，待替換為真實照片",
-      "lastUpdated": "2026-03-08"
+      "needsUpdate": true,
+      "note": "照片更新中，請稍後",
+      "lastUpdated": "2026-03-08",
+      "photoStatus": "updating"
     },
     "verified": true
   },
@@ -6323,12 +6657,13 @@
     "availableTimeWeekend": "09:00-17:00",
     "equipment": "投影設備、音響",
     "images": {
-      "main": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "使用 Unsplash 佔位圖，待替換為真實照片",
-      "lastUpdated": "2026-03-08"
+      "needsUpdate": true,
+      "note": "照片更新中，請稍後",
+      "lastUpdated": "2026-03-08",
+      "photoStatus": "updating"
     },
     "verified": true
   },
@@ -6350,12 +6685,13 @@
     "availableTimeWeekend": "09:00-18:00",
     "equipment": "專業音響、燈光",
     "images": {
-      "main": "https://images.unsplash.com/photo-1461896836934- voices-of-basketball?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "使用 Unsplash 佔位圖，待替換為真實照片",
-      "lastUpdated": "2026-03-08"
+      "needsUpdate": true,
+      "note": "照片更新中，請稍後",
+      "lastUpdated": "2026-03-08",
+      "photoStatus": "updating"
     },
     "verified": true
   },
@@ -6377,12 +6713,13 @@
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "專業音響燈光、投影設備",
     "images": {
-      "main": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "使用 Unsplash 佔位圖，待替換為真實照片",
-      "lastUpdated": "2026-03-08"
+      "needsUpdate": true,
+      "note": "照片更新中，請稍後",
+      "lastUpdated": "2026-03-08",
+      "photoStatus": "updating"
     },
     "verified": true
   },
@@ -6404,12 +6741,13 @@
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "專業音響、投影設備",
     "images": {
-      "main": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "使用 Unsplash 佔位圖，待替換為真實照片",
-      "lastUpdated": "2026-03-08"
+      "needsUpdate": true,
+      "note": "照片更新中，請稍後",
+      "lastUpdated": "2026-03-08",
+      "photoStatus": "updating"
     },
     "verified": true
   },
@@ -6431,12 +6769,13 @@
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "專業音響、投影設備",
     "images": {
-      "main": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "使用 Unsplash 佔位圖，待替換為真實照片",
-      "lastUpdated": "2026-03-08"
+      "needsUpdate": true,
+      "note": "照片更新中，請稍後",
+      "lastUpdated": "2026-03-08",
+      "photoStatus": "updating"
     },
     "verified": true
   },
@@ -6458,12 +6797,13 @@
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "專業音響燈光、LED螢幕",
     "images": {
-      "main": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "使用 Unsplash 佔位圖，待替換為真實照片",
-      "lastUpdated": "2026-03-08"
+      "needsUpdate": true,
+      "note": "照片更新中，請稍後",
+      "lastUpdated": "2026-03-08",
+      "photoStatus": "updating"
     },
     "verified": true
   },
@@ -6485,12 +6825,13 @@
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "專業音響、投影設備",
     "images": {
-      "main": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "使用 Unsplash 佔位圖，待替換為真實照片",
-      "lastUpdated": "2026-03-08"
+      "needsUpdate": true,
+      "note": "照片更新中，請稍後",
+      "lastUpdated": "2026-03-08",
+      "photoStatus": "updating"
     },
     "verified": true
   },
@@ -6512,12 +6853,13 @@
     "availableTimeWeekend": "09:00-17:00",
     "equipment": "專業投影設備、音響",
     "images": {
-      "main": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "使用 Unsplash 佔位圖，待替換為真實照片",
-      "lastUpdated": "2026-03-08"
+      "needsUpdate": true,
+      "note": "照片更新中，請稍後",
+      "lastUpdated": "2026-03-08",
+      "photoStatus": "updating"
     },
     "verified": true
   },
@@ -6539,12 +6881,13 @@
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "投影機、音響",
     "images": {
-      "main": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "使用 Unsplash 佔位圖，待替換為真實照片",
-      "lastUpdated": "2026-03-08"
+      "needsUpdate": true,
+      "note": "照片更新中，請稍後",
+      "lastUpdated": "2026-03-08",
+      "photoStatus": "updating"
     },
     "verified": true
   },
@@ -6566,12 +6909,13 @@
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "專業音響燈光、LED螢幕",
     "images": {
-      "main": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "使用 Unsplash 佔位圖，待替換為真實照片",
-      "lastUpdated": "2026-03-08"
+      "needsUpdate": true,
+      "note": "照片更新中，請稍後",
+      "lastUpdated": "2026-03-08",
+      "photoStatus": "updating"
     },
     "verified": true
   },
@@ -6593,12 +6937,13 @@
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "專業音響、投影設備",
     "images": {
-      "main": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "使用 Unsplash 佔位圖，待替換為真實照片",
-      "lastUpdated": "2026-03-08"
+      "needsUpdate": true,
+      "note": "照片更新中，請稍後",
+      "lastUpdated": "2026-03-08",
+      "photoStatus": "updating"
     },
     "verified": true
   },
@@ -6620,12 +6965,13 @@
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "專業音響、投影設備",
     "images": {
-      "main": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "使用 Unsplash 佔位圖，待替換為真實照片",
-      "lastUpdated": "2026-03-08"
+      "needsUpdate": true,
+      "note": "照片更新中，請稍後",
+      "lastUpdated": "2026-03-08",
+      "photoStatus": "updating"
     },
     "verified": true
   },
@@ -6647,12 +6993,13 @@
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "專業音響燈光、LED螢幕",
     "images": {
-      "main": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "使用 Unsplash 佔位圖，待替換為真實照片",
-      "lastUpdated": "2026-03-08"
+      "needsUpdate": true,
+      "note": "照片更新中，請稍後",
+      "lastUpdated": "2026-03-08",
+      "photoStatus": "updating"
     },
     "verified": true
   },
@@ -6674,12 +7021,13 @@
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "基本音響、投影設備",
     "images": {
-      "main": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "使用 Unsplash 佔位圖，待替換為真實照片",
-      "lastUpdated": "2026-03-08"
+      "needsUpdate": true,
+      "note": "照片更新中，請稍後",
+      "lastUpdated": "2026-03-08",
+      "photoStatus": "updating"
     },
     "verified": true
   },
@@ -6701,12 +7049,15 @@
     "availableTimeWeekend": "休館",
     "equipment": "投影機、麥克風",
     "images": {
-      "main": "https://images.unsplash.com/photo-1497215842964-222b430dc094?w=800",
+      "main": "",
       "gallery": [
         "https://images.unsplash.com/photo-1497215842964-222b430dc094?w=800"
       ],
       "verified": true,
-      "verifiedAt": "2026-03-02T03:33:04.295Z"
+      "verifiedAt": "2026-03-02T03:33:04.295Z",
+      "needsUpdate": true,
+      "photoStatus": "updating",
+      "note": "照片更新中，請稍後"
     },
     "verified": true
   },
@@ -6728,12 +7079,15 @@
     "availableTimeWeekend": "08:00-17:00",
     "equipment": "投影機、麥克風",
     "images": {
-      "main": "https://images.unsplash.com/photo-1497366811353-6870744d04b2?w=800",
+      "main": "",
       "gallery": [
         "https://images.unsplash.com/photo-1497366811353-6870744d04b2?w=800"
       ],
       "verified": true,
-      "verifiedAt": "2026-03-02T03:33:04.295Z"
+      "verifiedAt": "2026-03-02T03:33:04.295Z",
+      "needsUpdate": true,
+      "photoStatus": "updating",
+      "note": "照片更新中，請稍後"
     },
     "verified": true
   },
@@ -6755,12 +7109,13 @@
     "availableTimeWeekend": "08:00-17:00",
     "equipment": "投影機、麥克風",
     "images": {
-      "main": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "使用 Unsplash 佔位圖，待替換為真實照片",
-      "lastUpdated": "2026-03-08"
+      "needsUpdate": true,
+      "note": "照片更新中，請稍後",
+      "lastUpdated": "2026-03-08",
+      "photoStatus": "updating"
     },
     "verified": true
   },
@@ -6782,12 +7137,15 @@
     "availableTimeWeekend": "09:00-17:00",
     "equipment": "專業音響、燈光",
     "images": {
-      "main": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800",
+      "main": "",
       "gallery": [
         "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800"
       ],
       "verified": true,
-      "verifiedAt": "2026-03-02T03:33:04.295Z"
+      "verifiedAt": "2026-03-02T03:33:04.295Z",
+      "needsUpdate": true,
+      "photoStatus": "updating",
+      "note": "照片更新中，請稍後"
     },
     "verified": true
   },
@@ -6809,12 +7167,15 @@
     "availableTimeWeekend": "休館",
     "equipment": "投影設備、音響",
     "images": {
-      "main": "https://images.unsplash.com/photo-1497215842964-222b430dc094?w=800",
+      "main": "",
       "gallery": [
         "https://images.unsplash.com/photo-1497215842964-222b430dc094?w=800"
       ],
       "verified": true,
-      "verifiedAt": "2026-03-02T03:33:04.295Z"
+      "verifiedAt": "2026-03-02T03:33:04.295Z",
+      "needsUpdate": true,
+      "photoStatus": "updating",
+      "note": "照片更新中，請稍後"
     },
     "verified": true
   },
@@ -6836,12 +7197,15 @@
     "availableTimeWeekend": "09:00-17:00",
     "equipment": "投影機、麥克風",
     "images": {
-      "main": "https://images.unsplash.com/photo-1497366811353-6870744d04b2?w=800",
+      "main": "",
       "gallery": [
         "https://images.unsplash.com/photo-1497366811353-6870744d04b2?w=800"
       ],
       "verified": true,
-      "verifiedAt": "2026-03-02T03:33:04.295Z"
+      "verifiedAt": "2026-03-02T03:33:04.295Z",
+      "needsUpdate": true,
+      "photoStatus": "updating",
+      "note": "照片更新中，請稍後"
     },
     "verified": true
   },
@@ -6863,12 +7227,13 @@
     "availableTimeWeekend": "06:00-22:00",
     "equipment": "音響、空調",
     "images": {
-      "main": "https://images.unsplash.com/photo-1461896836934- voices-of-basketball?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "使用 Unsplash 佔位圖，待替換為真實照片",
-      "lastUpdated": "2026-03-08"
+      "needsUpdate": true,
+      "note": "照片更新中，請稍後",
+      "lastUpdated": "2026-03-08",
+      "photoStatus": "updating"
     },
     "verified": true
   },
@@ -6890,12 +7255,13 @@
     "availableTimeWeekend": "休館",
     "equipment": "投影機、麥克風",
     "images": {
-      "main": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "使用 Unsplash 佔位圖，待替換為真實照片",
-      "lastUpdated": "2026-03-08"
+      "needsUpdate": true,
+      "note": "照片更新中，請稍後",
+      "lastUpdated": "2026-03-08",
+      "photoStatus": "updating"
     },
     "verified": true
   },
@@ -6917,12 +7283,15 @@
     "availableTimeWeekend": "休館",
     "equipment": "投影設備、音響",
     "images": {
-      "main": "https://images.unsplash.com/photo-1497366811353-6870744d04b2?w=800",
+      "main": "",
       "gallery": [
         "https://images.unsplash.com/photo-1497366811353-6870744d04b2?w=800"
       ],
       "verified": true,
-      "verifiedAt": "2026-03-02T03:33:04.295Z"
+      "verifiedAt": "2026-03-02T03:33:04.295Z",
+      "needsUpdate": true,
+      "photoStatus": "updating",
+      "note": "照片更新中，請稍後"
     },
     "verified": true
   },
@@ -6944,12 +7313,15 @@
     "availableTimeWeekend": "休館",
     "equipment": "投影設備、音響",
     "images": {
-      "main": "https://images.unsplash.com/photo-1497215842964-222b430dc094?w=800",
+      "main": "",
       "gallery": [
         "https://images.unsplash.com/photo-1497215842964-222b430dc094?w=800"
       ],
       "verified": true,
-      "verifiedAt": "2026-03-02T03:33:04.295Z"
+      "verifiedAt": "2026-03-02T03:33:04.295Z",
+      "needsUpdate": true,
+      "photoStatus": "updating",
+      "note": "照片更新中，請稍後"
     },
     "verified": true
   },
@@ -6971,13 +7343,16 @@
     "availableTimeWeekend": "09:00-22:00",
     "equipment": "專業舞台、燈光音響",
     "images": {
-      "main": "https://images.unsplash.com/photo-1499364615650-ec38552f4f34?w=800",
+      "main": "",
       "gallery": [
         "https://images.unsplash.com/photo-1499364615650-ec38552f4f34?w=800"
       ],
       "floorPlan": null,
       "verified": true,
-      "verifiedAt": "2026-03-02T03:33:04.295Z"
+      "verifiedAt": "2026-03-02T03:33:04.295Z",
+      "needsUpdate": true,
+      "photoStatus": "updating",
+      "note": "照片更新中，請稍後"
     },
     "verified": true
   },
@@ -6999,12 +7374,15 @@
     "availableTimeWeekend": "09:00-17:00",
     "equipment": "投影設備、音響",
     "images": {
-      "main": "https://images.unsplash.com/photo-1497215842964-222b430dc094?w=800",
+      "main": "",
       "gallery": [
         "https://images.unsplash.com/photo-1497215842964-222b430dc094?w=800"
       ],
       "verified": true,
-      "verifiedAt": "2026-03-02T03:33:04.295Z"
+      "verifiedAt": "2026-03-02T03:33:04.295Z",
+      "needsUpdate": true,
+      "photoStatus": "updating",
+      "note": "照片更新中，請稍後"
     },
     "verified": true
   },
@@ -7026,12 +7404,15 @@
     "availableTimeWeekend": "09:00-17:00",
     "equipment": "專業音響、鋼琴",
     "images": {
-      "main": "https://images.unsplash.com/photo-1497366811353-6870744d04b2?w=800",
+      "main": "",
       "gallery": [
         "https://images.unsplash.com/photo-1497366811353-6870744d04b2?w=800"
       ],
       "verified": true,
-      "verifiedAt": "2026-03-02T03:33:04.295Z"
+      "verifiedAt": "2026-03-02T03:33:04.295Z",
+      "needsUpdate": true,
+      "photoStatus": "updating",
+      "note": "照片更新中，請稍後"
     },
     "verified": true
   },
@@ -7053,12 +7434,15 @@
     "availableTimeWeekend": "休館",
     "equipment": "投影設備、音響",
     "images": {
-      "main": "https://images.unsplash.com/photo-1497366811353-6870744d04b2?w=800",
+      "main": "",
       "gallery": [
         "https://images.unsplash.com/photo-1497366811353-6870744d04b2?w=800"
       ],
       "verified": true,
-      "verifiedAt": "2026-03-02T03:33:04.295Z"
+      "verifiedAt": "2026-03-02T03:33:04.295Z",
+      "needsUpdate": true,
+      "photoStatus": "updating",
+      "note": "照片更新中，請稍後"
     },
     "verified": true
   },
@@ -7080,12 +7464,15 @@
     "availableTimeWeekend": "09:00-17:00",
     "equipment": "專業音響、燈光",
     "images": {
-      "main": "https://images.unsplash.com/photo-1497366811353-6870744d04b2?w=800",
+      "main": "",
       "gallery": [
         "https://images.unsplash.com/photo-1497366811353-6870744d04b2?w=800"
       ],
       "verified": true,
-      "verifiedAt": "2026-03-02T03:33:04.295Z"
+      "verifiedAt": "2026-03-02T03:33:04.295Z",
+      "needsUpdate": true,
+      "photoStatus": "updating",
+      "note": "照片更新中，請稍後"
     },
     "verified": true
   },
@@ -7107,12 +7494,15 @@
     "availableTimeWeekend": "09:00-17:00",
     "equipment": "專業音響、燈光",
     "images": {
-      "main": "https://images.unsplash.com/photo-1499364615650-ec38552f4f34?w=800",
+      "main": "",
       "gallery": [
         "https://images.unsplash.com/photo-1499364615650-ec38552f4f34?w=800"
       ],
       "verified": true,
-      "verifiedAt": "2026-03-02T03:33:04.295Z"
+      "verifiedAt": "2026-03-02T03:33:04.295Z",
+      "needsUpdate": true,
+      "photoStatus": "updating",
+      "note": "照片更新中，請稍後"
     },
     "verified": true
   },
@@ -7134,12 +7524,15 @@
     "availableTimeWeekend": "09:00-17:00",
     "equipment": "專業音響、燈光",
     "images": {
-      "main": "https://images.unsplash.com/photo-1497366811353-6870744d04b2?w=800",
+      "main": "",
       "gallery": [
         "https://images.unsplash.com/photo-1497366811353-6870744d04b2?w=800"
       ],
       "verified": true,
-      "verifiedAt": "2026-03-02T03:33:04.295Z"
+      "verifiedAt": "2026-03-02T03:33:04.295Z",
+      "needsUpdate": true,
+      "photoStatus": "updating",
+      "note": "照片更新中，請稍後"
     },
     "verified": true
   },
@@ -7161,12 +7554,15 @@
     "availableTimeWeekend": "08:00-17:00",
     "equipment": "投影機、麥克風",
     "images": {
-      "main": "https://images.unsplash.com/photo-1497366811353-6870744d04b2?w=800",
+      "main": "",
       "gallery": [
         "https://images.unsplash.com/photo-1497366811353-6870744d04b2?w=800"
       ],
       "verified": true,
-      "verifiedAt": "2026-03-02T03:33:04.295Z"
+      "verifiedAt": "2026-03-02T03:33:04.295Z",
+      "needsUpdate": true,
+      "photoStatus": "updating",
+      "note": "照片更新中，請稍後"
     },
     "verified": true
   },
@@ -7188,12 +7584,15 @@
     "availableTimeWeekend": "休館",
     "equipment": "投影機、麥克風",
     "images": {
-      "main": "https://images.unsplash.com/photo-1497366811353-6870744d04b2?w=800",
+      "main": "",
       "gallery": [
         "https://images.unsplash.com/photo-1497366811353-6870744d04b2?w=800"
       ],
       "verified": true,
-      "verifiedAt": "2026-03-02T03:33:04.295Z"
+      "verifiedAt": "2026-03-02T03:33:04.295Z",
+      "needsUpdate": true,
+      "photoStatus": "updating",
+      "note": "照片更新中，請稍後"
     },
     "verified": true
   },
@@ -7215,12 +7614,15 @@
     "availableTimeWeekend": "08:00-17:00",
     "equipment": "投影機、麥克風",
     "images": {
-      "main": "https://images.unsplash.com/photo-1497366811353-6870744d04b2?w=800",
+      "main": "",
       "gallery": [
         "https://images.unsplash.com/photo-1497366811353-6870744d04b2?w=800"
       ],
       "verified": true,
-      "verifiedAt": "2026-03-02T03:33:04.295Z"
+      "verifiedAt": "2026-03-02T03:33:04.295Z",
+      "needsUpdate": true,
+      "photoStatus": "updating",
+      "note": "照片更新中，請稍後"
     },
     "verified": true
   },
@@ -7242,12 +7644,15 @@
     "availableTimeWeekend": "休館",
     "equipment": "投影機、麥克風",
     "images": {
-      "main": "https://images.unsplash.com/photo-1497366811353-6870744d04b2?w=800",
+      "main": "",
       "gallery": [
         "https://images.unsplash.com/photo-1497366811353-6870744d04b2?w=800"
       ],
       "verified": true,
-      "verifiedAt": "2026-03-02T03:33:04.295Z"
+      "verifiedAt": "2026-03-02T03:33:04.295Z",
+      "needsUpdate": true,
+      "photoStatus": "updating",
+      "note": "照片更新中，請稍後"
     },
     "verified": true
   },
@@ -7269,12 +7674,15 @@
     "availableTimeWeekend": "09:30-17:00",
     "equipment": "投影設備、音響",
     "images": {
-      "main": "https://images.unsplash.com/photo-1497215842964-222b430dc094?w=800",
+      "main": "",
       "gallery": [
         "https://images.unsplash.com/photo-1497215842964-222b430dc094?w=800"
       ],
       "verified": true,
-      "verifiedAt": "2026-03-02T03:33:04.295Z"
+      "verifiedAt": "2026-03-02T03:33:04.295Z",
+      "needsUpdate": true,
+      "photoStatus": "updating",
+      "note": "照片更新中，請稍後"
     },
     "verified": true
   },
@@ -7296,12 +7704,15 @@
     "availableTimeWeekend": "休館",
     "equipment": "投影機、麥克風",
     "images": {
-      "main": "https://images.unsplash.com/photo-1497215842964-222b430dc094?w=800",
+      "main": "",
       "gallery": [
         "https://images.unsplash.com/photo-1497215842964-222b430dc094?w=800"
       ],
       "verified": true,
-      "verifiedAt": "2026-03-02T03:33:04.295Z"
+      "verifiedAt": "2026-03-02T03:33:04.295Z",
+      "needsUpdate": true,
+      "photoStatus": "updating",
+      "note": "照片更新中，請稍後"
     },
     "verified": true
   },
@@ -7323,12 +7734,13 @@
     "availableTimeWeekend": "休館",
     "equipment": "專業投影設備、音響",
     "images": {
-      "main": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "使用 Unsplash 佔位圖，待替換為真實照片",
-      "lastUpdated": "2026-03-08"
+      "needsUpdate": true,
+      "note": "照片更新中，請稍後",
+      "lastUpdated": "2026-03-08",
+      "photoStatus": "updating"
     },
     "verified": true
   },
@@ -7350,12 +7762,15 @@
     "availableTimeWeekend": "09:00-17:00",
     "equipment": "專業音響、燈光",
     "images": {
-      "main": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800",
+      "main": "",
       "gallery": [
         "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800"
       ],
       "verified": true,
-      "verifiedAt": "2026-03-02T03:33:04.295Z"
+      "verifiedAt": "2026-03-02T03:33:04.295Z",
+      "needsUpdate": true,
+      "photoStatus": "updating",
+      "note": "照片更新中，請稍後"
     },
     "verified": true
   },
@@ -7377,12 +7792,13 @@
     "availableTimeWeekend": "休館",
     "equipment": "投影設備、音響",
     "images": {
-      "main": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "使用 Unsplash 佔位圖，待替換為真實照片",
-      "lastUpdated": "2026-03-08"
+      "needsUpdate": true,
+      "note": "照片更新中，請稍後",
+      "lastUpdated": "2026-03-08",
+      "photoStatus": "updating"
     },
     "verified": true
   },
@@ -7404,12 +7820,15 @@
     "availableTimeWeekend": "休館",
     "equipment": "投影機、麥克風",
     "images": {
-      "main": "https://images.unsplash.com/photo-1497215842964-222b430dc094?w=800",
+      "main": "",
       "gallery": [
         "https://images.unsplash.com/photo-1497215842964-222b430dc094?w=800"
       ],
       "verified": true,
-      "verifiedAt": "2026-03-02T03:33:04.295Z"
+      "verifiedAt": "2026-03-02T03:33:04.295Z",
+      "needsUpdate": true,
+      "photoStatus": "updating",
+      "note": "照片更新中，請稍後"
     },
     "verified": true
   },
@@ -7431,12 +7850,15 @@
     "availableTimeWeekend": "休館",
     "equipment": "投影機、麥克風",
     "images": {
-      "main": "https://images.unsplash.com/photo-1497366811353-6870744d04b2?w=800",
+      "main": "",
       "gallery": [
         "https://images.unsplash.com/photo-1497366811353-6870744d04b2?w=800"
       ],
       "verified": true,
-      "verifiedAt": "2026-03-02T03:33:04.295Z"
+      "verifiedAt": "2026-03-02T03:33:04.295Z",
+      "needsUpdate": true,
+      "photoStatus": "updating",
+      "note": "照片更新中，請稍後"
     },
     "verified": true
   },
@@ -7495,12 +7917,15 @@
     "availableTimeWeekend": "09:00-17:00",
     "equipment": "專業音響、燈光",
     "images": {
-      "main": "https://images.unsplash.com/photo-1497366811353-6870744d04b2?w=800",
+      "main": "",
       "gallery": [
         "https://images.unsplash.com/photo-1497366811353-6870744d04b2?w=800"
       ],
       "verified": true,
-      "verifiedAt": "2026-03-02T03:33:04.295Z"
+      "verifiedAt": "2026-03-02T03:33:04.295Z",
+      "needsUpdate": true,
+      "photoStatus": "updating",
+      "note": "照片更新中，請稍後"
     },
     "verified": true
   },
@@ -7522,12 +7947,15 @@
     "availableTimeWeekend": "08:00-17:00",
     "equipment": "投影機、麥克風",
     "images": {
-      "main": "https://images.unsplash.com/photo-1497215842964-222b430dc094?w=800",
+      "main": "",
       "gallery": [
         "https://images.unsplash.com/photo-1497215842964-222b430dc094?w=800"
       ],
       "verified": true,
-      "verifiedAt": "2026-03-02T03:33:04.295Z"
+      "verifiedAt": "2026-03-02T03:33:04.295Z",
+      "needsUpdate": true,
+      "photoStatus": "updating",
+      "note": "照片更新中，請稍後"
     },
     "verified": true
   },
@@ -7549,12 +7977,15 @@
     "availableTimeWeekend": "休館",
     "equipment": "投影機、麥克風",
     "images": {
-      "main": "https://images.unsplash.com/photo-1497366811353-6870744d04b2?w=800",
+      "main": "",
       "gallery": [
         "https://images.unsplash.com/photo-1497366811353-6870744d04b2?w=800"
       ],
       "verified": true,
-      "verifiedAt": "2026-03-02T03:33:04.295Z"
+      "verifiedAt": "2026-03-02T03:33:04.295Z",
+      "needsUpdate": true,
+      "photoStatus": "updating",
+      "note": "照片更新中，請稍後"
     },
     "verified": true
   },
@@ -7576,12 +8007,15 @@
     "availableTimeWeekend": "休館",
     "equipment": "投影機、麥克風",
     "images": {
-      "main": "https://images.unsplash.com/photo-1497215842964-222b430dc094?w=800",
+      "main": "",
       "gallery": [
         "https://images.unsplash.com/photo-1497215842964-222b430dc094?w=800"
       ],
       "verified": true,
-      "verifiedAt": "2026-03-02T03:33:04.295Z"
+      "verifiedAt": "2026-03-02T03:33:04.295Z",
+      "needsUpdate": true,
+      "photoStatus": "updating",
+      "note": "照片更新中，請稍後"
     },
     "verified": true
   },
@@ -7603,12 +8037,13 @@
     "availableTimeWeekend": "休館",
     "equipment": "投影機、麥克風",
     "images": {
-      "main": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "使用 Unsplash 佔位圖，待替換為真實照片",
-      "lastUpdated": "2026-03-08"
+      "needsUpdate": true,
+      "note": "照片更新中，請稍後",
+      "lastUpdated": "2026-03-08",
+      "photoStatus": "updating"
     },
     "verified": true
   },
@@ -7630,12 +8065,15 @@
     "availableTimeWeekend": "09:00-17:00",
     "equipment": "專業音響、燈光",
     "images": {
-      "main": "https://images.unsplash.com/photo-1531058020387-3be344556be6?w=800",
+      "main": "",
       "gallery": [
         "https://images.unsplash.com/photo-1531058020387-3be344556be6?w=800"
       ],
       "verified": true,
-      "verifiedAt": "2026-03-02T03:33:04.295Z"
+      "verifiedAt": "2026-03-02T03:33:04.295Z",
+      "needsUpdate": true,
+      "photoStatus": "updating",
+      "note": "照片更新中，請稍後"
     },
     "verified": true
   },
@@ -7657,14 +8095,13 @@
     "availableTimeWeekend": "09:00-22:00",
     "equipment": "頂級舞台、音響燈光",
     "images": {
-      "main": "https://upload.wikimedia.org/wikipedia/commons/6/6e/National_Kaohsiung_Center_for_the_Arts_2018.jpg",
-      "gallery": [
-        "https://upload.wikimedia.org/wikipedia/commons/6/6e/National_Kaohsiung_Center_for_the_Arts_2018.jpg"
-      ],
+      "main": "",
+      "gallery": [],
       "verified": true,
       "verifiedAt": "2026-03-02T03:33:04.295Z"
     },
-    "verified": true
+    "verified": true,
+    "verifiedAt": "2026-03-22T01:56:16.559494"
   },
   {
     "id": 1379,
@@ -7684,12 +8121,15 @@
     "availableTimeWeekend": "09:00-17:00",
     "equipment": "投影設備、音響系統",
     "images": {
-      "main": "https://images.unsplash.com/photo-1497215842964-222b430dc094?w=800",
+      "main": "",
       "gallery": [
         "https://images.unsplash.com/photo-1497215842964-222b430dc094?w=800"
       ],
       "verified": true,
-      "verifiedAt": "2026-03-02T03:33:04.295Z"
+      "verifiedAt": "2026-03-02T03:33:04.295Z",
+      "needsUpdate": true,
+      "photoStatus": "updating",
+      "note": "照片更新中，請稍後"
     },
     "verified": true
   },
@@ -7711,14 +8151,13 @@
     "availableTimeWeekend": "09:00-22:00",
     "equipment": "專業舞台、音響燈光",
     "images": {
-      "main": "https://upload.wikimedia.org/wikipedia/commons/6/6e/National_Kaohsiung_Center_for_the_Arts_2018.jpg",
-      "gallery": [
-        "https://upload.wikimedia.org/wikipedia/commons/6/6e/National_Kaohsiung_Center_for_the_Arts_2018.jpg"
-      ],
+      "main": "",
+      "gallery": [],
       "verified": true,
       "verifiedAt": "2026-03-02T03:33:04.295Z"
     },
-    "verified": true
+    "verified": true,
+    "verifiedAt": "2026-03-22T01:56:16.559503"
   },
   {
     "id": 1384,
@@ -7904,9 +8343,7 @@
     "images": {
       "main": "https://www.grand-hotel.org/images/index/banquet.jpg",
       "gallery": [
-        "https://upload.wikimedia.org/wikipedia/commons/c/c0/Interior_of_Grand_Hotel_Taipei_20130903.jpg",
-        "https://upload.wikimedia.org/wikipedia/commons/a/a9/Taipeh_Taipei_Grand_Hotel_Innen_Lobby_1.jpg",
-        "https://upload.wikimedia.org/wikipedia/commons/5/5c/Grand_Hotel_Taipei_Kirin_Hall_Front.jpg"
+        "https://upload.wikimedia.org/wikipedia/commons/a/a9/Taipeh_Taipei_Grand_Hotel_Innen_Lobby_1.jpg"
       ],
       "floorPlan": "",
       "needsUpdate": false,
@@ -7916,7 +8353,8 @@
       "verified": true,
       "verifiedAt": "2026-03-03T07:43:52.197Z"
     },
-    "verified": true
+    "verified": true,
+    "verifiedAt": "2026-03-22T01:56:16.559510"
   },
   {
     "id": 1389,
@@ -7938,9 +8376,7 @@
     "images": {
       "main": "https://www.grand-hotel.org/images/index/banquet.jpg",
       "gallery": [
-        "https://upload.wikimedia.org/wikipedia/commons/c/c0/Interior_of_Grand_Hotel_Taipei_20130903.jpg",
-        "https://upload.wikimedia.org/wikipedia/commons/a/a9/Taipeh_Taipei_Grand_Hotel_Innen_Lobby_1.jpg",
-        "https://upload.wikimedia.org/wikipedia/commons/5/5c/Grand_Hotel_Taipei_Kirin_Hall_Front.jpg"
+        "https://upload.wikimedia.org/wikipedia/commons/a/a9/Taipeh_Taipei_Grand_Hotel_Innen_Lobby_1.jpg"
       ],
       "floorPlan": "",
       "needsUpdate": false,
@@ -7950,7 +8386,8 @@
       "verified": true,
       "verifiedAt": "2026-03-03T07:43:52.198Z"
     },
-    "verified": true
+    "verified": true,
+    "verifiedAt": "2026-03-22T01:56:16.559515"
   },
   {
     "id": 1390,
@@ -7972,9 +8409,7 @@
     "images": {
       "main": "https://www.grand-hotel.org/images/index/banquet.jpg",
       "gallery": [
-        "https://upload.wikimedia.org/wikipedia/commons/c/c0/Interior_of_Grand_Hotel_Taipei_20130903.jpg",
-        "https://upload.wikimedia.org/wikipedia/commons/a/a9/Taipeh_Taipei_Grand_Hotel_Innen_Lobby_1.jpg",
-        "https://upload.wikimedia.org/wikipedia/commons/5/5c/Grand_Hotel_Taipei_Kirin_Hall_Front.jpg"
+        "https://upload.wikimedia.org/wikipedia/commons/a/a9/Taipeh_Taipei_Grand_Hotel_Innen_Lobby_1.jpg"
       ],
       "floorPlan": "",
       "needsUpdate": false,
@@ -7984,7 +8419,8 @@
       "verified": true,
       "verifiedAt": "2026-03-03T07:43:52.199Z"
     },
-    "verified": true
+    "verified": true,
+    "verifiedAt": "2026-03-22T01:56:16.559520"
   },
   {
     "id": 1391,
@@ -8006,9 +8442,7 @@
     "images": {
       "main": "https://www.grand-hotel.org/images/index/banquet.jpg",
       "gallery": [
-        "https://upload.wikimedia.org/wikipedia/commons/c/c0/Interior_of_Grand_Hotel_Taipei_20130903.jpg",
-        "https://upload.wikimedia.org/wikipedia/commons/a/a9/Taipeh_Taipei_Grand_Hotel_Innen_Lobby_1.jpg",
-        "https://upload.wikimedia.org/wikipedia/commons/5/5c/Grand_Hotel_Taipei_Kirin_Hall_Front.jpg"
+        "https://upload.wikimedia.org/wikipedia/commons/a/a9/Taipeh_Taipei_Grand_Hotel_Innen_Lobby_1.jpg"
       ],
       "floorPlan": "",
       "needsUpdate": false,
@@ -8018,7 +8452,8 @@
       "verified": true,
       "verifiedAt": "2026-03-03T07:43:52.200Z"
     },
-    "verified": true
+    "verified": true,
+    "verifiedAt": "2026-03-22T01:56:16.559524"
   },
   {
     "id": 1392,
@@ -8073,9 +8508,7 @@
     "images": {
       "main": "https://media.ffycdn.net/eu/mandarin-oriental-hotel-group/oy6E3rsLkt5vaNhNAcTM.jpg",
       "gallery": [
-        "https://upload.wikimedia.org/wikipedia/commons/e/e1/Lobby_of_the_Interior_of_Mandarin_Oriental%2C_Taipei.jpg",
-        "https://upload.wikimedia.org/wikipedia/commons/a/af/The_Grand_Salon_of_Mandarin_Oriental%2C_Taipei_20260206.jpg",
-        "https://upload.wikimedia.org/wikipedia/commons/5/5f/Fung_Shiang_Court_at_Mandarin_Oriental%2C_Taipei_04.jpg"
+        "https://upload.wikimedia.org/wikipedia/commons/a/af/The_Grand_Salon_of_Mandarin_Oriental%2C_Taipei_20260206.jpg"
       ],
       "floorPlan": "",
       "needsUpdate": false,
@@ -8085,7 +8518,8 @@
       "verified": true,
       "verifiedAt": "2026-03-02T16:20:21.245Z"
     },
-    "verified": true
+    "verified": true,
+    "verifiedAt": "2026-03-22T01:56:16.559530"
   },
   {
     "id": 1394,
@@ -8107,9 +8541,7 @@
     "images": {
       "main": "https://media.ffycdn.net/eu/mandarin-oriental-hotel-group/oy6E3rsLkt5vaNhNAcTM.jpg",
       "gallery": [
-        "https://upload.wikimedia.org/wikipedia/commons/e/e1/Lobby_of_the_Interior_of_Mandarin_Oriental%2C_Taipei.jpg",
-        "https://upload.wikimedia.org/wikipedia/commons/a/af/The_Grand_Salon_of_Mandarin_Oriental%2C_Taipei_20260206.jpg",
-        "https://upload.wikimedia.org/wikipedia/commons/5/5f/Fung_Shiang_Court_at_Mandarin_Oriental%2C_Taipei_04.jpg"
+        "https://upload.wikimedia.org/wikipedia/commons/a/af/The_Grand_Salon_of_Mandarin_Oriental%2C_Taipei_20260206.jpg"
       ],
       "floorPlan": "",
       "needsUpdate": false,
@@ -8119,7 +8551,8 @@
       "verified": true,
       "verifiedAt": "2026-03-02T16:20:21.245Z"
     },
-    "verified": true
+    "verified": true,
+    "verifiedAt": "2026-03-22T01:56:16.559535"
   },
   {
     "id": 1395,
@@ -8141,9 +8574,7 @@
     "images": {
       "main": "https://media.ffycdn.net/eu/mandarin-oriental-hotel-group/oy6E3rsLkt5vaNhNAcTM.jpg",
       "gallery": [
-        "https://upload.wikimedia.org/wikipedia/commons/e/e1/Lobby_of_the_Interior_of_Mandarin_Oriental%2C_Taipei.jpg",
-        "https://upload.wikimedia.org/wikipedia/commons/a/af/The_Grand_Salon_of_Mandarin_Oriental%2C_Taipei_20260206.jpg",
-        "https://upload.wikimedia.org/wikipedia/commons/5/5f/Fung_Shiang_Court_at_Mandarin_Oriental%2C_Taipei_04.jpg"
+        "https://upload.wikimedia.org/wikipedia/commons/a/af/The_Grand_Salon_of_Mandarin_Oriental%2C_Taipei_20260206.jpg"
       ],
       "floorPlan": "",
       "needsUpdate": false,
@@ -8153,7 +8584,8 @@
       "verified": true,
       "verifiedAt": "2026-03-02T16:20:21.245Z"
     },
-    "verified": true
+    "verified": true,
+    "verifiedAt": "2026-03-22T01:56:16.559539"
   },
   {
     "id": 1396,
@@ -8173,7 +8605,7 @@
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "專業音響燈光、投影設備",
     "images": {
-      "main": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Ambassador_Hotel_Taipei_20190706.jpg",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
       "needsUpdate": true,
@@ -8181,7 +8613,8 @@
       "lastUpdated": "2026-03-04",
       "source": "Wikipedia Commons"
     },
-    "verified": true
+    "verified": true,
+    "verifiedAt": "2026-03-22T01:56:16.559543"
   },
   {
     "id": 1397,
@@ -8201,7 +8634,7 @@
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "專業音響燈光、投影設備",
     "images": {
-      "main": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Ambassador_Hotel_Taipei_20190706.jpg",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
       "needsUpdate": true,
@@ -8209,7 +8642,8 @@
       "lastUpdated": "2026-03-04",
       "source": "Wikipedia Commons"
     },
-    "verified": true
+    "verified": true,
+    "verifiedAt": "2026-03-22T01:56:16.559547"
   },
   {
     "id": 1398,
@@ -8229,7 +8663,7 @@
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "專業音響燈光、投影設備",
     "images": {
-      "main": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Ambassador_Hotel_Taipei_20190706.jpg",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
       "needsUpdate": true,
@@ -8237,7 +8671,8 @@
       "lastUpdated": "2026-03-04",
       "source": "Wikipedia Commons"
     },
-    "verified": true
+    "verified": true,
+    "verifiedAt": "2026-03-22T01:56:16.559551"
   },
   {
     "id": 1399,
@@ -8257,7 +8692,7 @@
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "專業音響燈光、投影設備",
     "images": {
-      "main": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Ambassador_Hotel_Taipei_20190706.jpg",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
       "needsUpdate": true,
@@ -8265,7 +8700,8 @@
       "lastUpdated": "2026-03-04",
       "source": "Wikipedia Commons"
     },
-    "verified": true
+    "verified": true,
+    "verifiedAt": "2026-03-22T01:56:16.559555"
   },
   {
     "id": 1404,
@@ -8457,12 +8893,13 @@
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "專業音響、投影設備",
     "images": {
-      "main": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "使用 Unsplash 佔位圖，待替換為真實照片",
-      "lastUpdated": "2026-03-08"
+      "needsUpdate": true,
+      "note": "照片更新中，請稍後",
+      "lastUpdated": "2026-03-08",
+      "photoStatus": "updating"
     },
     "verified": true
   },
@@ -8484,12 +8921,13 @@
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "專業音響、投影設備",
     "images": {
-      "main": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "使用 Unsplash 佔位圖，待替換為真實照片",
-      "lastUpdated": "2026-03-08"
+      "needsUpdate": true,
+      "note": "照片更新中，請稍後",
+      "lastUpdated": "2026-03-08",
+      "photoStatus": "updating"
     },
     "verified": true
   },
@@ -8511,12 +8949,13 @@
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "專業音響、投影設備",
     "images": {
-      "main": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "使用 Unsplash 佔位圖，待替換為真實照片",
-      "lastUpdated": "2026-03-08"
+      "needsUpdate": true,
+      "note": "照片更新中，請稍後",
+      "lastUpdated": "2026-03-08",
+      "photoStatus": "updating"
     },
     "verified": true
   },
@@ -8538,12 +8977,13 @@
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "專業音響燈光、LED螢幕",
     "images": {
-      "main": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "使用 Unsplash 佔位圖，待替換為真實照片",
-      "lastUpdated": "2026-03-08"
+      "needsUpdate": true,
+      "note": "照片更新中，請稍後",
+      "lastUpdated": "2026-03-08",
+      "photoStatus": "updating"
     },
     "verified": true
   },
@@ -8565,12 +9005,13 @@
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "專業音響燈光、LED螢幕",
     "images": {
-      "main": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "使用 Unsplash 佔位圖，待替換為真實照片",
-      "lastUpdated": "2026-03-08"
+      "needsUpdate": true,
+      "note": "照片更新中，請稍後",
+      "lastUpdated": "2026-03-08",
+      "photoStatus": "updating"
     },
     "verified": true
   },
@@ -8592,12 +9033,13 @@
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "專業音響燈光、LED螢幕",
     "images": {
-      "main": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "使用 Unsplash 佔位圖，待替換為真實照片",
-      "lastUpdated": "2026-03-08"
+      "needsUpdate": true,
+      "note": "照片更新中，請稍後",
+      "lastUpdated": "2026-03-08",
+      "photoStatus": "updating"
     },
     "verified": true
   },
@@ -8619,12 +9061,13 @@
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "專業音響燈光、LED螢幕",
     "images": {
-      "main": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "使用 Unsplash 佔位圖，待替換為真實照片",
-      "lastUpdated": "2026-03-08"
+      "needsUpdate": true,
+      "note": "照片更新中，請稍後",
+      "lastUpdated": "2026-03-08",
+      "photoStatus": "updating"
     },
     "verified": true
   },
@@ -8646,12 +9089,13 @@
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "專業音響燈光、LED螢幕",
     "images": {
-      "main": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "使用 Unsplash 佔位圖，待替換為真實照片",
-      "lastUpdated": "2026-03-08"
+      "needsUpdate": true,
+      "note": "照片更新中，請稍後",
+      "lastUpdated": "2026-03-08",
+      "photoStatus": "updating"
     },
     "verified": true
   },
@@ -8673,12 +9117,13 @@
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "專業音響、投影設備",
     "images": {
-      "main": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "使用 Unsplash 佔位圖，待替換為真實照片",
-      "lastUpdated": "2026-03-08"
+      "needsUpdate": true,
+      "note": "照片更新中，請稍後",
+      "lastUpdated": "2026-03-08",
+      "photoStatus": "updating"
     },
     "verified": true
   },
@@ -8700,12 +9145,13 @@
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "專業音響、投影設備",
     "images": {
-      "main": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "使用 Unsplash 佔位圖，待替換為真實照片",
-      "lastUpdated": "2026-03-08"
+      "needsUpdate": true,
+      "note": "照片更新中，請稍後",
+      "lastUpdated": "2026-03-08",
+      "photoStatus": "updating"
     },
     "verified": true
   },
@@ -8727,12 +9173,13 @@
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "專業音響、投影設備",
     "images": {
-      "main": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "使用 Unsplash 佔位圖，待替換為真實照片",
-      "lastUpdated": "2026-03-08"
+      "needsUpdate": true,
+      "note": "照片更新中，請稍後",
+      "lastUpdated": "2026-03-08",
+      "photoStatus": "updating"
     },
     "verified": true
   },
@@ -8754,12 +9201,13 @@
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "專業音響燈光、投影設備",
     "images": {
-      "main": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "使用 Unsplash 佔位圖，待替換為真實照片",
-      "lastUpdated": "2026-03-08"
+      "needsUpdate": true,
+      "note": "照片更新中，請稍後",
+      "lastUpdated": "2026-03-08",
+      "photoStatus": "updating"
     },
     "verified": true
   },
@@ -8781,12 +9229,13 @@
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "專業音響燈光、投影設備",
     "images": {
-      "main": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "使用 Unsplash 佔位圖，待替換為真實照片",
-      "lastUpdated": "2026-03-08"
+      "needsUpdate": true,
+      "note": "照片更新中，請稍後",
+      "lastUpdated": "2026-03-08",
+      "photoStatus": "updating"
     },
     "verified": true
   },
@@ -8808,12 +9257,13 @@
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "專業音響燈光、投影設備",
     "images": {
-      "main": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "使用 Unsplash 佔位圖，待替換為真實照片",
-      "lastUpdated": "2026-03-08"
+      "needsUpdate": true,
+      "note": "照片更新中，請稍後",
+      "lastUpdated": "2026-03-08",
+      "photoStatus": "updating"
     },
     "verified": true
   },
@@ -8835,12 +9285,13 @@
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "頂級音響燈光、投影設備",
     "images": {
-      "main": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "使用 Unsplash 佔位圖，待替換為真實照片",
-      "lastUpdated": "2026-03-08"
+      "needsUpdate": true,
+      "note": "照片更新中，請稍後",
+      "lastUpdated": "2026-03-08",
+      "photoStatus": "updating"
     },
     "verified": true
   },
@@ -8862,12 +9313,13 @@
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "頂級音響燈光、投影設備",
     "images": {
-      "main": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800",
+      "main": "",
       "gallery": [],
       "floorPlan": "",
-      "needsUpdate": false,
-      "note": "使用 Unsplash 佔位圖，待替換為真實照片",
-      "lastUpdated": "2026-03-08"
+      "needsUpdate": true,
+      "note": "照片更新中，請稍後",
+      "lastUpdated": "2026-03-08",
+      "photoStatus": "updating"
     },
     "verified": true
   },

@@ -169,9 +169,12 @@ function renderVenues(venues) {
             <div class="venue-image">
                 ${venue.images?.main 
                     ? `<img src="${venue.images.main}" alt="${venue.name}" loading="lazy">`
-                    : `<div class="venue-image-placeholder">🏢</div>`
+                    : venue.images?.photoStatus === 'updating'
+                        ? `<div class="venue-image-placeholder updating"><span>📸</span><small>照片更新中</small></div>`
+                        : `<div class="venue-image-placeholder">🏢</div>`
                 }
                 ${venue.status === '下架' ? '<span class="venue-badge offline">已下架</span>' : ''}
+                ${venue.verified ? '<span class="venue-badge verified">✓ 已驗證</span>' : ''}
             </div>
             
             <div class="venue-info">
@@ -222,12 +225,15 @@ async function showVenueDetail(venueId) {
             <div class="venue-detail-header">
                 ${venue.images?.main 
                     ? `<img src="${venue.images.main}" alt="${venue.name}" class="venue-detail-image">`
-                    : `<div class="venue-detail-image-placeholder">🏢</div>`
+                    : venue.images?.photoStatus === 'updating'
+                        ? `<div class="venue-detail-image-placeholder updating"><span>📸</span><p>照片更新中</p><small>我們正在為您收集真實照片</small></div>`
+                        : `<div class="venue-detail-image-placeholder">🏢</div>`
                 }
                 <h2>${venue.name}</h2>
                 <div class="venue-detail-meta">
                     <span>${venue.venueType}</span>
                     <span>📍 ${venue.city}</span>
+                    ${venue.verified ? '<span class="verified-badge">✓ 資料已驗證</span>' : ''}
                 </div>
             </div>
             

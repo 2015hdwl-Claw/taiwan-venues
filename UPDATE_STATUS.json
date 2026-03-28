@@ -1,0 +1,38 @@
+{
+  "lastUpdated": "2024-03-16T09:45:00.000Z",
+  "summary": {
+    "totalVenues": 371,
+    "withRoomDetails": 1,
+    "needsUpdate": 370
+  },
+  "byCity": {
+    "台北市": {"total": 53, "updated": 1, "pending": 52},
+    "新北市": {"total": 9, "updated": 0, "pending": 9},
+    "台中市": {"total": 28, "updated": 0, "pending": 28},
+    "高雄市": {"total": 17, "updated": 0, "pending": 17},
+    "台南市": {"total": 11, "updated": 0, "pending": 11}
+  },
+  "priorityList": [
+    {"id": 1072, "name": "台北圓山大飯店", "capacity": 1000, "priority": 1},
+    {"id": 1067, "name": "台北喜來登大飯店", "capacity": 800, "priority": 2},
+    {"id": 1086, "name": "台北晶華酒店", "capacity": 700, "priority": 3},
+    {"id": 1069, "name": "台北國賓大飯店", "capacity": 600, "priority": 4},
+    {"id": 1085, "name": "台北文華東方酒店", "capacity": 600, "priority": 5},
+    {"id": 1103, "name": "台北萬豪酒店", "capacity": 600, "priority": 6},
+    {"id": 1095, "name": "台北美福大飯店", "capacity": 550, "priority": 7},
+    {"id": 1076, "name": "台北寒舍艾美酒店", "capacity": 400, "priority": 8},
+    {"id": 1090, "name": "茹曦酒店", "capacity": 400, "priority": 9},
+    {"id": 1099, "name": "台北艾美酒店", "capacity": 400, "priority": 10}
+  ],
+  "completedUpdates": [
+    {
+      "id": 1077,
+      "name": "台北寒舍艾麗酒店",
+      "updatedAt": "2024-03-16T09:45:00.000Z",
+      "roomsCount": 6,
+      "combinationsCount": 3,
+      "maxCapacity": 720,
+      "source": "Google Drive PDF"
+    }
+  ]
+}
