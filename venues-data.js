@@ -1,6 +1,6 @@
 // 場地資料（自動生成）
 // 總計：371 個場地
-// 更新時間：2026-03-28
+// 更新時間：2026-03-28 20:05
 
 const VENUES_DATA = [
   {
@@ -133,12 +133,12 @@ const VENUES_DATA = [
     "availableTimeWeekend": "09:00-18:00",
     "equipment": "專業音響、燈光",
     "images": {
-      "main": "",
+      "main": "photos/1005.jpg",
       "gallery": [],
       "floorPlan": "",
       "needsUpdate": true,
       "note": "照片更新中，請稍後",
-      "lastUpdated": "2026-03-08",
+      "lastUpdated": "2026-03-28",
       "photoStatus": "updating"
     },
     "verified": true
@@ -301,12 +301,12 @@ const VENUES_DATA = [
     "availableTimeWeekend": "09:00-18:00",
     "equipment": "專業音響、燈光",
     "images": {
-      "main": "",
+      "main": "photos/1011.jpg",
       "gallery": [],
       "floorPlan": "",
       "needsUpdate": true,
       "note": "照片更新中，請稍後",
-      "lastUpdated": "2026-03-08",
+      "lastUpdated": "2026-03-28",
       "photoStatus": "updating"
     },
     "verified": true
@@ -441,12 +441,12 @@ const VENUES_DATA = [
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "專業音響燈光、LED螢幕",
     "images": {
-      "main": "",
+      "main": "photos/1016.jpg",
       "gallery": [],
       "floorPlan": "",
       "needsUpdate": true,
       "note": "照片更新中，請稍後",
-      "lastUpdated": "2026-03-08",
+      "lastUpdated": "2026-03-28",
       "photoStatus": "updating"
     },
     "verified": true
@@ -525,12 +525,12 @@ const VENUES_DATA = [
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "專業音響、投影設備",
     "images": {
-      "main": "",
+      "main": "photos/1019.jpg",
       "gallery": [],
       "floorPlan": "",
       "needsUpdate": true,
       "note": "照片更新中，請稍後",
-      "lastUpdated": "2026-03-08",
+      "lastUpdated": "2026-03-28",
       "photoStatus": "updating"
     },
     "verified": true
@@ -581,12 +581,12 @@ const VENUES_DATA = [
     "availableTimeWeekend": "10:00-22:00",
     "equipment": "投影設備、音響",
     "images": {
-      "main": "",
+      "main": "photos/1021.jpg",
       "gallery": [],
       "floorPlan": "",
       "needsUpdate": true,
       "note": "照片更新中，請稍後",
-      "lastUpdated": "2026-03-08",
+      "lastUpdated": "2026-03-28",
       "photoStatus": "updating"
     },
     "verified": true
@@ -693,12 +693,12 @@ const VENUES_DATA = [
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "專業音響燈光、投影設備",
     "images": {
-      "main": "",
+      "main": "photos/1025.jpg",
       "gallery": [],
       "floorPlan": "",
       "needsUpdate": true,
       "note": "照片更新中，請稍後",
-      "lastUpdated": "2026-03-08",
+      "lastUpdated": "2026-03-28",
       "photoStatus": "updating"
     },
     "verified": true
@@ -2735,12 +2735,12 @@ const VENUES_DATA = [
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "專業音響、投影設備",
     "images": {
-      "main": "",
+      "main": "photos/1132.jpg",
       "gallery": [],
       "floorPlan": "",
       "needsUpdate": true,
       "note": "照片更新中，請稍後",
-      "lastUpdated": "2026-03-08",
+      "lastUpdated": "2026-03-28",
       "photoStatus": "updating"
     },
     "verified": true
@@ -3155,12 +3155,12 @@ const VENUES_DATA = [
     "availableTimeWeekend": "休館",
     "equipment": "投影設備、音響",
     "images": {
-      "main": "",
+      "main": "photos/1149.jpg",
       "gallery": [],
       "floorPlan": "",
       "needsUpdate": true,
       "note": "照片更新中，請稍後",
-      "lastUpdated": "2026-03-08",
+      "lastUpdated": "2026-03-28",
       "photoStatus": "updating"
     },
     "verified": true
@@ -3183,12 +3183,12 @@ const VENUES_DATA = [
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "專業音響、投影設備",
     "images": {
-      "main": "",
+      "main": "photos/1150.jpg",
       "gallery": [],
       "floorPlan": "",
       "needsUpdate": true,
       "note": "照片更新中，請稍後",
-      "lastUpdated": "2026-03-08",
+      "lastUpdated": "2026-03-28",
       "photoStatus": "updating"
     },
     "verified": true
@@ -3211,12 +3211,12 @@ const VENUES_DATA = [
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "專業音響、投影設備",
     "images": {
-      "main": "",
+      "main": "photos/1151.jpg",
       "gallery": [],
       "floorPlan": "",
       "needsUpdate": true,
       "note": "照片更新中，請稍後",
-      "lastUpdated": "2026-03-08",
+      "lastUpdated": "2026-03-28",
       "photoStatus": "updating"
     },
     "verified": true
@@ -3239,12 +3239,12 @@ const VENUES_DATA = [
     "availableTimeWeekend": "09:00-18:00",
     "equipment": "專業音響、燈光",
     "images": {
-      "main": "",
+      "main": "photos/1152.jpg",
       "gallery": [],
       "floorPlan": "",
       "needsUpdate": true,
       "note": "照片更新中，請稍後",
-      "lastUpdated": "2026-03-08",
+      "lastUpdated": "2026-03-28",
       "photoStatus": "updating"
     },
     "verified": true
@@ -3295,12 +3295,12 @@ const VENUES_DATA = [
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "投影機、音響",
     "images": {
-      "main": "",
+      "main": "photos/1154.jpg",
       "gallery": [],
       "floorPlan": "",
       "needsUpdate": true,
       "note": "照片更新中，請稍後",
-      "lastUpdated": "2026-03-08",
+      "lastUpdated": "2026-03-28",
       "photoStatus": "updating"
     },
     "verified": true
@@ -3519,12 +3519,12 @@ const VENUES_DATA = [
     "availableTimeWeekend": "09:00-22:00",
     "equipment": "專業影音、LED螢幕、燈光系統",
     "images": {
-      "main": "",
+      "main": "photos/1164.jpg",
       "gallery": [],
       "floorPlan": "",
       "needsUpdate": true,
       "note": "照片更新中，請稍後",
-      "lastUpdated": "2026-03-08",
+      "lastUpdated": "2026-03-28",
       "photoStatus": "updating"
     },
     "verified": true
@@ -3547,12 +3547,12 @@ const VENUES_DATA = [
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "基本音響、投影設備",
     "images": {
-      "main": "",
+      "main": "photos/1165.jpg",
       "gallery": [],
       "floorPlan": "",
       "needsUpdate": true,
       "note": "照片更新中，請稍後",
-      "lastUpdated": "2026-03-08",
+      "lastUpdated": "2026-03-28",
       "photoStatus": "updating"
     },
     "verified": true
@@ -3771,12 +3771,12 @@ const VENUES_DATA = [
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "專業音響燈光、投影設備",
     "images": {
-      "main": "",
+      "main": "photos/1176.jpg",
       "gallery": [],
       "floorPlan": "",
       "needsUpdate": true,
       "note": "照片更新中，請稍後",
-      "lastUpdated": "2026-03-08",
+      "lastUpdated": "2026-03-28",
       "photoStatus": "updating"
     },
     "verified": true
@@ -4135,12 +4135,12 @@ const VENUES_DATA = [
     "availableTimeWeekend": "休館",
     "equipment": "投影設備、音響",
     "images": {
-      "main": "",
+      "main": "photos/1195.jpg",
       "gallery": [],
       "floorPlan": "",
       "needsUpdate": true,
       "note": "照片更新中，請稍後",
-      "lastUpdated": "2026-03-08",
+      "lastUpdated": "2026-03-28",
       "photoStatus": "updating"
     },
     "verified": true
@@ -4191,12 +4191,12 @@ const VENUES_DATA = [
     "availableTimeWeekend": "休館",
     "equipment": "專業投影設備、音響",
     "images": {
-      "main": "",
+      "main": "photos/1197.jpg",
       "gallery": [],
       "floorPlan": "",
       "needsUpdate": true,
       "note": "照片更新中，請稍後",
-      "lastUpdated": "2026-03-08",
+      "lastUpdated": "2026-03-28",
       "photoStatus": "updating"
     },
     "verified": true
@@ -4781,12 +4781,12 @@ const VENUES_DATA = [
     "availableTimeWeekend": "09:00-18:00",
     "equipment": "基本燈光、空調",
     "images": {
-      "main": "",
+      "main": "photos/1221.jpg",
       "gallery": [],
       "floorPlan": "",
       "needsUpdate": true,
       "note": "照片更新中，請稍後",
-      "lastUpdated": "2026-03-08",
+      "lastUpdated": "2026-03-28",
       "photoStatus": "updating"
     },
     "verified": true
@@ -4865,12 +4865,12 @@ const VENUES_DATA = [
     "availableTimeWeekend": "休館",
     "equipment": "投影設備、音響",
     "images": {
-      "main": "",
+      "main": "photos/1228.jpg",
       "gallery": [],
       "floorPlan": "",
       "needsUpdate": true,
       "note": "照片更新中，請稍後",
-      "lastUpdated": "2026-03-08",
+      "lastUpdated": "2026-03-28",
       "photoStatus": "updating"
     },
     "verified": true
@@ -5033,12 +5033,12 @@ const VENUES_DATA = [
     "availableTimeWeekend": "休館",
     "equipment": "投影設備、音響",
     "images": {
-      "main": "",
+      "main": "photos/1238.jpg",
       "gallery": [],
       "floorPlan": "",
       "needsUpdate": true,
       "note": "照片更新中，請稍後",
-      "lastUpdated": "2026-03-08",
+      "lastUpdated": "2026-03-28",
       "photoStatus": "updating"
     },
     "verified": true
@@ -5117,12 +5117,12 @@ const VENUES_DATA = [
     "availableTimeWeekend": "09:00-22:00",
     "equipment": "專業影音、LED螢幕、燈光系統",
     "images": {
-      "main": "",
+      "main": "photos/1242.jpg",
       "gallery": [],
       "floorPlan": "",
       "needsUpdate": true,
       "note": "照片更新中，請稍後",
-      "lastUpdated": "2026-03-08",
+      "lastUpdated": "2026-03-28",
       "photoStatus": "updating"
     },
     "verified": true
@@ -5285,12 +5285,12 @@ const VENUES_DATA = [
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "專業音響、投影設備",
     "images": {
-      "main": "",
+      "main": "photos/1252.jpg",
       "gallery": [],
       "floorPlan": "",
       "needsUpdate": true,
       "note": "照片更新中，請稍後",
-      "lastUpdated": "2026-03-08",
+      "lastUpdated": "2026-03-28",
       "photoStatus": "updating"
     },
     "verified": true
@@ -5565,12 +5565,12 @@ const VENUES_DATA = [
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "專業音響、投影設備",
     "images": {
-      "main": "",
+      "main": "photos/1263.jpg",
       "gallery": [],
       "floorPlan": "",
       "needsUpdate": true,
       "note": "照片更新中，請稍後",
-      "lastUpdated": "2026-03-08",
+      "lastUpdated": "2026-03-28",
       "photoStatus": "updating"
     },
     "verified": true
@@ -5873,7 +5873,7 @@ const VENUES_DATA = [
     "availableTimeWeekend": "09:00-17:00",
     "equipment": "專業音響、燈光",
     "images": {
-      "main": "",
+      "main": "photos/1278.jpg",
       "gallery": [
         "https://images.unsplash.com/photo-1531058020387-3be344556be6?w=800"
       ],
@@ -5881,7 +5881,8 @@ const VENUES_DATA = [
       "verifiedAt": "2026-03-01T23:42:16.988Z",
       "needsUpdate": true,
       "photoStatus": "updating",
-      "note": "照片更新中，請稍後"
+      "note": "照片更新中，請稍後",
+      "lastUpdated": "2026-03-28"
     },
     "verified": true
   },
@@ -5903,12 +5904,12 @@ const VENUES_DATA = [
     "availableTimeWeekend": "09:00-18:00",
     "equipment": "專業音響、燈光",
     "images": {
-      "main": "",
+      "main": "photos/1279.jpg",
       "gallery": [],
       "floorPlan": "",
       "needsUpdate": true,
       "note": "照片更新中，請稍後",
-      "lastUpdated": "2026-03-08",
+      "lastUpdated": "2026-03-28",
       "photoStatus": "updating"
     },
     "verified": true
@@ -6017,12 +6018,12 @@ const VENUES_DATA = [
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "投影機、音響",
     "images": {
-      "main": "",
+      "main": "photos/1283.jpg",
       "gallery": [],
       "floorPlan": "",
       "needsUpdate": true,
       "note": "照片更新中，請稍後",
-      "lastUpdated": "2026-03-08",
+      "lastUpdated": "2026-03-28",
       "photoStatus": "updating"
     },
     "verified": true
@@ -6409,12 +6410,12 @@ const VENUES_DATA = [
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "專業音響、投影設備",
     "images": {
-      "main": "",
+      "main": "photos/1297.jpg",
       "gallery": [],
       "floorPlan": "",
       "needsUpdate": true,
       "note": "照片更新中，請稍後",
-      "lastUpdated": "2026-03-08",
+      "lastUpdated": "2026-03-28",
       "photoStatus": "updating"
     },
     "verified": true
@@ -6437,12 +6438,12 @@ const VENUES_DATA = [
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "專業音響燈光、LED螢幕",
     "images": {
-      "main": "",
+      "main": "photos/1298.jpg",
       "gallery": [],
       "floorPlan": "",
       "needsUpdate": true,
       "note": "照片更新中，請稍後",
-      "lastUpdated": "2026-03-08",
+      "lastUpdated": "2026-03-28",
       "photoStatus": "updating"
     },
     "verified": true
@@ -6465,12 +6466,12 @@ const VENUES_DATA = [
     "availableTimeWeekend": "10:00-20:00",
     "equipment": "基本燈光、空調",
     "images": {
-      "main": "",
+      "main": "photos/1299.jpg",
       "gallery": [],
       "floorPlan": "",
       "needsUpdate": true,
       "note": "照片更新中，請稍後",
-      "lastUpdated": "2026-03-08",
+      "lastUpdated": "2026-03-28",
       "photoStatus": "updating"
     },
     "verified": true
@@ -6633,12 +6634,12 @@ const VENUES_DATA = [
     "availableTimeWeekend": "09:00-17:00",
     "equipment": "專業音響、燈光",
     "images": {
-      "main": "",
+      "main": "photos/1308.jpg",
       "gallery": [],
       "floorPlan": "",
       "needsUpdate": true,
       "note": "照片更新中，請稍後",
-      "lastUpdated": "2026-03-08",
+      "lastUpdated": "2026-03-28",
       "photoStatus": "updating"
     },
     "verified": true
@@ -6661,12 +6662,12 @@ const VENUES_DATA = [
     "availableTimeWeekend": "09:00-17:00",
     "equipment": "投影設備、音響",
     "images": {
-      "main": "",
+      "main": "photos/1309.jpg",
       "gallery": [],
       "floorPlan": "",
       "needsUpdate": true,
       "note": "照片更新中，請稍後",
-      "lastUpdated": "2026-03-08",
+      "lastUpdated": "2026-03-28",
       "photoStatus": "updating"
     },
     "verified": true
@@ -6801,12 +6802,12 @@ const VENUES_DATA = [
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "專業音響燈光、LED螢幕",
     "images": {
-      "main": "",
+      "main": "photos/1315.jpg",
       "gallery": [],
       "floorPlan": "",
       "needsUpdate": true,
       "note": "照片更新中，請稍後",
-      "lastUpdated": "2026-03-08",
+      "lastUpdated": "2026-03-28",
       "photoStatus": "updating"
     },
     "verified": true
@@ -6857,12 +6858,12 @@ const VENUES_DATA = [
     "availableTimeWeekend": "09:00-17:00",
     "equipment": "專業投影設備、音響",
     "images": {
-      "main": "",
+      "main": "photos/1318.jpg",
       "gallery": [],
       "floorPlan": "",
       "needsUpdate": true,
       "note": "照片更新中，請稍後",
-      "lastUpdated": "2026-03-08",
+      "lastUpdated": "2026-03-28",
       "photoStatus": "updating"
     },
     "verified": true
@@ -6913,12 +6914,12 @@ const VENUES_DATA = [
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "專業音響燈光、LED螢幕",
     "images": {
-      "main": "",
+      "main": "photos/1320.jpg",
       "gallery": [],
       "floorPlan": "",
       "needsUpdate": true,
       "note": "照片更新中，請稍後",
-      "lastUpdated": "2026-03-08",
+      "lastUpdated": "2026-03-28",
       "photoStatus": "updating"
     },
     "verified": true
@@ -6941,12 +6942,12 @@ const VENUES_DATA = [
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "專業音響、投影設備",
     "images": {
-      "main": "",
+      "main": "photos/1322.jpg",
       "gallery": [],
       "floorPlan": "",
       "needsUpdate": true,
       "note": "照片更新中，請稍後",
-      "lastUpdated": "2026-03-08",
+      "lastUpdated": "2026-03-28",
       "photoStatus": "updating"
     },
     "verified": true
@@ -7171,7 +7172,7 @@ const VENUES_DATA = [
     "availableTimeWeekend": "休館",
     "equipment": "投影設備、音響",
     "images": {
-      "main": "",
+      "main": "photos/1331.jpg",
       "gallery": [
         "https://images.unsplash.com/photo-1497215842964-222b430dc094?w=800"
       ],
@@ -7179,7 +7180,8 @@ const VENUES_DATA = [
       "verifiedAt": "2026-03-02T03:33:04.295Z",
       "needsUpdate": true,
       "photoStatus": "updating",
-      "note": "照片更新中，請稍後"
+      "note": "照片更新中，請稍後",
+      "lastUpdated": "2026-03-28"
     },
     "verified": true
   },
@@ -7201,7 +7203,7 @@ const VENUES_DATA = [
     "availableTimeWeekend": "09:00-17:00",
     "equipment": "投影機、麥克風",
     "images": {
-      "main": "",
+      "main": "photos/1332.jpg",
       "gallery": [
         "https://images.unsplash.com/photo-1497366811353-6870744d04b2?w=800"
       ],
@@ -7209,7 +7211,8 @@ const VENUES_DATA = [
       "verifiedAt": "2026-03-02T03:33:04.295Z",
       "needsUpdate": true,
       "photoStatus": "updating",
-      "note": "照片更新中，請稍後"
+      "note": "照片更新中，請稍後",
+      "lastUpdated": "2026-03-28"
     },
     "verified": true
   },
@@ -7231,12 +7234,12 @@ const VENUES_DATA = [
     "availableTimeWeekend": "06:00-22:00",
     "equipment": "音響、空調",
     "images": {
-      "main": "",
+      "main": "photos/1334.jpg",
       "gallery": [],
       "floorPlan": "",
       "needsUpdate": true,
       "note": "照片更新中，請稍後",
-      "lastUpdated": "2026-03-08",
+      "lastUpdated": "2026-03-28",
       "photoStatus": "updating"
     },
     "verified": true
@@ -7438,7 +7441,7 @@ const VENUES_DATA = [
     "availableTimeWeekend": "休館",
     "equipment": "投影設備、音響",
     "images": {
-      "main": "",
+      "main": "photos/1351.jpg",
       "gallery": [
         "https://images.unsplash.com/photo-1497366811353-6870744d04b2?w=800"
       ],
@@ -7446,7 +7449,8 @@ const VENUES_DATA = [
       "verifiedAt": "2026-03-02T03:33:04.295Z",
       "needsUpdate": true,
       "photoStatus": "updating",
-      "note": "照片更新中，請稍後"
+      "note": "照片更新中，請稍後",
+      "lastUpdated": "2026-03-28"
     },
     "verified": true
   },
@@ -7468,7 +7472,7 @@ const VENUES_DATA = [
     "availableTimeWeekend": "09:00-17:00",
     "equipment": "專業音響、燈光",
     "images": {
-      "main": "",
+      "main": "photos/1354.jpg",
       "gallery": [
         "https://images.unsplash.com/photo-1497366811353-6870744d04b2?w=800"
       ],
@@ -7476,7 +7480,8 @@ const VENUES_DATA = [
       "verifiedAt": "2026-03-02T03:33:04.295Z",
       "needsUpdate": true,
       "photoStatus": "updating",
-      "note": "照片更新中，請稍後"
+      "note": "照片更新中，請稍後",
+      "lastUpdated": "2026-03-28"
     },
     "verified": true
   },
@@ -7678,7 +7683,7 @@ const VENUES_DATA = [
     "availableTimeWeekend": "09:30-17:00",
     "equipment": "投影設備、音響",
     "images": {
-      "main": "",
+      "main": "photos/1362.jpg",
       "gallery": [
         "https://images.unsplash.com/photo-1497215842964-222b430dc094?w=800"
       ],
@@ -7686,7 +7691,8 @@ const VENUES_DATA = [
       "verifiedAt": "2026-03-02T03:33:04.295Z",
       "needsUpdate": true,
       "photoStatus": "updating",
-      "note": "照片更新中，請稍後"
+      "note": "照片更新中，請稍後",
+      "lastUpdated": "2026-03-28"
     },
     "verified": true
   },
@@ -7708,7 +7714,7 @@ const VENUES_DATA = [
     "availableTimeWeekend": "休館",
     "equipment": "投影機、麥克風",
     "images": {
-      "main": "",
+      "main": "photos/1363.jpg",
       "gallery": [
         "https://images.unsplash.com/photo-1497215842964-222b430dc094?w=800"
       ],
@@ -7716,7 +7722,8 @@ const VENUES_DATA = [
       "verifiedAt": "2026-03-02T03:33:04.295Z",
       "needsUpdate": true,
       "photoStatus": "updating",
-      "note": "照片更新中，請稍後"
+      "note": "照片更新中，請稍後",
+      "lastUpdated": "2026-03-28"
     },
     "verified": true
   },
@@ -7921,7 +7928,7 @@ const VENUES_DATA = [
     "availableTimeWeekend": "09:00-17:00",
     "equipment": "專業音響、燈光",
     "images": {
-      "main": "",
+      "main": "photos/1372.jpg",
       "gallery": [
         "https://images.unsplash.com/photo-1497366811353-6870744d04b2?w=800"
       ],
@@ -7929,7 +7936,8 @@ const VENUES_DATA = [
       "verifiedAt": "2026-03-02T03:33:04.295Z",
       "needsUpdate": true,
       "photoStatus": "updating",
-      "note": "照片更新中，請稍後"
+      "note": "照片更新中，請稍後",
+      "lastUpdated": "2026-03-28"
     },
     "verified": true
   },
@@ -8099,10 +8107,11 @@ const VENUES_DATA = [
     "availableTimeWeekend": "09:00-22:00",
     "equipment": "頂級舞台、音響燈光",
     "images": {
-      "main": "",
+      "main": "photos/1378.jpg",
       "gallery": [],
       "verified": true,
-      "verifiedAt": "2026-03-02T03:33:04.295Z"
+      "verifiedAt": "2026-03-02T03:33:04.295Z",
+      "lastUpdated": "2026-03-28"
     },
     "verified": true,
     "verifiedAt": "2026-03-22T01:56:16.559494"
@@ -8155,10 +8164,11 @@ const VENUES_DATA = [
     "availableTimeWeekend": "09:00-22:00",
     "equipment": "專業舞台、音響燈光",
     "images": {
-      "main": "",
+      "main": "photos/1380.jpg",
       "gallery": [],
       "verified": true,
-      "verifiedAt": "2026-03-02T03:33:04.295Z"
+      "verifiedAt": "2026-03-02T03:33:04.295Z",
+      "lastUpdated": "2026-03-28"
     },
     "verified": true,
     "verifiedAt": "2026-03-22T01:56:16.559503"
@@ -9121,12 +9131,12 @@ const VENUES_DATA = [
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "專業音響、投影設備",
     "images": {
-      "main": "",
+      "main": "photos/1421.jpg",
       "gallery": [],
       "floorPlan": "",
       "needsUpdate": true,
       "note": "照片更新中，請稍後",
-      "lastUpdated": "2026-03-08",
+      "lastUpdated": "2026-03-28",
       "photoStatus": "updating"
     },
     "verified": true
@@ -9149,12 +9159,12 @@ const VENUES_DATA = [
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "專業音響、投影設備",
     "images": {
-      "main": "",
+      "main": "photos/1422.jpg",
       "gallery": [],
       "floorPlan": "",
       "needsUpdate": true,
       "note": "照片更新中，請稍後",
-      "lastUpdated": "2026-03-08",
+      "lastUpdated": "2026-03-28",
       "photoStatus": "updating"
     },
     "verified": true
@@ -9177,12 +9187,12 @@ const VENUES_DATA = [
     "availableTimeWeekend": "08:00-22:00",
     "equipment": "專業音響、投影設備",
     "images": {
-      "main": "",
+      "main": "photos/1423.jpg",
       "gallery": [],
       "floorPlan": "",
       "needsUpdate": true,
       "note": "照片更新中，請稍後",
-      "lastUpdated": "2026-03-08",
+      "lastUpdated": "2026-03-28",
       "photoStatus": "updating"
     },
     "verified": true
